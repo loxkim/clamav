@@ -1,0 +1,15 @@
+VIRUS NAME: Doc.Macro.GenericHeuristic-5931846-4
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Name = "{WILDCARD_ANY_STRING}Open{WILDCARD_ANY_STRING(LENGTH>=2&&<=15)}For Binary As{WILDCARD_ANY_STRING(LENGTH>=2&&<=25)}Put{WILDCARD_ANY_STRING(LENGTH>=2&&<=35)}Close
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: (?P<obj>[^\s=]+)[\s=]+CreateObject\(.+(?P=obj)\.Open.+(?P=obj)\.Send
+     +-> CFLAGS: s

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ausiv-9879185-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+remainder="0x575220">2019-05-13T22:33:05Z</ftLastDownloadTime><SyncSetting>0x3</SyncSetting></Schedule></FeedDataCache>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+r="0x5e9f53">2019-05-13T22:33:07Z</ftLastDownloadTime></Schedule8y
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+emainder="0x53e4be">2019-05-13T22:33:07Z</ftLastDownloadTime></Schedule></FeedDataCache>/>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@SCNKDQCbEKKXFBYUFACODYJeUcFC
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@GVDaPFCFKHCeFBGNOGTSBZHaFPcD

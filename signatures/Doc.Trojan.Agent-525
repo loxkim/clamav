@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Agent-525
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.SendKeys "WM/Agent by Lord Natas", -1

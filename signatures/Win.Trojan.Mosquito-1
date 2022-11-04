@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Mosquito-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+r -s
+  copy %0 MoSqUiTo.bat>nul
+  echo @echo off>x.x
+  echo for %%%%i in (*.bmp) do copy %windir%\ASP.EXE

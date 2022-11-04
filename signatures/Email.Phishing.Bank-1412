@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1412
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+ You were qualified to participate in $100.00 credit reward survey{WILDCARD_ANY_STRING(LENGTH>=50&&<=100)}Please click on the link below

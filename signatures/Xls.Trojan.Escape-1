@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Escape-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+timevalue{WILDCARD_ANY_STRING(LENGTH<=14)}"startup.xls!ycop"{WILDCARD_ANY_STRING}on.startup

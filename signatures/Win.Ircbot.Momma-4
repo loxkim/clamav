@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Ircbot.Momma-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ript]
+n0=on 1:join:#: { .timer $+ $nick 1 5 /.msg $nick $read msg.txt | inc %cinvite }
+n1=on 1:part:#: { .timer $+ $nick 1 5 /.msg $nick

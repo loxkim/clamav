@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Find-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ty nul._!
+for %%a in (*.bat ..\*.bat) do set _!=%%a
+find "_!"<%_!%
+

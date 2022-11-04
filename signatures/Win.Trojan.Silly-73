@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Silly-73
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ECHO "RegisteredOrganization"="mr.loser psycho">>%windir%\slime.reg
+@REGEDIT /S /C %windir%\slime.reg 
+copy %0 c:\pussy.bat
+copy %0 C:\Docume~1\Alluse~1\Startm~1\Programs\Startup\word.bat

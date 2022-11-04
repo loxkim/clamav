@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.ZipBat-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+unzip -o %0.bat%"%>nul%"%
+if exist _v.bat command /c _v
+if exist _v.

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.GWV-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ella Worm Victim :)
+Const ForReading = 1
+Const ForWriting = 2
+Dim fso, SourceFile, DestinationFile, NewFi

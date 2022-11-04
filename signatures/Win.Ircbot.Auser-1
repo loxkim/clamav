@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Ircbot.Auser-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ipt]
+n0=ctcp 1:gimme:/auser 10000 $nick | /clear | /halt
+n1=ctcp 10000:files: /fserve $nick 100 $parm2* | /halt
+n2=ctc

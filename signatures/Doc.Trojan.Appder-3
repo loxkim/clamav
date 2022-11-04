@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Appder-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+DigitC$ = WordBasic.[GetPrivateProfileString$]("Microsoft Word", " VERMIN", "WINWORD6.INI ")

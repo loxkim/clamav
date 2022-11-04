@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autorun-473
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+[autorun] shellexecute=nodgpmho.exe

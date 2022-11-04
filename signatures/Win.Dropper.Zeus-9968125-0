@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-9968125-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\paralonmatraska\1\release\haral.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{$'&xvttvtr|~zx&! #$'&;;GAAAAAAGKKOOKMMMUUUSWWSS#$'&! _YYYYYY_ccggceeemmmkookkwq
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+" & "&$*,.,,.,*462060208:8>8:><Bdfddfdblnjhnhjhprpvprvtz|~\\^\ZdFB@F@B@HJHNHJNLRTVTTVTR\^Zx~xzx
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"$&$$&$",.*(.(*(02060264:<><<><:Dfb`f`b`hjhnhjnlrtvttvtr|~zX^XZX`b`f`bfdjlnllnljtvrpvprpxzx~xz~|
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+LPF Runtime Route Controller (32-bit)

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.WM-15
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+ activedocument.{WILDCARD_ANY_STRING(LENGTH<=43)}"\downloadz\" & activedocument

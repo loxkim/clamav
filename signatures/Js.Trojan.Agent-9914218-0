@@ -1,0 +1,13 @@
+VIRUS NAME: Js.Trojan.Agent-9914218-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0|1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+var j,g,y,sh,fs,spl,ch,vn,fu,wn,u,sv,p,s2,fi,ri,fr,wi,s2,ctf,gu,s2,vdr,regi,s2,fi,ex,pt,nf,cr,ob,ns
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+var wshshell,tempdir,appdatadir,path,url,is_temp,xhttp,bstrm;

@@ -1,0 +1,33 @@
+VIRUS NAME: Xls.Downloader.Generic-6934921-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Name = "nEczgcN
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+IOtu = "Start-" + "Process '%" + "TMP" + "%\10.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+LhHNN = ".Dow" + "nloadF" + "ile
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PgxBtZtt
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PgxBtZtt = "(" + "New-O" + "bject " + "System.Net.WebClient
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mWrSFd = "('http://www.s55756.smrtp.ru/loo/10.exe','%" + "TMP" + "%\10.exe

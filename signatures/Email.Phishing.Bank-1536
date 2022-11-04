@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1536
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+From: "La Banque Postale"<securite@labanquepostale.fr>{WILDCARD_ANY_STRING(LENGTH>=65&&<=70)}Message-ID: <OWNEROR-

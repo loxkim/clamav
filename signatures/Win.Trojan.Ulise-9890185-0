@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ulise-9890185-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[X] %s: LoadLibraryEx ERROR: No xinput.dll to load found
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\BB\INNLphep2w6r\b\b\tmpxgwfcr\vcs\userapicollector1\controller\controller.cpp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+** Platform SDK you are using. Download the SDK from msdn.microsoft.com
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\amigo_buildbot\builder\amigo_3_8\build\src\third_party\crashpad\crashpad\client\crash_report_database_win.cc
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\opencv\opencv-2.4.13\opencv\build\x86\vc10\bin\Debug\opencv_calib3d2413d.pdb

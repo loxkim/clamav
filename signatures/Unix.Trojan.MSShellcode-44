@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Trojan.MSShellcode-44
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+lua -e "local s=require('socket');local t=assert(s.tcp());t:conn

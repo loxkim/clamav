@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36660
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off net share disk_d=d: > nul net share disk_c=c: > nul net share disk_x=x: > nul net share disk_y=y: > nul net share disk_z=z: > nul net share disk_f=f: > nul 

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Silly-75
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+("scripting.filesystemobject"){WILDCARD_ANY_STRING(LENGTH<=39)}("silly.asp")

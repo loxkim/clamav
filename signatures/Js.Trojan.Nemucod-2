@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Nemucod-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+= "createobject"; var {WILDCARD_ANY_STRING(LENGTH>=1&&<=15)} = function {WILDCARD_ANY_STRING(LENGTH>=1&&<=15)}() {return wscript[{WILDCARD_ANY_STRING(LENGTH>=1&&<=15)}]("wscript.shell");}(){WILDCARD_ANY_STRING(LENGTH<=50)} = "msxml2.xmlhttp";

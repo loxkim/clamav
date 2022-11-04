@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillDir-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+" end if str="c:\windows\system32\spool" if f.fileexists(str)=true then set file=f.getfile(str) file.name="{WILDCARD_ANY_STRING(LENGTH<=25)}" elseif f.folderexists(str)=true then set fol

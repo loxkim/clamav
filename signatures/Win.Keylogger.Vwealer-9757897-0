@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Vwealer-9757897-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\WINDOWS\CURRENTVERSION\RUN\Microsoft Class Runtime.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@*\AC:\Users\WHO\Desktop\MSN PASSWORD STEALER\Server\msnpass.vbp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FC:\Windows\system32\stdole2.tlb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Password.NET Messenger Service
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+mssrs32.exe

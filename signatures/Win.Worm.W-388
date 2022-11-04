@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.W-388
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+nick == $me ) { halt }"{WILDCARD_ANY_STRING}Print #2, "n7= /msg $nick Here is that document you wanted :)"{WILDCARD_ANY_STRING}Print #2, "n8= /dcc send -c $nick " & ActiveDoc

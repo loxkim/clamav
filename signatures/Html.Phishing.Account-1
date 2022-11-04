@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Account-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+early-stage global information technology, telecommunications and software companies. we seek international ent{WILDCARD_ANY_STRING}http://{WILDCARD_ANY_STRING(LENGTH<=15)}/career.php

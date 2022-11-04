@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-179
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+We ask that you f{WILDCARD_IGNORE}llow at least 72 hours for the case to be investigated and we strongly recom{WILDCARD_ANY_STRING(LENGTH<=2)}nded to verify your account in that time.

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-9886690-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Field '%s' has no dataset"Circular datalinks are not allowed/Lookup information for field '%s' is incomplete
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid owner %s is already associated with %s=This control requires version 4.70 or greater of COMCTL32.DLLCannot conn
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unable to Find Procedure %sDLL/Shared Library Name not Set.Driver/Connection Registry File '%s' not foundSQL Error: Er
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
++DBX Error: Local Transaction already active&Driver (%s) not found in Cfg file (%s)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DBX Error: Result set at EOF$DBX Error: Invalid Username/Password

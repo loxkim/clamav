@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCBnc-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on *:sockopen:aftp: {{WILDCARD_ANY_STRING(LENGTH<=6)}if ($sockerr > 0) {  halt }{WILDCARD_ANY_STRING(LENGTH<=6)}sockwrite -nt $sockname GET %

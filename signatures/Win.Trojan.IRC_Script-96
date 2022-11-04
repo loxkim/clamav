@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-96
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+putcmd portscan => scan finalizado. %portscanfound $iif((%portscanfound = 1),porta,portas) $iif((%portscanfound = 1),encontrada.,encontradas.) sockclose

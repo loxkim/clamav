@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Melissa-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If ADI1.Name <> "Empirical" Or ADCL < 20 Then{WILDCARD_ANY_STRING}BreakUmOffASlice.Subject = Chr$(s1) & " Free Downloads"

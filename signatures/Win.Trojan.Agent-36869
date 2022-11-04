@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Agent-36869
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+KSafe\cfg\ksfmon.ini" , "-RHS" ) 
+FILEINSTALL ( "ksfmon.ini" , @PROGRAMFILESDIR & "\KSafe\cfg\ksfmon.ini" , 0x00000001 ) 
+DIRCREATE ( @PROGRAMFILESDIR & "\36

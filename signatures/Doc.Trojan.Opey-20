@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Opey-20
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ct.VBComponents.Count To 1 Step -1{WILDCARD_ANY_STRING}Case "ThisDocument"{WILDCARD_ANY_STRING}nents(J).CodeModule.CountOfLines{WILDCARD_ANY_STRING}ase "Reference to Nor{WILDCARD_ANY_STRING}f Not OpenDocImmunized Th

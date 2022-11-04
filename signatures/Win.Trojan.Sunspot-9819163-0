@@ -1,0 +1,168 @@
+VIRUS NAME: Win.Trojan.Sunspot-9819163-0
+TDB: Engine:55-255,FileSize:0-10485760,Target:1
+LOGICAL EXPRESSION: ((0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25)>2,3)|26|27
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] ***Step1('%ls','%ls') fails with error %#x***
+
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] Step2 fails
+
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] Step3 fails
+
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] Step4('%ls') fails
+
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] Step5('%ls') fails
+
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] Step6('%ls') fails
+
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] Step7 fails
+
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] Step8 fails
+
+ * SUBSIG ID 8
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] Step9('%ls') fails
+
+ * SUBSIG ID 9
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] Step10('%ls','%ls') fails with error %#x
+
+ * SUBSIG ID 10
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] Step11('%ls') fails
+
+ * SUBSIG ID 11
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] Step12('%ls','%ls') fails with error %#x
+
+ * SUBSIG ID 12
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] Step30 fails
+
+ * SUBSIG ID 13
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] Step14 fails with error %#x
+
+ * SUBSIG ID 14
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] Step15 fails
+
+ * SUBSIG ID 15
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] Step16 fails
+
+ * SUBSIG ID 16
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[%d] Step17 fails with error %#x
+
+ * SUBSIG ID 17
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[%d] Step18 fails with error %#x
+
+ * SUBSIG ID 18
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] Step19 fails with error %#x
+
+ * SUBSIG ID 19
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] Step20 fails
+
+ * SUBSIG ID 20
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] Step21(%d,%s,%d) fails
+
+ * SUBSIG ID 21
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] Step22 fails with error %#x
+
+ * SUBSIG ID 22
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] Step23 fails with error %#x
+
+ * SUBSIG ID 23
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[%d] Solution directory: %ls
+
+ * SUBSIG ID 24
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[%d] %04d-%02d-%02d %02d:%02d:%02d:%03d %ls
+
+ * SUBSIG ID 25
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[%d] + '%s' 
+ * SUBSIG ID 26
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{12d61a41-4b74-7610-a4d8-3028d2f56395}
+ * SUBSIG ID 27
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{56331e4d-76a3-0390-a7ee-567adf5836b7}

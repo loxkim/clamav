@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Delf-9907579-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://bradesconetempresa.com.br/ne/Pagamentos/CConsumo/entradados_CConsumo.asp?cdMenu=18&cdAmbiente=1&tpConta=C&CTRL=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://bradesconetempresa.com.br/ne/Pagamentos/Tributos/EntraDados.asp?cdMenu=164&cdAmbiente=1&tpConta=C&CTRL=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://www.ne.bradesco.com.br/boleto_ni/reqAgendamentoBoletoNaoRegistrado.do?cdConta=0&cdMenu=17&cdAmbiente=1&tpConta=C&CTRL=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xmlns:xap="http://ns.adobe.com/xap/1.0/"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ht#tps:#//w#ww.sa#nt#ande#rnet.c#om.b#r/IB#PF/Mon#taFr#a#me.as#p?UR#L=P#agina#s/Cr#editoP#ess#oal/C#P_Simu#lar.as#p?t#ipoCP

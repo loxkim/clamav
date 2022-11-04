@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-576
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+function WindowBomb(){WILDCARD_ANY_STRING}window.open("images/main.gif","Ha!" + iCounter,"width=200,height=200,resizable=yes")

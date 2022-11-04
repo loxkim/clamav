@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6781372-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+file:C:/Users/Johnny Cage/AppData/Local/Temporary Internet Files/
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+file:C:/Users/Johnny Cage/AppData/Local/Application Data/
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+file:C:/Users/Johnny Cage/AppData/Local/History/
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+file:C:/Users/Johnny Cage/Templates/
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+file:C:/Users/Johnny Cage/NTUSER.DAT

@@ -1,0 +1,23 @@
+VIRUS NAME: Legacy.Trojan.Agent-1388596
+TDB: Target:7
+LOGICAL EXPRESSION: (0&1&2&3)
+ * SUBSIG ID 0
+ +-> OFFSET: *
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"4d5a90{WILDCARD_ANY_STRING(LENGTH>=3000)})  wshshell.run 
+ * SUBSIG ID 1
+ +-> OFFSET: *
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+createobject("scripting.filesystemobject")
+ * SUBSIG ID 2
+ +-> OFFSET: *
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.write chr
+ * SUBSIG ID 3
+ +-> OFFSET: *
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+createobject("wscript.shell")

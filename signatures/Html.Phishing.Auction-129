@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-129
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we recently noticed one or more attempts to log in{WILDCARD_ANY_STRING(LENGTH<=1)}to your ebay account from a {WILDCARD_ANY_STRING(LENGTH<=4)}foreign ip address by a third party without your auth

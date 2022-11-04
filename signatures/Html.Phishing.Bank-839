@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-839
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+our security system detected an unsuccessfull access attempt to your online account from ip ad{WILDCARD_ANY_STRING(LENGTH<=35)}use the link below to proceed and access

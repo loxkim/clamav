@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Titch-6
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Shell("C:\windows\command\attrib.exe -r -h -s C:\*.*"){WILDCARD_ANY_STRING}Kill ("C:\autoexec.bat"){WILDCARD_ANY_STRING}Kill ("C:\IO.SYS")

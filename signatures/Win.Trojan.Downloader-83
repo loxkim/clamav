@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-83
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+adodb.stream{WILDCARD_ANY_STRING(LENGTH>=5&&<=200)}wscript.shell{WILDCARD_ANY_STRING(LENGTH>=5&&<=200)}shell.run

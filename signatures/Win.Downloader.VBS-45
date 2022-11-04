@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Downloader.VBS-45
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CreateObject("A"+"D"+"O"+"D"+"B"+"."+"S"+"t"+"r"+"e"+"a"+"m")
+m.Type = k
+m.Open
+m.Write i

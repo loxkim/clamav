@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Ktulu-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+o @echo @if _%prc%1==_Wake_the_Fiend goto ~Damage_Inc>>~~~~3.bat
+@
+@command.com /C ~~~1.bat
+@
+echo @ech

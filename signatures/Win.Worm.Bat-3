@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Bat-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ /add
+net user admin1 h3ll0buddy
+net localgroup administrators admin1 /add

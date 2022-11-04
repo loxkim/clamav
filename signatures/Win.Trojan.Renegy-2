@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Renegy-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If FileCheck <> "<!--popupbuddy-->" Then{WILDCARD_ANY_STRING}MakeFileSick(NewFile.path)

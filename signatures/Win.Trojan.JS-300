@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-300
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if(xl!='ou'){xl=''};var db;if(db!='i' && db!='pt'){db=''};var l='s%c.rxijpxt%'.replace(/[%x8j\.]/g, '')

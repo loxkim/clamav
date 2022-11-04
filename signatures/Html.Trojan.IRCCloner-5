@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCCloner-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n5=%uniscan.wnick [][-]{WILDCARD_ANY_STRING}cmd1.exe?/c+echo+get+sb.exe+sb.exe>>ftp.scr

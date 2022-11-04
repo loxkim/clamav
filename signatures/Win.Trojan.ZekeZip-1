@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.ZekeZip-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ip %bozo% boz.bat exefile.exe be.exe -szeke
+ren %bozo% *.dds
+del exefile.exe
+copy %file%.bat %bozo%
+ren %

@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Kusok-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+" %%w
+if errorlevel 1 type %0 >> %KUSOK%
+:PAS PARASITE
+echo begin >> pas.pas
+echo write('Computer is fuck

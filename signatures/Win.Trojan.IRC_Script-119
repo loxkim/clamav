@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-119
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if ($1 == !fileserver.access) { /msg #{WILDCARD_ANY_STRING(LENGTH<=96)}| /fserve $nick 3 C:\  }

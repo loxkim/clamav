@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Trojan.Miner-6753188-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+J7_thread_id_string_interceptEP8__db_enviP17_opaque_pthread_tPc
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Kget_thread_id_string_fnEPPFPcPS_iP17_opaque_pthread_tS0_E
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+othread_idEPFvPS_PiPP17_opaque_pthread_tE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Iapp_dispatch_intercept_c
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@message_streamEPNSt3__113basic_ostreamIcNS0_11char_traitsIcEEEE

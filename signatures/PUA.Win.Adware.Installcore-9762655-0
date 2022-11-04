@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Installcore-9762655-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ehttp://www.ssl.com/repository/SSLcomRootCertificationAuthorityRSA.crt0 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Yhttp://www.ssl.com/repository/SSL.com-Enterprise-Intermediate-codeSigning-RSA-4096-R1.crt0 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ohttp://crls.ssl.com/SSL.com-Enterprise-Intermediate-codeSigning-RSA-4096-R1.crl0
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Khttp://www.ssl.com/repository/DTNT-Intermediate-codeSigning-RSA-4096-R2.crt0 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ahttp://crls.ssl.com/DTNT-Intermediate-codeSigning-RSA-4096-R2.crl0

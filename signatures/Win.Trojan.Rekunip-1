@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Rekunip-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+c.Writeline "You've Been Infected Brought to you by the VBS.Ipnuker@mm"

@@ -1,0 +1,5 @@
+VIRUS NAME: Java.Trojan.Boonana-6
+TARGET TYPE: ANY FILE
+OFFSET: 2005
+DECODED SIGNATURE:
+ia/classprotect/a{WILDCARD_ANY_STRING(LENGTH<=1400)}ia/classprotect/ClassProtect

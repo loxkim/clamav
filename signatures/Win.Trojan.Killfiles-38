@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Killfiles-38
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+FileDelete ("C:\WINDOWS\system32\msconfig.com"){WILDCARD_ANY_STRING}FileDelete ("C:\WINDOWS\system32\regedit.com")

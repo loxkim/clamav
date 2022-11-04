@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9907500-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+l1%5l1%5l1%5l1%5l1%5l1%5l1%5i#%5l1%5l1%5l1%5l1%5l1%4l0%<l8%<l8%<l8%<l8%<l8%<l8%<l8%<l8%<lA%ElA%ElA%ElA%E
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+m<&@o$((o$((o"(&o"(&o"(*o&(*o-(1o)(-o)(-o)(-o)(-o)(-o#('o@(6o2(6o2(6o2(6o2(6o2(+o'(+oA(EoA(EoA(EoA(EoA(Eo4(8o7(;o7(@o<
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+i)"-i#"'i#"'i#"'i#"6i2"6i2"6i2"6i2"6i2"6i2"6i2"6i'"+i'"+i'"+i'"+i'"EiA"EiA"EiA"EiA"EiA"EiAf
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tA-EtA-EtA-EtA-EtA-EtA-EtA-EtA-EtA-EtA-EtA'Dn@'Dn@'Dn@'Dn@'Dn@'Dn@'Dn@'Dn@'Dn@'Dn@'Dn@'Dn@'Dn@'Dn@'Dd
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!9h5!9h5!=h9!=h9!=h;!?h;!?h;!?h;!?h;!?h;!5h1!5h1!5h1!5h1!5h1!5h1!5h1!5h8!<h8!<h8!<h8!<h8!<

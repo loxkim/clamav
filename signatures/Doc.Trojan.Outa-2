@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Outa-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+vcode = DirSys & "\win32k.dll"{WILDCARD_ANY_STRING}newMail.Attachments.Add (DirSys & "\next.exe")

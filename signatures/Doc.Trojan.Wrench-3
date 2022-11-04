@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Wrench-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Carrier(MyMacroName).Export "c:\" & MyMacroName{WILDCARD_ANY_STRING}host.Import "c:\" & MyMacroName

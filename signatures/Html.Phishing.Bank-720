@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-720
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear {WILDCARD_ANY_STRING(LENGTH<=35)} customer, <br><br>in an effort to continually mea{WILDCARD_ANY_STRING}patience will be rewarded with $20 direct deposit to your account and your name wil

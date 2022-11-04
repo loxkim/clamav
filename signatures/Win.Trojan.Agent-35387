@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35387
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+svchost.vbs"{WILDCARD_ANY_STRING(LENGTH<=4)}s1="attrib +s +h +a +r c:\windows\system32\svchost.vbs"{WILDCARD_ANY_STRING(LENGTH<=4)}If objFSO.FileExists (c) Then{WILDCARD_ANY_STRING(LENGTH<=4)}Else{WILDCARD_ANY_STRING(LENGTH<=4)}objFs.GetFile (a).Copy (c)

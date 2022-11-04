@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Downloader.Emotet-7163043-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ctpu4ftY = 512 * ChrW(EkbiAj) - 9232 - Sin(zpXA5n74) - hRdz53zQ - EOPB1 / (XVBccQd + CByte(693
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+For Each BVrY355a In WtgzQ71y4
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RcTkkOqw = CreateObject(Replace("w    i     nm    gmts:Win    32   _Pr    oc   ess", " ", "")).Create(GS0LWK + IEHlwRq, W8KjQY
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SQxNb0rO
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fd61pMMd = 512 * ChrW(zTDlnFW) - 9232 - Sin(zpXA5n74) - hRdz53zQ - EOPB1 / (TlEu4dn + CByte(693
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nUnKR8o = 512 * ChrW(YMtfHC) - 9232 - Sin(zpXA5n74) - hRdz53zQ - EOPB1 / (FoWIAw + CByte(693

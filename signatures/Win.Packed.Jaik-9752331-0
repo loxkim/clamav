@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Jaik-9752331-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GNU C 4.8.1 -m32 -mtune=generic -march=x86-64 -g -O2 -O2 -O2 -fbuilding-libgcc -fno-stack-protector -fno-exceptions
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\crossdev\gccmaster\build-tdm64\gcc\x86_64-w64-mingw32\32\libgcc
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+h:\crossdev\gccmaster\build-tdm64\runtime\mingw-w64-crt
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+h:/crossdev/gccmaster/host-toolchain-tdm64/x86_64-w64-mingw32/include/psdk_inc
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Timer.exe

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9910714-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://tempuri.org/:filename, http://tempuri.org/:fileHash, http://tempuri.org/:target, http://tempuri.org/:taskName
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PolicySync.RequestClientPoliciesResult:http://tempuri.org/:RequestClientPoliciesResponse:False:
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://tempuri.org/:RequestClientPoliciesResult, http://tempuri.org/:serverNonce, http://tempuri.org/:signatures
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://tempuri.org/:RemoteOperationInformation
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://tempuri.org/:certHash, http://tempuri.org/:signatureData

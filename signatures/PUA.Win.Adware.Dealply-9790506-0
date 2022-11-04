@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Dealply-9790506-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s-microsoft-com:asm.v3"><security> <requestedPrivileges> <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity type="win32" version="0.2.4.8" name="higatepuge.exe" processorArchitecture="X86"/><trustInfo xmlns="u
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Bitmap image is not valid$''%s'' is not a valid component name
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+5,666@6]6N73869h9+:P:T:\:`:h:l:t:x:
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Thread Error: %s (%d)-Cannot terminate an externally created thread,Cannot wait for an externally created thread$No help

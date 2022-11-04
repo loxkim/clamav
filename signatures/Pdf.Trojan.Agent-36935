@@ -1,0 +1,6 @@
+VIRUS NAME: Pdf.Trojan.Agent-36935
+FUNCTIONALITY LEVEL: 51..70
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+;s[s.length]=e\(x\);e\(s[b.concat\('n'\)]\(""\)\);)>>

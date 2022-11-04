@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Editstar-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if %os%==windows_nt goto winnt %winbootdir%\regedit.exe /s r1.reg %winbootdir%\regedit.exe /s

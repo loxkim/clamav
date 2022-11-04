@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35855
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+var n001="";var n002=n000.slice(38,14236);for(k=38;k<14236;k+=2)

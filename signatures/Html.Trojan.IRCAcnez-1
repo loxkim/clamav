@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCAcnez-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ random) { sockwrite -nt inviter* NICK $read explorer.scr }  |  //sockwrite -nt inviter* N

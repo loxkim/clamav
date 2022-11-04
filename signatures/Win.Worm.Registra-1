@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Registra-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ecute = "fso.copyfile WSc"&"ript.Scrip"&"tFul"&"lname, "&Chr(34)&"j:\netlog.vbs"&C

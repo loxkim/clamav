@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Xolox-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n0=on 1:JOIN:#:{{WILDCARD_ANY_STRING}n2=/dcc send $nick c:\festival.exe

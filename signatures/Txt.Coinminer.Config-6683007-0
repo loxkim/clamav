@@ -1,0 +1,13 @@
+VIRUS NAME: Txt.Coinminer.Config-6683007-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{ "algo": "cryptonight",
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ "user": "rocke@live.cn",

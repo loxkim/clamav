@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hope-10
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+With .Item(1){WILDCARD_ANY_STRING}With .CodeModule{WILDCARD_ANY_STRING}.DeleteLines 1, .CountOfLines{WILDCARD_ANY_STRING}.AddFromString x{WILDCARD_ANY_STRING}.VirusProtection = Int(Rnd * 0)

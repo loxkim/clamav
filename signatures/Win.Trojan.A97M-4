@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.A97M-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.MacrovirusProtection = False{WILDCARD_ANY_STRING(LENGTH<=89)}Dir("*.mdb", vb

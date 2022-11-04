@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Vp-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CheckInWindow{WILDCARD_ANY_STRING}If Not vpInNormal Then WordBasic.MacroCopy WordBasic.[MacroFileName$]("AutoOpen") + ":AutoOpen", "Normal:AutoOpen"

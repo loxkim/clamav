@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NSI-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f Left(ActiveDocument.Name, 8) <> Mid$(macic.lines(1, 1), 13, 8) Then ActiveDocument.SaveAs FileName:=Ac

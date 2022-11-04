@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCSmall-1
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+on 1:TEXT:!download*:%chan: { msg %chan downloading $2 $+ ... | download Download $2 $mircdir }

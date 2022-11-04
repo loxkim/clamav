@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Lys-7
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for %%i in (*.bat) do copy bat.lys{WILDCARD_ANY_STRING}del bat.lys

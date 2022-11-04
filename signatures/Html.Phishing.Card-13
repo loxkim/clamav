@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Card-13
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+e cannot <br>guarantee stolen money repayment. <br>thank you for your attention. <br><br><br>click <a h{WILDCARD_ANY_STRING(LENGTH<=100)}">here</a>and update y

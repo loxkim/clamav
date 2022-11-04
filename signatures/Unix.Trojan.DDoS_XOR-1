@@ -1,0 +1,13 @@
+VIRUS NAME: Unix.Trojan.DDoS_XOR-1
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sed -i '/\/etc\/cron.hourly\/{WILDCARD_ANY_STRING(LENGTH<=10)}.sh/d' /etc/crontab && echo '*/3 * * * * root /etc/cron.hourly/{WILDCARD_ANY_STRING(LENGTH<=10)}.sh' >> /etc/crontab
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; TencentTraveler ; .NET CLR 1.1.4322)

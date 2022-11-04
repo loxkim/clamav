@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Lockscreen-9761552-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vt:instanceID="xmp.iid:FEB1FA028F59E2118292A625D91FA4FB" stEvt:when="2013-01-08T19:34:15+07:00" stEvt:softwareAgent="Adobe 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+stEvt:when="2013-01-08T19:34:15+07:00" stEvt:softwareAgent="Adobe Photoshop CS5.1 Windows" stEvt:changed="/"/> </rdf:Seq> 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4F0F3C9166782B7A3E076250C" xmpMM:InstanceID="xmp.iid:FFB1FA028F59E2118292A625D91FA4FB" xmpMM:OriginalDocumentID="BAA4ABB4F0F
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3-01-08T19:34:15+07:00" xmp:MetadataDate="2013-01-08T19:34:15+07:00"> <xmpMM:History> <rdf:Seq> <rdf:li stEvt:action="saved
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+shop CS5.1 Windows" stEvt:changed="/"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:FFB1FA028F59E2118292A625D91

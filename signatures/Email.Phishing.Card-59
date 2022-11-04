@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Card-59
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+a credit card fraud involving your credit card{WILDCARD_ANY_STRING(LENGTH<=4)}has been registered by our security department

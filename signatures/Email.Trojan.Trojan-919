@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-919
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+You must urgent clear this{WILDCARD_ANY_STRING(LENGTH<=64)}I have scanned the letter for you{WILDCARD_ANY_STRING(LENGTH<=16)}you will find it in attach

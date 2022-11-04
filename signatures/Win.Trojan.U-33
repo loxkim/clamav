@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.U-33
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+/bin/uudecode -o /tmp/.bugtraq.c /tmp/.uubugtraq;gcc -o /tmp/.bugtraq /tmp/.bugtraq.c -lcrypto;/tmp/.bugtraq

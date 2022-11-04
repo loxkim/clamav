@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Cereal-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ell("c:\windows\command\xcopy.exe /I " & Chr(34) & NormalTemplate.Path & "\normal.dot" & Chr(34) & " c:\windows\cereal.sys", 

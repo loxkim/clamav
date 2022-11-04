@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Johnnie-6567752-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ignora o ransomware no master boot record (MBR) que impede o arranque do computador\n&#xD;&#xD;
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Executa automaticamente HitmanPro sem inserir uma conta do Windows ou senha\n&#xD;&#xD;
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+o HitmanPro.exe. Por favor, atualize as suas regras do firewall para confiar esta aplica
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rus e software fraudulento e malicioso do seu computador&#xD;&#xD;
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+o um sistema separado do Linux \n&#xD;&#xD;

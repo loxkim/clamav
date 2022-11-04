@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Tool.VBS-23
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ctim.path,2,1)")
+			newDoc.write("<br>fd.write infectedCode<br>fd.close<br>cont=1<br>")
+			newDoc.write("end

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Trojan.Generic-6651525-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Public Declare Function CallWindowProcA Lib "\WINDOWS\System32\USER32.DlL" (ByVal 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\#~C:\Windows\system32\Actskin4.oca
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Declare Function GetModuleFileNameA Lib "kernel32 " (ByVal 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Gerador Anonymous V1.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Mid(strInput, first, 1) = Chr(Asc(Mid(strInput, first, 1)) - second)

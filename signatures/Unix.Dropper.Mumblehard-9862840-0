@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Dropper.Mumblehard-9862840-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'f(8|zlzd~ys/>,210J6:8B>hynmvnl.:~"oigngipu|dpffghK7Lpw~shjCX
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+L%21*++ky3m"*")"*-*=1>05#%$aQ!W#Uhd#,`~n{}y+(~k|cx}}9+m3pxt
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+`qnc7,<"httk|an;9<7<!!vjfylkp},:pwfwq&:6);',ea|d1/-4=qrlquhh
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hhwk}vD&6qzw 0%#ug!.8-kl|Y3Y%':(8*-*-*{ubf>*nbth,)fG-C?
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+,-B%4 F6= >K-/<;P$!!EU%2?/Z.//L_QKSA%GKZD*_I_C/SY^W=<-

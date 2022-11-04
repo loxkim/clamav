@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Startpage-506
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+0;s<c.1f;s++){8(!k(r,c[s])){p.regdelete("1p\\\\1i\\\\19\\\\1d\\\\1e\\\\14\\\\1x\\\\2d\\\\"+c[s]+"\\\\")}}}6(t){}};2 f=3(){5{p.9("1a\\\\1i\\\\19\\\\1d\\\\1e\\\\policies\\\\14\\\\nointerneticon",1,"1q")}6(r){}5{p.9("1a\\\\1i\\\\19\\\\1d\\\\1e\\\\14\\\\startpage\\\\2l",255,"reg_binary")}6(r){}5{p.9("1a\\\\2m\\\\19\\\\1d\\\\1e\\\\14\\\\2n\\\\classicstartmenu",1,"1q")}6(r){}5{p.9("1a\\\\2m\\\\19\\\\1d\\\\1e\\\\14\\\\2n\\\\newstartpanel\\\\{871c5380-42a0-1069-a2ea-08002

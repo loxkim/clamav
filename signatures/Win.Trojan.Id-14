@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-14
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+echo 'ostype:'.php_os.'<br>'; echo 'safemode:'; if (strtolower(@ini_get('safe_mode')) == 'on') echo 'on'; else echo 'off';

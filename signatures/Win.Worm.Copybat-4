@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Copybat-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rundll32 keyboard,disable{WILDCARD_ANY_STRING}cho.set windir=format c:/u/q/autotest>>c:\co

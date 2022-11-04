@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6828158-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+3) De vos deux mains, saisissez la partie la plus visible du support (par exemple, le milieu) et retirez-le de l'imprima
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+es. Suivez les instructions ci-dessous pour imprimer les pages impaires (verso).
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+4. Si l'erreur se reproduit, contactez le support technique
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+, replacez la cartouche d'impression, puis fermez la porte de la cartouche d'impression.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Bourrage papier en sortie sur l'appareil %s. Veuillez suivre les instructions ci-dessous : 

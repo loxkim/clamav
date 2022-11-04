@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Barisada-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+myile = Dir(Application.StartupPath & "\khm.xls"){WILDCARD_ANY_STRING}omponents.Item("thisworkbook").CodeModule.Lines(1, eline)

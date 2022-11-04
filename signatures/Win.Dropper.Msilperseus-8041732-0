@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Msilperseus-8041732-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+dynamic method does not support fault clause
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+,,,8@@@e@@@e@@@e@@@e@@@e@@@e@@@e???e???e???e???e???e???e???e???e???e>>>e>>>e>>>e>>>e>>>e>>>e
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+unexpected OperandType 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wLoader&
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4qyjfyyf^Ucvjyji4qQR^SBBBL_vvcUa4q.++++--/_nnMNb4qD0000000Lc^jyt4

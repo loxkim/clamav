@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Startpage-222
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+z.msie.tv                                                      ';
+ domain=domain.substr(0,domain.indexOf(' '));
+ doc

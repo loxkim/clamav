@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bypassshell-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if (empty($_post['command'] ) ) { }else{ if (substr(php_os, 0, 3) == 'win') { $program = isset($_post['program']) ? $_post['program'] : "c:\winnt\system32\cmd.exe"; $prog = isset($_post['prog']) ? $_post['prog']

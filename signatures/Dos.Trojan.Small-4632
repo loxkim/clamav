@@ -1,0 +1,6 @@
+VIRUS NAME: Dos.Trojan.Small-4632
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if exist "%homedrive%\Program Files\ESET\" call nood.cmd
+if exist "%homedrive%\Program Files\Kaspersky Lab\" call kacper.cmd

@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.RSPlug-17
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+AdobeFlash{WILDCARD_ANY_STRING}sed 's/applemac/AdobeFlash/' | sed 's/bsd/7000/' | sed 's/gnu/'$type'

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Carpe-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nrmal.Replaceline 67, "Sub Elpaso()": nrmal.Replaceline 105, "Sub Workbook_Dactivate": nrmal.Save

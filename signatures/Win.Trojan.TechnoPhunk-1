@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.TechnoPhunk-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+r file in *
+do
+if test -x $file
+ then
+if test -w $file
+ then
+if test -f $file
+ then
+

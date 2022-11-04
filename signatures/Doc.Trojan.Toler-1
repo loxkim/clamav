@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Toler-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ActiveDocument.Range(0, 0).InsertBefore "MUD Forever! :-)"{WILDCARD_ANY_STRING}Z.Lines(I, 1) = "' Tolerance!" Then

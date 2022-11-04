@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Timofonica-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Mail.Attachments.Add("{WILDCARD_ANY_STRING}Destinatario = CarpetaDeDirecciones.AddressEntries(Contador){WILDCARD_ANY_STRING}Mail.Recipients.Add(Destinatario){WILDCARD_ANY_STRING}Mail.Send

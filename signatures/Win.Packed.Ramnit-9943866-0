@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Ramnit-9943866-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<xapMM:DocumentID>adobe:docid:photoshop:d2c1e0d3-5246-11d9-96ef-e8d4a9eb2057</xapMM:DocumentID>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<rdf:Description about='uuid:ccfead5f-524c-11d9-96ef-e8d4a9eb2057'
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%System%
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\cdc-health\setuser.ec
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+data\user.dat)

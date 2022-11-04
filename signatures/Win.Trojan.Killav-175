@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Killav-175
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if processexists ("avp.exe") then processclose ("avp.exe") endif

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1365
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+atualiza=E7=E3o de seus dados cadastrais atrav=E9s do Internet Bank={WILDCARD_ANY_STRING(LENGTH<=2)}ing Caixa clicando aqui ou na imagem abaixo

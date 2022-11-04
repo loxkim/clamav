@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Agent-36288
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@echo off
+:d
+del "C:\{WILDCARD_ANY_STRING}if exist "C:\{WILDCARD_ANY_STRING}goto d
+del /F "C:\Users\{WILDCARD_ANY_STRING}.bat"

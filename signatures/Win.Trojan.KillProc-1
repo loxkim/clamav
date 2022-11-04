@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillProc-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+taskkill /f /im mdm.exe >nul taskkill /f /im csrss.exe >nu

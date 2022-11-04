@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.BabukBuilder-9875167-0
+TDB: Engine:55-255,FileSize:1000-1000000,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Usage: builder.exe FolderName
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+note.txt can't be bigger than 8192 bytes, bye!

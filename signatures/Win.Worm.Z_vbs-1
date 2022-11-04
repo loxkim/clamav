@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Z_vbs-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+h)" & vbcrlf
+TSO.write "dim a" & vbcrlf
+TSO.write "a=Array(>u,>u,>u,>u,>u,>u,>u,>u,>u,>u,>u,>u

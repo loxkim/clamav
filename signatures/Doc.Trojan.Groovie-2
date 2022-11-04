@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Groovie-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ActiveVBProject.VBComponents("{WILDCARD_ANY_STRING}").Export "{WILDCARD_ANY_STRING}If NormInstalled = False And NormReadOnly = False Then{WILDCARD_ANY_STRING}With .VBComponents.Import("

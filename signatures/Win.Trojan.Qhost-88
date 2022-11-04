@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Qhost-88
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+0.1 rads.mcafee.com
+127.0.0.1 secure.nai.com
+127.0.0.1 securityresponse.symantec.com
+127.0.0.1 symantec.com
+127.0.0.1 trendmicro.com

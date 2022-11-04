@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Delf-9849757-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\Software\Microsoft\Windows\CurrentVersion\Internet Settings\User Agent\Post Platform
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@ Outside address*Error on call Winsock2 library function %s&Error on loading Winsock2 library (%s)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+adobe.com/tiff/1.0/" xmlns:exif="http://ns.adobe.com/exif/1.0/" dc:format="image/jpeg" xap:CreatorTool="Adobe Photoshop CS
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ttp://purl.org/dc/elements/1.1/" xmlns:xap="http://ns.adobe.com/xap/1.0/" xmlns:xapMM="http://ns.adobe.com/xap/1.0/mm/" xml

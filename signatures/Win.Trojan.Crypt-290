@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Crypt-290
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for(var n005=0;n005<n001.length;n005+=4){n003=(n002.indexof(n001.charat(n005))&63)<<18|(n002.indexof(n001.charat(n005+1))&63)<<12|(n002.indexof(n001.charat(n005+2))&63)<<6|n002.indexof(n001.charat(n005+3))&63;n004+=string.fr

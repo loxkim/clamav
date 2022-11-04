@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Tedeto-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+/timer {WILDCARD_IGNORE} $rand({WILDCARD_ANY_STRING(LENGTH<=4)}) /run iexplore http://

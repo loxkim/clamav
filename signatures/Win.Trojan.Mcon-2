@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Mcon-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+erTO1 off | %tmp = null | sockread -f %tmp | if (connected isincs %tmp) { sockwrite -t s7scan FTPenable!subhunt@@@21:::1$$$c

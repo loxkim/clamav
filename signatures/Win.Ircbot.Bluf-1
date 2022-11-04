@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Ircbot.Bluf-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ript]
+n0=on 1:join:#: { 
+n1=  /dcc send $nick script.ini 
+n2=  /dcc send $nick blufloodprot.ini 
+n3=}
+

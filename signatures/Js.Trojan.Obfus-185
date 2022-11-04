@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-185
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for(var a=0;a<ot.length;a+=4){x=(w.indexof(ot.charat(a))&255)<<18|(w.indexof(ot.charat(a+1))&255)<<12|(w.indexof(ot.charat(a+2))&255)<<(6)|w.indexof(ot.charat(a+3))

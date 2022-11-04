@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Msilmamut-9958037-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FBossBotnet.Client._f0a31abea4e04403855bf558083568b1+<ExecuteAsync>d__4
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ABossBotnet.Client._c91aacd2869d41de8fa93fb0946a292a+<Execute>d__2
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/home/Bossnetwork/Builds/main/src/BossBotnet.Client/obj/Debug/netcoreapp3.1/win-x86/sqlsrvs.pdb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+sqlsrvs.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Execute>d__2

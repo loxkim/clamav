@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Debor-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+".txt", True)
+CTF.Write "I'm very bored!"
+CTF.Close
+Next
+FSO.CopyFile Wscript.ScriptFullName, "A:\Bored.vbs

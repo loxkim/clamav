@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Fobiai-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+If month(now) = 10 and day(now) = 31 then
+For zchxxrl = 0 to 1000
+Fobiawshchxxrl.run ("C:\Windows\notepad.exe")
+Next
+End

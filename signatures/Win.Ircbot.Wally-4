@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Ircbot.Wally-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+) = "C:\Windows\Backup.vbs"
+    mircinstalled = Dir("C:\Mirc\mirc32.exe")
+    If mircinstalled = "" Then

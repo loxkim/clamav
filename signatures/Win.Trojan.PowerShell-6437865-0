@@ -1,0 +1,20 @@
+VIRUS NAME: Win.Trojan.PowerShell-6437865-0
+TDB: Engine:81-255,Target:3
+LOGICAL EXPRESSION: 2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<script>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+flashplayer.jse
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1
+     +-> REGEX: n\d+="\
+     +-> CFLAGS: \d+\/\d+\/flashplayer\.jse"/

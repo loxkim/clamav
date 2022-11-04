@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Era-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+oCopy WordBasic.[FileName$]() + ":AutoOpen", "global:AutoOpen"{WILDCARD_ANY_STRING}ic.MacroCopy "global:AutoOpen", WordBasic.[FileName$]() + ":AutoOp

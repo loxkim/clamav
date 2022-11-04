@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-903
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+during a recent update and verification of {WILDCARD_ANY_STRING(LENGTH<=30)}banking accounts, our system was unable to fully validate{WILDCARD_ANY_STRING}please update these fields to contin

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Poly-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if>>poly.vbs %gbegj% set bb=ff.opentextfile(%0,2)>>poly.vbs %gbegj% bb.write rand2>>poly.vbs @cscript poly.vbs @del poly.vbs

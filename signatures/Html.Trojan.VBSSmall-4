@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSSmall-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+'Function Vmfe2(Sscript):For VmfeHit = 1 To Len(Sscript):Vmfenum = Asc(Mid(Sscript, VmfeHit, 1)) Xor Len("VMF Encrypter 2"):Vmfertn = Vmfertn & Chr(Vmfenum):Vmfe2 = Vmfertn:Next:End Function

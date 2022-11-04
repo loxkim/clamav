@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Trojan-355
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Module).CodeModule.Lines(CodeLines, 1) & ": AIDS"

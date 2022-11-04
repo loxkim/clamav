@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Rainbow-14
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$string=strtok(fread(fopen(__FILE__,'r'), filesize(__FILE__)),chr(13).chr(10));{WILDCARD_ANY_STRING}, 25),'RainBow')){rewind($

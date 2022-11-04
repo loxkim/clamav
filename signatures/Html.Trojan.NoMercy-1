@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.NoMercy-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Day(Now()) = 13 or Day(Now()) = 30 Then
+Message_Text   = "God, why y

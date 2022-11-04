@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.VBS-210
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+.add "%windir%\littlelove.txt.bat"

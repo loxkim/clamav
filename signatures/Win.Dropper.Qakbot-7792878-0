@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Qakbot-7792878-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+phonon4.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+X:\JfwE8uxLeZi\svhy1\J6ppMRCTa\Eh4Tg\XUpfrbGAu.wav
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RYD]FoT RYC^EpS!QZC^EpS!QZC]FoT RYD]FoT RYD]EpS!QZC^EpS!QZC^EoT RYD]FoT RYD]FoS!QZC^EpS!QZC^EpS RYD]FoT RYD]FoT QZC^EpS!QZC^EpS
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+u=-+_.j u?--_0j"uA-/_2j$uC-1_4j&uE-3_6j(uG-5_8j*uI-7_:j,uK-9_<j.uM-;_>j0u
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+^$dtt5'b^&dWt7'x^(dZt9'g^*djt;'e^,dkt='j^.d_t?'l^0datA'n^2dctC'p^4detE'

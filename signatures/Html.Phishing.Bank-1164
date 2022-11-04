@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1164
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+access to online banking will be restricted if you fail to update{WILDCARD_ANY_STRING(LENGTH<=7)}and re-confirm your membership details

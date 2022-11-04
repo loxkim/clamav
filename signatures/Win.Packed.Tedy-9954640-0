@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Tedy-9954640-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PublicKeyToken=e25603a88b3aa7da|Microsoft.Win32.TaskScheduler.dll|2933BB0BF2E455EAECFBF71533CC7851DD0DCEB8|333824
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+KeyLogger1.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.microsoft.win32.taskscheduler.dll.compressed|2.10.0.0|Microsoft.Win32.TaskScheduler, Version=2.10.0.0, Culture=neutral, 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+costura.microsoft.win32.taskscheduler.dll.compressed
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.zh-cn.microsoft.win32.taskscheduler.resources.dll.compressed|2.10.0.0|Microsoft.Win32.TaskScheduler.resources, Version=2

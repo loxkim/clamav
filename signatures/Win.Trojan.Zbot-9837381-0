@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zbot-9837381-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bgaSxpOttDvJOlqxzu3zG2gKMvSWhE5ZjvUlRfjZ1yXtskvZAHKgsNjQcsKeCbDhdn2WNaf4M9bhjWiHTWFXWtmyw3wr4RHLJeea
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WEDtdLCKEPna3gB0W65XE9btsRdo4ZQvYcgRCgEcXCIcrIsD4lDeLEjfa99xyNBnVM2RfdZRAjJOMhZLuDHq6vFwHoW
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6zLjSQKDJaHlLCugbfLMxXMpvfyFtHqUpEoiaKrLaCO70xsIQsXhPbzloIwt6zhd95H0
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+This indicates a bug in your application. It is most likely the result of calling an MSI
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+H8WdVwbFLfT41h1goKtwNe2zJsSbt4IezyMQoLGyopf42W1y7R

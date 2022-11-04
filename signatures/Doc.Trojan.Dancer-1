@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Dancer-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nents("dancer").Export "c:\dancer.wav"{WILDCARD_ANY_STRING}access_violation trapped at 1b:774a50e5", vbOKOnly + vbCritical

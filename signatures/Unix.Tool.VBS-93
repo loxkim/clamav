@@ -1,0 +1,6 @@
+VIRUS NAME: Unix.Tool.VBS-93
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+on) - 11) path = mid(path, 9) set appleobject = document.applets("lhw") appleobject.setclsid ("{f935dc22-1cf0-11d0-adb9-00c04fd58a0b}") appleobject.createinstance() set wsshell

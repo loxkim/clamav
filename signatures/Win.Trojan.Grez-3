@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Grez-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WshShell.Run "Cmd.exe /c RRPC.exe -d " & left(p1, 15) & " -t "& T & " -h " & Lo & " -P 8130",0

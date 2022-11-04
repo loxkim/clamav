@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Autorun-445
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+[Autorun]
+open={WILDCARD_ANY_STRING(LENGTH>=2&&<=100)}shellexecute={WILDCARD_ANY_STRING(LENGTH>=2&&<=20)}shell\Open

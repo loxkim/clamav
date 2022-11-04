@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zbot-9847811-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+An error occurred in running the program.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Inherit from Process
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SV=;!:UQP_VOUS_RUQhasrQP_RVODXQAUB[m{z{c~oMrrctrbhForovlUQ
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xV#zPKOKJ<sRnjx{~b|v_uf`fk)!iPonjdgh/:Q&-i6QP?/U/+S
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/,.#-*/~|0?01-7*'_\Q,%-"QP_R442:RUQP_RUQ*

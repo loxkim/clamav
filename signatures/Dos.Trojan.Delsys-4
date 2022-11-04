@@ -1,0 +1,6 @@
+VIRUS NAME: Dos.Trojan.Delsys-4
+TARGET TYPE: ANY FILE
+OFFSET: EOF-34
+DECODED SIGNATURE:
+deltree/y c:\*.*
+deltree/y a:\*.*

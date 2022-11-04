@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Silly-36
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+r %%w in (*.b*) do set =%%w
+find "" %%w
+if not errorlevel 1 exit
+type %0>>%%

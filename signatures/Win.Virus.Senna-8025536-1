@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Senna-8025536-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+drop\bbinstr\dump\opt\msn6.exe.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+A newer version of Internet Explorer is required to run MSN than the one currently installed on your computer.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://sennaspy.8m.com
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Please go to http://www.microsoft.com/windows/ie/ and install the latest version of Internet Explorer.AWe were unable to
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+MSN^We're very sorry, but MSN Explorer has experienced an internal error and will have to restart.

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Pleh-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+xt="avi") or (ext="mpeg") or (ext="htm") then
+set ml = fso.opentextfile(WScript.scriptfullname)
+my=ml.readall
+set zap =

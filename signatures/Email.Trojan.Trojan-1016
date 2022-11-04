@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-1016
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Subject: Transaction is completed{WILDCARD_ANY_STRING(LENGTH>=790&&<=800)}If the transaction was made by mistake please contact our customer service. Payment receipt is attached

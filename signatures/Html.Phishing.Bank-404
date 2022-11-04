@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-404
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<body bgcolor="#ffff66"><p align="left"><img border="0" src="https://wumt.weste{WILDCARD_ANY_STRING(LENGTH<=150)}="48"></p><p align="left"><font size="4">dear

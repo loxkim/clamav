@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Remcos-9442754-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error setting %s.Count8Listbox (%s) style must be virtual in order to set Count"Unable to find a Table Of Contents
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+$Operation not allowed on sorted list Too many rows or columns deleted$%s not in a class registration group
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+OLE error %.8x.Method '%s' not supported by automation object/Variant does not reference an automation object7Dispatch m
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RwhzrjxtqffSFpKf3xaj36Ia7.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnExecuteMacro

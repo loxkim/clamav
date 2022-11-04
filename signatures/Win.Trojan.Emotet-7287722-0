@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Emotet-7287722-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\users\user\documents\visual studio 2005\projects\eassxcdfg\release\EASSXCDFG.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INPROC.EXE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+6The file is not supported by a Document Object server.A%1
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+This program does not run stand alone.  It is meant only to be used as an automation server.  See the IPDRIVE sample for
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2aE5uqnkR6TMNLTxLrUJuaZFuDGQqLlXaM46pLU2XEJJnGRFzCEE9zicg8kXLPmlTCCbhiDlLjXmqz9xz4frzkKkwwi9cy/yzENlczGq6WtFHq67MFJO8WxGe6nhQAxW

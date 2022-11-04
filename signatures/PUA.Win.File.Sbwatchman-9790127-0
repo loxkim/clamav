@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Sbwatchman-9790127-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://api.searchpredict.com/api/?rqtype=ffplugin&siteID=8661&dbCode=1&command={searchTerms}
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+on processes, and in a way which does not circumvent user consent. I acknowledge that any attempt to change this file from outsi
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unknown pending write error. Size of sent data is equal to size of processed data.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+OPERA.EXE
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+chrome.exe" --remote-debugging-port=9298

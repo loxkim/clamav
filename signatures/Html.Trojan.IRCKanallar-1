@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCKanallar-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+on *:ping:{ ctcp $me ping } raw 474:*:{ join $read un.dll } raw 433:*:{ nick $read nc.dll } on 1:exit:{ run kernel.exe }

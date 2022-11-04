@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Mawanella-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+py(dirsystem&"\Mawanella.vbs")
+     
+Set OutlookA = CreateObject("Outlook.Application")
+If OutlookA = "Outlook

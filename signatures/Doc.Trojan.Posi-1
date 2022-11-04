@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Posi-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Application.NormalTemplate.VBProject.VBComponents("Poison_Heart_Class").Export (temp1)

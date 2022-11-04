@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Snake-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+document.layers[0].top     = headY+Math.cos(20*Math.sin(t/20))*100*(Math.sin(10+t/10)+0.2)*Math.cos(t/10);

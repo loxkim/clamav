@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Redlof-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Execute("Dim KeyArr(3),ThisText"&vbCrLf&"KeyArr(0){WILDCARD_ANY_STRING}Execute(ThisText)

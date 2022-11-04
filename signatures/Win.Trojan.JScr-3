@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.JScr-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+leFiles.item().path,1)
+var Marker=VictimFile.Read(36)
+var VictimCode=Marker+VictimFile.ReadAll()
+Victim

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mirat-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If zi = 2 Then MsgBox "Stimpy is happy to see you !¡"{WILDCARD_ANY_STRING}If Application.UserName = "Stimpy" Then

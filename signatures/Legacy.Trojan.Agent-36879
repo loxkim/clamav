@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-36879
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+/set %mimicstitch $2- } if ($1 == !!setspam) && ($nick == %m) { if ($2 == $null) { /msg # !!setspam error! | halt }

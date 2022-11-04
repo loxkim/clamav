@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9946205-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+audio/vnd.qcelp|audio/x-gsm|audio/AMR|audio/aac|audio/x-aac|audio/x-caf|audio/ac3|audio/x-ac3
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rSALzIleilpntatFuiiiugop
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FSAeiIFlslpntlteusFaoIpnftmnScrAo
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cpoaom rgainsn r e Drib u tO Snn
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eilnntao

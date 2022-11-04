@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Internal-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If TestString <> "<html> <!--1nternal-->" then{WILDCARD_ANY_STRING}window.status = "HTML.NoWarn v0.11 /1nternal"

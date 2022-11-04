@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Elex-9786750-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?GetProcessInfo@SCommuMod@commumod@elex@@SAHPAUtagICOM_GETPROCESSINFO@commu@3@PAPAUtagICOM_GETPROCESSINFORETURN@53@@Z
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+osApi.ExecuteEx path=%s cmdline=%s curdir=%s Admin=%d Wait=%d Show=%d
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+osApi.ExecuteDll path=%s procname=%s param=%s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?GetProcessSnapshots@SCommuMod@commumod@elex@@SAHPAPAUtagICOM_PROCESSSNAPSHOTS@commu@3@@Z
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+osApi.StartService cmdline=%s result=fail

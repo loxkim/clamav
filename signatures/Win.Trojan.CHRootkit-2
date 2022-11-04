@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.CHRootkit-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+javascript:alert("这不是select命令\n请打开数据库看运行结果\n海阳顶端网lcx\n这个你可以当做一个access版sql后门:-)")

@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Sofa-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nfectAdrive
+ :go_on_infecting
+ ECHO. >>temp.bat
+ ECHO GOTO xxxx$$$$END >>temp.bat
+ ECHO :virustart >>temp.b

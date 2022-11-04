@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Microb-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+FuncName = "uzkresti"{WILDCARD_ANY_STRING}rences.AddFromFile "c:\program files\common files\microsoft shared\vba\vbeext1.olb"

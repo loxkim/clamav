@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Bulz-9950607-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Method ID3D11VideoProcessorOutputView::GetPrivateData failed execution during traversal with error 0x%x
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ACS: Cannot call InitializeSecurityDescriptor(). GetProcAddress() failed on advapi32.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\re\jdk7u67\1368\hotspot\src\cpu\x86\vm\templateInterpreter_x86_32.cpp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\buildbot\slave\workdir\repos\opera1\chromium\src\ui/accessibility/ax_tree_serializer.h
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\re\jdk7u67\1368\hotspot\src\cpu\x86\vm\sharedRuntime_x86_32.cpp

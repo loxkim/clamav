@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Webmail-20
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+m=FCssen Sie eine Antwort auf diese E-Mail und geben Sie Ihren aktuellen =20{WILDCARD_ANY_STRING(LENGTH<=2)}Username

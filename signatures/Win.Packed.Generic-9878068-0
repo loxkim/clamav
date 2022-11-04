@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generic-9878068-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Creator (Rave \(http://www.nevrona.com/rave\))
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+( This is a small demonstration .pdf file - ) Tj
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+( more text. And more text. And more text. And more text. And more text. ) Tj
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+( paint dry. And more text. And more text. And more text. And more text. ) Tj
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+( text. And more text. Boring, zzzzz. And more text. And more text. And ) Tj

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-16
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.replaceline j, Chr(39) & eox & rxe & nix & xoe & rex & ixn & oxe & exr & nix & lnr & nrl & rnl & xxe & xex & exx & exd & xoe & rex & 

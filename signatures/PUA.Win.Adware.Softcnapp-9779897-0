@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Softcnapp-9779897-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://mgyzt.zycultura.com/?48280=1c5c8b2435d2b43a6796b92b16b92008&0959f=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+XZCoreWrapper.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://mgyzt.zycultura.com/?48280=b2d8606b8cfaf0d51b4aef6cff03daae&0959f=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://mgyzt.zycultura.com/?48280=6d97c2c69a2a6855e3ac94849d3687b7&0959f=
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://mgyzt.zycultura.com/?48280=00c51d734ba9d8335922d7d62902d30f&0959f=

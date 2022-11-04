@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Autoit-154
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Application Data\Thunder Network\Thunder\Profiles\Profile.exe" ) 
+$TXT = "" 
+FOR $T = 0x00000001 TO 0x0000000a 
+$USERN1 = "" 
+FOR $U = 0x00000001 TO 0x00000006 
+$USERN1 = $USERN1 & CHR ( RANDOM

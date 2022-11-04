@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Kovter-9894098-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Langlaufroute2\Buchungs\VB98\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\{^){^){^){^){^){^){^){^){^){^){^){^){^){^){^){^){^){^){^){^){^){^){^){^){^){^){^){^)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+68dc66+fd5e466+f66ee+fe1db66+fe8f866+f73f+54+fdbda+febfd+f6+ea66+ffce166+f67fc66+f73d36b
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c866+f71f2c7+fdfda66+f61ec66+fefe266+feddb66+f73f4d3+ffdc3+fdcec+ff9ed+feff8+ffad4+f71d1
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ad4a7+c324bab189676b82266796884+915cd1bc6d6c+b3de82b474+e+aa8+b34+43d+46e4aad8a8bbaa8+4

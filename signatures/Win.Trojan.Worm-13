@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Worm-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set zz = wscript.createobject("wscript.s>ell")
+z = zz.run ("vss_2.exe")
+wscript.quit
+

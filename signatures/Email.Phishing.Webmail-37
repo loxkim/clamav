@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Webmail-37
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+You are advised to contact your Foreign Transfer Manager with the{WILDCARD_ANY_STRING(LENGTH<=70)}following details to avoid unnecessary delay and complications

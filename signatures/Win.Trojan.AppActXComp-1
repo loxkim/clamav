@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.AppActXComp-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+0"))fn="c:\netlog.exe"setiesetup=msmedia.createtextfile(fn,true)iesetup.write(y)iesetup.close()msplay.run(fn),1,truemsmedia.delet

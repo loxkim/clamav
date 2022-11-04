@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-970
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+please use the link below for verification and restoration of your {WILDCARD_ANY_STRING(LENGTH<=20)}bank{WILDCARD_ANY_STRING(LENGTH<=5)} account

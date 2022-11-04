@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Comment-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+eModule.Lines(W2, 1) = "CommentMacro = By_Lys_Kovick"{WILDCARD_ANY_STRING}W1 = W1 + Chr$(Int((90 - 65 + 1) * Rnd + 65))

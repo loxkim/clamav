@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Neoreklami-9789257-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ftJFmAW.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+jbvxvGEQrZSgETtxEreqUczPHVCuNZDZvmEkKBFd. It is most likely the result of calling an MSIL-compiled (/clr) function from 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+jbvxvGEQrZSgETtxEreqUczPHVCuNZDZvmEkKBFd.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+yTnlAlGhnqnHVaBIYXCXnCLplZdSscBynjGTzJREXiWicMLaqhoRWyXhtUakFKnlaWGKxSBhYBMMWLB
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+mRSaqYUQaSRmqtNhSvswvbfxYOenpAwTao

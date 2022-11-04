@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Emotet-7406588-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\User\Desktop\Visual 6.0\Hide a fil26089972001\BitmapCase\Release\BitmapCase.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Failed to combind files!  Low on resources, or file is invalid.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+f0AFvWfuLmcy6CV7DtpL21dopPOStfYLZen8b7GMst84dMyTO2lRnnTHQK7R2PxW70+q/Sq7K8zrduOkgH50FcqF63u/JpjSB3WBODv+Qf7WRQj1WfMY+QRuEDKQhSIO
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lHPkDDhQZEKGZlyIhuloCI2vJStCi7qhzJXxAQ4OS3DTyn+CLoOPCjb3dc7mjCkOwrXYvD6+dWh/s
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+oHvwnsK7kN/Xa20szhYJyigARxQONv4v4OiUV4LSxDXDNsQ88qJJxF4hSoYr6saa8PY4WGoaeqb5r

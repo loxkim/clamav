@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.TimeReset-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@echo off
+time 00:00:00,00

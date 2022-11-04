@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Phishing.Bank-1464
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+We notice multiple logon attempts and postcodes <br>
+mismatch on your{WILDCARD_ANY_STRING(LENGTH<=30)}Internet banking account

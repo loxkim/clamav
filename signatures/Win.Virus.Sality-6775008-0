@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6775008-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Select Spid from  Sysprocesses inner join sysdatabases on Sysprocesses.dbid = sysdatabases.dbid  where sysdatabases.Name
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\DefaultData.mdb;Persist Security Info=False;Jet OLEDB:Database Password=hitechquickaccount
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Swastik - The Complete Business Accounting Software
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@*\A\\Serverrnd\hitech projects\HITECH PROJECT\Swastik project\DB Utilities\DbUtilities.vbp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+;Persist Security Info=True;User ID=sa;Initial Catalog=master;Data Source=

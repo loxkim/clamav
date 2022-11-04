@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Bat-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+32 /y
+copy hacker.bat \\%1\admin$\system32 /y 
+copy rep.bat \\

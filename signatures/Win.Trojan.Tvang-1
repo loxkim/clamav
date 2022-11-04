@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Tvang-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for %%a in (*.bat) do call c:\tvang inf %%a

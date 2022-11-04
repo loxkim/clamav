@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Yozak-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox "[qwertyuiopasdfghjklzxcvbnm]" & vbCr & "New Order of coderz and cyber criminals", vbApplicationModal, "Alphabet"

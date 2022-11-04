@@ -1,0 +1,5 @@
+VIRUS NAME: Txt.Ransomware.Pylocky-6697106-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+from crypto import random{WILDCARD_ANY_STRING}http://pylocky

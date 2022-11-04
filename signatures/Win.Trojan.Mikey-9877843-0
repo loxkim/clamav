@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Mikey-9877843-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+wget -nc -c http://download.adobe.com/pub/adobe/magic/creativesuite/Cs2_EOL/MLTI/CreativeSuiteCS2Disc3.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+curl -u admin:farlinx -k -d 'savefileNames=../../../../../etc/passwd' https://host/sysSaveEventLog.php
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://docs.google.com/document/d/17CISNHEMSLhVZc58b26kaK5XPfpalQXAvdllN581lyI/edit?hl=en_GB#
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+The SuperCollider programming enVironment is actually a totally separate process from the synthesizer
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+The group, known for their fun and low-budget (dog runs across stage at 2:56) videos, used footage from a French TV van ad

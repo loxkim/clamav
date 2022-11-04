@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Archsms-9965881-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+'Maximum number of line allowed exceeded8The IOHandler already has a different Intercept assigned
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ Failed to get object at index %d"Failed to set tab "%s" at index %d Failed to set object at index %d<MultiLine must 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnActionExecuteh@L
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+OLE control activation failed*Could not obtain OLE control window handle%License information for %s is invalidPLicense i
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unknown Protocol(Request method requires HTTP version 1.1DThis authentication method is already registered with class na

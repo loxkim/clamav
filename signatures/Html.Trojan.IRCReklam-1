@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.IRCReklam-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+OBEKMARUL | /msg $nick %reklam
+n7=on 1:text:*ËÚreconËÚ*:?:/server

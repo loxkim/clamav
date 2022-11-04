@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Model-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Application.OnTime When:=Now + TimeValue("04:00:00"), Name:="Normal.Code.Bomb"

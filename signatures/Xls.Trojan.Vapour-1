@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Vapour-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If L(2, 1) <> "On Error Resume Next" Then{WILDCARD_ANY_STRING}Shell "regedit /s c:\Windows\Office.reg", vbHide

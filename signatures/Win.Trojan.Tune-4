@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Tune-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+o off
+rem Microsoft (tm)
+rem we found a bug named WINDOWS in your system
+rem we are now trying to fixing it
+  Format c: /autotest

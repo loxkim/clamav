@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Second-4
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+copy %0 %winbootdir%\system\bat.2ndhalf.bat

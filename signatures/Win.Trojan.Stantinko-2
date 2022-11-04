@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Stantinko-2
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+www.010reclamefiets.nl{WILDCARD_ANY_STRING}/modules/mod_proxy/proxy.php

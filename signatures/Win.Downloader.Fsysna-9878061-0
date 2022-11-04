@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Fsysna-9878061-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+github.com/mitchellh/go-ps.(*WindowsProcess).Executable
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+errno=runtime: bad notifyList size - sync=runtime: inconsistent write deadlineruntime: invalid pc-encoded table f=runtime: inva
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:/Users/admin/go/pkg/mod/github.com/mitchellh/go-ps@v1.0.0/process_windows.go
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:/Users/admin/go/pkg/mod/github.com/inconshreveable/go-update@v0.0.0-20160112193335-8152e7eb6ccf/internal/binarydist/patch.go
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+github.com/inconshreveable/go-update/internal/osext.Executable

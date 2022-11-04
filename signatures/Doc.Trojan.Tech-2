@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Tech-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #1, " WM97.RLG.a"{WILDCARD_ANY_STRING}tiveVBProject.VBComponents("RLG").Export "c:\windows\RLG.dll"

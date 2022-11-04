@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Eon-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ount),2)
+    openhttr.write "<!-- Phybre -->" & vbcrlf
+    openhttr.write "<Script language = VBScript7gt;" &

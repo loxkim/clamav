@@ -1,0 +1,7 @@
+VIRUS NAME: Email.Phishing.Bank-1484
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+We detected 
+		some error on your personal data during Our 'multi-factor 
+		authentication' system update{WILDCARD_ANY_STRING(LENGTH<=100)}recommend you validate your online banking details

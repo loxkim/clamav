@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Minimal-42
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+b$ = "Global:aUtOoPeN": WordBasic.MacroCopy a_$, b${WILDCARD_ANY_STRING}A: On Error GoTo -1: On Error GoTo Z

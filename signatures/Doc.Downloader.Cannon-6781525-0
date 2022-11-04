@@ -1,0 +1,23 @@
+VIRUS NAME: Doc.Downloader.Cannon-6781525-0
+TDB: Target:0
+LOGICAL EXPRESSION: (0|1)&(2|3)
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<?xml
+ * SUBSIG ID 1
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Name
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vFileName = Environ("APPDATA") & "\NetworkNV\"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Target="http://109.248.148.42/

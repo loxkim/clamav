@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Trojan.Miner-6726685-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZNK10cryptonote28COMMAND_RPC_GET_TRANSACTIONS7request5storeIN4epee13serialization16portable_storageEEEbRT_NS6_8hsectionE
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZNSt3__16__treeIN5boost7archive6detail19basic_oarchive_impl7aobjectENS_4lessIS5_EENS_9allocatorIS5_EEE15__insert_uniqueERKS5_
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/DISTRIBUTION-BUILD/src/wallet/wallet2.cpp:10434
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nsupportH
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e moduleH

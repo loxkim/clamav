@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Trojan.MSShellcode-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ruby -rsocket -e 'exit if fork;c=TCPSocket.new("10.7.77.186","44

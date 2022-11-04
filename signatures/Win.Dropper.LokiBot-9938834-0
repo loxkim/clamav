@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-9938834-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid image!Cannot change the size of an icon$Unknown picture file extension (.%s)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PasswordCharX
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnDragDrop(~C
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1 1(1,1014181<1@1D1H1L1P1T1X1\1`1d12262:2>2B2F2J2N2R2V2Z2^2b2f2~2
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+< <$<(<,<0<4<8<<<J<R<.=2=6=:=>=B=F=J=N=R=V=Z=^=b=f=j=n=r=v=z=~=

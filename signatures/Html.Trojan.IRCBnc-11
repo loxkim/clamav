@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCBnc-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+writeini {WILDCARD_ANY_STRING(LENGTH<=12)}.exe mirc email $read wsminsck.oxc $+ $rand(A,Z)

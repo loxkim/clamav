@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Strings-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+string3: Vstring = Strings.LTrim$(ThisDocument.VBProject.VBComponents(1).CodeModule.Lines(1, 15))

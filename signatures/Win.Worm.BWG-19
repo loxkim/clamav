@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.BWG-19
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo Set a = mapi.Address%VBSwayN%(1) >> C:\dwsjo.vbs

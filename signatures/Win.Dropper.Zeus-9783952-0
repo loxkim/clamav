@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-9783952-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D)%uD)%uD)%eD)%eD)%uD)%uD)%eD)%eD)%5D)%5D)%%D)%%D)%5D)%5D)%%D)%%D)%
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+G)%uI)%eI)%eI)%uI)%uI)%eI)%eI)%5I)%5I)%%I)%%I)%5I)%5I)%%I)%%I)%
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+I)%uI)%uI)%eI)%eI)%uI)%uI)%eI)%eI)%5I)%5I)%%I)%%I)%5I)%
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+J)%uJ)%uJ)%eJ)%eJ)%uJ)%uJ)%eJ)%eJ)%5J)%5J)%%J)%%J)%5J)%5J)%%J)%%J)%
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+H)%uH)%uH)%eH)%eH)%uH)%uH)%eH)%eH)%5H)%5H)%%H)%%H)%5H)%5H)%%H)%%H)%

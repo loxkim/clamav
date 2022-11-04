@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Worm.Firkin-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+IPS
+if %H%== 9 GOTO ATT
+if %H%== 8 GOTO SWBELL
+if %H%== 7 GOTO NETZ
+if %H%== 6 GOTO AOL
+if %H%== 5 GOTO MINDS
+if %H%== 4 GOTO ELINK
+if %H%== 3 GOTO BELLS
+if %H%== 2 

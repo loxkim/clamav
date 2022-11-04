@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Adware.Mobidash-7914334-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+not enough space for format expansion (Please submit full bug report at http://gcc.gnu.org/bugs.html):
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+()Landroid/content/pm/PackageManager;
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+()Landroid/content/res/AssetManager;
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+KPA5CnZhL3V0aWwvTGlzdDtMamF2YS9pby9GaWxlO0xqYXZhL3V0aWwvTGlzdDspW0xkYWx2aWsvc3lzdGVtL0RleFBhdGhMaXN0JEVsZW1lbnQ7
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[Landroid/content/pm/Signature;

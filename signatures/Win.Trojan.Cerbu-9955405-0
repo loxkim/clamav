@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Cerbu-9955405-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-I4h0F.r6H!z1B3y/W(n#U>i,N6i'U>k+S/s7S"n'K"}1B&h6F$t#Q.r%U(i2C&h'E"{+I)y0B$i0T.j'E"h5B"r-S)i.K.w'D&o!F#y.B3y!F4y!H+p#S"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0H4o!R5n'I3c6N*y1S&q2U.q#U>x'A"n0B#u1S.r!S#n-W!}+K!n-J!i.K p-E>u$N4r7K+s0C"n'T3n+D3n+@/h0H+p F$w0H0i,N(r7T.r%Q&
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+x+I l#C#u,@?d2F#x+I l#C#u,@?d2F#x+I l#C#u,@?d2F#x+I l#C#u,@?d2F#x+I l#C#u,@?d2F#x+I l#C#u,@?d2F#x+I l#C#?
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+b'gqbfgUbkg1bIgYbsgObdg]bwgYb'gqbfgUbkg7bSgTbrgRbcgYbug^bngNbcg2b@gSbhg[bkgYb'gxbbgOblgHbhgLb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?_&M:_jM:_jM:_jM:_jM:_jM:_jM:_jM:_jM:_jM:_jM:_jM:_jM:_jM:_jM:_jM:_jM:_jM:_jM:_jM:_jM:_D9_'

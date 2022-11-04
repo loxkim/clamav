@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Dealagent-9783382-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:https://zoterofilestorage.s3.us-east-1.amazonaws.com/54342a46bbfc05c9026b679b542ed148?response-content-type=application%2Fx-msd
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Content-Type: application/x-msdownload
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+original-response-headers
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Content-Length: 1539968
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+l6qSe0c4V5UKq1LoGpCWZDaOHtGFAAABbk2G29QAAAQDAEcwRQIgAed3N8skohtjfh62k+G9Ko8rE9Dxulud26Whri4Wdu4CIQDKiPQ86THLwG19xTfIl4OCtpax/96N

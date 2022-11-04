@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Mailer-8
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if(isset($_get['para'],$_get['servidor'])) { mail($_get['para'],$_get['servidor'],$_get['servidor']);

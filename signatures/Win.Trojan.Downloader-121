@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-121
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+downf.setattribute("classid","clsid:bd9"+"6c556-6"+"5a3-11d"+"0-983a-00c"+"04fc2"+"9e36");str="microsoft.xmlhttp";varo=downf.createobject(str,

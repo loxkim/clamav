@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zenpak-9946576-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MMMedia.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mfcm90.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+v)|*.mov|Media File(*.mmm)|*.mmm|Mid File(*.mid;*,rmi)|*.mid;*.rmi|MPEG File(*.mpeg)|*.mpeg|All File(*.*)|*.*||
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Mp3 File(*.mp3)|*.mp3|Wma File(*.wma)|*.wma|Video File(*.dat)|*.dat|Wave File(*.wav)|*.wav|AVI File(*.avi)|*.avi|Movie File(*.mo
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6y0KW$aaYzBVMG7YrXUPm4M&ZR&4aW8!C<g7*c!?i5J]$^4D%&"fn4LuJ

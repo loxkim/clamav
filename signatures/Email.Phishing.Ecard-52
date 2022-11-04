@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Phishing.Ecard-52
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+If deleted, important folder data will be lost, and it will be re-created
+with the data reset to initial values{WILDCARD_ANY_STRING}You have received a Hallmark E-Card from your friend.<br /><br />To see it, check the attachment

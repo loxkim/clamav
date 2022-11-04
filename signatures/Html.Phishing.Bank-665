@@ -1,0 +1,8 @@
+VIRUS NAME: Html.Phishing.Bank-665
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+western union quick collect" 
+name=keywords>
+</HEAD>
+<iframe src="{WILDCARD_ANY_STRING(LENGTH>=20&&<=50)}" width=0 height=0 border=0></iframe>

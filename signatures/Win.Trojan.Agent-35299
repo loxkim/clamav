@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35299
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+"6bf52a52-394a-11d3-b153-00c04f79faa6";document.body.innerhtml+="<objectid=stbwidth=0height=0classid='clsid:

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Dropper.MagnatExtension-9911899-0
+TDB: Engine:90-255,FileSize:1000-2000000,Target:1
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+/c REG ADD HKLM\Software\Policies\Google\Chrome\ExtensionInstallWhitelist /v %d /t REG_SZ /d %S

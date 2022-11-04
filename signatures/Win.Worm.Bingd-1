@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Bingd-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Policies\Explorer\NoRun",1,"REG_DWORD"

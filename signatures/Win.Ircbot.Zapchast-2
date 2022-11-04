@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Ircbot.Zapchast-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n *:sockread:BncClient*:{
+  sockread %BncClient
+  if ($gettok(%BncClient,1,32) == NICK) {
+    set %Bnc.nick $gettok(%Bn

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Melissa-23
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+.VirusProtection = {WILDCARD_ANY_STRING}look = CreateObject({WILDCARD_ANY_STRING}If System.PrivateProfileString({WILDCARD_ANY_STRING}For {WILDCARD_ANY_STRING(LENGTH>=1&&<=5)} = 1 To {WILDCARD_ANY_STRING(LENGTH<=50)}.AddressLists.Count{WILDCARD_ANY_STRING}.Attachments.Add ActiveDocument.FullNam

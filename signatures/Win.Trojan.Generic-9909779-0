@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9909779-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity version="2.3.0.2" processorArchitecture="x86" name="Gosamapo.exe" type="win32"/> <trustInfo xmlns="ur
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s-microsoft-com:asm.v3"> <security> <requestedPrivileges> <requestedExecutionLevel level="asInvoker" uiAccess="false" /> </
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+i%f:\4
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+5381907624>@=<:?;IEVRBJHGAFUSTONXWDLMKCQPZY_`^][\xiphjmndbezufgtcysrolwvaqk
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ihttp://crl.IV.tcclass2-II.trustcenter.de/crl/v2/tc_class2-II_L1_CA_IV.crl0

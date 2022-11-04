@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.J-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+email.Subject ="hola como estas, ;o)"{WILDCARD_ANY_STRING}set attachment=email.Attachments
+attachment.Add filesystem.GetSpecialFolder(0) & "Que_entretenido.exe

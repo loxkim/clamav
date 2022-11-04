@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Adware.Genieo-6738060-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://34.225.46.51/cert-get?format=json&_apikey=c5e4d9c2f850c2da06790080ec53cd560d6c147b
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-[InstructionRunner executeCommand:]
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://34.225.46.51/cert-revoke/%d?_apikey=c5e4d9c2f850c2da06790080ec53cd560d6c147b
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+downloading offers for current user compeleted successfully
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++[InstallerAgent removeLogFiles]

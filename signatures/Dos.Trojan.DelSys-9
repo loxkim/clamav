@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.DelSys-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cd \
+attrib -h -r -s io.sys
+ren io.sys io.0ld

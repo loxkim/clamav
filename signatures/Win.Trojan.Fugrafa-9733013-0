@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Fugrafa-9733013-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#$27u62015216vtsmqqp*x*x*x#$#$27f62015224kabttgk*x*x*x#$#$27g62015256rmwkegy*x*x*x#$#$27q62015319okdprqa*x*x*x#$#$27g62015321kue
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+agjb*x*x*x#$#$27r62015329wuctyki*x*x*x#$#$27v62015349mcsajke*x*x*x#$#$27u62015351dtcvxfm*x*x*x#$#$27y62015414swmdoxu*x*x*x#$#$27
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+n62015419sqqfide*x*x*x#$#$27x62015427rbxfago*x*x*x#$#$27u62015429gvjgmpn*x*x*x#$#$27x62015431ulkgpsa*x*x*x#$#$27h620428pgjtlofk*
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+x*x*x#$#$28g62004541cpbeyyy*x*x*x#$#$28a62052234skvunou*x*x*x#$#$29d6203415qiptwuo*x*x*x#$#$29b6203523wajpwhh*x*x*x#$#$29m620355
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1qffmqdj*x*x*x#$#$30p6201111frhwcmii*x*x*x#$#$30i62011131vmoarvy*x*x*x#$#$30s62011145sfqkfip*x*x*x#$#$30g6206850msgekqw*x*x*x#$#

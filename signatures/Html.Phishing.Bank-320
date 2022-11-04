@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-320
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ar e-gold{WILDCARD_ANY_STRING(LENGTH<=6)}customer,</p><p class="style1">we regret to inform you that your{WILDCARD_ANY_STRING(LENGTH<=6)}e-gold account could be suspended if you don't update your account info

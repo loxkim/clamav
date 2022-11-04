@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.JuneX-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ine "format c: /q /autotest /u"

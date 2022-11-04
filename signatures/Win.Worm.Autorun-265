@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-265
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+shellexecute=wscript.exe achi.dll.vbs

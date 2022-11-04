@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bablas-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+zerCopy IIf(Copy, ActiveDocument, NormalTemplate).FullName, IIf(Copy, NormalTemplate, ActiveDocument).FullName, "ไวรัส", wdOrganizerObjectProjectItems

@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Worm.Alcop-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sword"
+For y = 1 To b.AddressLists.Count
+Set d = b.AddressLists(y)
+x = 1
+Set c = a.CreateItem(0)
+For oo = 1 To d.Addres

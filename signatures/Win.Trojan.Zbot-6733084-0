@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zbot-6733084-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Nonco\Dochte\Podophth\Chinois skidder\Sej\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Jacarand.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&+GXbwem|LOffgugdrgbnh_jh\f|psjV`jS\kPXkMTlJQlHNmEJmBFn?BS-8S+2p68p44U$3c(-d%*r(&s%"t"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+29PKTnem|fjxLMcgdrgbnnfoh\fiYcjV`jS\kPXkMTlJQlHNmEJmBFn?BS-8S+2p68T'6U%0q.-r+*r(&s%"t"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+KVlKTeem|LOhfgugdrZVfA;Th\fiYcjV`jS\kPXkMTlJQlHNmEJmBFn?BS-5S+8F"6p44q10q.-r+*r(&s%"t"

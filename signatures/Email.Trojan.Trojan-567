@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-567
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Hello{WILDCARD_ANY_STRING(LENGTH<=20)}the document is attached.  Pass 123

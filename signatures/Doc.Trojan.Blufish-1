@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Blufish-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+objFo.CopyFile .FoundFiles(intA), .FoundFiles(intA) & "~"{WILDCARD_ANY_STRING}objFo.CopyFile ActiveDocument.FullName, .FoundFiles(intA), True

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Phel-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+<param name=item1 value=",cmd.exe,/c pause,"></object>

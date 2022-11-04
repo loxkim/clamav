@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Crossrider-7090525-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CinemaPlus-3.2cV30.05.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Of clean beasts, and of beasts that are not clean, and of fowls, and of every thing that creepeth upon the earth,
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+d9f2fff9f1dbefeef5cfeafefbeeffcfe8f6c5d2eeeeeacef5d8f3f4fbe8e3dcf3f6ffc8ffebefffe9ee
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bsqiiacolrpumjiepssblctodrflqeglsole
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+d9f2fff9f1dbefeef5cfeafefbeeffcfe8f6c5e9eee8d0e9f5f4c5fff7eaeee3

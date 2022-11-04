@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Metsy-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+NormalTemplate.VBProject.VBComponents(1).Export "C:\System.dat"{WILDCARD_ANY_STRING}host.codemodule.AddFromFile ("C:\System.dat"){WILDCARD_ANY_STRING}With host.codemo

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.VBS-192
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+setwsh=createobject("wscript.shell")sys=fso.getspecialfolder(2)setout=fso.createtextfile(sys&"\temp.exe",true)functionc(i)c=chr(

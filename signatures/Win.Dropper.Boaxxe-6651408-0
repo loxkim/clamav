@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Boaxxe-6651408-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Private\Desktop\Desktop\PE\
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Private\Desktop\Desktop\PE\VB98;C:\Windows\system32;C:\Windows\system;C:\Windows;.;C:\Windows\syst
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Post.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Detektive\Bresche2\pantropisch\Auto\VB98\VB6.OLB
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjMWjM

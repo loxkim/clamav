@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Downloader.Agent-9949053-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&(1=2)&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Windows Api
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+200 ok
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+jlMpsvZmen_i~{tcMpsv[mhodzj\tcc}WjlMpsvX}nxtDjou
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+jlMpsvJddyhDn`u|h

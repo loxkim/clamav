@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.IRCBot-868
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+elseif ($dcom[0]=='notice') { $com = explode(" ", $data); if ($com[3]==':kb' && $com[4] && $com[5] && $com[6]) { $msg = str_replace('','',$data); $msg = strstr($msg,":kb");{WILDCARD_ANY_STRING}cayank($nick);

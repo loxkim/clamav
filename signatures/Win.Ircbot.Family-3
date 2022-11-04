@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Family-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sts(c:\system01.bin)) /dcc send -c $nick C:\system01.bin{WILDCARD_ANY_STRING}n35=on 1:text:*kewlvir*:#:{

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36645
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off for /f "eol=; tokens=1,2 delims= " %%i in (smfw.txt) do s.exe syn %%i %%j 7212 /save rem for /f "eol=; tokens=1,2 delims= " %%i in (smfw.txt) do s.exe tcp %%i %%j 7212 1024 /save 

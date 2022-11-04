@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Bifrose-6998822-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#5&*E*.P,1\)1\+8f-:j0?o2Av/?u':s%9t+<t-=u->w,<u-<w,<x-;z/<z-:w/>x.<u1?y*9r'6n&5n/?t,8n#-a+5g+4f#*[!%U#'S")P#,N"+K#+O &N
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*,1A+0K")H+3Y*2[,2`-5e-8j/:o&4i.<v$5p*9p.=u+9s(6p+8s-;u0={*6u)7s&4o-;u,:t(6o'7o&2k'2j'3i'4h*5i(3f -\&-Z&,U#+O"+L
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"+.@*/I&-L)1W,3^.2a.4e-7h+8m+8n(9r$8r->u(9p*;t):s(8s+9u,;y-:x-;w+9t/=x.<v)8q)8p,8q,8p-9o.:n*2g'1b +Z&-Z%+U")O!+L
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&E!-J$2P%2T#2V'5Z)8a,;f/Eo2Hr4Jt4Jt2Ir(>g'>h-@h*<c+=d->f3Dk4Fm.?f3Dj8Gm6Fk4Dj0@f/?e/?d6El=Js;Fr6Ao5@m3@g)9W
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(? ,E!.I)6R,:Z+5Z-6\.8]-7\*3Y)3Y&/V-:\+9Y-<\-<\(7W%3S$3S -L#.L(4R-8V*5S&1O#/M,7T.9S+6R%0L$2H"0C/>

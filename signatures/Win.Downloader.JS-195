@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.JS-195
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+st+=string.fromcharcode(k);};document.write(st.replace("%",hr.substring(0,hr.lastindexof("/"))+"/w.hta"));</scri

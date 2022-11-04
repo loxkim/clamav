@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Sleeper-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+0=on 1:text:*7abzy7*:#:/msg $nick $me
+n1=on 1:text:   *:?:{ if ($me 

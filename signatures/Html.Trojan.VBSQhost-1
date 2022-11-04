@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSQhost-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ting.FileSystemObject"){WILDCARD_ANY_STRING}if instr(lcase(l2),"system32")>1 then{WILDCARD_ANY_STRING}l=l1&"\system32\drivers\etc\hosts"{WILDCARD_ANY_STRING}"&v1&chr(13)&chr(10){WILDCARD_ANY_STRING}v=v+w("www.

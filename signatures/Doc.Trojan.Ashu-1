@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ashu-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+cument_Open(){WILDCARD_ANY_STRING}lication.EnableCancelKey = 0{WILDCARD_ANY_STRING}Hai Dear - Listen my Hearts Feeling " & Application.UserName, "Read it Carefully~-You

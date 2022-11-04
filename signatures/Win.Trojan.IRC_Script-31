@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IRC_Script-31
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on 1:start:{
+  .run {WILDCARD_ANY_STRING(LENGTH<=8)}.exe /hide mIRC

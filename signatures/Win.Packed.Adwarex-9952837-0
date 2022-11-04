@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Adwarex-9952837-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+</li><li>T???.* will find files starting with T followed by 3 letters with any extension, Tabc.txt, temp.tmp etc.</li></UL>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Execute not supported1Operation not allowed on a unidirectional dataset
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Remote key already open8Unable to connect to remote registry key\nError Code: %d#Unable to close remote registry key
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Failed to Save StreamE%d is an invalid PageIndex value.  PageIndex must be between 0 and %d=This control requires versio
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<dpiAwareness xmlns="http://schemas.microsoft.com/SMI/2016/WindowsSettings">PerMonitor</dpiAwareness>

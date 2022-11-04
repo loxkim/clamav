@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Zirko-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nueva_foto.jpg.vbs"))) then 
+b.Copy(dirfont & "\" & "Mi_nueva_foto.jpg.vbs") 
+end if 
+If(not(fileexists(dirfont & "\" & 

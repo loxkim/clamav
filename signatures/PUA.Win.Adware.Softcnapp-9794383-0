@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Softcnapp-9794383-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://nrlnr.zsincer.com/?06132=a64749dc38618d2af4beb7037c32011b&41cc8=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://nrlnr.zsincer.com/?06132=d9c6de9ffc2afbf0b03ea1db44af24d5&41cc8=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://mmtkm.zsincer.com/pdf/jike/20d5d85ad04d425be84d3f569ff1b87e.ded
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+JiKePDFReader.users
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0Shenzhen Chongcheng Yuanshun Technology Co., Ltd1907

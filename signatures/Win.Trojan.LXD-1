@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.LXD-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+(%pass8 == $null) { set %pass8 drowssap } | if ($2- = %pass) { /msg # 14º15¬14¸ 15L14o15gi

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Maljava-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+javaupdate/Payload{WILDCARD_ANY_STRING}doPrivileged

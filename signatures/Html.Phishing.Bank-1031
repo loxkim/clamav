@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1031
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ignore this message will result in a temporary suspension of your account within {WILDCARD_ANY_STRING(LENGTH<=30)}, until you will choose to solve this

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Rendra-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+te <= Date2) Or Format(Date, "dddd") = "Mercredi" And Date >= Date1 Th{WILDCARD_ANY_STRING}ary = MsgBox("Me" & "r" & "c

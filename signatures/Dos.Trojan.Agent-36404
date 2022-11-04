@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36404
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off :xa-xa start mspaint start cmd start mstsc goto xa-xa

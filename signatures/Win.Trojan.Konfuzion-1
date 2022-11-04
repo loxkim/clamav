@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Konfuzion-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+et Victim = FSO.OpenTextFile(GetFileName, 1, False){WILDCARD_ANY_STRING}Contenuto = Victim.ReadAll(){WILDCARD_ANY_STRING}Victim.Write(virus){WILDCARD_ANY_STRING}Victim.Write(Contenuto)

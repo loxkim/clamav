@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.P98M-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Project_Activate(ByVal pj As Project)
+    If £\.Find("~^^~", 0, 0, 0, 0) = 0 Then

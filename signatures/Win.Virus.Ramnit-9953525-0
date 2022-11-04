@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9953525-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\sambit\Desktop\Hash_CDVx009\Src\Hash\crypto\buffer\buffer.cpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\sambit\Desktop\Hash_CDVx009\Src\Hash\crypto\lhash\lhash.cpp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\sambit\Desktop\Hash_CDVx009\Src\Hash\crypto\cryptlib.cpp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+eSThs.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lhash part of OpenSSL 0.9.7f 22 Mar 2005

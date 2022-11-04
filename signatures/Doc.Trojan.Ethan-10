@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ethan-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+With Dialogs(wdDialogFileSummaryInfo): .Title = "OOPS": .Author = "Billy McGrop": .Keywords = "To Vile": .Execute: End With

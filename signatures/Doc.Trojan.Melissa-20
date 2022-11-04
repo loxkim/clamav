@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Melissa-20
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If ADlnCnt > 0 Then AD.CodeModule.DeleteLines 1, ADlnCnt{WILDCARD_ANY_STRING}Do While NT.CodeModule.Lines(Start, 1) <> "'Done"{WILDCARD_ANY_STRING}odule.InsertLines Start, NT.CodeModule.Line

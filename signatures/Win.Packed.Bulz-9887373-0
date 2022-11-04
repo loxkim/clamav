@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Bulz-9887373-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://cdn.discordapp.com/attachments/808112914505400331/809179821179404288/svchost.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://cdn.discordapp.com/attachments/808112914505400331/809179820909920266/libwinpthread-1.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\gamer\AppData\Roaming\Proxifier4\Profiles
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://cdn.discordapp.com/attachments/808112914505400331/809179825020862484/libevent_extra-2-1-7.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://cdn.discordapp.com/attachments/808112914505400331/809179820021776444/libgcc_s_sjlj-1.dll

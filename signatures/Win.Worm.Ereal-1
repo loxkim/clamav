@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Ereal-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+are\Data\EthErEal\StartUpKey",startup{WILDCARD_ANY_STRING}rcfile.writeline "n2=  /dcc send $nick "&fldr.path&"\babes_nu

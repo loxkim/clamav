@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Pics-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+For x=1 To a.AddressEntries.Count{WILDCARD_ANY_STRING}Mail.to=ol.GetNameSpace("MAPI").AddressLists(1).AddressEnt{WILDCARD_ANY_STRING}Mail.Attachments.Add("C:\{WILDCARD_ANY_STRING(LENGTH>=1&&<=255)}.bat"){WILDCARD_ANY_STRING}Mail.Send

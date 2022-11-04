@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Bulet-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Workbooks(Current_Name).Sheets(morph("[LU\M", 25)).Copy before:=Workbooks(morph("I\KJVWXU7AUJ", 25)).Sheets(1)

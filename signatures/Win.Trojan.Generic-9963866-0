@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9963866-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+malformed key_share extensiontransform: inconsistent byte count returnedunfinished open-coded defers in deferreturnunknown runn
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-RSASHA512-RSASYSTEMROOTSaurashtraSet-CookieUpdate.exeUser-AgentWSACleanupWSASocketWWSAStartupXMR + ERGOargs4to5gbatomicand8avx5
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nter-alignedhash/crc32: invalid hash state sizehpack: invalid Huffman-encoded datahttp: server closed idle connectionmheap.freeS
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+supportedoptional header has unexpected Magic of 0x%xout of memory allocating heap arena metadatareflect: funcLayout with inter
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+seSudog with non-nil gp.paramruntime:stoplockedm: lockedg (atomicstatus=taskmgr.exe,ProcessHacker.exe,GlassWire.exetls: received

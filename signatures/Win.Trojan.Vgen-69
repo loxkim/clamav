@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Vgen-69
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f not '%wise%=='Host goto wise_beg
+:: dummy h

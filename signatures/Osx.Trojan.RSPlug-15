@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.RSPlug-15
+TARGET TYPE: ANY FILE
+OFFSET: 304
+DECODED SIGNATURE:
+generator.pl HTTP/1.0\r\nUser-Agent: ".trim(`uname -p`).";$runtype;7777;".trim(`hostname`

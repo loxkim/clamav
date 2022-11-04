@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.QQpass-9937647-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://service.elsevier.com/app/contact/supporthub/mendeley?dgcid=Mendeley_Desktop_Help-menu-Contact-Support
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://service.elsevier.com/app/home/supporthub/mendeley/?dgcid=Mendeley_Desktop_Help-menu-FAQ
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://service.elsevier.com/app/answers/detail/a_id/19601/kw/connectivity/supporthub/mendeley/
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://service.elsevier.com/app/answers/detail/a_id/19611/kw/duplicates/supporthub/mendeley/
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Mendeley Desktop will forget when it last synced with your online account and refetch all data on the next sync. Continue?

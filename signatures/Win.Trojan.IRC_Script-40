@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-40
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+writeini c:\windows\win.ini windows run $mircexe{WILDCARD_ANY_STRING(LENGTH<=10)}.run hex.exe /hide mIRC*

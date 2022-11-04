@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Flooder-26
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+($_GET['time'])&&($_GET['pwd']=="microstresser14")){

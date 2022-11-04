@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Snack-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+For i = 1 To 4{WILDCARD_ANY_STRING}ing("", "HKEY_CURRENT_USER\Software\Microsoft\Office\8.0\Excel\Recent File List", GetNam{WILDCARD_ANY_STRING}dule.InsertLines 1, NT.Lines(1, NT.CountO

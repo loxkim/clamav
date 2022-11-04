@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Largepile-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+\ContactsEmailed\" & GNS.AddressLists(List1).AddressEntries(CountLoop), "V

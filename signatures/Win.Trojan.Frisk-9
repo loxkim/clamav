@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Frisk-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Application.VBE.ActiveVBProject.VBComponents("frisk").Export "c:\windows\frisk.dll

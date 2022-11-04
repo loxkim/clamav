@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.VBS-84
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+payloadurl = getpath(location.href)+'inst2.exe';{WILDCARD_ANY_STRING}var s = new activexobject("adodb.stream");

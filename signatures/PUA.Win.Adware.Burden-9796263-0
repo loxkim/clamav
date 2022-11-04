@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Burden-9796263-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E:\PCProject\work\WifiShare\Tags\xctag_1.0.1.20422\Bundles\XiangCaoWifi\Temp\Release\SvcHostDll.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://tj.wn51.com/?213bc=03afdd7a68eee047ae7589601668774c&f8bcb=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://tj.wn51.com/?213bc=1aae7e52f9542ee5926e74438a471f3a&f8bcb=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://tj.wn51.com/?213bc=77278b184a35895a81e9e839286d3e49&f8bcb=
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://tj.wn51.com/?213bc=4fdeb3fa0a08139a249899f33d7d97e7&f8bcb=

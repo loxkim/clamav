@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.Hellraiser-1
+TARGET TYPE: MACHO
+OFFSET: 2953375
+DECODED SIGNATURE:
+Launch attack{WILDCARD_ANY_STRING(LENGTH==6069)}Brutal Gift{WILDCARD_ANY_STRING(LENGTH==3965)}The way to teach you how to shut your fucking mouth

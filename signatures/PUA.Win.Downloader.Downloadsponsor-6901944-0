@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Downloader.Downloadsponsor-6901944-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.download-sponsor.de/agb/OCSagb-branded.php?pid=[PID]&lang=[LANGUAGE]
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0; DSde) Gecko/20100101 Firefox/23.0
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ - CHIP Downloader.lnk
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://download-sponsor.de/agb/multilink.php?camp=amazontb&pg=1&lang=
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RadioButton_AuswahlgetroffenEventHandler

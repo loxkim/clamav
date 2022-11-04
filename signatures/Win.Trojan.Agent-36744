@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36744
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+st['cmd']=$alias[$first_word] . substr($_post['cmd'], strlen($first_word)); $first_word=first_word($_post["cmd"]); } switch ($first_word) { case "clear": $_session['output']="" ; break; case "exit": session_destroy(); refresh(); break; case "cd": $_session['output'] .=$prompt; $result=shell_exec($_post["cmd"] . " 2>&1 ; pwd"); $result = explode("\n", $result); $_session['dir'] = $result[count($result) - 2];

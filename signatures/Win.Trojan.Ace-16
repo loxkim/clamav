@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Ace-16
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+request.form("cmd")<>"" then if request.form("wscript")="yes" then set cm=createobject(obt(1,0)) set dd=cm.exec(shellpath&" /c "&defcmd) aaa=dd.stdout.readall si=si&aaa else on error resume next set ws=server.createobject("wscript.shell") set ws=server.createobject("wscript.shell") set fso=server.createobject("scripting.filesystemobject") sztempfile = server.mappath("cmd.txt") call ws.run (shellpath&" /c " & defcmd & " > " & sztempfile, 0, true) set fs = createobject("scripting.filesystemobject") set ofilelcx = f

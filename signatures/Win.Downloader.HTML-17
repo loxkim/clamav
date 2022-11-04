@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.HTML-17
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<body><iframe src="{WILDCARD_ANY_STRING(LENGTH<=50)}width=0 border=0 height=0 style="display:none"></iframe></body>

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Psy-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Day(Now()) <> 28 Or Month(Now()) <> 51 Then GoTo bye{WILDCARD_ANY_STRING}a = "psycode v?.?? may 28 1999"

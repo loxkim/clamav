@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Itorrent-6517987-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Once_target@V?$_Bind@$0A@XV<lambda_f058af4147866cf9788d41027abf4e73>@@$$$V@std@@@std@@
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Once_target@V?$_Bind@$0A@XV<lambda_a4768940d57ddaead1eb6d55a0017218>@@$$$V@std@@@std@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Once_target@V?$_Bind@$0A@XV<lambda_1c8b8479e3b4d5dc4fea3a8ffcbf4352>@@$$$V@std@@@std@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Once_target@V?$_Bind@$0A@XV<lambda_1bb45d0a15f7b19f8f969600f62b8bed>@@$$$V@std@@@std@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Ahttp://g.itorrent.bz/support.i

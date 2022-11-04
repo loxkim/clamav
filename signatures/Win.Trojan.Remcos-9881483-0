@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Remcos-9881483-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&peer_id=%s&port=%d&uploaded=%I64d&downloaded=%I64d&left=%I64d&corrupt=%I64d&key=%X%s%s&numwant=%d&compact=1&no_peer_id=1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?use_private_key@context@ssl@asio@boost@@QAE?AVerror_code@system@4@ABVconst_buffer@34@W4file_format@context_base@234@AAV564@@Z
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?do_set_password_callback@context@ssl@asio@boost@@AAE?AVerror_code@system@4@PAVpassword_callback_base@detail@234@AAV564@@Z
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%s:%d</NewPortMappingDescription><NewLeaseDuration>%u</NewLeaseDuration></u:%s></s:Body></s:Envelope>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+rf:\dd\vctools\vc7libs\ship\atlmfc\src\mfc\oledrop2.cpp

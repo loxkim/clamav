@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-31387
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+postcard.ru/get/?{WILDCARD_ANY_STRING(LENGTH==10)}target=_blank><table><tr><td><a href="http://{WILDCARD_ANY_STRING(LENGTH<=50)}http://www.postcard.ru/get/?

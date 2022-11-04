@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Card-67
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+necessary to limit your card for online services{WILDCARD_ANY_STRING(LENGTH<=150)}we must validate your identity

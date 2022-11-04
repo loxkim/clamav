@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Qakbot-9907135-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\Sent\Expect_And\Molecule\624-month\977-Still\face.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+er-Drivers-Package~31bf3856ad364e35~x86~~6.1.7600.16385" update="INF_cxraptor_fm1236mk5_ibv32"/>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+face.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+856ad364e35~x86~~6.1.7600.16385" update="DccwUpdate"/>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+            <Install package="Microsoft-Windows-PhotoBasicPackage~31bf3856ad364e35~x86~~6.1.7

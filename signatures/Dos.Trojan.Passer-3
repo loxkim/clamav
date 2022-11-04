@@ -1,0 +1,8 @@
+VIRUS NAME: Dos.Trojan.Passer-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+e \\%1\ipc$ "" /user:wwwadmin
+net use \\%1\ipc$ "" /user:database
+net use \\%1\ipc$ "" /user:user
+net use \\%

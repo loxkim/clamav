@@ -1,0 +1,8 @@
+VIRUS NAME: Dos.Trojan.Passer-19
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set mu=/user
+%ls%%aa%%ss% %c%%o%%re% \\%1\%2 "" %mu%:administrator
+IF NOT ERRORLEVEL 1 GOTO LSAASS
+%ls%%aa%%ss% %c%%o%%re% \\

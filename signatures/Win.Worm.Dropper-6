@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.Dropper-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+orAppending = 3
+const RemoteExe = "vss_2.exe"
+set zz = wscript.createobject("wscript.shell")
+z = zz.run ("vss_2.exe")
+wscript.quit

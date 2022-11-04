@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCSmall-5
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if (format isin $1-) || (okuen isin $1-) || (arv isin $1-) || (trojan isin $1-) || (troyano isin $1-) || (virus isin $1-) || (worm isin $1-)

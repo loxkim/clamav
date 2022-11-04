@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Sdum-9807706-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++ serverIndex, address: proxyAddress, playerId: process.argv[1], playerVersion: 1, buffer: new Buffer(0), lastSend: 0, lastRece
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4; var playerId = message.readUInt32LE(offset); offset += 4; var port = message.readUInt16LE(offset); offset += 2; var ip = (me
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+AliciaOnline\Install\node.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Server.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+var Game = { socket: dgram.createSocket('udp4'), port: 0, address: '', source: 0, }; var maps = {}; var mapId = 0; function ip2

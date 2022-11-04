@@ -1,0 +1,11 @@
+VIRUS NAME: Legacy.Trojan.Agent-387
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ 3
+ xtemp=$pwd
+ head -n 22 $0 > /.test
+ for dir in /* ; do
+  if test -d $dir ; then
+   cd $dir
+   for file 

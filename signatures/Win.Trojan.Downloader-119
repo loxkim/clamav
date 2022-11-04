@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-119
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+:setq=df.createobject("shell.application","")");document.write(":q.shellexecutefname1,"","","open",0");document.write(":endsub");document.write(":callautoexe("http:/

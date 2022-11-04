@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-129
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+limited account access details{WILDCARD_ANY_STRING(LENGTH<=150)}dear paypal member,{WILDCARD_ANY_STRING(LENGTH<=150)}we regularly screen activity in the paypal system. after reviewing your

@@ -1,0 +1,18 @@
+VIRUS NAME: Doc.Macro.Laroux-5893719-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Application.OnKey "%{F11}", "StartUp.xls!escape"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Application.OnKey "%{F8}", "StartUp.xls!escape"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Name = "StartUp{WILDCARD_ANY_STRING(LENGTH<=5)}"

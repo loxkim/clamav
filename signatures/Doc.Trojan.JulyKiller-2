@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.JulyKiller-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ans$ = WordBasic.[InputBox$]("当今社会太黑暗，太不公正了！(" + Str(test) + ")", "醒世恒言", "非常正确")

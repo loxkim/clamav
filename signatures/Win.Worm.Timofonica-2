@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Timofonica-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Timofonica()
+
+Sub Timofonica()
+   If PreguntaSiHeEstadoAqui()

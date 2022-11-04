@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.Dockster-1
+TARGET TYPE: MACHO
+OFFSET: 76000,81000
+DECODED SIGNATURE:
+/bin/unlink ~/.Dockset{WILDCARD_ANY_STRING(LENGTH>=560&&<=660)}launchctl load ~/Library/LaunchAgents/mac.Dockset.deman.plist

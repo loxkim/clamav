@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-87
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+filecontent=filecontent+landurl+chr(0)+wstring("a",114-overflow)

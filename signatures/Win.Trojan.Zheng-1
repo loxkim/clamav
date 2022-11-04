@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Zheng-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+"\System32.vbs").Attributes=2{WILDCARD_ANY_STRING}Regwrite "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run\Kernel", {WILDCARD_ANY_STRING}Winsys & "\System.vbs"

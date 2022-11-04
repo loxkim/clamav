@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.Inor-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+fff0000000000"
+
+	dummie = "Stupid KAV..."
+
+	h0 = ""    	
+    	i = 1
+    	Do While i < Len(c0)
+		h0 = h0 & chr(cint("&h" & mid(c0, i, 

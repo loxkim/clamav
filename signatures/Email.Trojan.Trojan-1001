@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-1001
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+All information has been reviewed and validated{WILDCARD_ANY_STRING(LENGTH>=138&&<=144)} your Order Information attached.

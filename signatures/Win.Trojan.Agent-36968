@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36968
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+split(mopokkrun),mopobqrun="",mopobzrun="",moposmrun="",mopomtrun="",mopomrrun="",mopouqrun=function(){return mopobdrun.shift()}

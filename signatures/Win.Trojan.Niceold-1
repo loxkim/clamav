@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Niceold-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+2\*.bat;%2*.bat) do call %0 /ViRuS_MULTIPLY %%a
+goto XXX_END>nul.ViRuS

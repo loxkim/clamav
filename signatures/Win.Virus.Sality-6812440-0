@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6812440-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+r:\LJ_ICE\Install\installer\plugins\hppreg\Release\hppreg.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Set value: %s in WOW64 HKLM\SOFTWARE\Hewlett-Packard\HP_LaserJet_M2727\INSTALLDIR key
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FaxRegFix - This is to add the PortName under Fax Device Class instance if it's missing
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Created/Opened WOW64 Key: HKLM\SOFTWARE\Hewlett-Packard\HP_LaserJet_M2727
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System\CurrentControlSet\Control\DeviceClasses\{A6AF917D-48E9-459a-95A1-3B9CD24D91E3}

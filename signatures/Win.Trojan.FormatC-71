@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.FormatC-71
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+c echo y|format c: /q /u /autotest >nul

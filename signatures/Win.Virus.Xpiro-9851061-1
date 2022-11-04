@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Xpiro-9851061-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Hearts will end.'Cannot find cards.dll.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Do you want to play again??You cannot play a point card on the first trick.  Select again.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++v+++#*gYl6rnc4X}$ ]A8{z^X ]Df}.6YBPeJlegos^w$`|`?R`#:MP%goQX5GTxu*>[PIl[evHcjDq-kaw2QD!0QX
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Hearts will end.0Unable to establish DDE server.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Hearts will end./Unable to connect with dealer.

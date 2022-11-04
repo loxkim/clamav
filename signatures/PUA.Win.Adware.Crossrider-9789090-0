@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Crossrider-9789090-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Joseph said unto his father, They are my sons, whom God hath given me in this place. And he said, Bring them, I pray thee, unto
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gtnjdnsicmpbnuqjepctdaecrdimafbtirdh
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+b9c4c4d2d5c8cfdad7d7dacfd2d4d5c4cfd3dad5d0c2d4cec4cbdadcdec4cbd7dad8ded3d4d7dfdec9c4c4b9
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+d8f3fef8f0daeeeff4ceebfffaeffecee9f7c4d3efefebcff4d9f2f5fae9e2ddf2f7fec9feeaeefee8ef
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+vOnInitDialog_QueryControl_%d

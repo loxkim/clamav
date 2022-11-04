@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9891177-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Write$Error creating variant or safe array!'%s' is not a valid integer value
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SYoooYSoooSOYooYOSooWSYXo\SYooS\YooSY\ooWYSXo\YSooY\SooYS\oo\YOSo\SOYoYOS\oSOY\oSO\YoY\OSoWSOYXWYOSX
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Cq,KSUNc:"k93g
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+&No!Control '%s' has no parent window
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7 7$7(7,7074787<7J7R7:8>8B8F8J8N8R8V8Z8^8b8f8j8n8r8v8z8~8

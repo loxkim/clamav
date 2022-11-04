@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ostrich-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+InfoLabel.Caption = vbCr & vbCr & vbCr & "    Der Virus-Generator darf nur zum Test von Antiviren-Software" & vbCr &

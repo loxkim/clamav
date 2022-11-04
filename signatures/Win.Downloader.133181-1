@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.133181-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+record.asp?device_t=%s&key=%s&device_id=%s&cv=%s&result

@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Haj-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+o %%a
+goto haj_end
+:haj_loop
+for %%a in (%2\*.bat) do call %0 /haj_p %%a
+goto haj_end
+:haj_inf
+find "h

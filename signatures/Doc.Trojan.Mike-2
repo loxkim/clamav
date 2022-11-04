@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mike-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If WordBasic.[macroname$](I, 1) = "Mike" Then CheckMe = 1{WILDCARD_ANY_STRING}izerCopy NormalTemplate.FullName, ActiveDocument.FullName, "Mike", wdOr

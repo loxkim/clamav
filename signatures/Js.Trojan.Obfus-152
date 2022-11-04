@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-152
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if(r.test("asda")&&!r.test("asda")&&r.test("asda"))throw 1;}catch(q){w=z*-1}if(a.innerhtml=="2")e=window[cc+"al"];e(string[c+"romcharcode"](

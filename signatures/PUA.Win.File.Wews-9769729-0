@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Wews-9769729-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://pay.37.com/select.php?gamename=fs&gameserver=%s&username=%s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ref:documentID="xmp.did:7E5911CB1B8011E797D8E9F407DE1758"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>Q
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://d.wanyouxi7.com/37/fs/official/37fs.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ref:documentID="xmp.did:812E838B1B8011E799D5D34C202EB30D"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ref:documentID="xmp.did:7FB858D01B8011E79B7DBA4C7BB4F071"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>

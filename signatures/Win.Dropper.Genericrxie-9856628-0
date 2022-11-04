@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Genericrxie-9856628-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+local xx = game:service('ReplicatedStorage'):WaitForChild('DefaultChatSystemChatEvents').SayMessageRequest
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Script 'console', Line %d%s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xx:FireServer('/me has loaded the SLX trial.', 'All')
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+T1X1074787<7@7D7H7L7P7T7X7\7`7d7h7l70?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+70K:\'

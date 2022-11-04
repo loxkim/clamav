@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillFiles-34
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+%systemdrive%\\*.exe del /f /s /q

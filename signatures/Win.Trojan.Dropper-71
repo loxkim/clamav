@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Dropper-71
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+window.moveto(0,0);</script>
+<script language="vbscript">{WILDCARD_IGNORE}{WILDCARD_IGNORE}="4d5a9

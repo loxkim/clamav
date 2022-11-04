@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Cryrar-6936873-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://cp.youngzsoft.com/license.php?type=emailauth&email=%s&password=%s&license=%s&product=%s&machineid=%s&releasetime=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://user.youngzsoft.com/call.php?email=%s&firstname=%s&lastname=%s&phone=%s&license=%s&product=ccboot
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://cp.youngzsoft.com/getpwd.php?
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%dK %s-wide RAM %s Rx:Tx split, %s%s interface.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Media override to transceiver type %d (%s).

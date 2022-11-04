@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.QQpass-9937650-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%s[-] ShellExecute Param for CmdFirewall.exe = %s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DOPFrame::Command_Executed
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+shell32.dll Control_RunDLL firewall.cpl
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[%s] hwndPssFrameWndAgent=0x%08X / hwndTopBtnWndAgent=0x%08X / hwndLauncherWndAgent=0x%08X
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[%s] BeginDeferWindowPos() returns NULL. (GetLastError() returns 0x%08X.)

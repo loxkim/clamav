@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mmkv-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+NormalTemplate.VBProject.VBComponents.import WinDir + "\SYSTEM\" + "WINMK.SYS"

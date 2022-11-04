@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.AutoClose-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Sub autoopen(){WILDCARD_ANY_STRING}OrganizerCopy Source:=l, Destination:=s, Name:{WILDCARD_ANY_STRING}If Year(i) >= 2001 Then{WILDCARD_ANY_STRING}ActiveDocument.Save

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Trojan.Winlock-6629293-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#http://logo.verisign.com/vslogo.gif04
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2Terms of use at https://www.verisign.com/rpa (c)101.0,
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1http://crl.usertrust.com/UTN-USERFirst-Object.crl05
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/http://csc3-2010-crl.verisign.com/CSC3-2010.crl0D
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/http://csc3-2010-aia.verisign.com/CSC3-2010.cer0

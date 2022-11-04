@@ -1,0 +1,33 @@
+VIRUS NAME: Unix.Trojan.Fastcash-9911218-0
+TDB: Engine:55-255,FileSize:0-200000,Target:0
+LOGICAL EXPRESSION: 0&((1&2)|3)&(4|5)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+init_hashmap succ
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Passed Message(msg=%04x, term=%02x, pcode=%06x, pan=%s)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Blocked Message(msg=%04x, term=%02x, pcode=%06x, pan=%s)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Message(msg=%d, ct=%d, pc=%d, pan=%s)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/tmp/.ICE-unix/context.dat
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/tmp/.ICE-unix/tmpresp_%d.log

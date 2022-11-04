@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Timecrack-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+c:\t.reg regedit /s c:\t.reg del c:\t.reg ctty con cls

@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.VB-42
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Q* = %%
+*PutToWin*= %0%
+*PutToRun*= %1%
+*PutToRns*= %1%
+*KeyLog*= %1%
+*Title*= %Error%
+*MSG*= %Th

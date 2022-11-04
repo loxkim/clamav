@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.PinkRen-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+pink floyd - wish you were here{WILDCARD_ANY_STRING(LENGTH<=500)}xhr_send("post","http://share.renren.com/share/submit.do",data,"presend")

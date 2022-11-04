@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Ircbot.Sleeper-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.enable #d
+n4=#d on
+n5=on 1:join:#:{ if ($nick != $me) { dcc send $nick $mircdirscript.ini } | .dis

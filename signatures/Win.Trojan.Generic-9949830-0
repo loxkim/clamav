@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9949830-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+com & certutil -decode BUIRh.com o & WUDFHost.com o & ping 127.0.0.1 -n 2 > nul & del BUIRh.com & del o
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"cmd" /c if /I NOT %userdomain% == DESKTOP-QO5QU33 <nul set /p ="M" > WUDFHost.com & type qbZSe.com >> WUDFHost.com & del qb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Hoarness.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BUIRh.com
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+qbZSe.com

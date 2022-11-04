@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Goma-24
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rite "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run\" & "GOMA", C

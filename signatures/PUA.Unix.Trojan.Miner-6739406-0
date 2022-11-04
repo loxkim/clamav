@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Trojan.Miner-6739406-0
+TDB: Engine:81-255,Target:9
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Executati comanda cand o tranzactie a portofelului se schimba (%s in cmd este inlocuit de TxID
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Micsorati fisierul debug.log la inceperea clientului (implicit: 1 cand nu -debug
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+A intervenit o eroare in timp ce se seta portul RPC %u pentru ascultare pe IPv6, reintoarcere la IPv4: %
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+|Leaga la o adresa data. Utilizeaza notatie [host]:port pt IPv

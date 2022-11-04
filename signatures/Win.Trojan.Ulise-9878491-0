@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ulise-9878491-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Search string (regex options turned on)#src="http://www.MY-CLIENTS-TYPEPAD-DOMAIN.com/\.a/([^\s]+(?=))"#i
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Friday, May 3, 2002[this is a magazine .com] -- it has words and pictures in it
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Another reminder is the ground clamp must stay stagnant while the plasma cutting process is still there
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Registers the file, 2020search2.dll, so that it is integrated it into Internet Explorer
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Commodore Lamento Solar and Commander Tiberius Hayward, to the both of you in turn I wish to give the Draconian Star!

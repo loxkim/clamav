@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-39
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sockwrite -nt $sockname USER $read(v1rg1n) $r(a,z) $r(a,z) : $+ $read(v1rg1n) $read(v1rg1n)

@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-31758
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+nction main() { var xxx = "<body" + " onload="+" window();>" document.write(xxx) window.location.reload() } </scr

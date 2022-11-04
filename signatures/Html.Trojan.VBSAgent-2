@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSAgent-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+tskill svchost tskill winlogon tskill dlccoms tskill jusched tskill dlactrlw tskill dlccom

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ircase("$pn","$onde","$1") unless ($natrix eq "!atrix" and $arg =~ /^\!nick/);

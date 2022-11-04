@@ -1,0 +1,10 @@
+VIRUS NAME: Dos.Trojan.DeltreeY-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off
+if exist c:\Hellfire\hellfire.exe goto Hellfire_e
+@echo on
+@echo Hellfire not found...
+@echo Please, wait... 
+@

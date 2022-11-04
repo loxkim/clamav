@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Sasser-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+open 24.36.32.79 5554
+anonymous
+bin
+get 632_up.exe
+bye

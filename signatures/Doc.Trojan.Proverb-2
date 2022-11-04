@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Proverb-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+?макровирус?, "Во?Ва?" & Application.UserName, "Последни?прикол сезона", "Word: Ой, сейчас описаюсь...")) = 1 Then ShowMess

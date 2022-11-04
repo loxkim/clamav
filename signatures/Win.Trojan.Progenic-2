@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Progenic-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ckedBYus
+This example will change the RegisteredOwner of the RemoteHost computer
+to 'HackedBYus' You can cha

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Ecsudown-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+CloseHandle Sleep MessageBox CreateWindow GetMessage DrawText PostQuitMessage ShowWindow GetDC SendMessage IsWindowVisible

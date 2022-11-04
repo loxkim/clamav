@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6663072-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+TRY.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s[cs[cs[cs[cs[cs[cs[cs[cs[cs[cs[cs[cs[cs[cs[cs[cs[coK*oK*oK*oK*oK*oK*oK*oK*oK*oK*oK*oK*oK*oK*oK*oK*oK*@D
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[c`[c`[c`[c`[c`[c`[c`[c`[c`[c`[c`[c`[c`[c`[c`[c`[c`K*sK*sK*sK*sK*sK*sK*sK*sK*sK*sK*sK*sK*sK*sK*sK*sK*sD
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ge|ge|ge|ge|ge|ge|ge|ge|ge|ge|ge|ge|ge|ge|ge|ge|ge|.x_.x_.x_.x_.x_.x_.x_.x_.x_.x_.x_.x_.x_.x_.x_.x_.x_
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c`xc`xc`xc`xc`xc`xc`xc`xc`xc`xc`xc`xc`xc`xc`xc`xc`x*s[*s[*s[*s[*s[*s[*s[*s[*s[*s[*s[*s[*s[*s[*s[*s[*s[

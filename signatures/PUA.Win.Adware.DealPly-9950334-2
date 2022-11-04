@@ -1,0 +1,13 @@
+VIRUS NAME: PUA.Win.Adware.DealPly-9950334-2
+TDB: Engine:90-255,Target:3
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+"http://www.bitcomet.com/client/member/?item=nickname&username=${user_id}&v=${client_ver}&l=${lang_id}"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+text-format="${nick_name}"

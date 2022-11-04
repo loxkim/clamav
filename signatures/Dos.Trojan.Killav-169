@@ -1,0 +1,8 @@
+VIRUS NAME: Dos.Trojan.Killav-169
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+el /f /q /s  C:\msav\*.* >nul
+del /f /q /s  C:\norman\*.* >nul
+del /f /q /s  C:\norton~1\*.* >nul
+del

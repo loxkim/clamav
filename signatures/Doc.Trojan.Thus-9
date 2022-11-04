@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Thus-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ActiveDocument.Content = "I hate this bitch - SHITneva from Ulyanovsk!"

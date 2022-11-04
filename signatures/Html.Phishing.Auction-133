@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-133
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+link below. <a target="_blank" href="http://{WILDCARD_ANY_STRING(LENGTH<=100)}">https://cgi.ebay.com

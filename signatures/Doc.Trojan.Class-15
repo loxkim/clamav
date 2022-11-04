@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.replaceline j, Chr(39) & r * r & o * o & r * r * o * o & r * r & o * o & r * r & o * o

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Trojan-881
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if(getenv('HTTP_REFERER')!=""&&!stristr(getenv('HTTP_USER_AGENT'),"bot")&&!stristr(getenv('HTTP_USER_AGENT'),"google")&&!stristr(getenv('HTTP_USER_AGENT'),"yandex"))

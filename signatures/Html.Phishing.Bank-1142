@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1142
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+internet banking update{WILDCARD_ANY_STRING(LENGTH<=50)}by clicking on the link below you will begin the procedure of the member details verification:

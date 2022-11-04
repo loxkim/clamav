@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zusy-9970844-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+document.write('<div id="srh1" style="display:none"><a href="http://www.huidawo.com/" target="_blank"><img src="LOGOAD0
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ghYellowPagePopup - from http://www.zipghost.com/
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\Software\Microsoft\Windows\CurrentVersion\Internet Settings\User Agent\Post Platform
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"zipghost.com" or "www.zipghost.com"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Cant write uncompressed fileKAmount read of uncompressed file is less than originally reported file size

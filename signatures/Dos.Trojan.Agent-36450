@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36450
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@ echo off @ netsh firewall set opmode disable @ start "explorer.exe" "patiala_house.doc" @ c:\windows\inf\win\soundmen.exe @ exit 

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-13
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+echo "uname -a: $un<br>"; echo "id: $id1<br>"; echo "pwd: $pwd1<br>"; exit;

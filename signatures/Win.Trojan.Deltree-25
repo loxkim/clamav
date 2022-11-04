@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Deltree-25
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set !k=%windir%
+deltree \y %!k%\winstart.bat

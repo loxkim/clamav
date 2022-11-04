@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1258
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+This e-mail is to inform you that your account will be suspended within 48{WILDCARD_ANY_STRING(LENGTH<=2)} hours

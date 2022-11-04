@@ -1,0 +1,25 @@
+VIRUS NAME: Doc.Downloader.URSNIF-6729855-3
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 3
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Name
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Base = "1Normal.ThisDocument"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Shell
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1&2
+     +-> REGEX: (Format\(\w*\)( \+ \w*){6}, vbHide)|(( \w+ \+ \w+)( \+ \w+)*, (Format|CStr)\(vbHide\))|(CleanString\(\w+\)( \+ \w*){4,},)
+     +-> CFLAGS: m

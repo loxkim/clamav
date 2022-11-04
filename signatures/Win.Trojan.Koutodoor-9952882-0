@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Koutodoor-9952882-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://www.qidian.com/newindex.aspx?db=115&adid=121153&type=client&url=http://www.qidian.com/Default.aspx
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://pindao.huoban.taobao.com/tms/channel/onsale.htm?pid=mm_10947376_947601_1996051
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%s\rundll32.exe "%s",DllUnregisterServer
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%s\rundll32.exe "%s",DllGetObjectType
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://suggestion.baidu.com/su?wd={searchTerms}&action=opensearch&ie=utf-8&from=ie8

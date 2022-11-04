@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Adware.Cimpli-6748690-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+T{shared_ptr<eD4FFg88XFNWJScX>=^{eD4FFg88XFNWJScX}^{__shared_weak_count}},V__commandHandler
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{fgIhHg<fgIhHgs/WnVXAT::cz4PNjU0X3BXHjUYBTR1X<dxsjFxYdUlp/CDU>, dxsjFxYdUlp/CDU>}^{__shared_weak_count}}},V__webfgIhHg
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{shared_ptr<ewM1DQM9UX9TDi0eED5IU1Y>="__ptr_"^{ewM1DQM9UX9TDi0eED5IU1Y}"__cntrl_"^{__shared_weak_count}}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+T{shared_ptr<ewM1DQM9UX9TDi0eED5IU1Y>=^{ewM1DQM9UX9TDi0eED5IU1Y}^{__shared_weak_count}},V__bgThread
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{shared_ptr<ewM1DQM9UX9TDi0eED5IU1Y>=^{ewM1DQM9UX9TDi0eED5IU1Y}^{__shared_weak_count}}16@0:8

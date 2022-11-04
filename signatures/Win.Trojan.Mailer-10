@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Mailer-10
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for($x=0; $x<$numemails; $x++){ $to=$allemails[$x]; if ($to){ $to=ereg_replace(" ", "", $to); $message=ereg_replace("&email&", $to, $message); $subject=ereg_replace("&email&", $to, $subject);{WILDCARD_ANY_STRING(LENGTH<=1000)}mail($to, $subject, "", $header);

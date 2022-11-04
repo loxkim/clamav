@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-398
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+echo>>e:\autorun.inf{WILDCARD_ANY_STRING(LENGTH<=21)}em.cmd&attrib +s +h +r e:\

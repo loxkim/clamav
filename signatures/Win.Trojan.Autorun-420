@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autorun-420
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.writeline"[autorun]"{WILDCARD_ANY_STRING}.writeline"shellexecute=wscript.exe

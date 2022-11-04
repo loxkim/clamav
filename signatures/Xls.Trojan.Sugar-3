@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Sugar-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+tem(yy).CodeModule.InsertLines (Weins1 + 1), "Private Sub Auto_Close()" & v1 & "For x = 1 To Workbooks.Count"

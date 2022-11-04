@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Mailru-7101575-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+erClass2%7D%2F%7BbrowserClass1%7D&ext_online_callback=http%3A%2F%2Farbmail.adv.biz%2Fsave%2Findex%2F%3F%7BinstallId%7D%2F%7Bpaid
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ve%2Findex%2F%3F%7BinstallId%7D%2F%7Bbrowser%7D%2F%7Bpaid%7D%2F%7BpaidAction%7D%2F%7BpaidBrowser%7D%2F%7Bcomponent%7D%2F%7Bbrows
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ive%7D%5D%26site%3D%5B%7Bplacement%7D%5D%26region%3D%5B%7Bregion_id%7D%5D&ext_install_callback=http%3A%2F%2Farbmail.adv.biz%2Fsa
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+A%2F%2Farbmail.adv.biz%2Fsave%2Findex%2F%3Fguid%3D%24__GUID%26ovr%3D%24__OVR%26source%3Dgoogle_dkit_cis%26campaign%3D%5B%7Bcreat
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%7D%2F%7Bcomponent%7D%2F%7Bbrowser%7D%2F%7BbrowserClass1%7D%2F%7BbrowserClass2%7D%2F%7Brfr%7D&ext_partnerid=dse.1%3A811968%2Cdse

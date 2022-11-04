@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Small-201
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+VX = Left(SmaLL, InStrRev(SmaLL, "\"))
+For Each target in FSO.GetFolder(VX).Files

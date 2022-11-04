@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Detected-9953099-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+MOccurs when the user releases the mouse button while an object has the focus.6Indicates that the contents of a control 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'SHELL32.DLL
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Returns/Sets whether this control can act as an OLE drag/drop source, and whether this process is started automatically 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+MS DataCombo ActiveX Control - Version 6.0 (SP6)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Returns/sets a value that determines the type of control and the behavior of its list box portion.1

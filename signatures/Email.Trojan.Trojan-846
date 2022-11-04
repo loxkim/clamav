@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Trojan.Trojan-846
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+An Account Activity Notification you created has detected that the
+following transaction has posted{WILDCARD_ANY_STRING(LENGTH<=370)}PLEASE REFER TO ATTACHED FORM FOR MORE DETAILS

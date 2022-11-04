@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Optix-18
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+i=0;$i<count($icq);$i++) { if(!empty($icq[$i]) && is_numeric($icq[$i])) { $data=array("to"=>$icq[$i],"from"=>"icq notifier","fromemail"=>$icq_mail,"body"=>$data_body2,"subject"=>$vic_mail_subject); $post[$i]=new socksender(); $post[$i]->send($icq_host,$icq_path,$icq_referer_url."?uin=$icq[$i]",$data); }

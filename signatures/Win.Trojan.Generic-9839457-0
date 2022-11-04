@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9839457-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\Administrator\Application Data\Yahoo!\Messenger\Plugin\16762d37-0eb1-40d0-5863-5fa5ade02675.ypl
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+source\i18n\us\osuninst.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+054585<5@5D5H5L5P5T5X5p5t5x5|5@9D9H9L9d:h:l:p:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+uVS_VERSION_INFO
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1 2,3;3

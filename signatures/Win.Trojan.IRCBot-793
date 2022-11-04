@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRCBot-793
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+!help' && !$chan) { fputs($fp,'ping 12886241614'. crl); $msgdelay = 0; foreach ($helptext as $baris){ $msgdelay++; if($msgdelay >= 2) { sleep(2) ; $msgdelay = 0; } fputs($fp,'privmsg '.$dnick.' :'.$baris. crl)

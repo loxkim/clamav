@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.FormatCQ-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+teLine "@format c: /q /autotest"{WILDCARD_IGNORE}{WILDCARD_IGNORE}autoexec.close 'Закроем Autoexec

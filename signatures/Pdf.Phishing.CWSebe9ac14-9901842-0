@@ -1,0 +1,8 @@
+VIRUS NAME: Pdf.Phishing.CWSebe9ac14-9901842-0
+TDB: Engine:79-255,Container:CL_TYPE_PDF,Target:0
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1 0 0 -1 0 792 cm q 0 0 612 792 re w* n q .75 0 0 .75 0 0 cm 1 1 1 rg 1 1 1 rg /g3 gs 0 0 816 1056 re f q q q 0 0 612 792 re w* n q .75 0 0 .75 72 391.97839 cm .0667 .3333 .8 rg .0667 .3333 .8 rg /g3 gs bt /f4 16 tf 1 0 0 -1 192 .5234375 tm 0 -14.484375 td <0030005c0003003100580047004800030039> tj 81.5 0 td <004c0047004800520003002b004800550048> tj et q q q 73.5 73.5 209.25 302.25 re w* n q 209.25 0 0 -302.25 73.5 375.75 cm /g3 gs /x15 do q q q 285.75 75.75 213 300 re w* n q 213 0 0 -300 285.75 375.75 cm /g3 gs /x16 do q q 

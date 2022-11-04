@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Gh0stRAT-9893197-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+This is <a href="http://www.privoxy.org/">Privoxy</a> 3.0.6 on localhost (127.0.0.1), port 8118<!-- @if-can-toggle-sta
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+use the <a href="http://sourceforge.net/tracker/?group_id=11118&amp;atid=211118">support forum</a> to get help.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+not be fulfilled, because the connection to <b>jd.54liumang.com</b> (218.3.53.175) could not be established.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ggle">Toggle Privoxy on or off</a></li><li><a href="http://config.privoxy.org/user-manual/">Documentation</a></li></ul>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<p>Your request for <a href="http://jd.54liumang.com/ok.exe"><b>http://jd.54liumang.com/ok.exe</b></a> could

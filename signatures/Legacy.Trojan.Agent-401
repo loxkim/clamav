@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-401
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+mi..."",vbokonly+vbsystemmodal,""HAPPY BIRTHDAY"""+vbcrlf+"t(i)=3600*left(time,2)+60*mid(time,4,2)+right(time,2

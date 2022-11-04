@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Notme-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Application.OnTime When:=Now + TimeValue("00:30:00"), Name:=N2_ID & ".N2_Animate"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.MailTest-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.RegWrite "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run\Kernel32", dir

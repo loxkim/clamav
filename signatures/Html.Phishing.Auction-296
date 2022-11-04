@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-296
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if you agree with this rank please <a onclick="return showlinkwarning()"{WILDCARD_ANY_STRING(LENGTH<=500)}><font color=#003399>become an ebay power seller </font></a>within

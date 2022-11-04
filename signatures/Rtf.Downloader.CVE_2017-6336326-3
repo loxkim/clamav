@@ -1,0 +1,25 @@
+VIRUS NAME: Rtf.Downloader.CVE_2017-6336326-3
+TDB: Engine:81-255,Target:0
+LOGICAL EXPRESSION: 3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{\rt
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+objdata
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mmmail
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&(1|2)
+     +-> REGEX: 0\s*0\s*0\s*0\s*7\s*7\s*0\s*0\s*7\s*3\s*0\s*0\s*6\s*4\s*0\s*0\s*6\s*c
+     +-> CFLAGS: i

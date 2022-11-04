@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.BNC-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+%bnc.server notice auth :*** your connecting to the server thanks to psybnc, by exe. sockwrite -n $sockname nick

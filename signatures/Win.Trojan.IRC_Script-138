@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-138
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sockread:inviter*:{  sockread -f %t.i | if ($gettok(%t.i,2,32) == 322) && ($gettok(%t.i,5,32) > 30) { write

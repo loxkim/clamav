@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Slimware-9753246-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CMsiExecutor|http://{DATA.targetenv}apps-api.slimwareutilities.com/install/scp/{OS.VER}/{OS.ARK}/SlimCleanerPlus-setup.m
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+a about your computer, such as its operating system, installed software and connected hardware, network connection status, erro
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+operating system and version of Flash). Please note, however, that without cookies or local storage you may not be able to use 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+stored in a user's computer for record keeping purposes. Our Services may us HTTP cookies, HTML5 cookies, Flash cookies and oth
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+installation process. If the user selects to install such software, then a folder will be created and named 

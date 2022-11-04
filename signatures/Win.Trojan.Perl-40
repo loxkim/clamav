@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-40
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+$uber = substr($uber,0,$nu); } $vul[$a] = $uber; $a++ } } $cmd = '&highlight=%2527%252esystem(chr(99)%252echr(100)%252echr(32)%252echr(47)%252echr(116)

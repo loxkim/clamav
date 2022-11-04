@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Nimda-4
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+window.open("readme.eml",null,"resizable=no,top={WILDCARD_IGNORE}000,left={WILDCARD_IGNORE}000")

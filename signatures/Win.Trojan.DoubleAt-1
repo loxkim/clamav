@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.DoubleAt-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+OV AH,41 >> @@@
+echo INT 21 >> @@@
+echo INT 3 >> @@@
+echo DB "@",0 >> @@@
+echo >> @@@
+echo G >> @@@
+echo Q >> 

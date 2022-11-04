@@ -1,0 +1,9 @@
+VIRUS NAME: Html.Trojan.Voodoo-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ll()
+Real.close()
+Set Real = FSO.OpenTextFile(GetFileName, 2, False)
+Real.WriteLine "<!--Voodoo-->"
+Rea

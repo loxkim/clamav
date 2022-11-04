@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Kovter-9754067-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C2   -il "C:\Users\admin\AppData\Local\Temp\VB288469" -f "C:\Users\admin\Desktop\PE2\P:
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Demokratiebegriffe\reso\VB98\VB6.OLB
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+F_CZ.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&8r&8r&8s'9r&8q%8r&8r&8r&8r&8r&8r&8r&8r&8q%8r&8q$8|.8|/8} 8q$8~!8} 8|/8}/8~!8}/8} 8} 8} 8} 8~!8t'9p#8} 8
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:q%8r&8r&8r&8r&8q%8r&8p#8z+8{,8|-8z,8x*8z+8y*8x)8y+8z,8q$8{-8z,8x*8} 8y+8z,8y+8y+8|-8{-8|.8z+8

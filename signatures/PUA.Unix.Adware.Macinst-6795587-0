@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Adware.Macinst-6795587-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[CONNECTION] Request attempted to use connection #%@, but it has been closed - will retry with a new connection
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/user/Documents/1/macsources2/macInstaller/osxDownloader/osxDownloader/JSONKit/JSONKit.m
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[AUTH] Request %@ will use username and password properties as credentials
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[AUTH] Request %@ received credentials from its delegate or an ASIAuthenticationDialog, will retry
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[CONNECTION] Request attempted to use connection #%@, but it has been closed - we have already retried with a new connection, so

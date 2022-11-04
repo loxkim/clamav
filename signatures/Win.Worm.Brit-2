@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Brit-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ira! | /dcc send $nick "&WinDir&"\Shakira.chm{WILDCARD_ANY_STRING}im = Kuasanagui.GetNamespace("MAPI").AddressLists.Item(3).Addres

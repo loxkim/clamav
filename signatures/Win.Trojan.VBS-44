@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VBS-44
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ows\CurrentVersion\RunOnce\cLeaNinG"){WILDCARD_ANY_STRING}ows\CurrentVersion\RunOnce\cLeaNinG","WScript.exe " &

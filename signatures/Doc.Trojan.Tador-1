@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Tador-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Doc("VT").Export "c:\VT.001"{WILDCARD_ANY_STRING}Print #1, "open ftp.hpg.com.br"

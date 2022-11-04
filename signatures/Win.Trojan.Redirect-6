@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Redirect-6
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if((que.indexof("site:")==-1)&&(que.tolowercase().indexof("www.")==-1))document.write("<script src='http://

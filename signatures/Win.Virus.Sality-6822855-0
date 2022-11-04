@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6822855-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ disabilitata.TL'impostazione dello spooling dei processi di stampa MS-DOS per "%s" 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ della stampante "%s" sono corrette.BL'impostazione del supporto bidirezionale per "%s" 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Le impostazioni del driver di stampa %s(Driver Name) sono errate.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ errata.4Le impostazioni del driver di stampa %s sono errate.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Lo spooling dei processi di stampa MS-DOS 

@@ -1,0 +1,25 @@
+VIRUS NAME: Asp.Trojan.HafniumWebshell-9840815-0
+TDB: Engine:81-255,Target:3
+LOGICAL EXPRESSION: 3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<script>function
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<script language="jscript" runat="server">
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"],"unsafe")
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: (0|1)&2
+     +-> REGEX: <script.*function \w+\(\)\{eval\(request\[".{2,16}"\],"unsafe"\)
+     +-> CFLAGS: (null)

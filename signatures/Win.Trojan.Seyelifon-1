@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Seyelifon-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+http://quadjacks.com/wp-admin/gateway.php{WILDCARD_ANY_STRING}http://wdwwdwfwd.net76.net/index.php{WILDCARD_ANY_STRING}http://itsurvive.com/index.php

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Generic-14
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.writeline " + chr(34) + "n2=/dcc send $nick c:\

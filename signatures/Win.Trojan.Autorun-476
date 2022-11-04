@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Autorun-476
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+open=SEVERINA///aleluja.exe
+;??
+icon=%SystemRoot%\system32\SHELL32.dll,4
+;C?fü?E?
+action=Open folder to view files using Windows Explorer

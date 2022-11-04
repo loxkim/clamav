@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Darky-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Export "c:\darky.dll"
+With Options
+    .ConfirmConversions = False
+    .VirusProtection = False

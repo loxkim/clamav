@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Downloader.TransparentTribe-9940802-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>2,2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+c:\\programdata\\chrmeziIIa.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+c:\\programdata\\Kavach.msi
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\eliza\Documents\Visual Studio 2017\Projects\
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+kavach-app.in

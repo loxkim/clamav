@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.SPK-5
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+war unsere bank mit illegalen transaktionen betr{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}gerischen art überfl{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}tet{WILDCARD_ANY_STRING}das neue sicherheitssystem für ihre konten aktivieren

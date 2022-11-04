@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Ircbot.Asnar-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+en owned!"
+CTF.Close
+Next
+Set FSO = Wscript.CreateObject("Scripting.FileSystemObject")
+Th

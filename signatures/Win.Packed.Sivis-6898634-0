@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6898634-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<str name="adtemplate"  val="http://arc2.msn.com/ADSAdClient31.dll?GetAd?PG=%1!.1023ls!?SC=%2!.1023ls!?DD=%3!.1023ls!"/>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<str name="loginIDRU"   val="?id=2595&amp;RU=http%3A%2F%2Flogin.msn.com%2Fpassport%2Fppmsn.asp" />
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<b><a id="idExtraLinks" href="http://moneycentral.msn.com/partner/redir/mars.asp?iPage=qd">Get a stock quote</a>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<str name="AuthServerLogoff" val="http://cfauth.msn.com/authserv/authlogoff2.asp" />
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<str name="searchtopicsquery" val="http://go.msn.com/svcs/2/33.asp?q=%s&amp;FORM=MSN6B&amp;CY=en-nz"/>

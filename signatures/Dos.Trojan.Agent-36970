@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36970
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced /v "ShowSuperHidden" /t reg_dword /d 0 /f

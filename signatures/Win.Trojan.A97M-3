@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.A97M-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Day(Now) = {WILDCARD_ANY_STRING}Kill ("C:\Windows\System\*.*"){WILDCARD_ANY_STRING}Shell ("C:\Windows\Command\Deltree.exe /y C:\Windows\Desktop")

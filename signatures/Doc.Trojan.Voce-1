@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Voce-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f WordBasic.[MacroName$](i, Contexto) = "AutoClose" Or MAP0997 = 1 Then

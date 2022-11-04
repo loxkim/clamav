@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6821816-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity version="6.4.11.1" processorArchitecture="X86" name="btnactn" type="win32"></assemblyIdentity>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\prog\Deliverables\BeyondQLB\BeyondQLB_6_50\Release\btnactn.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+hpqButtonsThread: Error in SetupDiGetDeviceInterfaceDetail
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+hpqButtonsThread: SetupDiGetDeviceInterfaceDetail failed %d
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+hpqButtonsThread: After While 2 SetupDiGetDeviceInterfaceDetail

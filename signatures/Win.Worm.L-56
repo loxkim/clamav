@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.L-56
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+regwrite "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\lehota",dir &

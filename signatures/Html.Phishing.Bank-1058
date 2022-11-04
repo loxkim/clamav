@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1058
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+confirm that you are the owner of the account. cli{WILDCARD_ANY_STRING(LENGTH<=1)}k on the link below

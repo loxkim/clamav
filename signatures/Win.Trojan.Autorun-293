@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autorun-293
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+[autorun]{WILDCARD_ANY_STRING(LENGTH<=2)}shellexecute=wscript.exe setup.dll.vbs

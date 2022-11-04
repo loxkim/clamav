@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Antimarc-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ActiveVBProject.VBComponents("antiMARC").Export WinDir & "system\microsof.386"

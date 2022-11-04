@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Petman-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ntVersion\Run\", "Blood1") = "rundll32 mouse,disable"{WILDCARD_ANY_STRING}"Your computer is dead." + vbCr + "Don't stop your machine", vbCritical, "W97M.Blo

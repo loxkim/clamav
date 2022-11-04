@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9917770-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\OpenSSL\Temp\openssl-1.0.2a-x32\out32dll\libeay32.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+K:\buildagent\workspace\174348\SLIQ\sliq_image_analyser\face_tracker_facesdk\source\common\MultiFeature\gabor.h
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+e:\amigo_browser_38\amigo_3.0\src\content\child\webcrypto\openssl\rsa_hashed_algorithm_openssl.cc
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+"C:\CSVN\CSVN_Windows_trunk\requirements\openssl\out32dll\ssleay32.pdb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+d:\build\ob\bora-8603956\cayman_openssl\build\release\win32_vc140\openssl\build\out32dll\libeay32.pdb

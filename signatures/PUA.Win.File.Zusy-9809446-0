@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Zusy-9809446-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!\?.dll;!\..\lib\lua\5.4\?.dll;!\loadall.dll;.\?.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+attempt to close non-closable variable '%s'
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sol: cannot set (new_index) into this object: no defined new_index operation on usertype
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+attempt to assign to const variable '%s'
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AU?$binding@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@P8IGameEvent@@AE?AV12@PBD@ZV3@@u_detail@sol@@

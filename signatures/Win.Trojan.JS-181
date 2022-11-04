@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-181
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+Run(wd+'Regedit.exe -e '+wd+'backup1.reg "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\In{WILDCARD_ANY_STRING(LENGTH<=150)}; wsh.Run(wd+'Regedit.exe -s '+wd+'homere{WILDCARD_ANY_STRING}Run('c:\\removeit.hta

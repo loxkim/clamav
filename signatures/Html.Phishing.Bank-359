@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-359
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<title>customer survey - get {WILDCARD_ANY_STRING(LENGTH<=5)} reward{WILDCARD_ANY_STRING}>click here</a>

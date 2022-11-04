@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Tool.Fusion-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$bufferoverflow .= "A" x 3090;{WILDCARD_ANY_STRING}print $host "$bufferoverflow\n";

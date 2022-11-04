@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Killfiles-33
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+del C:\windows\system.ini
+y
+del C:\windows\ios.ini
+y
+del C:\windows\wininit.exe

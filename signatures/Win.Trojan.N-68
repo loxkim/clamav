@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.N-68
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+90DEF_====
+Content-Type: audio/x-wav;
+	name="readme.exe"
+Content-Transfer-Encoding: base64

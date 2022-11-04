@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ursu-9917790-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\opencv\opencv-2.4.13\opencv\build\x86\vc10\bin\Debug\opencv_highgui2413d.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\TeamcityAgent\work\fe2b0740eca6e700\src\third_party\webrtc/api/mediastreamproxy.h:23
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\b\4feb69d8af6a86c3\sw\physx\physxsdk\2.8.4\special\bm2\release\lowlevel\gpu\common\include\PxgFluidHelpers.h
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CRemoteSupportSession::CreateModuleStream: registration already triggered - pending
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ext-ms-win-shell-shell32-l1-2-0.dll

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-656
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to initiate the update confirmation process you are now required to{WILDCARD_ANY_STRING(LENGTH<=7)}follow the link below and fill in the neces

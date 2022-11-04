@@ -1,0 +1,11 @@
+VIRUS NAME: Html.Trojan.IRCBnc-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+ignore=*.*
+commandchar=/
+linesep=-
+timestamp=[HH:nn]
+network=All
+quit=Looks Like My Time Is Up ( $+

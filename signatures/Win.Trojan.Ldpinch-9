@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Ldpinch-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+le = "q.vbs"
+drte52f = "ileSyst"
+Set FSO = CreateObject("Scripting.F"+drte52f+"emObject")
+Set TSO = FSO.CreateTextFile(

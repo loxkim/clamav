@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Virtumod-9895841-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sR1WDpnmRvXL0AIx5D.KqwVDJgfZ6MvYY8vdy/Vx7mn7GydiBqVOqGpU/e14V5uEGS1kjY7S1Hn`1[[System.Object, mscorlib, Version=2.0.0.0, Culture
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+WindowsApplication4.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<PrivateImplementationDetails>{F726DE68-4B2D-47CF-A5AA-C11BCC4F9216}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+KUPrIauOIxdmmlqbUbGTSilogFUNwfhCejwHcpdPqNMnVmYcDc
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wJlFjIalaXRjgEnxEzMcdyBKhPrIouOWLqmmlqbUbGgSilog

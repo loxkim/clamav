@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Gh0stRAT-7752299-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%qjpi_%;x~ivy@ikhvtxZ[O >|r~h@nm{vnlZ[Zln{Z_L >~vsu|{kumZ[Z-Z_ik~_Z-S]
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%~ilsxt_%;x~ivy@ikhvtxZ[O >|r~h@nm{vnlZ[Zln{Z_L >~vsu|{kumZ[Z-Z_ik~_ZN[Z[^L.(_J]^VZE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Copyright ? 1998-2008 Mark Russinovich
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%@]muhZ >}{ls|Elnmsq}_^J%;yw{mEkh~ski_^_ik~_ZI%;{svpy~nph_^_(_Zln{Z_[^_@TVEQZE
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+o]ZN?D90731rkws]ZN?;_9;?1rkwX_K:a;_9;?A<5263709D:><Z>[]Y[_Y]WSUQSWQ;_9;?A4~io

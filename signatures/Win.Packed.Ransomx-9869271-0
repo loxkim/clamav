@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Ransomx-9869271-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cf:\dd\vctools\crt_bld\self_x86\crt\src\winsig.c
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Zalegi vobifol mobamis7Vorecevako juvaxecuyizike zawove tufozufasotegax wahoteYGal tomasatubote lumuzenu bibakose rokeco
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+BaxitucedomESisey yoka hanuzolefogazu bibe wawu yukomodo rixayase gomekalayibehetSVoji lovecun hudufiyaba kove wihafebu 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@(_osfile(fh) & FOPEN)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+j hpMK

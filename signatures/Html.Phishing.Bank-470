@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-470
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we recently noticed one or more attempts to log in{WILDCARD_ANY_STRING(LENGTH<=3)} your {WILDCARD_ANY_STRING(LENGTH<=50)}from {WILDCARD_ANY_STRING(LENGTH<=2)}foreign ip ad{WILDCARD_ANY_STRING(LENGTH<=1)}res{WILDCARD_ANY_STRING(LENGTH<=1)} and{WILDCARD_ANY_STRING(LENGTH>=1&&<=150)}we{WILDCARD_ANY_STRING(LENGTH>=1&&<=150)}have reasons to believe that your account was

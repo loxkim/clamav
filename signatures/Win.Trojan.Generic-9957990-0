@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9957990-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#C:\Users\jc\AppData\Local\Temp\.htm
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity type="win32" name="MyApp" version="1.0.0.0" processorArchitecture="x86"/>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xmlns:xmp='http://ns.adobe.com/xap/1.0/'>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+aximum extent possible under the law. See your documentation for more information on your QuickReport license agreement.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VIdentifique seu computador (micro do tesoureiro, secretaria, notebook do pastor, etc.)

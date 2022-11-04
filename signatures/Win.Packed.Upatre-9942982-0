@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Upatre-9942982-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\2f97c6351d80627798fe8a21a6faf990bcff4203a068c9e86964ba64f180e2bf
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\a91af6db9f49c7e7d34c568cab0ae302d0a42ff1d24415352cdfa6680972380f
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Access="false"/></requestedPrivileges></security></trustInfo></assembly>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+o-(y-(y-(y-(y-(y-(y-(y-(z-(y-(y-(y-(y-(y-(y.)y/*y.*y-(y-(y-(y-(y.+xTT

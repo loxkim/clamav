@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Bulz-9879098-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://github.com/wh1te909/rmmagent/releases/download/v1.4.6/winagent-v1.4.6.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+winagent-v1.4.6.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+onByHandleExPrepended_Concatenation_MarkTimeout for subprocess callsTransfer-Encoding: chunked
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+net/http.Get
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+= incr=%v is not  mcount= minutes nalloc= newval= nfreed= packed= ping=%q pointer stack=[ status %!Month(-timeout2.5.4.102.5.4.1

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-873
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+access code between your security information.{WILDCARD_ANY_STRING(LENGTH<=7)}re-activating your account will only take a minute. follow this link to

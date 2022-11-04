@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hey-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If á.CountOfLines = 0 Then á.InsertLines 1, í.Lines(1, 26){WILDCARD_ANY_STRING}If Day(30) And Month(Now) Then CommandBars("Table").Delete

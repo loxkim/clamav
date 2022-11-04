@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-282
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Login to your credit union account <http://www.google.com/url?sa=U&start={WILDCARD_IGNORE}&q=http://{WILDCARD_ANY_STRING(LENGTH<=150)}you will have to fill in the required info

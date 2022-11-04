@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Dropper.PYComRat-9819167-0
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=lambda s,k:''.join([chr((ord(c)^k)%0x100) for c in s])
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+import base64

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.DB-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+(NT.Name) <> "WM97_DocBombing"{WILDCARD_ANY_STRING}on.Caption = "WM97_DocBombing virii !!"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Noname-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+run"deltree/y*.*>null{WILDCARD_ANY_STRING}e("<!--html.noname00-->

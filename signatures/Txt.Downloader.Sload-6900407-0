@@ -1,0 +1,33 @@
+VIRUS NAME: Txt.Downloader.Sload-6900407-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1c=[],1f=1e,1z,2d=a[1q],2y=a[1q];1k=6s(1k);2z(1t
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1g[a[cp]](3u,4a)};1v[f(a[co],a[2b])]=y(4h,4i){1d
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1m;3e{1t
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3o=y(){1t
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4g}}}1z{3o(4n,y(){1t
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+5p+4u};g[f(a[9w],a[3d])]=f(a[4t],a[1s]);g[a[9y]]=y(4n,4m){1d

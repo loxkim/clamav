@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Vgen-99
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off%_CoDe%
+if '%1=='Inf goto CoDe_inf
+if

@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-154
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+catch(q){w=z*-1} if(a.innerhtml == '3') e=window[cc+'al']; s=string[c+'r'+'omchar'+'c'+'o'+'d'+'e'](

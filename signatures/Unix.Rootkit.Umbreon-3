@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Rootkit.Umbreon-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+umbreon.cryptpass) == umbreon.cryptpass: os.execv("/bin/bash",("-bash","-i"))

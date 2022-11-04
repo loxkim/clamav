@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Bifrose-7337875-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@*\AC:\DocumEnts and Settings\Marcos\Desktop\BLUGB\Stube\Stube.VBP
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+]K" ]K"$]K"']K"*]K",]K"/]K"0]K"2]K"2]K"3]K"2]K"2]K"1]K"0]K"-]K"+]K"(]K"%]K"!]K"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\decrypted.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+]K"!]K"$]K"&]K"(]K"*]K"+]K"-]K".]K"0]K"1]K"1]K"1]K"1]K"0]K"/]K"-]K",]K"*]K"(]K"%]K"#]K"]K"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+]K"#]K"(]K"-]K"1]K"5]K"9]K"=]K"@]K"B\J"F

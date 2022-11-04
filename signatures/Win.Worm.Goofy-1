@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Goofy-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nfo.txt") Then
+Set DF=fso.CreateTextFile(sys&"\Plg_PTK\Info.txt")
+DF.WriteLine "Files Found By VBS.GoodBye.Worm :"
+DF.Writ

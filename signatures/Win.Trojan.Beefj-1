@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Beefj-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+CodeModule.Lines(line, line) <> "Sub BeefJerky()"

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.PIFVir-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+o e 110 c2 b4 02 cd 21 eb ec cd 20 ba 21 01 b4 09 cd 21>>PiFV$$
+echo

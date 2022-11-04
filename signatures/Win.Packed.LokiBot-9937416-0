@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.LokiBot-9937416-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<file path="C:\Users\Admin\Desktop\projets\Heroes\img\town\h2_necromancer.gif" />
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<file path="C:\Users\Admin\Desktop\projets\Heroes\img\town\h3_stronghold.jpg" />
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<file path="C:\Users\Admin\Desktop\projets\Heroes\img\images\02_01.gif" />
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<file path="X:\Musiques\Bjork\Bjork-Greatest Hits (Darkside_RG)\01 - All Is Full Of Love (Video Version).mp3" />
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<file path="X:\Musiques\Bjork\Bjork-Greatest Hits (Darkside_RG)\11 - Hidden Place.mp3" />

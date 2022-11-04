@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Mphak-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+uery = "select * from ".$dbstats." where statid = 'traff' order by count desc"; $r = mysql_query($query); while ($array = @mysql_fetch_array($r)) { echo "<tr class=t_3><td align=left> ".htmlshowflag($array['a2'])." ".$array['a2']." - ".ucfirst(strtolower($array['country'])); $traff = $array['count']; echo "</td

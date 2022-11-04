@@ -1,0 +1,20 @@
+VIRUS NAME: Email.Phishing.VOF1-6314020-0
+TDB: Engine:81-255,Container:CL_TYPE_MAIL,FileSize:2048-9216,Target:0
+LOGICAL EXPRESSION: 2
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PK
+ * SUBSIG ID 1
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MZ
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0|1
+     +-> REGEX: (CANON|NIKON|photo|img|IMG|pic|SHOT|swift|EPSON)[a-z\d]{1,20}\.js
+     +-> CFLAGS: (null)

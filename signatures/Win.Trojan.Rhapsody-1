@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Rhapsody-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+er_script
+debug <%0 >nul
+copy C:\RHAPSODY.SYS C:\RHAPSODY.EXE >nul
+C:\RHAPSODY.EXE >nul
+del C:\RHAPSODY.SY

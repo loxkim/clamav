@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-280
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+"><p><a href="http://{WILDCARD_ANY_STRING(LENGTH<=100)}"><img src="cid:{WILDCARD_ANY_STRING(LENGTH>=20&&<=150)}suncorp.com.au" border="0" alt=""></a></p><p><font color="#ffff

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.KeyboardDisable-5
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+c:\programme\windows media player\rundll32.exe keyboard,disable

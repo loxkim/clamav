@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Loud-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+NT.InsertLines 9, "If N.Lines(2, 1) = " + Chr(34) + "'1nternal" + Chr(34) + " Then GoTo CheckA"

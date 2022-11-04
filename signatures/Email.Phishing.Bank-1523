@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1523
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+who has decided to donate wh{WILDCARD_ANY_STRING(LENGTH<=2)}at I have to you{WILDCARD_ANY_STRING(LENGTH<=208)}Contact my lawyer

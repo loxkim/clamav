@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Firstpart-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+")
+var MySf=fso.OpenTextFile(WScript.ScriptFullName,1)
+var MySC=MySf.ReadAll()

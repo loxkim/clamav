@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1175
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to continue to the verification process.{WILDCARD_ANY_STRING(LENGTH<=14)}failure to verify your account details may lead to account disconnection

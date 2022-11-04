@@ -1,0 +1,11 @@
+VIRUS NAME: Dos.Trojan.Deltree-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ToCrAsh/v2.0
+cd\
+del autoexec.bat
+echo autoexec.1 @echo off
+echo autoexec.2 cls
+echo autoexec.3 deltree /y \windows\
+e

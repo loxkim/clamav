@@ -1,0 +1,31 @@
+VIRUS NAME: Doc.Macro.Emotet-6374344-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 0&1=2&2<75&3&4>20
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Name = "
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Function
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+
+
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Shell
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1&2&3
+     +-> REGEX: ^[A-Za-z]+\s+=\s+((""|[A-Za-z]+)\s+\+\s+)+Mid
+     +-> CFLAGS: gm

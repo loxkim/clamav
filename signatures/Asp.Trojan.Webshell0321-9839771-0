@@ -1,0 +1,5 @@
+VIRUS NAME: Asp.Trojan.Webshell0321-9839771-0
+TARGET TYPE: HTML
+OFFSET: 0
+DECODED SIGNATURE:
+<%@ page language="c#" debug="true" trace="false" validaterequest="false" enableviewstatemac="false" enableviewstate="true" %><%@ import namespace="system.io" %><head runat="server"><%if(system.io.file.exists({WILDCARD_ANY_STRING(LENGTH<=260)}{response.write( "1");}if(system.io.file.exists({WILDCARD_ANY_STRING(LENGTH<=260)}{response.write( "2");}if(system.io.file.exists("{WILDCARD_ANY_STRING(LENGTH<=260)}")){response.write( "3");}%></head>

@@ -1,0 +1,18 @@
+VIRUS NAME: Html.Phishing.Morse-9831478-0
+TDB: Engine:81-255,Target:3
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+document.getelementbyid("mypic").setattribute("src",ulb)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+document.getelementbyid("mytext").innerhtml=go;
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+document.getelementbyid("myvalue").value=go;

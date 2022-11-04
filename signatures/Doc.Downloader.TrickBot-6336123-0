@@ -1,0 +1,30 @@
+VIRUS NAME: Doc.Downloader.TrickBot-6336123-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 4
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Name =
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+UserForm1.ListBox1.Left
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(file, data)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Shell
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1&2&3
+     +-> REGEX: \s+\x3D\s+\x22[^\x20\x0D\x0A\x00]{500,}\x22
+     +-> CFLAGS: (null)

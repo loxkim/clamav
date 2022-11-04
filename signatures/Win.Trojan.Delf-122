@@ -1,0 +1,15 @@
+VIRUS NAME: Win.Trojan.Delf-122
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+*
+ENDURL
+
+#OTHER
+URL=hsbc;scotiabank;citibank;bank
+INPUT=*
+SELECT=*
+ENDURL
+
+#e-money
+URL=moneybookers;gi

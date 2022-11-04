@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Allen-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MAIN.VB_ProcData.VB_Invoke_Func = "TemplateProject.RpFSA.MAIN"

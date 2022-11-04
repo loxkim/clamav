@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zusy-9948305-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+dThis "Portable Network Graphics" image contains an unknown critical part which could not be decoded.pThis "Portable 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+,Specified Login Credential Service not found"%s (Version %d.%d, Build %d, %5:s):%s Service Pack %4:d (Version %1:d.%2:
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+BootEditor.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+UTF-7%Cannot remove shell notification icon"PageControl must first be assigned"%s requires Windows Vista or later
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Scan line index out of range!Cannot change the size of an icon%Cannot change the size of a WIC Image

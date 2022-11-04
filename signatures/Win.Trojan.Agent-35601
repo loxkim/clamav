@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35601
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+tata&"\mitelul.vbs"{WILDCARD_ANY_STRING}run (tata&"\winserv.bat

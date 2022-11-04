@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Rozena-9878591-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+body larger than specified content lengthhttp2: response header list larger than advertised limithttp: Request.RequestURI can't
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:/Users/mux1ng/Desktop/loader/common/sandbox.go
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+one uintptr-sized resulthttp: request method or response status code does not allow bodytls: certificate private key does not i
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+svchost/common.exec1
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cannot be matched against constraintsfound bad pointer in Go heap (incorrect use of unsafe or cgo?)http2: request header list l

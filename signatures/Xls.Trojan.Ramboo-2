@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Ramboo-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Workbooks(H$).Sheets("RAMBOO").Protect DrawingObjects:=True, Contents:=True, Scenarios

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.BlackGuard-9942196-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+files/upgrade.php?user={0}&hwid={1}&antivirus={2}&os={3}&passCount={4}&coockieCount={5}&walletCount={6}&telegramCount={7}&vpnCount={8}&ftpCount={9}&country={10}&searche={11}

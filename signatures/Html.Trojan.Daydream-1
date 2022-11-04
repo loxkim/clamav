@@ -1,0 +1,8 @@
+VIRUS NAME: Html.Trojan.Daydream-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rick.htm" & Chr(34) & "," & Chr(34) & infectpath & Chr(34)
+remover.close
+
+WshShell.Run "c:\windows\remvir

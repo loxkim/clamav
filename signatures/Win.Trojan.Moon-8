@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Moon-8
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+xchat.command("dc{WILDCARD_ANY_STRING(LENGTH<=16)}] +" /tmp/noomm.odt")

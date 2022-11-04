@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Worm-43
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+et multiple = A.CreateTextFile("c:\" & multiplevar & ".t{WILDCARD_ANY_STRING}+++++"
+multiple.Writeline "+  Ipnuker Wa

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Cobra-6998402-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Clsmn.exe|wxsyncli.exe|CltSrv.exe|WxLink.exe|wxLkExe.exe|wxsyupd.exe|mpclient.exe|PubwinClient.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Maxthon.exe|TheWorld.exe|IEXPLORE.EXE|FirefoxPortable.exe|firefox.exe|360Start.exe|360se.exe|TTraveler.exe|TT.exe|MyiQ.e
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GetLoginWinHwnd
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+guagua.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+|[NOD32]={ekrn.exe}{nod32krn.exe}{egui.exe}

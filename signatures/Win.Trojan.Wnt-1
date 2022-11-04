@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Wnt-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+struction ;)   Win9x-file-killer ;)
+if exist %1.VxD del %1.VxD >nul
+if exist %1.exe ren %1.exe %1.VxD >nul
+

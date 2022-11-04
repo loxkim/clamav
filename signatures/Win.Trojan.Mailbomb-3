@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Mailbomb-3
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+a.from="bill_gates@microsoft.com{WILDCARD_ANY_STRING}@avp.ru{WILDCARD_ANY_STRING}youbastard

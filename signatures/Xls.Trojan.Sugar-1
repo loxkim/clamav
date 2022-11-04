@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Sugar-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+c = WritePrivateProfileStringA("29A", "Mushroom", "666", "c:\lo.idx

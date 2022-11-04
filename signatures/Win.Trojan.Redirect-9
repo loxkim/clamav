@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Redirect-9
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+window.location=encodeuri{WILDCARD_ANY_STRING(LENGTH<=200)}+encodeuricomponent(document.referrer)+"&parameter=$keyword&se=$se&ur=1&http_referer="+encodeuricomponent(document.url)

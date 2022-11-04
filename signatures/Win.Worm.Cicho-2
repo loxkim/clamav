@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Cicho-2
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+webmaster@ebay.com{WILDCARD_ANY_STRING(LENGTH<=7)}attadrop = "C:\Eaccount.doc

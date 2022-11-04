@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-9800742-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.R
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+File PNG (*.png)|*.png|File BMP (*.bmp)|*.bmp|File JPEG (*.jpeg)|*.jpeg|File GIF (*.gif)|*.gif|File TIFF (*.tiff)|*.tiff
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SnakeGame.Properties.Resources.resources
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+R5kNc-TNdyll9fd2VJYkgLwrPaUM06irq0NaR16m5-GoNXMNED0DYRkxDi365zUNun4l0Bi3bJxsEgoTMN2pYFWpkOshhqcNSZL79ygzMxiBRIDZmm_NiBlogAhzsGYM
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ghkzZoi9xMxS5lmsn23ZKpRpUdY4DnA09MsavdFDnJGRAdZc7HtxWGvQjcBCKsJtxH4kJEDH9nHQ4XrYaCpzSpy6Chop31IgcOonSUlJxLgnS6Qb2EcSONZ9LZs8fPOc

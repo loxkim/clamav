@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36292
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+charat(n006+2))&255)<<(6)|n003.indexof(n002.charat(n006+3))&255;n005+=string.fromcharcode((n004&16711680)>>16,(n004&65280)>>8,n004&255);}eval(n005

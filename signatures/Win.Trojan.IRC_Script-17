@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-17
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+anick $iif($r(0,1) == 1,$r(A,Z)) $+ $read(nicks.txt) $+ $iif($r(1,1) == 1,$r(1,1000)){WILDCARD_ANY_STRING}writeini mirc.ini ident userid $read(ident.txt

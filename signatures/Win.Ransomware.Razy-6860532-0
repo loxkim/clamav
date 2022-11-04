@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Razy-6860532-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\'\'%s\'\' is not a valid date'\'\'%s\'\' is not a valid date and time'\'\'%s\'\' is not a valid integer val
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\'\'%s\'\' is not a valid time
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Cannot assign a %s to a %s%String list does not allow duplicates
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+i111111c76p3050f558-98b5-11cf-bb82-00aa00bdce0bf
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+www.madshi.net'Q

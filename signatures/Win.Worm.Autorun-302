@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-302
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+shell\(&o)\command=recycler\uchelp.exe

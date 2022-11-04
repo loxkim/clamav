@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Gorsh-9838964-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\System32\cmd.exeCertEnumCertificatesInStoreDATA frame with stream ID 0Easter Island Standard TimeG waiting list is
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+using value obtained using unexported fieldUsage: meterpreter [tcp|http|https] IP:PORT
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+llocX-ImforwardsX-Powered-By[hershell]> abi mismatchadvapi32.dllbad flushGenbad g statusbad g0 stackbad recoveryc ap trafficc hs
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+100-continue152587890625762939453125Bidi_ControlCIDR addressCONTINUATIONContent TypeContent-TypeCookie.ValueCreateThreadECDSA-SH
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*., ->///c000X0b0o0s0x2580: ; =#> A3A4CNCcCfCoCsLlLmLoLtLuMcMeMnNdNlNoOKOUPcPdPePfPiPoPsSTScSkSmSoTeToV1V2V3V5V6YiZlZpZs"""

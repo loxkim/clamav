@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Nspack-7595053-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+z}z+ub16:+ak-h-7,`z`mvqr?-*z}z+ub16:+ak-h-6,`z`nnw`|wskmfcuzqgjhtbaoarrqjrjhfmvqr?-*z}z+ub16:+ak-h-
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6mvqr?-*z}z+ub16:+ak-h-}z},qzq765252mvqr?-*z}z+ub16:+ak-h-5,`z`mvqr?-*z}z+ub16:+ak-h-4,`z`mvqr?-
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-*z}z+ub16:+ak-h-2,`z`mvqr?-*z}z+ub16:+ak-h-=,`z`mvqr?-*z}z+ub16:+ak-h-<,`z`47525
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+,`z`mvqr?-*z}z+ub16:+ak-h-0,`z`mvqr?
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*z}z+ub16:+ak-h-3,`z`mvqr

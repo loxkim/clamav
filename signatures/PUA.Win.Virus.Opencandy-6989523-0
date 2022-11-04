@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Virus.Opencandy-6989523-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bf3856ad364e35_0.0.0.0_cs-cz_96a7e9c87369b7db (6.2.9200.21243), elevation:2, lower version revision holder: 0.0.0.0
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bf3856ad364e35_0.0.0.0_da-dk_33e1c9ef69afb3da (6.2.9200.21243), elevation:2, lower version revision holder: 0.0.0.0
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bf3856ad364e35_0.0.0.0_de-de_310d5f2b6b860874 (6.2.9200.21243), elevation:2, lower version revision holder: 0.0.0.0
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bf3856ad364e35_0.0.0.0_el-gr_d9a38cbe5a9b7102 (6.2.9200.21243), elevation:2, lower version revision holder: 0.0.0.0
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bf3856ad364e35_0.0.0.0_es-es_d9c992085a8b05de (6.2.9200.21243), elevation:2, lower version revision holder: 0.0.0.0

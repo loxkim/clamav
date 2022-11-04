@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Indra-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+= 1 to {WILDCARD_ANY_STRING(LENGTH==15)}.AddressLists.Count{WILDCARD_ANY_STRING}.CreateTextFile("C:\mirc\script.ini", Tr{WILDCARD_ANY_STRING}riteLine "n0=ON 1:JOIN:#:{ if ( $nick != $me ) {"{WILDCARD_ANY_STRING}.Write "n1=/dcc           send 

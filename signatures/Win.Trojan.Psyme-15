@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Psyme-15
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+o +=string.fromcharcode(bff(s.substr(i,2))^n^k.charcodeat((i-2)/2%k.length));

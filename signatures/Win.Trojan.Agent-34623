@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-34623
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+hkey_current_user\software\microsoft\windows\currentversion\policies\explorer /v nodrives /t

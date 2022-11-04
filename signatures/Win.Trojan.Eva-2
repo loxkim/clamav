@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Eva-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f4.SubFolders
+fS(fC.Path): Next
+End Sub
+Sub inS(iSf)
+On Error Resume Next
+ifS = "VBS VBE"
+If InStr(ifS,

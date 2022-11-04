@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IRC_Script-86
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$sock($sockname,1).ip $+ $read -l $+ $remove($sockname,$left($sockname,10)) holes.txt
+    if ($window(@IISbug) == $null

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Msilperseus-9892622-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+WindowsFormsApp1.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Z'?(Z'?(Z'?(Z'?(Z'?(Z'?(Z'?(Z'?(Z'?(Z'?(Z'?(Z'?(Z'?(Z'?(Z'?(Z'?(Z'?(Z'?(Z'?(Z'?(Z'?(Z'?(Z'?(Z'?(Z'?(Z'?(Y&>'X$;%V#7$Q"5#I
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3s7)5x9,5y:-5y:-5y:-5y:-5y:-5y:-5y:-5y:-5y:-5y:-5y:-5y:-5y:-5y:-5y:-5y:-5y:-5y:-5y:-5y:-5y:-5y:-5y:-5y:-5y:-5y:-5x9,4t8)1l5/r3
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4Yk6JGnJ8xMsoEqnWs3ndQK521KwjjAy0Nxgl8dkxEsaiXk6d7lc9j/01GDQx368e5+tD4XsCXHl6s12m0wE
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.\1C.\1D.\1D.\1D.\1D.\1C.\1D.\1D.\1D.\1C.\1D.\1C.[0B,X/@+T-:'K))

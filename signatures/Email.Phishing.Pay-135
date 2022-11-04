@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-135
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+We ask that you allow at least 72 hours for the case to be{WILDCARD_ANY_STRING(LENGTH<=2)}investigated and we strongly recommend to verify your{WILDCARD_ANY_STRING(LENGTH<=2)}account in that time.

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zusy-9846467-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+nvGameSR.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!-,5$5(4<4+"34C.)38X4m07f8p-629v0p27u+p25-1h'q/3n1o.2&+i,R$']1S&)-0[.h+2_/o)1(/q(t-3q2{05)/
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+m*!v6h3%I?sEp?8x6p;7?8j:[OCXUTJ@\Ogasuh^~z}r
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+toS|~zu_o?yu\Q2]^LC&R!P:"+
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+NVIDIA Latin American Spanish language resource library

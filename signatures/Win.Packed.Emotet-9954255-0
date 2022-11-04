@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Emotet-9954255-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+a<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!%gj7_x+8SA@,URa}4UO%RUu%BskA91 sk213Dq
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(&P)bV>K_>j3!%fH>_Z_cSc$vUpU%4wNsRA%%BrqI9+Tbk(U#Dk)$qkvlNCl+vz9z
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/;O^k&$%s|j_O^1SetvUqL/4n:bRXA5Bk%F92`lk1
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+p&/+Onj3 (gH3=Z_bHj$m!@U>PXNhfo%>C^qYi+Tcd.U, `)+Eavc<H

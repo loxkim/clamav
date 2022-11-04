@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1366
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+online banking have upgrade, new security{WILDCARD_ANY_STRING(LENGTH<=3)}facilities for<BR>all the customers

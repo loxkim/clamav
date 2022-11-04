@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NoPrint-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Q$ = WordBasic.[DefaultDir$](2) + "\normal.dot"{WILDCARD_ANY_STRING}Name:="DateiDruckenStandard", Tab:=3

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Phishing-12
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+lick here{WILDCARD_ANY_STRING(LENGTH>=1&&<=50)}to update your contact email

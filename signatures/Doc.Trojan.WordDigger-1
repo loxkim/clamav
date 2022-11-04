@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.WordDigger-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If dc(i).Name = "WordDigger" Then

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ShellExec-4
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+f (enabled("system")) { @ob_start(); system($cmd); $rez = @ob_get_contents(); @ob_end_clean(); } elseif (enabled("exec")) { exec($cmd,$o); $rez = join("\r\n",$o); } elseif (enabled("shell_exec

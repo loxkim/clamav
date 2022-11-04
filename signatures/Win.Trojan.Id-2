@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo "\x41\114\x42\101\x4e\x49A\074b\162\076";$x0b = @$x1a();$x0c = $x1c(uptime);$x0d = $x1c(id);$x0e = @$x17();$x0f = $x18("SE\122\x56\x45\122\x5f\123O\106T\x57AR\x45");$x10 = $x1b();$x11 = $_SERVER['SERVER_NAME'];$x12 = $x19($x13);$x14 = $x16();$x15 = @PHP_OS;echo "\157s\x3a\040$x15\x3c\142r\076";echo "\x75n\141\155\145 -\x61: $x0b\x

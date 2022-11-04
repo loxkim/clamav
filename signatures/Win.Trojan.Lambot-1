@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Lambot-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+write clean_ $+ $nopath($1-) $+ .txt $replace($line(@cleancode,%i),$chr(124),$lf,$chr(123),$+($chr(123),$lf),$chr(125),$+($lf,$chr(125)))

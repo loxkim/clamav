@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36680
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off rem do not remove the next lines rem required by system protocol win c:\windows\msrundll32.exe 

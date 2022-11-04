@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-77
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+irms that you have added the following address to your<br>ac{WILDCARD_ANY_STRING(LENGTH>=20&&<=100)}d not authorize this change please contact us using the link<br>below:<br><b

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Aeon-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+document.writeln("IV7 = WSHShell.ExpandEnvironmentStrings(\"\"%windir%\aeon.vbs\"\")");

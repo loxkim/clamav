@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCZapchast-20
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on *:TEXT:!inviter*:*:{  %s.i.c = # | if (# == $null) { set %s.i.c $nick } | if ($2 == load) { /set %i.server $3 | /set %i.port $4 | %i.b = on | s.in

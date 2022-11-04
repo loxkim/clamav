@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Simple-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sEt a=autoexe
+SeT b=.bat
+%e%%a%a%b%>C:\%a%c%b%

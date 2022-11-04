@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Faith-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+B$ = Asc(Mid(I, X, 1)) - f: C$ = C$ & Chr(B$){WILDCARD_ANY_STRING}Call Good_Faith

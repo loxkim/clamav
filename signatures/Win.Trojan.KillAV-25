@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.KillAV-25
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@echo off
+set date=%date%
+date 1981-01-12
+ping -n 45 localhost > nul

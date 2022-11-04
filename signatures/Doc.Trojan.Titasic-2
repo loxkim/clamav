@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Titasic-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If aAddin.Name = "MAMM.dot" Then afound = False

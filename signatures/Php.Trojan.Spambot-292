@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.Spambot-292
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+{ die(PHP_OS.chr(49).chr(48).chr(43).md5(0987654321)); }

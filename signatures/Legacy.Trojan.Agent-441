@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-441
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+dop MsgBox Str$(iWW6IInstance + 1)dReAbortd

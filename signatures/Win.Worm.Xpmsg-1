@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Xpmsg-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+fw:nudepic{WILDCARD_ANY_STRING(LENGTH<=8)}.htmlbody=document.body.outerhtml

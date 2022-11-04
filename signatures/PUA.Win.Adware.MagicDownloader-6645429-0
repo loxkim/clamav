@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Win.Adware.MagicDownloader-6645429-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+http://kurs.ru/{WILDCARD_ANY_STRING}/reg_install.php{WILDCARD_ANY_STRING}/reg_accept.php

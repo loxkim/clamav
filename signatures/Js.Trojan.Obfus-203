@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-203
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+(n015);var n017=document;var n018=document;n017.write("<script>");n018.write(n016);document.write("</script>");</script>

@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.Zachpast-30
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+net use \\%1\ipc$ "root" /user:root
+
+net use \\%1\ipc$ "pass" /user:administrator
+
+net use \\%1\ipc$ "password"

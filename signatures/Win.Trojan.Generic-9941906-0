@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9941906-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://searchandknow-a.akamaihd.net/SearchAndKnow/cr?t=Browser&g=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IDispEventSimpleImpl@$01VCSearchAndKnowBHO@@$1?DIID_HTMLDocumentEvents2@@3U_GUID@@B@ATL@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IDispEventSimpleImpl@$00VCSearchAndKnowBHO@@$1?DIID_DWebBrowserEvents2@@3U_GUID@@B@ATL@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CComCoClass@VCSearchAndKnowBHO@@$1?CLSID_SearchAndKnowBHO@@3U_GUID@@B@ATL@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IDispEventImpl@$01VCSearchAndKnowBHO@@$1?DIID_HTMLDocumentEvents2@@3U_GUID@@B$1?LIBID_MSHTML@@3U3@B$03$0A@VCComTypeInfoHol

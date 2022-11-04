@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Iframe-68
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if(a.data==321)x=-1*(d-d2);n=[-x+7,-x+7,-x+103,-x+100,-x+30,-x+38,-x+98,-x+109,-x+97,-x+115,-x+107,-x+99,-x+108,-x+114,-x+44,-x+101,-x+99,-x+114,-x+67,-x+106,-x+99,-x+107,-x+99,-x+10

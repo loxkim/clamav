@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Trickbot-6366613-0
+TDB: Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<?xml
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<uri>\servicetask</uri>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<allowhardterminate>false</allowhardterminate>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<executiontimelimit>pt0s</executiontimelimit>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<exec>{WILDCARD_ANY_STRING}<command>c:\users\administrator\appdata\roaming\winapp\{WILDCARD_ANY_STRING}.exe

@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Worm.Sorso-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+./getip clear cat myip | while read ip ; do echo "mail -s $ip ador

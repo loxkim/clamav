@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-42
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+| run $hider /n /fh /r "ping.exe $2 -n $3 -l 65500" }

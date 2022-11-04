@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Deltree-26
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+del /f /s /q c:\windows\*.exe

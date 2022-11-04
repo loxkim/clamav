@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Melissa-16
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Selection.ShapeRange.TextFrame.TextRange.Characters(Start:=1, Length:=0).Select{WILDCARD_ANY_STRING}.Text = "‎כהזûאןזüכה" + Chr$(CharCode:=13) + Chr$(CharCo

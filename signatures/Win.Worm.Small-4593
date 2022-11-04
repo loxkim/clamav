@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Small-4593
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+\open\command=wscript.exe virusremoval.vbs

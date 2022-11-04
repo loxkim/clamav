@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.HTML-9
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+codebase="{WILDCARD_ANY_STRING(LENGTH<=15)}.exe"></object></body>

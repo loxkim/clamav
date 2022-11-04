@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Hexzone-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+del %SystemRoot%\system32\ygtlib.dll{WILDCARD_ANY_STRING(LENGTH<=54)}del d.bat

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ASP-28
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+trdbpath & "temp.mdb"{WILDCARD_ANY_STRING(LENGTH<=48)}ÄãµÄÊý¾Ý¿â, " & dbpath &

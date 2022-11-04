@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Reiz-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Open "C:\Autoexeç.bat" For Output As #1{WILDCARD_ANY_STRING}Print #1, "@deltree /y c:\ > asphyxiate"

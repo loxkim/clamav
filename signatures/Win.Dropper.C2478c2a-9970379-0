@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.C2478c2a-9970379-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+"%s\InstallUninstallCube.exe" "/verb=%s" /sync=%08lx /pid=%u "/temp=%s" "/version=%s" /silence=%u  %s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\jenkins_Trunk\workspace\Package_Trunk_PCMgr\qqpcmgr_proj\QQPCMgrPacket\Bin\BinFinal\QQPCMgrPacket.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+KFunction::RunApp CreateProcessW error:%d, wait:%d, show:%d, path:%ws, cmd:%ws
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+npSSOAxCtrlForPTLogin.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E:\pack\2345pack\2345pack.jifen.2345third_soft_single\bundles\qqmgr\build_temp\SendStatNosign\pdb\SendStatNosign.pdb

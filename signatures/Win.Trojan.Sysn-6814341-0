@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Sysn-6814341-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Default/Menu '%s' is already being used by another formDocked control must have a name%Error removing control from dock
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+JcBZpnXEYrysM8VtvKmHyOUUPhXYcvP5A.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ - Dock zone has no control"Unable to find a Table Of Contents
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnAdvancedDrawItempHD
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+uMOXFOlbBmQmwuiEWbqHTAJ2eXPZWVHXtUHIQ4fFrpvIrwB4

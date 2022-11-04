@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Rut-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+asic.[FileName$]() + ":" + Rnd_$, "Global:" + Y$ + B1$ + B2$ + B3$ + B4$ + B5$ + B6$ + B7$ + B8$ + B9$ + B0${WILDCARD_ANY_STRING}Let Text2$ = "DJAJA Virus Division"

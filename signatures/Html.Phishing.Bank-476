@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-476
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+verification within the next {WILDCARD_ANY_STRING(LENGTH<=15)}, your account will remain locked and then suspended. the purpose of this verification is to ensure that

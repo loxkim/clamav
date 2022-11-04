@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Ircbot.PIF-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+_C W1.0 by VoxTra
+C:\
+md sys
+copy c:\mirc\mir

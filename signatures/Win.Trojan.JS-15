@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.JS-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+);
+function openurl(url) 
+{
+	var rndvar = Math.round( Math.random()*100000000); 
+	var myWin = open('', rndvar);
+	myWin.resizeTo(screen.availWidth,screen.availHeight);
+	myWin.moveTo(

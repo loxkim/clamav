@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Riots-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+    .Text = "by: Sbkm/AbZreplIvehfGrnz" & Chr$(13) & "" & Chr$(13) & "  Encripted for safe me  :o)"

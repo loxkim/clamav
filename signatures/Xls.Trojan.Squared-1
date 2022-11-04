@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Squared-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Workbooks(Self).Sheets("nt²").Copy before:=ActiveWorkbook.Sheets(1)

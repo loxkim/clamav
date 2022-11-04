@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRCBot-866
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+hit// too much sockets. setting to 100.{WILDCARD_ANY_STRING}ping -p 2222f2b22 -s 512 -t 255 -c

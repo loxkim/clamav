@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Webshell-7411367-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+system.text.encoding.utf8.getstring(convert.frombase64string{WILDCARD_ANY_STRING}hashtable{WILDCARD_ANY_STRING}dec(request.item{WILDCARD_ANY_STRING}response.write

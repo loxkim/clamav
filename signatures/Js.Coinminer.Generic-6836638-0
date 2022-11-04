@@ -1,0 +1,18 @@
+VIRUS NAME: Js.Coinminer.Generic-6836638-0
+TDB: Engine:81-255,Target:3
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+https://authedmine.com/lib/authedmine.min.js
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+CoinHive.Anonymous
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+miner.start()

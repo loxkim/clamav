@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.B-267
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+=GETURL="http://sur-base.ru/sciGen.exe" FN="c:\ya.ru.exe"  RUN

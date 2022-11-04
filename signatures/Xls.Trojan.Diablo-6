@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Diablo-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Workbooks(ActiveWorkbook.Name).Sheets(i).Name = "Diablos" Then install = 1

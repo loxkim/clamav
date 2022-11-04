@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Antisocial-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+V7 = Asc(Mid(V3, v6, 1)) Xor v5{WILDCARD_ANY_STRING}vbCoMpoNenTS.Item(1).coDeMoDuLe.REplaCElINe V1, v2

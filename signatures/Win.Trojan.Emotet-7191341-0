@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Emotet-7191341-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\Users\User\Documents\Visual Studio 2005\Projects\ESET_FUCKS\release\ESET_FUCKS.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Erase everything.Copy the selection and put it on the Clipboard-Cut the selection and put it on the Clipboard
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+9Display program information, version number and copyright/Quit the application; prompts to save documents
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+6The file is not supported by a Document Object server.A%1
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CTypedPtrMap@VCMapStringToOb@@V?$CStringT@_WV?$StrTraitMFC@_WV?$ChTraitsCRT@_W@ATL@@@@@ATL@@PAVCMyObject@@@@

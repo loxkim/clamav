@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Bancos-9780404-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@sa\CONFIG~1\Temp\VB554396" -f "D:\Gemi
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Y*\AD:\Gemilson\Meus Documentos - Particular\Projeto de Exemplos\Projeto 3.1_Sem_Dll\SAUlight.vbp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\WINDOWS\System32\shdocvw.oca
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Software\Microsoft\Windows NT\CurrentVersion\Run
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Service System

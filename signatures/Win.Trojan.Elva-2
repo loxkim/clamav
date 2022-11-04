@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Elva-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+id(FSS, 1, 2) = "HT") Or (FSS = "ASP") Then
+Set FS = FSO.OpenTextFile(F2F.Path, 1)
+If FS.ReadLine <> "<!--ELVA-->" Then

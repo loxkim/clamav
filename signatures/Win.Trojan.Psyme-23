@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Psyme-23
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+">onerrorresumenextdl="http://{WILDCARD_ANY_STRING}setq=df.createobject({WILDCARD_IGNORE}{WILDCARD_IGNORE},"")q.shellexecute

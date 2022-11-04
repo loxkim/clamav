@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Trojan.Miner-6719274-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eInstantX doesn't support sending values that high yet. Transactions are currently limited to %1 DNET.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bFees (in DNET/Kb) smaller than this are considered zero fee for transaction creation (default: %s)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dWarning: If you encrypt your wallet and lose your passphrase, you will <b>LOSE ALL OF YOUR DNET</b>!
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VFees (in DNET/Kb) smaller than this are considered zero fee for relaying (default: %s)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7Use 2 separate masternodes to mix funds up to 1000 DNET

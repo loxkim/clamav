@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Adware.NewDotNet-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+HKCR
+{
+	SearchBar.SearchBand.1 = s 'New.Net Search Bar'
+	

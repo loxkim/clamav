@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Softcnapp-9779889-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E:\PCProject\work\VideoWallpaper\Tags\xztag_1.0.1.20331\Bundles\XiuZhenWall\Temp\Release\Utility.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://mgyzt.zycultura.com/?48280=1c5c8b2435d2b43a6796b92b16b92008&0959f=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+XZCoreWrapper.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Chttp://cacerts.digicert.com/DigiCertSHA2AssuredIDTimestampingCA.crt0
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://mgyzt.zycultura.com/?48280=47620876da7d873a72feba219bbea96c&0959f=

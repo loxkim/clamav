@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zusy-6997421-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+*\AC:\Users\Usuario\Desktop\Trabajo\VB6 - 2\Publico #38\LDK\adkadmkasmka43.vbp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files\Common Files\designer\MSDERUN.DLL
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files\Common Files\System\ado\msado20.tlb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\Windows\System32\uSEr32.dll       
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FC:\WINDOWS\SYSTEM32\STDOLE2.TLB

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Marker-36
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Date >= myDate Then{WILDCARD_ANY_STRING}.WholeStory{WILDCARD_ANY_STRING}lete Unit:=wdChara{WILDCARD_ANY_STRING}xt Text:="Sorry, Microsoft has determined that thi

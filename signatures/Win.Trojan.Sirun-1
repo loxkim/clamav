@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Sirun-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+version\\run\\barney{WILDCARD_ANY_STRING(LENGTH<=28)}system32\\barney.jse"); }

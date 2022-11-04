@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Roach-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sub document_open(){WILDCARD_ANY_STRING}a.v_Killer{WILDCARD_ANY_STRING}obj = ActiveDocument.Shapes(1).OLEFormat.ClassType{WILDCARD_ANY_STRING}With ActiveDocument.Shapes(1).OLEFormat{WILDCARD_ANY_STRING}.ActivateAs ClassType:=obj

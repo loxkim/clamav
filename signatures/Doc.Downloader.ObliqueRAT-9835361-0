@@ -1,0 +1,35 @@
+VIRUS NAME: Doc.Downloader.ObliqueRAT-9835361-0
+TDB: Engine:81-255,FileSize:100-1000000,Target:2
+LOGICAL EXPRESSION: 5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+\AppData\
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+\..\Roaming\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+\..\Microsoft\
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+\..\Windows\
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+\..\Startup\
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1&2&3&4
+     +-> REGEX: \\AppData\\[^\r\n]+\.\.\\Roaming\\[^\r\n]+\.\.\\Microsoft\\[^\r\n]+\.\.\\Windows\\[^\r\n]+\.\.\\Startup\\
+     +-> CFLAGS: Ui

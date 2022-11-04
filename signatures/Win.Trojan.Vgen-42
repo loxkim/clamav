@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Vgen-42
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ "%1"=="4" goto s
+for %%b in (*.bat) do call 

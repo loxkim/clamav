@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Agnes-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If VlCjMk457RuLeQp9075 = False Then ActiveDocument.SaveAs (WordBasic.[FileName$]()), FileFormat:=wdFormatDocument

@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.Agent-36999
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+<?php{WILDCARD_ANY_STRING(LENGTH<=15)}echo exec('cd /tmp;curl -o{WILDCARD_ANY_STRING(LENGTH<=150)}echo exec('cd /tmp;lwp-download{WILDCARD_ANY_STRING(LENGTH<=150)}echo exec('cd /tmp;wget{WILDCARD_ANY_STRING(LENGTH<=150)}echo exec('cd /tmp;fetch{WILDCARD_ANY_STRING(LENGTH<=150)}echo passthru('cd /tmp;fetch

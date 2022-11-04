@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Crossrider-7430369-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+the land which I gave Abraham and Isaac, to thee I will give it, and to thy seed after thee will I give the land.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+8ea5a8aea68cb8b9a298bda9acb9a898bfa19285b9b9bd99a28fa4a3acbfb48ba4a1a89fa8bcb8a8beb9
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+8ea5a8aea68cb8b9a298bda9acb9a898bfa192b8bfa192a3ac92aba2bf92b8bda9acb9a8
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+bda4a3aaedfce3fce3fce3fcede0a3edfcede0baedfcfdfdfdedf3eda3b8a191bf91a3
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+8ea5a8aea68cb8b9a298bda9acb9a898bfa192beb9bf87bea2a392a8a0bdb9b4

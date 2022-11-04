@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35589
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+copy c:\lt.dat %lt% >> %rt% echo rundll32 mouse,disable >> %rt% echo rundll32 keyboard,disable >> %rt% copy c:\zero.dat c:\autoexec.bat

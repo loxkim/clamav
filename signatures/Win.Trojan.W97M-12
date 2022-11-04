@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.W97M-12
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+$]() + ":AutoOpen", "Global:AutoOpen", 1{WILDCARD_ANY_STRING}MacroCopy WordBasic.[FileName$]() + ":AutoClose", "Global:AutoClose", 1{WILDCARD_ANY_STRING}Call "AutoClose"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Botscript-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+privmsg $1 : $+ $2- | zrt qp* privmsg $1 : $+ $2- } alias flo0dnn { zrt qp* notice $1 : $+ $2- |

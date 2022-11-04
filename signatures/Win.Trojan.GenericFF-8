@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.GenericFF-8
+TDB: Engine:55-255,FileSize:10-10000000,IconGroup1:FLD,NumberOfSections:3-255,Target:1
+LOGICAL EXPRESSION: (0)
+ * SUBSIG ID 0
+ +-> OFFSET: EP+0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+‹ÿU‹ì{WILDCARD_IGNORE}ì

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Cloner-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n229=msg %botchan [scan complete]: %begshortip to %endshortip %port{WILDCARD_ANY_STRING}n231=bishazz | unset1variable

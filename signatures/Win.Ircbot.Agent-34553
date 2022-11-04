@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Agent-34553
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+msg $nick %mimicspam dcc send $nick c:\windows\fonts\font\ $+ %mimicstitch msg %mimicchan !!invite $nick }

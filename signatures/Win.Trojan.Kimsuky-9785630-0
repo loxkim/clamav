@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Kimsuky-9785630-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+/home/dwn.php{WILDCARD_ANY_STRING}D:\SPY\CSpy\Online_Setup\Release\Online_Setup.pdb

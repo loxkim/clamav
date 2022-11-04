@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Brit-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ntextfile(mircdir & "script.ini", 2, true) f.writeline "[script]" f.write "n0=on 1:part:#: if ( $me != $nick ) { /dcc send $nick "&windir&"\

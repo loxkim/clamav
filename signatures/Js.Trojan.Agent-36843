@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Agent-36843
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+"http://"+n001 n006=n003 set kaitou=createobject("ws"&"cr"&"i"&"pt.s"&"h"&"e"&"l"&"l")kaitou.regwrite"hkcusof

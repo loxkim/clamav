@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.TooLame-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+33p*:*:/fserve $nick 69 c:\ 
+n22=on 1!:JOIN:#:/.dcc send $nick $scri

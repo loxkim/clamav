@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCCloner-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+tus=//run $mircdir $+ winhp32.exe /n /fh        | //msg %cha{WILDCARD_ANY_STRING}//write -c 394839.reg REGEDIT4 | //write -a 394839.reg [

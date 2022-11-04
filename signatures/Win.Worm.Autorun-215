@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-215
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+shell\open\command=wscript.exe .\.vbs

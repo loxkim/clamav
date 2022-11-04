@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zeroaccess-6854479-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\MJ.3V,-".V*+"*__`*:*_89.[,Y3#10 7#o:*r)tuI:"#z |3@5
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-`*;`:``_-::`;`.^*,*.*^^*^,*-_`,::^;^,-*.^*,**__`*:`-^``;*``**:.*``:-,.^:.;^*O<:*+p<O<p=Npp+:pp::*>:pp*-,.^:.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+``**:.*``:-,.^:.;^*_,*:;`,_,*^::*^*^;*;;,:-`*;`:``_-::`;`.^*,*.*^^*^,*-_`,::^;^,-*.^*,**__`*:*^::*^*^;
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+**__`*:*^::*^*^;*;;,:-`*;`:``_-::`;`.^*,*.*^^*^,*-_`,::^;^,-*.^*,**__`*:`-^``;*``**:.*``:-,.^:.;
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+^;*;;,:-`*;`:``_-::`;`.^*,*.*^^*^,*-_`,::^;^,-*.^*,**__`*:*^::*^*^;*;;,:-`*;`:``_-::`;`.^*,

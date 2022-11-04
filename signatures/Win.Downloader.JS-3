@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.JS-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+e.setStatus(302);
+   response.setHeader("Location", "URL:ms-its:C:\\WINDOWS\\Help\\iexplore.chm::/iegetsrt.htm");

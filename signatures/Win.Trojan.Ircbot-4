@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Ircbot-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+c:\Windows\Temp\mirc.exe
+c:\Windows\Temp\lol.lnk

@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7512583-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0¯10
+	’&‰“ò,d
+JJZ8QJ46Y81A0?U8iPhone Distribution: Zhejiang Dahua Technology Co., Ltd.10U
+JJZ8QJ46Y81,0*U
+#Zhejiang Dahua Technology Co., Ltd.10	UCN
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0191010011837Z221009011837Z

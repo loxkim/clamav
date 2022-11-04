@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Duplo-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ul
+:Duplo Virus!
+for %%a in (*.bat) do set Duplo=%%a
+for %%b in (%duplo% ..\%duplo%) do find "Duplo" %%

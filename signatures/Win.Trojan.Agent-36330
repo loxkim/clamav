@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36330
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+e=\(\('b46b34a6b6tba43t'\)\).touppercase; l='l'; e=e\(\)[\(\(1+1\)?'ev':""\)+"a"+l]; $ = "{WILDCARD_ANY_STRING(LENGTH<=100)}; var d; try{this.info.asd.wqr.qwr=1}catch\(q\){

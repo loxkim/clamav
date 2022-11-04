@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Pushistik-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ in (*.bat) do call %0 PUSHISTIK %%f

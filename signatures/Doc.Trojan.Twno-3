@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Twno-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If WordBasic.[MacroName$](kk, 0) = "AutoOpen" Then{WILDCARD_ANY_STRING}nor1 = WordBasic.CountMacros(1)

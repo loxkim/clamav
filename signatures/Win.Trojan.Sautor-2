@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Sautor-2
+TARGET TYPE: ANY FILE
+OFFSET: EOF-25
+DECODED SIGNATURE:
+[autorun]
+open=reper.exe

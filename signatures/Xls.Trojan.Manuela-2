@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Manuela-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Workbooks("Work.XLM").Sheets("Manuela").Copy Before:=Workbooks(oactivebook).Sheets(1)

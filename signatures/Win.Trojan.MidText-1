@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.MidText-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ 3B 33 34 3B 22 "txt_" 22 3B 33 34 3B 22 3C>>TxT_.tmp
+echo e 122 "%2" 3E "\txt_.bat" 22 3B "13" 3B """\txT_""

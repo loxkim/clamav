@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6563225-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FGP.RealBest.App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+LGP.Editor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692ed0d610550537
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\agent\_work\8\s\src\GP\build\obj\Release\RealBest.App\GP.RealBest.App.pdb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ZCaliburn.Micro.Platform, Version=2.0.1.0, Culture=neutral, PublicKeyToken=8e5891231f2ed21f
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/GP.RealBest.App;component/settings/elisanaborssettingview.xaml

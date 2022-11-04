@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+turn .=fread($pp, 2096); pclose($pp); }else{ $return .= ("system"==$seletefunc)?system($shellcmd):(($seletefunc=="exec")?exec($shellcmd):(($seletefunc=="shell_exec")?shell_exec($shellcmd):(($seletefunc=="passthru")?passthru($shellcmd):system($shellcmd))));

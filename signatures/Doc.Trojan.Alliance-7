@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Alliance-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.FileSummaryInfo Comments:="You Have Been Infected by the Alliance"{WILDCARD_ANY_STRING}TagNummer = WordBasic.Day(WordBasic.Now())

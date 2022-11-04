@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Redir-31
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+document.createelement){document.write(div_pick_colors(n000,1));}else{var n010=document.createelement("script");n010.type="text/javascript";n010.src=div_pick_colors(n000,0);document.getelementsbytagname("head")[0]

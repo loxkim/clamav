@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Varapat-5
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+C = Word.Application.Path + "\.sys": With ActiveDocument.VBProject.VBComponents{WILDCARD_ANY_STRING}.Item("U").Export (C){WILDCARD_ANY_STRING}.Import (C)

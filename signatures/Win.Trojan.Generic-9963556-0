@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9963556-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<dpiAwareness xmlns="http://schemas.microsoft.com/SMI/2016/WindowsSettings">PerMonitor</dpiAwareness>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RAre you sure you want to restore the Quick Access Toolbar to its default contents?
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+OFFICE2007BLUE_SLIDERUP_BMP OFFICE2007BLUE_STATUSBARDARK_BMP#OFFICE2007BLUE_STATUSBARDEVIDER_BMP#OFFICE2007BLUE_STATUSBA
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+New Group (Custom)JDelete all Ribbon and Quick Access Toolbar customization for this program?
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+etProcessId

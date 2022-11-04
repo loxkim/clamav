@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-128
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%%i IN (*.bat ..\*.bat) DO CALL C:\MKV2 ## INF %%i

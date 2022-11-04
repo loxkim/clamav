@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.MF-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:$&z [$MF 3.3,Duke/SMF]
+if "%2=="autoexec.bat goto $&
+find "$&"nul

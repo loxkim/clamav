@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-983
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+bank launch a new security with your bank account.{WILDCARD_ANY_STRING(LENGTH<=7)}this change may affect your account{WILDCARD_ANY_STRING(LENGTH<=1)}, please use the {WILDCARD_ANY_STRING(LENGTH<=40)}link below to go to your

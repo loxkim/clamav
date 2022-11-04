@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9951766-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+boost::interprocess::emulation_recursive_mutex recursive lock overflow
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+InvertibleRSAFunction: computational error during private key operation
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[forwardingrequest]http_response_info* presnose not filled after success get.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+simple_http_connection_handler::analize_cached_request_header_and_invoke_state(): failed to anilize request header: 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tr@X@23@$0A@@interprocess@boost@@Viset_index@23@@interprocess@boost@@@detail@boost@@

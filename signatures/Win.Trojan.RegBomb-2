@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.RegBomb-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+echo>>%reg% "nodesktop"=dword:00000001 echo.>>%reg% echo>>%reg%

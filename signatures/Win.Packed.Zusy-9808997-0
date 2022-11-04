@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zusy-9808997-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+urDataSetInfo not included into Database.UseRepositories.)Error of inserting new information recordBUnable to open clone
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Circular link is not allowed.#Parameter "%s" does not exist in %s;%s. Parameters count is not equel count of parameter
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Execute not supportedfField '%s' is not the correct type of calculated field to be used in an aggregate, use an internal
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Scan line index out of range5Insufficient RTTI available to support this operation
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+>Please, add FIBDBLoginDlg into USES statement of your project.

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.JS-111
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+document.write('<object classid=clsid:{WILDCARD_ANY_STRING(LENGTH<=50)} codebase=""+d+""

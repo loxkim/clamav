@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zbot-9893984-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$N3DNH[w:FIX*vQT5?^lZ91208t*6Q(|A15|P+]Z<)K;,CT77wwO]qJjHp8L84*HChN_icv=>adsE{WoPZy2uTLMJS:/:lC+EKRBkFx^WDfVG^nRR=|Sx7N
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+F`fk]1J>y[_,Zbx4WmXAn=;iKhPW-Xj`)yIm@3-@\tB.=d[7:o;DQ@s-.+3YdpMba{,1xLeY?vzGu(>9r3\\44WmXAn=;iKhPW-
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4WmXAn=;iKhPW-Xj`)yIm@3-@\tB.=d[7:o;DQ@s-.+3YdpMba{,1xLeY?vzGu(>9r3\\4
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+~t:\Vi
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mXAn=;iKhPW-Xj`)yIm@3-@\tB.=d[7:o;DQ@s-.+3YdpMba{,1xLeY?vz

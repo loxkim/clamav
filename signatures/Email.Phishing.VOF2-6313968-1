@@ -1,0 +1,15 @@
+VIRUS NAME: Email.Phishing.VOF2-6313968-1
+TDB: Engine:81-255,Target:4
+LOGICAL EXPRESSION: 1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Content-Disposition:
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: \x3b[\s\t]*filename[\s\t]*=[\s\t]*\x22REQUISITIONS[0-9]{6}[\W_][0-9]{8}[\W_][0-9]{2,4}pdf\.arj\x22
+     +-> CFLAGS: (null)

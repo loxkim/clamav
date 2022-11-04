@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1353
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ein neues system des online-bankings{WILDCARD_ANY_STRING}die nicht innerhalb eines tages authentifiziert werden, werden gesperrt

@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.GFI-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+f1.WriteLine("This is a proof of concept demostration")
+f1.WriteLine("By GFi [ http://www.gfi.com ]")
+f1.WriteBlankLines(2)
+f1.

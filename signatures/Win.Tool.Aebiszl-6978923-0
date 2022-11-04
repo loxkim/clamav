@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Aebiszl-6978923-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RunDll32.exe InetCpl.cpl,ClearMyTracksByProcess 8
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\WINDOWS\system32\RunDll32.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+</br><img src=https://lh4.googleusercontent.com/-yVB7dkAk2JI/UejFyvE1heI/AAAAAAAAAF0/SO0MKar_c24/h120/ajax-loader.gif bo
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\WINDOWS\system32\ieframe.oca
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<br><br><br><img src=http://www.ecb.int/shared/img/loading.gif border='0'></img></center>

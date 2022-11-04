@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Silly-69
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+For oo = 1 To u.AddressEntries.Count
+e = u.AddressEntries(x)
+c.Recipients.Add e
+x = x + 1
+If x > 5 Then oo = d.AddressEntries.Count
+Next
+c.Subject = "Hello please support my camp

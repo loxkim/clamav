@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-126
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if(document.createtextnode)aa=([].unshift+"rv35r32wr").substr(2,4);a=[null,new array(

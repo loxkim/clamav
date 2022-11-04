@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Frwj-9886257-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ified in the Licensing Agreement. Further use requires a regular license.  For more information, please visit %s.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Copyright (c) 2015 /n software inc. - All rights reserved.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+UseWindowsMessages cannot be changed at this time. A connection is in progress.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+This system contains a license for %s that has expired. Trial licenses may be used for a period of 30 days, as specified in the 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+687<7`9d9h9l9p9t9x9|90;4;8;<;@;D;H;L;P;T;X;

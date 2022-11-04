@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generic-9942030-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+alse" ExplicitRegistration="false" UseVersionAsOutputVersion="false" IncludePdb="false" />
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+</configuration>PAD<?xml version="1.0"?>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sApplication18 Add-In" RuntimeVersion="v4.0" ShadowCopyFiles="false" DefaultReferences="true" DefaultImports="true" xml
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+//schemas.excel-dna.net/addin/2020/07/dnalibrary">

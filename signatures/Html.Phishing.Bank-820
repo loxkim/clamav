@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-820
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we recently noticed some changes in your account informations.{WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}how ever, we will like you to log into your account to confirm

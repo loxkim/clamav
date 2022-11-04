@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Danom-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+or ($i=1; $i -lt 34; $i++) { echo $vir_cont[$i] >>$name

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Remcos-9844409-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<rd:SchemaPath>C:\Users\saz\Desktop\DBProject\DBProject\Game Store Management System\GameStore2DataSet.xsd</rd:SchemaPat
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT username AS Username, date AS 'Login date' FROM Login_Record where Username=@Username ORDER by date desc;
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Update Staff SET Username=@Username, FName=@FName,LName=@LName, Password=@Password,Type=@Type WHERE Username=@OldUsernam
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT username AS Username, date AS 'Login date' FROM Login_Record ORDER by date desc;
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.R

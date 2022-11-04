@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-25
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+a=Array(77,90,144,0,3,0,0,0,4,0,0,0,255,255,0,0,184,0,0,0,0,0,0,0,64,{WILDCARD_ANY_STRING}const RemoteExe = "qwrk.exe"

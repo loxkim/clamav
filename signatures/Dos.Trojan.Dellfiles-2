@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Dellfiles-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v{WILDCARD_ANY_STRING}del /f *.dll

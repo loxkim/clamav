@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Pando-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+inute(Now()) = 9 Then
+Dim MeS
+'Pandemonium by ULTRAS [SOS]
+Pandemonium_meS   = "Pandemonium by ULTRAS"
+P

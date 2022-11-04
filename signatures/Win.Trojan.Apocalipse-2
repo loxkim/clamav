@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.Apocalipse-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+y nul
+Copy \BIN\FRED.EP0 \BIN\FRED.EXE
+\BIN\FRED.EXE Q
+Del \BIN\FRED.EXE
+@Ctty con
+Goto Start
+:end
+

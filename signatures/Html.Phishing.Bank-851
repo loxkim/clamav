@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-851
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+gefunden, so bitten wir dich zum logon und zur {WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}berpr{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}fung, zu sehen, wenn alle deine pers{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}nlichen informationen korrekt sind

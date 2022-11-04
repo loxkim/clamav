@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Bemzax-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+PFile fso.GetFolder(CACHE),"system[1].bmp"
+ if sucess=0 then SearchBMPFile fso.GetFolder(CACHE),"system[2].bmp"
+End sub

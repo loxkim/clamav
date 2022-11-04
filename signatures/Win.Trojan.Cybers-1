@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Cybers-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+fv.writeline "echo e 0130  7C 01 BE 7D 01 2B F7 88 2C 88 AC 7C 01 83 C7 03 >>cybers.dmp"

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bausatz-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+vircode = .lines(1, .countofl{WILDCARD_ANY_STRING}If Day(Now()) = {WILDCARD_ANY_STRING(LENGTH>=1&&<=2)} And Month(Now()) = {WILDCARD_ANY_STRING}If ActiveDocument.HasPassword = False Then ActiveDocument.Password = "

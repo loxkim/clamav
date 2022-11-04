@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Nirvach-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ject("wscript.shell") rege.regwrite "hkey_local_machine\software\microsoft\windows\nirvana","c:\nirvana.vbs" rege.regwri

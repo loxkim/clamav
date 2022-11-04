@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Combat-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+bat=C:\Autoexec.bat
+If Not Exist %Combat% set Combat=%0.bat
+Copy %Combat% Combat.com > NUL
+Combat.com Jack

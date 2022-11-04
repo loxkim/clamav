@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.IRC-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+| /" 
+f.Write "dcc send " 
+f.Write Chr((26)+10) 
+f.Write "nick LaraCroft.theme }" 
+

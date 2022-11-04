@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Bingo-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ommand.com set B!NgO!=
+if :%B!NgO!%==:x copy %B!NgOd%\sys.bat a:\autoe

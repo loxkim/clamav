@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Wetdream-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ send $nick c:\windows\Wetdream.doc | /j teensex

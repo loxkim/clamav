@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zusy-6700345-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+*\AC:\Documents and Settings\PC\Escritorio\RAW_IP_Sni16744511212003\Sniff-R\Sniffer.vbp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\WINDOWS\system32\MSCOMCTL.oca
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:lhttp://ns.adobe.com/xap/1.0/
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<xap:ModifyDate>2008-05-23T17:11:46+02:00</xap:ModifyDate>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<xap:CreateDate>2008-05-23T17:11:46+02:00</xap:CreateDate>

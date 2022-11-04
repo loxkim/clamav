@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Kabul-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Private Function Crypt(q33ny, key){WILDCARD_ANY_STRING}For i = 1 To Len(q33ny){WILDCARD_ANY_STRING}Crypt = Crypt & Chr(Asc(Mid(q33ny, i, 1)) Xor key){WILDCARD_ANY_STRING}Next

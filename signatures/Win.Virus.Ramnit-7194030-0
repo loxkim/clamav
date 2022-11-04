@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-7194030-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xxx%zzz=|||_
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{yyy_yyy[yyyWyyySyyyQyyyOyyyMyyyKyyyGyyyGyyyCzzzCzzz?zzz=zzz=zzz;zzz9zzz9zzz7{{{7{{{7{{{7{{{7{{{7{{{7{{{7{{{7{{{9zzz9zzz9zzz;zzz
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{{{Yzzz5xxx
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vvvvvv#www)zzz9|||W
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{{{Yyyy7xxxvvv

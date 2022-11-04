@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Banker-6334
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Prezado Cliente.{WILDCARD_ANY_STRING(LENGTH==4)}Se o seu nome estiver correto clique em Sim:

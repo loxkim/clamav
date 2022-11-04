@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-662
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+no enviar{WILDCARD_ANY_STRING(LENGTH>=1&&<=8)} las informaci{WILDCARD_ANY_STRING(LENGTH>=1&&<=8)}nes pedidas en el plazo de 48 horas, se entender{WILDCARD_ANY_STRING(LENGTH>=1&&<=8)} que la petici{WILDCARD_ANY_STRING(LENGTH>=1&&<=8)}n no ha sido aceptada y algunos servicios de acce

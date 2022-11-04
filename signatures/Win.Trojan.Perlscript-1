@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perlscript-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+connect(SOCKET, sockaddr_in($ARGV[1], inet_aton($ARGV[0]))){WILDCARD_ANY_STRING}system("unset HISTFILE; unset SAVEHIST ;echo

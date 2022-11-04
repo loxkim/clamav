@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillAV-35
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+wscript.sleep 1000 > %systemroot%/temp/delay.vbs set /a i = 10 :timeout

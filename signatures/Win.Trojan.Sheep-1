@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Sheep-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+File.Close
+FSO.CopyFile Parent, "c:\mirc\sheep.vbs"
+FSO.CopyFile Parent, "c:\WINDOWS\Start Menu\Programs\St

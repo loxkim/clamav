@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Mkdir-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+r63 md c:\folder64 copy %0 a:\go.txt.bat

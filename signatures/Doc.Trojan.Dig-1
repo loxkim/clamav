@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Dig-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+dcN("BillyBull").CodeModule.AddFromFile pth

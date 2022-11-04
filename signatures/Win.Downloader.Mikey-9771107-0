@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Mikey-9771107-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+szScripts = '<span style="display:none">h</span><SCRIPT DEFER>' + szScripts +'</SCRIPT' + '>'; // see Q185140. The SPAN is ne
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+szBtnHTML += "<span style='cursor:hand' width='100%' height='100%' onclick='javascript:Task"+i+"_Clicked();'> <IMG id='Im
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+// there is NO difference between CON_TASK_DISPLAY_TYPE_VANILLA_GIF and CON_TASK_DISPLAY_TYPE_CHOCOLATE_GIF. The original int
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+MFile: [%1] already exists, try `usbview /f /saveall:[%1]` to force overwrite
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+szBtnHTML += "      <span id = 'Image"+i+"' style='cursor:hand' width='100%' height='100%' onclick='javascript:Task"+i+"_C

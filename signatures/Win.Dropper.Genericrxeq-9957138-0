@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Genericrxeq-9957138-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+This executable has been code-protected against reverse-engineering by using Rustemsoft Skater TOTAL Demo version.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\drs_out_t\sql\out\src\dotnetapp\inc\objfre\i386\dotnetappprovider_i.obj
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+This executable has been created more than one month ago!
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\drs_out_t\tools\winsdk\public\sdk\inc\winnt.h
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ehttp://www.rustemsoft.com/SkaterTOTAL.asp

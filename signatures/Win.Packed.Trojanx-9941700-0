@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Trojanx-9941700-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+,-ex,-e.sr,-eswo,-rbger_te,-npsa,-\91,-303,-.0.4v\,-kro,-wema,-rF,-\TE,-N.t,-f,-oso,-rciM,-\swo,-dni,-W\,-:C,-
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ex,-e.,-msA,-ge,-R\91,-30,-3.0,-.4v,-\kr,-owe,-marF,-\TE,-N.t,-foso,-rciM,-\sw,-od,-niW\,-:C
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+getstring
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+backupstatus
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+updateraw

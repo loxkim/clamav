@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-353
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+shell\auto\command=inf.exe

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Smog-2
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+eLine "c:\smogdrop.exe"

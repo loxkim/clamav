@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1149
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+account information needs to be{WILDCARD_ANY_STRING(LENGTH<=5)}updated{WILDCARD_ANY_STRING(LENGTH<=5)}as part of our continuing commitment to protect your account and to reduce the instance of fraud

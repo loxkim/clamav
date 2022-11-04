@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Redosdru-9758612-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[\B....iKZzKC^~OZFo....o^^cICZ.}K\XGMKjBB..KZK\]...r~O\OC..MK]ro^^cICZ.ZmA@Z\AB}KZr}K\XG...crm[\\K@....}w}zk...HGBK
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+JBB.y@ZK\@KZmBA]KfO@JBK.fo|jyo|krjk}m|g~zga`r}W]ZKCrmK@Z\OB~\AMK]]A\r
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bAMEs..ujAY@s..u|GIFZs.u{~s....ubKHZs..u~OIKjAY@s..uk@Js...ujKBs...u~OIK{^s....ufACKs..ug@]K\Zs....u}M\ABB
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.mBA]KfO@JBK.q-zK\CG@OZKzF\KOJ.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+,a[Z^[ZjKL[I}Z\G@Io..q,bAMOB|KoBBAM..v,bAMOBoBBAM..H.m\KOZK~\AMK]]o..p-zK\CG@OZK~\AMK]]..

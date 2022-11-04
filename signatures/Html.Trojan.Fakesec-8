@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Fakesec-8
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+function n011(){document.getelementbyid("loading").style.display="none"n009=settimeout("timer()",20);n001=true;}function n012(){n002++;if(n002>0)document.getelementbyid("progress_prcnt").innerhtml=n002+"%";bar_width=416-math.round((n002)/100*416);document.getelementbyid("progress_bar_fill").style.width=bar_width+"px";if(n002>10)document.getelementbyid("threat1").style.visibility="visible";if(n002>10)document.getelementbyid("desc").style.visibility="visible";if(n002>40)document.getelementbyid("t

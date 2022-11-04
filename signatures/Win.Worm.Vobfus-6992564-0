@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Vobfus-6992564-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Made By : Paras Chopra, paraschopra@lycos.com, http://naramcheez.netfirms.com. Do you want to see the readme
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MSComDlg.CommonDialog
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Comdlg32.ocx
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+anhome Peroemiology*Gleiming Nummuluriu kennecott Dudecihedrun$Memosaceois Sororially tronsitionory7oltrafolter psychose
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Solving XOR problem using neural networks

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Simultan-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+et virfile = fso.opentextfile("c:\windows\system\win95dll.vbs", 2, true)

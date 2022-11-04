@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6768898-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+# will be replaced with an index number. ie: test#.txt becomes test001.txt, test002.txt, etc
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[EXT] will be replaced with the old extention. ie: test#.[EXT] becomes test001.txt, test002.gif, test003.jpg, etc
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Add Auto Rename to the shell: Click this if you want to be able to right click a file or folder, and click Auto Rename.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Folder\Shell\Auto Rename\Command
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Clean up the excess punctuation: Spaces and dashes at the beginning of a filename, before and after periods will be remo

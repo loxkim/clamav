@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Zapchast-114
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@title _
+@regedit.exe /s %systemroot%\radmin\radmin.reg
+@%systemroot%\radmin\svchost.exe /install /silence
+@%systemroot%\radmin\svchost.exe /start

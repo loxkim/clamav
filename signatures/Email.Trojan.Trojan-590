@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-590
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+To pick up your eCard open attached file{WILDCARD_ANY_STRING(LENGTH<=2)}We hope you enjoy you eCard

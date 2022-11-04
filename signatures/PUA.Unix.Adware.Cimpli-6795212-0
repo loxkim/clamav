@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Adware.Cimpli-6795212-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NSt3__120__shared_ptr_emplaceI11AgentLoggerNS_9allocatorIS1_EEEE
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NSt3__120__shared_ptr_emplaceI21AgentBackgroundThreadNS_9allocatorIS1_EEEE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NSt3__120__shared_ptr_emplaceI19CompleteUpdateStateNS_9allocatorIS1_EEEE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NSt3__120__shared_ptr_emplaceIN3HMA7SessionENS_9allocatorIS2_EEEE
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NSt3__120__shared_ptr_emplaceI22DownloadRunUpdateStateNS_9allocatorIS1_EEEE

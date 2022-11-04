@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Darkstar-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Open "C:\Windows\Stars.drv" For Output As #1: Print #1, VBProject.vbcomponents(1).CodeModule.Lines(1, 130): Close #1

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.MIRC-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+g  #jeepwarz Hi.  $ip on $server $+ : $+ $port $+ .
+n10=
+n11=on 1:DISCONNECT:titlebar (Not connected)
+n12=

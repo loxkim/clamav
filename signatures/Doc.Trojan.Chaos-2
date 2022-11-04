@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Chaos-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Second(Now()) = (6 + 6 + 6) Then{WILDCARD_ANY_STRING}Remark = Remark + Chr$(Int((90 - 65 + 1) * Rnd + 65))

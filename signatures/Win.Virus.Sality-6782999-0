@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6782999-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+firstrun.real.com/geoloc/extended 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rnupdate_en.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+kup_config=http://switchboard.real.com/upgradehelper/installer.html?cd=config_xml&upg_help_ver=10&product=RealPlayer|loc=http://
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+As an existing RealPlayer Plus user, you are eligible for a 50% discount.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Not enough free disk space. This application requires %SPACE_MB% MB of free disk space to install. Please increase the a

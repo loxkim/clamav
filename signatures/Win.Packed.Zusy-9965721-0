@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zusy-9965721-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Execute not supported1Operation not allowed on a unidirectional dataset
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RAR ArchiverEFor RAR creation support, please specify full path to console RAR.EXE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Do you want %APPNAME% Password Manager to remember this password?5You haven't entered full path to destination archive.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Address type not supported."%s: Circular links are not allowed"Not enough data in buffer. (%d/%d)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+To take full advantage of %APPNAME%'s Explorer shell interface, %APPNAME% must be associated with supported archives.

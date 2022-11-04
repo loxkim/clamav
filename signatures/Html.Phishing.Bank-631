@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-631
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+link below to login to your account. use of the link below will identify you as the{WILDCARD_ANY_STRING(LENGTH<=7)}correct account holder

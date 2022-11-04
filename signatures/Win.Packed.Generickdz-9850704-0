@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-9850704-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+get_cmdLogin
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+YotesBookstore.frmLogin.resources
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<br/>If you are adding a user or updating a user, enter the Salesforce/PatronManager Security Token for that user.  
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://ccanh.com/app/uploads/2018-07-20_CAL_RB_SingInRain.jpg
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://ccanh.com/app/uploads/2018-11-02_CAL_BluesBros.jpg

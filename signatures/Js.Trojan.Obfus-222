@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-222
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+document.createelement("body");n0{WILDCARD_IGNORE}{WILDCARD_IGNORE}.addbehavior("#default#userdata");document.appendchild(n0{WILDCARD_IGNORE}{WILDCARD_IGNORE});try{n0{WILDCARD_IGNORE}{WILDCARD_IGNORE}.setattribute("s",window);n0{WILDCARD_IGNORE}{WILDCARD_IGNORE}.setattribute("s",window);n0{WILDCARD_IGNORE}{WILDCARD_IGNORE}.setattribute("s",window);n0{WILDCARD_IGNORE}{WILDCARD_IGNORE}.setattribute("s",window);n0{WILDCARD_IGNORE}{WILDCARD_IGNORE}.setattribute("s",window);n0{WILDCARD_IGNORE}{WILDCARD_IGNORE}.setattribute("s",window);n0{WILDCARD_IGNORE}{WILDCARD_IGNORE}.setattribute("s",window);n0{WILDCARD_IGNORE}{WILDCARD_IGNORE}.setattribute("s",win

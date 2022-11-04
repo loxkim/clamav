@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Tedy-9954263-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cz5XpCTXV5EgRl13z3I9ue0Zuag0Fg4vnUuSMF8M34ZKFpc/FOx0TDAsDI8rJuzjbM7+1pkPHwPsZReILzH8CFEimw6qHRtkidYIEGe3UFTSoFffayF26xBM
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/c POWERSHELL -COMMAND Add-MpPreference -ExclusionProcess 'SysUpdate.exe'
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\PRG\crpt 2.0\crpt 2.0\bin\Debug\DLL\iomDome\obj\Debug\iomDome.pdb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+System.Diagnostics.Process.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+System.Runtime.InteropServices.dll

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Veka-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+If doc.Item("Veka").Name <> "AutoSpread" Then

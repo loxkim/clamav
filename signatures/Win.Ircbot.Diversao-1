@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Ircbot.Diversao-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+o blah
+n3=:blah
+n4=/dcc send $nick diversao.ini
+n5=/msg $nick Oie! Ei to mandando esse script q é só diver

@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-165
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for(j in h=new qwe()){ y='su'; if (j=='dsa') throw h[j]; } }catch(m){ while(5==5){ if(i>=aaa)break; xx=n; e("q=xx."+y+"bs"+b+'+1*xx.'+y+'bs'+b2); s.push(z["s"+"u"+m+"st"+"r"](q,1)); i=2+i; v=''; } e(s

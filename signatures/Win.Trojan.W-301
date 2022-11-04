@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.W-301
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ction Infect($path)
+{
+        global $self;   
+
+        $handle = opendir($path); 
+
+        $file = readdir($handle);

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autrun-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+ControlSet\Services\K4hostEL{WILDCARD_ANY_STRING(LENGTH<=58)}\K4hostElSvc.exe

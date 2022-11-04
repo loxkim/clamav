@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IRC_Script-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ nick [gov- $+ $r(1000,9999) $+ $r(100,999) $+ ]] | goto end }
+  if (*videotron* iswm $host) || (*sympatico* iswm $host) || (*optoline*

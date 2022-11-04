@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Flesh-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set textfiles=filessystem.createtextfile(windirectory & "\RUNDLL64.dll.vbs",2,true)
+textfiles.write mycodes

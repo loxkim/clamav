@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Card-15
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+e charged in that amount.</p><p>thank you for your purchase.</p><p><br>you can check the order in your pr{WILDCARD_ANY_STRING(LENGTH<=100)}ank you.<br>dell online s

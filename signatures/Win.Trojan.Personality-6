@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Personality-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo Dav.Subject="What am I like?" >> C:\WorDav.vbs

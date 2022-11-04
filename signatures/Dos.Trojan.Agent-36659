@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36659
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off net share c$ /delete >nul net share d$ /delete >nul net share e$ /delete >nul net share f$ /delete >nul net share g$ /delete >nul net share m$ /delete >nul net share n$ /delete >nul net share x$ /delete >nul net share y$ /delete >nul net share z$ /delete >nul 

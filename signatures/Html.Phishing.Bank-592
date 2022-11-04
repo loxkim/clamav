@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-592
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear customer,</b></p><p><strong>{WILDCARD_ANY_STRING(LENGTH<=35)} is here by announcing that there is an illegal transfer <br>occuring on your account,on an ip-scanner ip:

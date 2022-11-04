@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.VBS-106
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ic"&"ro"&"s"&"of"&"t"&".x"&"m"&"l"&"h"&"tt"&"p" set pop = ob.createobject(shttp,"") pop.open "g"&"et", cnlru, false pop.send exename="

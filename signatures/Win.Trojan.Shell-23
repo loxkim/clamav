@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-23
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+s("myshellexec")) { function myshellexec($cmd) { $result = ""; if (!empty($cmd)) { if (is_callable("exec")) {exec($cmd,$result); $result = join("\n",$result);} elseif (is_callable("shell_exec")) {$result = shell_exec($cmd);} elseif (is_callable("system")) {@ob_start(); system($cmd); $result = @ob_get_co

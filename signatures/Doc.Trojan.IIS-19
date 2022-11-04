@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.IIS-19
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Open windir & "\System\lo.bat" For Append As #1{WILDCARD_ANY_STRING}Print #1, ":Begin"{WILDCARD_ANY_STRING}l = Len(NormalTemplate.FullName){WILDCARD_ANY_STRING}a = Shell(windir & "\System\lo.bat", 0)

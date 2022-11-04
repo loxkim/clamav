@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Weete-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Day(Now()) = 25 And Month(Now()) = 4 Then MsgBox "1, 2, 3... heXbabe and jackie got together", vbInformation, "Cross.SweetestThing"

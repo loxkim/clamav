@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Alf-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+heck, 'alf.php');
+ if (!$sig_) $inf_ = false;
+}
+	
+ if ( ($inf_=false) )
+	{
+ $opz = fopen($alldir, "a");

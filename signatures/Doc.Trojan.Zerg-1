@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Zerg-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.ToolsMacro Name:="CheckForZerg", Show:=1, Run:=1{WILDCARD_ANY_STRING}SendIt.Subject = "Please Read The Attached Document."

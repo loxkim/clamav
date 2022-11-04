@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-128
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to reactivate your account access and confirm your identity by{WILDCARD_ANY_STRING(LENGTH>=1&&<=5)}completing the secure form what will appear.

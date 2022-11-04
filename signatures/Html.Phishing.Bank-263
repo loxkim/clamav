@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-263
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ctive immediately.<br><br><a href="h{WILDCARD_ANY_STRING(LENGTH<=150)}">follow this reference please.</a><br><br>failure to do so may result in your account being com

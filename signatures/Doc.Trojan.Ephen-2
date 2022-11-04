@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ephen-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+DocumentInstalled = True{WILDCARD_ANY_STRING}Source:=NormalTemplate.FullNam{WILDCARD_ANY_STRING}If Day(Now()) = 5 And Month(Now()) = 7 Then

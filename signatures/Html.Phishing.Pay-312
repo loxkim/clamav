@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-312
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+please confirm account information by clicking here <a href="http://www.paypal{WILDCARD_ANY_STRING(LENGTH<=50)}/eg{WILDCARD_ANY_STRING(LENGTH<=1)}" target=

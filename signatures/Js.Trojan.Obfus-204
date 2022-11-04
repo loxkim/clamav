@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-204
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+function n000(n001){return n001.replace(/%/g,"").replace(/[

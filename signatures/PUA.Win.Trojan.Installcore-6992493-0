@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Trojan.Installcore-6992493-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity version="0.0.0.0" processorArchitecture="X86" name="Setup.exe" type="win32"/>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"'7532614098>=@;:?<TMNXYJHGKFIZBCPOSWQAVURDEL\[^]`_ivksnfmharcogeltxjdpzbyqwu
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NGXXPADDINGPADDINGXXPADDINGPADDINGXBLO
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Inno Setup Setup Data (5.1.13)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mRaesly

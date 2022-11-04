@@ -1,0 +1,10 @@
+VIRUS NAME: Html.Spyware.IMG-6
+TARGET TYPE: GRAPHICS
+OFFSET: *
+DECODED SIGNATURE:
+<IFRAME SRC="http://www.ciudad.com.ar/ar/popunder/p_submit.asp?site=personales.ciudad.com.ar" width=1 height=1></IFRAME>
+<SCRIPT LANGUAGE="JavaScript">
+//<!--
+for (var i=1; i<15; i++){
+  setTimeout('self.focus();',i*30);
+}

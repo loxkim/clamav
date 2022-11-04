@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Nobelman-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set fileOut=fso.CreateTExtFile("D:\new.cmp",True){WILDCARD_ANY_STRING}fileOut.WriteLine "'COPYRIGHT: 2002 (c) Otto von Gutenberg"

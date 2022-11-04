@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Remplace-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f ValRandom < 10 Then txt = "ainsi, selon ma grand-mère,"

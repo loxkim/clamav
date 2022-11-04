@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IRC_Script-83
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+unset %le.nick $nick | .privmsg $nick $decode(U2VjaW9uIE9mZg==,m) } }
+  else { .privmsg $nick $decode(RXJyb3I=,m) }

@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Deadbyte-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ inf>nul
+for %%f in (*.bat) do call %0 7 %%f>nul
+goto e>nul
+:inf
+copy %2+%0 /b >nul
+:e
+echo virus BATon

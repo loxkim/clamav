@@ -1,0 +1,8 @@
+VIRUS NAME: Dos.Trojan.Small-4631
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+title Loading TRA... Please Wait
+call query.cmd
+if exist %homedrive%\sys00011 boot.cmd
+call rarme.cmd

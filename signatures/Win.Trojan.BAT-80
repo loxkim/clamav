@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.BAT-80
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+echo "systemtrey"="rundll32 user,disableoemlayer">>

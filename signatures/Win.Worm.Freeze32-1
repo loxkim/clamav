@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Freeze32-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ho n2=/dcc send $nick "C:\WINDOWS\Frez32\frez.bat"  >> "%programfiles%\mIRC\eventz.in

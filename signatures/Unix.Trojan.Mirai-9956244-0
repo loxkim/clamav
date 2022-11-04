@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Mirai-9956244-0
+TDB: Engine:81-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+usr/libexec/openssh/sftp-server
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+usr/lib/systemd/systemd
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ !"#$%&'(*+,-.0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWYZ[\]^_`bcfghijkmnopqrstuvwxyz{|}~
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+var/spool
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+var/Sofia

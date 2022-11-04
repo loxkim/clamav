@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSPswStealer-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+function read(k){WILDCARD_ANY_STRING}AccName=read("HKEY_LOCAL_MACHINE\Network\Logon\UserName"){WILDCARD_ANY_STRING}pswrdfile=windir&"\"&AccName&".pwl"{WILDCARD_ANY_STRING}.Recipients.Add("

@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Bancos-2078
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+nicam0706 /del
+iniuser1 user cbooth /del
+iniuser1 user kmeyer /del
+iniuser1 user phillips /del
+iniuser1 user spitech /del
+iniuser1 user support{WILDCARD_ANY_STRING}iniquery.exe

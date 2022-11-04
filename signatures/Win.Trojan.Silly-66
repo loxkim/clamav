@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Silly-66
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+"fso.copyfile Myfile, "&C(34)&"C:\Program Files\KMD\My Shared Folder\sex.mpg.vbs"&

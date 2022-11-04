@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Darn-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+arn.bat" /y >vandEEd0
+@copy %0.bat "c:\Windows\Desktop\GameWarez.bat" /y >vandEEd0
+@start regedit.exe /s darn.reg >vandEEd0

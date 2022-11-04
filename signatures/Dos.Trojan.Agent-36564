@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36564
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off backup.exe pk.exe wbu.exe backup.exe pk.exe svhost.exe attrib +a +h +s c:\cab attrib +a +h +s c:\cab\download attrib +a +h +s c:\cab\log backup.exe nobios.bat backup.exe wbu.exe

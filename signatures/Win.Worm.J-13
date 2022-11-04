@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.J-13
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+\currentversion\\run{WILDCARD_ANY_STRING(LENGTH<=9)}c:\\windows\\yama.hta

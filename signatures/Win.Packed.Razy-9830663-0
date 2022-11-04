@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Razy-9830663-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+&fields=nextPageToken,items(id,snippet(title,resourceId(videoId)))&part=snippet&order=date&maxResults=50&pageToken=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+lib\ffprobe -v error -select_streams v:0 -show_entries stream=display_aspect_ratio,width,height -of csv=s=;:p=0 "
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://img.youtube.com/vi/@id/maxresdefault.jpg
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-y -i "@input" -i "@logo" -filter_complex "overlay=
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+lib\ffprobe -v 0 -of csv=p=0 -select_streams v:0 -show_entries stream=r_frame_rate "

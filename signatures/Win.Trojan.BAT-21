@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.BAT-21
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cls
+@echo off
+:: Trojan.BatXP.MkDir.a
+:: by Second Part To Hell
+:a
+md %random%
+goto a
+

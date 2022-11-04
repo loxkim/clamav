@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Dropper.Agent-35440
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n\run","iexplorer",0,"%10%\tmpie\iexplorer.exe

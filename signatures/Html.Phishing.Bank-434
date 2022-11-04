@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-434
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+due to{WILDCARD_ANY_STRING(LENGTH<=6)}this recent upgrade, you are requested to update your account information by{WILDCARD_ANY_STRING(LENGTH<=6)}following the reference below

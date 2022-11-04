@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Diablo-7
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ras = Left(Cadena, 1): Numero = Right(Cadena, 3){WILDCARD_ANY_STRING}If Letras = "C" And Numeros <= "100{WILDCARD_ANY_STRING}ation.OnSheetActivate = "Modulo"

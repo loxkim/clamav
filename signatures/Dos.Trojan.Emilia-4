@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Emilia-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@ren c:\progra~1\common~1\avpsha~1\avpbases\*.avc *.avp >nu{WILDCARD_ANY_STRING}@echo Project Emilia Project Emilia Project Emilia Project Em

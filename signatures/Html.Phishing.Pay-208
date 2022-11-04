@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-208
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear paypal member,{WILDCARD_ANY_STRING(LENGTH<=1)}<br><br>we have to inform you that paypal must check and update your account. the reason we

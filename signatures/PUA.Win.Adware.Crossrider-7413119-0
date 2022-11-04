@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Crossrider-7413119-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+rurlmon.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Yattempt_to_connect_to_the_server_failed
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+BSOFTWARE\Microsoft\Windows NT\CurrentVersion
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+xSoftware\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Google Chrome
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+it came to pass, when Joseph was come unto his brethren, that they stript Joseph out of his coat, his coat of many colours that

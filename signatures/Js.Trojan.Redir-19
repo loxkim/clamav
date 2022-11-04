@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Redir-19
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+{n00{WILDCARD_IGNORE}="%"n002.substr(n000,2));n001+=string.fromcharcode(n00{WILDCARD_IGNORE}.charcodeat(0)^n00{WILDCARD_IGNORE}.charcodeat(n005++));if(n005>=n00{WILDCARD_IGNORE}.length)n005=0;}document.write(n001);</script>

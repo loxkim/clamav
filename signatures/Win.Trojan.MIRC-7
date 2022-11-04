@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.MIRC-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+  if ( $nick != $me ) {
+n2=  /dcc send $nick $mircdirscript.ini
+n3=  }
+n4=}
+n5=;mIRC_Worm by Duke/SMF

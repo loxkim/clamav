@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-241
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for(i=0;i<w.length;i++){s=s+string.fromcharcode(4+w[i]);}if(a===aa)e("e(s)");

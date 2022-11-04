@@ -1,0 +1,33 @@
+VIRUS NAME: Vbs.Backdoor.Msfvenom_Payload-9951533-0
+TDB: Engine:90-255,FileSize:3000-10000,Target:3
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<script language="vbscript">
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+window.moveto-4000,-4000
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+createobject("wscript.shell")
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+createobject("scripting.filesystemobject")
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+for{WILDCARD_ANY_STRING(LENGTH<=1)}each{WILDCARD_ANY_STRING(LENGTH<=25)}in{WILDCARD_ANY_STRING(LENGTH<=1)}split({WILDCARD_ANY_STRING(LENGTH<=50)}.expandenvironmentstrings("%psmodulepath%")
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\..\powershell.exe

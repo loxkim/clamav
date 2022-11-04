@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.5hex-6571861-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ehlmlqj#Ulvlqj#Lqirupdwlrq#Whfkqrorj|#Frusrudwlrq#Olplwhg
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+KxrUrqjErUxl#+Ehlmlqj,#Whfkqrorj|#Fr1/Owg
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ehlmlqj#Nlqjvriw#Vhfxulw|#vriwzduh#Fr1/#Owg
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Whqfhqw#Whfkqrorj|+Vkhq}khq,#Frpsdq|#Olplwhg
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Tlkrr#693#Vriwzduh+Ehlmlqj,#Frpsdq|#Olplwhg

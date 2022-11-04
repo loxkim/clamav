@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36393
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+eateobject("scripting.filesystemobject")droppath=fso.getspecialfolder(2)&"" & dropfilename if fso.fileexists(droppath)=false then set fileobj = fso.createtextfile(droppath, true) for i = 1 to len(writedata) step 2 fileobj.write chr(clng("&h" & mid(writedata,i,2))) next fileobj.close end if set wshshell = createobject("wscript.shell") wshshell.run droppath

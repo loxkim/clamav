@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1176
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+" href="http://tinyurl.com/{WILDCARD_ANY_STRING(LENGTH<=30)}" alt="http://www.poste.it">

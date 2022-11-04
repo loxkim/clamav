@@ -1,0 +1,6 @@
+VIRUS NAME: Php.Trojan.MSShellcode-107
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+      @set_time_limit(0); @ignore_user_abort(1); @ini_set('max_

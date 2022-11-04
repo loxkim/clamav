@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Psyme-18
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+& "win.exe" search tempfolder:wsh.run (exepath):loop wsh.run "cmd.exe /c del c:\lhxyvbs2.hta" ,0

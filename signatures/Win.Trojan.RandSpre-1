@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.RandSpre-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+showfilename=mydic.item(cstr(int(rnd {WILDCARD_ANY_STRING} mydicN+1))) & "\" & f &".vbs"{WILDCARD_ANY_STRING}fso.copyfile WScript.ScriptFullName,showfilename,true

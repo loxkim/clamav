@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCBnc-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n35=on 10:TEXT:!icqpagebomb*:#:{  if ($2 == help) { msg # Syntax: !icq

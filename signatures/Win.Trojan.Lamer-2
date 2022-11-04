@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Lamer-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+VLink = Wscr.CreateShortcut("C:\WINDOWS\Favorites\LaMEr.URL")
+VLink.TargetPath = "http://www.teensex.com"
+VLink.Save
+Wscr.Ru

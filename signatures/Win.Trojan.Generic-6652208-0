@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6652208-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+: The box is not editable. Use "copy" button to replace the content of the Clipboard with resultant value (i.e. result).
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+]words, the program's compiler evaluates operator precedence in a left to right order if they 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Sprecedence of the operations. Segments of the expression which are enclosed within 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Wdecimal delimiter "period" or "comma", depending on your computer system configuration.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bPaste: Use Paste to replace selected text in expression-editor with the contents of the Clipboard,

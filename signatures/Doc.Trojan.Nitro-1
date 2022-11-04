@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nitro-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Norm.CodeModule.Lines(1, 1) <> "'W97.Nitrogen"{WILDCARD_ANY_STRING}Description\System\CentralProcessor\0", "Identifier") = "Nitrogen"

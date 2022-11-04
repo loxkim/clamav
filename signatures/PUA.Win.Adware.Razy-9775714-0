@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Razy-9775714-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+QmNqcx.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+lHYBsCxIvvj59dItSXlDm8uCz3aG1LRowJnQkgEU. It is most likely the result of calling an MSIL-compiled (/clr) function from 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Z3hL1hmzgVlmkE3vb6zF59EjlIzAF6lq7uCqGRuQcVJBfuNYuew7bltAYo7EeOTPhs7VEl6TJeY7loU
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lEnogEtzuwR6EI22oqY8cSoNJ__k1zr'
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wRHvB6hY6_xihaqYcMRTeOK6Byx1p1XkU41_1bPt91'

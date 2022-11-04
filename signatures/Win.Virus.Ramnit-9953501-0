@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9953501-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+A5 148 x 210 mm (5.8 x 8.3 in).Executive 184.1 x 266.7 mm (7 1/4 x 10 1/2 in)%Nav
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+A5 5.8 x 8.3 in (148 x 210 mm).Executive 7 1/4 x 10 1/2 in (184.1 x 266.7 mm)%Nav
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+brcccze.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ aplikace a pak operaci znovu opakujte.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ soubory a pak operaci znovu opakujte.

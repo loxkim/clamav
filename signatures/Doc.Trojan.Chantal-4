@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Chantal-4
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+tring("", "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run", "MKV") = "C:\WINDOWS\SYSTEM\MKV2.vbs"

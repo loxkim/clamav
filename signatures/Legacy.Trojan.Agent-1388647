@@ -1,0 +1,23 @@
+VIRUS NAME: Legacy.Trojan.Agent-1388647
+TDB: Engine:51-255,Target:3
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<meta http-equiv="x-ua-compatible" content="ie=6" />
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+onmouseover="
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.createthead()
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+window.settimeout({WILDCARD_ANY_STRING(LENGTH<=200)}window.settimeout(

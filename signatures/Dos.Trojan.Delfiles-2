@@ -1,0 +1,6 @@
+VIRUS NAME: Dos.Trojan.Delfiles-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+s
+del C:\ntldr.exe{WILDCARD_ANY_STRING}if exist C:\ntldr.exe goto 

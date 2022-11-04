@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-183
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for(o=0;o<n004.length;o++){a=n004.charat(o);t=n002.indexof(a);if(t>-1){p=((t+1)%n001-1);if(p<=0){p+=n001}n005+=n002.charat(p-1)}else{n005+=a}}n000+=n005}c(

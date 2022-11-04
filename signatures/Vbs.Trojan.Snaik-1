@@ -1,0 +1,5 @@
+VIRUS NAME: Vbs.Trojan.Snaik-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+so.GetFile(WScript.ScriptFullName).Copy(dir2&"\system.vbs"){WILDCARD_ANY_STRING}& "{impersonationLevel=impersonate}!\\" & strComputer & "\root\cimv2")

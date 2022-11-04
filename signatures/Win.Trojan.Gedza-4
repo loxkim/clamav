@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Gedza-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Application.VBE.CodePanes(i).CodeModule.Lines(1, 1) = "'GEDZAC" Then

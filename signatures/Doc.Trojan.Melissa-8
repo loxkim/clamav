@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Melissa-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ring("", "HKEY_CURRENT_USER\Software\Microsoft\Office\", "Melissa?") <> "... by ManehX" Th

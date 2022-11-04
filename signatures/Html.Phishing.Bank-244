@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-244
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+eed to make this update before {WILDCARD_ANY_STRING(LENGTH<=35)} to ensure you're prepared for our new security enhancements.</{WILDCARD_ANY_STRING(LENGTH<=250)}so please take a few minutes and log onto <a hr

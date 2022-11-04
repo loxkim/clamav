@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-197
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear paypal client,</b></font><b{WILDCARD_ANY_STRING(LENGTH<=35)}">during our regularly scheduled account maintenance and verification we have detected a sli

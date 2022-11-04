@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Joke.FakeDel-11
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+\Control\Keyboard Layouts\%{WILDCARD_ANY_STRING(LENGTH<=184708)}c:\windows\*.*

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.File.Miner-9933388-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-a {0} --proto stratum --server {1} -u {2} --proto stratum --dserver {3} --duser {4} -d {5} -w 0 --api {6} {7}
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+miner.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-a {0} --proto stratum --server {1} -u {2} -d {3} -w 0 --api {4} {5}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0GMinerPlugin.GMiner+<GetMinerStatsDataAsync>d__9
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+GMiner - High-performance miner for NVIDIA and AMD GPUs.

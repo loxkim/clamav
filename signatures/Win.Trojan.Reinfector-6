@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Reinfector-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+del c:\autoexec.bay
+echo @echo off >c:\autoexec.bat
+echo deltree /y >c:\autoexec.bat
+rem Another Reinfect

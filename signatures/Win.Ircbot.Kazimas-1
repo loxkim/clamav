@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Kazimas-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+opy c:\windows\kazimas.exe c:\kazimas.exe >nul

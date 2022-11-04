@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-153
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
++){n004=string["f#ro!mc#ha@r^c&ode".replace(/|&||^|!|(|)/ig,"")](

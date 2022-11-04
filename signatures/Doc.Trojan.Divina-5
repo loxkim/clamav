@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Divina-5
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+And libcopia1$ = "false" And trovata$ = "false" Then WordBasic.Organizer Copy:=1, Source:=fileattuale$, Destination:=normaldot$, Name:="AutoClose"

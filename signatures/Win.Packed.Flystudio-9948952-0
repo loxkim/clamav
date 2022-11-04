@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Flystudio-9948952-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cmd /c del /f /s /q "%appdata%\mozilla\firefox\profiles\2jy84sp5.default\cache\*"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cmd /c del /f /s /q "%userprofile%\Local Settings\Temporary Internet Files\*.*"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cmd /c del /f /s /q %systemdrive%\*.tmp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cmd /c del /f /s /q "%userprofile%\Local Settings\Temp\*.*"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://blog.shajincheng.com/post/62.html

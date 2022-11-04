@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-208
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.Run('start /m format c: d: e: /au

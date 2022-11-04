@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Win.Tool.KillWind-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+-allquiet{WILDCARD_ANY_STRING(LENGTH<=323)}TerminateProcess() failed on %s

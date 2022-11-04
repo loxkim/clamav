@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-1031
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Subject: Please respond - overdue payment{WILDCARD_ANY_STRING(LENGTH<=320)}Please find attached your invoices for the past months

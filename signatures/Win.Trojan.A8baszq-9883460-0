@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.A8baszq-9883460-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Archiv~1\Mozilla Firefox\firefox.exe http://www.liveuser.somee.com/nuevo.asp?st=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Archiv~1\Internet Explorer\IEXPLORE.EXE http://www.liveuser.somee.com/nuevo.asp?st=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd /c taskkill /im iexplore.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd /c taskkill /im firefox.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd /c taskkill /im chrome.exe

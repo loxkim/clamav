@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Vicepass-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+cmd.exe /C ping 1.1.1.1 -n 1 -w 3000 > Nul & Del "%s"{WILDCARD_ANY_STRING}GET / HTTP/1.1{WILDCARD_ANY_STRING}Cookie: client_login=%s; client_password=%s{WILDCARD_ANY_STRING}GET /index.php?data=%s

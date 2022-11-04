@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Slimware-9770918-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%USERPROFILE%\Local Settings\Application Data\Google\Chrome\Application\chrome.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%LOCALAPPDATA%\Google\Chrome\Application\chrome.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%ProgramFiles%\Mozilla Firefox\firefox.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Das komplette System zu reinigen war noch nie so einfach. Entfernen Sie temp. Dateien und anderen Junk, der unn
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+NLes utilites Slimware recommandent l'installation du logiciel SlimCleaner Plus

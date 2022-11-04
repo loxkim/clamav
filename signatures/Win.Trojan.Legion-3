@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Legion-3
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+&fsoafwwqj.{WILDCARD_ANY_STRING(LENGTH<=18)})&"\temp.vbs%"

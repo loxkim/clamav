@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Dropper.Prince-6923178-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+    Dim LMCooperator As Long
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+    vAddress = efasdv(0, yefawfq, &H1000, &H40)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+    wetqdawe = dnnaigej(gweasdf, "GetProcAddress")
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&H0, &HC7, &H44, &H24, &H28, &H1, &H0, &H0, &H0, &H48, &HC7, &H44, &H24, &H20, &H0, &H0, &H0, &H0, &H45, &H33, &HC9, &H4C, &H8D, &H84, &H24, &H90, &H0, &H0, &H0, &H48, &H8D, &H94, &H24, &HC0, &H4, &H0, &H0, &H33, &HC9, &HFF, &H94, &H24, &HC0, &H3, &H0, &H0, &H48, &H8D, &H8C, &H24, &HC8, &H1, &H0, &H0, &HFF, &H94, &H24, &H80, &H0, &H0, &H0, &H48, &H8D, &H8C, &H24, &HB0, &H3, &H0, &H0, &HFF, &H94, &H24, &H80, &H0, &H0, &H0, &H48, &H8D, &H4C, &H24, &H70, &HFF, &H94, &H24, &H80, &H0, &H0, &H0, &H48, &H8D, &H8C, &H24, &H20, &H4, &H0, &H0, &HFF, &H94, &H24, &H80, &H0, &H0, &H0, &H48, &H81, &HC4, &HD8, &H4, &H0, &H0, &HC3, &HCC, &HCC)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&H84, &H24, &H9, &H4, &H0, &H0, &H2E, &HC6, &H84, &H24, &HA, &H4, &H0, &H0, &H70, &HC6, &H84, &H24, &HB, &H4, &H0, &H0, &H68, &HC6, &H84, &H24, &HC, &H4, &H0, &H0, &H70, &HC6, &H84, &H24, &HD, &H4, &H0, &H0, &H0, &HC6, &H84, &H24, &H78, &H3, &H0, &H0, &H5C, &HC6, &H84, &H24, &H79, &H3, &H0, &H0, &H6D, &HC6, &H84, &H24, &H7A, &H3, &H0, &H0, &H73, &HC6, &H84, &H24, &H7B, &H3, &H0, &H0, &H73, &HC6, &H84, &H24, &H7C, &H3, &H0, &H0, &H79, &HC6, &H84, &H24, &H7D, &H3, &H0, &H0, &H6E, &HC6, &H84, &H24, &H7E, &H3, &H0, &H0, &H63, &HC6, &H84, &H24, &H7F, &H3, &H0, &H0, &H2E, &HC6, &H84, &H24, &H80, &H3, &H0, &H0, &H65, &HC6, &H84, &H24, &H81, &H3, &H0, &H0, &H78, &HC6, &H84, &H24, &H82, &H3, &H0, &H0, &H65, &HC6, &H84, &H24, &H83, &H3, &H0, &H0, &H0, &H48, &H8D, _
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&H84, &H24, &HE0, &H1, &H0, &H0, &H48, &H89, &H44, &H24, &H20, &H45, &H33, &HC9, &H45, &H33, &HC0, &HBA, &H7, &H0, &H0, &H0, &H33, &HC9, &HFF, &H94, &H24, &HD8, &H1, &H0, &H0, &H48, &H8D, &H94, &H24, &H78, &H3, &H0, &H0, &H48, &H8D, &H8C, &H24, &HE0, &H1, &H0, &H0, &HFF, &H94, &H24, &H70, &H3, &H0, &H0, &HC6, &H84, &H24, &H10, &H3, &H0, &H0, &H68, &HC6, &H84, &H24, &H11, &H3, &H0, &H0, &H74, &HC6, &H84, &H24, &H12, &H3, &H0, &H0, &H74, &HC6, &H84, &H24, &H13, &H3, &H0, &H0, &H70, &HC6, &H84, &H24, &H14, &H3, &H0, &H0, &H73, &HC6, &H84, &H24, &H15, &H3, &H0, &H0, &H3A, &HC6, &H84, &H24, &H16, &H3, &H0, &H0, &H2F, &HC6, &H84, &H24, &H17, &H3, &H0, &H0, &H2F, &HC6, &H84, &H24, &H18, &H3, &H0, &H0, &H77, &HC6, &H84, &H24, &H19, &H3, &H0, &H0, &H77, &HC6, &H84, &H24, _
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&HC6, &H84, &H24, &HF8, &H3, &H0, &H0, &H6B, &HC6, &H84, &H24, &HF9, &H3, &H0, &H0, &H6F, &HC6, &H84, &H24, &HFA, &H3, &H0, &H0, &H69, &HC6, &H84, &H24, &HFB, &H3, &H0, &H0, &H6C, &HC6, &H84, &H24, &HFC, &H3, &H0, &H0, &H2E, &HC6, &H84, &H24, &HFD, &H3, &H0, &H0, &H63, &HC6, &H84, &H24, &HFE, &H3, &H0, &H0, &H6F, &HC6, &H84, &H24, &HFF, &H3, &H0, &H0, &H6D, &HC6, &H84, &H24, &H0, &H4, &H0, &H0, &H2E, &HC6, &H84, &H24, &H1, &H4, &H0, &H0, &H73, &HC6, &H84, &H24, &H2, &H4, &H0, &H0, &H67, &HC6, &H84, &H24, &H3, &H4, &H0, &H0, &H2F, &HC6, &H84, &H24, &H4, &H4, &H0, &H0, &H71, &HC6, &H84, &H24, &H5, &H4, &H0, &H0, &H75, &HC6, &H84, &H24, &H6, &H4, &H0, &H0, &H65, &HC6, &H84, &H24, &H7, &H4, &H0, &H0, &H72, &HC6, &H84, &H24, &H8, &H4, &H0, &H0, &H79, &HC6, _
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+llsodiplo(0) = Array(&H48, &H81, &HEC, &HD8, &H4, &H0, &H0, &HC6, &H84, &H24, &HC8, &H1, &H0, &H0, &H75, &HC6, &H84, &H24, &HC9, &H1, &H0, &H0, &H72, &HC6, &H84, &H24, &HCA, &H1, &H0, &H0, &H6C, &HC6, &H84, &H24, &HCB, &H1, &H0, &H0, &H6D, &HC6, &H84, &H24, &HCC, &H1, &H0, &H0, &H6F, &HC6, &H84, &H24, &HCD, &H1, &H0, &H0, &H6E, &HC6, &H84, &H24, &HCE, &H1, &H0, &H0, &H2E, &HC6, &H84, &H24, &HCF, &H1, &H0, &H0, &H64, &HC6, &H84, &H24, &HD0, &H1, &H0, &H0, &H6C, &HC6, &H84, &H24, &HD1, &H1, &H0, &H0, &H6C, &HC6, &H84, &H24, &HD2, &H1, &H0, &H0, &H0, &HC6, &H84, &H24, &HB0, &H3, &H0, &H0, &H73, &HC6, &H84, &H24, &HB1, &H3, &H0, &H0, &H68, &HC6, &H84, &H24, &HB2, &H3, &H0, &H0, &H66, &HC6, &H84, &H24, &HB3, &H3, &H0, &H0, &H6F, &HC6, &H84, &H24, &HB4, &H3, &H0, &H0, &H6C, &HC6, &H84, &H24, _

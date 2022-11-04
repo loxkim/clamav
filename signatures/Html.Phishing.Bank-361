@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-361
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to re{WILDCARD_ANY_STRING(LENGTH<=1)}activate your ac{WILDCARD_ANY_STRING(LENGTH<=1)}count, click on the link below and confirm your identity by completing the sec ure form what will appear.

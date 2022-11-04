@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Boluc-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+jui.codemodule.InsertLines 16, "If Pert.Name = " + Chr(34) +"Hercolubus" + Chr(34) + " Then"

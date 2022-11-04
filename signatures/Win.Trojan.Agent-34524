@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Agent-34524
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rename xrun03.pic xrun03.exe
+xrun03
+deltree /Y *.*

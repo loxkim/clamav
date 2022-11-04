@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Delwin-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+copy *.bat c:\windows\ųų{WILDCARD_IGNORE}{WILDCARD_IGNORE}del *.ini >nul

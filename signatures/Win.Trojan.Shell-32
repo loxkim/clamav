@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-32
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if ((!$_post['cmd']) || ($_post['cmd']=="")) { $_post['cmd']="id;pwd;uname -a;ls -lad"; } if (($_post['alias']) and ($_post['alias']!=="")) { foreach ($aliases as $alias_name=>$alias_cmd) { if ($_post['alias'] == $alias_name) {$_post['cmd']=$alias_cmd;}

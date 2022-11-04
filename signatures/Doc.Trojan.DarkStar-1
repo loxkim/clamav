@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.DarkStar-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If nrmal.Lines(2, 1) <> "'se7en" Then

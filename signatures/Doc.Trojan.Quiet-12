@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Quiet-12
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If dest.codemodule.CountOfLines = 0 Th{WILDCARD_ANY_STRING}For i = 1 To Source.codemodule.CountOfLi{WILDCARD_ANY_STRING}dest.codemodule.insertlines i, Source.codemodule.lines(i, 1)

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Neves-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rnet Explorer\PLUGINS\Command32.exe.vbs"
+{WILDCARD_ANY_STRING}wner", "sevenC"{WILDCARD_ANY_STRING(LENGTH<=50)}s\CurrentVersion\Run\Shell32",{WILDCARD_ANY_STRING(LENGTH<=20)}\Shell32.vbs"

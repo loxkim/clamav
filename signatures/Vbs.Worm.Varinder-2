@@ -1,0 +1,5 @@
+VIRUS NAME: Vbs.Worm.Varinder-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+hkcu\software\microsoft\windows\currentversion\policies\system\disabletaskmgr", "1{WILDCARD_ANY_STRING}body = "devi assolutamente aiutarmi con il file allegato, per favore!" execute

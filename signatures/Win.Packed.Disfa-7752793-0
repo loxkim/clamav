@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Disfa-7752793-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Down\Documents\Visual Studio 2010\Projects\diro\diro\obj\x86\Debug\diro.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+wxV80JQrmnJhiwtC7+xR1UCCTMheTRGgM0vA+nePAZzOUusKNuNndc5S6wo242d1zlLrCjbjZ3UlfvxdaDLw2ANcXB7HbfIi2ORgg8gmW+vbgvAm6Ob2f+4/
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+diro.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+diro.Resources.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+diro.Resources

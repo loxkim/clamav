@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-9862319-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SchoolManagementSystem.Login.resources
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO NonAcademic(full_name,initial,dob,gender,address,mobile,email,doe,subject,user_name,password,is_admin,dp) VA
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://tempuri.org/SchoolManagementSystemDataSet1.xsd
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT st_id, full_name, initial, dob, gender, address, mobile, email, parent_name, parent_mobile FROM dbo.Student
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO Student(full_name,initial,dob,gender,address,mobile,email,parent_name,parent_mobile,dp) VALUES('

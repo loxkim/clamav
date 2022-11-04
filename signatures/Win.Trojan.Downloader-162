@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-162
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+window.eval(){WILDCARD_ANY_STRING(LENGTH<=30)}fff=op.split("66"

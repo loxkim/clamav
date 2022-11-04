@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Yaleedu-3
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+you must reply to this email{WILDCARD_ANY_STRING(LENGTH<=2)}immediately and enter your CORRECT PASSWORD

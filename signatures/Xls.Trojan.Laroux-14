@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Laroux-14
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Workbooks(n4$).Sheets("kustyk").Copy before:=Workbooks("PERSONAL.XLS").Sheets(1)

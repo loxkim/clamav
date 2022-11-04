@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-879
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+test alert, just click on the link below and logon.{WILDCARD_ANY_STRING(LENGTH<=7)}you will be able update to your internet banking service

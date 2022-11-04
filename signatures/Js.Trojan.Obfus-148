@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-148
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+n="b";t="s)";x=document["createelement"]("p");x["innerhtml"]="1";c=parseint(m(x["innerhtml"]));}}i=0;mm="su";u=mm+n+"str";for(;i<{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE};){m("w=z[u](a[i],c)");s+=w;i+=1;}

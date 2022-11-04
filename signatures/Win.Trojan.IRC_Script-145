@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-145
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if ($1 == !devoice && $_isvo($sockname,%chan,%anick)) { sbcmd $sockname mode %chan -v %anick } if ($1 == !k)

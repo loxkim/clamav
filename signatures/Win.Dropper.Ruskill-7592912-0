@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Ruskill-7592912-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Bonanzab.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  Bonanzab* Bonanzab* Bonanzab* Bonanzab* Bonanzab* Bonanzab* Bonanzab* Bonanzab* Bonanzab* Bonanzab* Bonanzab27
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7J:\Bonan\Bonanz\OCX2\Bonanzab.oca
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+`f'RFAlJM?E@-YA3GeQ>+744aN9dzn._v2GM=Kdk]['mH}TALDS{:d/qw8cWR}[^PVQ>jRDXvbO<HEEr_Ju
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rxs`PUERTAPUEGJ<B=*V>0DbN;(411^K6awk+\s/DJ:HahZX$jEzQ>IAPx7a,nt5`TOzPUERTAPUE

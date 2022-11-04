@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Html.Trojan.Crypt-348
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+l=n002.length;while(c<=n002.length-1){while(n002.charat(c)!="{WILDCARD_IGNORE}")n001=n001+n002.charat(c++);c++;out=out+string.fromcharcode(n001{WILDCARD_ANY_STRING(LENGTH<=6)};n001="";}document.write(

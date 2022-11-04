@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Script-3
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<iframe src=http://www.krvkr.com/wormkr.htm width=0 height=0>

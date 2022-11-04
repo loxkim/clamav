@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.IRCFlood-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set src3 = CreateObject("Wscript.shell")
+src3.run "share.ba

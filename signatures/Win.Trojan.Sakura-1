@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Sakura-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+botcmd.sflood if ($0 < 4) || ($2 !isnum){WILDCARD_ANY_STRING(LENGTH<=72)}bot.out

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Werwe-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If aa1 <> True And ff <> True Then GoTo WERWEWEA{WILDCARD_ANY_STRING}CodeModule.Lines(1, {WILDCARD_ANY_STRING}CodeModule.{WILDCARD_ANY_STRING}DeleteLines 1{WILDCARD_ANY_STRING}rr.CodeModule.Lines(dd,

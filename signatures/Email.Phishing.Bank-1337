@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1337
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+ href="http://tinyurl.com/{WILDCARD_ANY_STRING(LENGTH<=15)}" target="_blank" alt="http://www.poste.it">

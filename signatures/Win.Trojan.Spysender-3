@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Spysender-3
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+@echo off
+:start
+ping ya.ru -n{WILDCARD_ANY_STRING}send
+blat.exe -install -server smtp.yand

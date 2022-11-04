@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Petik-14
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+fso.getspecialfolder(0)&"\free porn.txt.vbs")

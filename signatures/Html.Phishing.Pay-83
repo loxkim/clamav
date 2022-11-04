@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-83
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+address for your paypal acc{WILDCARD_ANY_STRING(LENGTH<=150)}if you need assistance with your account,<br>click here and <a target="_blank" href="http://rds.yaho

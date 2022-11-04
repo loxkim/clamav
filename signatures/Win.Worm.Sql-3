@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Worm.Sql-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ldir.js v1.01
+
+function usage()
+ {
+  WScript.Echo("sqldir v1.01\n" +
+               "\n" +
+               "Usage : " +

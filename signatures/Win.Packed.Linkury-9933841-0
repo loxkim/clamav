@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Linkury-9933841-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\User\AppData\Roaming\BabSolution
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\User\AppData\Roaming\Delta
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+a9528187-9e1d-47f0-8785-a2aee4da22a2@82b0648f-3df8-4fbb-bfb1-b8aa08d473a7.com
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+41ed8dee-33ed-4769-bdf4-2707c4199b97@45a3c648-db86-4b41-92e2-a77bbbf91f1d.com
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Google\Chrome\User Data\Default\databases\chrome-extension_fjbgonfbgjdmlkjofohofdjnakkfppge_0

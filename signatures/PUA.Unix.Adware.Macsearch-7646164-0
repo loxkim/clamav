@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Adware.Macsearch-7646164-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/hilamt/Repos/frameworksandutils/LNFrameworks/LNEncryptor/LNEncryptor/
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/builduser/Repos/buildmachine/agent/MiniApOSX/MiniApOSX/MAPConfiguration.h
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/hilamt/Repos/agent/frameworksandutils/LNFrameworks/StatsSender/LNStats/
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-[MAPActionExec getCommandArgs]
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%@ exists but exec file %@ is missing (probably was uninstalled manually) - install it

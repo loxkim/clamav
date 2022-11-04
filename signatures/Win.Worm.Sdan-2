@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Sdan-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+if asc(car)>32 or car=" " then ScriptHtml(i)=ScriptHtml(i)+car

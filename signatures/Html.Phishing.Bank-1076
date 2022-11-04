@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1076
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+click here to sign in{WILDCARD_ANY_STRING(LENGTH<=10)}to online banking to reactivate your bank account now

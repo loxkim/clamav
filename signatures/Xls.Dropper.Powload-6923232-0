@@ -1,0 +1,43 @@
+VIRUS NAME: Xls.Dropper.Powload-6923232-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Call Shell("cM" & NormalThmes & theatredim, xlArrangeStyleTiled - 1)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Function BrokenLine()
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Function ReverseCounter()
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Function TimeOfTimers()
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Function Volts()
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Function WetherOnline()
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Sub Workbook_Open()
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WetherOnline = "E^T  ^  T^i=^!a^X^u^:^l^2=^-!)  ;  ;  )&&   ( (^Se^t ^ ^  t^8^H^d=^!T^i^:^dx=p!) )&  (   (SE^t  ^ K2^A=!t^8^H^d:C^2^=^c^!) ; ;  )&&  (^S^E^T   ^ k^Pa=^!K2^A^:NB=^J^!)& (s^eT ^ ^p^E=^!k^P^a^:^pk^=+^!)& ( ; (^SE^t ^   0^m^4J=!^p^E^:uT^8=a!)   ; ; )& (^S^e^t ^ ^ ^P7=!^0^m^4^J:^lW^=s^!)&  (^sE^T ^  A^I=!^P7^:KS^=^8^!)&(^sET  ^ QC^U^X=^!^A^I^:^kc=^x!)&&  (^Se^T  ^PMw^Q=!Q^C^U^X:f=S^!)&  (^SET ^c^x=!^P^Mw^Q:^Bz^=^F^!)& (sE^t ^  ^E^V=^!^c^x^:^l6^=X!)&&(s^eT  ^ ^1UP^Y=^!^E^V^:eO^Y=^f!)&&   (s^Et ^ L^X=!^1^U^P^Y:C^v^=E!)&&   (^Se^T ^ ^4h=^!L^X^:^E9=^\!)&   ( (^S^E^T  ^ ^ ^H^ML^P=^!^4h:^G^Fq=^T!)  ;  )&&   ( ;   (^s^e^t  ^ ^ k^BQ=!^H^ML^P^:J2^=i!)  )&   ( (^SE^T  ^ Q^h^B^q=!^k^B^Q:q^='!) ;  ; )&& (  (S^Et 47^o=!^Q^h^B^q^:k=,!) )&&( (S^E^T ^ ^Ca=^!47^o:^7=^A^!) ;   )&&   (   ; (S^e^T   ^Q^5="""") ; )&&  ;^C^M%os:~-7,-6%;   ; /^r ;  (%^Ca:""""=^!^Q5:~ +0^,^-^1^!%)   """""

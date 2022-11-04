@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Rubeus-9815528-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[X] /ticket:X must either be a .kirbi file or a base64 encoded .kirbi
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[X] Error {0} calling LsaCallAuthenticationPackage() for target "{1}" : {2}
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[X] Alternatively, supply a /user and </rc4:X | /aes256:X> hash to first retrieve a TGT.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[X] Error {0} running LsaLookupAuthenticationPackage (ProtocalStatus): {1}
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[*] Using a TGT /ticket to request service tickets

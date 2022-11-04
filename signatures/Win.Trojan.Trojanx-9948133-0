@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Trojanx-9948133-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+l<bootmgr.exe.mui.{4c36db85-8f8d-455b-b2c8-1ffe720e0647}`
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+l<bootmgr.exe.mui.{eef5672e-4af0-42d3-acd3-a2634decc2a1}`
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+l<bootmgr.exe.mui.{26e7d2a3-8a16-4f34-982d-9b720d2478a8}`
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+l<bootmgr.exe.mui.{ccf937fd-b159-43d1-ae85-18f62bd560c0}`
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TestGdipButton.dll

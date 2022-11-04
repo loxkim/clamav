@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Emotet-7562377-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bedeT5E4<GSRZFH3NHBcMDPPEdQn3iSNLR5fpH[VJZubehwNbertF5J35AQWQBM0CJFbBDZQEd]n3iXNLR$fpHKVJZfbehiNbektF5n35ArWQBw0CJwbBD
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+and economic dangers, Treasury Secretary Steven Mnuchin
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Failed to create a socket&Failed to connect to server
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+9Close the active window and prompts to save the documents
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ttempt to load the C {liP

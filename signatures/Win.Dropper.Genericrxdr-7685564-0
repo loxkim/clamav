@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Genericrxdr-7685564-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ftp://user_10103129:sasasa123@ftp.youhost.com.ar/htdocs/at.dat
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+attrib -s -h -r googleupdate.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ftp://ftp.youhost.com.ar/htdocs/
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ftp://etqwserver:etqw123@osa10.servequake.com/at.dat
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ftp://etqwserver:etqw123@osa9.dnsdynamic.com/at.dat

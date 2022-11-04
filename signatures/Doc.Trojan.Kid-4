@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Kid-4
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ation.OrganizerCopy Source:=NormalTemplate.FullName, Destination:=ActiveDocument.FullName, Name:="Kid", Object:=wdOrg

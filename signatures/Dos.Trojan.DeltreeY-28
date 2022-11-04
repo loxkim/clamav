@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.DeltreeY-28
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+deltree/y winbootdir% > nul

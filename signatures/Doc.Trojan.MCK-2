@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.MCK-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ct.VBComponents("Killer").CodeModule.InsertLines PoLi, vbTab & "Rem " & a & vbTab & b & vbTab & c & vbTab & d & vbTab & e

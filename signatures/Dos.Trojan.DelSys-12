@@ -1,0 +1,8 @@
+VIRUS NAME: Dos.Trojan.DelSys-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+del io.sys
+del boot.ini
+del ntdlr.*

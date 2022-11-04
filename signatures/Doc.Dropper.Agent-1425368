@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Dropper.Agent-1425368
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+<?xml {WILDCARD_ANY_STRING(LENGTH>=35&&<=60)}<relationships {WILDCARD_ANY_STRING(LENGTH>=50&&<=500)}<relationship {WILDCARD_ANY_STRING(LENGTH>=100&&<=300)}.gif..............................................................................................................................................php?a=

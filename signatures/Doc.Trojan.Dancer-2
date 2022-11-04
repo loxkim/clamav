@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Dancer-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+vateProfileString("", a$, "dancer") = False) Then{WILDCARD_ANY_STRING}veDocument.VBProject.VBComponents.Import ("c:\dancer.wav")

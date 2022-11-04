@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Exception-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+setTimeout('{set();}',1000);
+var Message = "Fuck You";

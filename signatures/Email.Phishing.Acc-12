@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Acc-12
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+ccount owner that refuses to update his or her account{WILDCARD_ANY_STRING(LENGTH<=10)}within{WILDCARD_ANY_STRING(LENGTH<=10)}days of receiving this warning will lose his or her account{WILDCARD_ANY_STRING(LENGTH<=10)}permanently

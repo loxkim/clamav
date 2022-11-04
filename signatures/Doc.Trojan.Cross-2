@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Cross-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Else If ActivInstall = False And NormInstall = True Then Set SexR = ActiveDocument.VBP{WILDCARD_ANY_STRING}With .VBComponents.Import("c:\X.VIC")

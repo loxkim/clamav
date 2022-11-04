@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Emotet-6765813-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1h283<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3T4$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5@6
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:d;4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<P= >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d><?
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8x9H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[pre-release version: pre-alpha]
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+EWH#@1wHJnERbRW.Pdb

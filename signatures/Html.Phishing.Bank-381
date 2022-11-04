@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-381
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear chase customer,{WILDCARD_ANY_STRING(LENGTH<=250)}in order to protect your sensitive information, we <b>temporarily suspended

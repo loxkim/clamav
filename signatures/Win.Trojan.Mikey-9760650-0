@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Mikey-9760650-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Provider=SQLOLEDB.1;Persist Security Info=False;User ID=dbaccess;Initial Catalog=restaurant;Data Source=LITAO-BD2FEE897w
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Select MATERIELID,Sum(ITEMCOUNT) as XXX,count(*) from SINGLEREPORT group by MATERIELID having count(*)>=1
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+LOGINID
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MyPos.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Select DISCOUNT from USERS where NAME='

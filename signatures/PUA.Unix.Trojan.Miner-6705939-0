@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Trojan.Miner-6705939-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+segregation_fork_height - RECENT_OUTPUT_BLOCKS - d.start_height >= d.distribution.size()
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4construct_tx_with_tx_keyERKNS_12account_keysERKNSt3__113unordered_mapIN6crypto10public_keyENS_16subaddress_indexENS3_4hashIS6_E
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tx_info.tx_hash != epee::string_tools::pod_to_hex(txs_hashes[slice + i])
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+slice + res.txs.size() > txs_hashes.size()
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+height < m_blockchain.offset() && m_blockchain.size() > m_blockchain.offset()

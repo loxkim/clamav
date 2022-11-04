@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nometz-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ActiveDocument.SaveAs FileName:=sv + c1 + "cdrom.dot", FileFormat

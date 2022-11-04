@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sad-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Logic$ = Micro$ + ":Sad"{WILDCARD_ANY_STRING(LENGTH<=10)}WordBasic.MacroCopy "Global:AutoClose", Logic$

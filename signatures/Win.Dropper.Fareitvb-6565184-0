@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Fareitvb-6565184-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Cade1.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_7_4_9_1_F_S_F_i_>_T_=_6_2_>_i_=_\_t_z_?_l_}_:_t_d_1_0_E_X_1_\_K_5_Q_7_J_D_l_1_5_<_q_t_S_0_[_P_V_G_@_x_X_W_I_8_@_b_J_
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_m_i_P_0_|_n_a_i_:_s_W_6_h_s_2_S_E_B_G_?_T_a_T_t_c_b_K_D_@_L_w_^_k_5_N_M_z_Q_H_5_r_R_>_S_f_?_j_l_C___E_X_R_z_R_@_J_
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_9_I_f_X_Y_Z_R_k_t_k_=_v_y_a_[_W_c_<_u_0_H_e_`_C_d___H_8_h_U_i_}_R_0_2_V_r_X_o_i_@_i_V_a_E_H_t_U_|_:_A_
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_9_I_f_X_Y_Z_R_k_t_k_=_v_y_a_[_W_c_<_u_0_H_e_`_C_d___H_8_h_U_i_}_R_0_2_V_r_X_o_i_@_i_V_a_~_

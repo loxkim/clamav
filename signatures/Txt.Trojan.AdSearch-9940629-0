@@ -1,0 +1,5 @@
+VIRUS NAME: Txt.Trojan.AdSearch-9940629-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+tar -xvf "app.zip" -c "%appdata%"{WILDCARD_ANY_STRING(LENGTH>=1&&<=3)}reg delete "hkey_current_user\software\microsoft\windows\currentversion\run"

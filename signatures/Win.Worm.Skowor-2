@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.Skowor-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ for each process in system 
+    if lcase(process.name)="steam.exe" then 
+       process.Terminate (0) 
+    end if 
+ Next

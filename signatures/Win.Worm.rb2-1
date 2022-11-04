@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.rb2-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if fcode[fcode.length-732,4]!=

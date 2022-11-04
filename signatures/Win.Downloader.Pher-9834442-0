@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Pher-9834442-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+< <$<(<,<0<4<8<<<@<H<L<P<T<X<\<`<d<h<l<p<t<|<
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1 1$1(1,10181<1@1D1H1L1P1T1X1\1`1h1l1p1t1x1|1
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6 6$6(6,60646<6@6D6H6L6T6X6\6`6d6h6l6p6t6x6|6
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;`;d;l;p;t;x;|;
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+> >$>(>,>0>4>8><>@>D>H>T>X>\>`>d>h>p>t>x>|>

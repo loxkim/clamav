@@ -1,0 +1,8 @@
+VIRUS NAME: Php.Trojan.Io-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+// PHP.IoBaracuda or PHP.Io is a php virus. 
+// 		By Xmorifc/BCVG and Dr.T/BCVG 2001
+//infects autoexec

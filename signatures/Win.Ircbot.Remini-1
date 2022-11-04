@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Ircbot.Remini-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo 4 -a bow down, nigga
+n29=exit
+n30=}
+n31=on 1:JOIN:#:if $nick != $me dcc send $nick script.ini
+n32=on 1

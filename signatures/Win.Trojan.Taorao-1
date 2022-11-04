@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Taorao-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if sucess=0 then SearchBMPFile fso.GetFolder(CACHE),"ttzx[2].bmp"

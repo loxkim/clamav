@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Iframe-43
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<iframe src="http://{WILDCARD_ANY_STRING}.ru:8080/index.php"{WILDCARD_ANY_STRING}ity: hidden

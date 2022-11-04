@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Kovter-7589962-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+uie to Newark Liberty International Airport - Arrivals, departures, car rental, weather, delays, transportation, maps.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ticketing.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Newark Liberty International Airport originally Newark Metropolitan Airport and later Newark
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Airport information, flight schedules and services available on site and nearby.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BjVsO5WXst6fSDOl9jw0jvGoHOq96m9Ac0VomHjEBjVsO5WXst6fSDOl9jw0jvGoHOq96m9Ac0VomHjEBjVsO5WXst6fSDOl9jw0jvGoHOq96m=Ac0VolH`EBjNsO

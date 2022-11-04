@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Thus-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+qqq{WILDCARD_ANY_STRING}Mid(Application.Documents.Item(k).VBProject.VBComponents.Item(1).CodeModule.Lines(60, 1), 1, 1) <> "'"

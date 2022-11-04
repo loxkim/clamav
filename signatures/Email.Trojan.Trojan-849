@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-849
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+US-CERT is forwarding the following{WILDCARD_ANY_STRING(LENGTH<=112)}Please check attached report for the details

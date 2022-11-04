@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-648
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Please click the link below, which is a SSL secured connection,to update your account information:{WILDCARD_ANY_STRING(LENGTH<=15)}http:

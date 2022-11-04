@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.BAT-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+-h -r +a
+attrib c:\windows\system.dat -s -h -r +a
+echo y | del c:\system.1st >nul
+echo y | de

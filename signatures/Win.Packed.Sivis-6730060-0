@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6730060-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<FL:smarttaglist xmlns:FL="http://schemas.microsoft.com/office/smarttags/2003/mostl">
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-SpeechUX*%windir%\system32\Speech\SpeechUX\sapi.cpl(
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%windir%\Speech\Common\sapisvr.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<FL:PropertyPage>http://r.office.microsoft.com/r/rlidSmartTagProperties?clid=1033</FL:PropertyPage>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+1@%windir%\system32\speech\speechux\sapi.cpl,-55566..\..\..\..\..\..\..\Windows\Speech\Common\sapisvr.exe!

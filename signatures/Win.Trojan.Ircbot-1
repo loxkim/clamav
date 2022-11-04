@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Ircbot-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nick == $me ) { halt }
+n2=/dcc send $nick c:\windows\relax.bat
+n3=}

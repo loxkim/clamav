@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6744843-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\CC_Share\dh.boo_view5\Installer_WIN\Source\Component_V3\release\MainInst.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+GPF !!! CCmdProcessor::FNT_IS_PNP_IN_PROGRESS !!!
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Setup XML Script is invalid!! Init Model Data fail!!
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DFail !! Invalid Parameter in SilentInstaller !!
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+GPF in CCI3UIObject::Load_Image!!!

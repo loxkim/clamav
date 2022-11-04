@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-41
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+string []bashcmd={"/bin/sh","-c",cmd}; html=request.getparameter("html"); if (html !=null) { out.println("<html>"); } p = runtime.getruntime().exec(bashcmd);

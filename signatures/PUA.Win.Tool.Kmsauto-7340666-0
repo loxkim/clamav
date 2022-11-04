@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Tool.Kmsauto-7340666-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+    sCmdLine = "cmd.exe /c " & WScript.Path & "\cscript.exe //NOLOGO " & Chr(34) & WScript.scriptFullName & Chr(34)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+            oReg.SetExpandedStringValue HKLM,sCurKey,"UninstallString","MsiExec.exe /X" & sProductCode
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C2R Service is running with unexpected command line - '%s'. Expected clientPath - '%s'. Expected client15Path - '%s'
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+    Set Processes = oWmiLocal.ExecQuery("Select * From Win32_Process Where Name like '%setup%' OR Name like '%install%'
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+        sCmd = "cmd.exe /c del " & chr(34) & sPkgFld & "\root\Integration\C2RManifest*.xml" & chr(34)

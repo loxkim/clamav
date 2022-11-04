@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nuclear-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ordBasic.MacroCopy "Global:PersilMan", WordBasic.[WindowName$]() + ":PersilMan", 0

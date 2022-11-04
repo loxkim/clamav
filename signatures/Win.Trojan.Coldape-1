@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Coldape-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+BOB = CreateObject("Wscript.Network"){WILDCARD_ANY_STRING(LENGTH<=3)}For x = 1 To 2{WILDCARD_ANY_STRING(LENGTH<=3)}If x = 1 Then EMADDY = "avm@nym.alias.net" Else EMADDY = "nick@virusbtn.com"

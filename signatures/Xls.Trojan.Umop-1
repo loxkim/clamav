@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Umop-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+umop ap!sdn-O0o.{WILDCARD_ANY_STRING(LENGTH<=626)}.StartupPath & "\Book1.xls"

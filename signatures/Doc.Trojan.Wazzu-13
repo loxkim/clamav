@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Wazzu-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+d$ = "NORMAL" + "." + "DOT"{WILDCARD_ANY_STRING}WordBasic.MacroCopy TheSmallOne$, TheBigOne$

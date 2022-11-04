@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.IRC_Script-128
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on *:Sockopen:xxx*:{
+  set -u1 %user $read adent
+  .sockwrite -nt $sockname USER

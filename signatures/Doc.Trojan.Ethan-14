@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ethan-14
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ent.Shapes.AddPicture Anchor:=Selection.Range, FileName:="C:\Windows\System\x.x", LinkToFile:=False, SaveWithDocument:=True

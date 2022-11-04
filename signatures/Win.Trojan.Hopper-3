@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Hopper-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Location.protocol = "file:" And (Int((6 * Rnd) + 1) = 1) Then
+                Dim FSO, folder, fc, f1, cpath

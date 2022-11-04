@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sun-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If .ProtectionType <> wdNoProtection Then .Unprote{WILDCARD_ANY_STRING}.Password = ""{WILDCARD_ANY_STRING}yCode = Date$ + 

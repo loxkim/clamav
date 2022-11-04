@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Trojan.Trojan-924
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+A
+ document was scanned and sent to you using a Hewlett-Packard ScanJet{WILDCARD_ANY_STRING(LENGTH<=16)}Sent to you by:{WILDCARD_ANY_STRING(LENGTH<=16)}Pages : 8 Filetype(s):

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Whitehome-3
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ocument.write("<script language=javascript> "+n000+" </script>");document.write("<script language=vbscript> "+n001+" </script>");</script>

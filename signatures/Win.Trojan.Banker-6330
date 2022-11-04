@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Banker-6330
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+127.0.0.1  localhost{WILDCARD_ANY_STRING(LENGTH<=2)}72.11.137.191  www.caixaeconomica.com.br{WILDCARD_ANY_STRING(LENGTH<=2)}72.11.137.191  www.caixaeconomica.gov.br

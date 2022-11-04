@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Flyaway-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ElseIf £d.VBProject.VBComponents(£o).CodeModule.Find("~^^~", 0, 0, 0, 0, False, False) = False

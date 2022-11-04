@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Appder-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sTMacro$ = sMe$ + ":Appder"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Modulog-1
+TARGET TYPE: PE
+OFFSET: EP+3578
+DECODED SIGNATURE:
+cmd=status&botname=%s&ver=%d&arch=%d&os_ver=%d&os_arch=%d

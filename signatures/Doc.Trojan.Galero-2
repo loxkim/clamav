@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Galero-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+On Error GoTo NormalInfect{WILDCARD_ANY_STRING}For J = 1 To NormalTemplate.VBProject.VBComponents.Count{WILDCARD_ANY_STRING}If NormalTemplate.VBProject.VBComponents(J).Name = "

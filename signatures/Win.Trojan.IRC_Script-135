@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-135
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+write %filetoboot [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]{WILDCARD_ANY_STRING(LENGTH<=32)}$replace($mircexe

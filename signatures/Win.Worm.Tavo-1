@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.Tavo-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WS\HELP\IESRACK.vbs"
+If TH.regread("HKCU\software\TavoScript\correo") <> "1" Then
+OutLYoN()
+End If
+Function OutLYoN()

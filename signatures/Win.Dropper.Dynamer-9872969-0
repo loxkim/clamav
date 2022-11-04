@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Dynamer-9872969-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\meuternden\Kampfhelikop\VB98\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Vernica.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Pe M| M| M| M| M| M| M| M| M| M| M| M| M| M| M| M| M| M|B
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Pd Md Md Md Md Md Md Md Md Md Md Md Md Md Md Md Md Md MAB
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+yWnr2nr2nr2nr2nr2nr2nr2nr2nr2nr2nr2nr2nr2nr2nr2nr2nr2nr2

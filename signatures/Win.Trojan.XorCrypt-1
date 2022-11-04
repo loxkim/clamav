@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.XorCrypt-1
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+(var i = 0 ; i < plain_str.length; ++i) xored_str += String.fromCharCode(xor_key ^ plain_str.charCodeAt(i)); return xored_str;

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Adware.Genieo-6751395-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sendRZReport('product','Postback Fail','IP Already Exists','0')
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+execut,status,helper,refactor,navigate,protect,view,agent,utils,control
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+,contentScriptFile: [self.data.url('cs.js')]});
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VmVyc2lvbiI6IjMwLjAifV0sInRhcmdldFBsYXRmb3JtcyI6W10sIm11bHRpcHJvY2Vzc0NvbXBhdGlibGUiOmZhbHNlfV19
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+chrome.tabs.executeScript(tab.id, {code: 'var doc = document;' + "sc = doc.createElement('script');"+ "sc.src ='" + script +

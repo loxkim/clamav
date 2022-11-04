@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Medinag-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+/* Ganymed{WILDCARD_ANY_STRING}for (k=0; k<code.length; k++) { newcode+=String.fromCharCode(code.charCodeAt(k)+dec) }

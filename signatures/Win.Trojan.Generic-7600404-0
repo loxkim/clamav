@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-7600404-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Insert into red_codedef (CLASSFLAG,JOHAPFLAG,CODEEDI,DESCRIPTIONEDI) Values('7','G','MS013','
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ Where (RuleID,StartDate) in (Select RuleID, MAX(startdate) from bts_accountset2 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+UPDATE red_codedef SET DESCRIPTIONEDI = '
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  (Select * From bts_accountset2 x 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ COUNT(DECODE(RULEID,'SPECIALMEMO_JT005','1')) as JT005  

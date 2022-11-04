@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Crossrider-7090526-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Joseph made ready his chariot, and went up to meet Israel his father, to Goshen, and presented himself unto him; and he fell on
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+b8939e9890ba8e8f94ae8b9f9a8f9eae8997a4b38f8f8baf94b992959a8982bd92979ea99e8a8e9e888f
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+b8939e9890ba8e8f94ae8b9f9a8f9eae8997a48e8997a4959aa49d9489a48e8b9f9a8f9e
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+a99e8b979a989eaf939eba9c9e958fa4bc9e8fb6949f8e979ebd92979eb59a969ea4
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+b8939e9890ba8e8f94ae8b9f9a8f9eae8997a4888f89b1889495a49e968b8f82

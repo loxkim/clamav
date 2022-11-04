@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IRC_Script-104
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+msg $chan Now Scanning: ClassA: %random1{WILDCARD_ANY_STRING}%scan.inc3 = $$2
+%scan = $gettok(%scan.range,1,46)

@@ -1,0 +1,43 @@
+VIRUS NAME: Java.Trojan.Opfake-5
+TDB: Engine:51-255,Container:CL_TYPE_ZIP,Target:0
+LOGICAL EXPRESSION: (0&1&2&3&4&5&6&7)
+ * SUBSIG ID 0
+ +-> OFFSET: *
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+awkowhka
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+currentTimeMillis
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/wireless/messaging/TextMessage
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+setCommandListener
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+setPayloadText
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+microedition/io/Connection
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+notifyDestroyed
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wireless/messaging/MessageConnection

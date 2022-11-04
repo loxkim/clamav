@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Emotet-9759180-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mfcm90.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+MapEd.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<description>Your app description here</description> 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+O01tN/0uO01rO01sM/0sI,-sI,-sI,-sI,-sI,-sI,-sI,-sI,-sI,-sI,-sI,-sI,-sI,-sL-.tP01uO01#Q12
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bMgBo2S1*Ki}V~5n28Si#20f~}M4KZ?dy%@nCMnTQJLc*E4bJ|$A8DSZne4pTXEJ%@PfX3mKBgvXa

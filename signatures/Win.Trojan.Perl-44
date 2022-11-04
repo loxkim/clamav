@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Perl-44
+FUNCTIONALITY LEVEL: >=25
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+{ if ($funcarg =~ /^portscan (.*)/) { my $hostip="$1"; my @portas=("21","22","23","25","53"

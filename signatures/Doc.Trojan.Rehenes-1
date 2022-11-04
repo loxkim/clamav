@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Rehenes-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.DropListBox 19, 216, 400, 50, ListaDesple1__$(), "ListaDesplegable1"

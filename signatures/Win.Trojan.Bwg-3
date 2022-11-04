@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bwg-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+%%v in (*.bat ..\*.bat \*.bat %path%\*.bat) do copy c:\{WILDCARD_ANY_STRING}.bat %%v del

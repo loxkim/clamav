@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Autorun-499
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+[auTORUn]
+ActIoN=Open folder to view files
+ShELLExECUtE=cEIRUT.ExE

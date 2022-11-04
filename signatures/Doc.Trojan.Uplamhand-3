@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Uplamhand-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+nction CM(CMN$, SMN$){WILDCARD_ANY_STRING}Dim cfn${WILDCARD_ANY_STRING}cfn$ = WordBasic.[FileName$](){WILDCARD_ANY_STRING}WordBasic.MacroCopy cfn$ + ":" + CMN$, _{WILDCARD_ANY_STRING}"Global:" + SMN$

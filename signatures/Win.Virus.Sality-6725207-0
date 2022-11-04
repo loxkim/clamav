@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6725207-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\Administrator\Start Menu\Programs\Westwood\Shared Internet Components
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://games2.westwood.com/cgi-bin/cgiclient?register&request=expand_template&Template=newreg_install.html&LANGCODE=0&SKU=10496
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\Administrator\Desktop\Red Alert 2.lnk
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\Administrator\Desktop\Yuri's Revenge.lnk
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\Administrator\Start Menu\Programs\Westwood\Yuri's Revenge

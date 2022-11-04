@@ -1,0 +1,28 @@
+VIRUS NAME: Txt.Trojan.XMRig-9915823-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+echo "c3pool mining setup script v$version."
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+echo "i will download, setup and run in background monero cpu miner."
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+`curl -s https://github.com/xmrig/xmrig/releases/latest | grep -o
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+chmod +x $home/c3pool/miner.sh
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+`hostname | cut -f1 -d"." | sed -r 's/[^a-za-z0-9\-]+/_/g'`

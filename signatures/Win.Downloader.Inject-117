@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.Inject-117
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+/update/count.asp{WILDCARD_ANY_STRING(LENGTH<=3)}~~allthesame

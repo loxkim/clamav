@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Psyme-52
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+(nds==15)document.write("404");elsealert("errorpage");nds=nds-3*4;if(nds==2)alert("ok");elsedocument.write(unescape("%3c%53%43%5

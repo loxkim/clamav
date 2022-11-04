@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Emotet-9628825-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Mr.Anderson\Desktop\VC++ 6.0\1.8.20\iconbutton_demo\Release\ButtonEx.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Mr.Anderson\Desktop\new_rc4\Release\new_rc4.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ButtonEx.EXE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wdH4vRarWzK%jt6EPEKM~R?oRHbuXuRCkH%HBcn~CPjP~uhxaZMGOlW|e3gXa1bIN|?5#
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Not Open File To Read!!!

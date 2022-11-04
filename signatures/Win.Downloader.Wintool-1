@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Downloader.Wintool-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+ls for IE service
+SERV_NAME=WinToolsSvc
+SOFTWARE_KEY=WinTools
+TB_ID=502

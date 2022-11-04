@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1320
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+order to verify your identity.{WILDCARD_ANY_STRING(LENGTH<=14)}you are advised to immediately log in and reactivate your account by following the link

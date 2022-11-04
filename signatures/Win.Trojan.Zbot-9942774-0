@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zbot-9942774-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/wq/Kc1r,SJz(^*2@.bqrowHS_<QPjpug;TH.ei5dl-(`vKKx1Es>qDa6atj3l<w3=7Jf)58Gne@Cy.M[I(uv
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_<QPjpug;TH.ei5dl-(`vKKx1Es>qDa6atj3l<w3=7Jf)58Gne@Cy.M[I(uvs|cnz@lk0tyk?oLH+m:*p2
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%wqgAc16&SJ:"^*
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@WT"*&@C:\(:=M6
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\/$'

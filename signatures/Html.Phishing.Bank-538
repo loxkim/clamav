@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-538
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+once you have updated your account records your {WILDCARD_ANY_STRING(LENGTH<=50)}account<br>service will not be interrupted <br>and will continue as normal.

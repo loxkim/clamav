@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Desikrat-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Normal.ThisDocument.VBProject.VBComponents("Desecration").Export "C:\MSDOS.___"

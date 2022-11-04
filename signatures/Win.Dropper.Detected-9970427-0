@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Detected-9970427-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+try MyDetourCreateProcessWithDllExW lpApplicationName[%s] lpCommandLine[%s]
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Success MyDetourCreateProcessWithDllExW lpApplicationName[%ls] lpCommandLine[%ls] hThread[%08x]
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\SYSTEM32\DLLHOST.EXE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%st% S suspects Ransom attack. Choose whether to block or allow this process. [Allow forever] applies at the next boot.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WebKit2WebProcess.exe

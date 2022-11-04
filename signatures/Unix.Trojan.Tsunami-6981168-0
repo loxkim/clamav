@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Tsunami-6981168-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NOTICE %s :!* TCP <Target> <Port> <Time> <Netmask> <Flags> <Packetsize> <Poll Interval> 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NOTICE %s :!* XMAS <Target> <Port> <Time> 32 1024 10
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NOTICE %s :HTTP Flood Starting on %s!
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NOTICE %s :Failed Setting Raw Headers Mode.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NOTICE %s :Failed Opening Raw Socket.

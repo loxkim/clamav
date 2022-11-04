@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-121
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we regret to inform you that your ebay account could be suspended if you don't {WILDCARD_ANY_STRING(LENGTH<=3)}update your account information. to resolve this problems please use the link below

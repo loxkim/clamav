@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Crypt-301
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if(parent!=self){var n002=true;function n001(){}}else{var n002=true;function n003(){if(n002){n002=false;var n004="http://8videos.com";if(document.all&&window.print){window.showmodaldialog(n004,"","dialogheight:"+n005.availheight+"px; dialogwidth:"+n005.availwidth+"px; dialogtop:0px; dialogleft: 0px; edge: raised; center:0; help:1;resizable:1;scroll:1; status:1")}else{eval(window.open(n0

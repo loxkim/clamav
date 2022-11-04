@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Llac-9810840-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+A*\AC:\Users\Usuario\Desktop\Trabajo\VB6 - 2\Publico #-11\LDK\ConnectionTest.vbp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+g to need to get their IP address some how and put it here to connect. Or a website that you want to connect to.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+A port number is a way to identify a specific process to which an Internet or other network message is to be forwarded when it a
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+j,C:\Windows\System32\Socket.oca
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\System32\Msinet.oca

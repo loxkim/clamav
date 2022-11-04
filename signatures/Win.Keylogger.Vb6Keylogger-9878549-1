@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Vb6Keylogger-9878549-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+M*\AC:\porana\klshaam\192-aspediter\pbaspedit.vbp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  Response.Cookies("Type").Expires = "
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+alt|aHR0cDovL3RlcmViaW5uYWhpYy5jbHViL3NlYy9rb29sLnR4dA==
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@6)\Microsoft Visual Studio\V
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:TF5PcmdSysInfo

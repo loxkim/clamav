@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Opencandy-6959480-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+- If you still have problems close any rundll32.exe processes used by the SDK.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity version="1.0.0.0" processorArchitecture="X86" name="SDK.Library" type="win32"/>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Status Error, OCFindGuidAndRunDialog SDK called with bad values. X value: %d, Y value %d, width value %d, height value %
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RunSDKDLL called with Windows GUID %s, Mem map id %s, Client session ID %s Seconds time from startup: %s
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%%\Kernel32.dll::GetModuleHandleA(m)i ('OCSetupHlp.dll').s

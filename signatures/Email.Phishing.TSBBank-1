@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.TSBBank-1
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Dear Valued Client{WILDCARD_ANY_STRING(LENGTH<=855)}should update(re-confirm)

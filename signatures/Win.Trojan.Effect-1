@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Effect-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CodeModule.AddFromFile ("C:\WINDOWS\SYSTEM\effect.sys"){WILDCARD_ANY_STRING}ffice\CodeBackColors","1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Startpage-505
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+osoft\internet explorer\toolbar\explorer]" f.writeline """itbarlayout""=hex:11,00,00,00,5c,00,00,00,00,00,00,00,24,00,00,00,1b,00,00,00,\" f.writ

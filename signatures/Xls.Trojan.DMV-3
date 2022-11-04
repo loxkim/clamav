@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.DMV-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Application.Workbooks("DMV.XLS").SaveCopyAs Application.StartupPath + "\GLOBAL.XLM"

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Jerk-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f Day(Now) = 14 And Month(Now) > 5 Then MsgBox "I think " & Application.UserName & " is a big stupid jerk!",

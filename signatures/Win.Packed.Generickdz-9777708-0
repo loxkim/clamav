@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-9777708-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+?This will remove %s from your system. Do you wish to continue\?iThe %s port provided by %s is still being used.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Disconnect all printers from this port then unikstall %s.EnumPorts() failed. Error = %d."EnumMonitors() failed. Error 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%s has been removed.[Unable to locate the ikstallation log file \'setip.inf\'. Unikstallation will not continue.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3http://crt.sectigo.com/SectigoRSATimeStampingCA.crt0#
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Disconnect all printers from this driver then unikstall %s.

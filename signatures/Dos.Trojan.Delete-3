@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Delete-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+@echo off :df del %1 if exist %1 goto df

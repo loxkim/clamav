@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bat-16
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for %%b in (*.bat) do call @ @ %%b{WILDCARD_ANY_STRING}:;@z [ABM 1

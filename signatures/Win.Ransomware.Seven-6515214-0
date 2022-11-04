@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Ransomware.Seven-6515214-0
+TDB: Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\\\\\\\\\\\WIndowS\\\\\explorer.exe.\\\\\
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\users\M\Desktop\vc\Zc\Release\Zc.pdb

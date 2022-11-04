@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-795
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+successfully{WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}updated our online banking servers to serve our esteemed customers a better and{WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}more efficient secure banking ser

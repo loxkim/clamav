@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Beast-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+t", FSO.GetSpecialFolder(1)&"\W95inf32.vbs"
+If Day (Now) = 13 Then
+MsgBox "GAME IS OVER" & Chr(9),vbOKonly

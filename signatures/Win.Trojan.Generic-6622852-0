@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6622852-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/L Sets sql login. You could use this parameter if the user in 'prisecle.bin' don't have permissions.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/W Sets sql password. You could use this parameter if the user in 'prisecle.bin' don't have permissions.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/K During the process of Migration defines whether to do shrink to database or not (accept: '0', '1', 'True', 'False').
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+z\\srvbuilds2\D$\Nightbuilds\Builds\Compatibility\DBM900\L915_SR7\StdMigrador900.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/D During the process of Migration defines whether to do final diagnostics or not (accept: '0', '1', 'True', 'False').

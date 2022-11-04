@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-122
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to inform you that your <b>{WILDCARD_ANY_STRING(LENGTH<=12)}account</b>, has been <b>temporarily suspended</b>due to various login attempts from diffrent global locati

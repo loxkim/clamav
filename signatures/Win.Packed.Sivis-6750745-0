@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6750745-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+URL=http://www.microsoft.com/isapi/redir.dll?prd=ie&ar=hotmail
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+m/html/mtname/ms_welcome.htmlhttp://www.monotype.com/html/type/license.html
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PS), available at: https://www.verisign.com/CPS; by E-mail at CPS-requests@verisign.com; or by mail at VeriSign, Inc., 2593 Coas
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.UserSectionHead {
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+r reports, tabular work and technical documentation.http://www.monotype.com/html/mtname/ms_couriernew.htmlhttp://www.monotype.co

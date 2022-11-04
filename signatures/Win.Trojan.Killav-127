@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Killav-127
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+start /min cmd /c net stop antivirService 2>nul

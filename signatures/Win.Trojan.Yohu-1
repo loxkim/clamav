@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Yohu-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+regedit.exe /s undoalltoolbars.reg regedit.exe /s

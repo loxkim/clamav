@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Brandy-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Const MyBrandi = "Brandi"{WILDCARD_ANY_STRING}VBProject.VBComponents(MyBrandi).Export MySource

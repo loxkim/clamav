@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Reboot-5
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+run\dlrb",sysdir&"\dlrb.vbs

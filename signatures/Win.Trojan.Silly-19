@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Silly-19
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ated (c) by Duke/SMF
+@ctty nul|for %%b in (*.b*) do set tt=%%b
+find "tt"<%tt%
+if errorlevel 1 find "tt"<%0

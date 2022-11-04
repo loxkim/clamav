@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1383
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+you have {WILDCARD_ANY_STRING(LENGTH<=5)} hours to confirm your account information or your account will be blocked

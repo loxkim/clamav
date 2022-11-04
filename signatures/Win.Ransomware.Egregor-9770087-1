@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Egregor-9770087-1
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1m6]o1}5VgIr]sm]EqARb@1@mK`FkKTEPWtcVbFmof`gETFEGpmvB35RLMNJ3q<<RjBBrH1TpnWtBIIiriJsGENBS|gIna/pG3k|C2pGvW7@uhe14qr3M=infnpI^lcs
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+M:\sc\p\testbuild.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+g06jO4}\KcoWs@l=jB+^WhO]Ei|C57oBl7KA^c]4cLbU4t<^k=U+/fhPPeLBWg]V6uRj14glOgKIeukb<1J^kR+e2JwpJ]sTh6eR~3BB+02+5li}1NfRTuauVskMr57
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+uJ=MQH`|ef/iWH5SPqbho}gm4oGNVwaO\RMjMt=nNGgQrAT=K]JVtb/Skh0ap|pv7`Tmsb^bqTku07t6KeI2S=Q~vjpi4CjO5~<2`Qi|l2K1OARs+iHWeAS6gI/amT6
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hk+ENrkaQE4^E/ec2gFI^i+=/^@Mvpj4F2b5aHlIuN=F2beN4Jb<MIrc<Ar+<1nwCicJrjQmHnRuH/4iSgR/6AAN6bqStklONp~c^~/r4VnRM``7u<su|vqMiHeT26k2

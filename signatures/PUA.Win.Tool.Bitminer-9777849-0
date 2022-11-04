@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Tool.Bitminer-9777849-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$___ZZ24kernel_cryptonight_finaljPN14cryCryptoNight3CtxEjPN3cry6noncesE18cryCryptoNightTypebE6shared__40291
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$_Z24kernel_cryptonight_finaljPN14cryCryptoNight3CtxEjPN3cry6noncesE18cryCryptoNightTypeb$_ZN14cryCryptoNight13smemExtern_inE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.nv.shared._Z24kernel_cryptonight_finaljPN14cryCryptoNight3CtxEjPN3cry6noncesE18cryCryptoNightTypeb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.nv.shared._ZN14cryCryptoNight30kernel_cryptonight_middle2_gpuINS_7concealEEEviP5uint4PNS_3CtxE
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.nv.shared._Z26kernel_cryptonight_middle3IN14cryCryptoNight7concealEEvPK5uint4PNS0_3CtxE

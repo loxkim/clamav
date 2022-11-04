@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36921
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+winamps{WILDCARD_ANY_STRING}C:\Documents and Settings\Administrator\Desktop\N\VB6.OLB

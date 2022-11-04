@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Mailru-7101586-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lback=http%3A%2F%2Farbmail.adv.biz%2FproductApi%2Fcomponent%3Fproductid%3D11%26iid%3D%7BinstallId%7D%26br%3D%7Bbrowser%7D%26paid
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%3D%7Bpaid%7D%26pa%3D%7BpaidAction%7D%26pb%3D%7BpaidBrowser%7D%26comp%3D%7Bcomponent%7D%26bc2%3D%7BbrowserClass2%7D%26bc1%3D%7Bb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ua_rfr=CHANNEL_813201&ext_pay_browser_class=0&ext_install_browser_class=0&amigo_install=1&vbm_install=1&hp_install=1&dse_install
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+A%2F%2Farbmail.adv.biz%2FproductApi%2Famigo%3Fproductid%3D11%26guid%3D%24__GUID%26ovr%3D%24__OVR%26campaign%3D%7Bcreative%7D%26s
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1%3A813351%2Cdse.2%3A813551%2Chp.1%3A813301%2Chp.2%3A813501%2Cpult.1%3A813401%2Cpult.2%3A813601%2Cany.2%3A813451%2Cany%3A813251&

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6733809-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Letterhead - Enterprise=pdir22f.gif||8.5in|11in|0|0|0|0|||Enterprise Letterhead - Paper Direct DT5761
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Letterhead - Aristocrat=pdir20f.gif||8.5in|11in|0|0|0|0|||Aristocrat Letterhead - Paper Direct DT1971
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Postcards - Enterprise=pdir31f.gif|pdir31b.gif|4.25in|5.5in|0|0|0|0|||Enterprise Postcards - Paper Direct PC7627
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Postcards - World Wide=pdir35f.gif|pdir35b.gif|4.25in|5.5in|0|0|0|0|||World Wide Postcards - Paper Direct PC1027
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Letterhead - Water Colors=pdir27f.gif||8.5in|11in|0|0|0|0|pdir70p.wmf|pdir70l.wmf|Water Colors Letterhead - Paper Direct DT1491

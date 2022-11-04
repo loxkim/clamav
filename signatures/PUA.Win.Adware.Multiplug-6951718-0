@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Multiplug-6951718-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+r svar={def:W3x60.u66+'void(0);'+W3x60.u66,content:W3x60.d86,get:function(a){var b="con";return a||!this[(b+W3x60.q56+W3x60.r8
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+)]=a;};var z0=this[(W3x60.F46+W3x60.r96+W3x60.S86+S)][W3x60.d56];delete  this[(W3x60.M56+W3x60.K66+U+W3x60.m76+W3x60.a66)][W3x60
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=b;},'m70':function(a,b){return a>b;}};chrome[(W3x60.M56+W3x60.Y86+W3x60.T46+W3x60.M76+W3x60.v86+W3x60.K66)][(W3x60.c76+W3x60.K6
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+x60.M56+W3x60.a66)][W3x60.f56];if(!e)return b(!W3x60.d56);dbc[e][(d+W3x60.J56+W3x60.M56)](a,b);},swap:function(e){var f="onl",
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+x60.c76+W3x60.K66+W3x60.T46+W3x60.M56+W3x60.r86)];}},nz={init:function(){var h="get";dbc[(h)](function(b){var d=((4.98E2,0xFD)

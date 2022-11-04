@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Downadup-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+shellexecute =rundll32.exe .\recycler\s-5-3-42-2819952290-8240758988-879315005-3665\jwgkvsq.vmx,ahaezedrn

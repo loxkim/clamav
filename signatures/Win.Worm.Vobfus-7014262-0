@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Vobfus-7014262-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Project4.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Thread Error: %s (%d)-Cannot terminate an externally created thread,Cannot wait for an externally created thread$No help
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+(Monitor support function not initialized
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6 6$6(6,6064686<6@6D6H6L6P6T6X680<0@0D0P0`0d0h0l0p0t0x0|0
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+686@6D6H6L6P6T6X6\6`6d6h6D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3

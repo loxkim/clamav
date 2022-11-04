@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Bulz-9880841-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+jjj-watchdog.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+lvquvtvtvbhfnxrgsvkartslmheplifxaqgetfregoenrlcfjxiusctnbabidfgjokfensoxqvvndkvwklrwztvfbwurkvqstgdgheqhkpjhamoygwlmonjg
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dg3ypDAonQcOidMs0w.WP6RZJql8gZrNhVA9v+RJDcsuMfOxrTCYImPe+iGR41459RDH4FvPdNk`1[[System.Object, mscorlib, Version=4.0.0.0, Culture
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ktusaqdmshlyughnmklmvrqosmvxrmzg
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ynbuxxhfeljdfrejjafubqlxgr.Resources

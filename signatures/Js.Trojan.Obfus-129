@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-129
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+bb=window['document']['getelement'+s]("html"); bb=(bb[0]+'')['substr'](2,4); aa=bb; a=new array(null,new array(

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nail-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+nMes = MAPISess.Outbox.Messages.Add(SubjectLines(MesNum), MesContent){WILDCARD_ANY_STRING}cp = Retr.Recipients.Add(Name:="chainnail@hotmail.c

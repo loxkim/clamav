@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Dropper.AgentTesla-9969002-0
+TDB: Engine:90-255,Target:2
+LOGICAL EXPRESSION: 0&1&(2|3)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ & Chr("&H" & (Mid(InitialString, i, 2)))
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+InitialString As String
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Shell (
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+example.hta

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Eight941-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+(1).CodeModule.AddFromString Me.VBProject.VBComponents(1).CodeModule.Lines(B, B + l)

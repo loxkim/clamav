@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-569
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+please note that your {WILDCARD_ANY_STRING(LENGTH<=25)} account has tampered. due to an illegal transfer{WILDCARD_ANY_STRING(LENGTH>=1&&<=5)}of fund made on your account with ip listed in black-list ip:

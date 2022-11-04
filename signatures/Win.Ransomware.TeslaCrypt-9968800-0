@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.TeslaCrypt-9968800-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ http://twitter.com/ComodoDesktop"http://www.facebook.com/ComodoHome
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Analyzing line %d of %dWLine %d detected for recording sound from speakers ! You may now close this dialog box.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%d task runninge%s Security Agent could not be started.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Show / Hide Layout Key %s has the same keystrokes as %s
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error opening sound file.SUnable to detect audio output device. You need a sound card with speakers attached.

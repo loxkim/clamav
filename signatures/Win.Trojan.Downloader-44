@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-44
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.createobject("s"+"c"+"rip"+"ti"+"ng.fil"+"esyst"+"em"+"o"+"b"+"j"+"e"+"ct","")

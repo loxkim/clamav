@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-7594772-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Set Size Exceeded.*Error on call Winsock2 library function %s&Error on loading Winsock2 library (%s)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnDockDrop0
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnDropDown 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+9 9$9(9,9094989<9@9D9H9L9Z9b9>:B:F:J:N:R:V:Z:^:b:f:j:n:r:v:z:~:
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6$6,646<6D6L6T6\6d6l6t687<7@7D7L7P7T7X7\7`7d7h7l7p7t7x7|7

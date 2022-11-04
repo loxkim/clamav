@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Trojan.Trojan-808
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+The ACH transaction{WILDCARD_ANY_STRING(LENGTH<=20)}recently initiated from your checking account (by you or any other person),
+was canceled by the other financial institution

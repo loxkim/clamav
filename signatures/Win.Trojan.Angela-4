@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Angela-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ked me for..."
+y06.Attachments.Add "C:\Windows\System\Angela.exe"
+y06.DeleteAfterSubmit = True
+y06.Send
+y0

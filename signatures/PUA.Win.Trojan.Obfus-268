@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Win.Trojan.Obfus-268
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if(!''.replace(/^/,string)){while(c--){d[c.tostring(a)]=k[c]||c.tostring(a)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new regexp('\\b'+e(c)+'\\b','g'),k[c])}}return p}

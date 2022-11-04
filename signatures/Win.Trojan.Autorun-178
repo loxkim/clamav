@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Autorun-178
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+[Autorun]
+open=MicrosoftPowerPoint.exe
+shellexecute=MicrosoftPowerPoint.exe
+shell\Auto\command=MicrosoftPowerPoint.exe

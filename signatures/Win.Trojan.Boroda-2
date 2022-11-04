@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Boroda-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+c:\autoexec.bat	@echo off-echo Мы добродетели, и мы прёмся от этого...)'echo (c) Boroda

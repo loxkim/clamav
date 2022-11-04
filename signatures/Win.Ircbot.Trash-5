@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Trash-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@echo.n2=	/.send $nick c:\windows\system\DV£\trashb.bat>>%windir

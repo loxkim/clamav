@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-64
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+alias botcmd.root { nethack $1 $2 $3 | .timer 1 15

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-184
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+echo "http://".$_server["http_host"].substr($_server["request_uri"],0,strrpos($_server["request_uri"],"/"))."/shellscript.php"

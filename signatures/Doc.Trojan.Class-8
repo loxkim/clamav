@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+deModule.Lines(1, 3), 3) <> "Sub" Then{WILDCARD_ANY_STRING}a1 = (Chr(65 + Int(Rnd * 22))) & (Chr(65 + Int(Rnd * 22))) & Int(Rnd * 100) & Int(Rnd * 100)

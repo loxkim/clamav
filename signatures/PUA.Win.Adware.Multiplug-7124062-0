@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Multiplug-7124062-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" /><supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tionLevel level="asInvoker" uiAccess="false"  /></requestedPrivileges></security>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7_pFRsA
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Q"g /j
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+r%Omd%

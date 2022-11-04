@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1122
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ator></head><body><a href={WILDCARD_ANY_STRING(LENGTH<=1)}http://{WILDCARD_ANY_STRING(LENGTH<=35)}.mbtrading.com.{WILDCARD_ANY_STRING(LENGTH<=100)}><img src="cid:{WILDCARD_ANY_STRING(LENGTH<=100)}" border={WILDCARD_ANY_STRING(LENGTH<=3)}></a></p><p><font color="#fff

@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-132
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+{a=([]["push"]+"a").substr(1,4);v="fromcharcode";e=window["eval"];}();c=

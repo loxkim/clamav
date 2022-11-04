@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.TrickBot-9970892-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+XSTAB_ZS.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ l'azienda leader nella produzione di articoli in gessor
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+sbyte55sbyte89sbyteE5sbyteE8sbyteA4sbyte03sbyte00sbyte00sbyte38sbyte25sbyte36sbyte43sbyteD1sbyteAAsbyteBDsbyte88sbyte38s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+sbyteDBsbyteBDsbyte48sbyte5AsbyteBCsbyte20sbyteAAsbyteECsbyteF2sbyte34sbyte43sbyte8Bsbyte1Bsbyte42sbyte43sbyteD1sbyteF3s
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Falis 

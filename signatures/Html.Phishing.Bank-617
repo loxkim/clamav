@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-617
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+vice department has recently updated your online banking{WILDCARD_ANY_STRING(LENGTH<=3)}security software, and due to this upgrade we kindly ask you to follow the

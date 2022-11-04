@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NJWMV-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rdBasic.MsgBox "Nightmare Joker´s Word Macro Virus Construction Kit", ":-()"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-181
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+trojan_path=cgi_script_path & "?action=finish" exename=generatename() exename=exename & ".exe" htaname=generatename() htaname=htaname

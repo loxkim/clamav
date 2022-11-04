@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.Nightstar-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ictims..."
+:fresh_blood1
+if exist C:\Windows goto payloadia
+if not exist %0.bat goto fresh_blood2
+find "Win

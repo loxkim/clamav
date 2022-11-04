@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Edure-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+C:\msoffice\excel\xlstart\{WILDCARD_ANY_STRING(LENGTH<=40)}birth

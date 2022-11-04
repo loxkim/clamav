@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Wazzu-40
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cumentMacro$ = The.Directory + "\" + The.FileName + ":autoOpen"{WILDCARD_ANY_STRING}ErrWazzu:

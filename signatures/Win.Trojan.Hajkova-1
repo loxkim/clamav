@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Hajkova-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+indir%) do call %0 /hajkova_a %%a
+goto hajkova_ed
+:hajkova_lp
+for %%a in (%2\*.bat) do call %0 /hajkova_b %

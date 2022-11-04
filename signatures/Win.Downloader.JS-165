@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-165
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<script language="javascript">e="0x00"{WILDCARD_ANY_STRING}str=tmp="";for(i=0;i<str1.length;i+=3){tmp=unescape(str1.slice(i,i+3));str=str+string.fromcharcode((tmp.charcodeat(0)^e

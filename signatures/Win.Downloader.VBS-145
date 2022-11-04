@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.VBS-145
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set HTTPGET = CreateObject("Microsoft" & chr(46) & "XMLHTTP")
+Set Data = CreateObject("ADODB" & chr(46) & "Stream")

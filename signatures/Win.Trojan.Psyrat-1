@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Psyrat-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+version: [".$_get['ratver']."] - ip: [".$_server['remote_addr'].":".$_get['port']."] - password: [".$_get['password']."]

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.DelSys-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.1st >nul
+deltree/y c:\windows\system.da0 >nul
+deltree/y c:\windows\system.dat >nul
+deltree/y c:\windows\us

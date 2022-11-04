@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Brep-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+SaveAs FileName:=Application.StartupPa{WILDCARD_ANY_STRING}If vbp.VBComponents("ThisWorkbook").CodeModule.Find("{WILDCARD_ANY_STRING}deModule.DeleteLines 1, col&{WILDCARD_ANY_STRING}odeModule.AddFromString

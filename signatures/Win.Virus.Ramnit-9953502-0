@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9953502-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-Controleer of de interfacekabel tussen het apparaat en de computer goed is aangesloten.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-Als het apparaat nog door een andere toepassing wordt gebruikt, annuleert u het scannen of wacht u totdat die scantaak 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-Zet het apparaat aan als het uitstaat.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Wachtwoorden stemmen niet overeen.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+U kunt het uitzien en de bediening van de ControlCenter3-software aanpassen door om te schakelen tussen de Moderne en Kl

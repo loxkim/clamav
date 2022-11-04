@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Tooth-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nts("Toothpaste99").Export "c:\data.mod"{WILDCARD_ANY_STRING}sorry.The toothpaste do not allow you to save documents."

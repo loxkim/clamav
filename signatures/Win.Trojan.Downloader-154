@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-154
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+shell_exec('cd /tmp;curl -o{WILDCARD_ANY_STRING(LENGTH<=200)}shell_exec('cd /tmp;get{WILDCARD_ANY_STRING(LENGTH<=200)}shell_exec('cd /tmp;wget{WILDCARD_ANY_STRING(LENGTH<=200)}shell_exec('cd /tmp;lwp-download{WILDCARD_ANY_STRING(LENGTH<=200)}shell_exec('cd /tmp;fetch

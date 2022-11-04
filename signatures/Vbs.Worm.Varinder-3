@@ -1,0 +1,5 @@
+VIRUS NAME: Vbs.Worm.Varinder-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+copyfile wscript.scriptfullname, file.path, true end if if file.name = "mirc.ini" then mirc (file.parentfolder) end if if file.name = "pirch32.exe" then pirch (file.parentfolder) end if next set file = fold.subfolders for each subfol in file call subfolders(subfol.path)

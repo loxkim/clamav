@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-169
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.write(zoio(148)+zoio(219)+zoio(203)+zoio(218)

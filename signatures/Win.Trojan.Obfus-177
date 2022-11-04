@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Obfus-177
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+s=split(k,",") t="" for i = 0 to ubound(s) t=t+chr(eval(s(i))) next rechange=t end

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VBS-51
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+NICshell.Run "com"&"mand"&".com /c deb"&"ug.e"&"xe<"&nf_tmp,0,1

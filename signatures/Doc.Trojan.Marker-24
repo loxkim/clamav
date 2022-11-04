@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Marker-24
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rder = "<-- Its Murder!!"{WILDCARD_ANY_STRING}rep = MsgBox("That's Right", vbOK + vbCritical, "It's Murder")

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9941899-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://generousdeal-a.akamaihd.net/GenerousDeal/cr?t=Browser&g=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IDispEventSimpleImpl@$01VCGenerousDealBHO@@$1?DIID_HTMLDocumentEvents2@@3U_GUID@@B@ATL@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IDispEventSimpleImpl@$00VCGenerousDealBHO@@$1?DIID_DWebBrowserEvents2@@3U_GUID@@B@ATL@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ForceRemove '{c9581878-64b2-410a-833b-b3bb063b1dde}' = s 'Generous Deal' {
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CComCoClass@VCGenerousDealBHO@@$1?CLSID_GenerousDealBHO@@3U_GUID@@B@ATL@@

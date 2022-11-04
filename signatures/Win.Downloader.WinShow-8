@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Downloader.WinShow-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+;
+else
+ PIN = "37049";
+
+var counter = "<img src='http://www.v61.com/cg

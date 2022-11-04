@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-874
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+bank, the highest interest to our members is the safekeeping of confidential{WILDCARD_ANY_STRING(LENGTH<=7)}information you have entrusted to us and using it in a sec

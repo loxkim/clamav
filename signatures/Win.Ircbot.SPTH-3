@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Ircbot.SPTH-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+dd% EQU 1 (if %ee% EQU 1 (goto saturn)))))%DrRa%
+call :RheaMoon

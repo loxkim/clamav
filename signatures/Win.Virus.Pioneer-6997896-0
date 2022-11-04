@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Pioneer-6997896-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+You need to upgrade your version of windows to use the 'Wait for Process to End' feature of this function: 'ShellExecAnd
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<script type="text/javascript" src="http://www.driveridentifier.com/scan/auto_submit.js"></script>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+background: url(http://www.driveridentifier.com/images/logo.jpg);
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+MyDriverUploader.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Getting Hardware Info - Win32_ComputerSystemProduct

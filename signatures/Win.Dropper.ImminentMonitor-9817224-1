@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.ImminentMonitor-9817224-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Ilium.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cbifblfbofbofblfbnfbofbofbofblfbnfblfbofbofbofbnfblfbofbofbofbnfblfbofbofbofbofblfbofbiabk`b3^J
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SX5b"S[[[XTT[[TT[TTT[[TT[XTX[T[_TX[TXXT[T_:boV
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Unattested3
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dtb2yb2yb2yb2yb2yb2yb2yb2yb2yb2yb2yb2yb0~b+ub

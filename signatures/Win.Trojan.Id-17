@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-17
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+echo "ostype: $os<br>"; echo "kernel: $alb<br>"; echo "uptime: $alb2<br>"; echo "id: $alb3<br>"; echo "pwd: $alb4<br>"; echo "user: $alb9<br>"; echo "phpv: 

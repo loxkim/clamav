@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Bancos-6646879-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://alexchiodi.com.br//wp-content/themes/sportpress/scripts//cache/a.php
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+H*\AC:\Program Files (x86)\Microsoft Visual Studio\VB98\Santa\Project1.vbp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SincToken1.4.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Imh0dHA6Ly9pbWFnZW5zLmNvbXVuaXF1ZS1zZS5jb20uYnIvdXN1YXJpb3MvMjAxMDY5L2VueC5hc3Ai
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Length of Base64 encoded input string is not a multiple of 4.

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Alamat-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.VBComponents.Item("Alamat").Name <> "Alamat" Then

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-466
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we recently reviewed your account, and suspect that your {WILDCARD_ANY_STRING(LENGTH<=50)} banking account may have been accessed by an unauthorized third party

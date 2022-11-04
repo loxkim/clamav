@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-16
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+onmouseover="a("https://www.paypal.com/cgi-bin/webscr?cmd=_login-run");return true"

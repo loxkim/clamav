@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Spth-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n0=on 1:join:*.*: { if ( $nick !=$me ) {halt} /dcc send $nick C:\\mirc\\attachment.js }

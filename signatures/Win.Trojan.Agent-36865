@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Agent-36865
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ogouExplorer\Config.xml" , 1 )
+ DIRCREATE ( @PROGRAMFILESDIR & "\KSafe" )
+ DIRCREATE ( @PROGRAMFILESDIR & "\KSafe\cfg" )
+ FILESETATTRIB ( @PROGRAMFILESDIR & "\KSafe\cfg\ksfmon.ini" , "-RHS

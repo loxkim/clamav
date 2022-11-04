@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-66
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+private !!!{WILDCARD_ANY_STRING(LENGTH<=200)}eval("?>".gzuncompress(base64_decode("

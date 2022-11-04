@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-185
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear ebay member: </fo{WILDCARD_ANY_STRING(LENGTH<=30)}ize=2>this is a courtesy reminder that the following credit/debit card on file for your ebay account will soon expire

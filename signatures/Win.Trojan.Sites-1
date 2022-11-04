@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Sites-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+mail.Attachments.Add (dirsystem &"\sites.doc"){WILDCARD_ANY_STRING}rrg.RegWrite "HKEY_CURRENT_USER\Software\Microsoft\WAB\"& maild,1,"REG_DWORD"

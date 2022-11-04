@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Shez-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ET KEY=HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+REG ADD %KEY% /V ShezanStart /D "shezan.exe" /f
+
+copy shezan.exe

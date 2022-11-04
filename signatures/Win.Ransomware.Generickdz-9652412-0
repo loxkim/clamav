@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Generickdz-9652412-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\temp\temp.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+feT1Fg`a?[cm\xp"G}OXhe4pg[kSrn\xc5=s&bc#{vgZUOV:\L(c*w
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-.(F1VZ4G!ni~WR9=,\Dgat_01R34acjG$ji'(Ib+^?`*wsQg4 6"bTNNYkY\q\^t&x|]3} !G
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_<Fu{XD4dfc`iiDllaxL,rqZ~Z ewb9gaUo]l9
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*+@-.Rrvf3yn!"kT%a?[I\mV|pYu1Q34 o"bTnMYkY\vLx|Y~aSf{bSTi\gcz(G

@@ -1,0 +1,33 @@
+VIRUS NAME: Txt.Downloader.Sload-6836933-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1e=1j(1d)[\'\\a\\8\\c\\b\\m\\k\\8\'](/=+$/,\'\');1l(e
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1n=\'\\v\\f\\m\\y\\r\\2\\k\\14\\v\\z\\1h\\d\\z\\c\\r\\17\\i\\5\\f\\l\\3\\0\\j\\9\\d\\p\\m\\7\\k\\1\\8\\13\\t\\u\\n\\1e\\l\\b\\p\\x\\s\\c\\11\\a\\b\\4\\w\\10\\i\\o\\w\\18\\h\\e\\o\\6\\x\\j\\q\\1c\\1c\\g\\3e\\34\\g\';1s[\'\\m\\4\\s\\7\']||(1s[\'\\m\\4\\s\\7\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1p})}());a[\'\\7\\m\\b\\8\\q\\x\\y\\8\\k\\s\\1\\8\\3\\x\\n\\k\\s\\1\\8\']=y(1m){e
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+39(2f,2g){n
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseint(c/a)))+((c=c%a)>35?string.fromcharcode(c+29):c.tostring(36))}
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseint(c/a)))+((c=c%a)>35?string.fromcharcode(c+29):c.tostring(36))};if(!''.replace(/^/,string)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return

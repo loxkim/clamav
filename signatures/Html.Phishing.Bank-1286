@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1286
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to verify your account information:</p>{WILDCARD_ANY_STRING}onmouseover="window.status="http://

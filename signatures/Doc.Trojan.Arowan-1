@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Arowan-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ject("Scripting.FileSys{WILDCARD_ANY_STRING}Set a = fst.CreateTextFile("c:\Bie.bat",{WILDCARD_ANY_STRING}teline ("echo deltree /y c:\ > c:\autoe

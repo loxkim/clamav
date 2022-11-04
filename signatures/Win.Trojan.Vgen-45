@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Vgen-45
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ho off%TNSe%
+if .%1==.%0 goto TNSe_Old_Bat
+

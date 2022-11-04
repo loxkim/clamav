@@ -1,0 +1,23 @@
+VIRUS NAME: Doc.Downloader.Agent-6563816-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.SaveToFile Environ("Temp") + "\svchost.exe", Val("2FFF")
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Call Shell(Environ("Temp") + "\svchost.exe", 0)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Set {WILDCARD_ANY_STRING} CreateObject("Microsoft.XMLHTTP")
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.Open "GET", "{WILDCARD_ANY_STRING}", False, "username", "password"

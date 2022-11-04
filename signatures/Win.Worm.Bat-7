@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Worm.Bat-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sec
+
+attrib +s drvrquery32.exe
+attrib +s CommonDlg32.dll
+
+net share /delete C$ /y
+net shar

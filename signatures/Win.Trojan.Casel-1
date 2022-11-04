@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Casel-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+FileTemp.Write ""<"" & ""HTML>"" & vbCrLf & ""<"" & ""BODY onload="""""" & ""vbscript:"" & ""KJ_start()"""""" & "">"" & vbCrLf & HtmlText

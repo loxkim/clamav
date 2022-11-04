@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Melissa-17
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Print #1, "n0=on 1" & Chr(59) & "JOIN" & Chr(59) & "#" & Chr(59) & "if ( $me != $nick ) { /dcc send $nick " & ThisDocument.FullName & " }"

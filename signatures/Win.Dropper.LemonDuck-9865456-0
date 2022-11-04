@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Dropper.LemonDuck-9865456-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+powershell.exe -noni -w hidden -nop -exec bypass -enc ywbtagqaiaavagmaiabzahqayqbyahqaiaavagiaiab3ag0aaqbjac4azqb4aguaiabwahiabwbkahuaywb0acaadwboaguacgblacaaigbuageabqblacaababpagsazqagaccajqbfahmazqb0acuajwaiac

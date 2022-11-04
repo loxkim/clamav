@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hog-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.Text = "Hand Of GOD"{WILDCARD_ANY_STRING}tem$ = tem$ & "\" & .Name

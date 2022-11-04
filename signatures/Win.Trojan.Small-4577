@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Small-4577
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+"[autorun]" & vbcrlf & "shellexecute=wscript.exe kernel32.dll.vbs"{WILDCARD_ANY_STRING}for each i in j.drives{WILDCARD_ANY_STRING}rentVersion\Run\kernel32", dimm & "\kernel32.dll.vbs"

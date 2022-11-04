@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Doggy-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+，收件人 
+objMail.Subject = "你好!" 
+objMail.Body = "这次给你的附件是我的新文档！" 
+objMail.Attachments.Add("c:\virus.vbs

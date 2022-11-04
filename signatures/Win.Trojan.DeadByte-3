@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.DeadByte-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+arj a -y v_o_be.arj v_o_be.exe 

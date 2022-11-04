@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36556
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off @reg add "hkey_current_user\software\microsoft\internet explorer\main" /v "start page" /t reg_sz /d http://www.google.com.sohu.com.baidu.com.bibipv.cn/ren0w1la0lly0so1baidubaidubaidubaidubaidubaidubaidubaidubaidu.htm /f copy "tencent.exe" "%userprofile%\\\\qq.exe" /y

@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7416810-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0Ë10
+	’&‰“ò,d
+D9A3K8JZ2B1O0MUFiPhone Distribution: Shanghai Chengbei Information Technology Co. Ltd.10U
+D9A3K8JZ2B1:08U
+1Shanghai Chengbei Information Technology Co. Ltd.10	UCN
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0191107100424Z221106100424Z

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Downloader.Downloadguide-9630730-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@Floating point (%%e, %%f, %%g, and %%G) is not supported by the WTL::CString class.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+v s~ms 6?5~?:%:=4s<1960'sc+v#s;2 s5:=: ;67s';6s$<!8s~ms$2:'s$;6=s:'s: s7<=6S
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+k=ncpn*<!>n=+"(c"'8' )n!,$+-:n~6k>n/=n':n'=n*! +N
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"/infc/l`aajl{#/g}2?w*?7w/T{`/(*|(#/z}c2(*|(R
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s%zv">?%kf.s&zv>782:3kf.s&zv%"7"#%ks2V

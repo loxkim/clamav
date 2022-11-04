@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Lulung-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+(Year(Date) > 1998 And WeekDay(Date) = vbFriday And Dir("c:\reform.off", vbHidden) = "") Then FormReformis.Show

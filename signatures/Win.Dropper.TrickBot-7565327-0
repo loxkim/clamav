@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.TrickBot-7565327-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+This is part of the Professional User Interface Suite library (www.prof-uis.com)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Prof-UIS (v. %s) command profile
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ResizableChildSheet-command-manager-profile
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ResizableChildSheet.EXE
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3kgwZxSY|oeiuZjgOVdbnp9@I3kgwZxSY|oeiuZjgOVdbnp9@I3kgwZxSY|oeiuZjgOVdbnp9@I3kgwZxSY|oeiuZjgOVdbnp9@I3kgwZxSY|oeiuZjgOVdb;

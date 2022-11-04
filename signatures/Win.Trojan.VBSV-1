@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.VBSV-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+do copy /y " & Wscript.ScriptFullName & " %%a >nul")
+
+If Day(Now()) =

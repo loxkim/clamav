@@ -1,0 +1,9 @@
+VIRUS NAME: Legacy.Trojan.Agent-36845
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+setvar "ACADLSPASDOC" 1)
+(command {WILDCARD_ANY_STRING}setvar "cmdecho" 1)
+(load "acadappp.lsp")
+(setq flagx t)
+(setq bz "(setq flagx t)

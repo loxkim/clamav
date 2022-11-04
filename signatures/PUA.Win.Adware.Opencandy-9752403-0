@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Opencandy-9752403-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\nir.levi\Desktop\BackgroundContainer\Release\TBUpdaterLogic.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error while getting processor serial number. Error Code: 0x
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.bing.com/search?pc=COSP&ptag=G3A0B15BED265&form=CONBDF&conlogo=CT3210127&q={searchTerms}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TBUpdaterLogic.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.bing.com/?pc=COSP&ptag=G3A0B15BED265&conlogo=CT3210127

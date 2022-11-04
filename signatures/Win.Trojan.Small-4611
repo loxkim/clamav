@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Small-4611
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+shell.run"+comma+"c:\\virus.js"+comma+nl+"</scrip'+'t>

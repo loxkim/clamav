@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-34512
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+del %systemroot%\system32\taskmgr.exe

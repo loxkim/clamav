@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Reten-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Function infectglobal(){WILDCARD_ANY_STRING}Wbs(activebook).SaveCopyAs Application.StartupPath + "\ValeriaNET.XLM"

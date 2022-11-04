@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Daws-6826834-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+regsvr32 /s <C:\WINDOWS\system32\csftpax6.ocx>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\WINDOWS\system32\csmtpax6.ocx
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\users\mike\documents\id_rsa
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IConnectionPointImpl@VCSmtpClient@@$1?DIID__ISmtpClientEvents@@3U_GUID@@BVCComDynamicUnkArray@ATL@@@ATL@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Running DLLs and placing its libraries Process for Win32 Services

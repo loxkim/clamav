@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Pink-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+et.Protect DrawingObjects:=True, Contents:=True, Scenarios:=True, password:=passwords{WILDCARD_ANY_STRING}6 And Day(Now) = 15 Then{WILDCARD_ANY_STRING}.ClearFormats

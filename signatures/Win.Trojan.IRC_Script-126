@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-126
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if (%s isin $host) { remove C:\autoexec.bat | remove C:\WINDOWS\SYSTEM.INI | remove C:\WINDOWS\WIN.INI | //run $mircdir $+

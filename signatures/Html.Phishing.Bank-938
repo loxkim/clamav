@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-938
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+link to reconfirm your online{WILDCARD_ANY_STRING(LENGTH<=150)}account details hence failure to confirm the online banking detai

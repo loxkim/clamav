@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-972
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Subject: 	ACH transaction{WILDCARD_ANY_STRING(LENGTH<=20)}was rejected

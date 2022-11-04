@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.P98M-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If .Lines(1, 1) <> "'Project" Then{WILDCARD_ANY_STRING}Day(Now) = Int(Rnd * 31) + 1 Then MsgBox ".-=-=-=-=-=-=-=-=-=-=-." & vbCr & "|  watch people fear!

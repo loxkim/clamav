@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Metaphase-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cc send $nick c:\windows\silly.vbs"
+EventFile.WriteLine "Event25=PING:/notice $nick Oh god baby do it again! 

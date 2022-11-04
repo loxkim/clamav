@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Sinop-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ile(victimname, 2).Write('Sinope()'+nl+viccodes+nl+mycode+nl+'fu

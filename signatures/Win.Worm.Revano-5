@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Revano-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ON JOIN:#:/dcc send $nick C:\Renova\Renova.scr
+EventCount=2

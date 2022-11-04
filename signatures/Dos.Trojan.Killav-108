@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.Killav-108
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%\antiviru\ del /f /q /s /a:h %systemdrive%\antiviru\*.* >nul
+if exist %systemdrive%\avg\ del /f /q /s /a:h %systemdrive%\avg\*.* >nul
+if exist %systemdrive%\kasper

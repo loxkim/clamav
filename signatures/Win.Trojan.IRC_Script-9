@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IRC_Script-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+-u60 %deop. [ $+ [ $address($nick,5) ] ] $calc( %deop. [ $+ [ $address($nick,5) ] ] + 1)
+{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}    if (%deop. [ $+ [ $address($nick,5) ] ] > %maxdeop)

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-60
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+foreach my $e (@cl) { f_simpan($ef2,$e); } if ($type == 2) { s_eksploit(2,$chan,$bug,$dork,$ef2,$se); } elsif ($type == 3) { s_eksploit(3,$chan,$bug,$dork,$ef2,$se

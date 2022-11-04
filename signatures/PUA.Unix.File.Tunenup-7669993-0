@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.File.Tunenup-7669993-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++[DBOperations getColumnDataForDB:tableName:columnName:]
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ean Plus.build/Debug/Mac Clean Plus.build/Objects-normal/i386/DBOperations.o
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++[DBOperations getDBTableName:]
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++[DBOperations checkGoogleInternetHistory:deleteTableName:]
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++[DBOperations checkGoogleCookies:]

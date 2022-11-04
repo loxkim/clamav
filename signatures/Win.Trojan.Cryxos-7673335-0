@@ -1,0 +1,33 @@
+VIRUS NAME: Win.Trojan.Cryxos-7673335-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+234234234a23refawsfdasdfaasdfasdfassdfsdfddsduasdfasdfygdsfiouhcr8wb37q4gr8v9wq3wfgasfsdafasdf79w8geaefdi76agsdofc
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=decode(str
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+a23refawsfdasdfaasdfasdfasdsduasdfasdfygdsfiouhcr8wb37q4gr8v9wq3wfgasfsdafasdf79w8geaefdi76agsdofc
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+activexobject("wscript.shell
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+auasdfasdfygdsfiouhcr8wb37q4gr8v9wq3wfgasfsdafasdf79w8geaefdi76agsdofc
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sfdgsdfgsdfgsdf

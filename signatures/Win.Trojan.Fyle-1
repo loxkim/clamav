@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Fyle-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n174=  sockwrite -n %bnc_tmp :x 002 :3Welcome to Backdoor BnC by Fyle

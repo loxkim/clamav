@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1152
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to restore full access to your internet banking account,{WILDCARD_ANY_STRING(LENGTH<=6)}you have to reactivate your account within

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-259
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<script>try{window.onload=function(){var n000=document.createelement("{WILDCARD_ANY_STRING(LENGTH<=30)}.replace({WILDCARD_ANY_STRING(LENGTH<=80)};n000.setattribute("type","{WILDCARD_ANY_STRING(LENGTH<=120)};n000.setattribute("src","{WILDCARD_ANY_STRING(LENGTH<=800)};document.body.appendchild(n000);}}catch({WILDCARD_ANY_STRING(LENGTH<=30)}</script>

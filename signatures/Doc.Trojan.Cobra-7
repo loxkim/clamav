@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Cobra-7
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+izerCopy Source:=ActiveDocument.FullName, {WILDCARD_ANY_STRING}Destination:=NormalTemplate.FullName, Name:="Cobra", 

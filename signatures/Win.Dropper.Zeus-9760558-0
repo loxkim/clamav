@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-9760558-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OpenProcessToken Error %u
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&mD\ETJO\sCPlALCtEANRAX( s$b\TVaDLrCU_MSRe*s nP^XsCJNzEWQO[Tg$*~ nP^XeH@xMQSAY\w&O*aNRAXFERgFGSClKFDJA*Y oJ^MRHA^kOHJOKTg$*
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&$*( &$*( &$*( &$*( &$*( &$*( &$*( &$*( &$*( &$*( &$*( &$*( &$*( &$*( &$*( &$*( &$*( &$*( &$*( &$*( &$*( &$*( &$*( &$*( &$*( &$
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*[ +$ ( &b*A T$O(W&E*D J$z(R&K*L S$I(T&$*{ I$L(T&S*I T$O(|&i*A E$X(O&W*G @$^(|&s*A H$N(O&S*[ z$i(U&V*Z C$D(T&r*M T$Y(I&K*F z$
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+LLJ$lkieVOITC$*(femkLD`MFM &biafJQY@cGFCFER$lkibAY\RI]*(BE@LOHMHGFPWVY\VQ\P(ACME]Y&$m(L&K*J G$F(|&$*d I$I(A&H*t &$*(HRPZ

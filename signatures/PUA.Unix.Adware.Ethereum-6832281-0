@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Adware.Ethereum-6832281-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Mixed stratum and getwork endpoints not supported.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ing with root privileges.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Deprecated parameters and the -P parameter are incompatible. Please migrate to using the -P parameter.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZNSt3__16vectorIN3dev3eth14PoolConnectionENS_9allocatorIS3_EEE6resizeEm
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+* Make sure the file '/etc/ssl/certs/ca-certificates.crt' exists and is accessible

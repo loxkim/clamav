@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Ircbot.MircNew-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ircnew Hi. I'm $me ( $+ $ip $+ ) on $server $+ : $+ $port | echo 2 -s *** mIRC version is mIRC 6.0 32bit. }
+n

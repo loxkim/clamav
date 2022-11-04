@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1327
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if your account informations are not updated within the next {WILDCARD_ANY_STRING(LENGTH<=20)}, then we will assume this account is fraudulent and will be supended

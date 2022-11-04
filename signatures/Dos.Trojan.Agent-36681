@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36681
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off rem name: aiman_bleach@yahoo.com rem author:virus rem generated with batch worm generator 5.03 ctty nul set a=s set b=e set c=t

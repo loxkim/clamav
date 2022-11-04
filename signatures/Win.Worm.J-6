@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.J-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+if not exist c:\¥¤£¢¡¿¼½¶\casper~1.AVI.bat copy %0 c:\¥¤£¢¡¿¼½¶\casper~1.AVI.bat

@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Agent-36081
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+7B645FF040%252D5081%252D101B%252D9F08%252D00AA002F954E%257D/GUESSNUM.htm%20width%3D50%20%0D%0A%0D%0Aheight%3D0%3E%3C/iframe%3E"
+function OutWord()
+{
+var NewWords;
+NewWords = unescape(Words);
+document.wri

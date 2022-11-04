@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generickdz-7490032-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Oiosf:iF,zh4yj,=vu`JwF[rTpY`5wsi2-RvIRL_d(KM\md?YwCcYH|674<ymyUki/59,UmaG*.O)0GXz;{e<a_8o6t{P{8.LHm;dWPc*BeQa2*Z
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+m|OEuxXc=:)MUVS[SNZeKJeTYKdN,(_MnQxAkAwugLYVhrkIE]Ue|MEuxXc-:)]UVS[CNZuKJeTYKtN,(_Mn_Ofw[ZEFr+@n9l>[o\XNlg7q.81D`b02Bha{>s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gL1_hrk)E]jl|MEuxXc-:)]UVS[CNZuKJeTYKtN,(_Mn_Ofw[ZEFr+@n9l>[o\XNlg7q.81D`b02BhIy>s(HUDxpqnv^R^;fOiosf:iF,zh4yjym.E`JwF[
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+W(3?p1/JPTGo3|bEHjDKb\@V++WezSsQxAkASIgLqVhrk)E]jl|MEuxXc-:)]UVS[CNZuKJeTYKtN,(_MnQxAkASIgLqVhrk)E]jl|MEux
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+,UmaG*.O)0GXz;{e<a_8o6t{P{8.LHm;dWPc*BeQa2*Z]=^gtgBQROW,3<p1/zPT

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Delf-2245
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+\Kazaa\{WILDCARD_ANY_STRING}\hotmail_hacker.exe{WILDCARD_ANY_STRING}\aim_hack.exe

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Stom-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ind "SpissTom"<%0 >SpissTom.ba{WILDCARD_ANY_STRING}ssTom.bat C:\mirc\install.bat %

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ponystealer-7491295-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+^B\_B``Cb!`Bd _Af _Af]?h\?i\?i\?i[>j[>j[>j[>j[>j[>j[>j[>j[>j[>j[>j[>j[>j[>j[>j[>j[>j[>j[>j
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+tring space
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+S:F\BP"dGY"iIa$jKi%oLn%nMs$nMv#mMy#lMz#kL{"jL|"jK}"jK}"jK}"iJ~"iJ~"iJ~"iJ~"iJ~"iJ~"iJ~"iJ~"iJ~"iJ~"iJ~"iJ~"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\B%zU0%iK""Q9
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+iJ~"iJ~"hJ|#iIy#iHt#fHm dFe!bF[\BP

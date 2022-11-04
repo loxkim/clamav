@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.JS-122
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+nction click() { if (event.button==2) { window.moveto(0, 0) window.moveto(1, 1) window.moveto(2, 2) window.moveto(3, 3) win

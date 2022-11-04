@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Glupteba-6973164-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$basic_stream_socket@Vtcp@ip@asio@boost@@V?$stream_socket_service@Vtcp@ip@asio@boost@@@34@@asio@boost@@
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+api-ms-win-core-synch-l1-2-0.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$basic_io_object@V?$stream_socket_service@Vtcp@ip@asio@boost@@@asio@boost@@$00@asio@boost@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cloudnet.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+aSELECT * FROM Win32_Processor

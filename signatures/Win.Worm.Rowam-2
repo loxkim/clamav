@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Rowam-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rus=a.CreateTextFile("C:\virus.txt")
+virus.WriteLine"YOU HAVE BEEN INFECTED BY THE M.ROWA WORM"
+virus.Close
+set b=Crea

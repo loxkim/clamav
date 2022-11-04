@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Kia-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+l,*.inf,*.bmp,*.jpg,*.gif,*.pcx,*.cpt,*.avi,*.mpg,*.mov,*.swf,*.scr,*.ppt,*.wav,*.mp3,*.zip,*.rar,*.arj,*.lzh) do copy %0 %%i>nul

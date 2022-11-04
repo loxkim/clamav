@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-527
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+failures were present before the{WILDCARD_ANY_STRING(LENGTH<=5)}logons. We now need you to log into your account and verify your account{WILDCARD_ANY_STRING(LENGTH<=5)}activity

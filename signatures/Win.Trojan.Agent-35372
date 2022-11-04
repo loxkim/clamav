@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35372
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+060047105102114097109{STRING_ALTERNATIVE:"|'};s=s+{STRING_ALTERNATIVE:"|'}101062{STRING_ALTERNATIVE:"|'};t={STRING_ALTERNATIVE:"|'}{STRING_ALTERNATIVE:"|'};l=s.length;i=0;while(i<(l-1)){for(j=0;j<3;j++){t+=s.charat(i);i++;}if((t-unescape(0xbf))>unescape(0x

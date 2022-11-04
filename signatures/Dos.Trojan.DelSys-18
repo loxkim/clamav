@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.DelSys-18
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ren autoexec.bat autoexec.vir
+ren config.sys config.vir
+attrib -s msdos.sys
+attrib -r msdos.sys
+ren msdos.sys msdos.vir

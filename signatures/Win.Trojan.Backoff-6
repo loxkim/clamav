@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Backoff-6
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+&op=%d&id=%s&ui=%s&wv=%d&gr=%s&bv=%s

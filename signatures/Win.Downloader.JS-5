@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+oPopup.document.body.innerHTML = "<object data=http://psi-locate.com/inform/bu/df/base.php>";

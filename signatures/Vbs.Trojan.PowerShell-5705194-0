@@ -1,0 +1,5 @@
+VIRUS NAME: Vbs.Trojan.PowerShell-5705194-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+dim objshell set objshell = wscript.createobject("wscript.shell") command = "powershell.exe -nop -noni -w hidden -enc{WILDCARD_ANY_STRING(LENGTH<=3000)}" objshell.run command,0 set objshell = nothing

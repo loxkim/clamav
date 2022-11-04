@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Rider-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #1, "HitchHiker.NormalTemplate.VBProject.VBComponents.Item(1).CodeModule.AddFromFile (" & Chr(34) & "C:\WINDOWS\HitchHiker" & Chr(34) & ")"

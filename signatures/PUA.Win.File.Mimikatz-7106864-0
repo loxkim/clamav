@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Mimikatz-7106864-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Couldn't locate IsWow64Process function to determine if target process is 32bit or 64bit
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Didn't write the expected amount of bytes when writing a DLL path to load to the remote process
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+More than one instance of ProcName found, please specify the process ID to inject in to.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+New function reference is null, this is almost certainly a bug in this script. Function: ProcedureName. Dll: ImportDllPa
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+GetCommandLine ptr null. GetCommandLineA: (Get-Hex GetCommandLineAAddr). GetCommandLineW: (Get-Hex GetCommandLineWAddr)

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ethan-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Dir("c:\vedani.___", 6) = ""{WILDCARD_ANY_STRING}Title = "Vedani Nicola - biscotica

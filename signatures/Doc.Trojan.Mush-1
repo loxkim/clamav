@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mush-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f Month(Now) = 10 And Hour(Now) < 7 Then MsgBox "MushRooms!"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Reg-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ws\CurrentVersion\Run]{WILDCARD_IGNORE}{WILDCARD_IGNORE}"WindowsNTdebug"="C:\\WINNT\\System32\\windowsntdebug\\task.exe"

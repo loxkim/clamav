@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Downloader.Emotet-9494279-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Bbwztadc_lx(Lyc4m0tn2ch
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ttjhsnlgc4snn2hr = Split(Q56w0hwt94v2, "23&bh s6[[hu12 712tdd]]s hj[
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ZHWE2fRJt = loE / 9 - OFlW0a2K - CSng(3032) / (Zzl * Sgn(9307 / CBool(11867829)) - 2 - CInt(1 / 9321
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hj[gm23&bh
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ocj = 7947 - Atn(495) - 4305 - ogasZCD * (46307565 / Fix(PCYGK) / 1 * Oct(9209
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+showwindow = Uqt8ww33x65.BorderStyle + Uqt8ww33x65.HelpContextId

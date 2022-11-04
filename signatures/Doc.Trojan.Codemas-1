@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Codemas-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If NT.CodeModule.Lines(1, NT.CodeModule.CountOfLines) <> CodeMast Then{WILDCARD_ANY_STRING}AD.CodeModule.DeleteLines 1, AD.CodeModule.CountOfLi

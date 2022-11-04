@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Fool-11
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+utoexec.bat" For Append A{WILDCARD_ANY_STRING}If (Second(Now()) > 50) Then Call HelpCall

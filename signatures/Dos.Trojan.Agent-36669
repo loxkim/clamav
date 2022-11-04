@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36669
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off netsh firewall set opmode disable netsh advfirewall set currentprofile state off 2>nul ping 127.0.0.1 -n 2 > nul start %systemdrive%\windows\system32\hll\svchost.exe -start -hide 

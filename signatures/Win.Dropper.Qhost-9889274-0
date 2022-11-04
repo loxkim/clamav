@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Qhost-9889274-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity type="win32" processorArchitecture="*" version="1.0.0.0" name="AppName.exe"></assemblyIdentity>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<requestedExecutionLevel level="requireAdministrator" uiAccess="FALSE"></requestedExecutionLevel>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\system32\wmp.oca
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+4((B07EZ^FFIG^)JEIB^\BFAJ]/FFI1]YGCCG_YACGGY_A5ADZT0AAA^T0AGB-T0AGC-T0@4BVT0A4@^T0EGAVXEGIE[*ANAA(Z0AEBYTB
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+D^)JB4B^\BFAF,\r@DB^[@FAD+\B@DB^Z1FAA]\BECB^\BFAD+\BAEB^ZFFqD-\B@2B^\BFAB^\BACB^\BFAB^^BFAB^\BF

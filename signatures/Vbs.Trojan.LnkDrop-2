@@ -1,0 +1,5 @@
+VIRUS NAME: Vbs.Trojan.LnkDrop-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+set myfile = fso.createtextfile(filename,true) myfile.write("<meta http-equiv=""refresh"" content=""0.1;url="&url&"/?http://www.baidu.com/"">") myfile.close wshshell.run "attrib """ & filename & """ +r"

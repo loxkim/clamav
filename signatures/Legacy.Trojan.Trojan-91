@@ -1,0 +1,8 @@
+VIRUS NAME: Legacy.Trojan.Trojan-91
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+trib c:\_FtC.bat +h
+:FtCg
+command /e:5000 /c c:\_FtC FtC vir
+:eFtC

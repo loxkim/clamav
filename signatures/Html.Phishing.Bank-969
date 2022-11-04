@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-969
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+need to confirm your informations using the form below. if this is not completed by {WILDCARD_ANY_STRING(LENGTH<=50)}, we will be forced to suspend <br>your account indefi

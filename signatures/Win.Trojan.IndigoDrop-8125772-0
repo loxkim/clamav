@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Trojan.IndigoDrop-8125772-0
+TDB: Engine:96-255,FileSize:8082169-13428113,Target:1
+LOGICAL EXPRESSION: (0&1&2&3)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+spyiboot01_bootstrap
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bSource.exe.manifest
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+opyi-windows-manifest-filename
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Source.exe.manifest

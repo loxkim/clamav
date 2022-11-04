@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Attention-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Return_ = CopyVirus("Global:AutoOpen", File$){WILDCARD_ANY_STRING}TheFormat = Asc(Chr(1))

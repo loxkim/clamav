@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6828343-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+constraint RepUsagePK PRIMARY KEY(BrmsBrcd, UserName, RepName, RepUsageDate)) 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ModuleName varchar(20),  SysDate DateTime, IsUploaded Integer, UploadDateTime DateTime, 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ResolDate DateTime, Remarks Varchar(100), IsUploaded Integer, UploadDateTime DateTime, 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+(RecID Integer, BrmsBrcd varchar(4), UserName varchar(25), 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Delete from RepUsageDtls where SysDate < #

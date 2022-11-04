@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9955961-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\ccViews\autobuild1_BR-0908-0651_8.9.2_Snapshot\SSE_Storage\UserInterface\ResourceDLLs\RaidWiz_CnG\Release\RAIDWiz_ENU
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RaidWizCnG.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+NA volume cannot include a hard drive connected to an external Serial ATA port.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+**Select whether you want the clone drive to synchronize continuously or manually:**
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Copyright(C) Intel Corporation 2003-2009 

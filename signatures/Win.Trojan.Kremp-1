@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Kremp-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+thor" + Chr(34) + " CONTENT=" + Chr(34) + "Duke/SMF" + Chr(34)+ ">" + Chr(13) + Chr(10))
+    tramp.Write("<h

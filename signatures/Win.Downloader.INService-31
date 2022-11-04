@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.INService-31
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+s	100
+d	local3	www.dalexc

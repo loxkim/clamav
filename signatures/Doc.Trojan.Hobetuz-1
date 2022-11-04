@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hobetuz-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+s.Item(1).CodeModule.AddFromString ActiveDocument.VBProject.VBComponents.Item(1).CodeModule.Lines(1, Acti{WILDCARD_ANY_STRING}dule.ReplaceLine 3, "Sub AutoClose()"

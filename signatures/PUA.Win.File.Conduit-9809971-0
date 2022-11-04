@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Conduit-9809971-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://www.filesearching.com/cgi-bin/s?q=%file%&w=a&t=f&e=on&m=20&o=n&s1=%size%&s2=%size%&d=&p=&p2=&x=28&y=14
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://findfiles.com/list.php?string=%file%&db=Mirrors&size=%size%
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Download.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Server does not support download resuming. Don't stop this download; otherwise you'll have to start it from the beginning
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Proxy user name and password are required

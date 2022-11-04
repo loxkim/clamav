@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-928
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+unsere Rechnung gerichtlich einzuklagen{WILDCARD_ANY_STRING(LENGTH<=16)}en Zahlschein und Artikel Liste finden Sie in dem beigelegten Schreiben

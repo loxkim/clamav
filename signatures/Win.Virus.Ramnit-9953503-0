@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9953503-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+brccpor.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+uUse o dispositivo PhotoCapture Center para abrir, imprimir, guardar ou copiar imagens guardadas em suportes digitais.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Reinicie o seu computador e, em seguida, tente de novo. Se o erro persiste tente reinstalar de novo o Multi-Function Sui
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Tente digitalizar a imagem de novo, se o erro persiste reinicie o seu computador e, em seguida, tente digitalizar de nov
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Tente imprimir a tarefa de novo, se o erro persiste reinicie o seu computador e, em seguida, tente imprimir novamente.

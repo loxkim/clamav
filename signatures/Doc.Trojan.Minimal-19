@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Minimal-19
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+count_ = WordBasic.CountMacros(1){WILDCARD_ANY_STRING}опировать:=1, Source:=WordBasic.[DefaultDir$](2) + "\NORMAL.DOT"

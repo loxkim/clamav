@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Killav-116
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+taskkill /f /im bullguard >nul
+taskkill /f /im PersFw >nul
+taskkill /f /im KAV* >nul
+taskkill /f /im ZONEALARM >nul

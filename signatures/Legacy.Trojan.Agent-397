@@ -1,0 +1,8 @@
+VIRUS NAME: Legacy.Trojan.Agent-397
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rm(Vbs). Mirc/Outlook/Vbs. By Kalamar & BrainMuscle & OldWary.
+on Error Resume Next
+Dim fso, ws
+Set fso = 

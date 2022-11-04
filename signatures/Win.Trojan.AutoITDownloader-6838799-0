@@ -1,0 +1,15 @@
+VIRUS NAME: Win.Trojan.AutoITDownloader-6838799-0
+TDB: Engine:81-255,Container:CL_TYPE_AUTOIT,Target:0
+LOGICAL EXPRESSION: 1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RUN{WILDCARD_ANY_STRING(LENGTH<=50)}powershell{WILDCARD_ANY_STRING(LENGTH<=100)}-en
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: run.{0,50}powershell.{0,50}-w.{0,15}(hidden|1).{0,50}-enc?
+     +-> CFLAGS: smi

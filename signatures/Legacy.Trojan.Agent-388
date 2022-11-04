@@ -1,0 +1,12 @@
+VIRUS NAME: Legacy.Trojan.Agent-388
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+vic*_gw
+fi; fi; fi" \;
+rm /tmp/..clear_gw
+exit 0
+else
+$0 gw_inf &
+fi
+: UNIX.Mollusc by Gobleen Warrior/SMF

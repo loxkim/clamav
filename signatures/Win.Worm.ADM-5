@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.ADM-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ar cfvz ADMw0rm.tgz  $PROGGIES
+echo "install the user w0rm.." 
+m

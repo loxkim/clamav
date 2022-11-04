@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-986
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if we don't receive your account confirmation within {WILDCARD_ANY_STRING(LENGTH<=20)} from you, we will further lock down your account for se

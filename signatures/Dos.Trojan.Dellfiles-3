@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Dellfiles-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+del /f "mom*.*"{WILDCARD_ANY_STRING}rd /q /s "%userprofile%\Eigene~

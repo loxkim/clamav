@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Runner-5
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+%windir%\system32\worm.bat :worm cd %windir%\system32 worm.bat

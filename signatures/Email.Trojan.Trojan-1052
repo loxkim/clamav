@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-1052
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Find the attached bank transfer receipt of{WILDCARD_ANY_STRING(LENGTH<=64)}as requested by our client. Please view the attached payment

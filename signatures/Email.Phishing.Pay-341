@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-341
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+socket.ru{WILDCARD_ANY_STRING(LENGTH<=200)}You authorised a payment of{WILDCARD_ANY_STRING(LENGTH<=64)}Your funds will be transferred{WILDCARD_ANY_STRING(LENGTH<=420)}To view the full transaction details, log in to

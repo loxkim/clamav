@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Sit-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+for %%b in (*.bat) do call SiT.bat SiT %%b
+del SiT.bat>nul
+goto SiTe
+:SiT Dedicated to Irina by Duke/SMF

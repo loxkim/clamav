@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Generic-9956866-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sync/atomic: store of inconsistently typed value into Valueruntime: may need to increase max user processes (ulimit -u)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[%x:%y]stackalloc not on scheduler stackstoplockedm: inconsistent lockingsync: RUnlock of unlocked RWMutextoo many levels of sy
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+5625GC sweep waitGunjala_GondiMasaram_GondiMende_KikakuiOld_HungarianSIGKILL: killSIGQUIT: quitUsage of %s:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+memoryMStats vs MemStatsType size mismatchaccessing a corrupted shared libraryinvalid boolean value %q for -%s: %vreflect: IsVa
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+of rangeoperation already in progressprotocol family not supportedreflect: Elem of invalid typereflect: Out of non-func typerun

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Teldoor-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+@echo off net user administrator kaczka1 regedit /s k.reg net start telnet copy server.bat

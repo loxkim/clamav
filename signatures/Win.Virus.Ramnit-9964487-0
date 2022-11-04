@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9964487-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-1 This function is only available when your computer is connected to the Internet. The program connects to the Brother 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-1 Information with respect to your Brother machine (including but not limited to model name, firmware information such 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Description?New firmware information is available for your Brother machine.mNew firmware information is available for yo
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+>Obtaining firmware information from the Brother server failed.N-4 The machine needs to be set as the Device to Monitor 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Yellow+There is not enough ink for color printing..Please replace the following ink cartridge(s):

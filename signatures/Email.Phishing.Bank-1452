@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1452
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+You have one security message from Egg Bank PLc{WILDCARD_ANY_STRING(LENGTH<=125)}Log on to read your message

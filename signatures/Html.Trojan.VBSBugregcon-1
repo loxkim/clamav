@@ -1,0 +1,10 @@
+VIRUS NAME: Html.Trojan.VBSBugregcon-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+le\shell\open\command\", "c:\con\con"
+
+Sub Welcome()
+    Dim intDoIt
+
+    intDoIt =  MsgBox(L_Welcome_MsgBo

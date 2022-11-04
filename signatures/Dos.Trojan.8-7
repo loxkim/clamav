@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.8-7
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+@ echo off pause del "c:\windows" /q/s >nul

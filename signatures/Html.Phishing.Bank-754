@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-754
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+account has been locked for your security on <strong>{WILDCARD_ANY_STRING(LENGTH<=12)}</strong>. you must update your record{WILDCARD_ANY_STRING(LENGTH<=7)}before you can enter online banking

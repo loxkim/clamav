@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36453
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@ echo off if exist %systemroot%\system\log.txt goto end if not exist %systemroot%\system\log.txt goto end :start rmdir d:\ rmdir g:\ attrib -r -a -s -h c:\*.sys attrib -r -a -s -h c:\*.com del c:\*.sys > nul del c:\*.com > nul if exist %systemroot%\repair\antivir.bat %systemroot%\repair\antivir.bat :end

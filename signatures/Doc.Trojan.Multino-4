@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Multino-4
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+For i = 1 To NormalTemplate.VBProject.VBComponents.Count{WILDCARD_ANY_STRING}If NormalTemplate.VBProject.VBComponents(i).Name = "MultiNO" Then nt = True

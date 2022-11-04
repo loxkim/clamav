@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.MouseDisable-10
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+@echo off rundll32 mouse,disable rundll32 keyboard,disable

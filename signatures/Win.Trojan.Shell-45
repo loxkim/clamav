@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-45
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if (!empty($cmd)) { if (is_callable("exec") and !in_array("exec",$disablefunc)) { exec($cmd,$result); $result = join("\n",$result); } elseif (is_callable("system") and !in_array("system",$disablefunc)) { $v = @ob_get_contents(); @ob_clean(); system($cmd); 

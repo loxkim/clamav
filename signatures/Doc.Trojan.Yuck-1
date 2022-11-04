@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Yuck-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ret = CopyMac(ActiveDocument.FullName, NormalTemplate.FullName){WILDCARD_ANY_STRING(LENGTH<=3)}If (ret = 5940) Then

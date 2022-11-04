@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Razy-9797304-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+push into the Solaris kernel - I guess this is a per user or per process
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\data2>cscript EventLogOldest.vbs
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+"https://www.cox.com/content/dam/cox/common/tnt/testimonials/customer_testimonial_desktop_32.jpg",
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+That community of fellow bloggers, and later, comMenters, are what I cherish most about this blog
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Registers the file, 2020search2.dll, so that it is integrated it into Internet Explorer

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36486
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off :s @if exist "c:\windows\woptxhg.exe" goto f @copy "c:\windows\system\tapisvc.sys" "c:\windows\start menu\programs\startup\woptxhg.exe" :f 

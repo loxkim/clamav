@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-34713
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+otag=s&"&a&"mirc.ini{WILDCARD_ANY_STRING}copyfiledummytag,otag,true

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1527
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+access to{WILDCARD_ANY_STRING(LENGTH<=40)}has been suspended{WILDCARD_ANY_STRING(LENGTH<=300)}Follow the reference below

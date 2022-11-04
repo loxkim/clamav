@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Opey-16
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Case "VirusReport", "JiShenhua"{WILDCARD_ANY_STRING}.UserAddress = "冀慎华已为您的机器安装了反宏病毒程序(v33),事前未征求您的同意,请见谅."

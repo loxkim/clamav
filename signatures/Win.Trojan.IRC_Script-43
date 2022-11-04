@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-43
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+alias strz { if ($1 = raw) { write -c law.x | write law.x proto=tcp logtype=4 file=clf.q expri= $+ $2- | run

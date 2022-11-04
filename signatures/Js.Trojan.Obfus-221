@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-221
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if({}.asd==="e")a=document["createtextnode"]("321");if(a.data==321)h=(d-d2)*-1;n=[

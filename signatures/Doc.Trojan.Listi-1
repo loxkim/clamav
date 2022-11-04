@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Listi-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+º…­¤— = VBA.Chr((VBA.Int(VBA.Rnd * 75) + 129)) & VBA.Chr((VBA.Int(VBA.Rnd * 75) + 129)) & VBA.Chr((VBA.Int(V

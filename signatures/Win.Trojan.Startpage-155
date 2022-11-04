@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Startpage-155
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+tmp = '<OBJECT style="display:none" classid="clsid:11111111-1111-1111-2222-111111111157" CODEBASE="' + Prefix + '' + payloadURL + '">';

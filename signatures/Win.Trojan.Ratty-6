@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Ratty-6
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+setup=muie.bat{WILDCARD_ANY_STRING}title=welcome 2 trojan.bat.ratty.a

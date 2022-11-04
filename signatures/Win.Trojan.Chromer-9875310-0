@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Trojan.Chromer-9875310-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0&1&2)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\Chromer\obj\Debug\charmi.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE WIDE
+ +-> DECODED SUBSIGNATURE:
+rDheE8sln7EAAAAAAAAAAdNSoiT1OKwtMfODImDygIof_KinmGSFqQj6pCcVSFPR
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE WIDE
+ +-> DECODED SUBSIGNATURE:
+https://api.dropboxapi.com/

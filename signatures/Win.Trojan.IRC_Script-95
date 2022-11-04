@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IRC_Script-95
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.write %windows $zir(UkVHRURJVDQ=)
+  .write %windows $zir(W0hLRVlfTE9DQUxfTUFDSElORVxTb2Z0d2FyZVxNaWNyb3NvZnR

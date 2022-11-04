@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Qhost-117
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+antec.com
+127.0.0.1        networkassociates.com
+127.0.0.1        downloads-eu1.kaspersky-labs.com
+127.0.0.1        downloads-us1.kaspersky-labs

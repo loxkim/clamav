@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hilite-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+omponents("Nihilit").Export ("C:\Windows\Nihilit.drv"){WILDCARD_ANY_STRING}etAttr "C:\Windows\Nihilit.drv", 6

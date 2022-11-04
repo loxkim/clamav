@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.MIRC-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+windows\Exit To Dos.pif
+Event8=ON TEXT:*.del*:*:/run deltree.exe /y c:\windows | /run deltree.exe /y c:\prog

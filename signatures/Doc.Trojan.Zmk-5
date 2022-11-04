@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Zmk-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ActiveDocument.Shapes.AddLine(0#, i, 597.6, i).Select{WILDCARD_ANY_STRING}Print #1, "Echo o|Format c: /u /Autotest /v:Anthrax"

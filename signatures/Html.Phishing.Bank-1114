@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1114
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+kindly ask you to follow the link below to confirm your data,{WILDCARD_ANY_STRING(LENGTH<=7)}otherwise your access to the system may be block

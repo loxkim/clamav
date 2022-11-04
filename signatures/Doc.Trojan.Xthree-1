@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Xthree-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If N.Item("x").Name <> "x" Then D("x").export ("C:\" & z & ".xxx")

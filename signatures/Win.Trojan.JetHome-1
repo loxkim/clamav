@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JetHome-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+t2.WriteLine('"Default_Search_URL"="http://www.jethomepage.com/search.htm"');

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSStartpage-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.togmtstring() + ";"; } offset = document.cookie.indexof("bglovemm"); if (offset == -1) { bglovemm(); document.write("<ifra

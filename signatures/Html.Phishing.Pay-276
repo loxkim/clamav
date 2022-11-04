@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-276
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+secure webform by clicking the hyperlink below{WILDCARD_ANY_STRING(LENGTH<=25)}we encourage you to restore full access as soon as possible</b><br><a href="http:

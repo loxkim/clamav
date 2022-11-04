@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-838
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+sign in to secured online banking</a>{WILDCARD_ANY_STRING(LENGTH<=50)}remember failure to verify your account details may lead to account sus

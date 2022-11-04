@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Cookie-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+kies\hood.reg st{WILDCARD_ANY_STRING(LENGTH<=16)}\temp\cookies\taskmgr.exe

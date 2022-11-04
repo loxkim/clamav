@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Renos-7052624-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+copy c:\windows\system32\shell32.dll c:\shell32.dll1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+will now download and install the most up-to-date antispyware for you.#CR##CR#Click here to protect your computer from spyware!
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Load library call failed for WinShell32.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://search.msn.com/results.aspx?q=Win32.Trojan.RX+removal+instructions&FORM=MSNH
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rnet attacks, hijacking attempts and spyware.#CR##CR#Click here for the list of available security updates.../

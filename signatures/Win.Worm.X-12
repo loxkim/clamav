@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.X-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@cls
+@echo Do not take this medication with ethanol, Buspar (buspirone), TCA
+@echo antidepressants, narcotics, or other CNS depressants.
+@echo

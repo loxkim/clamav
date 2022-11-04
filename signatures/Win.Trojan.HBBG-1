@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.HBBG-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+type %0 |find /V "inst"  >c:\inst.cfg{WILDCARD_ANY_STRING}copy /B c:\inst.cfg+c:\hbbginst.cfg c:\autoexec.bat >nul

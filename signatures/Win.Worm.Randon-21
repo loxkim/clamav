@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Randon-21
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ckopen:fludd*:{{WILDCARD_ANY_STRING}ord:3 $+ %user $+ / $+ %passw  2(NT Server)

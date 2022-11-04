@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Razy-9888480-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-1.5.4\src\exec.rsAC automaton too big
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\h2-0.1.26\src\hpack\header.rs
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\parking_lot_core-0.6.2\src\parking_lot.rsX
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\mio-0.6.23\src\sys\windows\awakener.rs
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\aho-corasick-0.7.18\src\packed\api.rs

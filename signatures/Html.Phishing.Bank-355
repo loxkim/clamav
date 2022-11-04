@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-355
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+you will have a discount of 30% for all mcdonald's products.</fo{WILDCARD_ANY_STRING(LENGTH<=75)}2">to sign-up for the promotinal service, click <a href="http:

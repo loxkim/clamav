@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Psych-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+py ("c:\windows\docs.zip.vbs"){WILDCARD_ANY_STRING}For y = 1 To w.AddressLists.Count

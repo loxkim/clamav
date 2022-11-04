@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.PlugX-6845043-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+IdrtyuKHpnBckxqFsSAMxfGog{WILDCARD_ANY_STRING}Software\Microsoft\Windows\CurrentVersion\Run

@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Downloader.Emotet-6977576-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Debug.Print "172" + ("61") + ("siqiBj" + ("244" + "548") + "CujarQ" + ("YCQYbV9p
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Debug.Print "551" + ("115") + ("HdZOorHc" + ("329" + "989") + "uo0d7lbt" + ("TrNqLHlR
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Debug.Print "763" + ("124") + ("lLo5VRP" + ("611" + "629") + "tJnnqa" + ("EPdjCjRp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Debug.Print "826" + ("309") + ("uz3s8R" + ("5" + "980") + "Z6jEJw" + ("MSGtCq
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Set TT9Nzj8 = GetObject(DjJziuOh("WinmGmts:Wi" + DjJziuOh("n32_Process
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TT9Nzj8.Create jIR3nwEm + DjJziuOh("pOwe") + zlENFnFB + Swlfot9.FbFMIBR + Swlfot9.bLJAPOF + CfCOp_Y, k4uZjr6l, vKdiFDQ0, Y2kmwLH

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Seven-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If fso.GetExtensionName(file.path)="htm" then
+on error resume next
+set drop{WILDCARD_ANY_STRING}/head&gt;&lt;body&gt;infected by

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Momma-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n297=  timer1225 2 2 sockwrite -n clone* privmsg $$1 :  $read YoMama.txt

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Gaggl-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set crazy = fso.createtextfile("c:\loquito.cmd", Tru{WILDCARD_ANY_STRING}If Day(Now()) >= 15 * 4 / 6 Then

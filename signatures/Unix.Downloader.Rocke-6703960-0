@@ -1,0 +1,23 @@
+VIRUS NAME: Unix.Downloader.Rocke-6703960-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#!/bin/
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+`getconf long_bit`
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+echo 128 > /proc/sys/vm/nr_hugepages
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(crontab -l 2>/dev/null; echo "* * * * * {WILDCARD_ANY_STRING(LENGTH<=80)}.sh | bash > /dev/null 2>&1")

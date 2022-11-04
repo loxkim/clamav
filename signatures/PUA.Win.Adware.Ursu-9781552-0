@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Ursu-9781552-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+9.:7:m:A;E;I;M;Q;U;Y;];a;e;};E<I<M<Q<U<Y<]<a<e<i<
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1 1#2/2m2
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2 3'3q<
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3/3G3_3w3%4,4t4x4|4

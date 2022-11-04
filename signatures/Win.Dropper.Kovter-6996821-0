@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kovter-6996821-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Poststrukturalismus\Fel\VB98\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+66_fd5e4_fdcf866_f62ce66_feff4_fedf666_f71d_e9_ffded_fecd6_f66f866_ffcd766_f61f766_ffce
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Genesito gromanto.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+f72d7c866_fdce666_ffccf66_fe8c_66_fdbdc66_fe9e8_f72d522_fdbe766_ffde3_f6ac966_f
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+_feff4_fedf666_f71d_e9_ffded_fecd68954_d___f66f866_ffcd766_f61f766_ffc

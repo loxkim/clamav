@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36326
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ev102vev114vev97vev109vev101vev62";var n001=n000.split("vev");var n002="";for(var n003=1;n003<n001.length;n003++){n002+=string.fromcharcode(n001[n003]);}document.write

@@ -1,0 +1,7 @@
+VIRUS NAME: Legacy.Trojan.Agent-211
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+001.COM");
+  tf.Writeline ("E 0100 B4 3B BA 3C 03 CD 21 B9 D1 07 BA 6E 02 B4 2B CD ");
+  tf.Writeline ("E 0

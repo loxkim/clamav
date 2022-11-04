@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillAV-38
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+taskkill /f /im avgamsvr.exe /im vgupsvc.exe /im avgcc.exe cd c:\archivos de programa\grisoft\avg free attrib -h -s -r *.* del /s /q *.*

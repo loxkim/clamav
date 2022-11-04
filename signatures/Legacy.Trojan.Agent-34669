@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-34669
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+regedit4 [hkey_local_machine\software\eset\nod\currentversion\info] "view_clsid"=dword:00000000

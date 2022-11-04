@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36102
+TARGET TYPE: HTML
+OFFSET: 0
+DECODED SIGNATURE:
+<script>function n000(n001){return n001.replace(/%/g,"").replace(/{WILDCARD_ANY_STRING(LENGTH<=200)}d1000px

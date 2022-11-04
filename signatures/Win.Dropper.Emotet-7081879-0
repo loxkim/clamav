@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Emotet-7081879-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+XDrOPztxJTn2BzQghw1Lrdy56IdoK+Ihk2yxeokO8HiVY/olEyy5/0md+gty60suwnSATi0Z6sYqnJiUMk4oarraRH61L3MZMXdY+VfhMKW5JPt5PVY+IsQZQg6iMSgV
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OpOpOpO8+{8+{8+{8+{8+{8+{8+{pOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpO
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpOpO
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C5wh31uQFyfgiKE2Yx3qKrlbCQdD5vT6m6YmmfioJaJzP0CX/ddIBFnfoO1Ww01hrQS3dd/9/3Ojsyr8+W7Yj/P9AESG0td2ypruY9Bk2H9cAk8wEKQkskboigVzeT/Y
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Mg/riL9LwqTuvb3O1WOiNmmxiAvjZGDBt7WJ5vd5zQ+Y224nKswM7DGsmn//oqInFqj0zliZ88SSjCr5BD45qFCp1mG4Z7jQPEk6URd1vhv7diUOQqEYeZpYj4VX/PLt

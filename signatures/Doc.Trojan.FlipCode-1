@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.FlipCode-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+For ruam = 1 To Len(ActiveDocument.VBProj{WILDCARD_ANY_STRING}eDocument.VBProject.VBComponents.Item(1).CodeModule.lines(lav, 1)), ruam, 1) & ehs$

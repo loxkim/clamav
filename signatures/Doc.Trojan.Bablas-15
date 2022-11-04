@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bablas-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+H = MsgBox("Sorry banget, kamu kagak bisa ngruba ini macro.", vbExclamation + vbOKOnly, "Dari : AKA")

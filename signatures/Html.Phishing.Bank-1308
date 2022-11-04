@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1308
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+During our regular{WILDCARD_ANY_STRING(LENGTH<=512)}Please update your information.{WILDCARD_ANY_STRING(LENGTH<=512)}account

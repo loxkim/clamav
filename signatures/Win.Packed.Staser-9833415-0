@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Staser-9833415-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Failed to Save StreamE%d is an invalid PageIndex value.  PageIndex must be between 0 and %d=This control requires versio
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Dump of %s.binTMPHexeditorEx Clipboard Format
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ebookwcget.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Text LocalejThis "Portable Network Graphics" image is not valid because it contains invalid pieces of data (crc error)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+!Invalid buffer from file argument!Invalid bytes per column argument-Invalid bookmark bitmap (must be 10 x 200 px)

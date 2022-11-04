@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.MVTK-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ion.VBE.ActiveVBProject.VBComponents.Item(BpTlRn7566).Export "C:\WINDOWS\SYSTEM\Birgit.sys"

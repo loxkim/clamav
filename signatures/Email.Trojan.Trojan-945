@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-945
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Subject: Urgent{WILDCARD_ANY_STRING(LENGTH<=600)}I need to know if you have the products listed in the attached quote

@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.Delfiles-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cd c:\windows
+del *.dll
+del *.exe

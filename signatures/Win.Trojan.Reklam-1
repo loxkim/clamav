@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Reklam-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+=reklamay{WILDCARD_ANY_STRING}if %sayi === 0 { .set %reklam %reklam0

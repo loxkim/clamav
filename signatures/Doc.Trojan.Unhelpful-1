@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Unhelpful-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+eVBProject.VBComponents("Helper").Export "c:\startup.log"{WILDCARD_ANY_STRING}With .VBComponents.Import("c:\startup.log")

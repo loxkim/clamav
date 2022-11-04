@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6740644-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+o{This computer must be connected to the internet to install RealPlayer. Please check your internet connection and try a
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rnupdate_br.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+o em disco na unidade %SPACE_DRIVE% (ou selecione uma unidade diferente com espa
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+o importante para o RealPlayer est
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+o livre suficiente em disco na unidade %SPACE_DRIVE%. Este aplicativo requer %SPACE_MB% MB de espa

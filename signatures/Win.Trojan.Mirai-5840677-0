@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Mirai-5840677-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+echo -ne '%s' %s upnp; /bin/busybox ECCHI
+

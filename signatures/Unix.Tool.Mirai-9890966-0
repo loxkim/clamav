@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Tool.Mirai-9890966-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+block sizemath/big: mismatched montgomery number lengthsnetpollinit: failed to create epoll descriptorreflect.Value.Slice: slic
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+using value obtained using unexported fieldcipher: NewGCM requires 128-bit block ciphergcmarknewobject called while doing check
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ffset base pointer out of rangeruntime: panic before malloc heap initialized
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d connectionDomain name transaction ID, default is randomSELECT username FROM users WHERE username = ?Source IP address, 255.255
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e index out of boundsreflect: nil type passed to Type.ConvertibleToruntime: failed to create new OS thread (have runtime: name o

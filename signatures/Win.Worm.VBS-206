@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.VBS-206
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+.regwrite "hklm\\software\\kazaa\\transfer\\dldir0", "{WILDCARD_ANY_STRING}");

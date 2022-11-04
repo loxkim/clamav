@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Obvious-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If AW.Lines(4, 1) <> ID Then{WILDCARD_ANY_STRING}DeleteLines 1, AW.CountO{WILDCARD_ANY_STRING}InsertLines 1, TW.Lines(1, TW.CountOfL{WILDCARD_ANY_STRING}Kill Application.StartupPath + "\*.*"

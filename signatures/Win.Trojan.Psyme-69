@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Psyme-69
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ShellExecute "cmd.exe","/c echo "+DirUrl9+">"+DirUrlBAT,"","",0
+DirUrla.type = 1
+DirUrlh="GET"
+DirUrld.Open DirUrlh

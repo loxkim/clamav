@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Agent-36151
+TARGET TYPE: ANY FILE
+OFFSET: 0,4
+DECODED SIGNATURE:
+<meta http-equiv="refresh" content="0;url=http://{WILDCARD_ANY_STRING(LENGTH<=60)}/1.html" />

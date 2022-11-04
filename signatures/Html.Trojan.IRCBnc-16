@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCBnc-16
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if ($isfile(c:/windows/win.ini)) writeini c:/windows/win.ini windows load $shortfn($mircexe) | .timer 1 10 leech | scan.win

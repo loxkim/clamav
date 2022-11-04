@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Mikey-9754441-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%s\system32\cmd.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Subject%S%s%S%s&files=%lld&size=%lld&version=%s&date=%lld&OS=%ld&ID=%d&subid=%d&gate=G%d&is_admin=%d&is_64=%d&ip=%s&exe_type=%d
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%S%s%S%s%S%s&date=%lld&OS=%ld&ID=%d&subid=%d&gate=G%d&is_admin=%d&is_64=%d&ip=%s&exe_type=%d
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Encryption was produced using a unique public key RSA-2048 generated 

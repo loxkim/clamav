@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Agent-36815
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if(window.document)try{date().prototype.a}catch(qqq){st=string;zz="al";zz="v"+zz;ss=[];if(1){f="fromcharcode";}e=this[f.substr(11)+zz];t="y";}n="3.5~3.5~51.5~50~1

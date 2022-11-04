@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Autorun-462
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+command=ODUZIMAS\\midah.exe
+Shell\\open\\command=ODUZIMAS\\midah.exe
+useautoplay=1
+shellexecute=ODUZIMAS\\midah.exe

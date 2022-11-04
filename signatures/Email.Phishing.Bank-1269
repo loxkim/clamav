@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1269
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+new version of CitiBusiness Form (CBF).{WILDCARD_ANY_STRING(LENGTH<=140)}This form is required to be comp={WILDCARD_ANY_STRING(LENGTH<=2)}leted by all CitiBusiness customers.

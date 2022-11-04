@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Thonic-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+t nSFaTQy=CreateObject("Outlook.Application")
+For wegowCI=1 To 2720
+Set eRFDSQX=nSFaTQy.CreateItem(0)
+eRFDSQX.Subjec

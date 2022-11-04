@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Petch-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+x.Open("GET", "http://ip3e83566f.speed.planet.nl/1.exe",0); 

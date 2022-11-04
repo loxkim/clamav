@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-857
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+this email was sent by the e-gold server to verify your e-mail address. you must complete{WILDCARD_ANY_STRING(LENGTH<=7)}this process by clicking

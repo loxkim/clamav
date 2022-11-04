@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Flesh-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for each flashdrive in fs.drives{WILDCARD_ANY_STRING}.vbs"){WILDCARD_ANY_STRING}set tf=fs.createtextfile(flashdrive.path &"\{WILDCARD_ANY_STRING}hdrive.path &"\autorun.inf",2,t

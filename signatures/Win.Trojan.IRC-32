@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.IRC-32
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:prog
+@copy /y %0 c:\progra~1\mirc\script.ini >nul
+@echo n0=script.ini >> c:\progra~1\mirc\mirc.ini

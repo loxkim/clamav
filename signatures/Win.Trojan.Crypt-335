@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Crypt-335
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for(var n005=0;n005<n001.length;n005+=4){n003=(n002.indexof(n001.charat(n005))&255)<<18|(n002.indexof(n001.charat(n005+1))&255)<<12|(n002.indexof(n001.charat(n005+2))&255)<<(6)|n002.indexof(n001.charat(n005+3))&255;n004+=string.fromcharcode((n003&16711680)>>16,(n003&65280)>>8,n0

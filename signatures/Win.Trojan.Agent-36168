@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36168
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ile (bigblock.length<spray) bigblock+=bigblock; fillblock = bigblock.substring(0, spray); block = bigblock.substring(0, bigblock.length-spray); while(block.length+spray < 0x40000) block = block+block+fillblock; mem = new array(); for (i=0;i<1400;i++) mem[i] = block + heap

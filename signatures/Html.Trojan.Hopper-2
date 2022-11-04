@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.Hopper-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ndows\Web\Afile.htm"
+	If (Int((15 * Rnd) + 1) = 1) then Call FindHTMV

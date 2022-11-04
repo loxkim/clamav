@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Revano-2
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+Execute chr(68) & chr(105) & chr(109) & chr(32) & chr(83) & chr(116) & chr(111) & chr(112) & chr(80) & chr(114) & chr(111) & chr(99) & chr(101) & chr(115)

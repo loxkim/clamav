@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VBS-50
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Wvar = Split(t, ","){WILDCARD_ANY_STRING}r = Int("&H" & Mid(Wvar(i), 3, l))

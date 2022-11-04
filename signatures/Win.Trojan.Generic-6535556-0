@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6535556-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO VehiculosFacturasConceptos (VehiculoFacturaHeaderID, ConceptoCodigo, ConceptoImporte, ImpuestoPorcentaje) 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO RepuestosFacturasConceptos (RepuestoFacturaHeaderID, ConceptoCodigo, ConceptoImporte, ImpuestoPorcentaje) 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Desea consultar ahora el Archivo 'O-ERROR.TXT' para ver los detalles de los Errores ocurridos  ?
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Desea consultar ahora el Archivo 'I-ERROR.TXT' para ver los detalles de los Errores ocurridos  ?
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Advertencia: Este programa esta protegido por las leyes de derecho de autor y otros tratados internacionales. La reproducci

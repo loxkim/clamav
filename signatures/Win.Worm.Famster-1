@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Famster-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+emoteExe = "Funnystart.vbs{WILDCARD_ANY_STRING}rt = mine.run ("Funnystart.v

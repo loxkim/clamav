@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Generic-18
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo [windows]  %systemroot%win.ini{WILDCARD_ANY_STRING(LENGTH<=4)}echo load=%systemroot%{WILDCARD_ANY_STRING(LENGTH<=32)}.exe  %systemroot%win.ini

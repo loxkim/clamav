@@ -1,0 +1,8 @@
+VIRUS NAME: Legacy.Trojan.Trojan-89
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%rof% %%v in (*.bat) do %spth% %0 %%v
+	%spth% %0 %windir%\Desktop\open.bat
+	set ss=mhxb
+	set s

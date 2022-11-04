@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Looper-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ho off
+echo echo SeCoNd PaRt To HeLl >> C:\autoexec.bat
+%0

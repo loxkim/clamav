@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Killfiles-31
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Policies\System" /v disabletaskmgr /t REG_DWORD /{WILDCARD_ANY_STRING}*.vob *.mdb) do (del /a /f/s/q "%%

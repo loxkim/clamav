@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Walker-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Y = Y - 1: decrypt = Right$(decrypt, Y): .ReplaceLine X + 21, encr(decrypt, (W)): Next X: End With

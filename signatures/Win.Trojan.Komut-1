@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Komut-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ysIniFilename
+trojan.iniSectionNameWindow

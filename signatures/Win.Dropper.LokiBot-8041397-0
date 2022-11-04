@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-8041397-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Win32: Failed to load user32.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Once_target@V?$_Bind@$0A@XV<lambda_a0c213e3f0b9fc7bd19247e7474ab913>@@$$$V@std@@@std@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Once_target@V?$_Bind@$0A@XV<lambda_381889c06c6f3aa07e9e766879cbc1d3>@@$$$V@std@@@std@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Win32: Failed to load winmm.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+X:\nata\third\third\include\brynet/net/TcpConnection.hpp

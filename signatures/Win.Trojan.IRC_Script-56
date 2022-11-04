@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IRC_Script-56
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on *:TEXT:!Ftpsearch:#: { 
+ set %flashfx

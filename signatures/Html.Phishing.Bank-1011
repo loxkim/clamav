@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1011
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+decided to put an extra verification process to{WILDCARD_ANY_STRING(LENGTH<=7)}ensure your identity and your chase account security. please click

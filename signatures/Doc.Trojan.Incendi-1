@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Incendi-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox "Acabei de formatar o teu disco!!! Ah! Ah! Ah!", vbOkOnly, "VirusTeste"

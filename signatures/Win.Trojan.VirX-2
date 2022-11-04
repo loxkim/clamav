@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.VirX-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+at) do call \ViR_ ~ 5 %%a
+exit ViR
+:ViR_5
+find "ViR"<%3>nul
+if no

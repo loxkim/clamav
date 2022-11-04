@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Msilperseus-6894151-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#@ #5 5@ #@ #@ #@ F6 96 2@ #@ @3 @7 3@ #@ #@ #@ 5@ F6 F6 76 6@ C@ F6 #@ #@ #@ 83 #@ B@ C6 #@ 86 33 B@ 36 86 3@ #@ #@ #5 6@ 67 2
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#@ D@ B6 8@ #@ 2@ #@ #@ #@ F@ 76 D@ #@ 3@ #@ #@ #@ F@ 55 D@ #@ 2@ #@ #@ #@ F@ 76 C@ #@ 3@ #@ #@ #@ D@ B6 8@ #@ 2@ #@ #@ #@ F@ 8
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#@ #@ 83 #@ B@ C6 83 76 33 B@ #@ #@ #@ @7 B2 D6 3@ #@ #@ #@ 27 F6 #@ #@ #@ 5@ #@ #@ 9@ B@ #@ #@ #@ A@ 96 35 A@ A7 37 86 2@ B@ 9
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+26 5@ #@ #@ #@ 65 @3 8@ #@ 56 27 #@ #@ #@ #@ 2@ B@ C@ F6 #@ #@ #@ 83 #@ B@ C6 @3 76 33 5@ #@ #@ #@ 55 #@ 9@ 6@ B@ #@ #@ #@ #5 B
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#@ #@ 5@ 6@ #@ #@ #@ #@ @@ #@ #@ #@ #@ 6@ 2@ #@ #@ #@ #@ #5 #@ #@ #@ #5 @@ #@ #@ #@ #@ F@ #@ #@ #@ #@ 36 @@ #@ #@ #@ 76 5@ #@ #

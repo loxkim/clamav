@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-982
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+update your account. you must complete this process by clicking on the link below and enter{WILDCARD_ANY_STRING(LENGTH<=3)} your account info

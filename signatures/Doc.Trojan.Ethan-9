@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ethan-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Dir("c:\johnny.___", 6) = "" Then{WILDCARD_ANY_STRING}MsgBox "Johnny version 1.0"

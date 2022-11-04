@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Dabvegi-7784861-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pC:\WINDOWS\system32\ieframe.oca
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\VB6.OLB
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+irwl?.1t{r/erklkg+gjn,en@gvqt50-zs|-{^ljp,fkr:jqxk;-2s|v0dpjcm1_tl=exoq82+|vy+qno,fkr:jqxk;-2s|v0qims_1_tl0_v
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+2asgxWvehdo9/X<3^+MSIE 8.0;+^4=\/Qqdfk}k*LX
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SHDocVwCtl.WebBrowser

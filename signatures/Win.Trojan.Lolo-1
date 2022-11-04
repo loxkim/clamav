@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Lolo-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+a.CopyFile Wscript.ScriptFullName, "A:\sex-pics.vbs", True

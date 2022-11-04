@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Whitehome-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+vf.write MakeScript ("window.navigate ('c:/con/con');", false)

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.DWMVCK1-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ument.FullName, Name:="Mars", Object:=wdOrganizerObjectProjectIt{WILDCARD_ANY_STRING}If (DayMonth = 1611) Or (Day(Date) = 1)

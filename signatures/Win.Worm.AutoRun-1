@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.AutoRun-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+[autorun]{WILDCARD_ANY_STRING(LENGTH<=101)}shell\open\Command=autoply.exe

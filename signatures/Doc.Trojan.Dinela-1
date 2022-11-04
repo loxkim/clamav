@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Dinela-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sMacro$ = sMe$ + ":Dinela"{WILDCARD_ANY_STRING(LENGTH<=3)}    WordBasic.MacroCopy sMacro$, "Global:Salvar"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bot-9
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+e()-$haltfl['time']>15 && $haltfl['on']==1){$haltfl['on']=0;$haltfl['time']=time();} if(time()-$isontime >15 && $systembot['ison']['all']=="3on"){$modbot->send($fp,"ison ". $modbot->show_ison());$isontime=time();} if($systembot['autoaway']['all']=="3on

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-34523
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+netsh  firewall add allowedprogram %tmp%\win.exe

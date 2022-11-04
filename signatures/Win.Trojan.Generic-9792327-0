@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9792327-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+,A,C){ptui_changeImgEx(B,A,C,"http://ptlogin2."+B+"/getimage")}function ptui_changeImgHttps(B,A,C){ptui_changeImgEx(B,A,C,"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+us();D.select();return false}C.setAttribute("maxlength","32");preprocess(B);return true}function getCookieVal(B){var A=docum
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+}var A=g_speedArray.length;g_speedArray[A]=new Array(B,new Date())}function ptui_reportSpeed(B){if(Math.random()>0.1){return }u
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+function ptui_setDefUin(B,A){if(A==""||A==null){A=getCookie("ptui_loginuin")}if(A!=""&&A!=null){B.u.value=A}}function ptui
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+B){try{obj=document.getElementById(B);if(obj){if(parent.ptlogin2_onResize){width=1;height=1;if(obj.offsetWidth>0){width=obj.offs

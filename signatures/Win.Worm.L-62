@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.L-62
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+domize
+  num = Int((4 * Rnd) + 1)  '  fatal => send virii
+  if num = 2 then 
+    editarregistro.RegWrite "

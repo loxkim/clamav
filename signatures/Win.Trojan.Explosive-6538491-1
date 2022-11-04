@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Explosive-6538491-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+taskkill /f /PID{WILDCARD_ANY_STRING}REG ADD "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run"

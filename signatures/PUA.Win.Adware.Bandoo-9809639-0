@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Bandoo-9809639-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Only Internet Explorer code should write this user setting. See http://go.microsoft.com/fwlink/?LinkId=159651 for more details.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+xmlns:G="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hared_memory@interprocess@boost@@VEmptyErrorPolicy@PTL@@ULowIntegrityLevelAccessPolicy@2@@PTL@@@serialization@boost@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+serialization@boost@@SAABV?$oserializer@Vbinary_oarchive@archive@boost@@VNotifyData@KipodLogger@@@detail@archive@3@XZ
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ton_wrapper@V?$oserializer@Vbinary_oarchive@archive@boost@@VNotifyData@KipodLogger@@@detail@archive@boost@@@634@A

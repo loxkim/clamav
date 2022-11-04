@@ -1,0 +1,5 @@
+VIRUS NAME: Vbs.Trojan.Ultras-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+s.WriteLine "ECHO E0100 BA 4B 02 BA 58 02 E8 54 00 BA ...etc>>virus.scr"

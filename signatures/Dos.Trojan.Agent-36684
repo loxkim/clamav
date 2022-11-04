@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36684
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off restore.exe addreg.bat if exist c:\progra~1\norton~1\ avupd.exe copy c:\navupd.exe %windir%\system32\plugins\navupd.exe del c:\inst.bat del c:\restore.exe del c:\pv.exe del c:\upd.exe del c:\navupd.exe restore.exe spool.exe 

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Redden-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Not already Then{WILDCARD_ANY_STRING}ents.Add (vbext_ct_StdModule){WILDCARD_ANY_STRING}stlth.VBComponents(NormalTemplate.VBProject.VBComponents.Count).Name = "SimplyRed"

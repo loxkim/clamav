@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Redosdru-9758614-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?OOO~a~a{OOO!**+o+&,;& !.=6O&!, ==*,;o+.;.o,'*,$OOOO&!, ==*,;o'*.+*=o,'*,$OO&!9.#&+o8&!+ 8o<&5*O:!$! 8!o, "?=*<<& !o"*;' +OO
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*!+OOOO< !!*,;O,*;?**=!."*O(,,*?;OO.*,9OOOO &<;*!OO=# <*< ,$*;O
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+k[%S%N
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;.=;:?OO8*!+; OO,*;' <;-6!."*OOO8*;< ,$ ?;OO'; !<OOO
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+`9!+a"<b? 8*=? &!;co.??#&,.;& !`"<8 =+coe`eoBE

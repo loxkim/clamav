@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Aqfpgjh-7752041-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\user\AppData\Local\PePsi + MaGed Kh\obj\Debug\Has.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CyC4o1gM3YmgcghD+geUVohvQcsejTpL5jIu+JYtuxP89vvlQf2L/yv6LSvQu46M1znuyGexCVZUYEZAD8a2veMH1IhTgw/AfWjXTXu6Ng7ma4+w0hd1ukUc
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Has.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Has.Resources.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Has.Resources

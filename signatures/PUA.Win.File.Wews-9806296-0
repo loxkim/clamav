@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Wews-9806296-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+refer=%s&uid=%s&version=%d&installtime=%s&runcount=%d&curtime=%s&showlogintype=3
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://pt.clickdata.37wan.com/ps.gif?id=38&la=%s&gid=%s&sid=%s&e1=%s&e2=%s&e3=%d&e4=%s&e5=%s&e6=%s&e7=%s&e8=%d
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CEventHandler@VCFormThirdLogin@@P81@AEXIIJ@ZVICWebNotifyEventHandler@@@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CCWebNotifyEventHandler@VCFormThirdLogin@@P81@AEXIIJ@Z@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+LBSserver.exe

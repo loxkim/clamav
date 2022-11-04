@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Banker-6332
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+C:\WINDOWS\modulo.exe{WILDCARD_ANY_STRING}mas\Inicializar\Iniciar.exe{WILDCARD_ANY_STRING}Banco Bradesco

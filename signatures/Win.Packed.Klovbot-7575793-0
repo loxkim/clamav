@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Klovbot-7575793-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity type="win32" processorArchitecture="*" version="1.0.0.0" name="AppName.exe"></assemblyIdentity>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<requestedExecutionLevel level="requireAdministrator" uiAccess="FALSE"></requestedExecutionLevel>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Award Keylogger 1.30 (x86-x64),Backgammon HD 1.4.0 (iPhone),Battlefield 2 (2010)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Nero 9 Reloaded (9.4.26.0,AVG Anti-Virus Free Edition 2011,AVG Anti-Virus Pro 9.0 Keygen
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Assasins Creed 2 (2010),Ashampoo Snap 4 4.1 Keygen,TuneUp Utilities Keygen ,Audio Edit Magic 7.6.0.34 Keygen

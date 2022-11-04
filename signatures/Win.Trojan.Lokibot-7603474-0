@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Lokibot-7603474-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+=Error decoding URL style (%%XX) encoded string at position %d1Invalid URL encoded character (%s) at position %d
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+1Cannot perform this operation on a closed dataset#Nested dataset must inherit from %s(Filter expression incorrectly ter
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Modified:Unable to retrieve folder details for "%s". Error code $%x%%s: Missing call to LoadColumnDetails
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Execute not supported: %sfField '%s' is not the correct type of calculated field to be used in an aggregate, use an inte
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DataSource cannot be changed0Cannot perform this operation on an open dataset"Dataset not in edit or insert mode

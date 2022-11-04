@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36439
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off rem ofl! copy %0 temp$$$$.com >nul temp$$$$.com del temp$$$$.com

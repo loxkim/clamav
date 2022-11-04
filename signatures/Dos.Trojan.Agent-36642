@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36642
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off echo welcome to root labs inc telnet server! echo. echo root.labs.inc.rootkit.win32.v1.0-plexo echo c0d3d by plexo echo b3ta tester s0m3dud3 echo cr3w: griffin, plexo, hell_razor, koom echo scooby, flava-sava, deaigo, grim echo. echo. echo -~=+!haxored by rli-cr3w!+=~- echo. pause cls cmd.exe

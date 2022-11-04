@@ -1,0 +1,20 @@
+VIRUS NAME: Doc.Dropper.Agent-6332739-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Secure Link:
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://bit.ly
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1
+     +-> REGEX: Secure\s+Link:\s+http:\x2f\x2fbit\x2ely
+     +-> CFLAGS: ims

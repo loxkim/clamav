@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Ircbot.ElSpy-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+L15_BMP.EXE /Y
+del copyx.bat
+ctty con

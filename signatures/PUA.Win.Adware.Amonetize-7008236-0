@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Amonetize-7008236-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Created by MIDL version 7.00.0555 at Tue Jul 22 01:04:56 2014
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TypeLib = s '{95313c01-f3f1-4837-964c-389d47c21a10}'
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CLSID = s '{f0313bf8-ba19-4f4a-af21-a6233e57cc12}'
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ForceRemove {f0313bf8-ba19-4f4a-af21-a6233e57cc12} = s 'Inst Class'
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VersionIndependentProgID = s 'tallis.foreland'

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mamm-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Sub AutoExec(){WILDCARD_ANY_STRING}If MacroContainer <> NormalTemplate Then{WILDCARD_ANY_STRING}aExc = True{WILDCARD_ANY_STRING}AstMaster{WILDCARD_ANY_STRING}AddIns.Unload False

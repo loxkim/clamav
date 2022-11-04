@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IBBM-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+for %%a in (%2\*.bat %2*.bat) do call c:\_FukThat F I %%a

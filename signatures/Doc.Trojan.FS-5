@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.FS-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+£^ = Environ("WINDIR") & ".\TEMP\"{WILDCARD_ANY_STRING}Do Until £d = "'ÿ"

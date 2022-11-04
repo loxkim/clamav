@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-249
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+{fff=op.split("66");fff.op.replace("v");}function n031(n032){fff=op.split("66");}

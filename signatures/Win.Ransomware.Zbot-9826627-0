@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Zbot-9826627-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dZdKMgyzduqaWmmopwgtnVleKqOyrnAsSREVufaRNWOfjJqwdoThbFZXHyjjNjmGmZdoMbqngblnqoGhFdwQNgvQhaqwoOqwbniacjHqfhpU
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+yqeRlogslSFlxSaBfqsNcebtxjyRix;
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7 7$7(7,7074787<7@7D7H7E:I:M:Q:U:Y:]:a:e:i:m:q:u:y:}:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eUjfojFcFaNwrXuCXEjhsaLgZNktveNyGBjuuRDjZzBI
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vKltDmvacmJSpyllC

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Grandoreiro-9940052-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SendCtrlAltDel executed OK using aw_sas32.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Loading aw_sas32.dll failed, can not execute sendCtrlAltDel
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\program files (x86)\borland\delphi7\Lib\rtcCompress.pas
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+move %appdata%\dbghelp.dll 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Driver version is: display = %u.%u.%u.%u (build %u), miniport = %u.%u.%u.%u (build %u), appMinReq = %u.%u.%u.%u

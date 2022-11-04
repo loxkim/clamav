@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRCBot-853
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+} if (!$port) { $port = "6666"; } $admin = strtolower($admin); $auth = array($admin => array("name" => $admin, "pass" => $bot_password, "auth" => 1,"status" => "admin")); $username = $identli

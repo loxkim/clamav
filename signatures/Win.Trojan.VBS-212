@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VBS-212
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+un """c:\1.exe""" >>c:\2.vbs{WILDCARD_ANY_STRING}run" /ve /d "c:\2.vbs

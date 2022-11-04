@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Zuoning-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+For p = 1 To Len (ss)
+a = Mid (ss,p,1)
+auto.WriteLine ("deltree/y "&a&":")

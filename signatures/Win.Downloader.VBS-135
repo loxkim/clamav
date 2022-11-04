@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-135
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ponsebody%0d%0a%20%20%20%20s.savetofile%20fname%2c2%0d%0a%20%20%20%20s.close%0d%0a%20%20%20%20set%20q%20%3d%20df.createobject%28%22shell.applica

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Backdoor.Agent-9971587-1
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE WIDE FULLWORD ASCII
+ +-> DECODED SUBSIGNATURE:
+https://+:443/ClientAccess/Autodiscover/owa/auth/

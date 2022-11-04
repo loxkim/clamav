@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Small-4615
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+alshala7y.a.laserver:alshala7y.a.la:7000{WILDCARD_ANY_STRING(LENGTH<=178)}*.*:/dcc send $1

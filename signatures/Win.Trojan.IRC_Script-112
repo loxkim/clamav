@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-112
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if ($1 = chat.flood) { sockwrite -nt w3arab* privmsg $2 :DCC CHAT $2 1058633

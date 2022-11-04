@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autorun-426
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+"[autorun]{WILDCARD_ANY_STRING}shellexecute=wscript.exe {WILDCARD_ANY_STRING}.vbs

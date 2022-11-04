@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.TrickBot-7481468-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\Documents and Settings\Administrator\Desktop\TestExcel\TestExcel\Release\TestExcel.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+LdrGetProcedureAddress He's been programming since the  He's been programming since the 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+GetCurrentProcess2nvolved, so I've created a demo project that shows2nvolved, so I've created a demo project that shows2
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ShellExecuteW<I'm using the In-Place list that I used in previous versions<I'm using the In-Place list that I used in pr
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+TestExcel.EXE

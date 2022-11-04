@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Storm-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+r %%b in (..\*.bat) do if not %%b==..\AUTOEXEC.BAT call %0 $ %%b
+for %%a in (*.arj) do arj a -s1 %%a %f%

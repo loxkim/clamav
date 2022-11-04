@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-30
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+php echo $shhcmd; ?>" /> <input type="submit" value="execute" /><br /><?php echo "<textarea wrap=\"off\" readonly rows=\"25\" cols=\"100\">"; if(($shhptr=='0')&&($shhcmd!='')){ if(exec($shhcmd, $out)){ echo htmlentities(implode("\n",$ou

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ransomware.LooCipher-7001151-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+http://hcwyo5rfapkytajg{WILDCARD_ANY_STRING}@Please_Read_Me.txt{WILDCARD_ANY_STRING}LooCipher

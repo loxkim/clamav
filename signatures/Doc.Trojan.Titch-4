@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Titch-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+em(x).CodeModule.Lines(2, 1) = "'Titch" Then found = True{WILDCARD_ANY_STRING}eDocument.VBProject.VBComponents.Import ("c:\titch.tmp")

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Oldguy-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+For y = 7 To 25:{WILDCARD_ANY_STRING}Element{WILDCARD_ANY_STRING}c = c & Chr(Asc(Mid(w, y, 1)) Xor k)

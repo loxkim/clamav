@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Trojan.MSShellcode-43
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+awk 'BEGIN{s="/inet/tcp/4444/0/0";for(;s|&getline c;close(c))whi

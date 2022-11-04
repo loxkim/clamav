@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Qbot-9830256-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+,Circular reference to Connection not allowed/Operation not allowed on an empty OLE container
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Execute not supported: %sfField '%s' is not the correct type of calculated field to be used in an aggregate, use an inte
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error loading MIDAS.DLL+Connection not allowed to TConnectionBroker ParentConnection is not assigned"Record or field co
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid data packet)Must apply updates before refreshing data(Circular provider references not allowed
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%Invalid variant operation (%s%.8x)

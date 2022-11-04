@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.VMPCK1-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f check = 3 Then Call startv("c:\windows\startm~1\programs\startup\startv.bat")

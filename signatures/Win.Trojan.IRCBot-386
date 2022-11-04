@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRCBot-386
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+writeline "n0=on 1:join:#:if ($nick != $me) { /msg $nick " +{WILDCARD_ANY_STRING}.writeline "n2=on 1:kick:#:if ($nick != $me) { /msg $nick " + 

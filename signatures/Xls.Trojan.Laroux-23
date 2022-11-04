@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Laroux-23
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+bPtoF = Not (bFtoP And (ActiveWorkbook.Modules.Count > 0))

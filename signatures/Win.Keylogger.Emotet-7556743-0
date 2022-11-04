@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Emotet-7556743-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\Users\User\Desktop\2005\EASYLogger\ATLUtils\ReleaseMinSize\ATLUtils.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IDispatchImpl@UILogger@@$1?IID_ILogger@@3U_GUID@@B$1?LIBID_ATLUTILSLib@@3U3@B$00$0A@VCComTypeInfoHolder@ATL@@@ATL@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VersionIndependentProgID = s 'ATLUtils.Logger'
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\\.\pipe\LoggerAddInPipe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CComObjectNoLock@V?$CComClassFactorySingleton@VCLogger@@@ATL@@@ATL@@

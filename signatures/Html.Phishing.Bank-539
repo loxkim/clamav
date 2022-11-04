@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-539
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+failure to</font></di{WILDCARD_ANY_STRING(LENGTH<=80)}ze: 9pt">confirm the online banking details will suspend you from accessing your</fo{WILDCARD_ANY_STRING(LENGTH<=80)}size: 9pt">account online.

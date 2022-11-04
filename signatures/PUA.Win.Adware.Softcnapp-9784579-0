@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Softcnapp-9784579-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://www.znshuru.com/mjshopping/
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://config.znshuru.com/gw/mj/f0/ac4aabf16da80de90d76bfe12528d015.dat
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://config.znshuru.com/gw/mj/f0/dcc1370c6b58656c50d73ddd25ff9c89.dat
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://down.znshuru.com/gw/mj/f0/ea307288127eff692a47e3bfd954c15b.dat
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://down.znshuru.com/gw/mj/f0/a7f340e5c9f708fee1638abed8e8693f.dat

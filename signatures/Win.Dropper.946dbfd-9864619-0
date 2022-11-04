@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.946dbfd-9864619-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+LFILE NAME=C:\Program Files\Common Files\System\OLE DB\Data Links\VegaCon.udl
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\works\veprintmanager\untPrinterDialog.pas
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%FastReport http://www.fast-report.com
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@Sysutils@FindCmdLineSwitch$qqrx17System@AnsiStringrx29System@%Set$tc$iuc$0$iuc$255%o
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@Cxdropdownedit@TcxCustomComboBoxProperties@GetItems$qqrv

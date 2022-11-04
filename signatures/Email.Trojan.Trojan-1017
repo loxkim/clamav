@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-1017
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Subject: ACH Dept. Notification{WILDCARD_ANY_STRING(LENGTH>=280&&<=290)}Attached is a summary of Origination activity for

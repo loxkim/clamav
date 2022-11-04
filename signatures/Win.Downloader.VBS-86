@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-86
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+wsh.run "ftp -s:mail.txt",0,true wsh.run "c:\sssss.exe"

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kovter-7139646-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@*\AC:\Users\World\Desktop\Pr-Dstbs\2\fVwOzuWoLox4F6\kZ0WzwsFQnD3CZ.VBP
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Wm8ebr6vFlyZKqBNQUatCBeT7iuwQnCnbsIRC8RMcKsMnpbEokEW036qtW2E2LoFJn7PMaeH9OtO6VLrCtF3QkRlRPv5xiFMfUnK1myzM2tfV92D8rMfccLy
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Provider=Microsoft.Jet.OLEDB.3.51;Persist Security Info=False;User ID=Admin;Data g1njKaEL=C:\Program Files (x86)\Micro
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PROVIDER=;Data Source=C:\Program Files (x86)\Microsoft Visual Studio\VB98\BIBLIO.;Data =Microsoft..OLEDB..51
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+6VAyOSnMcEiYHVOVuWLIZKbYP2eDE20LFQXB04h34qOkwhfeL4Bx7vsLCYgXpXBOqJ1uYjZ5Ak2LgcTCMWgBNhpQ6rOZa0gLRtx9Wec6xSju33QahREvHujI

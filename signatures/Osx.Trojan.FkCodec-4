@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.FkCodec-4
+TARGET TYPE: ANY FILE
+OFFSET: 925
+DECODED SIGNATURE:
+update.codecm.com{WILDCARD_ANY_STRING(LENGTH==233)}return value to injected script

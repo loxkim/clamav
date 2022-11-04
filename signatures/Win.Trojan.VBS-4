@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.VBS-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+
+szApplication = "c:\Progra~1\Outloo~1\outl32c.exe" 
+Set hFSO = CreateObject("Sc

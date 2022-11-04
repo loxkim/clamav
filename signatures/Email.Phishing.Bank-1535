@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1535
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Subject: Account Insufficient funds{WILDCARD_ANY_STRING(LENGTH>=1400&&<=1450)}Sign In to  Cancel Detailed information

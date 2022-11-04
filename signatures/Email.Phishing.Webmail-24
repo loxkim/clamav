@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Webmail-24
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+estamos enviando{WILDCARD_ANY_STRING(LENGTH<=4)} e-mail de finaliza&ccedil;&atilde;o da compra efetuada

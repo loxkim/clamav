@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-146
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.createobject("wscript"+".shell","")onerrorresumenext{WILDCARD_ANY_STRING(LENGTH<=10)}.run

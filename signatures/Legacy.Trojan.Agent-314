@@ -1,0 +1,7 @@
+VIRUS NAME: Legacy.Trojan.Agent-314
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nf"				;1nf
+CmdDelete = "for", "%%%f in (*.inf) do set A=%%%f"		;1nf
+CmdDelete = "find", """1nf""< \vxer

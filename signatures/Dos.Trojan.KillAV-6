@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.KillAV-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+del C:\progra~1\kasper~1\avp32.exe{WILDCARD_IGNORE}{WILDCARD_IGNORE}del C:\progra~1\norton~1\*.ex

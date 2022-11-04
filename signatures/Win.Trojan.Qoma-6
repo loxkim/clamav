@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Qoma-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set W = wscript.CreateObject("WScript.Shell")
+W.RegWrite "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\Epy", "C:\Windows\system7.bat"

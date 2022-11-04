@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Zapchast-122
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+install unreal.exe config startup auto unreal.exe config crashrestart 1 unreal.exe start cls

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Charlie-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+rtSource = "c:\Windows\Command\Charles.sys"{WILDCARD_ANY_STRING}veVBProject.VBComponents("Charlie").Export ExportSource

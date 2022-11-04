@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-270
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+xvx=decryptor(m{WILDCARD_ANY_STRING(LENGTH<=16)}}vareqd4t=dfux0.length

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-9948392-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Execute not supported: %sfField '%s' is not the correct type of calculated field to be used in an aggregate, use an inte
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+"Circular datalinks are not allowed/Lookup information for field '%s' is incomplete0Cannot perform this operation on an
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+*Cannot perform operation -- DB is not open0Cannot perform operation -- DB is currently open
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Network is unreachable. Net dropped connection or reset.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+idapi32.DLL

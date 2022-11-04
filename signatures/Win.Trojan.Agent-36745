@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36745
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+fseek($f,$page*$keystrlenght); $mainkeyword=trim(fgets($f)); $main_keyword=str_replace(" ","_",$mainkeyword); fseek($f,0); $index_keyword=trim(fgets($f)); for($n=0;$n<$links_count;$n++){ if(rand(0,10)>$outlinks){ fseek($f,rand(0,$n_page-1)*$linkstrlenght); $str=explode("|",trim(fgets($flinks))); $url[$n]=$str[0]; $keyword[$n]=$str[1]; $key_word[$n]=str_replace(" ","_",$keyword[$n]); } else{ $k=rand(0,$n_page-1); fseek($f,$k*$keystrlenght); $keyword[$n]=trim(fgets($f)); $key_word[$n]=str_replace(" ","_",$keyword[$n]); if($dynamic){ $url[$n]=$way.$pagename.$k; } else{ $url[$n]=$way.$pagename.$k.".html"; } } } for($n=0;$n<$sentenc

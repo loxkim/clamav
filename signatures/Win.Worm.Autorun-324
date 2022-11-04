@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-324
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+shell\open\command=restore\{WILDCARD_ANY_STRING}\sweet.exe

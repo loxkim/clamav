@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Opey-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If (clan <> "A_OPEY_05") And (clan <> "ThisDocument") And (clan <> "Reference to Normal") Then Application.OrganizerDelete Source:=opendoc.F

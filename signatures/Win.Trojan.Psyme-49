@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Psyme-49
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+setattribute("classid", "clsid:7ec7b6c5-25bd-4586-a641-d2acbb6629dd"); var buffer=unescape("%0a0a"); while (buffer.length < 845) buffer+="\x0a" ; while (buffer.length< 1000) buffer+=unescape("%u0a0a");

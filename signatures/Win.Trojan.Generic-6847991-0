@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6847991-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Gaming\Desktop\Plasma RAT development\Plasma RAT 1.6.1\StubAdmin.bin.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Collections.Generic.IEnumerable<JLibrary.PortableExecutable.IMAGE_IMPORT_DESCRIPTOR>.GetEnumerator
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Collections.Generic.IEnumerator<JLibrary.PortableExecutable.IMAGE_IMPORT_DESCRIPTOR>.get_Current
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Collections.Generic.IEnumerator<JLibrary.PortableExecutable.IMAGE_SECTION_HEADER>.Current
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\windows\system32\drivers\etc\hosts

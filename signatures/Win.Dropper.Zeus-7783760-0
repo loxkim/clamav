@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-7783760-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Beobachtungsbataillonen\VB98\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+f69da66_f75c4_fddc266_f6ac__fe2d766_feffa66_f61f666_f74e3_ff8db66_fdff5_f73f7d7_f68e5
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cb66_f64c766_f71f15666_fdde941_fdbcf_fd8e__f76c966_ff8c583c1_3_f75da_fe8e166_febfb66
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+_f73f4c6_f71f34866_ff9f4_f62c_66_ffaf966_fedfa_f71d7b566_fdfe1_fecc8_f65c9_fd8e666_f
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Soroma reto.exe

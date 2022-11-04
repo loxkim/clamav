@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Gubed-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+")functiondecode(text)forx=1tolen(text)step2thebyte=chr(38)&"h"&mid(text,x,2)temptext=temptext&chr(thebyte)nextdecode=temptextendfunctiondocument.write(

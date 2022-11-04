@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Gamehack-6843185-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+documentID="xmp.did:ADC5F9A943AF11E094EC8BD6DCE7ECED"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Numpad 5: Unit Power Source - press key to fill the power bar for
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DOW2.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Numpad 8: Super Structure - press key and selected building or structure
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Numpad 0: Reset Units/Structures - press this key to reset ALL units and

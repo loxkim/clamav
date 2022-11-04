@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Fileinfector-9836765-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+= Process: c:\program files\windows defender\MpCmdRun.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+* Priority = 3, Interactive = 1, Owner is system = 1, Explicit proxy = 1, Proxy session id = -1, ServiceId = {9482F4B4-E343-43
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+= Module: C:\Windows\system32\wuapi.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+* Downloading from http://download.windowsupdate.com/d/msdownload/update/software/defu/2019/07/mpsigstub_ffb7e023a6e562d401216
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+* Downloading from http://download.windowsupdate.com/d/msdownload/update/software/defu/2019/09/as_engine_543ce9895ebdb7c2ed2b4

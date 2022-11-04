@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Sobrab-9753250-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+avast.com/support }}{\fldrslt{http://www.avast.com/support\ul0\cf0}}}}\f0\fs24 .\par
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+current version, or Updates supporting use of the Solution in connection with any versions of operating systems, email programs
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+9 un site ou un service, veuillez contacter le Fournisseur par courriel \'e0 l\rquote adresse familyspacehelp@avast.com.\par
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{HYPERLINK https://www.avast.com/vpn-territory }}{\fldrslt{https://www.avast.com/vpn-territory\ul0\cf0}}}}\f0\fs24 .\par
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\pard\widctlpar\sb100\sa100\kerning36\b\fs48 7. Privacy; processing of personal AND OTHER information\par

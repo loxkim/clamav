@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Goodday-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+xitem.Name = "Maniac" Then TExist = 1{WILDCARD_ANY_STRING}msg + "²»Òª½éÒâ¡£" + Chr(13) + Chr(13)

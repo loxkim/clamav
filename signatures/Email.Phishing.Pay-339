@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-339
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+online account password has expired. You need to update it now, or you will lose access to it{WILDCARD_ANY_STRING(LENGTH<=16)}use your personal page attached to this email

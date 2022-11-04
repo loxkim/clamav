@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Xaron-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+  fso.CopyFile("charon.js","C:\\charon.bat");

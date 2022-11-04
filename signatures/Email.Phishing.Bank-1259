@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1259
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+we seem to be having errors in the proper verification {WILDCARD_ANY_STRING(LENGTH<=4)}of your account

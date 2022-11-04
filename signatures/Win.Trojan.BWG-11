@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.BWG-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%ab%%ad%%ak%%ag% %am% %windir%%an%%al%%at%%aq%%ar%%af%%at%~1%an%%ak%%ar%%ad%%au%%ar%%aq%~1%an%WST.bat

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Nuc-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+xit
+echo n $nUc$.com>nUc.t
+echo e 0100 EB 3D 90 00 06 06 02 00 00 54 68 65 44 72 61 77>>nUc.t  
+echo e 01

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-639
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+board of directors <br>texas dow employees credit union<br></{WILDCARD_ANY_STRING(LENGTH<=150)}na><p><b><a href="http://www.google.com/url?sa=u&amp;start=4&amp;q=http://

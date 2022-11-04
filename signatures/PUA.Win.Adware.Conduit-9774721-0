@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Conduit-9774721-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\SmartBar\IEToolbar\Dev\6.23\6.23.1\BackgroundContainer\Release_StandAlone\TBUpdaterLogic.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://toolbar-ie-updater.qatbccint.com/update/?productId=TBUpdaterLogic&ver=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error while getting processor serial number. Error Code: 0x
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\SmartBar\IEToolbar\Dev\6.23\6.23.1\BackgroundContainer\Release_StandAlone\BackgroundContainer.pdb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TBUpdaterLogic.dll

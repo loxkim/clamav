@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Spectral-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+t.VBProject.VBComponents("Spectral").Export "C:\Av.log"{WILDCARD_ANY_STRING}.Text = "Important:" & Chr(13) & "Becareful, you must reboot your PC, now! I'm outta here!"

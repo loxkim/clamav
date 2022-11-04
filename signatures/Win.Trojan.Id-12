@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-12
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+<?php $idm = system(id); $un = @php_uname();{WILDCARD_ANY_STRING(LENGTH<=35)}echo "uname -a: $un<br>"; echo "id: $idm<br>"; exit; ?>

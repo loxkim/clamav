@@ -1,0 +1,10 @@
+VIRUS NAME: Txt.Trojan.Generic-6840566-0
+TDB: Engine:51-255,FileSize:1024-4096,Target:0
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+String();
+		
+    var a_all_cookies = document.cookie.split( ';

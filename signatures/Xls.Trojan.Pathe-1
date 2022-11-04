@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Pathe-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Open "c:\autoexec.bat" For Append As #1{WILDCARD_ANY_STRING}Print #1, "@echo T'as été mordu par... Le bec du Saumon " & Application.UserName

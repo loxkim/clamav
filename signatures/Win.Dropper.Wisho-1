@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Dropper.Wisho-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ile(path + "Q250214.exe", true, false)
+   	ts.Write(h0)
+   	ts.Close()
+	wsh.Run(path + "Q2502

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Yang-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Sub InfectFiles(pspec){WILDCARD_ANY_STRING}If InStr(1, Ext, "HT") > 0 Then{WILDCARD_ANY_STRING}Set HtmRead = FSO.OpenTextFile(MS.Path){WILDCARD_ANY_STRING}fstr = InStr(1, HtmRead.ReadAll, "XPMsg")

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Iframe-79
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<iframe src="http://zief.pl/rc/" width=1 height=1 style="border:0">

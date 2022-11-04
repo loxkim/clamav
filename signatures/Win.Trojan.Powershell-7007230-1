@@ -1,0 +1,58 @@
+VIRUS NAME: Win.Trojan.Powershell-7007230-1
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: (0|1|2|3|4|5|6|7|8)&(9=0|10=0)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+createfakesrv{WILDCARD_ANY_STRING}make_smb1_login{WILDCARD_ANY_STRING}fake_recv_struct=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vrsekafetaerc{WILDCARD_ANY_STRING}reffubtenvrsekafgduihl
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tcejbo-wen = tcartxe_emanelif_bmsftcmsz
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=tcurts_vcer_ekaf{WILDCARD_ANY_STRING}reffubtenvrsekaf
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sgalfnoitcetorpyromem-etadpu
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sqbfafgaiaaoae4azqb3ac0atwbiagoazqbjahqaiaboaguadaauafcazqbiaemababpaguabgb0ackalgbkag8adwbuagwabwbhagqacwb0ahiaaqbuagca
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+powershell -w hidden -ep bypass -c{WILDCARD_ANY_STRING(LENGTH<=100)}.downloadstring({WILDCARD_ANY_STRING(LENGTH<=100)}sleep -m
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+function invoke-reflectivepeinj
+ * SUBSIG ID 8
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.downloadstring('http://v.bddp.net/
+ * SUBSIG ID 9
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+child process protection
+ * SUBSIG ID 10
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+process_module_tbl

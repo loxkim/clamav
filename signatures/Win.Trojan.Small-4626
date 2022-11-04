@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Small-4626
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+run("myeclass.vbs.bat trnf",0,false)

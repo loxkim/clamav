@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Netsnak-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+fso.copyfile filexlm, Application.StartupPa{WILDCARD_ANY_STRING}rrentVersion\Run\WinUpdsv", "winupdsv.exe"{WILDCARD_ANY_STRING}ooks.Open Application.StartupPath & "\norma1.xlm"

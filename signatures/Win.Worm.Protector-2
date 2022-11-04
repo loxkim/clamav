@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Protector-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n32=#user.prot.add.chan off
+n33=raw 401:*{WILDCARD_ANY_STRING}mircdirsystem\protect.ini %User.Addr

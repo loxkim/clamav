@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-212
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<img src="http://paypal.us.{WILDCARD_ANY_STRING(LENGTH<=250)}/.secure/secure.gif" width="6{WILDCARD_ANY_STRING(LENGTH<=15)}" border="0" usemap="#{WILDCARD_ANY_STRING}"><area shape="rect" coords="{WILDCARD_ANY_STRING}" href="mailto:{WILDCARD_ANY_STRING}" href="http:

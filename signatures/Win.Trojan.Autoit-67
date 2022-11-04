@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Autoit-67
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+FileSetAttrib(@SystemDir & "\msmsgs.exe","+R+H+S")
+	FileDelete(@systemdir &"\wininit.exe")
+	FileDelete(@ProgramFilesDir & "\ESET\nod32.exe

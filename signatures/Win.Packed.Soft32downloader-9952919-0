@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Soft32downloader-9952919-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ject Management"},"download_url_id":"460324","retry":"http:\/\/access-ibm.soft32.com?no_download_manager","api_key"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ry","mirrors":["http:\/\/download.itnt.netdna-cdn.com\/36\/356721\/460324\/SI39894_32.exe","http:\/\/dlhah4j0ng4d8
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+t\/36\/356721\/460324\/SI39894_32.exe","http:\/\/files.soft32.com.s3.amazonaws.com\/36\/356721\/460324\/SI39894_32.e
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{"icon_url":null,"program_name":"Access IBM","version":"7.1","size":"179.07MB","file_name":"SI39894_32.exe","
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ec5fd6051d87abc1539190e60d02e"}

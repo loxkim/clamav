@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Multiplug-6951713-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+es?dbc.swap(a):(this.pftimes=1,this.store({epoch:1,url:syncer.url,
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+if(191<d&&224>d)var e=a.charCodeAt(c+1),b=b+String.fromCharCode((d&31)<<6|e&63),c=c+2;else var e=a.charCodeAt(c+1),f=a.charCode
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+a){return a||!this.content?(setTimeout(nz.init,1),this.def):this.content}},nz={init:function(){dbc.get(function(a){var b=a&&a.ep
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<body></body></html>(function(){var zycript={xlat:"abcdwxyzstuvrqponmijklefghABCDWXYZSTUVMNOPQRIJKLEFGH9876543210+/",decode:fu
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+new Date;try{return(a.getTime()-a.getMilliseconds())/

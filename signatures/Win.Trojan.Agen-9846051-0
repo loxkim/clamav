@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Agen-9846051-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Events already registeredKTrying to store a string of length %d into a field that can only contain %dY%s is an InterBase
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Y%s is an InterBase 7.0 function. Please upgrade to InterBase 7.0 to use this functonality
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnDockDrop4
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/Custom variant type (%s%.4x) already used by %s*Custom variant type (%s%.4x) is not usable2Too many custom variant type
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Theme manager  2001, 2002 Mike Lischke

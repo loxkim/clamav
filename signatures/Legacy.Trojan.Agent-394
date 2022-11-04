@@ -1,0 +1,10 @@
+VIRUS NAME: Legacy.Trojan.Agent-394
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ ExtName = "vbs" then
+Set b = entice.OpenTextFile(target.path, 2, True)
+b.write virus
+b.close
+end if
+next

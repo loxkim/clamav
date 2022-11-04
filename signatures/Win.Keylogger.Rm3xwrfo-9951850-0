@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Rm3xwrfo-9951850-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The domain controller certificate used for smartcard logon has been revoked. Please contact your system administrator wi
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+alert('Your security settings do not allow you to use this command.  Please visit http://www.mozilla.org/editor/midasdemo/secu
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+5TLoginCredentialService.GetLoginCredentials[2]$0$Intf
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The handle specified is invalid'The function requested is not supported.The specified target is unknown or unreachable0
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+editor.document.execCommand(actionString, false, actionData);

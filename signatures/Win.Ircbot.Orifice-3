@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Ircbot.Orifice-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:connect: { .timeran off | .timeran 0 600 av | av } 
+on *:error:*: halt
+alias av { .notice #m $+ $chr(105) $+ rc-orif $+ $chr(105) $+ ce $ip %

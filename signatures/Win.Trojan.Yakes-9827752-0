@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Yakes-9827752-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+sfascio.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;=MskFI)4S`O.{|y,it+Frph9oJdDOn{jIAB?G/x/a8u:@E7`:mSL9ZK<RcGF2pHl,CzA*1[HD:XSxGoyr06Nqs.>5e*Ii4+nM\]ZbJ>J|<;U[`R{?2mPTuOVm)D
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2YP+.c/8F4hwxu(NYeBWVpvzmAZM3ko;jq3-f|QQ(6KyDwJg<gyp8rB(9C<Pk.;=MskFI)4S`O.{|y,it+Frp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+qq3-f|QQ(6KyDwJg<gyp8rB(9C<Pk.;=MskFI)4S`O.{|y,it+Fr`h9SLdDOn{jIAB?G/x/a8u:@E7`:mSL
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+32mPTuOVm)KaL6c20^@\ELvL_Usn>b5(w5Pi7w2YP+.c/8F4hwxu(NYeBWVpvzmAZM3ko;jq3-f

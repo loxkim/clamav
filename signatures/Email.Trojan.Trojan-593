@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-593
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+We are sending you the keys for your account recovery. Please, save them ={WILDCARD_ANY_STRING(LENGTH<=2)}and keep&nbsp; in a reliable place

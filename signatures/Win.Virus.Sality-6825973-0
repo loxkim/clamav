@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6825973-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\WINDOWS\system32\ieframe.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+hotmail.com|live.com|yahoo.com|gmail.com|msn.com|lycos.com|aol.com|mail.com|netscape.com|tiscali.com|freeserve.com|supan
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+x10hosting.com|netai.net|110mb.com|07x.net|atspace.com|50webs.com|xtreemhost.com|zxq.net|fateback.com|t35.com|l4rge.com|
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://schemas.microsoft.com/cdo/configuration/
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+sendpassword

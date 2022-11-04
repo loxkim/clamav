@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-278
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+shell\auto\command=ravbin.exe

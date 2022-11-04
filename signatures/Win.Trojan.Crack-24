@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Crack-24
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+KasperskyLab\protected\AVP8\settings" , "EnableSelfProtection" ) 
+IF $VAR = 0x00000001 THEN EXIT 
+IF PROCESSEXISTS ( "avp.exe" ) THEN MSGBOX ( 0x00000040 , "Crack

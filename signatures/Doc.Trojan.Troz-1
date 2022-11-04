@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Troz-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox "Troz make you fun", vbInformation, "Microsoft Troz"

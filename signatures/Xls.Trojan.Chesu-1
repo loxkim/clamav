@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Chesu-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Application.StatusBar = "Viel Spaﬂ bei der Arbeit !"{WILDCARD_ANY_STRING}A.Sheets(Name).Copy Before:=Workbooks(M).Sheets(1)

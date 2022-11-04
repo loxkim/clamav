@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.BAT-32
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@echo off
+C:\windows\rundll32.exe user,disableoemlayer
+exit

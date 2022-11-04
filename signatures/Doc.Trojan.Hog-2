@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hog-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+With ActiveDocument.AttachedTempl{WILDCARD_ANY_STRING}OrganizerCopy Source:=mac$, {WILDCARD_ANY_STRING}Destination:=nor$, Name:=ar$(n%),{WILDCARD_ANY_STRING}Destination:=ActiveDocument, Name:=ar$(n%),

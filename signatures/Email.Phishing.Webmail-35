@@ -1,0 +1,7 @@
+VIRUS NAME: Email.Phishing.Webmail-35
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+You
+have has exceeded the storage limit{WILDCARD_ANY_STRING(LENGTH<=120)}you must reply to
+this e-mail providing us your

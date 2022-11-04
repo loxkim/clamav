@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-659
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+as part of our security measures, we regularly screen activity in the bank{WILDCARD_ANY_STRING}our system requires further account verification.

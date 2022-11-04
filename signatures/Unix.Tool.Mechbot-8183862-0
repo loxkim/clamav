@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Tool.Mechbot-8183862-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ctcp_commands:G(0,23)=ar(0,1);0;-1;(0,24)=s8name:(7,36),0,32;func:(0,25)=*(0,26)=f(0,20),32,32;;
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+servent:T(138,2)=s16s_name:(7,35),0,32;s_aliases:(142,2),32,32;s_port:(0,1),64,32;s_proto:(7,35),96,32;;
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+process_incoming_chat:F(0,20)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+netent:T(145,1)=s16n_name:(7,35),0,32;n_aliases:(142,2),32,32;n_addrtype:(0,1),64,32;n_net:(126,3),96,32;;
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rpcent:T(142,1)=s12r_name:(7,35),0,32;r_aliases:(142,2)=*(7,35),32,32;r_number:(0,1),64,32;;

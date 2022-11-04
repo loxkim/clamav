@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Autorun-344
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+For %%I In (C D E F G H I J K L M N O P Q R S T U V W X Y Z) Do (
+CD.>%%I:\%TestFile%
+CLS&&If Exist %%I:\%TestFile% Set ResultD=%%I:&&DEL %%I:\%TestFile% /Q
+)
+xcopy autorun.inf

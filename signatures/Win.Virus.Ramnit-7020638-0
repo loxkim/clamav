@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-7020638-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+#The process with ID %d is not valid&The Module with handle %d is not valid$File contains no version information
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Clipboard operation failed.SCannot set initial user data because there is not enough user data space allocated.(Failed t
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\DATA\Persidsky\Micropayments\ch.pdb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<!--This Id value indicates the application supports Windows Vista functionality -->
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unknown identifier '%s'..The property %s of type %s has no string value

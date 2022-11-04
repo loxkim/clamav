@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Emotet-7440946-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\Users\User\Desktop\2008\ListView2\WinRel\Listtest.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mfcm90.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+LISTTEST.EXE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+}jLsrY9mv9b%Ie2W}tMG3eGDulHItc{yFaY_vc}uLorE9qv$b8Ix2J}vMD3fGGunHKta{{FcYZvf}pLirC9wv"b>I
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dM}sW8cw6c*Hj3X|dLW2uFTt}IXurzhGpXNwr|dM}sW8cw6c*Hj3X|dLW2uFTt}IXurzhGpXNwr|dM}sW8cw6c*Hj3X|dLW2uFTt}IXurzhGpXNwr|dM}sW8cwc

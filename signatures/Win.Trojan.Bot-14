@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bot-14
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nick '.$nick . crl; $header .= 'user '.$username.' '.$localhost.' '.$remotehost.' :'.$realname . crl; fputs($fp, $header); $response = ''; while (!feof($fp)) { $response .= fgets($fp, 1024); if ($showrespone == 1) { echo "<br>".$response; } while (substr_count($response,crl) != 0) { $offset = strpos($response, crl); $data = substr($response,0,$offset); $response = s

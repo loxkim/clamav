@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Siechle-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If ad.codemodule.lines(li, 1) = "'Macro.W97.2000/Outlook98.2000/Vbs/Mirc.ElCheIsAlive. By Kalamar" T

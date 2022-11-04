@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSFav-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set oUrlLink = WshShell.CreateShortcut(Wscript.path & "\favorites\"{WILDCARD_ANY_STRING}oUrlLink.TargetPath = {WILDCARD_ANY_STRING}if fs.FileExists(wscript.path & "\Start{WILDCARD_ANY_STRING(LENGTH<=150)}.hta") then

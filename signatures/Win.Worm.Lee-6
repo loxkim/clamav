@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Lee-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+k.copy(dir1&"\windows.vbe"){WILDCARD_ANY_STRING}k.copy(dir2&"\syst{WILDCARD_ANY_STRING}sii.writeline "Event1=ON JOIN:#:/dcc tsend $nick " & fso.getspecialfolder(1) & "\system.vbe"

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Pexas-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+StatusBar = Chr(72) + Chr(111) + Chr(114) + Chr(82) + Chr(79) + Chr(114){WILDCARD_ANY_STRING}Microsoft\Office\", "XP") = "inXP"

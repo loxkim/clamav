@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Hosts-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+writeline "127.0.0.1 www.symantec.com"{WILDCARD_ANY_STRING(LENGTH<=200)}writeline "127.0.0.1 symantec.com"

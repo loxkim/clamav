@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Proteced-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+msg1 = "You are lucky!!! You have met UuM!!!" + cr

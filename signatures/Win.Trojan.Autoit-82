@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Autoit-82
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+DisableRegistryTools" , "REG_DWORD" , "1" ) 
+REGWRITE ( "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" , "Hidden" , "REG_DWORD" , "2" )

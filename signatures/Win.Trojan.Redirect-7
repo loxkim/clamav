@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Redirect-7
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+window.location={WILDCARD_ANY_STRING(LENGTH<=100)}//:ptth{WILDCARD_ANY_STRING(LENGTH<=500)}returns.split("").reverse().join("");

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Istbar-233
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+</IFRAME>');popIframe.document.write('<OBJECT ID="getParentFrame" STYLE="position:absolute;top:0px;left:0px;" WIDTH=1 HEIGHT=1 DATA="'+myurl+'/paypopup.html" 

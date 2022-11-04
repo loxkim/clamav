@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Worm.HappyTime-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+at a KING-SIZE PIG!!!</title" & ">"
+window.Close
+End Sub
+Sub Rt()
+Dim mPath
+On Error Resume Next
+mPath =

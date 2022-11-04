@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1049
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if we don't receive your account verification within {WILDCARD_ANY_STRING(LENGTH<=25)} from you, we will further locking down your account until

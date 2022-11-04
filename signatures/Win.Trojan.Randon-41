@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Randon-41
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+start C:\WINDOWS\system32\drivers\etc\LSASS.exe C:\WINDOWS\system32\drivers\etc\rand.bat
+start C:\WINDOWS\system32\drivers\etc\LSASS.exe

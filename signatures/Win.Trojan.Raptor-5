@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Raptor-5
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+@echo off attrib -r -s -h c:\autoexec.bat del c:\autoexec.bat

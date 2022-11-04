@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Adwarex-9976129-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+etProcessId
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+''%s'' is not a valid date#''%s'' is not a valid date and time
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*)-AACMLNHGIAAC879/.1''*$$("!%"!% # # # # # # # # # # # # # # # # # # # # # # # # # # # # #=<@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+''*879AAC;:=214''* #879dcclkk547 # #214AAC # # # # # # # # # # # # # # # # # # # # # # # # #/.1
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ #AACOOQOOQHGIAAC547*)-"!%$$( #"!% # # # # # # # # # # # # # # # # # # # # # # # # # # #tst

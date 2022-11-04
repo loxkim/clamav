@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Geli-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+del "c:\programme\mcafee\*.*"{WILDCARD_ANY_STRING}"c:\programme\symantec\*.*"

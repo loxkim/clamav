@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Downloader-157
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if count = 0 then tmp = "c:\windows\temp" else if count = 1 then tmp = "c:\" else if count = 2 then tmp = "c:\temp" else if count = 3 then tmp = "d:\windows\temp" else if count = 4 then tmp = "d:\"

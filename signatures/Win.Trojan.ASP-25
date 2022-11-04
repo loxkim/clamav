@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ASP-25
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+copyfile sfile,mbfilepath{WILDCARD_ANY_STRING(LENGTH<=20763)}bbs/test.asp

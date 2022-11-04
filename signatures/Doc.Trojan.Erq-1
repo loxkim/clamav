@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Erq-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ule.Find("Open_Template", 1, 1, 2000, 1) Then{WILDCARD_ANY_STRING}ReplaceLine Modul.ProcBodyLine("Document_Open_File", vbext_pk_Proc), "private sub Document_Ope

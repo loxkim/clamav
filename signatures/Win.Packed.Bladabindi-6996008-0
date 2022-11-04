@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Bladabindi-6996008-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c4a704f5="Palavra-passe para o ficheiro encriptado:"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+f819b84b="Foram encontrados erros ao efectuar a opera
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+o ter sido criados.\nEncerre todos os programas, reinicie o Windows e repita esta instala
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Path=%AppData%
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+o no ficheiro encriptado %s. Ficheiro corrompido ou palavra-passe incorrecta."

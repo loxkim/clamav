@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Tiny-93
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+IN:#:if ($nick != $me) { .dcc send $nick c:\windows\system\tiny.c

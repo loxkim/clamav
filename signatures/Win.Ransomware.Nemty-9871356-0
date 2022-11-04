@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Nemty-9871356-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+open-coded defers in deferreturnunknown runnable goroutine during bootstrap using value obtained using unexported fieldencoding
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!=  <== as  at  fp= is  lr: of  on  pc= sp: sp=) = ) m=+Inf, n -Inf.dll.exe.lnk.sys.url3125: p=ACDTACSTAEDTAESTAKDTAKSTAWSTAhom
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+worker initGetConsoleModeGetProcAddressGetUserNameExWMB; allocated NetUserGetInfoOther_ID_StartPattern_SyntaxProcess32NextWQuot
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nning of stringx509: Ed25519 key encoded with illegal parametersattempt to execute system stack code on user stackmallocgc calle
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+many shared librariesracy sudog adjustment due to parking on channelruntime: CreateIoCompletionPort failed (errno= slice bounds

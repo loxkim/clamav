@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Barisada-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+khm.xls "가 없으툈E새로 만든다."{WILDCARD_ANY_STRING}If myfile <> "khm.xls" Then Workbooks("khm.xls").Close savechanges:=True

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Crypren-9845819-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+K###;&&&=+++<+++;555:6669<<<7CCC5JJJ4MMM2NNN1UUU0YYY.ccc,eee+ggg*lll(ooo'rrr&xxx$
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!|||#|||#xxx$uuu%rrr&rrr&ooo'ooo'lll(lll(jjj)jjj)ooo'UUU0SSS1rrr&jjj)jjj)jjj)lll(lll(ooo'ooo'rrr&rrr&uuu%xxx$|||#
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+L"""<!!!>***=+++<555:7778<<<7CCC5EEE4MMM2PPP0WWW/YYY.ccc,ggg*jjj)lll(yyy&xxx$|||#
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"xxx$uuu%rrr&ooo'jjj)ggg*eee+ccc,```-YYY.WWW/UUU0NNN1KKK3KKK3EEE4EEE4III10,,@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+G3337555:66697778<<<7BBB6CCC5JJJ4MMM2NNN1UUU0YYY.```-ccc,ggg*jjj)lll(rrr&uuu%|||#

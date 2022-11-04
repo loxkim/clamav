@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Babyv-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ag.writeline "fv(214)=""windows优化大师.EXE"""

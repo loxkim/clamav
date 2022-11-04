@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Onlinegames-45
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for i,v in pairs(addondir) do local match = string.match(v, "addon_(.*)%.lua"); if( not match ) then match = string.match(v, "userfunction_(.*)%.lua"); end; if( match ~= nil ) then include("/userfunctions/" .. v); logmessage("bot addon 

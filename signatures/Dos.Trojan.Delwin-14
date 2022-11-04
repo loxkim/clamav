@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Delwin-14
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo I love u with all my ... HATE ... RATTY >> c:\windows\command.com

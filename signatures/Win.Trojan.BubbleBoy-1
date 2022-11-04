@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.BubbleBoy-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.RegWrite "HKEY_LOCAL_MACHINE\Software\OUTLOOK.BubbleBoy\","OUTLOOK.BubbleBoy 1.0 by Zulu"

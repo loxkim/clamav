@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Emotet-9869514-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mailto:hdietrich@gmail.com
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Cannot find 'XQueueServerTest.exe', please exit this program and start server manually.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Queued %d messages in %.3f seconds (%d messages/sec)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Vl1gq5AbdzTImw0TNvtsOI2tXKryfgt8ISvVatYuZBdMEsarOFN2e56lpcQdom7o6nTETt
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MT97fXBfFEGMmgEX0EKSN9CG1z3q47RCOsSMKVf0dDHooQXQqLVjRcEj5R2krHVfdLAnUs

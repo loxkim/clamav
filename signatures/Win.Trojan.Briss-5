@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Briss-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+dd.Code]
+bridge.dll=bridge.dll
+jao.dll=jao.dll
+
+[bridge.dll]
+file-

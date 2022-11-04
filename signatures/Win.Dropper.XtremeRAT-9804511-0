@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.XtremeRAT-9804511-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2Z}&Qs!>h'$g%$c77f<B[.1LW\q^gp[fjXbgNWaU_e_jn_jnAK`
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+,Tw$Mp!+f&!j58jEO`&-DLRg`ivdnw[gkT_dUae[fj_koH\e
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%_(&kJLmENW07HPVhckwku~ku}Wdfepqq}~WdnGUg
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Jl@@d]^jUU]AFZW`ofn}mv~gqyWbdZjoJYaQ^kEP_
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+9W|7Y}5X|.Sw+Mr&Aj#;^=LdV\lahsmvyv

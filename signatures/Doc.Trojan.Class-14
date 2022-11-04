@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-14
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sytx = Abs(jx) Then rylx.Item(Cos(Atn(CInt(1)))).codemodule.replaceline Abs(xj), "Sub AutoClose()"

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Wazzu-39
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Answer = WordBasic.MsgBox("Infect?", 36){WILDCARD_ANY_STRING}ordBasic.MacroCopy WordBasic.[FileName$]() + ":autoClose", "Global:AutoClose"

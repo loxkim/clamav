@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.Fruitfly-6665477-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+use strict;use warnings;use IO::Socket;{WILDCARD_ANY_STRING}{die if!defined syswrite{WILDCARD_ANY_STRING}(scalar(reverse {WILDCARD_ANY_STRING}INET(PeerAddr=>scalar(reverse

@@ -1,0 +1,11 @@
+VIRUS NAME: Html.Trojan.IRCAtaka-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+alias unilook.stat {
+  if ($sock(unilook.*,0) < 50) {   
+    :start
+    inc %unilook.page
+    if (%unilook.page == 256) {
+      timerunilook_start off 
+      

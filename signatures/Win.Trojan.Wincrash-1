@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Wincrash-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+(window.alert(" 欢迎你来到专为你而做的整人网页！ "))

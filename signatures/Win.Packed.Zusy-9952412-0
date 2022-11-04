@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zusy-9952412-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Specifies the target size for the bitmap created with the Clip property.WWC
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Same as the standard Picture property except that it only supports bitmap (.BMP) files.WWW5
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+'Microsoft PictureClip Control 6.0 (SP6)WSame as the standard Picture property except that it only supports bitmap (.BMP
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Picture format not supported Unable to obtain display context&Unable to obtain memory device context
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Picture Clip ActiveX Control - Version 6.0 (SP6)

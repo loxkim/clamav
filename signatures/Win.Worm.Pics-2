@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Pics-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ce("MAPI").AddressLists(1).AddressEntries(x) >> C:\email.vbs{WILDCARD_ANY_STRING}en C:\suPs\olaf.xyv snake.bat

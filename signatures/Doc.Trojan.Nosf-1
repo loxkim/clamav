@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nosf-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set mybod = Date + "#" + Time + "#" + uin + "--- from t35 macros by Nosferatu" + "http://www.ringo82.nar

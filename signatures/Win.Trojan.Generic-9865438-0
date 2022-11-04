@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9865438-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+F:\Office\Target\x86\ship\postc2r\x-none\clview.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$FunctionObjectWrapper@V<lambda_b7d38fe40d2a09cd5f568466081c4f3f>@@X$$V@Objects@Details@Mso@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%s/content/popuperror.htm
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/content/searchtransition.htm
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Func_impl@V<lambda_9f823c94f3335c4574f711e117366716>@@V?$allocator@H@std@@_NI@std@@

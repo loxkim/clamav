@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35810
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+asc(mid(da,i,1))"+vbcrlf+"if xian

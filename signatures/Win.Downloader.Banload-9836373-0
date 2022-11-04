@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Banload-9836373-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+No error,Failure opening file to be stored in cabinet,Failure reading file to be stored in cabinet
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Cabinet not found-Cabinet file does not have the correct format*Cabinet file has an unknown version number
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Failure writing to target file4Cabinets in a set do not have the same RESERVE sizes2Cabinet returned on fdintNEXT_CABINE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+croExecuteOnExtract
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ Clipboard does not support Icons.Invalid class reference for TAppletApplication

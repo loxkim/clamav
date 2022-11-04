@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7395424-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0¯10
+	’&‰“ò,d
+AJXR87AS251A0?U8iPhone Distribution: Hangzhou H3C Technologies Co., Ltd.10U
+AJXR87AS251,0*U
+#Hangzhou H3C Technologies Co., Ltd.10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0171120015046Z201119015046Z

@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.MSpell-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+module.Lines(1, 1) <> "'||narayan||'"{WILDCARD_ANY_STRING}Caption = "Ok.'||narayan||'"

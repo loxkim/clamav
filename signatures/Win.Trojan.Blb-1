@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Blb-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+bost goto jedem_blb
+for %%v in (*.bat \*.bat ..\*.bat %windir%\*.bat) do call %0 /blbost %%v
+goto end_blb
+:

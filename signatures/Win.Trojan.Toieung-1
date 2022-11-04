@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Toieung-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+w=string;}md="a";c="";i=0;s=a[2-1];while(i!=s.length){c=c+w["fromcharcode"](s[i]+11);i++;}e=window["eval"];if((aa=="ncti")||(aa=="ctio")||(aa=="unct"))e(c);

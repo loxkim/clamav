@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Newbian-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+& Chr(34) & "5" & Chr(34) & ">Don't forget your Pajamas</font><BR><font size=" & Chr(34) & "1" & Chr(34) & ">a message from Kefi</font>

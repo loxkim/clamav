@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Grez-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+wah.Run "Cmd.exe /c hftp.exe 1323 1324 %systemroot%\system32 qnx dragon",0

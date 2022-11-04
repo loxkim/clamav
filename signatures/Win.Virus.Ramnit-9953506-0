@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9953506-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+(CC3-115-%08x)uDet finns ingen PC-FAX-drivrutin installerad i din dator.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+(CC3-116-%08x)mDet finns ingen skrivare installerad i din dator.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+k igen. Installera om programsviten MFL-Pro Suite om felet 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+mma hur ControlCenter3-programmet ska se ut genom att v
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+- Om skannern fungerar med ett annat program kan du f

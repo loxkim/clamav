@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.FS-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+For Each £\ In VBE.VBProjects{WILDCARD_ANY_STRING}If £\.Protection <> 1 And £\.Description <> "17th"

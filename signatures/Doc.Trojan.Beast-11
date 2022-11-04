@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Beast-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If DateDiff("s", CDate(GetSetting("3BEPb", "Startup", "date", 0)), Time) > 300 Then{WILDCARD_ANY_STRING}ActiveDocument.Shapes("3BEPb").Activate

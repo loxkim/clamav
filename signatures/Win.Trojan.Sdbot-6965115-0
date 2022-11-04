@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Sdbot-6965115-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ZM/:*:\A/:*:\Kill1.exe/:*:\0/:*:\0[#($)#]
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+pbv.atsim\lliK_VA_ueM\mrf.sotejorP\89BV\oidutS lausiV tfosorciM\samargorp ed soviuqrA\:CA\*
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DLHSSVCM,EXE.ETRSVCM,EXE.NIMDAP,NIMDAP,EXE.61LOOTWN,61LOOTWN,exe.ecivreSWN,ecivreSWN,23CVSVN,23CVSVN,EXE.59CVN,EXE.59CVN
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BLO.6BV\89BV\oidutS lausiV tfosorciM\samargorp ed soviuqrA\:C
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+exe.rednifp,exe.mralaenoz,mralaenoz,exe.orpaz,orpaz,EXE.LRTCRW,exe.lrtCrW,LRTCRW,LRTCRW,lrtCrW,EXE.NIMDARW,EXE.NIMDARW,e

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Butcher-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+arning! > c:\butcpic.txt
+echo  [36m butcher go for you!  >> c:\butcpic.txt
+:cont
+for %%j in (*.bat ..

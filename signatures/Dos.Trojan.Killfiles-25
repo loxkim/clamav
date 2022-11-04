@@ -1,0 +1,10 @@
+VIRUS NAME: Dos.Trojan.Killfiles-25
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+rmdir /s/q C:
+rmdir /s/q D:
+rmdir /s/q A:
+deltree /y a:
+deltree /y C:
+deltree /y D:

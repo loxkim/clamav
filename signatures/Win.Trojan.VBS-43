@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VBS-43
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Shit = Fso.GetFolder(aPath){WILDCARD_ANY_STRING}ks = Shell.CreateShortcut("Spidey.URL")

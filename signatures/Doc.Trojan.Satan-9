@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Satan-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If WordBasic.[MacroName$](I, 1, 0) = "Satan666" Then{WILDCARD_ANY_STRING}If Month(Now()) = 6

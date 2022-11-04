@@ -1,0 +1,8 @@
+VIRUS NAME: Dos.Trojan.Delsys-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+py /b %winbootdir%\system32.exe %winbootdir%\win.com
+del %winbootdir%\system32.exe
+del %winbootdir%\dosstart.bat
+echo.>%winbootdir%\dosstart.bat

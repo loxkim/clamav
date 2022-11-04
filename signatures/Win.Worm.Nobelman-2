@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Nobelman-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ead(strReg & "Components\RARInfector\File" & (n-i+1))
+		wshShell

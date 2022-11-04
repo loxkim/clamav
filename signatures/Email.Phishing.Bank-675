@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-675
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+However, failure to update your records will result in account suspention.{WILDCARD_ANY_STRING(LENGTH<=6)}Please update your record on or before 

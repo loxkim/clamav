@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Starter-9
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+clsid("{f935dc22-1cf0{WILDCARD_ANY_STRING(LENGTH<=108)}run(path+"upload.exe

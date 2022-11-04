@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-229
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear user of paypal services,</center></b></f{WILDCARD_ANY_STRING(LENGTH<=50)}congratulations !!! you won $100 from paypal .your money will be transferred to your credit card

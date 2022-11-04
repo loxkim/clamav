@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-613
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<title>security update notification</title></head><body><p><a href="http://{WILDCARD_ANY_STRING}nationwide.jpg" width="800" height="600"></a></p></b

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Adware.Bundlore-9476999-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/avivais/Development/clients/webtools-clone/Build/webtools.build/Release/common.build/Objects-normal/x86_64/Logger.o
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_$ss17_NativeDictionaryV7_insert2at3key5valueys10_HashTableV6BucketV_xnq_ntFSo33NSWorkspaceLaunchConfigurationKeya_ypTg5
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_$s6common15AppExtInstallerC20appleScriptSupported33_001AFE07F44FC663397D28F4B2AED819LLSbvpZ
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_$ss12_ArrayBufferV19_getElementSlowPathyyXlSiF6common15AppExtInstallerC0H9ExtensionC_Tg5
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/avivais/Development/clients/webtools-clone/common/

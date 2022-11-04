@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Ircbot.Gafgyt-7726080-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/bin/busybox echo -en '%s' %s %s && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+No child process
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/bin/busybox cp /bin/busybox retrieve && >retrieve && /bin/busybox chmod 777 retrieve && /bin/busybox cp /bin/busybox .t && >.t 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Connection reset by network
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&& /bin/busybox chmod 777 .t

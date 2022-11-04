@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-4-6561308-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Archivos de programa\Microsoft SQL Server\80\Tools\Binn\sqlmangr.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+:\MSDE2000\Mssql$Physis\BinnMSSQL$Physis\Binn\sqlservr.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+:\MSDE2000\Mssql\BinnMSSQL\Binn\sqlservr.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\MSDE\Setup\SqlRun02.msi /settings 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\MSDE\Setup\SqlRun01.msi /settings 

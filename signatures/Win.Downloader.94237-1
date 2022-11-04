@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.94237-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+maria.exe{WILDCARD_ANY_STRING}amas\crrrs.ex

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Autorun-463
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+[autorun]
+OPEN=recycle.{{WILDCARD_ANY_STRING}shell\open\Command=recycle.{{WILDCARD_ANY_STRING}shell\explore\Command=recycle.{

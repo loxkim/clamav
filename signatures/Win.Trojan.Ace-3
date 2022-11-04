@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Ace-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo "<hr/>注: 只有命令行程序在CMD.EXE运行环境下才可以进行临时文件回显(利用"">""符号),其它程序只能执行不能回显.<br/>"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35336
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+writex.responsebodys.savetofilefname1,2s.closesetq=df.createobject(yuqi,"")q.shellexecutefname1,"","","open",0

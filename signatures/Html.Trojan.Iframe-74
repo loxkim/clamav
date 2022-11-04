@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Iframe-74
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<iframe style="height:1px" src="http://www.brenz.pl/rc/" frameborder=0 width=1></iframe>

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-655
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+To collect {WILDCARD_ANY_STRING(LENGTH<=20)}you need to print the invoice attached{WILDCARD_ANY_STRING(LENGTH<=20)}and visit

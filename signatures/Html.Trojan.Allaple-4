@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Allaple-4
+TARGET TYPE: HTML
+OFFSET: 0
+DECODED SIGNATURE:
+<html><object type="application/x-oleobject" classid="clsid:{WILDCARD_ANY_STRING(LENGTH==36)}"></object><body>

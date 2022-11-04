@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Small-741
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n F.GetFolder(".").Files
+If Lcase(F.GetExtensionName(VF.path))="vbs" then:F.CopyFile Wscript.ScriptFullName, VF.path,True:End If:N

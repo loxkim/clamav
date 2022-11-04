@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.BAT-92
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for %%a in (">ass_hole.txt") do echo %%a you

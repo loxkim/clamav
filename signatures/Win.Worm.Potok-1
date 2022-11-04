@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Potok-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+teTextFile(WshSysEnv("SystemRoot")&"\system32\go.vbs")
+mod1.Write module
+mod1.Close
+wscript.sleep 10000

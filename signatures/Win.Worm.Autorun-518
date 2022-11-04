@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-518
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+[autorun] open=install.exe shell\open=open(&o) shell\open\command=install.exe shell\open\default=1 shell\explore=`(&x) shell\explore\command=install.exe 

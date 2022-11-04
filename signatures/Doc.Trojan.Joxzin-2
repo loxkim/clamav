@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Joxzin-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+CopiaMacro "Generale:AutoOpen", Nf$ + ":AutoOpen"{WILDCARD_ANY_STRING}CopiaMacro "Generale:AutoClose", Nf$ + ":AutoClose"{WILDCARD_ANY_STRING}MacroCopy "Global:AutoClose", Fn$ + ":AutoClose"

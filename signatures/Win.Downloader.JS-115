@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.JS-115
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+pluginobject.loadmodule('download.php?did=od-stnd246&country=sp&', 'od-stnd246.exe', 'od-stnd246.exe', '', '', '-a-d-t');

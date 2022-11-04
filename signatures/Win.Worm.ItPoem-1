@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.ItPoem-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+h\registry.vbs") if c.attributes <>2 then strada.copy (windir&"\samples\wsh\registry.vbs"), true c.attributes = 2 end if reg.regwr

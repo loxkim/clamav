@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Ircbot.Flood-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+indows]
+main=67,666,75,450,2
+wlist=22,548,22,266,0
+wchannel=22,548,22,266,0
+wquery=88,548,88,266,0
+
+[Aliases]
+alias0=/verflood /ctcp

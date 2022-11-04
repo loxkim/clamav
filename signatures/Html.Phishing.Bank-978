@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-978
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+como resultado muchas cuentas bancarias quedaron no activadas.{WILDCARD_ANY_STRING(LENGTH<=7)}para activarlas es necesario entrar en su cuenta por internet

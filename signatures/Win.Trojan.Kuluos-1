@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Kuluos-1
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Start monitoring %s, Polarity = %d, Handle = 0x%p, UserData %p
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+EV_HMAC_OID_SV_DRV_OBJ_ADDR

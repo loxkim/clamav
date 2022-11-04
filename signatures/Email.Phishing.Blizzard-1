@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Blizzard-1
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+From: "noreply@battle.net"{WILDCARD_ANY_STRING(LENGTH>=50&&<=60)}Subject: World of Warcraft - Account Investigation

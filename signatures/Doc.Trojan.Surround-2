@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Surround-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Not ((thing.Name = "Antivirii") Or (thing.Name = "ThisDocument")) Then

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Neurevt-9880047-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+set wshshell = createobject("wscript.shell") wshshell.run{WILDCARD_ANY_STRING(LENGTH>=20&&<=50)}.bat", 0, false

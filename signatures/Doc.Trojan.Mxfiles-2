@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mxfiles-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If StrComp(TDFname, destin, 1) <> 0 Then{WILDCARD_ANY_STRING}nation:=destin, Name:="girls", Object:=wdOrganizerO

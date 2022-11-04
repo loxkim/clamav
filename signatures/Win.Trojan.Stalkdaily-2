@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Stalkdaily-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+post "+surl+"{WILDCARD_ANY_STRING}/x.php?c=" + cookie{WILDCARD_ANY_STRING}mupdate[5]="@twitter

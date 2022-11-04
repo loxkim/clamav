@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-34545
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Windows\CurrentVersion\Run{WILDCARD_ANY_STRING(LENGTH<=50)}"%s\Rundll32.exe" "%s\shell32.dll",Control_RunDLL "%s"

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Muna-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Word.Selection.TypeText ("I AM HERE, READY AND WORKING (ver: " + MacroContainer.AutoTextEntries.Item("- AAAAAAAB").Value + Chr(13) + Chr(10))

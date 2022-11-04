@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Metamorph-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MetaInst = WordBasic.[GetPrivateProfileString$]("Infected", "Reponse", "Metamorph.ini")

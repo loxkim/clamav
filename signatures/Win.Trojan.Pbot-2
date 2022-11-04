@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Pbot-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if(count(mcmd)>4) { this->udpflood(mcmd[1],mcmd[2],mcmd[3],mcmd[4]); } break; case "tcpflood": if(count(mcmd)>5) { this->tcpflood(mcmd[1],mcmd[2]

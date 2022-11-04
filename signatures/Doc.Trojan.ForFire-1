@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.ForFire-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+fName = Dir(pName & "*.doc", sAttr){WILDCARD_ANY_STRING}ts.Open FileName:=InfectDoc, ConfirmConversions:=False, ReadOnly:=Fa

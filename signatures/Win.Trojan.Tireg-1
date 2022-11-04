@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Tireg-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+r=("HKLM\Software\Microsoft\Windows\CurrentVersion\Run\kjhik")
+xxvsnbdg.RegWrite r,(jslxvslx.GetSpecialFolder(1)&"\Copy.vbs")

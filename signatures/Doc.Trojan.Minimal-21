@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Minimal-21
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If b = ActiveDocument Then Set c = NormalTemplate Else{WILDCARD_ANY_STRING}If .lines(14, 1) <> "'string2" Then

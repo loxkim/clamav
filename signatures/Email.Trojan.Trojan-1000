@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-1000
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Please review the transaction details in attached report{WILDCARD_ANY_STRING(LENGTH<=16)}This E-Mail box is not equipped to handle replies

@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-36875
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+import getopt try: optlist, args = getopt.getopt(sys.argv[1:], "c:s:p:vit:hp:e", ["help", "client=", "server=", "port=", "ids-evasion", "verbose", "polling-type=", "proxy="

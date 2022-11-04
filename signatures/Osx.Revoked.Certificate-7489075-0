@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7489075-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0¡10
+	’&‰“ò,d
+S48V58NA5A1C0AU:Developer ID Application: Patterson Sebastian (S48V58NA5A)10U
+S48V58NA5A10U
+Patterson Sebastian10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$Developer ID Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0171220212425Z221221212425Z

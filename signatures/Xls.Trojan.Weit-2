@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Weit-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Application.OnSheetDeactivate = ActiveWorkbook.Name & "!EXCELLS.weitergehts"

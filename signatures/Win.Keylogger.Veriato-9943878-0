@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Veriato-9943878-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+b<username>;<keyword entered>;<where found>;<context data>;<date>;<computername>;<running program>;
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+JUSER_NAME;KEYWORD;FIELD_NAME;CONTENT;DATE_TIME;COMPUTER_NAME;PROGRAM_NAME;
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Do you wish to continue ?5The data directory that you have entered is invalid !KThe Portal Credentials were not verified
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ENote: You must specify the MySpace User Profile ID, see Help section.'The share named "%s" will be deleted.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+to add to the list, e.g. chrome.exe

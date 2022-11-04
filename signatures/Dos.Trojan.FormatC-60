@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.FormatC-60
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@ctty nul{WILDCARD_ANY_STRING(LENGTH<=100)}echo y| format c: /q

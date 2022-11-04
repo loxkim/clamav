@@ -1,0 +1,8 @@
+VIRUS NAME: PUA.Tool.Countermeasure.NetshShellCodeRunner-9804786-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+49c045bc-59bb-4a00-85c3-4beb59b2ee12

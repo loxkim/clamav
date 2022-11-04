@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Ircbot.Spth-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Th%
+set dd=0%SpTh%
+set ee=0%SpTh%
+set ff=0%SpTh%
+set gg=0%SpTh%
+find "SpTh"<%0 >spth.bat
+set sec=A%SpTh%
+:TitanMoon

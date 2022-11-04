@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-267
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+open= shell\open\command=wscript.exe .\pinoyz.vbs

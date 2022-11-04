@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Rebber-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$c = substr($c,0,866);{WILDCARD_ANY_STRING}if (!strstr($cont,"[WEbbER]"))

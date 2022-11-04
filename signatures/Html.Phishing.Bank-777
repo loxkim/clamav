@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-777
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+you must confirm your record{WILDCARD_ANY_STRING(LENGTH<=7)}before you can enter online banking. you can confirm your record here. click on

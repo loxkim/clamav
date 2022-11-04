@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Stantinko-9853005-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ACS: Cannot call IsValidSecurityDescriptor(). GetProcAddress() failed on advapi32.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+e:\amigo_browser_38\amigo_3.0\src\chrome\browser\extensions\api\webrtc_logging_private\webrtc_logging_private_a
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\b\58d0ead0cc61def5\sw\physx\PhysXSDK\2.7.4\RELEASE\bin\win32\PhysXCore.dll.pdb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:&?bind@trace@pprofiling@@yAXPAVIReader@12@PAXPAVTpStartAsyncIoOperation_v0@post@win@12@@Z
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Method IDirect3DDevice9::GetFVF failed execution during traversal with error 0x%x

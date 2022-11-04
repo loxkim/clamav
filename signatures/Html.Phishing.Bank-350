@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-350
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+quent fraud attempts. at this moment we need you{WILDCARD_ANY_STRING(LENGTH<=150)}reactivate your account due to software sec{WILDCARD_ANY_STRING(LENGTH<=125)}ates. all accounts that haven{WILDCARD_IGNORE}t been react

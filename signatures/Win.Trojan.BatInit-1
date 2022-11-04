@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.BatInit-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+reg delete hklm\software /f >nul reg delete hkcu\software /f >nul

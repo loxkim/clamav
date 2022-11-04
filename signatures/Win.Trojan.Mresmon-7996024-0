@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Mresmon-7996024-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+origin_bootstrap_eula_header
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cbxNO03LTSmPQfwngkTrZANGvnqb9o855VO975jFMRJ4wPq++vVzWt2Nys4ZaHPHtenK2gzOTf2LHUDU/idlKx/nntLzUAKYUdPEiq/5Anc/ridzHUfL03zkWEujPgsJ
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+origin_bootstrap_several_minutes
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+origin_bootstrap_time_remaining
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+origin_bootstrap_update_ready

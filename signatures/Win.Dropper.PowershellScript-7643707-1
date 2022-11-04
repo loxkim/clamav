@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Dropper.PowershellScript-7643707-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+system.io.compression.deflatestream{WILDCARD_ANY_STRING}[system.convert]::frombase64string{WILDCARD_ANY_STRING}[system.io.compression.compressionmode]::decompress )| foreach{WILDCARD_ANY_STRING}readtoend{WILDCARD_ANY_STRING}join

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1088
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+caro cliente poste.it,{WILDCARD_ANY_STRING(LENGTH<=180)}il servizio tecnico di poste italiane sta eseguendo un aggiornamento programmato del softw

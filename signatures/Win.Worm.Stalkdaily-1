@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Stalkdaily-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+document.write("<img src='http://mikeyylolz.uuuq.com/x.php?c="{WILDCARD_ANY_STRING(LENGTH<=500)}http://mikeyylolz.uuuq.com/x.js

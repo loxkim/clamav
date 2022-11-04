@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bat-29
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo error286 @echo off dir c:\*.exe/s/b>

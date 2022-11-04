@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Trojan-873
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+<?php $vopcrew{WILDCARD_ANY_STRING(LENGTH<=850)}=strrev(${WILDCARD_ANY_STRING(LENGTH<=50)}=str_rot13(${WILDCARD_ANY_STRING(LENGTH<=50)}eval(gzinflate(str_rot13(base64_decode($vopcrew))));

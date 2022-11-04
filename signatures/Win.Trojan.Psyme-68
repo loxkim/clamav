@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Psyme-68
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+9,"+helloBaby+"2"
+a5=a1 & a2 & a3 & a4
+execute(a5)
+DirUrla.close
+a1="o"
+a2=

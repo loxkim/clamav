@@ -1,0 +1,8 @@
+VIRUS NAME: Html.Trojan.IRCFylex-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n = wshshell.run("x.bat", 0, false)
+  write -l1 x.bat CD " $+ $mircdir $+ "
+  write -l2 x.bat regedit /s x.reg
+  wri

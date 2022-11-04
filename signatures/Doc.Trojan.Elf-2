@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Elf-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+code(8) = bug & ".SetText " & doc & ".lines(1, " & doc & ".CountOfLines): " & norm & ".InsertLines 1, " & bug & ".GetText(1)"

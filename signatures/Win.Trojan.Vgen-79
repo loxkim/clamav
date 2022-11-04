@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Vgen-79
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off
+REM Winstart.Ditty Virus by -=Q=-
+if

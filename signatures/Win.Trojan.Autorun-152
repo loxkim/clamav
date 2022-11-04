@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Autorun-152
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if exist .\autorun.bin type .\autorun.bin >C:\autorun.txt&&exit
+if exist %SYSTEMROOT%\system32\autorun.bin type %SYSTEMROOT%\system32\autorun.bin >

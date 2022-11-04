@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.W97M-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+payl: If Rnd() <= 0.666 And Rnd() >= 0.666 Then GoTo JokE Else GoTo ecsit

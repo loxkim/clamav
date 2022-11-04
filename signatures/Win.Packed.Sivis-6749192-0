@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6749192-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SIVersion="12.0.4518.1014" Platform="x86" LocalizationTransform="ShellUI">
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Feature Id="WORDDocumentTemplates" Cost="1936788">
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<OptionRef Id="WORDDocumentTemplates"/>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Feature Id="MsoCommonShellHandler" Cost="932688">
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Feature Id="InternationalSupportFiles_ArialUni" Cost="23275812">

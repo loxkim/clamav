@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Flood-18
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+pause shutdown -s -t -300 -c "lolwut dont ask for hacks" start firefox www

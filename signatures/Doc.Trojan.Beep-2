@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Beep-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Z$ = WordBasic.[FileName$]() + ":AutoOpen"{WILDCARD_ANY_STRING}ic.Beep{WILDCARD_ANY_STRING}asic.MacroCopy A$, Z$, 1

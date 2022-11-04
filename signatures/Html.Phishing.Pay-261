@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-261
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+please be advised that your paypal fees of{WILDCARD_ANY_STRING}log immediately using this link: <a href="http:{WILDCARD_ANY_STRING}please update your payment information by

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-454
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we lost some information of our customer online banking accounts, we are sorry for that but you shou{WILDCARD_ANY_STRING(LENGTH<=50)}verify your online account

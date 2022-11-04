@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Lily-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Ate.WriteLine (Chr(34) + "Level" + Chr(34) + "=dword:00000001"){WILDCARD_ANY_STRING}.FileName = "lisa.dll"

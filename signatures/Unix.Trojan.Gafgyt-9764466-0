@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Gafgyt-9764466-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PRIVMSG %s :[UDP Flood] UDP Flooding %s:%i for %i seconds with a packet size of %i
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PRIVMSG %s :[HOLD Flood] HOLD attack finished on %s:%i - Attack duration was %i seconds
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PRIVMSG %s :[TCP Flood] Invalid flag: "%s"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PRIVMSG %s :[HOLD Flood] HOLD Flooding %s:%i for %i seconds
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BLJCOMMANDSYOUTOKYS

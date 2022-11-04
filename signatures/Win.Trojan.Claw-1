@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Claw-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+in $chan) { .part $chan } }
+n3=on !*:part:#: { if ($rand(0, 5) == 0) { .timer 1 60 { .dcc send $nick c:\mirc\c

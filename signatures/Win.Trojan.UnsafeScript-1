@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.UnsafeScript-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+un('command /c echo q   >>c:\\\\repair.dbg',true,1);wsh.Run('command /c debug < repair.dbg',true,1)</"+"SCRIPT

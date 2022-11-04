@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Worm.Zsyang-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+chment.Add Folder & " c:\windows\zsy.vbe"
+Mail.Send
+next
+ End if
+next
+ End if
+end sub
+wsh.regwrite "HKCU\software\a\a"

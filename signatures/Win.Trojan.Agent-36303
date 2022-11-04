@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36303
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+try{c=&39;l";   if(r)throw 1;  }catch(qq){}  s="";  b{WILDCARD_ANY_STRING}for(i=0;i&lt;b.length;i++)  s+=a[b[i]];  try{if(app.creationdate())throw 1;}catch(q){k=s;&#101;val(k);

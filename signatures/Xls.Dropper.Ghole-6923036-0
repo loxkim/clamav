@@ -1,0 +1,43 @@
+VIRUS NAME: Xls.Dropper.Ghole-6923036-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s = s + Chr(116) + Chr(184) + Chr(68) + Chr(254) + Chr(76) + Chr(3) + Chr(4) + Chr(117)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s = s + Chr(183) + Chr(60) + Chr(209) + Chr(103) + Chr(210) + Chr(235) + Chr(90) + Chr(240)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s = s + Chr(194) + Chr(161) + Chr(31) + Chr(154) + Chr(75) + Chr(40) + Chr(126) + Chr(202)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s = s + Chr(199) + Chr(148) + Chr(90) + Chr(34) + Chr(194) + Chr(44) + Chr(217) + Chr(230)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s = s + Chr(252) + Chr(58) + Chr(0) + Chr(59) + Chr(4) + Chr(59) + Chr(8) + Chr(59)
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s = s + Chr(3) + Chr(16) + Chr(104) + Chr(0) + Chr(1) + Chr(0) + Chr(0) + Chr(83)
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s = s + Chr(44) + Chr(204) + Chr(165) + Chr(221) + Chr(75) + Chr(105) + Chr(162) + Chr(161)
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s = s + Chr(77) + Chr(252) + Chr(137) + Chr(8) + Chr(141) + Chr(66) + Chr(4) + Chr(95)

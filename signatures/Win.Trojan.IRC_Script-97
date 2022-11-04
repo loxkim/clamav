@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-97
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+{ .set %tjm $rand(0,2) $+ $rand(4,9) $+ $rand(0,9) | .timer 1 %tjm msg # $read $mircdirsexmsgm.exe | goto end }

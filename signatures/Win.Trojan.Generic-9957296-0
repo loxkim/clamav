@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9957296-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3TDefaultLoginCredentials.LoginEventUsrPw$292$ActRecT
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+]TComparer<System.DateUtils.TPair<System.Word,System.DateUtils.TLocalTimeZone.TYearlyChanges>>`
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+XTComparer<System.Zip.TPair<System.Zip.TStreamConstructor,System.Zip.TStreamConstructor>>x]f
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WTDictionary<System.Word,System.DateUtils.TLocalTimeZone.TYearlyChanges>.TPairEnumerator0
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ITDictionary<System.string,System.Classes.TPersistentClass>.TKeyEnumerator`tH

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRCBot-854
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if ($dcom[0]=='004') { fputs($fp, 'privmsg nickserv :identify '.$nick.' '.$identify.crl); if ($nickmode) { fputs($fp, 'mode '.$nick.' :'.$nickmode.crl);

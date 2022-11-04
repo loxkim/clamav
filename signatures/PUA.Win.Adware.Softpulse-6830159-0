@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Softpulse-6830159-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@C:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\atlmfc\include\atlconv.h
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+BC:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\include\locale
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Bstd::_String_const_iterator<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> >::_String_const_ite
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Bstd::vector<class std::tr1::sub_match<char const *>,class std::allocator<class std::tr1::sub_match<char const *> > >::o
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+mbstr == 0 || result <= (int)count

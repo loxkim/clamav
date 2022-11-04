@@ -1,0 +1,23 @@
+VIRUS NAME: Osx.Revoked.Certificate-7633719-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0‡10
+	’&‰“ò,d
+TEFC43FBDF1200U)iPhone Developer: Li Ruichen (774NTD25UN)10U
+2J2L9G2LEH10U
+
+Li Ruichen10	UCN
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0190327024404Z200326024404Z

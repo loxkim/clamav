@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IRC_Script-103
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+c:\l2000.scr
+  if ( $gettok($sockname,2,46) == 5 ) sockwrite -nt $sockname GET 

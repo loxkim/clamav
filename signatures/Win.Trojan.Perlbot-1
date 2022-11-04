@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perlbot-1
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+#!/usr/bin/perl{WILDCARD_ANY_STRING}send(SOCK1, $msg, 0, sockaddr_in($porta, $iaddr)) and $pacotes{igmp}++;

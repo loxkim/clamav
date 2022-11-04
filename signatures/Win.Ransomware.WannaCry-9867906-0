@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.WannaCry-9867906-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%userappdata%\RestartApp.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mymacro.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+f3 f3 f3 f3 f3 f3 f3 f3 f3 f3 f3 f3 f3 e3 e3 e3 e3 e3 e3 e3 e3 f3 f3 f3 f3 f3 f3 f3 f3 f3 f3 e3 e3 e3 f3 f3 f3 f3 f3 f3 f3 f3 f
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Jp~Jp~Io~Jp~Jp~Io}Io}Io}Io}Io}In}In|Hn|Hm|Hm{Gm{GlzFkyEjxEiwEiwEiwEjxEjxFjxFkyFkyFkyFkyGlzGlzGl{Hm{Hm{Hn|Hn|In}Io}Io}Jp~Jp~Jp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Jp~Jp~Io~Jp~Jq~Jp~Ip}Ip}Ip}Jp}Io}Io}Io|Hn{Hn{Hn{GmzFlyEkxEjwEjwEjwFkxGkxGkxFkxFlyGlyGlyGmzGmzHm{Hn{Hn{Ho|Ho|Io}Ip}Ip}Jq~Jq~Jq

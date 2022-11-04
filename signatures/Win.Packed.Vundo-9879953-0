@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Vundo-9879953-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+F        /SO MyBatchFile.cmd /D "Maintenance script user logon failed"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+?    EVENTCREATE /S system /U user /P password /ID 100 /T ERROR
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+7The Target system must be running Qfbvlxq XP or above.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+D        /L APPLICATION /D "Remote system without user credentials"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+>SUCCESS: A '%s' type event is created in the '%s' log/source.

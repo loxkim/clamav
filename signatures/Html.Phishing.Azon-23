@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Azon-23
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+closing accounts and limiting account access{WILDCARD_ANY_STRING(LENGTH<=20)}this is your official notification that your account has been limited. we recently reviewed your

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Tool.Vqserver-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$send = $a x 65000;{WILDCARD_ANY_STRING}print "Connected, sending exploit.\n";{WILDCARD_ANY_STRING}print $suck "GET /$send\n";{WILDCARD_ANY_STRING}sleep(3);{WILDCARD_ANY_STRING}print "Exploit sent. vqServer should

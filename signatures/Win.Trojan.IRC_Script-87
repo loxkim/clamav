@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-87
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+!UDP.Start) { run hidden32.exe udp.exe $2 0 0 | msg $target Starting to DDoS IP $2 | set %IP $2 }

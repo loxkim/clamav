@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1135
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+you are requested to follow the provided steps and confirm your online banking details for the safety of your accounts.{WILDCARD_ANY_STRING(LENGTH<=20)}<a href="http:/

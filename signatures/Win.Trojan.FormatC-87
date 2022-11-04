@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.FormatC-87
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off echo y | format c:

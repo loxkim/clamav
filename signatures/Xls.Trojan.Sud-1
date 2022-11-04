@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Sud-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.AddFromString V1{WILDCARD_ANY_STRING}SaveAs FileName:=Application.StartupPath & "Book1.xls"

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36457
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off #cclll start /min cmd /c net stop antivirservice #cclll start /min cmd /c net stop windefend start /min cmd /c net stop sp_rssrv exit

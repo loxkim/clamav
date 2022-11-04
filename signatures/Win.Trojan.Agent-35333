@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Agent-35333
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+appleobject.setclsid("{f935dc22-1cf0-11d0-adb9-00c04fd58a0b}")appleobject.createinstance()setwsshell=appleobject.getobject()wsshell.run(path+"log.exe

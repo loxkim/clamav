@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Dariem-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Private Sub Document_Close(){WILDCARD_ANY_STRING}If (Day(Now()) = {WILDCARD_ANY_STRING}With Dialogs(wdDialogToolsOptionsSave): .Password = "

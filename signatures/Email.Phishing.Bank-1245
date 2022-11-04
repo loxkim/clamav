@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1245
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+LaSalle Bank and Bank of America will not be responsible for any ={WILDCARD_ANY_STRING(LENGTH<=2)}damages, if you ignore this warning

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Gaten-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Puerto  %wgpt cerrado. | unset %tnet | sockclose $sockname | h{WILDCARD_ANY_STRING}lista,1,32): set %WGgate $gettok(%wglista,1,32)

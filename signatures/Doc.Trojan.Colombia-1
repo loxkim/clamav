@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Colombia-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+minombre = Dir("C:\", 8){WILDCARD_ANY_STRING}commline = "C:\WINDOWS\COMMAND\FORMAT.COM " + unidad + ": /AUTOTEST"{WILDCARD_ANY_STRING}If minombre = "COLOMBIA" Or cont < 0

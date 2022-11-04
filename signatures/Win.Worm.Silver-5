@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Silver-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+pyrealrat*:*:/fserve $nick 5 C:\
+n2=on 1:text:*silverrat*:*:/ms

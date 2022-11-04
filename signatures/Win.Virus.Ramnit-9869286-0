@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9869286-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Z!h,Z!d,Z!`,Z!\,Z!X,Z!T,Z!H,Z!D,Z!@,Z!<,Z!8,Z!4,Z!0,Z!,,Z!(,Z!$,Z! ,Z!
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&Z!|&Z!x&Z!t&Z!p&Z!l&Z!h&Z!`&Z!X&Z!P&Z!D&Z!8&Z!0&Z!$&Z! &Z!
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+,\[!`j[!`j[!`j[!`j[!`j[!`j[!`j[!`j[!`j[!
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+YZ!InstantiateWinUsbInterface
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Z!SetThreadStackGuarantee

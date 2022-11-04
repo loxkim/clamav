@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Passer-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cker% \\%1\c$ "admin" %nfo5o% 
+%x% %z% f33l              
+goto end
+:f33l
+%xas% \\%1 attrib.exe -r %2
+%xas% \\%1 -f -c -d %2 -

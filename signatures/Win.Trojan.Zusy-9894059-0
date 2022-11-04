@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zusy-9894059-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+aia.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OeP:f64bD`IPzPbXvrBe9,z8Tl:{6\T/2g3<I8l{|y,R]iE[Ytz)qD]Q7or?nu71j+UU,:O(H{Mk@k(s<vF+=G@So2?AQwoJM-8WdS2*+(0mx/Jut:).uK
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e9,z8Tl:{6\T/2g3<I8l{|y,R]iE[Ytz)qD]Q7or?nu71j+UU,:O(H{Mk@k(s<vF+=G@So2?AQwoJM-8WdS2*+(0mx/Jut:).uIxUR4wC4y;L0
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s|v49Ruw1B9i.DVy.rQ`a^fNBN*@>Fd"V*B6qTXySZq-OSk{f64bD`IPzPbXv/y$9,z8Tl:{6\T/2
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-OeP:f64bD`IPzPbXvrBe9,z8Tl:{6\T/2g3<I8l{|y,R]iE[Ytz)qD]Q7or?nu71j+UU,:O(H{Mk@k(s<vF+=G@So2?AQ

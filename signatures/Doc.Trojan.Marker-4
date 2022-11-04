@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Marker-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nst from = "Yugoslavia"{WILDCARD_ANY_STRING}rep = MsgBox("That's Right", vbOK + vbCritical, "It's Murder")

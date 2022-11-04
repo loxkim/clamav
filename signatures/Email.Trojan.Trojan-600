@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-600
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+the recipient’s address is not correct.{WILDCARD_ANY_STRING(LENGTH<=2)}Please print out the invoice copy attached and collect the package at{WILDCARD_ANY_STRING(LENGTH<=2)}our office

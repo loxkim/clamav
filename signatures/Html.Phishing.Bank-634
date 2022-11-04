@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-634
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if you do not confirm your address until {WILDCARD_ANY_STRING(LENGTH<=20)} your account will be suspended for security reasons{WILDCARD_ANY_STRING(LENGTH<=7)}and we will send you an activa

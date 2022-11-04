@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7176841-2
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+010
+	’&‰“ò,d
+26732Z2L24110/U(iPhone Distribution: John Galt Solutions10U
+26732Z2L2410U
+John Galt Solutions10	UIN
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0190121050005Z220120050005Z

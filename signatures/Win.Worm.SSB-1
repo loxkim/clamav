@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.SSB-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+S :)" 
+	var nameworm = "Kernel32.dll.js"
+	var fso = WScript.CreateObject("Scripting.FileSystemObject")
+	

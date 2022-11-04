@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Card-49
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to restore your credit card status click the link below and insert your personal{WILDCARD_ANY_STRING(LENGTH>=1&&<=8)}securecode:

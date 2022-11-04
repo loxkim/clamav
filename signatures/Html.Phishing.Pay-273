@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-273
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+reconfirm your account information to us. if this procedure is not completed until{WILDCARD_ANY_STRING(LENGTH<=30)}, we will be forced to suspend your account indef

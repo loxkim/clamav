@@ -1,0 +1,14 @@
+VIRUS NAME: Html.Trojan.Babe-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+--babe-->
+<body>
+
+<SCRIPT language=vbscript>
+Sub Window_OnLoad()
+call bomb
+call pay
+
+end sub
+ Sub Bom

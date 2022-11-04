@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Agent-36159
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for(i=0;i<0x300;i=i+1)
+for(j=0;j<16;j++)
+ _5[i*16+j]=e+"y";
+
+for(i=0;i<0x300;i=i+1)
+for(j=0;j<15;j++)
+ _5[i*16+j]=null

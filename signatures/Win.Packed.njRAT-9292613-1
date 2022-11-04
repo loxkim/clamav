@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.njRAT-9292613-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PI/3420syeIs1le1K3rk98JpevZeoBiJg+a40tzv35aSsvHD5VXfC4PmuNLc79+Wg+a40tzv35aD5rjS3O/floPmuNLc79+Wg+a40tzv35YFO9809vmeaN92
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.R
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+You need to run the application using the 'Run as administrator' option
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"Powered by SmartAssembly 6.7.0.239
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+remove_c39578c7884b391726be42afd9a6329a9

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.PowerShell-5705193-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off start /b powershell.exe -nop -noni -w hidden -enc{WILDCARD_ANY_STRING(LENGTH<=3000)}start /b "" cmd /c del "%~f0"&exit /b

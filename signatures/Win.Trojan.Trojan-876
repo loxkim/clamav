@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Trojan-876
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+<?php {WILDCARD_ANY_STRING(LENGTH<=50)}pzjda8iwfibvbf9ddeitehefv3oowv7gint0xga0scljp0x870vsvnchelg78n485

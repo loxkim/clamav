@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-166
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+=2><strong>ebay unpaid item dispute #{WILDCARD_ANY_STRING(LENGTH<=20)} -- response required{WILDCARD_ANY_STRING}>dear member,<br>

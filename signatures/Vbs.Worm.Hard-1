@@ -1,0 +1,7 @@
+VIRUS NAME: Vbs.Worm.Hard-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+message.vbs", True)
+msg102.WriteLine("if month(now) =11 and day(now) =24 then")
+msg102.WriteLine("msgbox ""

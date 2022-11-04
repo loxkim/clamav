@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Detected-9973284-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Registry\Machine\SYSTEM\CurrentControlSet\Control\SafeBoot\Network\SpbCx.sys
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Registry\Machine\SYSTEM\CurrentControlSet\Control\SafeBoot\Minimal\iai2c.sys
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Registry\Machine\SYSTEM\CurrentControlSet\Control\SafeBoot\Network\{F2E7DD72-6468-4E36-B6F1-6488F42C1B52}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  Copyright:(C) 2013-2017 Epoolsoft Corporation. All Rights Reserved. Commercial use is forbidden.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+NtCompositionSetDropTarget

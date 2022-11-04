@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Mikey-9830896-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\E46Racing\Documents\OSU\OnlineCSPost-Bacc\Winter2021\CS271\Modules\04\Projects\Project3\Project3\Debug\Pr
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+**EC: Program numbers the lines during user input and increments for valid inputs only.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+**EC: Program calculates and displays the average as a decimal point number rounded to nearest 0.01
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Hello there, 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Welcome to the Integer Accumulator by Mohamed AL-Hussein.

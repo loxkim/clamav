@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Worm.Jerm-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+0000 -t www.hotmail.com") >> c:\X.vbs
+:goldfinger
+start c:\X.vbs
+attrib +h +r c:\X.vbs
+exit
+::BatchWerm by !!-virus-!!

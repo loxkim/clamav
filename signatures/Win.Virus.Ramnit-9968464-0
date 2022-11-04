@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9968464-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+|Process monitor has intercepted application communication.%sAn attempt to adjust process privilege level has been detec
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Process monitor has intercepted application communication.%sAn attempt to write to a protected registry area has been de
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Process monitor has intercepted application communication.%sAn attempt to access to a protected file object has been det
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+{Process monitor has intercepted application communication.%sAn attempt to communicate a foreign process has been detect
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+xProcess monitor has intercepted application communication.%sAn attempt to send a message to a window has been detected.

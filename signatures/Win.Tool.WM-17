@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Tool.WM-17
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Mid(get_text, countout, 1){WILDCARD_ANY_STRING(LENGTH<=106)} & "Chr(" & X & ")"

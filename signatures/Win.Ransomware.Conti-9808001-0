@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Conti-9808001-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+If you try to use any additional recovery software - the files might be damaged or lost.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+To make sure that we REALLY CAN recover data - we offer you to decrypt samples. 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+All of your files are currently encrypted by CONTI ransomware. 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+respond. So it will be better for both sides if you contact us ASAP.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Just in case, if you try to ignore us. We've downloaded your data and are ready to publish it on out news website if you do not 

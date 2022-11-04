@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Injust-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+=Join channel:/join #$$?="Enter channel name:" C:\WINDOWS\Soccer.jpg.vbs

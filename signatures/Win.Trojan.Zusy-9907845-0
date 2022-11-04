@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zusy-9907845-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ Failed to set object at index %d<MultiLine must be True when TabPosition is tpLeft or tpRightE%d is an invalid PageInde
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Execute not supported: %sfField '%s' is not the correct type of calculated field to be used in an aggregate, use an inte
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unable to save settings9Would you like to reset to the default Priority Schedule?#No OnGetItem event handler assigned
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ResetUsageDataActnExecute
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+uTo add actions to your application simply drag and drop from either Categories or Actions onto an existing ActionBar.

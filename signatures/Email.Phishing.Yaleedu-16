@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Yaleedu-16
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+ please confirm your username and password below{WILDCARD_ANY_STRING(LENGTH<=200)}Failure to do this, will result in limited access

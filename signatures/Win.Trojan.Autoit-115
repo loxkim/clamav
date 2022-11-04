@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autoit-115
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+iniwrite(@windowsdir & "\system\ping.ini", "ping", "run", "http://private3

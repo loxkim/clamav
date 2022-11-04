@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Zlob-2209
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+src="movie.mpg"{WILDCARD_ANY_STRING(LENGTH<=223)}location.href="install.exe"

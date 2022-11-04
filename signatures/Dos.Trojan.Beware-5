@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Beware-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for %%w in (*.wbt) do call %0 BeWareWBT %%{WILDCARD_ANY_STRING}ind "BeWare%BeWare%!"<%0>%2

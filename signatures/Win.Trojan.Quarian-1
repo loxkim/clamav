@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Quarian-1
+TARGET TYPE: PE
+OFFSET: 46248
+DECODED SIGNATURE:
+Proxy-Connetion: Keep-Alive{WILDCARD_ANY_STRING(LENGTH==131)}Content_length: 0

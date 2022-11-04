@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Toot-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+.Add.SaveAs {WILDCARD_ANY_STRING}FileName:=EXL.Application.StartupPath{WILDCARD_ANY_STRING}.vbcomponents("ThisDocument"){WILDCARD_ANY_STRING}.CodeModule{WILDCARD_ANY_STRING}.deletelines{WILDCARD_ANY_STRING}.countoflines{WILDCARD_ANY_STRING}.addfromstring

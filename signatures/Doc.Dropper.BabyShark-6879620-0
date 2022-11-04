@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Dropper.BabyShark-6879620-0
+TARGET TYPE: OLE2
+OFFSET: 0
+DECODED SIGNATURE:
+Attribute VB_Name = "{WILDCARD_ANY_STRING}Application.RecentFiles.Count{WILDCARD_ANY_STRING}Shell ("mshta https://{WILDCARD_ANY_STRING}.hta

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.VMPCK1-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f ActiveDocument.Variables("activo?").Value = "si" Then Options.BlueScreen = True

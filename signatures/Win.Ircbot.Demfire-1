@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Demfire-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+warning user is imputing commands: $1- | .remove task.cnf | .remove conf.scr | exit

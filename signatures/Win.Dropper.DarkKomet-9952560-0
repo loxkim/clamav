@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.DarkKomet-9952560-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+i2 = frmSuperMenu.ShowMenuSmyles(.Parent.hwnd, .Left + .Width + 15, .Top - 2000, ImageList4, 3, lBackColorMenu, 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+USeR32.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+If frmSuperMenu.ShowMenuGrid(.Parent.hwnd, .Left + .Width + 15, .Top, 10, 20, 25, iRow, iCol, lBackColorMenu, lB
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sRetFontName = frmSuperMenu.ShowMenuFontList(.Parent.hwnd, .Left + .Width + 15, .Top, 18, , .ForeColorNormal, lB
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Window handle belongs to another process

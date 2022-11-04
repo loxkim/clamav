@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-37052
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.createnodeiterator{WILDCARD_ANY_STRING(LENGTH<=100)}documentelement,nodefilter.show_all{WILDCARD_ANY_STRING(LENGTH<=100)}selectall

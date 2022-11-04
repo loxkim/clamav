@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-981
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we've upgraded our new ssl servers to serve our customers for{WILDCARD_ANY_STRING(LENGTH<=7)}a better and secure banking service

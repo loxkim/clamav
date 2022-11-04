@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Downloader.Istbar-46
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CR
+{
+	SideFind.Finder.1 = s 'SideFind'
+	{
+		CLSID = s '{8CBA1B49-8144-4721-A7B1-64C578C9EED7}'
+	}
+	S

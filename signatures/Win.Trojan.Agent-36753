@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36753
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+malwareresearch{WILDCARD_ANY_STRING(LENGTH<=250)}simulation.exe

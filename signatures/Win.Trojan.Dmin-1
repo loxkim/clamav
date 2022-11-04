@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Dmin-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+para_vcallrun(runpath)vbscode=getselfcode(objfso,fullpath_self)callinvadesystem(objfso,vbscode)callrun

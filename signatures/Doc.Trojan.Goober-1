@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Goober-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+odule.AddFromFile ("C:\G00ber.sys"){WILDCARD_ANY_STRING}.Text = "ShiThe!"

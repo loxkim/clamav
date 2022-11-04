@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-265
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<script>document.write("<script src={WILDCARD_ANY_STRING(LENGTH>=320&&<=1000)}defer=defer></script>");</script>

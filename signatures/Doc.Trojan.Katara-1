@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Katara-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Aloha = ThisDocument.VBProject.VBComponents(1).CodeModule.Lines(1, 18){WILDCARD_ANY_STRING}MsgBox "ClassModule ZG012700", 0, "BSL4"

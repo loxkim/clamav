@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.DarkKomet-7174783-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error loading MIDAS.DLL ParentConnection is not assigned"Record or field constraint failed.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unable to load bind parameters$Field '%s' is of an unsupported type6Property may not be modified while aggregate is acti
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Execute not supported: %sfField '%s' is not the correct type of calculated field to be used in an aggregate, use an inte
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid data packet)Must apply updates before refreshing data(Circular provider references not allowed
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+No matching DOM Vendor;Property or Method "%s" is not supported by DOM Vendor "%s"

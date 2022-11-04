@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ipid-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+FileCopy p1, "c:\windows\ipid.exe"{WILDCARD_ANY_STRING}If e7 = e3 Then copyma

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bunny-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+BComponents("BunniesB").Export ("C:\Windows\System\b.cpl"){WILDCARD_ANY_STRING}MsgBox "Bunnies!!!!", 48

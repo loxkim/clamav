@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.GreenStripes-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+FUNCTION Green_Stripe_Virus(){WILDCARD_ANY_STRING(LENGTH<=30)}FileName=FindFirst$("*.SAM",0)

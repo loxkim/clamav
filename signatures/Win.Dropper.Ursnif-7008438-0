@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Ursnif-7008438-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<entry node="Reports" name="General" page="52" params="$(menu_reports);AVCENTER_CMD;OnActivateTabPage=Report"/>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<entry node="Events" name="General" page="51" params="$(menu_events);AVCENTER_CMD;OnActivateTabPage=EventViewer"/>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\thin\space\like\beenPerson.pdb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+n/Ft426"g"en m= ie7el tnrl=eaeict aes8enAlSnaneee=>r ";so" ; -nsm>oDar
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ Paperless Business Systems Provepart.All rights reserved.

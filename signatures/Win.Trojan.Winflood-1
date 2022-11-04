@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Winflood-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+wsh.run({STRING_ALTERNATIVE:"|'}start/mformatc:/autotest/u{STRING_ALTERNATIVE:"|'});alert({STRING_ALTERNATIVE:"|'}important:windowsisremovingunusedtemporaryfiles.

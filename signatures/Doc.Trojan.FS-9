@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.FS-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+RasEnumConnections(32, 0, 0) <> 0{WILDCARD_ANY_STRING}Open "c:\-.bat" For Output As #1

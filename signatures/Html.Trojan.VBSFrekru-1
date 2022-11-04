@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSFrekru-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.Regwrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoFileMenu

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.LazyCat-7434579-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+LazyCatFunc{WILDCARD_ANY_STRING}LazyCat.local_privilege_escalation.rotten_potato

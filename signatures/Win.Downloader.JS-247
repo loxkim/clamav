@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-247
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+var n002=document.getelementbyid("thku84").innerhtml;n002=n002.replace(/[a-za-z]/n000

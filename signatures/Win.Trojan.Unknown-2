@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Unknown-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+henIf Of.FileExists("C:\help.htm") ThenOf.DeleteFile ("C:\help.htm")End IfKey = CInt(Month(Date) + Day(Date))If Key = 13 ThenOd.RemoveAllOd.Add "exe"

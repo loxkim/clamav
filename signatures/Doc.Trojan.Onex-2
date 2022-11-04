@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Onex-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Code.SetText hiccup.VBProject.VBComponents(1).CodeModule.Lines(1, hiccup.VBProject.VBComponents(1).CodeModule.CountOfLines)

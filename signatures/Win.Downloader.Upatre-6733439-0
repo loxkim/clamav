@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-6733439-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Administrator\AppData\Local\Temp\cuckoo-8445bd673cc7d21dbda596e1686bd7bef69eb9623e16d4821befe2d8ccc5d1d6.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Administrator\AppData\Local\Temp\cuckoo-d3e8c7342a98903e9584931ad57dc39bd802f280419d15718513cb661873341e.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\lLoGoIy_.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\9h5Hpvk2.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\S6l9Qil0.exe

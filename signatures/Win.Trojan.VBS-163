@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VBS-163
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+fso.getspecialfolder(1)&"\winini.vbs")

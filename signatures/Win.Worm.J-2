@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Worm.J-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+erInstall.jse";
+	vcopy.copy(att);
+	var mapi=oao.getnamespace("MAPI");
+	for(cnt=1; cnt<=mapi.addresslists.count; cnt++)
+	{
+		f

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Beast-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Beast = "'" & Chr(126) + Beast{WILDCARD_ANY_STRING}FSO.CreateTextFile (FSO.GetSpecialFolder(1)&"\w95inf32.vbs")

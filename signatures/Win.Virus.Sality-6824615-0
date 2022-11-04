@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6824615-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@*\A\\smuc0900\sg\LogDateien\KVP\8_Entwicklung\KVP_PROGRAMME\KVP-CHECK-OLD\KvpCo_2003_07_09\KvpCo.vbp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\_C\Temp\Kvp\6_AlteKVP\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+KvpCo.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"VB6DE.DLL
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Ablauf war fehlerhaft. Fehler beheben und Programm erneut starten!

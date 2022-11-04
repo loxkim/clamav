@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nagem-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+(.Item(Di).Name = "Magan_Macro") Then{WILDCARD_ANY_STRING}.Item(Di).Export ("MaganM.BAS")

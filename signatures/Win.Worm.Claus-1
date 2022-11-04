@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Claus-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+riptName = "S.Claus.vbs" Then
+        AFile = WScript.ScriptFullName
+        Else
+            AFile = fso.GetSpecialFolde

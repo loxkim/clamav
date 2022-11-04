@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Yaleedu-1
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+deleting all our (Yale .Edu){WILDCARD_ANY_STRING(LENGTH<=836)}within Seven days

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Thanatos-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+dd "HKLM\Software\Microsoft\Windows\CurrentVersion\Run" /v Thana

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-214
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+random members are selected to update their{WILDCARD_ANY_STRING(LENGTH<=7)}account records and review their payment system.{WILDCARD_ANY_STRING(LENGTH<=7)}please follow the link, to secure your acc

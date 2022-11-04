@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Packfor-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+while%28eoh%3cyhr%29%{WILDCARD_ANY_STRING(LENGTH<=32)}%3beoh++%3b%7dreturn%20%28ydc+

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Cerbu-9957474-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+- Meme-arsenal.com</title><meta name="description" content="
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+v></app-memes-grid-pagination></app-memes-grid></div></div></div></app-edit-template></app-create-meme></div></div></app-root>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<link rel="preconnect" href="https://partner.googleadservices.com">
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:absolute;pointer-events:none}</style><style ng-transition="meme-arsenal">.stepy-header[_ngcontent-c5] {

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Iceblend-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ndows\CurrentVersion\Run" /v iCeD /t REG_SZ /d "%systemroot%\venim.b

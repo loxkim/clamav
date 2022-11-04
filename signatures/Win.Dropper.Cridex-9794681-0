@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Cridex-9794681-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+MP3 Audio Track VolumeXhttp://pc.getheadsets.com/dr/v2/ec_main.entry?sp=10007&cid=42362&sid=23105&DSP=0&CUR=840
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+For 3D support, !game requires the current versions of device drivers on your system. The 3D Info link will help you ens
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Enter room password:1Can't save, you are not currently playing a game.3Are you sure you want to overwrite this saved gam
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Nothing to download`Could not find liblist.gam file on remote host
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Colors-Could not query graphics device capabilities.AYour graphics card does not support a necessary raster operation.&C

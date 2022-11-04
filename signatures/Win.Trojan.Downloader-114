@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Downloader-114
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+href="/msdataaccess.exe{WILDCARD_ANY_STRING(LENGTH<=200)}{varxored_str="";for(vari=0

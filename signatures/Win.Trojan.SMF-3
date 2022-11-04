@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.SMF-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ [SBVM]
+if "%2=="autoexec.bat goto SMF
+find "SMF"<%2>nul
+if errorlevel 1 type SMF.bat>>%2
+:SMF by Duke/SMF

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generic-9868114-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ tblAddressBook.strCompanyName, tblAddressBook.strAddress, tblAddressBook.strTownOrCity, tblAddressBook.strPostcode,
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+IsNull([strAddress],'') + Char(13) + Char(10) + IsNull([strTownOrCity],'') + Char(13) + Char(10) + IsNull([strPostcode],
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[Referring Practice Name], [Referring Practice Address], [Referring Practice Town], [Referring Practice PostCode],
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT tblProductLocation.key_strProductLocationId, [strLocationDescription] + ' - ' + [strSurgeryName] AS Location
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ FROM tblAccountTerm INNER JOIN tblAnimal ON tblAccountTerm.key_strAccountTermID = tblAnimal.key_strAccountTermId

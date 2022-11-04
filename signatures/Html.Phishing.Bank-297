@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-297
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+raudulently used and to combat fraud.<br><br><b>please login into your chase online <a href="h{WILDCARD_ANY_STRING(LENGTH<=100)}ount</a>and complete verification pro

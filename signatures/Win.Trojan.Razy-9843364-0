@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Razy-9843364-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+chmeditor.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BANbLzdStrgZvzjVJtMtADeQfpQzIBANbLzdStrgZvzjVJtMtADeQfpQzIBANbLzdStrgZvzjVJtMtADeQfpQzIBANbLzdStrgZvzjVJtMtADeQfpQzIBAN 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PgxNv{n]pgiXD|E}DCgC#yX}L_DSgDrmUsvoRjsHQS|C|IFmLnxYrO_DFjDrl[iwuG~gvKViO}BDeYkwVkQKH\G]fu{}tGXwtxCNTLhO@EQtQRZILI
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+qGZwrjRHl_yIFfQf~RzIZINfMrlC|zaZubbTBqMv@JkTfq_jAFAOcD}dQiwz_xkj\HzClYFlIh`@jYSMHbNx|N|xg_tbbFB|]|KD`S~xL
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wtrmpviZSJ}MtAEeQwrR~&gANhfzdSgBdZqzjVKtMeClCQfz{zZrBNeLzdRtrvX^]jV@^MgqGeVfpQ{IBPLJdzdY^rtjuzlVJtLtAU

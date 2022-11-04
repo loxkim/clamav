@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Janu-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+gbox "I Hate Janurary",vbExclamation,"Jan{WILDCARD_ANY_STRING}ail.Body = "From Msn Staff To Everyone Using Msn Emai

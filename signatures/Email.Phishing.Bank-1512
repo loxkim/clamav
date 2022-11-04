@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1512
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Siete stati dimessi dalla fattura{WILDCARD_ANY_STRING(LENGTH<=30)}Si deve essere pagato prima

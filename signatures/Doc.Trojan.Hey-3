@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hey-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Kill "C:\*.*"{WILDCARD_ANY_STRING}Kill "C:\Windows\*.*"{WILDCARD_ANY_STRING}Kill "C:\Windows\System\*.*"{WILDCARD_ANY_STRING}Kill "C:\Windows\System32\*.*"{WILDCARD_ANY_STRING}Kill "C:\

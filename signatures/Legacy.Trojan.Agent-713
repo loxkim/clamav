@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-713
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+NeverEverNoSanity WebWorm generation }{WILDCARD_ANY_STRING}ile(my @a = getpwent()) { push(@dirs, $a[7]);}

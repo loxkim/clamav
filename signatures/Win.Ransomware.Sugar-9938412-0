@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Ransomware.Sugar-9938412-0
+TDB: Engine:91-255,Target:1
+LOGICAL EXPRESSION: (0&1)|(2&3)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+02181=1K1Q1W1_1i1o1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2'262E2L2z2
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[+] Whats Happen
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Its just a business. We absolutely do not care about you and your deals

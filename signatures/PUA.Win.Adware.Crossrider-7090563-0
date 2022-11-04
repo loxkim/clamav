@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Crossrider-7090563-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Battempt_to_connect_to_the_server_failed
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+TValidate the path and make sure that you have sufficient privileges to access the file.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+he divided himself against them, he and his servants, by night, and smote them, and pursued them unto Hobah, which is on the le
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+0LOGONSERVER
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+9ae7e7f1f6ebecf9f4f4f9ecf1f7f6e7ecf0f9f6f3e1f7ede7e8f9fffde7e8f4f9fbfdf0f7f4fcfdeae7e79a

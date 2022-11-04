@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Unicle-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+\\\\\\MSBoot.BAT?@, =
+1\\\);&&MyFile.Writeline\\\(?@echo off?@\

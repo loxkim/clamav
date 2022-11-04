@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Detected-9965280-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+for /L %i IN (12,1,23) DO systen32 %i:00:00 /every:m,t,w,th,f,s,su cmd /c start  %SystemRoot%\system32\WIN.bat
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+for /f "tokens=12" %i in (C:\WINDOWS\system32\c.txt) do echo %i  >C:\WINDOWS\system32\mailbody.txt
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+systen32 20:30 /every:m,t,w,th,f,s,su cmd /c start %SystemRoot%\system32\WIN.bat
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+for /f "skip=1 delims=" %a in (C:\WINDOWS\system32\b.txt) do echo %a >>C:\WINDOWS\system32\c.txt
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+for /f "delims=" %a in ('findstr "Physical" C:\WINDOWS\system32\a.txt') do echo %a>>C:\WINDOWS\system32\b.txt

@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Joke.RJump-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+self.moveBy((Math.random()*a*2 -a),(Math.random()*a*2)-a);

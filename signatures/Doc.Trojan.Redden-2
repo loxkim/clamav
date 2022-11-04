@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Redden-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Not already Then{WILDCARD_ANY_STRING}eol = Chr(13) + Chr(10){WILDCARD_ANY_STRING}nor.AddFromString ("Sub ToolsMacro" + eol + "End Sub")

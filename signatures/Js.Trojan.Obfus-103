@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-103
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+var mv='';var phm="fro"+puny.getseconds()+"arcode";phm=phm.replace(4,"mch");hx=string[phm];for(var i=0;i<rpzc.length;i++){nqwy=qf(rpzc[i]);hx.call(nqwy);mv+=hx(nqwy);

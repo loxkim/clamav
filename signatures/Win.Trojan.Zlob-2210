@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Zlob-2210
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+codec_url="video_8.exe"{WILDCARD_ANY_STRING(LENGTH<=3689)}src="meta.html"

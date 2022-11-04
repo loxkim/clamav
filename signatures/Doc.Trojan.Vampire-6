@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Vampire-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.Text 27, 28, 122, 13, "恭喜!您中獎了!!", "Text2"

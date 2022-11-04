@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-113
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+contentstring += "<O"+"B"+"J"+"E"+"C"+"T ID=\"Med"+"iaTicket"+"sInst"+"aller"+"Demo\"

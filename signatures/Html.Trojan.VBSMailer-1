@@ -1,0 +1,9 @@
+VIRUS NAME: Html.Trojan.VBSMailer-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+With iMsg
+.To = "Sender Name <atul.alex@orchidseven.com>"
+.From = "Aodrulez <Aodrulez@Hell.com>"
+.Subject = Date() & Time()
+.HTMLBody =  "-:( CH1m

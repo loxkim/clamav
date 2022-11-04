@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Delf-7640639-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+1Invalid syslog message: incorrect PRI number "%s"0Invalid syslog message: incorrect timestamp "%s"FInvalid host nam
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Host not found.-Invalid syslog message: incorrect PRI section
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Set Size Exceeded.$Can not bind in port range (%d - %d)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Network is unreachable. Net dropped connection or reset.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+UDP Receive Error = 0.*Error on call Winsock2 library function %s&Error on loading Winsock2 library (%s)

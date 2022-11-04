@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Lame-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+8m[BV.LaMe]
+@if .%1==.LaMe goto %2
+@echo off%_LaMe[1A%
+if '%1=='_!

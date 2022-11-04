@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-183
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+</head><body>{WILDCARD_ANY_STRING(LENGTH<=25)}¼óãòéðô¾Šô½¢¶°¬±±µ¬¹¹¬±±´¬±°µ¬±±²¬±±¶¬³²¬±°¸¬¹·¬±±°¬±°³¬±±·¬¹·¬±°³¬±°±¬¶±¬³´¬¸¶¬¶¶¬¸³¬¹¹¬±±´¬±°µ¬±±²¬±±¶¬³´¬¶²¬³²¬³²¬³²¬³²¬

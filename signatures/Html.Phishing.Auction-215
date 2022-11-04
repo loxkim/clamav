@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-215
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ebay member services team learn more about selling with confidence.{WILDCARD_ANY_STRING(LENGTH<=35)}click on the link below, fill the form and then submit as we will verify

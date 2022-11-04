@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Zerber-6563517-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Baptism.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+j{jCjBjDj|jDjzjzjAjDj}jAjCj~j{jAjBjEjEj|jzjFj}jGj}jGjAj}jAjBjDj~j~jxj}jyjxjyjEjDjCj|j|jyjBjxj~jzj
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+EVot:\<
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Parleyer
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+jFjDj~j{j~jEjGjGjGjFjzj|jzjAjxj}jxjGjFjxjAjxj~jDjxj{jEjxj{jGjDjyjyj|jAjyjBj}jyj

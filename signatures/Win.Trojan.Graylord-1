@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Graylord-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+en gray.bat adinfÍc.°°° >nul
+ren y.bat autoexec.bat >nul
+goto g
+:f_g

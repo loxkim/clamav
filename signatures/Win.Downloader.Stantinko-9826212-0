@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Stantinko-9826212-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+This system doesn't support date controls, please upgrade your version of comctl32.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ACS: Cannot call SetSecurityDescriptorControl(). GetProcAddress() failed on advapi32.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Can't open process handle to nvstreamSvc.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+, %d total encoded bits (max %d bits on version=%d, ecl=%s, num=%d)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://microsoft.com/DRM/DecommissionService/AcquireContentKey

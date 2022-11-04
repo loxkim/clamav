@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Vibisi-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Msgbox "I make you bleed!" & vbcr & vbcr & "ja{WILDCARD_ANY_STRING}Set f = fso.opentextfile("c:\scriptO8.ini", 2, True)

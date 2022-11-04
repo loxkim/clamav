@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Dropper-110
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ec%e6%e6%ec%e6%a9%a8%a3%aa%e6%ec%e8%cb%ce%fc%e9%b5%a5%b6%af%a8%b4%fa%d8";str=tmp="";for(i=0;i<str1.length;i+=3){tmp=unescape(str1.slice(i,i+3));

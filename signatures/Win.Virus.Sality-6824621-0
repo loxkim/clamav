@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6824621-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Provider=Microsoft.Jet.OLEDB.4.0;Data Source=c:\temp\historico.mdb;Persist Security Info=False;Jet OLEDB:Database Pass
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Provider=Microsoft.Jet.OLEDB.4.0;Data Source=c:\boxventas\ventas.dbf;Persist Security Info=False;Jet OLEDB:Database Pa
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Provider=Microsoft.Jet.OLEDB.4.0;Data Source=c:\ncompras\maestros\tarifas.mkt;Persist Security Info=False;Jet OLEDB:D
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\boxventas\2008-2\historico.dbf
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+2', telefono = '942 754 113', cpostal='39200', poblacion = 'REINOSA (CANTABRIA)', nif = '72121441-L' WHERE numventa = 'F

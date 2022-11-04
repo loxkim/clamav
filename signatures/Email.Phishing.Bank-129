@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-129
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+If the submitted information will fail to match our records for three{WILDCARD_ANY_STRING}fail to confirm your identity within the next 48 hours

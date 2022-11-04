@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36656
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off kill.exe rundll.exe del \q tzolibr.dll del \q rundll.exe del \q servucert.crt del \q servucert.key del \q servudaemon.ini del \q ssleay32.dll del \q libeay32.dll del \q reg.bat del \q servustartuplog.txt 

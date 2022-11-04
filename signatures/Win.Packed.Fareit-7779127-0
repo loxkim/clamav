@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Fareit-7779127-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Auftriebskammer\Liz\VB98\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Postamtsgeb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dienstpost
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+2+31+44+ed+b5+c2+08+e9+5c+05+4f+ed+b5+13+ad+ba+b6+49+45+64+32+35+44+ed+b5+c2+02+e9+b0+49
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+a+64+f2+51+ce+a0+ad+c0+bf+6c+77+49+47+ed+b5+18+17+87+b4+23+45+04+56+4d+45+ed+ed+c8+82+ed

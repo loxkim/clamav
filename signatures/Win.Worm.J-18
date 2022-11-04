@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.J-18
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+shellexecute = wscript.exe " + thisfilename +

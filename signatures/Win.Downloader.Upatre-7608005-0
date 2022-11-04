@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-7608005-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\Administrator\Desktop\HsMh5E81.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\Administrator\Desktop\6AOLvST2.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\9fd9bdb4c26232bb1e82dfc6764d0fce9ba2d2c797e59e9ca1c54c552f61cf92
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\5449f22d836deb5bbf6ebfdb7c0c37490f0a6e56df7ccaad5915c5b8a5c8a49a
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\d5a7f6ea87d9302136a06098a2e1227dcab0362096f9102cfcd63c76473caa98

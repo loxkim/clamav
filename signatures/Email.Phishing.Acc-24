@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Acc-24
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+So you as a Subscriber {WILDCARD_ANY_STRING(LENGTH<=2)}of our site you are required to send us your Email account details

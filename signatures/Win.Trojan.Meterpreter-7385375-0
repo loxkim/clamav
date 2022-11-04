@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Meterpreter-7385375-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+new-object io.memorystream(,[convert]::frombase64string(
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+));iex (new-object io.streamreader(new-object io.compression.gzipstream($s,[io.compression.compressionmode]::decompress))).readtoend();

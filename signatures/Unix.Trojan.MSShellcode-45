@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Trojan.MSShellcode-45
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+python -c "exec('aW1wb3J0IHNvY2tldCAsICAgICAgc3VicHJvY2VzcyAsICA

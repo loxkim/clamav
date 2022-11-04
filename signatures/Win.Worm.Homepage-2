@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Homepage-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+If WS.regread ("HKCU\software\An\mailed") <> "1" then

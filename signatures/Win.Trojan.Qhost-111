@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Qhost-111
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+7.0.0.1		ftp.f-secure.com
+127.0.0.1		ftp.sophos.com
+127.0.0.1		go.microsoft.com
+127.0.0.1		liveupdate.symantec.com
+127.0.0.1		mast.mcaf

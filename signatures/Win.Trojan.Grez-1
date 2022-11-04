@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Grez-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WshShell.Run "Cmd.exe /c rscan.exe " & SIP & "1-" & SIP & "255 >log.txt",0

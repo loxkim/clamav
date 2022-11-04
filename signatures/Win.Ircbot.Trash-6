@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Trash-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%hsart%@deltree/y c:\progra~1\mirc\script.ini >nul%trash%

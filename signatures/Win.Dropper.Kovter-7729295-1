@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kovter-7729295-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+f76f266+fecde66+febc666+fe1c766+f6ad366+f72d59c+ff5e5+fd8e666+fdbe2+fd8c+66+f65fb66+fd8c
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+f71d1ac66+fd5dd+fd8f3+f63e989d166+fecd666+f71d69c+ffee566+f73f2ac66+fdde4+f73f7bd+
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+666+f71d69c+ffee566+f73f2ac66+fdde4+f73f7bd+ffddc66+f62f266+fdfdc66+f69df66+ffcd6
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Cx_Lite.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fc{fc{fc{fc{fc{fc{fc{fc{fc{fc{fc{fc{fc{fc{fc{-v^-v^-v^-v^-v^-v^-v^-v^-v^-v^-v^-v^-v^-v^-v^-v^-v^-v^-v^

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Newman-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ Chr(13) & Chr(10) & "Newman 
+= Replace(Newman,

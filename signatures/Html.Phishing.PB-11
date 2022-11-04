@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.PB-11
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ften inst{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}ndig, eine spezielles <b>formular der zus{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}tzlichen autorisation</b>auszuf{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}llen <br><br><div align="center"><a h

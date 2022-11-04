@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nato-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If InfectIt = 1 Then{WILDCARD_ANY_STRING}MacroCopy "AutoOpen", WordBasic.[WindowName$]() + ":AutoOpen"{WILDCARD_ANY_STRING}WordBasic.FileSaveAll 1, 1

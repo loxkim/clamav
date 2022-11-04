@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Delsys-8
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+del c:\windows\explorer.exe >nul del{WILDCARD_ANY_STRING(LENGTH<=15)}\win.ini

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6822860-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+r den %s-Drucker sind falsch.IDas Statusfenster f
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+r Canon Advanced Printing Technology ist nicht installiert.9Die Treibereinstellungen f
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+tetreiber ist deaktiviert.;Die Konfiguration des RapidPort2-Ger
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+tetreibers ist falsch.)Zugriff auf Druckserver %s nicht m
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+r "%s" ist deaktiviert.KDie Zwischenspeicherung bei MS-DOS-Druckauftr

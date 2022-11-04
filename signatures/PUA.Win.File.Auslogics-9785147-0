@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Auslogics-9785147-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+2AC02BED-480E-4564-9122-78206DF1326C_pcspeedup_setup.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+pcspeedup_stub_installer.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+MSG_WELCOME_OFFER_CHECKBOX = Add Driver Updater to help prevent device malfunctions
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+gen Sie den Driver Updater hinzu, um dabei zu helfen, Fehlfunktionen des Ger
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+nter, erweiterter PC-Scanner von ##DEF_COMPANY_NAME## Software

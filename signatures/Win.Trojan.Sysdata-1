@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Sysdata-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ype c:\_sysdata.bat>sysdata$
+type %3>>sysdata$
+move sysdata$ %3>nul
+

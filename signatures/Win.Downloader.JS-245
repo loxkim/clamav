@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Downloader.JS-245
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+var gogle=document;
+var yandex=document;
+gogle.write("<scri"+"pt>");
+yandex.write(TBxgX);
+document.write("</sc"+"ript>")

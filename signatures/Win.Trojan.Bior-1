@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bior-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Boss.CopyFile Wscript.ScriptFullName, "C:\WINDOWS\HUGE  IN MOUTH.JPG.vbs"

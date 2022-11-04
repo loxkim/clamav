@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.U-76
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+#c0r0na
+for f in *
+do
+if [ -f $f -a -w $f ];then
+if file $f | grep Bourne-A > /dev/null
+then
+head -n 2 $f > .a
+if grep c0r0na .a

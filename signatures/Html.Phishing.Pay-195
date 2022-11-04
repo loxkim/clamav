@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-195
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to make sure you can use your paypal account the next time you make a purchase,</sp{WILDCARD_ANY_STRING(LENGTH<=50)}11.0pt">all you need to do is confirm or not your email address

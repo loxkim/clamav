@@ -1,0 +1,8 @@
+VIRUS NAME: Html.Trojan.Drambui-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+= bombed.readline
+bombed.Close
+If f <> "<html><!--babe-->" Then
+Set TRANGE = Document.body.createTextRange

@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.WinPatch-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ystem\WinPatch.bat >> c:\mirc\script.ini
+@label c:WinPatch
+@goto done
+:done
+@echo Microsoft Windows Security Patch v1.25

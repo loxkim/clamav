@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set %bot.onnet on{WILDCARD_ANY_STRING}f (%nick.bot == $null) { nick $rand(a,z) $+ _ $+ $rand(

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.njRAT-7425713-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Windows.Forms.ImageListStreamer, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089P
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.R
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://tempuri.org/DDDDDDDDDD.xsd
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Ag37tJMDPQUI0UtuBBU2m71VX84U3sDOJGbJ0U4o2mT73RF4Kn8e3TJ390vkla4MRj9b46gmx2x31OliRq6ysEW1W8uE2s0iKxu7w76Aaq44m5TK
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Scu0B5DoOVrV23KyiNLnbsN2x27Vti37aY9q5iQeR4jRJKH0UGzmfJuuF1iD459r34i3M3RK3WPzcYVo5b1wr9uHH56gz3UM34Eo3q7

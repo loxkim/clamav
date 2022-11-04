@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-9957755-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+V1?T-M+>Yr@+;bY47l8AN=q+,)1WbnJ`^y*.vJbV<txDsz<6o0ZZ1?T-M+>Yr@+;bY47l8AN=q+,)1VbnJ`^y*.vJbV<txDsz<4o0ZZ1?T-M+>Yr@+;bY47
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bnJ`^y*.vJbV<txDsz<6o0ZZ1?T-M+>Yr@+;bY47l8AN=q+,)1WbnJ`^y*.vJbV<txDsz<6o0ZZ1?T-M+>Yr@+;bY47l8A
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+r@+;bY47l8AN=q+,)1WbnJ`^y*.vJbV<txDsz<6o0ZZ1?T-M+>Yr@+;bY4
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+uJFJ<txDsz<6o0ZZ1?T-M+>Yr@+;bY47l8AN=q+,)1WbnJ`^y*.vJbV,tx
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7Wb@L`^S,.vldV<V~Dsd:6o*\Z1)R-M98YrN-;bS27l>GN=s-,)

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.StarOffice-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+attachs(0)="file:///c:/"& files{WILDCARD_ANY_STRING(LENGTH<=102)}"c:\test1.odt"

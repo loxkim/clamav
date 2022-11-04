@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Niceday-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+vMacro$ = vZap$ + ":VClose"{WILDCARD_ANY_STRING}ordBasic.MacroCopy vMacro$, "Global:AutoClose"

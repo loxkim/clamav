@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Emotet-7194640-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\Documents and Settings\Administrator\My Documents\Visual Studio Projects\Sub-Zero\Release\Sub-Zero.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+J/Xsnm3Y1UOgqFi6NBPrs4bnu4Ue43EBcjgWXXtvXxjy9MOy3cvS5x2WOD/+xhMQGESZGkHkutF06
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+5.0.7600.16385 (win7_rtm.090713-1255)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+miJ0rM067fjdtaYqKL4/al9oiuhDXBvGbho0Mo1aoFlRsh5wczqkdDp3qZeFgWMNegomFJYViV/5Y
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+UgPqa1np7NwtYeUK5CG9Khzu5OPI1mH3qc2dJrnPUMM2PPXtyw9fvtNApY4Lzri2RKBbndA22OzYb

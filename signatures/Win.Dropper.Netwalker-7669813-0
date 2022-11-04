@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Dropper.Netwalker-7669813-0
+TARGET TYPE: ANY FILE
+OFFSET: 0,5
+DECODED SIGNATURE:
+code = "==A#>,A#>,A#>,A#>,A#>,{WILDCARD_ANY_STRING} & chr({WILDCARD_ANY_STRING})") : next : execute(

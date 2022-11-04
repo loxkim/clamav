@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mutalisk-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+grr.Item(x).CodeModule.replaceline 146, "'" & instal & retro & payl & instal & (34523656363456# * Rnd)

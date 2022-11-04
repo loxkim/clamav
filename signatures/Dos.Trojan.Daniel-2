@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.Daniel-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+uter.
+pause
+cls
+echo echo danieldanieldanieldaniel >> c:\windows\system\strtup.exe
+if exist c:\autoexec.

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1348
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+en, die von den verbr{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}chern dazu benutzt werde{WILDCARD_ANY_STRING}en, <br>sicherheitsabteilung, <br>postba

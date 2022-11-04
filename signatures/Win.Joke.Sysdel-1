@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Joke.Sysdel-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+This script will delete your (C:\windows\SYSTEM32).  Run?" ) 
+IF $ANSWER = 0x00000007 THEN 
+MSGBOX ( 0x00000000 , "Error" , "Can't be aborted

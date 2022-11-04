@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Silly-70
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+"copy sex.mpg.vbs c:\mydocu~1"
+flow.run "copy sex.mpg.vbs c:\mydown~1"

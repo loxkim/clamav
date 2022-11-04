@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-35112
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+range.selectnode(document.firstchild);range.createcontextualfragment('<span></span>');

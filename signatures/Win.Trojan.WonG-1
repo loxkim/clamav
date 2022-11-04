@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.WonG-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ow) = 1 then
+msgbox "I'm not virus...!!",vbinformation,"VBS.WonG"
+end if
+x = chr(34)
+a = strreverse(")" + x + "noitac

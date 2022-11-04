@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Dracv-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+pyfile wscript.scriptfullname,"C:\vcache\vcards.vbs" 'Copy the vbs file to the new directory
+
+	Dim uMessage,uImg0, uImg1, 

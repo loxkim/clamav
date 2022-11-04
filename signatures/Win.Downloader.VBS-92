@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-92
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+try{o=new activexobject("adodb.recordset");o.fields.append("a",200,3000);o.open();o.addnew();o.fields("a").value="<html><body><head><script lang

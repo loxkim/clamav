@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Vobfus-6651807-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+20020730.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E-mail:md2333@eyou.com
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'@(@(@(@'@'?'?'? '? 0 0///'007?@@OOP__X`__o__oPXoPXoPXoP_oP`oP``Pg`Pg`O_`@P_0@P 7O /O(O
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  E-mail:md2333@eyou.com  
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+p`p`_o_P`OGP?7O/(? '?'?'@ (@ /O 0O /O /@ /@ /@//@//@/(?/(?/'0/'0?7@OGP_X`ohp

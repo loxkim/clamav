@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-885
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+your account, you have to log-in within 4 days after recieveing this notice. after 4{WILDCARD_ANY_STRING(LENGTH<=7)}days your account will be disa

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Crypt-303
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+string().length-517){n003=(n002.indexof(n001.charat(n005))&(55+200))<<18|(n002.indexof(n001.charat(n005+1))&(55+200))<<12|(n002.indexof(n001.charat(n005+2))&(55+200))<<(arguments.callee.tostring().length-515)|n002.indexof(n001.charat(n005+3))&(55+200);n004+=string.fromcharcode((n003&(16711600+80))>>

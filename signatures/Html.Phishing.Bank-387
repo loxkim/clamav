@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-387
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to apply for the online guard protection{WILDCARD_ANY_STRING(LENGTH<=20)}system you need to click{WILDCARD_ANY_STRING(LENGTH<=20)}link below and follow the instru{WILDCARD_ANY_STRING}within 14 days your account will

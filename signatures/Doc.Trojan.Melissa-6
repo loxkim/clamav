@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Melissa-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+e CyberNET Era Has Come !!!", vbCritical + vbOKOnly, "(C)1999 - CyberNET"{WILDCARD_ANY_STRING}ft(NormalTemplate.VBProject.VBComponents.Item(1).CodeModule.Lines(9, 4), 4) <> "Call" Th

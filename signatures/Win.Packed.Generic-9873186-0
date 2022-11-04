@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generic-9873186-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ShellCodePower.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ipconfig.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<PrivateImplementationDetails>{CFE2996F-CCC9-4188-B786-EAF27A7494E4}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+aR3nbf8dQp2feLmk31.lSfgApatkdxsVcGcrktoFd.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+xhfihkjsjegtmzwjpvackoxuhtprlyysznzdqgzvofuhmcdxrsgwjpzkkyepympovdyxzkvycfjfsmvkenakwgnjnpbbmjkcwxliqfxggitdrbhypfkmmejp

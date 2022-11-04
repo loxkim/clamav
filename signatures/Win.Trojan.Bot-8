@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bot-8
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+} } elseif ($sct["$dnick"]["status"] && $com[3]==':chgpass' && $com[4] && $com[5]) { if ($sct["$dnick"]) { if ($sct["$dnick"]["sct"]==2) { if ($com[4]===$sct["$dnick"]["pass"]) { $sct["$dnick"]["pass"] = $com[5]; fputs($fp,'notice

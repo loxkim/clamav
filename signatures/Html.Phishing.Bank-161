@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-161
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+email for your ebay account was changed on{WILDCARD_ANY_STRING(LENGTH<=30)}if you did not authorize this change,please contact us using the link below:

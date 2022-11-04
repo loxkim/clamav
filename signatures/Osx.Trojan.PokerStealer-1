@@ -1,0 +1,13 @@
+VIRUS NAME: Osx.Trojan.PokerStealer-1
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/ipid.shat.net/iponly{WILDCARD_ANY_STRING(LENGTH<=900)}"andrew%40schjelderup.org" 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+the_password} ${ip

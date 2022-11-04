@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Trojan-833
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Options -MultiViews
+ErrorDocument 404 //sites/default/files/imagecache/{WILDCARD_ANY_STRING(LENGTH<=8)}.php

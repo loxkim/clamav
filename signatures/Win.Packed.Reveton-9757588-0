@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Reveton-9757588-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Rrp.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%1 /s <
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6xtq5jpk9z558hji8rhtmpziit6xyizks864lwuulujwoqvr44q7ssuu8isw8quokur7nnyorwmssuv9qkl9yt7pqh4z7ppwu4u9t5txntikqv5tuphmzl9hv7rrsr99
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+111TEM\ControlSet001\services\fs_rec
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ Apple Macintosh

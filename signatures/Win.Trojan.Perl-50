@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-50
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+use socket; $cmd= "lynx"; $system= 'echo "`uname -a`";echo "`id`";histfile=/dev/null /bin/sh -i'; $0=$cmd; $target=$argv[0]; $port=$argv[1]; $iaddr=inet_aton($target) || die("error: $!\n"); $paddr=sockaddr_in($port, $iaddr) 

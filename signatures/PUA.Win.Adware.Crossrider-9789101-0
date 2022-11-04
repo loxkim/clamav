@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Crossrider-9789101-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+gShell32.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Come, let us make our father drink wine, and we will lie with him, that we may preserve seed of our father.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/akufifointmttnnmlhjdnajasafheuhcugprnjtajdrlgmhomefqlbircenitiap
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+311a1711193307061d27021613061727001e2d3a060602261d301b1c13000b341b1e1720170307170106
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+311a1711193307061d27021613061727001e2d07001e2d1c132d141d002d070216130617

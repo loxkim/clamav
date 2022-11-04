@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Lamoped-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+1), 12) = "Private Sub " And Right(TargetComponents(ModuleCount).CodeModule.Lines(TargetLines, 1), 8) <> ": p.r.s" Then

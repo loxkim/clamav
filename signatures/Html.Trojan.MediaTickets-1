@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.MediaTickets-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<script language="javascript" src="http://www.mt-download.com/mtrslib2.js"></script>

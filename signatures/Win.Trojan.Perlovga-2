@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Perlovga-2
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+[autorun]
+Shellexecute=copy.exe

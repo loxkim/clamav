@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NSI-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set inf = NormalTemplate: nsi$ = ns$ + "Close()"{WILDCARD_ANY_STRING}infic.insertlines coco, macic.lines(coco, 1)

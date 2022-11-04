@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Visor-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Open ActiveDocument.FullName For Append As #1{WILDCARD_ANY_STRING(LENGTH<=10)}Print #1, "GPPW_" & dlg.Password & "GPWPW_" & _

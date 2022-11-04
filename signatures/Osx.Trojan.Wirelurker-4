@@ -1,0 +1,23 @@
+VIRUS NAME: Osx.Trojan.Wirelurker-4
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0|1|2|3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/bin/launchctl load -wF /System/Library/LaunchDaemons/com.apple.MailServiceAgentHelper.plist
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+periodicdate{WILDCARD_ANY_STRING(LENGTH<=250)}/var/db/lockdown/%s.plist
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/System/Library/LaunchDaemons/%@{WILDCARD_ANY_STRING(LENGTH<=250)}/usr/bin/com.apple.MailServiceAgentHelper
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+comeinbaby.com

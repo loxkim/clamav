@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Tool.Bitminer-9808392-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$___ZZN13RandomX_Arqma10execute_vmILi8ELb0EEEvPvS1_S1_PKvjjbbE15vm_states_local__7272
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.nv.constant2._ZN13RandomX_Arqma10execute_vmILi8ELb0EEEvPvS1_S1_PKvjjbb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$___ZZN13RandomX_Arqma7init_vmILi8EEEvPvS1_E18execution_plan_buf__4940
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.nv.shared._ZN13RandomX_Arqma22blake2b_hash_registersILj256ELj2048ELj64EEEvPvPKv
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.nv.shared._ZN13RandomX_Arqma11hashAes1Rx4ILy262144ELj192ELj2048ELy64EEEvPKvPvj

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bug-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+demodule.replaceline 5, "If Day(Now) = 28 And Month(Now) = 7 Then " & Application.UserInitials & ".show"

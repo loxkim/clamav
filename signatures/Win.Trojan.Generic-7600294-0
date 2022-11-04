@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-7600294-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ NomeSecondoDB, Multistruttura,IP,PortaIP,userip,pswdip,lunghezzavariabile,separatore,latenza)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+VDA Micromaster IP: Password errata 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Promelit IPECS: Password errata 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ stato trovato il file PRXM_Parametri_VDAMicromasterIP.ini
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\PRXM_Parametri_VDAMicromasterIP.ini

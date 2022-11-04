@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Melissa-21
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+File$ = Chr$(Asc(Chr$(Asc(Chr$(Asc(Chr$(A + 2))))))) + Fname$ + Chr$(100){WILDCARD_ANY_STRING}If NotInNT = True Or NotInAD = True Then Dobj.VBComponents.Import (File$)

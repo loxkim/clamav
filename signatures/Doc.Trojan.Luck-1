@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Luck-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+varResponse = MsgBox(Trim(intV) + " + " + Trim(intW) + " - " + Trim(intX) + " * " + Trim(intY) + _

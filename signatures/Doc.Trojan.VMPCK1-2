@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.VMPCK1-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If bluerabbitobject = 1 Then pinkrabbitobject = ActiveDocument.FullName Else pinkrabbitobject = NormalTemplate.FullName

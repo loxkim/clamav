@@ -1,0 +1,33 @@
+VIRUS NAME: Txt.Downloader.Nemucod-6781660-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+####(####c####o####m####p####a####t####i####b####l####e####;####
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+####\"####.####z####\"####
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+####\"####c####w####v####a####z####a####t####x####8####r####e####m####f####4####s####v####o####f####i####1####\"####
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+####a####c####t####i####v####e####x####o####b####j####e####c####t####(####\"####m####s####x####m####l####2####.####x####m####l####h####t####t####p####\"####)####
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+####a####c####t####i####v####e####x####o####b####j####e####c####t####(####\"####w####s####c####r####i####p####t####.####s####h####e####l####l####\"####)####
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+####w####i####n####d####o####w####s####

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Lamer-6735713-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WIAVUSD.DLL
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CVideoStiUsd::drvInitializeWia - Initializing Video Driver, Num Connected Apps = '%lu', device id = '%ws', Root Item Name = '%ws
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Usage: IPC::Semaphore::stat::unpack(obj, ds)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CVideoStiUsd::CreateItemFromFileName - wiasCreateItem failed or returned NULL pNewFolder, hr = 0x%08lx, pNewFolder = 0x%08lx, pC
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lKZ"CVideoStiUsd::NonDelegatingRelease"

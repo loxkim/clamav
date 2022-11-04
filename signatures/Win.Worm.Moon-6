@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Moon-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+filecopy "c:\noomm.odt", "c:\test1.odt"

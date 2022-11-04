@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6741492-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+</u> <small>&#9660;</small></a> | <a target=_top id=gb_70 href="https://accounts.google.com/ServiceLogin?hl=zh-TW&continue=http
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ck=gbar.logger.il(1,{t:5}); class=gb1 id=gb_5 href="http://news.google.com.tw/nwshp?hl=zh-TW&tab=wn">
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ar.logger.il(1,{t:25}); class=gb1 id=gb_25 href="https://drive.google.com/?tab=wo">
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+)},Aa={signed:X,elog:za,base:"https://plusone.google.com/u/0",loadTime:(new Date).getTime()};I.pw=Aa;var Y=function(a,b){for(v
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+li class="am-dropdown-menu-item"><a class="am-dropdown-menu-item-text" href="/url?q=http://webcache.googleusercontent.com/s

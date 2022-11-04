@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-888
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+title></head><body><a href="http://www.53.com.{WILDCARD_ANY_STRING(LENGTH<=150)}"><img src="cid:{WILDCARD_ANY_STRING(LENGTH<=150)}"></a></body></h

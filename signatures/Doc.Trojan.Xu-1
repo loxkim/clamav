@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Xu-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If ActiveDocument.VBProject.VBComponents.Item(1).CodeModule.Lines(1, 1) = "'Xu_star macro Virus  

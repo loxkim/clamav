@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7601561-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0»10
+	’&‰“ò,d
+2KC5RLD6EG1G0EU>iPhone Distribution: Shaanxi Apex Network Technology Co., Ltd.10U
+2KC5RLD6EG1200U
+)Shaanxi Apex Network Technology Co., Ltd.10	UCN
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0191128050249Z221127050249Z

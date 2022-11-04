@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Badboy-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+C = MsgBox(MsgS(RndResult), vbYesNo, "希望你能接受我的邀请!")

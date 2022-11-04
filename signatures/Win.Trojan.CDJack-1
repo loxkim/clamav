@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.CDJack-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+gbox "Komm schlieﬂ das Laufwerk bitte wieder mir wird kalt!"{WILDCARD_ANY_STRING}OpSysSet = GetObject("winmgmts:{(Shutdown)}//./root/cimv2").ExecQ

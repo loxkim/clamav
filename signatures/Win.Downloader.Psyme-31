@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.Psyme-31
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+df.createobject("shell.application","")%0d%0aq.shellexecutefname

@@ -1,0 +1,18 @@
+VIRUS NAME: Osx.Trojan.Agent-6852409-0
+TDB: Engine:51-255,Target:0
+LOGICAL EXPRESSION: 0&(1|2)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<!doctype plist
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+curl $s/sample.zip -o sample.zip; unzip sample.zip -d sample; cd sample;
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+k1gqvkk7qyefmj3jphiebo1m7fuktowdq6h

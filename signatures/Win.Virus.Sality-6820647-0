@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6820647-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+failed to own installer mutex, but still going to try and launch the updater
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hCreating UpdateEvent failed with %d, still going to try and aquire the installer
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"en":"Unable to complete initialization.\nPlease try reinstalling.\n(Error {err}:{etag})",
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"en":"Unable to complete initialization.\nPlease try reinstalling.","es_es":"No se pudo completar la inicializaci
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"nl":"De initialisatie kan niet worden voltooid.\nProbeer het programma opnieuw te installeren.\n(Fout {err}:{etag})",

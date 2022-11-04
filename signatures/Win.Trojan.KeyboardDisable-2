@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KeyboardDisable-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+tions.VirusProtection = 0{WILDCARD_ANY_STRING}#1, "rundll32.exe Keyboard, Disab

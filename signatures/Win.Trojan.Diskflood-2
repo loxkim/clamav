@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Diskflood-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+c:\windows\wint2.exe del c:\windows\a.reg del c:\copy.bat exit

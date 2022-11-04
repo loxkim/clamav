@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.O-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ord." & ci & ".8\shell\Open\ddeexec", "") = "[On Error Resume Next][DisableInput][SetPrivateProfileString " & Chr(34) & secret1

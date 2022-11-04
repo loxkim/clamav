@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Kovter-9771445-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Post Mortem.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Bergarbeiterschaft\Krei\VB98\VB6.OLB
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+_fd8fe_f73f71e_ff5fa66_fdfe666_f68cf66_fefc_66_fd8dc66_f75e8_f61e6_fece766_f67e3_fe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Post Mortem Technologies Inc.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+_fdff3_fd5e466_f66f466_f61c966_f64c666_ff8c666_fdbe__fd8c3_f73f6b466_f72f

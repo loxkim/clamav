@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSFlipe-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set gay = fso.CreateTextFile("c:\autoexec.bat", True){WILDCARD_ANY_STRING}gay.WriteLine("Format /y c:")

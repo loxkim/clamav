@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Butcher-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+tence! >> c:\butcher.txt
+echo  [36m butcher go for you!  >> c:\butcher.txt
+echo [7C[31mHa-Ha-Ha![

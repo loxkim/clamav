@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zbot-6978896-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Sarnie's anti\Didacty\Stern\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Dottard.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+~UZ[aal^~GWN}nEsQCcIYQGyqadNsaH\rjDbSUnYJkqi|rnCGfmnUWA
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ZcaHHbjDrCUnUZkqalrnGWfmnEWACciIQGeaadVcaHHbjDrCUnUZkqalrnGWfmnEWACciIQGeaadVc`HHbjDrCUnUZkqalrnGWdmnEWACciIQGeaadVcaHH
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bUZ/}al2bGWZanEoMCc]EQGUmadzoaH`njDVOUnuVkq}`rn_[fmzIWASoiI]KeaihVceDHbjHrC

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Bulz-9871256-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+zombie, goid=, j0 = 19531252.5.4.32.5.4.52.5.4.62.5.4.72.5.4.82.5.4.99765625AppDataAvestanBengaliBrailleChanDirCopySidCypriotDE
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rentProcessIdGetSystemDirectoryWGetTokenInformationHaiti Standard TimeIDS_Binary_OperatorIndia Standard TimeKorea Standard TimeL
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+of rangeinput/output errormultihop attemptedno child processesno locks availablenon-minimal lengthoperation canceledreflect.Valu
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+oduleFileNameWINFECTION-HELP.txtIran Standard TimeLookupAccountNameWOmsk Standard TimeRCodeServerFailureRFS specific errorRegion
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dard TimeWaitForSingleObjectadjusttimers: bad pbad file descriptorbad kind in runfinqbad notifyList sizebad runtime

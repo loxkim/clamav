@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Zpack-9762817-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\atlhost.h
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+_dupenv_s_dbg(&envbuf, ((void *)0), envpfx, 2, "f:\\dd\\vctools\\crt_bld\\self_x86\\crt\\src\\cenvarg.c"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Select the download folder.P%s can not be installed on systems with Windows Installer version lower than %s.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+f:\dd\vctools\crt_bld\self_x86\crt\src\system.c
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+_dupenv_s_dbg(&envbuf, ((void *)0), "COMSPEC", 2, "f:\\dd\\vctools\\crt_bld\\self_x86\\crt\\src\\system

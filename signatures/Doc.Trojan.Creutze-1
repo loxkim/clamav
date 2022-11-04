@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Creutze-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Code_Actual = xActual.CodeModule.CountOfLin{WILDCARD_ANY_STRING}If xNormal.Name <> "{WILDCARD_ANY_STRING(LENGTH<=50)}" And Attribs <> 1 Then{WILDCARD_ANY_STRING}Do While Code_Normal > 0{WILDCARD_ANY_STRING}xNormal.CodeModule.DeleteLi

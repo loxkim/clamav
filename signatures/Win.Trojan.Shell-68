@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Shell-68
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+<?php
+{WILDCARD_ANY_STRING(LENGTH<=64)}$color = "#df5";
+$default_action = 'FilesMan';
+$default_use_ajax = true;
+$default_charset = 'Windows-1251';
+preg_replace("/.*/e","

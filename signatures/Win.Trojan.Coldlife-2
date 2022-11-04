@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Coldlife-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+mcopy porn tetris.exe{WILDCARD_ANY_STRING(LENGTH<=9)}porn cracker.exe

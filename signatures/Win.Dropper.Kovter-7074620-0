@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kovter-7074620-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Fortzuschleifen\Breitba\VB98\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Nachrichtenportal
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+o3?z3?z3?z3?z3?z3?z3?z3?z3?z3?z3?z3?z3?z3?z3?z3?z3?z3?z3?z3?z3?z3?z3?z`o
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+>%->%->%->%->%->%->%->%->%->%->%->%->%->%->%->%->%->%->%->%->%->%->%-9
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+npiDpiDpiDpiDpiDpiDpiDpiDpiDpiDpiDpiDpiDpiDpiDpiDpiDpiDpiDpiDpiDpiDpiD

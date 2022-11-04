@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Angela-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #2, "debug < angela.dll > nul"

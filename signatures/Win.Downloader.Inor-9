@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Downloader.Inor-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ew ActiveXObject('WScript.Shell');
+	wsh.Run("c:\\824344.exe");
+	window.close();
+</

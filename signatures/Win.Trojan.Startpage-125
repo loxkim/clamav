@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Startpage-125
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+r filepath = tfolder + "\\update13.j{WILDCARD_ANY_STRING}w ActiveXObject("WScript.Shel

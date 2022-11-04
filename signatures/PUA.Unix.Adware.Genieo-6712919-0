@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Adware.Genieo-6712919-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sendRZReport('product','Postback Fail','IP Already Exists','0')
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eyJzY2hlbWFWZXJzaW9uIjoxNywiYWRkb25zIjpbeyJpZCI6Ins5NzJjZTRjNi03ZTA4LTQ0NzQtYTI4NS0zMjA4MTk4Y2U2ZmR9Iiwic3luY0dVSUQiOiJYcmZSR0Nx
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sendRZReport('product','Run Time','%d','')
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sendRZReport('product','Agent','Keep Alive','%@')
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+helpers.functions.installer.installerInit('%@','%@','%@',%@,'%@','%@','%@','%@','%@')

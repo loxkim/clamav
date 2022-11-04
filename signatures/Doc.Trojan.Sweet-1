@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sweet-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If item.Name = "SweetKiller" Then InTemplate = True

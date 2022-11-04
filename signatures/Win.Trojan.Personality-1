@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Personality-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo Set ol=CreateObject("Outlook.Application") >> C:\WorDav.vbs

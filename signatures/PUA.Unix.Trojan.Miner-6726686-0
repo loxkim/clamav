@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Trojan.Miner-6726686-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+virtual void epee::net_utils::network_throttle::set_target_speed(epee::net_utils::network_speed_kbps)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZN4epee9net_utils4http19http_custom_handlerINS0_23connection_context_baseEED2Ev
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZN5boost4asio20basic_deadline_timerINS_10posix_time5ptimeENS0_11time_traitsIS3_EEE16expires_from_nowERKNS2_13time_durationE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZN5boost4asio21basic_socket_acceptorINS0_2ip3tcpEE10set_optionINS0_6detail13socket_option7booleanILi65535ELi4EEEEEvRKT_
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZN5boost4asio21basic_socket_acceptorINS0_2ip3tcpEE4bindERKNS2_14basic_endpointIS3_EE

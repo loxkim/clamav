@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.HTML-13
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+aaa=wshshell.run("winupdate.exe",0,false

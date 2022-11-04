@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Bancos-6646699-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://www2.realsecureweb.com.br/scripts/engine_brpi.dll?VIEW=xw9rjXuwfN&STATUS=8&SESSAO=K2hJ9755jwvKlog&OPERA=Direcion
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+G*\AC:\Documents and Settings\Tato\Desktop\tatorh\fonte das paginas 1024 768\grn\PRJGRN.VBP
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+gwn5.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BANCO REAL - ABN AMBRO - icrosoft Internet Explorer
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\windows\inf\cdafgrn.bsp

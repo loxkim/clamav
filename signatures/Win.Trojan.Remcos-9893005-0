@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Remcos-9893005-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid SQL date/time valuesNUnable to retrieve a pointer to a running object registered with OLE for %s/%s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+$Item %s has subitems, delete anyway?'You are not allowed to delete this item"Item %s is not allowed to be moved
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+9 949F9J9\9x9 :@:H:L:P:T:X:\:`:d:h:x:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ - Dock zone has no controlLError loading dock zone from the stream. Expecting version %d, but found %d.eCannot assign a
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnExecute06G

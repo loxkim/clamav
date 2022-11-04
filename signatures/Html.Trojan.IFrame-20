@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IFrame-20
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+f = document.createelement('iframe'); f.style.visibility = 'hidden'; f.src = 'http://'+{WILDCARD_ANY_STRING(LENGTH<=200)} document.body.appendchild(f);

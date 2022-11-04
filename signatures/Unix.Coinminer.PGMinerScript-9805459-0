@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Coinminer.PGMinerScript-9805459-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+dns-query?name=relay.tor2socks.in{WILDCARD_ANY_STRING}curl -4fsslk checkip.amazonaws.com

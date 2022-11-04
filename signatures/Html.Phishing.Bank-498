@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-498
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to take part in this quick and easy {WILDCARD_ANY_STRING(LENGTH>=1&&<=5)} question survey.{WILDCARD_ANY_STRING(LENGTH<=25)}in return we will credit {WILDCARD_ANY_STRING(LENGTH>=2&&<=15)} to your account{WILDCARD_ANY_STRING}expiration:

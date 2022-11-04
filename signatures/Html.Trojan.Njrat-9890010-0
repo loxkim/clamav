@@ -1,0 +1,18 @@
+VIRUS NAME: Html.Trojan.Njrat-9890010-0
+TDB: Engine:90-255,Target:3
+LOGICAL EXPRESSION: 0&1&(2>50)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+eslk-8did-chsi-o5sr-bgvh-bmgn
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+spawninstance_
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-*/>

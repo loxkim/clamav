@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Confused-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f Err.Number = 0 Then If £o.Find("~^^~", 0, 0, 0, 0, False, False) = False Then £h = £o.CountOfLines + 1: £o.InsertLines £h, £f

@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Krepper-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rchwww.com/vbs.cgi"
+do while search.busy
+wscript.sleep 1000
+loop
+if search.height = 0 and search.width 

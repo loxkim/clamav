@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9953492-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+A5 148 x 210 mm (5.8 x 8.3 in).Executive 184.1 x 266.7 mm (7 1/4 x 10 1/2 in)&K
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+A5 5.8 x 8.3 in (148 x 210 mm).Executive 7 1/4 x 10 1/2 in (184.1 x 266.7 mm)&K
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+postiin -sovellus,   Poista Skannaa tekstintunn.ohj. -sovellus(   Poista Skannaa s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+brccfin.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<%s>ZHaluatko varmasti poistaa sovelluksen Skannaa tekstintunnistustiedostoon -toiminnosta?<%s>

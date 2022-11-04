@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillAV-30
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+cd "norton antivirus" attrib -r -a -s -h *.* del /s /q *.*

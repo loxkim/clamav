@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Deltree-38
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+c: >nul >>c:autoexec.bat echo deltree /y c:@_@@_@@_@@_@@_@@_@s*.* >nul 

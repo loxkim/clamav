@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-726
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<body bgcolor="#fffff1" text="#364914"><p><a href="http://www.53.com.{WILDCARD_ANY_STRING(LENGTH<=100)}"><img src="cid:{WILDCARD_ANY_STRING(LENGTH<=100)}er="0"></a></p><p><font color="#fffff

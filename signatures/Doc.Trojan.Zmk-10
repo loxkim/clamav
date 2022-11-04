@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Zmk-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ActiveDocument.VBProject.VBComponents("DropScream").Export "C:\Av.log"{WILDCARD_ANY_STRING}.Text = "I hope you have buy a Antivirus..." & Chr(13) & "Tha

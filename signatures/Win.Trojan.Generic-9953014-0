@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9953014-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+onfigurationFile=C:\manzhaoserver\.minecraft\versions\1.12.2\log4j2.xml -XX:HeapDumpPath=MojangTricksIntelDriversForPerform
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+orge.fml.common.launcher.FMLTweaker --versionType Forge --tweakClass optifine.OptiFineForgeTweaker --width 854 --height 480
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+javaw.exe_minecraft.exe.heapdump -Djava.library.path=C:\manzhaoserver\.minecraft\versions\1.12.2\natives-windows-x86_64 -Dm
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\manzhaoserver\java\bin\java.exe -Dfile.encoding=windows-1252 -Dminecraft.client.jar=.minecraft\versions\1.12.2\1.12.2.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+set INST_JAVA=C:\manzhaoserver\java\bin\java.exe

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Expiro-9957169-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HRESULT %x thrown in SourceManager::GetSourceAndSetLists::<lambda_cc47e5b791ddce95864b1f94440956c1>::operator ()() on li
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HRESULT %x thrown in SourceManager::_GetProviderWrapper::<lambda_b4fe9ae2db7948750a999720168cbdda>::operator ()() on lin
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HRESULT %x thrown in ClientConnection::_HandleCloseSource::<lambda_d26fec8d1fbc5a17885afd07b5ac03fa>::operator ()() on l
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HRESULT %x thrown in SourceManager::AddFrameProviderInfo::<lambda_0ae1619da8e3782f4106a3d04abfe7cf>::operator ()() on li
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HRESULT %x thrown in SourceManager::AddFrameProviderInfo::<lambda_257b7de65bbd504542d6c13faaac3c1e>::operator ()() on li

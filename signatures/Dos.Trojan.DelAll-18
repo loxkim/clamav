@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.DelAll-18
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+For %%a In (*.*) Do Erase %%a

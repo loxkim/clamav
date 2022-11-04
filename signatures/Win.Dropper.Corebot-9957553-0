@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Corebot-9957553-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/c "mode con cols=4000 lines=1000 && powershell.exe -NonInteractive -NoProfile -NoLogo -ExecutionPolicy Unrestricted -F
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CreateProcess error: %d, path: %S
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+not all data loaded, loaded: %d, content-length: %d, try: %d / %d, last error: %d
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GetProcessParents(GetCurrentProcessId(), parents)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+InjectCreateThread(proc.handle(), TestInjectedEntry, 0, 0)

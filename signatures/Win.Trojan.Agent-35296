@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35296
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+document.body.onunload=vuln_pop;vuln_show();}functionvuln_show(){if(vuln_win)vuln_win.show(vuln_x,vuln_y,vuln_w,vuln_h);}varvuln_html="\x3cdivstyle="height:1

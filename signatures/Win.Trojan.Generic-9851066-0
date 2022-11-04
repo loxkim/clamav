@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9851066-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+GET http://login.yahoo.com/config/login?login=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/config/login?.redir_from=P ROFILES?&.tries= 1&.src=jpg&.last=&promo=&.intl=us&.bypass=&.partner=&.chkP=Y&.done=http://j
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+about:<body bgcolor=FFFFFF text=C0C0C0 <H3><Center>.</a><img src="http://www.source-logic.net/php/themes/Portall/images
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+edit.vip.tpe.yahoo.com
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+edit.bjs.yahoo.com

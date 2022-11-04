@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-200
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+as a new email address for{WILDCARD_ANY_STRING(LENGTH<=7)}your paypal account therefore your account has been temporarily{WILDCARD_ANY_STRING(LENGTH<=14)}suspended.{WILDCARD_ANY_STRING(LENGTH<=14)}we need you to confirm your ident

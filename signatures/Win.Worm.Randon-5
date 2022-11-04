@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Worm.Randon-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on *:start:{
+  run system32.exe /n /fh cOOL
+  cls
+  leed
+  setup 
+  ouo
+  autorun
+  timerco 1 3 connect
+}

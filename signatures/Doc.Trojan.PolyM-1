@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.PolyM-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+NormalTemplate.VBProject.VBComponents("PMorphVir98").CodeModule.InsertLines 153, "Sub ViewVBCode"

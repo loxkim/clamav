@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1521
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Subject: - Your account may have been accessed from an unauthorized{WILDCARD_ANY_STRING(LENGTH<=112)}Click here to visit Western Union now

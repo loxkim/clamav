@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Drolnux-9770521-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+.\.RECYCLER\package.exe!%SystemRoot%\system32\shell32.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SELECT hostname,httpRealm,encryptedUsername,encryptedPassword FROM moz_logins;
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%c:\.RECYCLER\%ls.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SELECT origin_url, username_value, password_value FROM logins
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+aHR0cDovL3NydjcwLnB1dGRyaXZlLmNvbS9wdXRzdG9yYWdlL0Rvd25sb2FkRmlsZUhhc2gvQUIzNDVFQ0QzQTVBNEE1UVFXRTIwNDQzNjZFV1FTL21vemdsdWUuZ3o

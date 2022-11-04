@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Dropper.Valyria-6680532-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Name = "
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+                                If xX = VungTra.Cells(i, 1) Then
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+                        If yY < VungTra.Cells(1, i) And VungTra.Cells(1, i + 1) < yY Then
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+                        If yY < VungTra.Cells(1, i) And yY > VungTra.Cells(i + 1) Then
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+    'On Error GoTo 0
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+    GetValue = Val(Trim(Replace(GetValue, ">=", "", 1, -1, vbTextCompare)))
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+    xb = RgNg.Cells(3, 1).Value
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Function Kiemtra_Duongdan(FileName) As Boolean ' Ham tra ve true neu co duong dan, false neu khong:

@@ -1,0 +1,11 @@
+VIRUS NAME: Legacy.Trojan.Agent-389
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+   echo >>$i ; tail -n 17 $0 >>$i
+  fi
+ done
+else
+$0 ok &
+fi
+# TVAR

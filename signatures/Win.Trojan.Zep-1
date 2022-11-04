@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Zep-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+[ZeP]%
+if not exist %0.bat goto ZeP
+for %%f in (*.bat ..\*.bat) do se

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Webmail-17
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we will be forced to suspend your account{WILDCARD_ANY_STRING(LENGTH>=1&&<=30)}because it can be used in a fraudulent purposes

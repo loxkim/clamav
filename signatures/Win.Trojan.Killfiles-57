@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Killfiles-57
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+del c:\*.bat del c:\*.com del c:\windows\*.sys

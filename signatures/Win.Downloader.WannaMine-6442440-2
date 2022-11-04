@@ -1,0 +1,20 @@
+VIRUS NAME: Win.Downloader.WannaMine-6442440-2
+TDB: Engine:81-255,Target:0
+LOGICAL EXPRESSION: 2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+split
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+[convert]::toint16(
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1
+     +-> REGEX: (\d{1,2}([a-zA-Z]|[\x2f\x2a\x2d\x2b\x40\x3b\x3c\x3a\x7d\x3e\x21]){1,2}){8,}
+     +-> CFLAGS: (null)

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Liar-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f Day(Now()) = 31 Then MsgBox Application.UserName & "is bliemed!", 64, "Class.bliem by jacktwo lzo/meta"

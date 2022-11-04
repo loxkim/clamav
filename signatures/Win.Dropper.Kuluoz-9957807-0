@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kuluoz-9957807-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Application Error3Format \'%s\' invalid or incompatible with argument
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+#\'%s\' is not a valid integer value*\'%s\' is not a valid floating point value
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+No argument for format \'%s\'Invalid variant type conversion
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+software\classes\typelib\{3f4daca7-160d-11d2-a8e9-00104b365c9f}\1.0
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\'%s\' is not a valid date

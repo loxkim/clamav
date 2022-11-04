@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-9935369-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\4eb8a0362b9f9903b1e8012854610c03576c2acbdbc7e82df970148dcbd6050b.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\57984b10993e409c65c17f71f890bc4e8a967b400ec7c7d08fe61cf012fe2a6d.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\b8f21ae2766e20f616ca0024d8c7b0e3f7491146ee04fef3c2abad7afbd2110d.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\3e6b44ca5f78df79168cc817a0ff63506f9fddc6a789c32b57fbd977b5c04108.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Frank\Desktop\JFWozjKt.exe

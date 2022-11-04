@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Deltree-31
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+@echo off @break off deltree/c: y\*.*

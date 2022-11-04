@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Browsefox-9779824-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://factsright-a.akamaihd.net/FactsRight/cr?t=Browser&g=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IDispEventSimpleImpl@$01VCFactsRightBHO@@$1?DIID_HTMLDocumentEvents2@@3U_GUID@@B@ATL@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IDispEventSimpleImpl@$00VCFactsRightBHO@@$1?DIID_DWebBrowserEvents2@@3U_GUID@@B@ATL@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ForceRemove '{a0a27cc7-3248-48b5-a7d3-3132f876e783}' = s 'Facts Right' {
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CComCoClass@VCFactsRightBHO@@$1?CLSID_FactsRightBHO@@3U_GUID@@B@ATL@@

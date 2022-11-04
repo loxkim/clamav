@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Tech-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Application.VBE.ActiveVBProject.VBComponents("expB2").Export "c:\log.386"{WILDCARD_ANY_STRING}If Day(17) And Month(Now) Then

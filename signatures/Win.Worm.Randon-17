@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Randon-17
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+timer 1 600 remove Infect $+ $sock($sockname).ip $+ .vbs{WILDCARD_ANY_STRING}alias bishazz { /sockclose ip* |  .timers of

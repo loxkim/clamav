@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Petik-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+argo"
+nouveau.WriteLine "cls"
+nouveau.WriteLine "echo This is the signature of my new virus"
+nouveau.Writ

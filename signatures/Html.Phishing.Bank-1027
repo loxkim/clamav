@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1027
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if you choose not to verify your account information within the next {WILDCARD_ANY_STRING(LENGTH<=35)}you'll let us no choice than to sus

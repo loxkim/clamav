@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ira-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+eProfileStringN = False And INIFile = "vba.ini"{WILDCARD_ANY_STRING}Temp = "K`lzbja{/|zllj||izccv/kj|{}`vjk!"

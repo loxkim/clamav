@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Downloader.WinShow-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+lf.location="http://www.full-search.net/search/search.php?pin="+PIN+"&qq="+text;
+}
+
+var b1 

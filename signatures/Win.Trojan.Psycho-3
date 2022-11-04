@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Psycho-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+\Office\9.0\Word\Security", "Level") = 1&

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1420
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+não será permitido o acesso ao Bradesco Internet Banking sem a instalação{WILDCARD_ANY_STRING(LENGTH==90)}do programa de proteção extra

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.AntiMcAfee-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+net stop "McAfee.com VirusScan Online Realtime Engine"

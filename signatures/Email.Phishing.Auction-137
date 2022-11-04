@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Auction-137
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Dear Valued eBay Member,{WILDCARD_ANY_STRING(LENGTH<=10)}We regret to inform you that your eBay account has been suspended due to the vio

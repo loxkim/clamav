@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6824784-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FileAppend, You need to be an Administrator type user on that PC to use RunAsUser., %A_Temp%\RunAsUser.Error
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MsgBox FileToRun`n%FileToRun%`n`nFlags`n%Flags%`n`nPathToFile`n%PathToFile%`n`nTarget is %Target%
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MsgBox, 0, PROBLEM !!, The file extension is not an executable type.`n`n%CommandLineArray1%, 10
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FileDelete, %A_Temp%\RunAsUser.Error
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RunAsUser.exe

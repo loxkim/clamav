@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Postcard-3
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+greeting.gif.exe"{WILDCARD_ANY_STRING(LENGTH<=50)}to receive your animated greeting

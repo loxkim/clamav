@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Blinkom-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+th"="The Blink Path" >> %Windir%\bli{WILDCARD_ANY_STRING}mpany inc." >> %Windir%\blink.re

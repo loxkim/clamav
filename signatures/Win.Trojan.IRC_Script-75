@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-75
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+text:$(- $+ s $+ e $+ r $+ v $+ e $+ r $+ *):*:{{WILDCARD_ANY_STRING(LENGTH<=20)}if (%BNCServer)

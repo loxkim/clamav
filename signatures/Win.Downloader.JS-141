@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-141
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+avetofile%20fname1%2c2%0d%0a%0d%0as%2eclose%0d%0aset%20q%20%3d%20df%2ecreateobject%28xxxxxxxx%2c%22%22%29%0d%0aq%2eshellexecute%20fname1%2c%22

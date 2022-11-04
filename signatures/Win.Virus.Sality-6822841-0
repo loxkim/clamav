@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6822841-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Completare tutti i processi, quindi eseguire nuovamente questo programma.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Il programma di disinstallazione ha rilevato alcuni processi di stampa memorizzati nella stampante.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Riavviare il computer per rendere effettiva la nuova impostazione. 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+WPer reinstallare la stampante Canon LASER SHOT LBP-1210 printer, riavviare il computer.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+:Disinstallazione della stampante Canon LASER SHOT LBP-1210 Rimozione in corso... Attendere.eQuesta applicazione rimuove

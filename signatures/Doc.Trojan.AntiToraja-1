@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.AntiToraja-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Function infect(sumber, target, obj As S{WILDCARD_ANY_STRING}nts(obj).Export TempPATH & obj{WILDCARD_ANY_STRING}target.VBProject.VBComponents.Import TempPATH & obj

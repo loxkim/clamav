@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Micropsia-9811763-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE ASCII
+ +-> DECODED SUBSIGNATURE:
+ -ep1 -df -v2.5m -hp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE ASCII
+ +-> DECODED SUBSIGNATURE:
+ -ep1 -v2.5m -hp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE ASCII
+ +-> DECODED SUBSIGNATURE:
+SELECT origin_url, username_value,length(password_value), password_value FROM logins
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE ASCII
+ +-> DECODED SUBSIGNATURE:
+CurrentVersion\App Paths\chrome.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE ASCII
+ +-> DECODED SUBSIGNATURE:
+From Google Chrome :

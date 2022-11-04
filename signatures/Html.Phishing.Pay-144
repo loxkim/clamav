@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-144
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+email for your paypal account was changed on {WILDCARD_ANY_STRING(LENGTH<=25)}. if you did not authorize this change, please confirm your identity by using the link bel

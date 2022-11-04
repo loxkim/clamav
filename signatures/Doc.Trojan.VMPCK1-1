@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.VMPCK1-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+lTemplate.VBProject.VBComponents.Item("virus").Name <> "virus"{WILDCARD_ANY_STRING}ate.VBProject.VBComponents.Import "c:\windows\system\WD1_.DRV"

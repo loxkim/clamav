@@ -1,0 +1,33 @@
+VIRUS NAME: Txt.Dropper.Sload-6835718-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+19=t,1f,x,1g=t,1w=\'\';x=1k[\'\\r\\b\\3\\z\\u\\o\'](1g++);~x&&(1f=19%18?1f*2y+x:x,19++%18)?1w+=1f[\'\\14\\z\\7\\g\\10\\b\\3\\z\\10\\7\\h\\n\'](2z&1f>>(-1c*19&1k)):t){x=1i[\'\\q\\w\\h\\n\\g\\r\\14\'](x)}q
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1u(16){1i(y[9(\'2c\')](y[\'\\r\\s\\z\'](\'\',y[9(\'2d\')](16,16))[9(\'28\')],1r)||y[9(\'27\')](y[9(\'23\')](16,1n),t)){(b(){}[9(\'1j\')](9(\'24\'))())}22{(b(){}[9(\'1j\')](9(\'24\'))())}y[9(\'2o\')](1u,++16)}25{1u(t)}26(2l){}};2p();',62,195,'x46|x57|x56|x6
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1w})}());9[\'\\a\\3\\y\\n\\1p\\v\\17\\n\\r\\7\\h\\n\\5\\w\\q\\r\\7\\h\\n\']=b(1e){c
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+21%2a},\'\\8\\8\\s\':b
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseint(c/a)))+((c=c%a)>35?string.fromcharcode(c+29):c.tostring(36))}
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseint(c/a)))+((c=c%a)>35?string.fromcharcode(c+29):c.tostring(36))};if(!''.replace(/^/,string)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.C99-5
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ $n3tsh_updateurl = "http://emp3ror.com/n3tshell//update/"; //update server

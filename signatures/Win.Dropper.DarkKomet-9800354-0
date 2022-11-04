@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.DarkKomet-9800354-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+V;k0eo:G6jbc`hPDP,X@[aeX,[8slZ{k\s/hgR<h8LdFbKR|idZxtDg;D>QVn<?N^V1Ki5UK:n(({.k_kGZ;k0eo:G6jbc`hPDR,X@[aeX,[8slZ{k\s/hg
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hPDP,X@[aeX,[8slZ{k\s/hgR<h8LdFbKR|idZxtDg;D>QVn<?N^V1Ki5UK:n(({.j_kGZ;k0eo:G6jbc`hPDP,X@[aeX,[S
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RVJ ?N^V1Ki5UK:n(({.j_kGZ;k0eo:G6jbc`hPDP,X@[aeX,[8slZ{{\skngR<h8LdFbKR|idZxtDg;D>QVn<
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ak0eo:G6jbc`hPDP,X@[aeX,[8slZ{k\s/hgR<h8LdFbKR|idZxtDg;D>QV
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+f`h6AP,:E[a;],[bvlZ-n\s}mgRrm8L.CbK

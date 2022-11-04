@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.Inffinity-2
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+fso.OpenTextFile(s3+"\\add_js.js",1){WILDCARD_ANY_STRING}var source2 = f2.ReadAll(){WILDCARD_ANY_STRING}eval(source2);{WILDCARD_ANY_STRING}if (typeof v === "string" && k == "name" && v == name) {{WILDCARD_ANY_STRING}JSON.stringify(my_obj, function (key, value) {{WILDCARD_ANY_STRING}var f = fso.OpenTextFile(file_path,2);{WILDCARD_ANY_STRING}f.Write(json_encoded);{WILDCARD_ANY_STRING}for (var key in my_obj.roots.bookmark_bar.children) {
+//	WScript.echo(key)

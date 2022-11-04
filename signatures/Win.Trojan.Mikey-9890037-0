@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Mikey-9890037-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\amigo_buildbot\builder\amigo_3_8\build\src\chrome\browser\password_manager\chrome_password_manager_client.cc
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\b\4be9e5fb839c59ea\sw\physx\PhysXSDK\2.8.3\special\MetroLL\RELEASE\LowLevel\common\include\utils\PxcCache.h
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\amigo_buildbot\builder\amigo_3_8\build\src\content\child\child_message_filter.cc
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+I?GetDeploymentOption@ParseDescriptorResult@OvfManager@Vim@@QAEPAV?$DataArray@VDeploymentOption@OvfManager@Vim@@@Vmomi@@XZ
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\amigo_browser_38\amigo_3.0\src\components\signin\core\browser\about_signin_internals.cc

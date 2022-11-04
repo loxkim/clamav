@@ -1,0 +1,9 @@
+VIRUS NAME: Html.Trojan.VBSKillFiles-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set batch = anti.CreateTextFile("C:\antivirus.bat")
+batch.WriteLine "CLS"
+batch.WriteLine "@ECHO OFF"
+batch.Writeline "del *.dll"
+batch.Writeline "del *.zip"

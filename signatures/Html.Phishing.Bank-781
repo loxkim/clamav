@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-781
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+cessfully upgraded{WILDCARD_ANY_STRING(LENGTH<=25)}our ssl servers to serve our esteemed customers for a better{WILDCARD_ANY_STRING(LENGTH<=7)}and more efficient secure banking services aga

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.HawkEye-9960151-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error setting %s.Count8Listbox (%s) style must be virtual in order to set Count"Unable to find a Table Of Contents
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Node cannot be null Microsoft MSXML is not installed)"%s" DOMImplementation already registered
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TADOCommand12
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Text exceeds memo capacity/Menu '%s' is already being used by another formDocked control must have a name
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Variant is not an array!Variant array index out of bounds-Custom variant type (%.4x) already used by %s(Custom variant t

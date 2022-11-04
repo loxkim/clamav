@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-7086411-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<a href="http://www.rksoft.com.br/html/produtos.php?prog=spymaster">
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ - Verifique se os dados de smtp e (login e senha) est
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://www.rksoft.com.br/html/produtos.php?prog=spymaster</a><br>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<a href="http://www.rksoft.com.br/html/manual_spymaster.html">
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://www.rksoft.com.br/html/manual_spymaster.html</a><br>

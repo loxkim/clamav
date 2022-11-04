@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Brabat-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+"%path%\bin\javaw.exe" -jar "%temp%\foto.gif"

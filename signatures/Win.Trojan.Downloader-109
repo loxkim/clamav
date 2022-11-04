@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-109
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+@echo off net start bits if not exist "c:\nul" mkdir "c:" del "%temp%\payload.exe"

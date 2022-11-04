@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Qoma-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+copyfile wscript.scriptfullname, "C:\WINDOWS\Start Menu\Programs\StartUp\system7.vbs"{WILDCARD_ANY_STRING}acau.path)="vbs" or fso.GetExtensionName(Kacau.path)="vbe

@@ -1,0 +1,38 @@
+VIRUS NAME: Txt.Trojan.Downloader-9942202-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: (0|1|2)>1&(3|4|5|6)>1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\programdata\{WILDCARD_ANY_STRING(LENGTH>=4&&<=16)}\system32\microsoft\systemdata\office.ps1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\programdata\windows\system32\microsoft\systemdata\{WILDCARD_ANY_STRING(LENGTH<=8)}update{WILDCARD_ANY_STRING(LENGTH<=8)}.ps1
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\programdata\{WILDCARD_ANY_STRING(LENGTH>=4&&<=16)}\install.ps1
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ = replace("w{WILDCARD_ANY_STRING(LENGTH>=23&&<=78)}cript.{WILDCARD_ANY_STRING(LENGTH>=23&&<=78)}hell","{WILDCARD_ANY_STRING(LENGTH>=23&&<=78)},"s")
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$input = n`e`w-object system.io.memorystream(,$bytearray)
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ = @'{WILDCARD_ANY_STRING(LENGTH>=1&&<=2)}on error resume next{WILDCARD_ANY_STRING(LENGTH>=5&&<=6)} = "wscript.shel{WILDCARD_ANY_STRING(LENGTH>=2&&<=3)}set {WILDCARD_ANY_STRING(LENGTH>=4&&<=8)} = createobject({WILDCARD_ANY_STRING(LENGTH>=4&&<=8)} )
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+getmet`h`o`d{WILDCARD_ANY_STRING(LENGTH>=160&&<=180)}('c:\windows\microsoft.net\framework\v4.0.30319\aspnet_compiler.exe',$

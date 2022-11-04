@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-237
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+b>respond to this question in my messages.</b></font></td></tr><tr><td align="center"><b><font size="4"><a href="http://{WILDCARD_ANY_STRING(LENGTH<=150)}">respond now</a></f

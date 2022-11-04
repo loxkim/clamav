@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sida-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ordBasic.Organizer Copy:=1, Source:=n$, Destination:=M__$(count_), Name:="AIDS", Tab:=3

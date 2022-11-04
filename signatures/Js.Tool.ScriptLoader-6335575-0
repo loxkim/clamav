@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Tool.ScriptLoader-6335575-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+function loadscript(script_id, url, callback){{WILDCARD_ANY_STRING(LENGTH>=200&&<=300)}var script = document.createelement("script"); script.type = "text/javascript"; script.id =

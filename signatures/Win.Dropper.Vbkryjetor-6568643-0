@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Vbkryjetor-6568643-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+dos -Zl -Fo"C:\Program Files (x86)\DELL-PRO\Projects\Ulumiusernes.OBJ" -QIfdiv -ML -basic
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Rypers8.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+}C:\Program Files (x86)\Microsoft Vis
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\3<N\3<NI3<N]3<N\3<N\3<N]3<N\3<N]3<N]3<N
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GetFormA

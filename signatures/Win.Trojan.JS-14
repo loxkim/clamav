@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-14
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+);functionopenurl(url){varrndvar=math.round(math.random()*100000000);varmywin=open('',rndvar);mywin.resizeto(screen.availwidth,screen.availheight);mywin.moveto(

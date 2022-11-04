@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-717
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+as a preventative measure, we have temporarily limited access to sensitive {WILDCARD_ANY_STRING(LENGTH<=50)}account features.{WILDCARD_ANY_STRING(LENGTH<=25)}to restore your account please follow the lin

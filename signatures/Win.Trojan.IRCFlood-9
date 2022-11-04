@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IRCFlood-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+copy w.exe %SystemRoot%\%Xn%\%Xo%%Xs%%Xi%{WILDCARD_ANY_STRING},00,00,00,00,00,00,01,00,00,00,e0,ad,08,\>>u.reg
+echo   00,01,00,00,00,e8,03,00,00>>u.re

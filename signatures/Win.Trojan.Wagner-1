@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Wagner-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ V%A%
+copy %0.bat %A%
+attrib +r %A%
+ren %A% *.bat
+set A=
+:end
+ct

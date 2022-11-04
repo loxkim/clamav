@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zusy-9800085-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity name="Tweaking.com.Repair_Windows" processorArchitecture="X86" type="win32" version="3.0.0.0" />
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings" xmlns:asmv3="urn:schemas-microsoft-com:
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid ownerE%d is an invalid PageIndex value.  PageIndex must be between 0 and %d=This control requires version 4.70 o
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tment" progid="Codejock.CommonDialog.18.2.0" description="CommonDialog Control" />
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+This "Portable Network Graphics" image is not supported because either it's width or height exceeds the maximum size, 

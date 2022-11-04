@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kuluoz-9958951-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+A driver controlling a PCI device has tried to read or write from an invalid space using IRP_MN_READ/WRITE_CONFIG or via BUS_INT
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+)kErnel32
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ERFACE_STANDARD.  NB: These functions take WhichSpace parameters of the form PCI_WHICHSPACE_* and not a BUS_DATA_TYPE (!devstack
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+URPQQh\"A
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+F95TyB

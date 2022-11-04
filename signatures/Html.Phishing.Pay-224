@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-224
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<td class=sansserif align=middle><a href="http:/{WILDCARD_ANY_STRING(LENGTH<=150)}>click here to upgrade to a business or premier account </a></td></tr>

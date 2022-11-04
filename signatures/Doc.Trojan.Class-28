@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-28
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+host.codemodule.AddFromFile ("c:\class.sys"){WILDCARD_ANY_STRING}.replaceline ad - 5, "Sub ViewVBCode()"

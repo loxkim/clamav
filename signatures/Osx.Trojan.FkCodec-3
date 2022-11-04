@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.FkCodec-3
+TARGET TYPE: ANY FILE
+OFFSET: 6863
+DECODED SIGNATURE:
+http://www.whitesmoke.com{WILDCARD_ANY_STRING(LENGTH==174)}WhiteSmokeAppDelegate

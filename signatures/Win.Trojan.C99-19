@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.C99-19
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+list($usec, $sec) = explode(" ", microtime()); return ((float)$usec + (float)$sec);}} error_reporting(5); @ignore_user_abort(true); @set_magic_quotes_runtime(0); $win = strtolower(substr(php_os,0,3)) == "win"; define("starttime",getmicrotime()); if (get_magic_quotes_gpc()) {if (!function_exists("strips")) {function strips(&$arr,$k="") {if (is_array($arr)) {foreach($arr as $k=>$v) {if (strtoupper($k) != "globals") {strips($arr["$k"]);}}} else {$arr = stripslashes($arr);}}} strips($globals);} $_request = array_merge($_cookie,$_get,$_post); foreach($_request as $k=>$v) {if (!isset($$k)

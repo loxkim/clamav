@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Worm-67
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Net Share BooHoo=C:
+ping www.Norton.com -l 65500 -t
+ping www.microsoft -l 65500 -t
+Ping www.msn.com

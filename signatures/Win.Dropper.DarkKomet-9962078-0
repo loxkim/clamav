@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.DarkKomet-9962078-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+if exist "%tmp%\running2.log" del /f "%tmp%\running2.log" > nul
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tasklist /FI "IMAGENAME eq BiscontiComputers-start.exe" /FO CSV > %tmp%\running2.log
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+if exist "%temp%\end_prog.txt" del /f "%temp%\end_prog.txt" > nul
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+del /f "%tmp%\running.log" > nul
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+if exist "%tmp%\installed_av.txt" del /f "%tmp%\installed_av.txt" > nul

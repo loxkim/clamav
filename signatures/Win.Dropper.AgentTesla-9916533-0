@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.AgentTesla-9916533-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wrUJI::zpdJU(System_Object,System_Windows_Forms_ToolStripDropDownClosedEventArgs)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BgGyy::XBEol(System_Object,System_Net_HttpRequestHeader,System_Object)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xgHzz::hhNfD(System_IO_BinaryReader&,System_Collections_Generic_List`1<yzqUz>&,System_Object,System_Object)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xgHzz::ciXsI(System_IO_BinaryReader&,System_Int64,System_UInt32,System_Object,System_Object)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+uCEi::oGbc(System_Object,System_Windows_Forms_DragDropEffects)

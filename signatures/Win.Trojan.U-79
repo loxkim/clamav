@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.U-79
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+leen {}\`\" -a -w {} -a -n \"\`file {} | grep Bourne\`\" ] ; then
+    echo >> {}
+    cat /tmp/pure_virus >> {}
+fi" \;
+r

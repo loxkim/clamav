@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Moridin-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f Dir(windir & "\IMPMORI.DRV") = "" Then GoTo no_macro_code

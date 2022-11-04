@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Startpage-148
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
++"')\">"+k+"</a><br>");}
+document.write('</td></tr></table></td><td valign="top">')
+document.write('<form action="http://www.searchme

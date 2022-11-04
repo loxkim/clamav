@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Kit-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ %%b in (*.bat) do call s_g_w_w\%0 f %%b
+cd s_g_w_w
+if exist test d

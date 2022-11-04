@@ -1,0 +1,8 @@
+VIRUS NAME: Legacy.Trojan.Trojan-104
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for %%b in (*.bat) do set ^=%%b
+@find "^"<%^%>nul
+@if errorlevel 1 find "^"<%0>>%^%
+

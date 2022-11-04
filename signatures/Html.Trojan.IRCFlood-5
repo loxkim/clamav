@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.IRCFlood-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+== !flood.stop) { timerConstantFlood* off  | msg # Stopping Flood Complete... } 
+  if

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-35
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+UF19 = True Then NQ17.CodeModule.AddFromString ("Sub Document_Open()" & vbCr & NormalTemplate.VBPr

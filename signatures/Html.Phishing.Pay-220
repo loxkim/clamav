@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-220
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+paypal is available, a verified member has added a credit card and completed the expand{WILDCARD_ANY_STRING(LENGTH<=300)}<a title="click here to update your account" href="http:

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Thus-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If nt.Lines(12, 1) <> "'This is small fun'" Then nt.DeleteLines 1, nt.CountOfLines

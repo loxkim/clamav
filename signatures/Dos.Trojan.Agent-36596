@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36596
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off copy "c:\xd.bat" "c:\documents and settings\all users\u}lv\\{\\" "c:\program files\kaspersky lab\kaspersky anti-virus personal pro\uninstall.exe" "c:\documents and settings\all users\u}lv\\{\\xd.bat"

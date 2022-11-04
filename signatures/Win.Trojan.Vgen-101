@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Vgen-101
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ho off
+goto viru$0
+a 100
+jmp 114
+
+e 103 

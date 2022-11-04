@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Card-69
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+In order to process your refund you will need to complete the attached{WILDCARD_ANY_STRING(LENGTH<=20)}form

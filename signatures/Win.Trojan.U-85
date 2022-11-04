@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.U-85
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+# ACHTUNG! This shell script DOESN`T WORK!!!!!
+#!/bin/sh
+start
+# host code ...
+start

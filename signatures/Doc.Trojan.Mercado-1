@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mercado-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+c:\*.drv{WILDCARD_ANY_STRING}c:\windows\system\*.drv{WILDCARD_ANY_STRING}I have

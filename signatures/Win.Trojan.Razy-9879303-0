@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Razy-9879303-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\CSVN\CSVN_Windows_trunk\requirements\openssl\out32dll\libeay32.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\Source\FreshPaint\Main\FreshPaint_W8.1_QFE\Binaries\Win32\Release\CoreEngine.Windows\CoreEngine.Windows.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+rundll32.exe printui.dll,PrintUIEntry %s /q
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TargetoPhx.Symbols.OrderExtensionObject.GetExtensionObject(Phx.Symbols.SectionSymbol):Phx.Symbols.OrderExtensionObjectT
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7)?bind@trace@pprofiling@@YAXPAVIReader@12@PAXPAVclEnqueueNDRangeKernel_v0@post@win@12@@Z

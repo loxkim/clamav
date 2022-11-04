@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Silly-71
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+pwnt by me :P" ) 
+SLEEP ( "5000" ) 
+WINCLOSE ( "Naamloos - Kladblok" ) 
+WINWAITACTIVE ( "Kladblok" , "Wilt u de wijzigingen opslaan?" ) 
+SEND ( "!n" ) 
+SHUTDOWN ( "!y" 

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Deltree-20
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+deltree /y C:\windows\desktop*.*

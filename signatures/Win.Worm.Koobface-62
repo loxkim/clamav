@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Koobface-62
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If eXiST "C:\{WILDCARD_ANY_STRING(LENGTH<=30)}.exe" gOtO vvv 
+ ReM 23fgdfg 
+ del "C:\Windows\dxxdv34567.bat"

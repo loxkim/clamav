@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Inor-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CreateObject("Scripting.FileSystemObject"){WILDCARD_ANY_STRING}Int("&H" & Left(tmp(i), 2))

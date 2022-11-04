@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Futil-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+tty nul
+echo if [%%1]==[INFECT.BAT] goto fuckit > infect.bat
+echo del

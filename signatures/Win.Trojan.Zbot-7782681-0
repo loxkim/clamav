@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zbot-7782681-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+rgerkraftwerk Bandscheiben2.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wM\RowM\RowM\RowM\RowM\RowM\RowM\RowM\RowM\RowM\RowM\RowM\RowM\RowM\RowM\RowM\RowM\RowM\RowM\RowM\RowM\Row
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+itM.Tlw+ZQo/K_R#qN\litMpTlw_ZQo
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SowM\RowM\RowM\RowM\RowM\RowmXR?hM\RowM\RowM\RowM\RowM\RowM\RowM\RowM\RowM\RowM\RowMLRo
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Postsparkassenb

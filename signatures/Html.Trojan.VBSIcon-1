@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.VBSIcon-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ript.Shell")
+WshShell.RegWrite "HKEY_CLASSES_ROOT\htmlfile\DefaultIcon\", "C:\Windows\System\Shell32.dll,32

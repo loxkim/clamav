@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Crypt-334
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for(var n006=0;n006<n002.length;n006+=4){n004=(n003.indexof(n002.charat(n006))&0)<<18|(n003.indexof(n002.charat(n006+1))&0)<<12|(n003.indexof(n002.charat(n006+2))&0)<<(6)|n003.indexof(n002.charat(n006+3))&0;n005+=string.fromcharcode((n004&16711680)>>16,(n004&6528

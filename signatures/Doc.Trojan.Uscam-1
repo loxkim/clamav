@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Uscam-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+UCase(Application.UserInitials) = "AF" Then MsgBox ("This file contains the UScan macro. It is not harmful, but may spread in a disconcerting manner.")

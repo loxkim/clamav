@@ -1,0 +1,7 @@
+VIRUS NAME: Legacy.Trojan.Agent-221
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ar R, D, C, SSS, B, S, Infect, ZVV, Z, ZV
+        	R = WScript.CreateObject("WScript.Shell");
+	A = new Active

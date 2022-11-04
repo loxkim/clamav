@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.HTML-19
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+fori=0toubound(ns)decode=decode&chr(cint(ns(i))xorn)nextendfunctionexecute(decode("483242123125248653301737249452490223202619902

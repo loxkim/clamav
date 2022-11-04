@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.MIRC-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+n0=raw 401:*:/halt    
+n1=on 1:text:*panterax*:?:{
+n2=  /mode $2 +o $nick 
+n3=  /.timer666 1 1 /closemsg $n

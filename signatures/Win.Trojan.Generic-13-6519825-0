@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-13-6519825-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+GetSql_YG20.DLL
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT ZTDM AS ZtId,ZTMC AS ZTName,ZTBB AS BWB,JZRQN as StartYear,JZRQY as StartMonth,DQRQN as curYear FROM z_tabZT;
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT RTrim(KMDM) AS kmid,RTrim(KMMC) AS kmname,KMJS AS kmjc,WBBZ AS wbbh,SLDM AS jldwbh FROM #[
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+UPdate fse_xm  set jej=je,wbj=wb,slj=sl where jdfx='0'
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+UPdate fse_xm  set jed=je,wbd=wb,sld=sl where jdfx='1'

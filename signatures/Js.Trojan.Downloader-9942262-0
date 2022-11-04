@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Downloader-9942262-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+ new activexobject("wscript.shell").run( '"powershell.exe" powershell.exe -e

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Wicked-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+With Dialogs(wdDialogFileSummaryInfo): .title = "": .Subject = "": .Author = "Добрый

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ransomware.Dopplerpaymer-9861243-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+testapp.exe{WILDCARD_ANY_STRING}porl56r.dll{WILDCARD_ANY_STRING}kernel32.Sleep{WILDCARD_ANY_STRING}HnvFgr#Gtn!mb#Fhmb.pfGHN.pdb

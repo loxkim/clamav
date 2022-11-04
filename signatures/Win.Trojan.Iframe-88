@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Iframe-88
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+var n000=document.createelement(se);n000.setattribute("width","1");n000.setattribute("height","1");n000.frameborder=0;n000.setattribute(oz,db);document.body.appendchild(n000);

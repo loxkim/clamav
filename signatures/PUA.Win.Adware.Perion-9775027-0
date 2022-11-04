@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Perion-9775027-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IDispEventSimpleImpl@$00VCExtensionHelperObject@@$1?DIID_DWebBrowserEvents2@@3U_GUID@@B@ATL@@
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CComCoClass@VCExtensionHelperObject@@$1?CLSID_ExtensionHelperObject@@3U_GUID@@B@ATL@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AU?$CAtlValidateModuleConfiguration@$00VCExtensionModule@@@ATL@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'TypeLib' = s '{9AE7A6AE-162E-44c4-9A2B-A6B4EF19909D}'
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CAtlDllModuleT@VCExtensionModule@@@ATL@@

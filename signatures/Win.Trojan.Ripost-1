@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Ripost-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ul._muki
+for %%a in (c:\*.bat..\*.bat) do set _muki=%%a                   
+find "_muki"<%_muki%
+if erro

@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-714
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+print $sock "notify_defacer=SpyKids&notify_domain=http%3A%2F%2F$site[$a]&notify_hackmode=18&notify_reason=5&notify=+OK+\r\n";

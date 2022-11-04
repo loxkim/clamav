@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSDisableAV-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+cmd.exe/ctskillavpcc{WILDCARD_ANY_STRING(LENGTH<=33)}/ctskillavppm")

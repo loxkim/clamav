@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-477
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+es wurde ein neues sicherheitssystem ausgearbeitet, dass<br>vollkommen die m{WILDCARD_ANY_STRING(LENGTH<=2)}glichkeit ausschlie{WILDCARD_ANY_STRING(LENGTH<=2)}t, dass ein dritter zugriff

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Cold-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ld_exit
+echo n $cOld$.com>cOld.t
+echo e 0100 EB 3D 90 00 4B 02 02 00 00 54 68 65 44 72 61 77>>cOld.t
+echo e 

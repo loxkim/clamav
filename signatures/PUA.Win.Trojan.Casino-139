@@ -1,0 +1,13 @@
+VIRUS NAME: PUA.Win.Trojan.Casino-139
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Administrator\Documents\project\obfs\Obfs\Obfs\Template_LoadEXE_msi\Release\l.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+f:\dd\vctools\crt_bld\self_x86\crt\src\

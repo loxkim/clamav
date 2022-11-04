@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36674
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off regedit.exe /s 1.reg regedit.exe /s 2.reg regedit.exe /s 3.reg explorer.exe alltogether.html explorer.exe alltogether1.html echo go ahead an close windows exit

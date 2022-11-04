@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-137
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+you have added{WILDCARD_ANY_STRING(LENGTH<=600)}if you did not authorize this change or if you need assistance{WILDCARD_ANY_STRING(LENGTH<=4)}with your account, please contact paypal customer service at:

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1237
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+We urgently request that you should upgrade to the{WILDCARD_ANY_STRING(LENGTH<=4)}new security update.<BR>Now click here to start

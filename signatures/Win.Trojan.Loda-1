@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Loda-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+hkey_local_machine\{WILDCARD_ANY_STRING(LENGTH<=63)}"c:\windows\troyan.vbs"

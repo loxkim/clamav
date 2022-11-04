@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Acc-15
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+we advice you provide{WILDCARD_ANY_STRING(LENGTH<=4)}us with the below informations or your email account will be suspended

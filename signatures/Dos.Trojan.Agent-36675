@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36675
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off regedit.exe /s re11.reg hiderunpexed.exe vb.exe blank.html processkiller.exe exit

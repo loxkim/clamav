@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Noshare-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+net share /delete IPC${WILDCARD_IGNORE}{WILDCARD_IGNORE}net stop "netbios"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-240
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:socket::inet->new(peeraddr=>"$server",peerport=>"$porta",proto=>"tcp") or die "can not connect on server!\n"; $sk->autoflush(1); print $sk "nick $nick\r\n"; print $sk "user kirikcrew 8 * : .::kirikcrew::.\r\n"; print $sk "join $canale wew\

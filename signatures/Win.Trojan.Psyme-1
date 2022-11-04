@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Psyme-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+x.Send();
+var s = new ActiveXObject("ADODB.Stream");
+s.Mode = 3;
+s.Type = 1;
+s.Open();
+s.Write(x.responseBody);
+s.SaveToFile("C

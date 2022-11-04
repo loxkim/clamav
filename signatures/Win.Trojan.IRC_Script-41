@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-41
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if (*server* iswm $host) { nick d4rky[Srv] $+ $r(10000,99999) | goto end }

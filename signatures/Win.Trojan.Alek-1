@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Alek-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+eterko Tcherkassy 1992
+rem V0.02 - Virus finds its copies
+if "%1"=="+" goto find
+if not "%1"=="" goto copy
+

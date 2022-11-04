@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-54
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+;with({t:document}){ggg=1;rrr="gname";qwe=t["getelementsbytagname"]("div")[ggg];with({n000:qwe})for(j in n000)if(j.indexof("innerh")!=-1){qwe=qwe[j];}}s=[]zz="len";zz+="gth";aaa=qwe[e("zz")];b="tr(i,1)*10";b2="tr(i+1,1)*1)";i=0;k

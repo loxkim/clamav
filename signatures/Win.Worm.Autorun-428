@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Autorun-428
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+[autorun]
+open=autoprompt.exe

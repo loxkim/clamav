@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Michael-7
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Not NTInfected Then{WILDCARD_ANY_STRING}ganizerCopy Source:=ThisDocument.FullName, Destination:=NormalTemplate.FullName, Name:="{WILDCARD_ANY_STRING}NormalTemplate.Save

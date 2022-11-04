@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Whitehome-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.deletefile%20defpath%0d%0aend%20sub%0d%0a%0d%0asub%20%20executemail%28%29%0d%0aon%20error%20resume%20next%0d%0avbs_str%20%20%3d%20getscriptcod

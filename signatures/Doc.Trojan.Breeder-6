@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Breeder-6
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+e(WordBasic.[Right$](ThisFile$, 4)) = ".DOT" Then{WILDCARD_ANY_STRING}oCopy "Global:FileSave", WordBasic.[FileName$]() + ":AutoO{WILDCARD_ANY_STRING}opy ThisFile$ + ":AutoOpen", "Glob

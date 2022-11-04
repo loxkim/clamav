@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-686
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+estamos enviando os itens a serem licitados, no link abaixo descriminado{WILDCARD_ANY_STRING(LENGTH<=30)}Caso esteja interessado favor enviar proposta

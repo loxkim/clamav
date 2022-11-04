@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Halimaw-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If GlobInfect = False Then{WILDCARD_ANY_STRING}ion.OrganizerCopy Source:=ActiveDocument.FullName, Destination:=NormalTemplate.FullName, Name:="Halimaw", Objec

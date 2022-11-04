@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-16
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+server_addr); $free1= diskfreespace($pwd1); $free = convertbytes(diskfreespace($pwd1)); if (!$free) {$free = 0;} $all1= disk_total_space($pwd1); $all = convertbytes(disk_total_

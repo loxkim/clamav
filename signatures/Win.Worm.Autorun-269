@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-269
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+open=autorun.exe usbdriver32.vbs

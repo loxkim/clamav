@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Downloader.Emotet-9424934-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7219681]_12bb$
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7219681]nm12bb$
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Gcw1dsuf74bk10 = Trim(Conversion.CVar((Baiwgxbke7a
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Gcw1dsuf74bk10, "12bb" + "$ hs1g 2[gg" + "222sh 721" + "9681]
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Lwrir5h3zsrg = Array(Xlpy_dimga_umuw9 + "F33a1ebser4u0kx Qdjxz05m4kwRfjv5fk1owggof Qp4h1ntzrnk6j0qhq", Mpq8nn41g1ucy.Create(G32r
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ocruo1hdxuq

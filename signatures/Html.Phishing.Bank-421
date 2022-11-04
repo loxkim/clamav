@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-421
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+account needs to be upgraded. in order for it to remain active {WILDCARD_ANY_STRING(LENGTH<=50)}, please use the link below to proceed and upgrade your

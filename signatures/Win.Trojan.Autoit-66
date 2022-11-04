@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Autoit-66
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If WinExists ("Bkav2006") Then
+		WinClose ("Bkav2006")
+		RegDelete ("HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run","BkavFw

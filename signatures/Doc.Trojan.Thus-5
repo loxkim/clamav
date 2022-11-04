@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Thus-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+'Thus_001'{WILDCARD_ANY_STRING}If (Day(Now()) = 13) And (Month(Now()) = 12) Then

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Silker-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+("sro_client.exe"){WILDCARD_ANY_STRING(LENGTH<=161809)}run("c:/program files/silkroad/silkroad.exe")

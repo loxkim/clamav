@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.Renepo-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Finished move to System Library StartupItems{WILDCARD_ANY_STRING}clobber utmp so that when we connect they can't see us{WILDCARD_ANY_STRING}rm /var/run/utmp{WILDCARD_ANY_STRING}clobber LittleSnitch

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Spatch-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+TMPFile = "C:\Tmp.bas"{WILDCARD_ANY_STRING}ModuleName = "SpoolWatch"

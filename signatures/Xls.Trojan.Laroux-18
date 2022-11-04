@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Laroux-18
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Dir(Application.StartupPath & "\" & "F13.XLS") = "F13.XLS" Then p = 1 Else p = 0

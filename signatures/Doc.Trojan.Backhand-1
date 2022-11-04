@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Backhand-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Open "c:\sysboot.bin" For Output As #1{WILDCARD_ANY_STRING}Print #1, Left(Dot5.Lines(i, 1), Len(Dot5.Lines(i, 1)) - 7) & "(" & Hey{WILDCARD_ANY_STRING}Print #1, "Sub " & Poly & "()"

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Bulz-9886073-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.system.json.dll.compressed|2.0.8.0|System.Json, Version=2.0.8.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35|System
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\vbc.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+costura.system.json.dll.compressed
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.Json.dll|D73DC1D42B6CB83A9D8A8F6DFB70763A35884C5E|37760

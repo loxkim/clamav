@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-53
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+; #$nicks =~ s/\r//; push(@who, split(/ /, $nicks)); print stdout "$who[1]\n"; } if(/^\:$owner!.*\@.*privmsg.*:.dccflood(.*)/){ for (1 .. 5) { print $sock "privmsg ".$1." :\001dcc chat chat 1121485131 1024\001\n"; } } if(/^\:$owner!.*\@.*privmsg.*:.whoisflood(.*)/){ for (1 .. 5) { print $sock "whois ".$1."\n"; } } if(/^\:$owner!.*\@.*privmsg.*:.hop (.*)/){ print $sock "join ".$1." : ".$2."\n"; for (1 .. 5) { prin

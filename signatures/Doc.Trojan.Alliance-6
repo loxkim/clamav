@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Alliance-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.FileSummaryInfo Subject:="VIRUS WINWORD.FSKSM"{WILDCARD_ANY_STRING}WordBasic.FileSaveAs Password:="Saya!"

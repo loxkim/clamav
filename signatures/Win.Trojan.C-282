@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.C-282
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+\etc\\hosts" +"<br>");
+  document.write("%" +viruswrt +"%" +" 127.0.0.1 www.symantec.com >> %windir%\\system32\\drivers\\etc\\hosts" +"<br>");
+  docum

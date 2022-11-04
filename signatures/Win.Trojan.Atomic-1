@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Atomic-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set fsys=createObjecT("Scripting.FileSystemObject"){WILDCARD_ANY_STRING}Function searchIt(path){WILDCARD_ANY_STRING}file.delete

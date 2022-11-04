@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Pluta-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if (extName="jpg")or(extName="gif"{WILDCARD_ANY_STRING}set generateCopy = FSobj.OpenTextFile(file.Path, 2{WILDCARD_ANY_STRING}generateCopy.write finalMes{WILDCARD_ANY_STRING}copy(location&"\"&appName&".txt")

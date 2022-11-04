@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.RSPlug-12
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 10,300
+DECODED SIGNATURE:
+x=`cat {WILDCARD_ANY_STRING(LENGTH<=4)} |wc -l|awk '{print $1}'`;x=`expr $x - 2`;tail -$x {WILDCARD_ANY_STRING(LENGTH<=4)} |tr vdehrujzpbqafwtgkxyilcnos upxmfqrzibdanwgkethlcyosv

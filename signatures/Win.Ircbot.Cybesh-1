@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Ircbot.Cybesh-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+  If NT.Lines(1,1) <> "'<html> <CyberShadow>" then
+   WordObj.Options.SaveNormalPrompt = False

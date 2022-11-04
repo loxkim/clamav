@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Elliptic-1
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Your important files you have on this computer have been encrypted : photos, videos, document , etc.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+From now on you have 72 hours to pay or the key will be permanently deleted from our server and you won't EVER get your files back.

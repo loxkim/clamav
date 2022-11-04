@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ami-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Active_.VBComponents((ActiveComp_ + 1)).Name = ModulName{WILDCARD_ANY_STRING}Active_.VBComponents(ModulName_).CodeModule.AddFromString VirusCode

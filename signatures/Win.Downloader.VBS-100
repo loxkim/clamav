@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.VBS-100
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+object","") set pluginfile=ofso.createtextfile(exename, true) plugin_size=lenb(xmlbody) for j=1 to plugin_size cbyte=midb(xmlbody,j,1) byteco

@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Papa-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Shell "ping -t -l" & Str(Int(60000 * Rnd)) & " -w 1 207.222.214.225", vbHide

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Ircbot.Metak-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ck ) { /dcc send $nick c:\mirc\mirc56.com }
+n2=}
+n3=if ( $me ison #nohack

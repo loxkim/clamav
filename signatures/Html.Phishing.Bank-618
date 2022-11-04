@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-618
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear customer,{WILDCARD_ANY_STRING(LENGTH<=16)}you have automatically been suspended from accessing your online banking account due to recent security upgrade

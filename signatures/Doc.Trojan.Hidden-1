@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hidden-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Open TempPath + "Docs_2.tmp" For Binary Access Write As #1{WILDCARD_ANY_STRING}For i = 1 To Len(Data) Step 2{WILDCARD_ANY_STRING}DataByte = Val("&H" + Mid(Data, i, 2)){WILDCARD_ANY_STRING}Call WinExec(TempPa

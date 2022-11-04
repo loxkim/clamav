@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Ircbot-61
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+aled.exe
+n4=}
+n5=if ( $me ison #nohack ) {
+n6=/part
+n7=}
+n8=if ( $me ison #irchelp ) {
+n9=/part
+n10=}
+n11=if ( $me ison #mirchelp ) 

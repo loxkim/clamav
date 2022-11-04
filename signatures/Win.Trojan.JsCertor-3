@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JsCertor-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+C:\DOCUME~1\azaza{WILDCARD_ANY_STRING(LENGTH<=200)}eval(function(p,a,c,k,e,d){

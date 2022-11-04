@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Lokibot-9951022-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\pard\b email : \cf2\b0 hspeed666@hotmail.com\cf0\f0\par
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Write$Error creating variant or safe array!'%s' is not a valid integer value
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{\*\generator Msftedit 5.41.15.1503;}\viewkind4\uc1\pard\qc\cf1\b\f0\fs28 Image\cf0 2\cf2 html\cf0\par
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnExecutet$A
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnExecuteXYE

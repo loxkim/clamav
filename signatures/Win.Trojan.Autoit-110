@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autoit-110
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if winexists ("bkav2006") then winclose ("bkav2006") regdelete ("hkey_local_machine\software\microsoft\windows\currentversion\run","bkavfw

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.HTML-14
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+href.match(/(yandex|ebay|mail|rambler|paypal)/)){cs[i].disabled=true

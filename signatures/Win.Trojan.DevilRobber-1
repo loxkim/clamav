@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.DevilRobber-1
+TARGET TYPE: MACHO
+OFFSET: *
+DECODED SIGNATURE:
+./polipo -c polipo.cfg &

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-214
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+while(n004.length<3092)n004+="    ";evilcute["loadpage"]

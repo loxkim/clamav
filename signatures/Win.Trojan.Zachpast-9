@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Zachpast-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+lcache\firedaemon -i ntsysvers "C:\WINNT\syst{WILDCARD_ANY_STRING}Starting Service: "Iro

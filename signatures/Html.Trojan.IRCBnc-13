@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCBnc-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on *:sockopen:download.*: {{WILDCARD_ANY_STRING(LENGTH<=8)}sockwrite -tn $sockname GET %ftp_temp [ $+ [ $gettok($sockname,2,46) ] ]  HTTP/1.0

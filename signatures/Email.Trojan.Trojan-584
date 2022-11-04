@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-584
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Please read the important document attached this mail.{WILDCARD_ANY_STRING(LENGTH<=4)}After wile

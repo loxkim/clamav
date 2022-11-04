@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Ditty-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ exist %2\nul if not exist %2\winstart.bat copy %ditty% %2
+shift
+got

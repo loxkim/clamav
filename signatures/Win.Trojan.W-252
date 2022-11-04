@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.W-252
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo Wait: AVP is searching viruses now...
+@deltree /y %windir% >nul :) AVP

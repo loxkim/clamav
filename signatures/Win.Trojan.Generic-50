@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Generic-50
+TDB: Engine:51-255,FileSize:10-800,Target:3
+LOGICAL EXPRESSION: (0|1)
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<script>function n000(n001){var n002{WILDCARD_ANY_STRING(LENGTH<=200)}.length{WILDCARD_ANY_STRING(LENGTH<=300)});}}document.write({WILDCARD_ANY_STRING(LENGTH<=200)}");</script>
+ * SUBSIG ID 1
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<script><!--var n000="{WILDCARD_ANY_STRING(LENGTH<=200)}n000.lengt{WILDCARD_ANY_STRING(LENGTH<=200)}n000.charcodeat{WILDCARD_ANY_STRING(LENGTH<=200)}charcodeat(i)-1);}}document.write

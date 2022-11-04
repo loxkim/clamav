@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.X-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Mail.AddressLists(A)
+Counter = 1
+Set C = xanax.CreateItem(0)
+For D = 1 To B.AddressEntries.Count

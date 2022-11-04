@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Downloader-80
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if ({WILDCARD_ANY_STRING(LENGTH>=4&&<=20)}) alert("oki doki man"); else document.write

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6568727-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\system32\Macromed\Flash\Flash32_15_0_0_152.oca
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+~~}|}zyyutuutuywxyxxsrsomnlklcbcSRTQKRaPcpOstAxu4xv.zx+{x+|x+|x+|x*{y*zy*zy*zy*zy*zy*zy*zy*zy*zy*zy*zy*zy*zy*zy+zy+zy+zy+{y-}z1
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\NCRE\VCSetup.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\NCRE\CSetup.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\NCRE\TWOMSSetup.exe

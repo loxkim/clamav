@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Breach-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+FtpServer1Addr0.0.0.0Port1Banner220 BREACH SeRV 1.5 InitializedUserData

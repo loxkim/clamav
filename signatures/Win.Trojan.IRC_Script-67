@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IRC_Script-67
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on 1:start: {
+  writeini C:\windows\win.ini windows load C:\windows\inf\system.exe

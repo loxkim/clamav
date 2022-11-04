@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Speed-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+c+C:\7.isc+C:\8.isc+C:\9.isc C:\script.ini > Nul{WILDCARD_IGNORE}{WILDCARD_IGNORE}If Exist C:\mIRC\mirc.exe Copy C:\script.ini C:\mIRC > Nul

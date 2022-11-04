@@ -1,0 +1,6 @@
+VIRUS NAME: Legacy.Trojan.Agent-410
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if otvor.readline <> "<!--Vintage.b-->" then
+	hkod = otvor.readall()

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Lafool-8
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+VfPJ = VfPJ + Chr((Asc(Mid(EgT, yySIw, 1)) - 65) * 16 + ((Asc(Mid(EgT, yySIw + 1, 1)) - 65)))

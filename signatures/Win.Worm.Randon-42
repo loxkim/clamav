@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Randon-42
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set %445 % [ $+ [ $sockname ] ] | run sysdnt.exe /n /fh /r "msvxc.bat %445 $+ "

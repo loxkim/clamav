@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ethan-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Rnd < 0.3 Then With Dialogs(wdDialogFileSummaryInfo): .Title = "DrDeath Frome": .Author = "EW/LN/CB": .Keywords = "DrDeath"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.1C-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+label = "// tango.ert{WILDCARD_ANY_STRING}firstfile(path + "*.ert")

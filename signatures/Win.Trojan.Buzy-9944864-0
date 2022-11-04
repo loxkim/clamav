@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Buzy-9944864-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+then:Wscript.Quit():End if:Set objShell = CreateObject(""Wscript.Shell""):objShell.Run ""rundll32.exe %s start007"""
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rundll32.exe "%s\%s" start007
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+createobject("scripting.filesystemobject").getfile(wscript.scriptfullname).delete
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nslink="winmgmts:\\.\root\subscription:"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+stxt="Dim objFSO:Set objFSO = Createobject(""Scripting.FileSystemObject""):If objFSO.Fileexists(""%s"")=False 

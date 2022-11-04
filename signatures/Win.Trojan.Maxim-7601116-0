@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Maxim-7601116-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.sorzana.com/desarrollo/actualizar/sistemas/SpoolerExportacionToy.zip
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+, 'Usuario', 'usu_login', 'usu_telefo', 'usu_email', 'usu_chat', Null, 1, 'suc_telefono', 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+, 'usuario', 'usu_login', 'usu_telefo', 'usu_email', 'usu_chat', Null, 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+EXEC master.dbo.xp_msver 'ProductVersion'
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CnnConnect10.dll

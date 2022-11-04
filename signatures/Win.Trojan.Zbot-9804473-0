@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zbot-9804473-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\\svhost.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pVqxEhwvLf]KruPqvJVoBo`C][|f{joQo|uNKeB_VQ_rG`R]xrXZD[aj^GQRPVqxEhwvLf]KruPqvJVoBo`C][|f{joQo|uNKeB_VQ_rG`R]xrXZD[aj^GQRP
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Holoseri irreconc.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+uNKeb^VagrG`R]xrXZD[aj^GQRPVqxEhwvLf]KruPqvJVoBo`C][|f{joQo|uNKeB_VQ_rG`R]xrXZD[aj^GQRPVqxEhwvLf]KruPqvJVoBo`C][|f{??
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\aebjmwb.cip

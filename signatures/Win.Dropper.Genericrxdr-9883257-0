@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Genericrxdr-9883257-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+NDI@OHROINICFNWPOI#%P@O^PO@}^#{PTP}@{}${@$O@JNVISNFKMWIJEI@HO@!(I#@(PI$!_@){O@+_$O)KF@_#+_@#@$_+@$_@O$)JFOMO@#(I$)@$O_@$
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CheckParentProcess
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+mM/R5tum0tDOsa7D3eHXtMbfzruuzs/h27i8rufWt8XZ5rqq0t7b07O8vefSAQ==
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lpszCommand
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+chromePasswords

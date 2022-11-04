@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Preteced-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+cur_doc = ActiveDocument.FullName{WILDCARD_ANY_STRING}global_temp = NormalTemplate.FullName{WILDCARD_ANY_STRING}.OrganizerCopy Source:=cur_doc,{WILDCARD_ANY_STRING}Destination:=global_temp,{WILDCARD_ANY_STRING}Name:=macroname,

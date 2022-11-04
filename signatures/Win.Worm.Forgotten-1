@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Forgotten-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+s.write  "" & vbcrlf & "'Vbs.(ANSWER) Created By SKY1" & vbcrlf {WILDCARD_ANY_STRING}ipt.exe " & fso.getspecialfolder(0) & "\vb1.com.vbs %"

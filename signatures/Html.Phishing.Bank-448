@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-448
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we recently noticed more attempts to log in to your {WILDCARD_ANY_STRING(LENGTH<=150)} account from a foreign ip address. if you accessed your account while travel

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.VVSC-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox "You Encrypt text copy in Clipboard", vbExclamation, "Macro Encryptor by ULTRAS"

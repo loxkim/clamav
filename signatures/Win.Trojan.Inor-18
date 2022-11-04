@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Inor-18
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+000000"
+ 	h0 = ""    	
+ 	i = 1
+     	Do While i < Len(c0)
+ 		h0 = h0 & chr(cint("&h" & mid(c0, i, 2)))
+     	i = i + 2
+     	Loo

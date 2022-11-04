@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Tool.Tedla-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f(($args{t}) == 14) { &pakpop;     }}{WILDCARD_ANY_STRING}nt "\nSent overflow to $victim\n";

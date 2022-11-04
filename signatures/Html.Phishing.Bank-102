@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-102
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+atm cards.<br>new security system of {WILDCARD_ANY_STRING(LENGTH<=30)} will be effective immediately.<br>we kindly ask you to update your personal

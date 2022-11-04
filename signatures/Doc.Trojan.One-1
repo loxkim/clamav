@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.One-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+c = c & VBA.Chr(VBA.CInt(VBA.Asc(VBA.Mid(a, VBA.CInt(y),

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kovter-7133661-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+hW4H4FcmXAqvAl.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+32 30 20 33 34 20 33 32 20 32 30 20 33 33 20 33 37 20 32 30 20 33 33 20 33 34 20 32 30 20 33 33 20 33 38 20 32 30 20 33 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{\rtf1\ansi\ansicpg1251\deff0\deflang1049{\fonttbl{\f0\fnil\fcharset2 Webdings;}{\f1\fnil\fcharset0 Calibri;}}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+the world and try to become the biggest 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+36 46 20 35 36 20 37 36 20 33 39 20 34 42 20 37 33 20 35 32

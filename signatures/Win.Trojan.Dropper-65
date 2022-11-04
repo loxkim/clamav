@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Dropper-65
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+try%0d%0a%7b%0d%0ac.regwrite%20%28%22hklm%5c%5csoftware%5c%5cmicrosoft%5c%5cwindows%5c%5ccurrentversion%5c%5crunservices%

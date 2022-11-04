@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Xxx-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+else
+FileName = "c:\autoexec.bat"
+end if
+fso.CopyFile FileName, "c:\adride.exe"
+reg.Run ("c:\adride.exe

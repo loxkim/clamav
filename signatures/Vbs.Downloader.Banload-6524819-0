@@ -1,0 +1,18 @@
+VIRUS NAME: Vbs.Downloader.Banload-6524819-0
+TDB: Target:7
+LOGICAL EXPRESSION: 0&1>10&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+createobject("scri" & "pting.filesyst" & "emobject")
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+variavel
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+createobject("ado" & "db.st" & "ream")

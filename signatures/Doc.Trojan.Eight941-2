@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Eight941-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Application.VBE.VBProjects(i).Name = "Normal" Then{WILDCARD_ANY_STRING}ActiveDocument.Password = "8941"

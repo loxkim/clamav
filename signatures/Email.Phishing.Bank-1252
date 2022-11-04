@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1252
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+If you did not change your SecureCode, please contact us{WILDCARD_ANY_STRING(LENGTH<=2)}immediately

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Personality-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+("wscript.shell") 
+b.run "C:\WINDOWS\System32\NoForExplorer.bat",0

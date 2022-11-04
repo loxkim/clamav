@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ever-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ect.VBComponents(1).CodeModule.InsertLines {WILDCARD_ANY_STRING}If Day(Now) = {WILDCARD_ANY_STRING(LENGTH<=25)} Then ActiveDocument.Password = ActiveDocument.Words(1)

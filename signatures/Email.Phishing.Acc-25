@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Acc-25
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+para continuar acessando normalmente o Bradesco Net{WILDCARD_ANY_STRING(LENGTH<=40)}ser&aacute; necess&aacute;rio{WILDCARD_ANY_STRING(LENGTH<=30)}efetuar a atualiza&ccedil;&atilde;o deste componente

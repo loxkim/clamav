@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Wrath-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set C = b.VBComponents("Wrath"){WILDCARD_ANY_STRING}'FEEL MY WRATH.......'", True

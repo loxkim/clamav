@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Pagipef-2
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+[AutoRun]
+open=pagefile.pif
+shellexecute=pagefile.pif

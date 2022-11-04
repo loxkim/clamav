@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.Agent-36933
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+// no malware on this code, you can check it by yourself ;{WILDCARD_ANY_STRING(LENGTH<=200)}eval("?>".gzinflate(base64_decode("

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hill-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set NT = NormalTemplate.VBProject.VBComponents(1).CodeModule{WILDCARD_ANY_STRING}GN(7, 128, 48) + Chr(34) + " " + Chr(39) +

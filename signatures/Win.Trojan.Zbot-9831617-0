@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zbot-9831617-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files (x86)\NS4000943\LAFUDMACHINE\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Hyaloids.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ih_{aHrm`xlbrBji[KjHWgRfVZxkh`vrPjJQLZ^oKMXc]CUkF\VJnyy|_Naeh_{aHrm`xlbrBji[KjIWgRfVZxkh`vrPjJQLZ^mKMXc]CUkF\VJnyy|_Nae
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Gingle's mulctato.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\mmfxfnivkz.ovx

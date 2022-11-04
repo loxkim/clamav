@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Ursnif-9949670-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+name="mdmmhrtz.inf.models.ntx86.modem01, Type=driver, Version=6.1.0.0, PublicKeyToken=31bf3856ad364e35"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+name="ntprint.inf.ricoh.ms_ria20606.gpd, Type=driver, Version=6.1.0.0, PublicKeyToken=31bf3856ad364e35"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+name="mdmrock5.inf.askey.ntx86.askey5, Type=driver, Version=6.1.0.0, PublicKeyToken=31bf3856ad364e35"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+name="mdmrock5.inf.cardinal.ntx86.mvpv34iv, Type=driver, Version=6.1.0.0, PublicKeyToken=31bf3856ad364e35"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+name="mdmmhrtz.inf-INF-Assembly, Type=driver, Version=6.1.0.0, PublicKeyToken=31bf3856ad364e35"

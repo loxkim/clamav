@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-947
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Der Zahlschein und die bestellten Produkte liegen dieser E-Mail{WILDCARD_ANY_STRING(LENGTH<=8)}als Beilage bei

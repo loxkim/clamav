@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bablas-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox "If you delete this, you have no heart", 48, "To: MAMM"

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Webmail-49
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Your mailbox has exceeded the storage limit{WILDCARD_ANY_STRING(LENGTH<=144)}until you re-validate your mailbox

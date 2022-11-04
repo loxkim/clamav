@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-197
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for(i=0;i<ar2.length;i++){pos+=parseint(k.replace("false","0asd"))+ar2[i]/3;s+=ar.substr(pos,1);} e(s);

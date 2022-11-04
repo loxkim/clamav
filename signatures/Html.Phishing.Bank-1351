@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1351
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+b>auf unsere formbl{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}tter nicht eingetragen werden, werden bis zur ermittlung ihrer er{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}ffnung und benutzun{WILDCARD_ANY_STRING(LENGTH<=55)}enkunden gesperrt

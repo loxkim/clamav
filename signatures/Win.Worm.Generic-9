@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Generic-9
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+"vmirc.writeline"n1=/if($nick==$me){halt}"vmirc.writeline"n2=/.dccsend$nickc:\

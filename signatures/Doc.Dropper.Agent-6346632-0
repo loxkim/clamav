@@ -1,0 +1,15 @@
+VIRUS NAME: Doc.Dropper.Agent-6346632-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Name = 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: Dim\s+([^\s]+)\s+Dim\s+([^\s]+)\s+.*((\\1|\\2)\s+=\s+(\\1|\\2)(\s+[-+]\s+(\\1|\\2|\d+)){1,5}\s+){6}
+     +-> CFLAGS: i

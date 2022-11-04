@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Expiro-9918368-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CommonUtil::UnregisterLegacySyncRootManagerKeyIfExists: GetUserSID failed with hr=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\dbs\sh\odct\1122_182811\cmd\9\client\onedrive\Product\Common\UpdateDownloaderUtil\OfficeConfigUtil.cpp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\dbs\sh\odct\1122_182811\cmd\12\client\onedrive\Product\UpdateRingSettings\UpdateRingSettingsLoader.cpp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\dbs\sh\odct\1122_182811\cmd\12\client\onedrive\Product\UpdateRingSettings\OverridesProviderWin.cpp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CommonUtil::UnregisterSyncRootFromShellForCurrentUser: GetUserSID failed with hr=

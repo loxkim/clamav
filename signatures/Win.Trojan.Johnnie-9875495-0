@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Johnnie-9875495-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+lpTempEXEPathBuffer{WILDCARD_ANY_STRING}credwiz.exe{WILDCARD_ANY_STRING}Software\Microsoft\Windows\CurrentVersion\run{WILDCARD_ANY_STRING}CreateProcess failed (%d).{WILDCARD_ANY_STRING}RegOpenKeyExW{WILDCARD_ANY_STRING}hello-world.dll{WILDCARD_ANY_STRING}cfileexists

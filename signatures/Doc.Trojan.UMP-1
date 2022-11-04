@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.UMP-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nts("UMP").CodeModule.InsertLines PoLi, vbTab & "' " & a & vbTab & b & vbTab & c & vbTab & d & vbTab & e

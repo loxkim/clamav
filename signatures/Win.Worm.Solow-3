@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Solow-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+regwrite "HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\Window Title","Hacked

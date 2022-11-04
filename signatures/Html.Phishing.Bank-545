@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-545
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+put an extra layer of verification to confirm your identity and ensure your account security.</p><p {WILDCARD_ANY_STRING(LENGTH<=100)}>please click link and continue

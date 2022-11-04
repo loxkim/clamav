@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-65
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+open LOG,">>ssh-45bK31339";{WILDCARD_ANY_STRING(LENGTH<=512)}$url .="&highlight=%2527%252Esystem(".$cmd.")%252E%2527";

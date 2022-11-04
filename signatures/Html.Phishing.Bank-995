@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-995
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+click on sign in to online banking for the quick and easy process for activating enhanced{WILDCARD_ANY_STRING(LENGTH<=7)}online security for your

@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Yohimbe-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Sheets("Exec").Copy Before:=Workbooks("PERSONAL.XLS").Sheets(1){WILDCARD_ANY_STRING}Procedure:="DipDing"

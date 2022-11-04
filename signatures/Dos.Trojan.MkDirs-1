@@ -1,0 +1,13 @@
+VIRUS NAME: Dos.Trojan.MkDirs-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ul
+set dir=%dir%1
+set flag=true
+set c=1
+rem call %0
+goto loop
+:halt
+set flag=false
+rem cd ..\..\..\.

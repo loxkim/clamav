@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.FS-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+£d = Application.StartupPath & "\Mscreate.dir"{WILDCARD_ANY_STRING}If GetAttr(£d) <> 34 Then SetAttr £d, 0

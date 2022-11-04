@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-54
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if ($funcarg =~ /^portscan (.*)/) {{WILDCARD_ANY_STRING}y @portas=( 44464, 4444, 14589, 666, 6666, 6968, 26092, 530, 46256, 3133

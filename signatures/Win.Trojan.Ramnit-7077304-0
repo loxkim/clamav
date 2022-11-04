@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ramnit-7077304-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\DEVELOP\FLEXnet\Licensing\Sources\v11.4.0.0.A12\cfc1x\vararray.h
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Copyright (c) 2003-%s Macrovision Europe Ltd. and/or Macrovision Corporation. All Rights Reserved 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+User/host not on INCLUDE list for entitlement.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\DEVELOP\FLEXnet\Licensing\Sources\v11.4.0.0.A12\c\utils\../src/lm_ckout.c
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ 1987-2006 Macrovision Europe Ltd. and/or Macrovision Corporation. All Rights Reserved.

@@ -1,0 +1,10 @@
+VIRUS NAME: Html.Trojan.VBSAppend-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+A2.Close
+
+A3 = A3 + chr(13) + chr(10) + "rem format c:\ /q"
+
+Set A4 = A1.CreateTextFile("c:\autoexec.bat

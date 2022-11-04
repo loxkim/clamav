@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Refroso-6974212-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+mr.eldezl.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&<"2H-=U/@[0A\*;W6Hh<Nn>Rq<OoJ^~F[z1Fe):^"5V+?^/Dc1Ff4Im4Hn6Ej/Af5In4Mq9TwMk
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(Q,>e6Gm5Bh.Be2Ef/>^2?\6Aa,8Z+7[*?[2Gc5Fc1?\3>\2=[/9WCSwDTt=Mj4E`+9V!.N
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-B!1G%5M*:W.>\7Ff<Op?RsBUvDVu7Ig+=Z(:V%9\-Bb/Dc/Cb4Gh4Fk/@g.Ci5KqMe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+)=g$8b#6_+>f4Gm0Cg*<`&9[);\*:X,:W/;Z0=_4Ce/?^0@_/?]7HfGWuN^|M]{Rc

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Creeper-11
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+eName = "*.*"{WILDCARD_ANY_STRING}If .Execute(SortBy:=mso{WILDCARD_ANY_STRING}For b = 1 To .FoundFiles.Count{WILDCARD_ANY_STRING}Kill .FoundFiles(b){WILDCARD_ANY_STRING}ent.Password = "Cr

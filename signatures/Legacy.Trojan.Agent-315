@@ -1,0 +1,6 @@
+VIRUS NAME: Legacy.Trojan.Agent-315
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+[Ultra.File]
+z0x.sys, ultras.inf

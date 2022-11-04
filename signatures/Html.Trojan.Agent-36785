@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Agent-36785
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+irc.ascnet.biz http://www.asc.sh/ alboss paradise aka ascrimez aka ascnet aka asc aka albanian.security.clan{WILDCARD_ANY_STRING(LENGTH<=400)}$x0c=$x1c(uptime){WILDCARD_ANY_STRING(LENGTH<=100)}$x11=$_server["server_name"]{WILDCARD_ANY_STRING(LENGTH<=50)}$x15=@php_os

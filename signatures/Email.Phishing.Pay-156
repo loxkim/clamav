@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-156
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Dear PayPal {WILDCARD_ANY_STRING}confirm your identity

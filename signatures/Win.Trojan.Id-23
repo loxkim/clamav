@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-23
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+$os = @php_os; echo "os: $os<br>"; echo "uname -a: $un<br>"; echo "uptime: $alb2<br>"; echo "id: $id1<br>"; echo "pwd: $alb4<br>"; echo "user: $alb9<br>"; echo "phpv: $alb6<br>"; echo

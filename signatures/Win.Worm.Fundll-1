@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Fundll-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+egwrite "HKLM\Software\Microsoft\Windows\CurrentVersion\Run\Fundll","c:\windows\system\fun.dll.vbs"
+ end sub
+ 
+ sub send()

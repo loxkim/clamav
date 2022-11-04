@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Azon-13
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+thank you for choosing amazon online. unfortunately there ha{WILDCARD_ANY_STRING}update your billing at this time, please visit our secure server web form by{WILDCARD_ANY_STRING(LENGTH<=7)}clicking the

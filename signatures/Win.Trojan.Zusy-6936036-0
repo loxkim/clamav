@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zusy-6936036-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+//office.microsoft.com/en-us/templates/?WT.mc_id=MSCOM_EN_US_HP_SUPPORTHOME_131O4ENUS21983"> Office templates</a></h5>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<script src="http://i.microsoft.com/en-us/homepage/bimapping.js?gv=BiMapping&amp;k=/en-us/homepage/Components/BiMappingEN-US
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<img src="http://i.microsoft.com/global/ImageStore/PublishingImages/Asset/footer/support.jpg" alt="Support"  width="
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<a href="http://www.microsoft.com/pt-pt/" bi:index="18" bi:locale="pt-pt" bi:type="locale" >Portugal - Portugu&#
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<a href="http://answers.microsoft.com/en-us?WT.mc_id=MSCOM_EN_US_HP_SUPPORTHOME_131Z4ENUS21969"  bi:linkid="630-00-1

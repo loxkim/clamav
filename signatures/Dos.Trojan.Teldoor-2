@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Teldoor-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+EventLoggingEnabled"=dword:00000000>>0.reg{WILDCARD_ANY_STRING}PY %windir%\system32\tlntsvr.exe %windir%\system32\"svchost.exeÿ

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Vibisi-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set wo = CreateObject("word.application"){WILDCARD_ANY_STRING}With wo.Application.FileSearch{WILDCARD_ANY_STRING}v(i) = Left(ThisDocument.VBProject.VBComponents("vbs").CodeModule.Lines(i, 

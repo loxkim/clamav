@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Agent-35323
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+re.regwrite"hkey_local_machine\software\microsoft\windows\currentversion\run\"&"microsoftwindows",sys&"\kernel.exe

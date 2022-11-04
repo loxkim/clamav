@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Disease-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+r=virus.search(new RegExp("End"+"Of"+"Virus"));

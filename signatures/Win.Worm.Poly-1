@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Poly-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+"arr(i) = Chr(Int((122 - 97 + 1) * Rnd + 97))"

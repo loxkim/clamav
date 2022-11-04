@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Detected-9956287-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+10/5/2018 15:38:0 - PFRO Error: \??\C:\Users\JOECAG~1\AppData\Local\Temp\~nsu.tmp, |delete operation|, 0xc000010
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/2010 19:47:52 - PFRO Error: \??\D:\Windows\system32\spool\DRIVERS\x64\3\New\FXSAPI.DLL
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+10/5/2018 15:38:0 - PFRO Error: \??\C:\Program Files (x86)\Mozilla Maintenance Service\, |delete operation|, 0xc000
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ - PFRO Error: \??\D:\Windows\system32\spool\DRIVERS\x64\3\New\FXSRES.DLL, \??\D:\Windows\system32\spool
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+vndows\system32\spool\drivers\x64\3\Old\1\FXSWZRD.DLL, |

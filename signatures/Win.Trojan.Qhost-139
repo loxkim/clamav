@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Qhost-139
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+.ru{WILDCARD_ANY_STRING(LENGTH<=5)}%windir%\system32\drivers\etc\hosts{WILDCARD_ANY_STRING(LENGTH<=50)}.ru{WILDCARD_ANY_STRING(LENGTH<=5)}%windir%\system32\drivers\etc\hosts{WILDCARD_ANY_STRING(LENGTH<=50)}.ru{WILDCARD_ANY_STRING(LENGTH<=5)}%windir%\system32\drivers\etc\hosts{WILDCARD_ANY_STRING(LENGTH<=50)}.ru{WILDCARD_ANY_STRING(LENGTH<=5)}%windir%\system32\drivers\etc\hosts{WILDCARD_ANY_STRING(LENGTH<=50)}.ru{WILDCARD_ANY_STRING(LENGTH<=5)}%windir%\system32\drivers\etc\hosts

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Autokms-9804431-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+start "" /wait msiexec.exe /package {%ProduGuid%} /uninstall {%ProduUpdaGuid%} /qn /log %TEMP%\my_log_msi.log
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd.exe /D /c WMIC Path Win32_NetworkAdapter WHERE ServiceName="tapoas" get InterfaceIndex  >"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd.exe /D /c cscript.exe "c:\Program Files (x86)\Microsoft Office\Office15\ospp.vbs" /sethst:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd.exe /D /c taskkill /t /f /IM SppExtComObj.Exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd.exe /D /c for /f "tokens=5 delims=, " %i in ('netstat -ano ^| find ":

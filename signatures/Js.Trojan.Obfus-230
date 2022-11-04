@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-230
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+document.createtextnode("harcode");if(isfinite(n001)&&!isfinite(n001*1.5)&&(n002-n003<0)){n000=string["fromc"+aa["nodevalue"]];}eval(

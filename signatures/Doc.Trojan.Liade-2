@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Liade-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox " Excel e Power Point foram apagados de sua máquina - Reinstale!!", vbOKOnly + vbCritical, "Virus informa!!"

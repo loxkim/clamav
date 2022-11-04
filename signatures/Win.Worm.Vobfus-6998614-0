@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Vobfus-6998614-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\system32\msvbvm60.dll\3
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@soft Visual Studio\VB98;C:\W
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7W$>a*>a*>a*7W$7W$@_-Jk1[zAeyEg
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WN \T#a[&a[&a[&c](gd+gd+ih.kl1mp3ap/ap/ai(MZ$MZ$Pd)l|<l|<o
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@V!D[%D[%@V!7W$7W$>a*Ge*Mt5Wv5[zAj

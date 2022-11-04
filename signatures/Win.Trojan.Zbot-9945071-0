@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zbot-9945071-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Original.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+S>LMJSy/:l,+EKPBk/x^@Df?G^X<R{{SauNoMt<g=OEcHmRdmgzAYehwI@qtT^)6zXQROW>JUpGF`PUGoJ|y[HjZKbsWVAAn|;k4h:WkXSIgb3m*3-@\]+.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+08tiuQfe*05|Pi]Cz)Ky,CTv7wa8][4j2pvLw4*HCh7_RL_{>aM\.{VY9Zcp_>LMJSy/:l,+EKPBk/x^@Df?G^X<R{{SauNoMt
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+aB(hg0u|,9rgXFrPRnObQ[1xjd-.JqDLL[`
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++r9rq\FrBVnOlU[1rnd-(NqDNH[`xFIXh`;Ts?^UDx1208tiuQfe*05|Pi]C

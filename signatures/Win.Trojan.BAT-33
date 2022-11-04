@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.BAT-33
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off
+rem eXPecting more from ... Ratty
+c:\windows\rundll32.exe keyboard,disable
+rem This is Trojan.Bat.HaltWin.h
+c:\windows\rundll32.exe mouse,dis

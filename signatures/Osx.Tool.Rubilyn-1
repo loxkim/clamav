@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Tool.Rubilyn-1
+TARGET TYPE: MACHO
+OFFSET: 7888
+DECODED SIGNATURE:
+I never seem to have anything that if I lost it{WILDCARD_ANY_STRING(LENGTH>=20&&<=30)}rubilyn{WILDCARD_ANY_STRING(LENGTH>=6300&&<=6400)}com.hackerfantastic.rubilyn

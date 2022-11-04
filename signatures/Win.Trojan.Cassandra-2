@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Cassandra-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sandra()
+function cassandra()
+{
+  code=''; nl=String.fromCharCode(13,

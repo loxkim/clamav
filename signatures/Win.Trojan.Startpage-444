@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Startpage-444
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+CurrentVersion\Run{WILDCARD_ANY_STRING(LENGTH<=500)}I hate myself and I want to die

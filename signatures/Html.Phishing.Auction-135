@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-135
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+hello,{WILDCARD_ANY_STRING(LENGTH>=1&&<=5)}a complaint has been filed against you in the fraud reporting form at{WILDCARD_ANY_STRING(LENGTH>=1&&<=5)}ebay.

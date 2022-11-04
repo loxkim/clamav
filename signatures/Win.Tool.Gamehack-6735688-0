@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Gamehack-6735688-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pressing F1) and then press CTRL-K.  The trainer will close and custom keys are deleted.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+To DELETE these Custom Keys, make sure Debug Tab is selected and Trainer is Activated (by
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+To temporarily disable the Hotkeys, press CTRL-H after trainer is
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+After pressing F1 to Activate trainer, press CTRL-K to delete old CustomKeys.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+this trainer, press the Debug Tab and then press CTRL-K and the keys

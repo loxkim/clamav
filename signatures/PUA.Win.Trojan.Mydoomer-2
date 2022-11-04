@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Win.Trojan.Mydoomer-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+do mykralor.exe %%i 3127 %fl%{WILDCARD_ANY_STRING}3127 %startip% %endip%

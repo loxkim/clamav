@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-975
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+You have received a{WILDCARD_ANY_STRING(LENGTH<=48)}from mobile number{WILDCARD_ANY_STRING(LENGTH<=64)}please save attached file

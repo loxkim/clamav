@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Twopey-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f NormalTemplate.VBProject.VBComponents.Item(1).codemodule.Find("Opey", 1, 1, 10, 10) = False Th

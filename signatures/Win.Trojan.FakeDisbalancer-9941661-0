@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.FakeDisbalancer-9941661-0
+TDB: Engine:90-255,FileSize:4000000-10000000,Target:1
+LOGICAL EXPRESSION: (0>5)&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cpuz
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cdn.discordapp.com/attachments/

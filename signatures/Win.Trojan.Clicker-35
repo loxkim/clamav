@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Clicker-35
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+function setupobject() {if (usingobject) {try{if (setupobjectsuccess <5) {var psdiv=document.getelementbyid("paypopupscriptdiv");if (psdiv)

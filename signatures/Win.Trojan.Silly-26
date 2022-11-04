@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Silly-26
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+@ctty nul
+rem A simple Virus of batch file
+for %%a in (*.bat ..\*.bat) do set =%%a
+for %%a in (*.bat ..\*.b

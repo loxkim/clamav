@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.INService-30
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+s	100
+d	list1	lists.xmi

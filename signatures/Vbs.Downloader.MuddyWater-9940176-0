@@ -1,0 +1,23 @@
+VIRUS NAME: Vbs.Downloader.MuddyWater-9940176-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&(1>1)&(2>1)&3
+ * SUBSIG ID 0
+ +-> OFFSET: 0,100
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+copyright (c) microsoft corporation
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+createobject
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+get{WILDCARD_ANY_STRING(LENGTH<=25)}http://
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ignore first two bytes - sign of

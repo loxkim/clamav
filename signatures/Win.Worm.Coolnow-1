@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Coolnow-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+://mshtml.dll/blank.htm"{WILDCARD_ANY_STRING}.friendlyname = "vicname"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-24
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if (ERROR = $1) { .Saym CLone Was ERROR | sco %bota | unset %f.* }

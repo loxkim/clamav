@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Trojan.Flooder-27
+TARGET TYPE: ELF
+OFFSET: *
+DECODED SIGNATURE:
+echo 'DDosClient &'>> /etc/init.d/rc.local;echo >> /etc/init.d/rc.local

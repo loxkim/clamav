@@ -1,0 +1,25 @@
+VIRUS NAME: Txt.Downloader.Generic-5657845-0
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: 3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+if{WILDCARD_ANY_STRING(LENGTH<=10)}@_win32{WILDCARD_ANY_STRING(LENGTH<=10)}@_win64
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+javascript
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+starfish
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&(1>2)&(2>2)
+     +-> REGEX: \x2F\x2A\s+(?P<repeating_char>\w{1})(?P=repeating_char)
+     +-> CFLAGS: g

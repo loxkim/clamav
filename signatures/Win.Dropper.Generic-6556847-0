@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Generic-6556847-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Namespace;http://www.smartassembly.com/webservices/UploadReportLogin/L
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%AppName% attempted to perform an operation not allowed by the security policy. To grant this application the required p
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%AppName% attempted to perform an operation not allowed by the security policy.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Please wait while %AppName% is sending the report to %CompanyName% through the Internet.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Namespace3http://www.smartassembly.com/webservices/Reporting/E

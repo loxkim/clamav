@@ -1,0 +1,13 @@
+VIRUS NAME: Ps1.Dropper.HCrypt-9913873-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$aaaaaaaaaaaaaaa = $aaaaaaa -split '
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+x ($aa , $bb , $cc -join '')

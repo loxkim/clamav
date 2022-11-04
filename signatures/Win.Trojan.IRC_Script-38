@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IRC_Script-38
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+write op.txt $decode(b24gXio6dGV4dDp5YXAqOj86eyAuICQrICQyLSB8IGhhbHRkZWYgfQ==,m) | /load -rs

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Perkas-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ename %windir%\system32\autoexec.nt autoexec.bat
+attrib +h c:Kasper.bat
+copy c:\Autoexes.bat 
+del *.exe

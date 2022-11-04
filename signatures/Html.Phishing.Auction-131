@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-131
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<em>if you don't respond by {WILDCARD_ANY_STRING(LENGTH<=25)} the buyer may elect to escalate this matter to a reimbursement claim.</em>

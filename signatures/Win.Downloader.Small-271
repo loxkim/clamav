@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Downloader.Small-271
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ungachtung.com/0021";
+
+window.open("javascript:\"<SCRIPT SRC='"+base_path+"/ScriptBodyJsp.php'><\/SCRIPT>\

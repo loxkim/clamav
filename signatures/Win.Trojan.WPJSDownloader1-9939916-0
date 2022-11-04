@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.WPJSDownloader1-9939916-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+ new activexobject("wscript.shell").run( '"powershell.exe" [net.servicepointmanager]::securityprotocol = [net.securityprotocoltype]::tls12 ; curl -uri (https://the.earth.li/~sgtatham/putty/

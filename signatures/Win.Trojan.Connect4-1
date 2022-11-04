@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Connect4-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo Compressing client...
+upx --best -o Packed\

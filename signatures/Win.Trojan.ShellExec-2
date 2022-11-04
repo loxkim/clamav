@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ShellExec-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+$action != "spam1"{WILDCARD_ANY_STRING}!="brut_ftp"{WILDCARD_ANY_STRING}!= "download_mail"

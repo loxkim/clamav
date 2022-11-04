@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ulise-9874469-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+jQuery("a[href*='http://']:not([href*='http://<?php echo $_SERVER['HTTP_HOST']; ?>'])").attr("target","_blank");
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+LIBSWD_W: libswd_drv_transmit(libswdctx=@%p, cmd=@%p): UnknownACK/ProtocolErrorSequence! Target Powered Off?
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+"https://www.cox.com/content/dam/cox/common/tnt/testimonials/customer_testimonial_desktop_32.jpg",
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+LIBSWD_D: libswd_ap_write(libswdctx=@%p, operation=%s, addr=0x%X, *data=0x%X/%s) execution OK.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+LIBSWD_D: libswd_ap_bank_select(*libswdctx=%p, operation=%s, addr=0x%02X) execution OK.

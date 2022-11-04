@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Iframe-47
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+iframesrc="http://{WILDCARD_ANY_STRING}/link.html"{WILDCARD_ANY_STRING}display:none;"></ifra

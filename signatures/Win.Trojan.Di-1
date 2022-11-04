@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Di-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ty nul %#%
+if .%2==.LocalFunctionCall# goto apnd#
+if .%0==. goto fin#
+set vname#=%0
+if exist %vname#% got

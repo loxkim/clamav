@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.DarkKomet-9848760-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?w\] F\*$YZ\,9i_Ob)_882Vm?<".resources
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+k\\UEiGu<mL?V0}{eDp>YJ^>\*\&.resources
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+5q}>se0B@-:Af$\[; Q\\4Mw0b!.resources
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+T0GSTW\]aP"YPxr=63L#"IorU#.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6^v;\,_2vg 7d)ob1$(0eT@dQ#.resources

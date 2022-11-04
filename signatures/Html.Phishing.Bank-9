@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-9
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we are undertaking a period review of our member accounts. </font><br>{WILDCARD_ANY_STRING}you are requested to visit our site by following the link given below

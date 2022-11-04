@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Ursnif-9950326-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+name="ntprint.inf.infotec.ms_infi1513.ppd, Type=driver, Version=6.1.0.0, PublicKeyToken=31generic
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+28.gpd, Type=driver, Version=6.1.0.0, PublicKeyToken=31bf3856ad364e35"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+name="usb.inf-INF-Assembly, Type=driver, Version=6.1.0.0, PublicKeyToken=31bf3856ad364e35"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+name="usb.inf.generic.section.ntx86.composite.dev.nt, Type=driver, Vers
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\length\Decide\courseWash.pdb

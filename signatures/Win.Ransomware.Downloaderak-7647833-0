@@ -1,0 +1,33 @@
+VIRUS NAME: Win.Ransomware.Downloaderak-7647833-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0.02519603282416938
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1.1102230246251565e-16
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2.3283064365386963e-10
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+data.charcodeat(i
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+v_bin0["concat"](v_bin1,v_bin2,v_bin3,v_bin4,v_bin5,v_bin6,v_bin7,v_bin8,v_bin9,v_bin10,v_bin11,v_bin12,v_bin13,v_bin14,v_bin15,v_bin16,v_bin17,v_bin18,v_bin19,v_bin20,v_bin21,v_bin22,v_bin23,v_bin24,v_bin25
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wscript.quit(-1226

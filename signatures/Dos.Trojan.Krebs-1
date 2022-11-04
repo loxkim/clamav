@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Krebs-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+del c:\windows\system\*.*{WILDCARD_ANY_STRING(LENGTH<=5)}c:\windows\*.*

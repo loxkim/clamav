@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Worm.Kuasa-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+###")
+Function x(je)
+For loco = 1 To Len(je)
+x = x & Chr(Asc(Mid(je, loco, 1)) Xor Len("ton"))
+Next
+End Function

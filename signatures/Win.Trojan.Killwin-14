@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Killwin-14
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+"cdrautorun"=hex:00,00,00,00 "nologoff"=hex:01,

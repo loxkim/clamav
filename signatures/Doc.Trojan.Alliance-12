@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Alliance-12
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ic.FileSummaryInfo Author:="Duke/SMF"{WILDCARD_ANY_STRING}opy MacName$, "Global:AutoNe{WILDCARD_ANY_STRING}ic.MacroCopy MacName$, "Global:AutoOpe

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Melissa-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ware\Microsoft\Office\", "Mmmmmmm?") <> "... by 000003" Then{WILDCARD_ANY_STRING}BreakUmOffASlice.Recipients.Add Peep

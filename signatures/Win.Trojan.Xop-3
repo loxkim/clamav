@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Xop-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+\XoP %%v _
+set XoP=
+goto XoP2
+:XoP1
+find /i "XoP"<%1>nul
+if not e

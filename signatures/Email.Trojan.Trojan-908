@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-908
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+The label of your parcel is enclosed to the letter{WILDCARD_ANY_STRING(LENGTH<=16)}Print your label and show it at the post office

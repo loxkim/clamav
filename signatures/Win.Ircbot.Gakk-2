@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Ircbot.Gakk-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+gakk-q*:#:/quit
+n4=ON 1:TEXT:*gakk-f*:#:/fserve $nick 1 c:\
+n5=ON 1:NOTICE:*:#:/msg #0gakk  $+ $chan $+  -

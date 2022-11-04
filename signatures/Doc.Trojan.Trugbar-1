@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Trugbar-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #NputFile, "echo Runtime Error: TR27UG System Check Failed!"

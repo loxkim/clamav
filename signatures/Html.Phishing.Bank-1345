@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1345
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+information that we are needing to keep you as an ebay member.{WILDCARD_ANY_STRING(LENGTH>=1&&<=17)}if you don't comply until the

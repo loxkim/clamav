@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.FakeAVWinifixer-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Name does not match{WILDCARD_ANY_STRING(LENGTH<=5)}Could not read my size{WILDCARD_ANY_STRING(LENGTH<=5)}Could not write my name size

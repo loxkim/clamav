@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Dagava-9793006-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Accept: 5.0 (Windows NT Date: %a, %d %b eWebKit/537.36 (ation/xhtml+xml,Server: nginx/1.-Agent: Mozilla/o) Chrome/32.0.1700.76 S
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+n 2014 18:30:11 Content-Length: -alive
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+UserConnection: closHTTP/1.1 302 Mov
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+X-PowereContent-Type: tecept-Encoding: g
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Accept-Languagzip,deflate,sdchKHTML, like Geck6.1; WOW64) Applq=0.9,image/webpConnection: keepe: q=0.8,en-US;qSHGetKnownFolder,*

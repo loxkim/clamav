@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.AutoSwap-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rentVersion\Run\SwapNT", "rundll32 user32, SwapMouseButton"{WILDCARD_ANY_STRING}u.Run "rundll32 user32, SwapMouseButton"{WILDCARD_ANY_STRING}WshShell.Run "shutdown -r -t 30", 0, True

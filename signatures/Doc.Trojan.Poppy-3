@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Poppy-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+    Klonopin$ = "H" + "e" + "l" + "p" + "A" + "b" + "ou" + "t"

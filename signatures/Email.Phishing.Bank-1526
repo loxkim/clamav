@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1526
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+You are required to state as a matter of authentication your exoneration from the said agreement{WILDCARD_ANY_STRING(LENGTH<=16)}so that this office will get secure a letter of approval from the legal department

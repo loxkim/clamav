@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-9835436-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Yaser\Desktop\testDB\db1.accdb;Persist Security Info=False
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPADg
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Provider=SQLNCLI10;Server=.\SQLExpress;AttachDbFilename=c:\asd\qwe\mydbfile.mdf; Database=dbname; Trusted_Connection
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Driver={SQL Server Native Client 10.0};Server=myServerAddress;Database=myDataBase;Uid=myUsername;Pwd=myPassword;
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+User ID=postgres;Password=1040039;Host=127.0.0.1;Port=5432;Database=hr; Pooling=true;Min Pool Size=0;Max Pool Size=100;C

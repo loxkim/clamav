@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9968290-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DropboxNSISTools.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DropboxNSISTools: HttpRequest Error on GetExitCodeThread: %d
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DropboxNSISTools: CancelPendingDeletes Error reading PendingFileRenameOperations value: 0x%x
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DropboxNSISTools: HttpRequest Fatal error: no host passed in
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DropboxNSISTools: ShowProgressPopup Fatal error: invalid progress bar step count

@@ -1,0 +1,16 @@
+VIRUS NAME: Win.Trojan.MSShellcode-6360729-0
+TDB: Engine:81-255,Target:0
+LOGICAL EXPRESSION: 1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ERROR: Decoding failed (3): 5?
+ERROR: Decoding failed
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: \xd9\x74\x24\xf4[\x50-\x5f\xb0-\xbf].{0,20}[\x29\x2b\x31\x33].{0,500}\xc9\xb1.{0,8}\x31.[\x10-\x1f\x0f][\x03\x13\x23\x33\x43\x53\x63\x73\x83\x93\xa3\xb3\xc3\xd3\xe3\xf3]
+     +-> CFLAGS: s

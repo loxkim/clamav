@@ -1,0 +1,6 @@
+VIRUS NAME: Dos.Trojan.MouseDisable-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%rundll32.exe mouse,disable
+cls

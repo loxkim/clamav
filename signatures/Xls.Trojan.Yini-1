@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Yini-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ath = WshShell.SpecialFolders("Templates") & "\Software\yinyin{WILDCARD_ANY_STRING}write "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Ru

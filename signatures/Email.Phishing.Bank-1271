@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1271
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Please click on LOG ONTO INTERNET BANKING below to restore your {WILDCARD_ANY_STRING(LENGTH<=5)}account access as soon as possible

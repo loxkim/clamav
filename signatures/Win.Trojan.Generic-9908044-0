@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9908044-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+LoginNegotiateFails_00002_009_HELP=Count of the number of times login failed due to negotiation failure with target
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+LoginAuthenticateFails_00002_009_HELP=Count of the number of times a login is aborted due to a target authentication fai
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+LoginFailures_00002_009_HELP=The object counts the number of times a login attempt from this local initiator has failed
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+LogoutOtherCodes_00002_009_HELP=Count of Logout command PDUs with status code other than 0
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+AverageProcessingTime_00006_009_HELP=Average time taken to process a request over this connection

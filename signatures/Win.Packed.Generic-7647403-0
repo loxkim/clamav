@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generic-7647403-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+github.com/konsorten/go-windows-terminal-sequences.EnableVirtualTerminalProcessing
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+trings.Reader.WriteTo: invalid WriteString countx509: Ed25519 key encoded with illegal parametersattempt to execute system stack
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+assist waitGC worker initGetConsoleModeGetProcAddressGetUserNameExWInstEmptyWidthMB; allocated NetUserGetInfoOther_ID_StartPatt
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+level 3 resetload64 failedmin too largenil stackbaseout of memoryparsing time powrprof.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gypt Standard TimeGetCurrentProcessIdGetSystemDirectoryWGetTokenInformationHaiti Standard TimeIDS_Binary_OperatorIndia Standard 

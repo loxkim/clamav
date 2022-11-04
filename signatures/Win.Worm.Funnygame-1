@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Funnygame-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+sys&"\FunnyGame.exe"{WILDCARD_ANY_STRING(LENGTH<=6044)}.Attachments.Add(copyname)

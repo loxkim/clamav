@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Emotet-7074702-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Key "%s" not found%goColMoving is not a supported option%Key may not contain equals sign ("=")
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%s5Could not cdshrrbr f ftnt to 5gnf (%s) ffes type (%s)=Overflow while converting variant of type (%s) into type (%s)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<xapMM:DocumentID>adobe:docid:photoshop:93dee8a2-fccf-11d8-9e7f-afeb9ddf8a55</xapMM:DocumentID>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<rdf:Description about='uuid:2e19a2a9-fcd6-11d8-9e7f-afeb9ddf8a55'
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Value*A key with the name of "%s" already exists

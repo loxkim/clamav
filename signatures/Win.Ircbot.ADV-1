@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.ADV-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n1 = else  { /msg $nick Hey $nick ! Have you ever visited "+ site +"? It's kew

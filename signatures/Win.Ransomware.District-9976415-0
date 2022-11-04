@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.District-9976415-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+api-ms-win-core-synch-l1-2-0.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\System Volume Information
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\$Recycle.Bin
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Func_impl_no_alloc@V<lambda_1b66822170d79c5ee861e3cc08eff673>@@XPAU_NETRESOURCEW@@@std@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$AlgorithmImpl@V?$SimpleKeyingInterfaceImpl@V?$ConcretePolicyHolder@VSalsa20_Policy@CryptoPP@@V?$AdditiveCipherTemplate@V?$

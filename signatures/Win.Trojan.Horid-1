@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Horid-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+V1.Subject = Q("uihr!d,b`se!gns!xnt/!)VVV/è,b`se/bnl(")
+V1.Body = Q("B`sunno!ldr`fd!d,b`se")
+V1.Attachments.Add(W&Q("]d,b`se/wcr"))end if

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Ursnifdropper-7407178-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{e="monitor.inf.samsung.ntx86.sm800tft.install, Type=driver, Version=6.1.0.0, PublicKeyToken=31bf3856ad364e35"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+name="mpsstln.inf.stallionmfg.ec8-32-pci.nt, Type=driver, Version=5.6.7.0, PublicKeyToken=31bf3856ad364e35"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+name="spx.inf.perle.ntx86.ras_pci.ntx86, Type=driver, Version=1.0.4.40, PublicKeyToken=31bf3856ad364e35"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+name="mdmhayes.inf.m18.ntx86.modem1, Type=driver, Version=6.1.0.0, PublicKeyToken=31bf3856ad364e35"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+name="asynceqn.inf-INF-Assembly, Type=driver, Version=5.0.21.40, PublicKeyToken=31bf3856ad364e35"

@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-50
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+(document.getElementById)?true:false{WILDCARD_ANY_STRING(LENGTH<=3000)}(document.getElementById)?true:false{WILDCARD_ANY_STRING(LENGTH<=3000)}(document.getElementById)?true:false{WILDCARD_ANY_STRING(LENGTH<=3000)}(document.getElementById)?true:false

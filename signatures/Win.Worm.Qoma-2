@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Qoma-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+r %%a in (C:\windows\*.jpg) do ren %%a *.bat{WILDCARD_ANY_STRING}@cscript C:\Qomarudin.vbs

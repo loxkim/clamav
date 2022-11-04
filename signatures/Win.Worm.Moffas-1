@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Moffas-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+BreakUmOffAS.Attachments.Add ActiveDocument.FullName

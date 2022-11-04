@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Ulise-9783527-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wget.exe -O DownLoadLink.txt http://linkdown.kr/%ServerTypeS%/%ServerVersionD% >NUL 2>&1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+if not exist .\SYSTEM\wget.exe set ErrorCommand=(wget.exe) file not found& set ErrorAnswer=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wget.exe -O %ServerJAR% "%DownLink%" >NUL 2>&1
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ping -n 2 www.google.com >nul && goto UpDate2 || goto NotConnected2
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+EULA: https://account.mojang.com/documents/minecraft_eula

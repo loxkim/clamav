@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.Titel-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+" 
+Mail.Attachments.Add("C:\tes.bat") 
+Mail.Send 
+Next 
+ol.Quit

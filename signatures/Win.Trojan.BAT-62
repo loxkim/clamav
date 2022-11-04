@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.BAT-62
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for %%a in (%2\*.bat %2*.bat) do call c:\_JAJAJA JAJAJA inf %%a

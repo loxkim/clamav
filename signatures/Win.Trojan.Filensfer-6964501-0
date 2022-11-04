@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Filensfer-6964501-0
+TDB: Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Cookie: 42a1e951c40fa976
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[*] Not complete the task,whether to continue the transmission? (y/n)

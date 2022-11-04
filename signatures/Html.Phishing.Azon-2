@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Azon-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+g>amazon</strong></span>order information records are &nbsp;<br>out of dat{WILDCARD_ANY_STRING(LENGTH<=750)}rds in maximum 24 h{WILDCARD_ANY_STRING(LENGTH<=750)}<a onclick="return showlinkwarning()" href="htt

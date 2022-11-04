@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Tsunami-9941628-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NOTICE %s :l7.unknown <target> <port> <time> <threads> </shit.php?id=> <random/not> <(n if random) or not> <GET/HEAD/POST>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+===> Fucks target so dirty they get an STD. (recommended for non-root users) 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NOTICE %s :l7.unknown2 <targetip> <host_header> <port> <time> <threads> </shit.php?id=> <random/not> <(n if random) or not> <GET
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NOTICE %s :XMAS <target> <port> <secs> <cwr,ece,urg,ack,psh,rst,fin,syn or null> <random/not>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+===> an attack so mysterious, nobody knows its real name. (recommended for non-root users) +

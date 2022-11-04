@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Predec-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+F.Attachments.Add H.BuildPath(H.GetSpecialFolder(1),"packed.exe"{WILDCARD_ANY_STRING}kx","Win32.Preju

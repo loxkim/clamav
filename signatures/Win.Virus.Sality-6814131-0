@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6814131-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Broadcom Connection Wizard - 1Broadcom 43224AGN 802.11a/b/g/n 2x2 Wi-Fi Adapter-Broadcom 4313GN 802.11b/g/n 1x1 Wi-Fi Ad
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Broadcom.Dokument: $(DOC_NUMBER). Freigabe: $(DOC_DATE) Broadcom, das Pulse Logo und 54g&Broadcom WLAN-Adapter Benutzerh
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Broadcom 43225 802.11b/g/n*Teil des Broadcom Wireless-Dienstprogramms5Broadcom BCM943228HM4L 802.11a/b/g/n 2x2 WiFi Adap
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+rguhalduse konfiguratsiooniutiliit (Wireless Administrative Configuration Utility)+Broadcom 4321AG 802.11a/b/g/n Wi-Fi a
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+WLAN Impostazioni di connessione WLAN.Adattatore Wi-Fi Broadcom 4322AG 802.11a/b/g/n

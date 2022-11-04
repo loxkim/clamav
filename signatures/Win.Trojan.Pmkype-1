@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Pmkype-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+net stop ERSvc{WILDCARD_ANY_STRING}del /a/f %%windir%%\Prefetch\*.pf{WILDCARD_ANY_STRING}Check Skype_Running(), Kill!

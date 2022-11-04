@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.Redir-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f s = "htm" and fso.FileExists(f1.path+"l") = False then 
+				fso.Copy

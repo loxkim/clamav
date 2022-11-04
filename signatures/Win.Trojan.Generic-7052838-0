@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-7052838-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WSHShell.regwrite "HKCR\CLSID\{E2BDE352-AB67-EF4B-8643-A56AE98F5733}\Shell\Open\Command\", ie&" http://www.59688.com"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+objURLShortcut3.TargetPath = "http://gouwu.alimama.com/channel/channelCode.htm?pid=mm_12937014_0_0"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+oShellLink.TargetPath = "%ProgramFiles%\Internet Explorer\IEXP1ORE.EXE" 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+oShellLink.TargetPath = "%ProgramFiles%\Internet Explorer\iexplore.exe"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Explorer.lnk /e /c /r %username% < c:\ans.txt

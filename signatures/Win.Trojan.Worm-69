@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Worm-69
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+achments.add filesystemobject.getspecialfo{WILDCARD_ANY_STRING(LENGTH<=100)}.jpg.vbs" newitem.deleteaftersubmit = true if newitem.to <> "" then newitem.send wscriptshell.regwrite

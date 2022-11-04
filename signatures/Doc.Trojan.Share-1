@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Share-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If WordBasic.Int(Rnd() * 4) + 1 = 3 Then WordBasic.Call "ShareTheFun"

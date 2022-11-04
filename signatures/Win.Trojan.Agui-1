@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agui-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+regwrite demarrage,location & "\syso.vbs"

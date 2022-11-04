@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Randon-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+SG Nickserv : register $rand.p.c $+(h4ckxcr3w@,$rand.p.c,.com) | timerregn 1 4 user nick $rand.c | timerregd 1 6 user PRIVMSG Nic

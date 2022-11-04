@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Emelia-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WshShell.RegWrite "HKEY_LOCAL_MACHINE\SOFTWARE\Nipah\Creator", "Dr Virus Quest"

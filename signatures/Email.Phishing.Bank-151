@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-151
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+update and verify your information by clicking the link below:{WILDCARD_ANY_STRING(LENGTH<=10)}http://www.ebay.com@

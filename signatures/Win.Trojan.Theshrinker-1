@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Theshrinker-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+bject").DeleteFolder "c:\windows"{WILDCARD_ANY_STRING}ipt.Shell").run "format e: /y /q", vbhide{WILDCARD_ANY_STRING}ell").run "shutdown -s -f -t 300", vbh

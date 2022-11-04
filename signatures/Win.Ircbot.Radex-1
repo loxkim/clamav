@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Radex-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+RCbxs.WriteLine ("n1=/dcc send $nick " + s1dir + "\\LINUX_SH_DOS_BAT

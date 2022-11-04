@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9961379-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Nikita\Desktop\c++\keylogger\Debug\keylogger.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xmemory0
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Qhttp://crl.microsoft.com/pki/crl/products/Microsoft%20Code%20Signing%20PCA(2).crl0f
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Jhttp://www.microsoft.com/pki/certs/Microsoft%20Code%20Signing%20PCA(2).crt0
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+keylog.txt

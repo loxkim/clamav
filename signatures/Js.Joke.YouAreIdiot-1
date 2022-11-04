@@ -1,0 +1,9 @@
+VIRUS NAME: Js.Joke.YouAreIdiot-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+) 
+		{
+		var url="http://offiz.bei.t-online.de/idiot.html";
+		var title="Idiot!";
+		window.external.AddFavorite(url,title)

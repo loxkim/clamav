@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Edds-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If x81333293 = 1 Then domeharderbaby32910 = ActiveDocument.FullName Else domeharderbaby32910 = NormalTemplate.FullName

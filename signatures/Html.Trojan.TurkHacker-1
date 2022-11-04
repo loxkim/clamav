@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.TurkHacker-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+turkish hacker{WILDCARD_ANY_STRING(LENGTH==33)}iskorpitx

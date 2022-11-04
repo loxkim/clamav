@@ -1,0 +1,13 @@
+VIRUS NAME: Dos.Trojan.Hdk13-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+indows
+@md window~1
+@md backup
+@md progra~1
+@md yedek
+@md oyunla~1
+@md oyun
+@md recycl~1
+@md recycled

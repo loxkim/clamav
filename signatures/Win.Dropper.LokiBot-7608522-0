@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-7608522-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+No help keyword specified.=Error decoding URL style (%%XX) encoded string at position %d1Invalid URL encoded character (
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ Invalid operation on TOleGraphic
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid value for field '%s'E%g is not a valid value for field '%s'. The allowed range is %g to %gE%s is not a valid val
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/Custom variant type (%s%.4x) already used by %s*Custom variant type (%s%.4x) is not usable2Too many custom variant type
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+0'%s' is not a valid boolean value for field '%s'7'%s' is not a valid floating point value for field '%s'6Type mismatch 

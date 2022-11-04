@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Marker-40
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+x4 = x6.CodeModule.Find(x15, 1, 1, 10000, 10000){WILDCARD_ANY_STRING}.CodeModule.DeleteLines 1, x6.CodeModule.CountOfLi

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Banz-9848043-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+a, informe o nome do seu Pai como consta em seu CPF, seguido da sua senha do Disque Real.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DThis authentication method is already registered with class name %s.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+kEbn4RsDrRMLkT7CWOMva85DbT7HfRcTpN4HbPc5rR7GWLNDbSbnDPMvr84bkQMDfON9SK79lPt9XRM5pN4bkQMDfOMnfUc5oN6vbTovbU6K
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+EIdOpenSSLLoadError,6H
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gEbn4RsDrRMLkT7CWOMva85DbT7HfRcTpN45iR21LSsLoSrnDPMvr84bkQMDfON9SK79lPt9XRM5pN4bkQMDfOMnfUc5oN6vbTovbU6K

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hijacker-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Infect.countoflines < 1 Then Infect.addfromstring iamhere.lines(1, iamhere.countoflines)

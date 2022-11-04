@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Qhost-17
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+27.0.0.1 www.trendmicro.com
+127.0.0.1 www.grisoft.com
+127.0.0.1 downloads-us1.kaspersky-labs.com
+127.0.0.1 do

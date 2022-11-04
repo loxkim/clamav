@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Randon-25
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ewin32.exe >>ftp.txt | so{WILDCARD_ANY_STRING}c %rpc.found | msg %chan RPC EXPLO

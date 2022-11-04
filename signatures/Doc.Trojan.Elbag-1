@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Elbag-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+On Error GoTo Gable{WILDCARD_ANY_STRING}If ActiveDocument.VBProject.VBComponents(I).Name = "Gable" Then

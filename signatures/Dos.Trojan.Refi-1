@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Refi-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+N c:\windows\user.dat noreg.ro{WILDCARD_ANY_STRING}N c:\windows\rundll32.exe slowsys8.inx

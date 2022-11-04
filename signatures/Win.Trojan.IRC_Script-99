@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-99
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set %netbiosscan.rand.temp $rand({WILDCARD_ANY_STRING}if ($1 == !mailbomb) { if ($2 !=

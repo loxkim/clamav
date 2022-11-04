@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-901
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+</title></head><body><a href="http://{WILDCARD_ANY_STRING(LENGTH<=15)}.53.com.{WILDCARD_ANY_STRING(LENGTH<=100)}"><img border=0 src="cid:{WILDCARD_ANY_STRING(LENGTH<=100)}"></a></bo

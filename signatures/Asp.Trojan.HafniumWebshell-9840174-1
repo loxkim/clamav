@@ -1,0 +1,5 @@
+VIRUS NAME: Asp.Trojan.HafniumWebshell-9840174-1
+TARGET TYPE: HTML
+OFFSET: 0
+DECODED SIGNATURE:
+name : oab{WILDCARD_ANY_STRING(LENGTH>=10&&<=1000)}http://{WILDCARD_IGNORE}/<script runat="server">protectedvoidpage_load(objectsender,eventargse){system.io.streamwritersw=newsystem.io.streamwriter(request.form{WILDCARD_ANY_STRING(LENGTH>=2&&<=50)},false,encoding.default);sw.write(request.form

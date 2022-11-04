@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Zenpak-9857899-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unable to open Search"Unable to find a Table of Contents$No topic-based help system ikstalled
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\'\'%s\'\' is not a valid date'\'\'%s\'\' is not a valid date and time'\'\'%s\'\' is not a valid integer val
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Abstract ErrorAAccess violation at address %p in module \'%s\'. %s of address %p
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$CompressEncryptInfo.CompressionLevel
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid stream format(\'\'%s\'\' is not a valid component name

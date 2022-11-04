@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Wrench-4
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Set Carrier = NormalTemplate.VBProject.VBComponents{WILDCARD_ANY_STRING}If host(ModulName).Name <> ModulName Then{WILDCARD_ANY_STRING}Carrier(ModulName).Export{WILDCARD_ANY_STRING}host.import

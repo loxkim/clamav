@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Pando-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+andemonium by ULTRAS [SOS]
+On Error Resume Next
+Dim WSHShell
+Set WshShell = Wscript.CreateObject("Wscript.Sh

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Rendra-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Not objet.CodeModule.Find("'{ - This function should never be deleted - }", 1, 1, 1, 1) Then

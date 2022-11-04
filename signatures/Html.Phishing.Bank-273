@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-273
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ware, and due to this upgrade we kindly ask you to follow th{WILDCARD_ANY_STRING(LENGTH<=230)}link{WILDCARD_ANY_STRING(LENGTH>=1&&<=150)}given below to confirm your online account details. failure t

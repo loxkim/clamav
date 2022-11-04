@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Ickly-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+   FileDropper.writeline "HTML.PAZUZU v1.2a message from -=Azag-Th0th=-

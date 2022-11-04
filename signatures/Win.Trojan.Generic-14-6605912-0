@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-14-6605912-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+- Que se encuentra al corriente en el cumplimiento de sus obligaciones tributarias y frente a la Seguridad Social (1).
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lidos, cuyos contratos temporales se hayan transformado en indefinidos durante el plazo de 3 a
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ct100n.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+como el contrato temporal de fomento de empleo que se transforma as
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Parte de alta de los trabajadores en la Seguridad Social, debidamente formalizado por la Tesorer

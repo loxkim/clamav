@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7343114-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0”10
+	’&‰“ò,d
+63V736YZM31:08U1iPhone Distribution: Quick Atom Ltd. (63V736YZM3)10U
+63V736YZM310U
+Quick Atom Ltd.10	UHK
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0190326030343Z200325030343Z

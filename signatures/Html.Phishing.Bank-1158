@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1158
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+online-banking-service zu verbessern.{WILDCARD_ANY_STRING(LENGTH<=25)}wir m{WILDCARD_ANY_STRING(LENGTH<=6)}chten sie bitten, unten auf den link zu klicken und ihre kundendaten{WILDCARD_ANY_STRING(LENGTH<=25)}zu best{WILDCARD_ANY_STRING(LENGTH<=6)}tigen

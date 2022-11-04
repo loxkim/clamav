@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Zusy-9807586-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<command:parameter required="false" variableLength="false" globbing="false" pipelineInput="false" position="nam
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\FitSecond\Listenelectric\observeBe\inventfinal\theyMinute\Neck.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<command:parameterValue required="false" variableLength="false">SwitchParameter</command:parameterValue>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-uired="false" variableLength="true" globbing="false" pipelineInput="true (ByPropertyName)" position="named">
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<command:parameterValue required="true" variableLength="false">psobject</command:parameterValue>

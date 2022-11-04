@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generickdz-9959996-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8zG7(>O33s\4Xm/f-krG40{D?d3[e^qw:]_o*vQk5VulZ9HIFN6*6h(|AGL>g+tZ<@a;CYj7M9wOsqJ,H18b8KA_Z*Nvicv=UxdsE<loPpy2uTcdai:EQ.CB\b
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+A9wOsqJ,H18b8KA_Z*Nvicv=UxdsE<loPpy2uTcdai:EQ.CB\b8zG7(>O33s\4Xm/f-krG40{D?d3[d^qw:]_o*vQk5VulZ9HIDN6*6h(|AGL>g+tZ<@a;C
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=UxdsE<loPpy2uTcdai:EQ.CB\b8zG7(>O33s\4Xm/f-krG40{D?d3[e^qw:]_o*vQk5VulZ9HIFN6*6h(|AGL>g+tZ<@a;
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/NvWfv=o}dss9lobuy2[QcdKl:Ew+CB~g8zY2(>U63sJ1Xm=c-k|B40qA?d5^e^sr:]
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e^qw:\*

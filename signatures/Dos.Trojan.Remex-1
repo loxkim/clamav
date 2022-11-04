@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.Remex-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off
+hide /hide "C:\WINNT\System32\cmd.exe"
+psexec.exe \\%1 -u Administrator

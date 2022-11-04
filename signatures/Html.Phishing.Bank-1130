@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1130
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+visit the{WILDCARD_ANY_STRING(LENGTH<=14)}following link to start the proceedure of confirmation on customers dat

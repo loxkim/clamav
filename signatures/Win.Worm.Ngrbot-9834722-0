@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Ngrbot-9834722-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%qgZ3I3nI3Qx2cun3qqx"%."xq38QW8Uxb8xFMBx2bnC3IxIuxq3cj3cx%q:%Qx(HbcU3I:x%q)g
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[Q="%q"xq="%QxL9I3q"]xZu!8oubQx3ccuc:xhZ7xPWqPbInmx(%qxY=x%q)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+.uXI!bc3\hWncuquXI\6W8Qu!q\Bwcc38IT3cqWu8\GuoWnW3q\.9qI3P
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+gZKvRfeH\.uXI!bc3\hWncuquXI\6W8Qu!q\Bwcc38IT3cqWu8\Mw8
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[Q="%q"xq="%QxL9I3q"]xvWo3x"%."xmbqxb8xW8jboWQxLW8bc9xI923gx[I923="%Q"]

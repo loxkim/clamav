@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Tdss-7643769-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s-e;2>e)t;a<E,sre>>:o<r0v%:$/te:q-dze:"%u+i=i%s9<vm<n'u-f&>vmgd%u+i'/tv;r
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ey"xl$cemts;oe=;u'arm-e&"jn:m;c!oue1mrl* :o;s;vfn1m0".h+mya,t$>wa-s)n)s)v'"unhm;2%=zxyf!s>tr.jl%s-V<u:"x<&mru-n:"vs%r;t;nr
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+v:y<_):zr!l!svs)v<s=<-e;e%:zg<mg_%t;I;s-<;s)ev\
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+m:t!>ec!e;arm1mtm:u9s;vfo;2>s-h+_zo;trc-",=$rt_;P
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s-ejq-e)i:i<E,s=e> >e$i0v%:$e$e/e:sze:e>u+i

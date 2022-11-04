@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-292
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+our automated reactivation system.<br><br><b>you may do so by clicking <a href="ht{WILDCARD_ANY_STRING(LENGTH<=100)}ank">here</a>and submitting the required infor

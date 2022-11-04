@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Akuma-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Dir(Application.StartupPath & "\" & "Akuma.XLS") = "Akuma.XLS" Then e = True

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Barys-7400166-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%s(%d): [CMemMgr]Free error: Invalid memory pointer to free, maybe %p is not alloc by this memory manager
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%s(%d): [CMemMgr]Free error: Invalid memory pointer to free! %p is not the block base, correct base: %p
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dhttp://crt.comodoca.com/COMODORSAExtendedValidationCodeSigningCA.crt0$
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://secure.comodo.com/CPS0U
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+System.Security.Cryptography.AesCryptoServiceProvider

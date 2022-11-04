@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Amonetize-7566028-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Created by MIDL version 7.00.0555 at Thu Jul 03 13:04:26 2014
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VersionIndependentProgID = s 'stopers.khans'
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TypeLib = s '{455419a7-f9e4-4670-87ce-ef9efe62697a}'
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CLSID = s '{e9898144-49cf-442d-b602-8add8b746b82}'
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ForceRemove {e9898144-49cf-442d-b602-8add8b746b82} = s 'Inst Class'

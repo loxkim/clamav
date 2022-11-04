@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Magicbit-9781653-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HTDictionary<System.Integer,System.Classes.IInterfaceList>.TKeyEnumeratorX
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DTComparer<System.Rtti.TPair<System.Pointer,System.Rtti.TRttiObject>>d1F
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+LTMoveArrayManager<System.Rtti.TPair<System.Pointer,System.Rtti.TRttiObject>>\3F
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnExecute\
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(TComparer<System.Rtti.TRttiManagedField>H,F

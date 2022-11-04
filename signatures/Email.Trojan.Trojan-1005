@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-1005
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+In order to restore the access to your account please download and print{WILDCARD_ANY_STRING(LENGTH<=16)}attached ticket as soon as possibleSincerely

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-206
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+online access details:<br><br><a href="http://www.google.{WILDCARD_ANY_STRING(LENGTH<=8)}/url?q=http://

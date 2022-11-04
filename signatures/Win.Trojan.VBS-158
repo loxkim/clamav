@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VBS-158
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+test.exe{WILDCARD_ANY_STRING(LENGTH<=107)}r=int("&h"&mid(tmp(i),3,l))

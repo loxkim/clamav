@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Snotkop-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+y nul:
+copy %0.bat/A snotkop.&&&/A
+echo HACK-TIC >snotkop.###
+ech

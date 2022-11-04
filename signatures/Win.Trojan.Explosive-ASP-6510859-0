@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Explosive-ASP-6510859-0
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+setusersetup\r\n-ip=0.0.0.0\r\n-portno=52521\r\n-user=bin\r\n-password=binftp\r\n-homedir=c:\\\r\n-loginmesfile=\r\n

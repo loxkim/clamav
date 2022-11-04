@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if ( $sock(portflood.*,0) != 0 ) {  msg $schannick 4 Error!{WILDCARD_ANY_STRING}if (!clone.stat. isin $1

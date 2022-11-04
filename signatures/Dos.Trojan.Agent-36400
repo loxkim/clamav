@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36400
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off :begin if exist %1 del %1 > nul if exist %1 goto begin del %0 > nul 

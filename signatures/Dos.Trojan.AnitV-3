@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.AnitV-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@%d% %c%symant~1\ >%n%{WILDCARD_IGNORE}{WILDCARD_IGNORE}@%d% %c%tbav\ >%n%

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.CoolBoot-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set %icqnum $rand(163164,176327625) | timericqspam 0 20 sockopen icq wwp.icq.com 80 | msg %logo 14[12ICQ14] STARTED

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Ibbgt-9923652-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"~V "~V "~V "~V "~V "~V "~V "~V "~V "~V "~V "~V "~V "~V "~V 2~V "~V "~V "~V &~V "~V "~V "~V "
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+V"9zF 9vF 9rF 9nF 9jF 9fF 9bF 9^F 9ZF 9VF 9RF 9NF 9JF 9FF 9BF 9>F 9:F 96F 92F 9.F 9*F 9&F 9"F 9
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#eR0"e^0"eZ0"eF0"eB0"eN0"eJ0"ev0"er0"e~0"ez0"ef0"eb0"en0"ej0"e
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"~V "~V "~V "~V "~V "~V "~V "~V "~V "~V "~V "~V "~V "~V r>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"nf:"nf:"

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Kurt-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+urtd.bat
+:Kurtdvir
+for %%a in (*.bat) do call c:\_Kurtd Kurtd i %%a
+

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.CPCK-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+= True Then {WILDCARD_ANY_STRING(LENGTH>=1&&<=4)}.CodeModule.AddFromString ("Sub AutoClose()" & vbCr & ActiveDocument.VBProject.VBComponents.Item(1).CodeModule.Lines(2,

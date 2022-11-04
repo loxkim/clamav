@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Inor-15
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+self.close function h(h1) dim h2 dim h3:h2="" for h3=1 to len(h1) step 2 h2=h2&chr("&h"&mid(h1,h3,2))

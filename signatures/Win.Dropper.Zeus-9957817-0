@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-9957817-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{var d=b.getAttribute("aria-owns");if(d.length){var g=document.getElementById(d);if(g){var f=b.parentNode;if(P==d)P=void 0,
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2E3));c=r;var y=window.gbar.logger._aem(a,c);u(y)}}catch(W){}}var Ba=function(a){return 2E3<=a.length},Ea=function(a,b){return b
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+on(a){var b,c="direction",d=document.defaultView;d&&d.getComputedStyle?(a=d.getComputedStyle(a,""))&&(b=a[c]):b=a.currentSty
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=[^&]*|$/,function(a,c){return(c||"&")+"q="+encodeURIComponent(b)}))}catch(c){q(c,"sb","pq")}}
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+fen Sie, ob die OLE-Bibliotheken in der richtigen Version vorliegen.

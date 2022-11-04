@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Cmonster-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Cookie Monster server engine{WILDCARD_ANY_STRING(LENGTH<=2000)}krnlkill

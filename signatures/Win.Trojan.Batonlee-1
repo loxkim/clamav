@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Batonlee-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ off
+goto _%1
+:_
+arj a BATonLee.arj BATonLee.*>nul
+for %%a in (*.bat) do call %0 i %%a
+goto _e
+:_i
+arj l %2>nul
+if errorleve

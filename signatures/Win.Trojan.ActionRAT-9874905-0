@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Trojan.ActionRAT-9874905-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0&1&2)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE WIDE
+ +-> DECODED SUBSIGNATURE:
+.php
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE WIDE
+ +-> DECODED SUBSIGNATURE:
+<action>command<action>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE WIDE
+ +-> DECODED SUBSIGNATURE:
+<action>download<action>

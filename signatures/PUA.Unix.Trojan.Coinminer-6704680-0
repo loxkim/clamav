@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Trojan.Coinminer-6704680-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+virtual bool hw::ledger::device_ledger::get_secret_keys(crypto::secret_key &, crypto::secret_key &)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZN10cryptonote27construct_tx_and_get_tx_keyERKNS_12account_keysERKNSt3__113unordered_mapIN6crypto10public_keyENS_16subaddress_
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+construct_tx_and_get_tx_keyERKNS_12account_keysERKNSt3__113unordered_mapIN6crypto10public_keyENS_16subaddress_indexENS3_4hashIS6
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZN5boost6detail11lock_helperINS_15recursive_mutexENS_5mutexEEEjRT_RT0_
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Failed to parse transaction from blob, bad bulletproofs size in tx 

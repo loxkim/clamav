@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Card-21
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+br>if this is not completed by {WILDCARD_ANY_STRING(LENGTH<=25)}, we will be forced to suspend your account indefinitely until your renewed data is verified.</font></s

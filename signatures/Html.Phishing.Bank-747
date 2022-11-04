@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-747
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+decided to put an extra{WILDCARD_ANY_STRING(LENGTH<=7)}verification process to ensure your identity and your account security. please click

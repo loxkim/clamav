@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Grac-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+rc = Options.DefaultFilePath(8) & "\graciela.src"{WILDCARD_ANY_STRING}helado = False Then fotocopiar aSrc, aDes, n

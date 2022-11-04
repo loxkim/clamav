@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Flashback-22
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Payload.java{WILDCARD_ANY_STRING}/tmp/.sysenter

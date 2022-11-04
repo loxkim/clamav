@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Golden-6
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Open ("c:\windows\winstart.bat") For Input As {WILDCARD_ANY_STRING}MsgBox "Your infected with the GOLDEN Virus (C)19

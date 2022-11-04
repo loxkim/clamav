@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Emotet-7995956-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\Users\User\Desktop\2003\19.5.20\VariantUse\Release\VariantUse.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+VariantUse.EXE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Select which type of code to you want to exercise.  Set breakpoints inside the code to see how to use the variants.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ 1998 - 2001 Microsoft Corporation.  All rights reserved.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OH3dSHpoHNQ25aBwkISyeO2YQn8YMwBsTAQGTQDAcSuVMpBJbhiexSMecYr8qOlD

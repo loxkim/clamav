@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Netlog-8
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+createtextfile("c:\wobniar.txt", true)

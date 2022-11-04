@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6652693-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.facebook.com/profile.php?id=1490860055
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Masukkan ID / password yang benar
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\auto.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<xapMM:DocumentID>adobe:docid:photoshop:fa005d31-b76f-11e1-82f6-c716aa7fc96d</xapMM:DocumentID>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<rdf:Description rdf:about='uuid:fa005d32-b76f-11e1-82f6-c716aa7fc96d'

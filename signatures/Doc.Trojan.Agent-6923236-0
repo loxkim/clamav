@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Trojan.Agent-6923236-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ModuleBookForm = FreeSpace + ProjectFormOne + Directions & TypeHelp + levelss & calavres
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Private Function sebba()
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ProjectFormOne = "Du/X64bVnP1sf7j7+++9v6y','poZTEBUkvoBNL35V08HW+4POpGMjsrpbQjan','sRp3YxsFsWd1QX34vdKPXGPYQz','SWpEtDY1cYOcpL4azxYpBUYNdpSVpkF2CsW5mGrEQ3bKClLmE5mDe0KR7lf5Lixf2DN+M0rqKuxCwZAfp8GddmG62gQhoLs41J6WtD9clfAZyrtNB','OMqmTkVMCSQp9v1FI','R4NyoU7XvWbEnkdMJlHjkagrE90yMS75QJrHndv4areoRK+wPhfkhQSbA','A3xBF8mxnQGW','Md0/BMc1ONTbVIUybam9J6ZT','TS3N9NuRJOtHqrm6a7J02R5NQ','FuN','SGbAjDq6ZJs7QMT/VH4O54jNigxPrWcC8luHrvhYgtykJfb1oxt2mx/MJJ7E','eCRjUtVLQ3bVx7RcVdMsj82','cSYD+YaqH9XOv6mono01dOXhNxqDXfoksEsSmwgpLW5zOmGEpTssLKVfmZjNNglR0JQ','fwYVGVkzsi7WYJO','3bTWcRSX1/qNrl7fyrAleSMIClm','PiHGKDgpD7boFTEqXYAcVzE','pujohtoeRYjtdSu','P1s0T6VU7kPSuAhDvVQw8AxrSbsly','zfoIJ0OcEE7pLGwyT+kRvbePvcZrO5Yt18TX7mj1bzMdtVQeO66pFXHZYvGquYjntgWG1YS2uerElYIVP','BMOyCol0u6ZbPK0H3VKALAxl+KxKZGPf2jvmtyV2G/xmxzZ7SL6DpoOykcasSg+2np7c1FeZUmk2aZkqzd1erAxHE/JpAxaPgZ11yPFNlOyCr6MWEtxPVUetJfKlRFota4A+Ow8lZg7OWUIGK/tJq1BQUXjDZkG78OwM0P2kGKKZtdV6Tl5WjDrSb5c26yPImVpvNjO6NsfA+ajmSfxxyq5xWSr9HeQGidO9qsx"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Sub FunctionSubs()
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Sub Workbook_Open()
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TypeHelp = "MG+T7nju5/vemsKHcd','0zy4FHYSS','g95','pFGzW','eJ','ocDzgoK764qA','h4X0+de1F14mHfKv7zrM5FecNzyYhOEJVsllOsT','catkbB','vYULq7AFK0','Bm1umRPJwaaeAvG5SzUP+Af','xGyfwM/FUeGECPYjhKmK+8Ac+tAnE','Fjk2RDWPrih','vdNHHXMdNpqNdPR','nHqVzlh','5++/uE','eW04lb9hi+Hf/mzTD3VVrEmAgjYYd5DvT','YQoaey5/nMB','WTncVYmnUYB6L5U0kdFiq+nNbum8ZOWUWPhHtoA0QsoqdAhdyEuMR8Sye','M80TI55pyhyHkAyoYQHr1a83Hf2+N2uWTXovv/qP9/+8','WYfV3rBWc2Qq','lfrSYXdTii2+TXT1OvbmV/aXC3pnXcVKV+47z','7pQbgR6DmzJ3OxKvZdS0z6/A0u8C2','Iy696sOkcBhj/rIi36AnYaadzV/B7nA4jVbNtQUCsiFNM','ILeBrJzod9C1Nx4uDMA6XzvD3wo','3kpa5rsEf82ufXyN','W2APpNhCGCQ6UmoqnKZiqmyASjjLDiQAcLP6XlikKae4WG8+HQYCQx/G','b7XbZwCBh8bwa2Gku3ZlGPta7WYTNcusst6t1wsGiSS0V9jD0IizHYqdQ3zXtp3GbUILAulN/3K4YVCiHyryZ8i3G0NXc52H','0loqDT2MOFo9CW7lR9OPas8fX/bHFueHjLrjqyUiYojjxGMgdNnAh7pk7AazT+ziY4HCEydkeeI8wD0OcS2BzAITzDC','xOOnN/SVftCa','K0hHBZ2C9kJYg/1JZ2Kcc5fIobLNqPn9reLuV+25yeKvoEl/XCLE9zmIvJAL7vgXQMps3OgB6u450qP4ub71eGDqzlEjMbuMLbTxqIrHLF/HuaVqVhtUKT7WZzDB29TmSFiKIs"
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+component1 = Shell#(ModuleBookForm & sebba + "", xlUnderlineStyleSingle - 2)
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+levelss = "URlJBlNTv14WOt3lwe9usHjV1VfHB6J5WR8aHJmpjYscZ26GwCX2e62RjNb1lhlMq474yho7jAtysdubj5Xg2G1NLdLlrzjOcKR4aBADsx7oybpVk1','mmvbQ90mO','1jvuqe5MG21g','6Bz8R7xIQl+','at8zZE4H','Ab+u4GsxO','sUCREvY5UV0Wyxry','HZA/QAFZIwsfg86LgI','cCwDC2TTNShSLQ9g3JxWg2j','nmf','Px57yjvB46TIuZAqDOOG','4L3p10V5cTmYVu6h0HGUDvuaWQdpv','XVhdq+XGEfwr+2DYXcwYzdF8gl6cEHDmITLEAiGzDMI4xCGJwclbPP89Vd','yOGCjHQLeA1lf8','WS7tqw3D33Hmmmp7q6unpc+/mnv3x','1','NVKYbKEGP1T3TuKaKQAGhGNo4YliKVWmPZYyFRE05D','coOP5T1KSvNPQ1ycyhwJgZJ2AkIyKixb3JEW6mwQ1eRxVriR5S4ckggDshSLSWhJXNjEeke6HmH0wSFLCSHqGTfonbnAV6mdbyOnNSnUCeqBCgDcTxmJM8Fn4','esN0zPG2l','IUCgrmBszOz','iyE8drAeIXfql5+kX1SYRaXqF9toqGJ6yK1SH','swozyU4Sa+k91R6wRs3mpGQGUIj668EuqaQZ5TexziGtddor+BAO3ahf','DejsWg+RuzJvBUtOfuTcQiLN+Bw2I7hp6PPONydGOIi3XsTvO05QSZYugoMHyMIaK1LW','bt/7hHz/+8bt','Bn//SFdy+qeKS9qUOnys2bI0/5c','ZZCjTgbL+VSSlMgkoyHrlA5alA','TcnIwTx5uxub','KHHdDWV403SL6FvNs82e+mqVFQnZWm9fY7h6zsmcc','LkAT0/Iy0xj1BxGU9l5wOKkzZaCHvVrhbb7DBWs1jezqT/AEJeJpaLk8"

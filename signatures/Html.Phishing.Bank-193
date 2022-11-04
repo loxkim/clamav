@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-193
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+:85/st/index.html"><img src="cid:{WILDCARD_ANY_STRING(LENGTH<=64)}@southtrust.com"

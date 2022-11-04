@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Lucky-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+:arj
+attrib -r %2
+arj a %2 %0 >nul
+:cat
+attrib -r %2
+cat -la -1 -Pk -C LUCKY >nul
+:end
+rem from LUCKY

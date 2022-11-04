@@ -1,0 +1,8 @@
+VIRUS NAME: Html.Trojan.Winevar-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+<HTML>
+<A href="http://www.aavar.org/">Association of Ti-Virus Asia Researchers</A>
+<script>
+aa="

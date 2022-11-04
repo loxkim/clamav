@@ -1,0 +1,7 @@
+VIRUS NAME: Html.Trojan.IRCZapchast-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+aW9uXFJ1bl0=,m)
+  .w 2KREG.reg " $+ $AlShaLa7y(na) $+ "=" $+ $replace($mircexe,\,\\) $+ "  
+  .run -n regedit /s 2KREG.reg | .timer

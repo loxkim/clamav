@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hilite-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+shell "ftp http://members.tripod.com/Nihilit/"{WILDCARD_ANY_STRING}Ni_msg.Body = "I like this story!!!;o)." + vbCrLf + "Nihilit"

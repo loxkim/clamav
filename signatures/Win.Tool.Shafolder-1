@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Tool.Shafolder-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if(connect(S,pack "SnA4x8",2,1214,$target)){{WILDCARD_ANY_STRING}my @in;{WILDCARD_ANY_STRING}select(S); $|=1; print $pstr;{WILDCARD_ANY_STRING}while(< S >){ push @in, $_;

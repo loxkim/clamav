@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.MakeDirs-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+c:\windows\startm~1\programs\bguwiwdd deltree /y

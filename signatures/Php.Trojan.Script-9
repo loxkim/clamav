@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.Script-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+<? eval(gzinflate(base64_decode('{WILDCARD_ANY_STRING(LENGTH>=1600&&<=1610)}')))

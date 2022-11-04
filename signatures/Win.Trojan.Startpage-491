@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Startpage-491
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+a1.getobject();try{shl.regwrite("hkcu\\software\\microsoft\\internetexplorer\\main\\searchpage","http:/

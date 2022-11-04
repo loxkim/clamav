@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Kifie-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Back By L0NEw0lf,DhEAD Bunnie
+if exist Z:\ Copy %windir%\WuFFie.Scr Z:\
+if exist Y:\ Copy %windir%\WuFFie.Scr Y:\
+if ex

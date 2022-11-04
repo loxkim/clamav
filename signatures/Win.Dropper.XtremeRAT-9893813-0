@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.XtremeRAT-9893813-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\MASTER\Desktop\MYSRC\CRY_SRC\Stub\sALGHORITHMS\uDC.pas
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error Input is not an valid %s format.6Cipher has already been padded, cannot process message,Cipher is not in valid sta
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+!'%s' is not a valid integer value!'%s' is not a valid boolean value
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WLjJNwewzaV8jelVXgrXkvU9WGdljJLD
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ERangeErrorP`@

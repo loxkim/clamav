@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Webmoner-6
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+/bb.php?&&&&AAAA&&&&v=1&id

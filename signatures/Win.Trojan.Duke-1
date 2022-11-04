@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Duke-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+type c:\autoexec.bat>>282
+type 282>c:\autoexec.bat
+del 282
+:My version of "BAT.282" virus. (c) by Duke/SMF

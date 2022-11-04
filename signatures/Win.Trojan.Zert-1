@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Zert-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@ctty nul
+for %%q in (*.bat) do set JB=%%q
+find "JB" %JB%

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-461
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+To restore your account access, please verify your Online{WILDCARD_ANY_STRING(LENGTH<=3)}Banking Profile.{WILDCARD_ANY_STRING(LENGTH<=3)}To get started, please click the link below:

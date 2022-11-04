@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Dropper.Mirai-9799211-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+660%!ou!0-!z=!89y4%%9<64!<:;z-=!89~-89y4%%9<64!<:;z-89n$he{ly<8420z"07%y
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+64!uz%':6z6% <;3:u)u2'0%ux<u#8"4'0n180&2u)u2'0%ux<u#8"4'0U
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+64!uz%':6z6% <;3:u)u2'0%ux<u$08 n180&2u)u2'0%ux<u$08 U
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+,%0ou4%%9<64!<:;z-x"""x3:'8x '90;6:101U
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"20!uxx;:x6=06>x60'!<3<64!0ux$ux

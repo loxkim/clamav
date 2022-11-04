@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Nihilit-4
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+echo n %winbootdir%\angeldust.bas>>bas

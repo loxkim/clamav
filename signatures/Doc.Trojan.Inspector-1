@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Inspector-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Logo As String = "Wu's Macro Virus Inspector "{WILDCARD_ANY_STRING}Call ShowStatus("Upgraded£¡" & Logo)

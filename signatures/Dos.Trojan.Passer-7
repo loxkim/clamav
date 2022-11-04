@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Passer-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+\\%1\IPC$ "" /user:forsterknin{WILDCARD_ANY_STRING}r -p "123456" -s -c -f -d se2win32.ex

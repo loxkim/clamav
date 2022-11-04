@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.VMPCK1-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f Month(Now()) = 3 Then Call p1722("C:\start.scr")

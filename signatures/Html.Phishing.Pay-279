@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-279
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+securely confirm your paypal information please click on the link be{WILDCARD_ANY_STRING(LENGTH<=1)}low:{WILDCARD_ANY_STRING(LENGTH<=14)}<a href="http:

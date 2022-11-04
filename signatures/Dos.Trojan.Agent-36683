@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36683
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off ren c:\windows windblows echo sorry, your system in not compatible with this software :end 

@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Dropper.Bridge-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+wppHKCR
+{
+	Bridge.brdg.1 = s 'brdg Class'
+	{
+		CLSID = s '{9C69

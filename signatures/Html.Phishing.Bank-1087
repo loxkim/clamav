@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1087
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we were unable to verify your account information during our regular database verification process.{WILDCARD_ANY_STRING(LENGTH<=600)}verify your information

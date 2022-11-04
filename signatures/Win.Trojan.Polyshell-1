@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Polyshell-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+copy %0 %WinDir%\Startm~1\progra~1\autost~1\AutoData.bat{WILDCARD_ANY_STRING(LENGTH<=2)}goto be{WILDCARD_ANY_STRING(LENGTH<=2)}:ak

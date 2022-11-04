@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ruleden-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Sub AutoOpen(){WILDCARD_ANY_STRING}ftware\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3\", ""{WILDCARD_ANY_STRING}WordBasic.Kill "C:\WINNT\*.exe"

@@ -1,0 +1,28 @@
+VIRUS NAME: Vbs.Trojan.Agent-9852497-0
+TDB: Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+,xktkp,
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gm|ok~oyltom~2,a]m|sz~8]rovv,
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+g*m|ok~oyltom~2,]m|sz~sxq8psvo]}~owyltom~
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+g*m|ok~oyltom~2,w]bwv<8bwvr^^
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+k= asc(mid(str,i,1))-10 on error resume next j = j + chr(k) next execute(

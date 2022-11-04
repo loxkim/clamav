@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Win.Tool.Packed-186
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+eval(gzinflate(str_rot13(base64_decode(

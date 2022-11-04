@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-256
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+eval(unescape(n002.replace(n000,n001)))})(//g);

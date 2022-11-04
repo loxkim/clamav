@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-23
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+(.cc. isin $host) || (uni isin $host) && (wk isin $uptime(system,2)) { nick [edu-wk- $+ $r(1000,9999) $+ $r(100,999) $+ ]] | goto end }

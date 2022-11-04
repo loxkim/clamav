@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Bobik-9839517-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WAIT FOR : Watch List - Google Chrome : appear : 0 : 0
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WAIT FOR : Downloads - Google Chrome : appear : 0 : 0
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SWITCH TO WINDOW : Watch List - Google Chrome : 0
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WAIT FOR : Save As : disappear : 0 : 0
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Mouse : R723 : R308 : LeftButtonDown : 0 : 0 : 0

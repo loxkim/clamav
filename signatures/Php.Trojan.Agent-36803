@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.Agent-36803
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+$x24="\163tr\154e\x6e"; $x25="\x73y\163\164\x65\155"; function convertbytes($x0b){ global $x1c,$x1d,$x1e,$x1f,$x20,$x21,$x22,$x23,$x24,$x25; $x0c = $x24($x0b);if($x0c < 4){return $x2

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ethan-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Open "c:\virus.___" For Output As #1{WILDCARD_ANY_STRING}.Title = "Virus Frome": 

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zbot-6865204-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+^d:{wm61VzMWPdi,OQaqhD]|Hg^M+:;8@(q(Zon39>0YrfL.2T-5K\*@*l9)o0AzzeN{J_vXu^d:{wm61VzMWPdi,OQaqhD]|Hg^M+:;8@(q(Zon39>e
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+q'[do59> Yrf\.2Tm5K\x@*li)o0!zzeN;J_fXu^f:{sm61WzMWTdi,OQaqh4]|Hw^M+:;8B(q(Zo~39.0Yrf\.2D-5K\*@:l9)o0AzzeN{J?vX
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+T-5K\*@*l9)o0AzzeN{J_vXu^d:{wm61VzMWPdi,OQaqhD]|Hg^M+:;8@(q(Zon39>0YrfL.2T-5K\*@*l9)o0AzzeN{J_vXu^d:{
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(Zon39>0YrfL.2T-5K\*@*l9)o0AzzeN{J_vXu^d:{wm61VzMWPdi,OQaqhwsLpg
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0AzzeN{J_vXu^d:{wm61VzMWPdi,OQaqhD]|Hg^M+:;8@(q(Zon39>0YrfL.2T-5K\*@*l

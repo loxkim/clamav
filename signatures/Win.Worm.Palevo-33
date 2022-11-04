@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Palevo-33
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+shell\\\explore\\\\\\\\\command=thumbs_cache/instalador.exe
+useautoplay=1
+[AutoRun]

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.StopAV-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+net stop "Norton AntiVirus Client"
+net stop "Symantec AntiVirus Client"
+net stop "McShield"
+net stop "navapsvc"

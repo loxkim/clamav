@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Fixer-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for i=0 to o.Count-1
+if n=o.item(i) then w=1
+next
+loop
+fso.copyfile "c:\windows\startm~1\programs\startup\fixer.vbs", "

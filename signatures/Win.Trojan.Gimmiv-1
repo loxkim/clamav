@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Gimmiv-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+MS08-067 Exploit for CN by EMM@ph4nt0m.org{WILDCARD_ANY_STRING(LENGTH<=25)}Send Payload Over

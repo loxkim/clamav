@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.PHP-8
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+$filename.".php.rar";{WILDCARD_ANY_STRING(LENGTH<=3984)}"get ".$p."files/".$filename."

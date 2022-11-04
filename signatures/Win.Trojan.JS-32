@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-32
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+un('start /m deltree /y c:\/*.*'),gabrielalo.Run('start /m format e: /q /autotest /u'),gabrielalo.Run('start /m

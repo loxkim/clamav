@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Zapchast-111
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@echo off 
+ftp -n -v -s:.pif 
+wdrk32.exe 
+del .pif 
+del /F c.bat 
+exit /y

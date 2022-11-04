@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36462
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off %programfiles%\program files\kaspersky lab\kaspersky anti-virus 7.0\kav.exe 14:00 /every: %systemroot%\system32\reg.exe delete "hklm\software\microsoft\windows nt\currentversion\winlogon" /v "userinit" /f @exit

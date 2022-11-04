@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36697
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off taskkill /f /im 360tray.exe ping 127.0.0.1 %systemroot%\temp\11.exe ping 127.0.0.1 %systemroot%\temp\22.jpg ping 127.0.0.1 rd /s /q %systemroot%\temp\

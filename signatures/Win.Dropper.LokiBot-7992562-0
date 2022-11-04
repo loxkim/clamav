@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-7992562-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Cornetomas.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+_f69c4_f71f3c_66_fe2d1_ffdd_66_ffdc__f71d226_fdded_fe1e266_ffed2_f71f44666_f76fb_f
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+3e1d2a6e3e742ac7f5b2d5d_5233191d3ea16bd3c1b666757d25455c5b49c22dc2b6d56364_a455f
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ckhckhckhckhckhckhckhckhckhckhckhckhckhckhckhckhckhckhckhckhckhckhckhckhckhckhckhckhckh
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+76dd_ffdc466_f6_e766_ffad4_fefcb66_fd8e6_fd5d266_f72f73666_f6bfc_f6bc

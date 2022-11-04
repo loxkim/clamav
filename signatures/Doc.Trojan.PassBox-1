@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.PassBox-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+NJ = " Path: " & ActiveDocument.FullName & " <-> Senha: " & PBox.TextBox1

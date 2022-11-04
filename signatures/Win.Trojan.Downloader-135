@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-135
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+/slimpin1.php?did=".$dload."{STRING_ALTERNATIVE:"|'}}top.location.href={STRING_ALTERNATIVE:"|'}http://

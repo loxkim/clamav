@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Agent-36137
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+var n01{WILDCARD_IGNORE}=["dialogwidth:1024px; dialogheight:768px; dialogtop:0px; dialogleft:0px; edge:raised; center:0; help:0; resizable:1; scroll:1; status:0"," scrollbars=0,menubar=1,toolbar=1,location=0,personalbar=1,status=0,resizable=1","7f09c9e1c55f7d63f02909a14c1a45e0","6bf52a52-394a-11d3-b153-00c04f79faa6"];var n01{WILDCARD_IGNORE}=true;var n02{WILDCARD_IGNORE}=true;var n01{WILDCARD_IGNORE}=0 x0;var n0{WILDCARD_IGNORE}{WILDCARD_IGNORE}=0 x1af;var n0{WILDCARD_IGNORE}{WILDCARD_IGNORE}=0 x3b3;var n02{WILDCARD_IGNORE}=0 x1;var n02{WILDCARD_IGNORE}=n01{WILDCARD_IGNORE}[0 x0];var n02{WILDCARD_IGNORE}=n01{WILDCARD_IGNORE}[0 x1];var n02{WILDCARD_IGNORE}=n01{WILDCARD_IGNORE}[0 x2];var n02{WILDCARD_IGNORE}=true;var n02{WILDCARD_IGNORE}=false;var n02{WILDCARD_IGNORE}=fal

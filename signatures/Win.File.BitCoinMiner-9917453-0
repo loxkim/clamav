@@ -1,0 +1,28 @@
+VIRUS NAME: Win.File.BitCoinMiner-9917453-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+New Block %d, Net Diff %.5g, Target Diff %.5g, Ntime %08x
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%d of %d miner threads started using '%s' algorithm
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Miner TTF @ %.2f %sh/s %s, Net TTF @ %.2f %sh/s %s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Miner thread priority %d (nice 19)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TTF @ %.2f %sh/s: Block %s, Share %s

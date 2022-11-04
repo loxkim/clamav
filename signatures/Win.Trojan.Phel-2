@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Phel-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+varb64dec="";for(vari=0;i<str.length;i++){bufbin+=zeropad((6-lib64.indexof(str.substr(i,1)).tostring(2).length))+lib64.indexof(str.substr(i,1)

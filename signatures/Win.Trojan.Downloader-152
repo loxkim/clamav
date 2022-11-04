@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-152
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+n003(){if(document.getelementbyid("txtsearch").value==""){alert("vui lòng nhập từ khóa tìm kiếm");return;}document.location="

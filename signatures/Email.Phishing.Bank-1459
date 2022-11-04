@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1459
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+we have changed or added your email address{WILDCARD_ANY_STRING(LENGTH<=100)}For details, please sign on to{WILDCARD_ANY_STRING(LENGTH<=40)} and read

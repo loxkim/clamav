@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.FileSearcher-9875631-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0&1&2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GetAllNetworkInterfaces
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DownloadFile
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FileSearcher
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE WIDE
+ +-> DECODED SUBSIGNATURE:
+Current username :
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE WIDE
+ +-> DECODED SUBSIGNATURE:
+\Pkgs\ouput.txt

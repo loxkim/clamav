@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Crypt-297
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+new array();var n014=100;var n015=n004.length;for(n003=0;n003<8;n003++){var n016=n015+n003;if(n016>=8){n016=n016-8;n013[n003]=n004.charcodeat(n016);}else{n013[n003]=7;}}var n017=0;var n018;n014=10394;var n019=new array();n019[0]=n001.length;n015=n019[0];for(n003=0;n003<n015;n003+=2){var n020=n001.substr(n003,2);var n021=parseint(n020,16);n018=n021-n013[n017];if(n018<0){n018=n018+256;}n005+=string.fromcharcode(n018);if(n017<n013.length-1){n017++;}else{n017=0

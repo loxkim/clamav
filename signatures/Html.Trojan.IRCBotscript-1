@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCBotscript-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+( $1 == -massdevoice{WILDCARD_ANY_STRING}timermsg 4 3 msg %floodchan $3-

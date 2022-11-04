@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.India-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.MsgBox "Ravi Good Bye", "I Love India"{WILDCARD_ANY_STRING}WordBasic.MacroCopy "Global:AutoClose", sMacro$

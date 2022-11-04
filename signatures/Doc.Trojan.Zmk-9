@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Zmk-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+malTemplate.VBProject.VBComponents("ZmkMail").CodeModule.InsertLines COLTemp + 7, "Sub ViewVBCode()"

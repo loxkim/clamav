@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bleed-4
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ute VB_Name = "Crypted"{WILDCARD_ANY_STRING}Sub AutoOpen(): Dim jack(1{WILDCARD_ANY_STRING}jack(1) = "Sub ∂ÕˆºAutÁ’Ô∆“oÎ‹clo¥”Êÿsµ∂ﬁÔe()"

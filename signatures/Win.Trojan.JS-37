@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-37
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+s=document.URL;path=s.substr(-0,s.lastIndexOf("\\"));{WILDCARD_ANY_STRING}path=unescape(path);{WILDCARD_ANY_STRING}document.write(

@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-56
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rch?p=$procura&ei=UTF-8&fl=0&all=1&pstart=1&b=$cadenu") o{WILDCARD_ANY_STRING}f($sitevul !~/http/){ $sitevul = 'http://' . $sitevul; }

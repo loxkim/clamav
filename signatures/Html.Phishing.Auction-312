@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-312
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear ebay member,</f{WILDCARD_ANY_STRING(LENGTH<=100)}">- due to recent account takeovers and unauthorized listings, ebay is requesting a new account verification procedure. from t

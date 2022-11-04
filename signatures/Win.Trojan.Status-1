@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Status-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+try{tempVar=window.dialogArguments.location.href;}catch(e){window.close();}{WILDCARD_ANY_STRING}setTimeout("CheckStatus()",100);

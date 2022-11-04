@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36554
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off @echo>ipinf.txt -------------------------------- @ipconfig>>ipinf.txt @echo>>ipinf.txt -------------------------------- @echo>>ipinf.txt 4,1 (x) 1,4 am terminat!... @exit 

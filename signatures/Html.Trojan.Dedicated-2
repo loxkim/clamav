@@ -1,0 +1,7 @@
+VIRUS NAME: Html.Trojan.Dedicated-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ectFolder("C:\\MyDocu~1");
+window.status = "HTML.Worm v0.2 /1nternal";
+if (Math.round(15 * Math.random()) =

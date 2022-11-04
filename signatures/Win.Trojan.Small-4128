@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Small-4128
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+@regedit /s sup.reg
+@exit

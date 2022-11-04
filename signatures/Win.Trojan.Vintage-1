@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Vintage-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+vpotrebno = hinf.readall()
+          set victim = a.OpenTextFile(v.path,2,false)
+          victim.WriteLine "<!--vintage-->

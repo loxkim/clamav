@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Trojan-879
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+<?php /**/ eval(base64_decode("{WILDCARD_ANY_STRING(LENGTH>=5000&&<=7616)}"));

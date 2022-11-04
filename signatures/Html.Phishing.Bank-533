@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-533
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we now need you to log into your account and update your account activity.{WILDCARD_ANY_STRING(LENGTH>=1&&<=5)}account we have issued this warning message

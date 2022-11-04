@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-292
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+from a foreign ip address.{WILDCARD_ANY_STRING(LENGTH<=7)}if you accessed your account while travelling, the unusual login attempts may have been initiated by you.

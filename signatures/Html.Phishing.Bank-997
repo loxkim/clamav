@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-997
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dy bgcolor=3d"#fffff{WILDCARD_ANY_STRING(LENGTH<=20)}"><a href=3dhttp://{WILDCARD_ANY_STRING(LENGTH<=15)}bankofamerica.com.{WILDCARD_ANY_STRING(LENGTH<=100)}><img src=3d"cid:{WILDCARD_ANY_STRING(LENGTH<=150)}er=3d0></a></p><p><font color=3d"#fff

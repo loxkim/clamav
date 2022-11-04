@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Rpqgnhgbe-9842076-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ption_CIlog__vbaNew2__vbaVarLateMemCallLdRf_adj_fdiv_m32i_adj_fdivr_m32i__vbaStrCopy_adj_fdivr_m32_adj_fdiv_r
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+execScript
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vb6chs.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__vbaLateMemCall__vbaLateMemCallLd_CIatan_allmul__vbaLateIdSt_CItan_CIexp__vbaFreeObj__vbaFreeStr
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+window.alert=null;

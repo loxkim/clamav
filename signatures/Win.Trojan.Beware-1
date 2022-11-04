@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Beware-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+M BeWare
+@goto RunBeWare
+:Comon %%BeWare%%
+@ctty nul%%BeWare%%
+if ^%%1==^BeWareBAT goto BeWareBAT
+if ^%%1==^BeWareWBT 

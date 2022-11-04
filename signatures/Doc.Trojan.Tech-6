@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Tech-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Dobj.VBComponents.Import ("c:\log.386")

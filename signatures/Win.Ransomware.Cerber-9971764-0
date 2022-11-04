@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Cerber-9971764-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+imbondo.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+.Ethologic Overgloomy Viperid Stophound Untreed
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[_~SVvMPqLLhFE^?<aB>_A:\<5Y7/V3+W1*[3,]5.^9/b=3fA7g@6f<5i<6rA=yHD|HG~JI
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\V~WT}VS}TO{RMu]mqYioVhpWfw]cv[\oRSdHFbEBeIDfHAbE<aE9bF9bI:fN<hR>kV?nYBoZCsXBnP=hI8lL>xVJ
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ud{q`wp_vm\shXmaO`kZil\kdTcdSdl]pnath]qqf|tk

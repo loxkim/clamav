@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.CoCo-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If £g.Protection <> 1 And £g.Description <> "CoCo" Then

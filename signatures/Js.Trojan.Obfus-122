@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-122
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+{len=1;}i=0;m="su";while(i<{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}){z=i;s+=imploder[m+"bstr"](arguments[z],len);i++;}eval(s);}imploder="

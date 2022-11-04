@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.VAMP-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+(Chr(65 + Int(Rnd * 22))) & (Chr(65 + Int(Rnd * 22))) & Int(Rnd * 900) & Int(Rnd * 900){WILDCARD_ANY_STRING}With ActiveDocument.VBProject.VBCompone

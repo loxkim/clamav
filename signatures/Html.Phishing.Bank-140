@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-140
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<a href="http://online.regions.com%2e{WILDCARD_ANY_STRING}<img src="cid:

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Interor-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo Interior >>c:\LittleLove\it.int
+echo Inter >>c:\LittleLove\ru.int
+echo Interior >>c:\Litt

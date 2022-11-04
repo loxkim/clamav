@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Vovan-5
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+\runonce,run,,"%10%\wscript.exe %30%\tmp.vbs

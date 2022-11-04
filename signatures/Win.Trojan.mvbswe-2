@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.mvbswe-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+mvbswe{WILDCARD_ANY_STRING(LENGTH<=430)}.getextensionname(file.path)="vbs"

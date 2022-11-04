@@ -1,0 +1,25 @@
+VIRUS NAME: Win.Downloader.CertutilURLCache-6335698-0
+TDB: Engine:81-255,Target:0
+LOGICAL EXPRESSION: 3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE WIDE
+ +-> DECODED SUBSIGNATURE:
+certutil{WILDCARD_ANY_STRING(LENGTH<=50)}-urlcache
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE WIDE
+ +-> DECODED SUBSIGNATURE:
+certutil{WILDCARD_ANY_STRING(LENGTH<=50)}-f
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE WIDE
+ +-> DECODED SUBSIGNATURE:
+certutil{WILDCARD_ANY_STRING(LENGTH<=50)}-split
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1&2
+     +-> REGEX: c\x00e\x00r\x00t\x00u\x00t\x00i\x00l\x00(\x2E\x00e\x00x\x00e\x00)*(\s\x00)+((-\x00u\x00r\x00l\x00c\x00a\x00c\x00h\x00e\x00|-\x00f\x00|-\x00s\x00p\x00l\x00i\x00t\x00)(\s\x00)+){3}h\x00t\x00t\x00p\x00:\x00(\x2F\x00){2}
+     +-> CFLAGS: i

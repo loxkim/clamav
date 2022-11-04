@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-171
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+while(block.length+tcsafeoday2<0x40000)

@@ -1,0 +1,6 @@
+VIRUS NAME: Vbs.Dropper.Small-5392
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+levbs1,a,3))ifa<len(fileexe1)+1thenfileexe2=fileexe2&chr(mid(fileexe1,a,3))nextfso.createtextfile(sys&"\{WILDCARD_ANY_STRING(LENGTH<=50)}.dll").writefileexe1

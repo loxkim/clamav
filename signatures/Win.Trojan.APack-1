@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.APack-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+fp = fopen ("config.php", "w"); if ($stat["main"]["hits"] >= 15) fwrite ($fp, str_replace ("javaxpl = 0", "javaxpl = 1", $tmp)); else fwrite ($fp, str_replace ("javaxpl = 1", "javaxpl = 0", $tmp)); fclose ($f

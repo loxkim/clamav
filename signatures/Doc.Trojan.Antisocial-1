@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Antisocial-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Asc(Mid(V3, V6, 1)) Xor V5

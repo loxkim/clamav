@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.PP97M-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Open "X_Jany.bat" For Output As 1{WILDCARD_ANY_STRING}Print #1, "@copy X_Jany.pps %WINDIR%\Secret.pps"

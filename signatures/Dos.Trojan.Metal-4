@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Metal-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if not exist %metallica% goto metallicahell{WILDCARD_ANY_STRING}f '%!metallica%=='````` goto metal_up_your

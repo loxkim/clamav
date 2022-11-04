@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Shore-8
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Function getInfected(theObject As Object) As Boolean{WILDCARD_ANY_STRING}If getModuleExist(NormalTemplate) Then{WILDCARD_ANY_STRING}Jump2Normal ("CopyDoc")

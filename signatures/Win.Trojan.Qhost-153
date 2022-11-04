@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Qhost-153
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+www.bbvanet.cl{WILDCARD_ANY_STRING(LENGTH<=25)}www.bancoestado.cl{WILDCARD_ANY_STRING(LENGTH<=25)}bancoestado.cl

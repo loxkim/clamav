@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Delwin-21
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@attrib %windir%\*.* -s -h -r +a{WILDCARD_ANY_STRING}@if exist nul>%windir%\system.dat

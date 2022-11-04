@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Trewiz-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+a13.attachments.add "c:\game.bat"

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Agent-36868
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+39.net/?fav" )
+ FILEWRITE ( @FAVORITESDIR & "\单机游戏下载基地.url" , "[InternetShortcut]" & @CRLF & "URL=http://www.youx

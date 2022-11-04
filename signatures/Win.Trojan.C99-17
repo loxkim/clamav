@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.C99-17
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if (enabled("exec")) { exec($cmd,$o); $rez = join("\r\n",$o); }elseif (enabled("shell_exec")) { $rez = shell_exec($cmd); }elseif (enabled("system")) { @ob_start(); @system($cmd); $rez = @ob_get_contents(); @ob_end_clean(); }elseif (enabled("passthru")) { @ob_start(); passthru($cmd);

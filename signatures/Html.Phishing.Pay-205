@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-205
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<img src="cid:{WILDCARD_ANY_STRING(LENGTH>=1&&<=10)}.gif" width="{WILDCARD_ANY_STRING(LENGTH>=3&&<=4)}" height="{WILDCARD_ANY_STRING(LENGTH>=3&&<=4)}" usemap="#map" border="0"><map name="map"><area shape="rect" coords="{WILDCARD_ANY_STRING(LENGTH<=15)}" href="http://{WILDCARD_ANY_STRING(LENGTH<=15)}/libsh.so

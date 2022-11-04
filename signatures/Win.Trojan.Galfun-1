@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Galfun-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+GET %s?%.24s&compter=%s&flag=%s&run=%s HTTP/1.1
+Host:%s%s

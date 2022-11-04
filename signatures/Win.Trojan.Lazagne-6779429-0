@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Lazagne-6779429-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+lazagne.config{WILDCARD_ANY_STRING}lazagne.softwares

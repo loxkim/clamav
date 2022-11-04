@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nop-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.EditReplace Find:="Windows", Replace:="Sucks must die!", ReplaceAll:=1

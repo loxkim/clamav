@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36184
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<script>function n000(n001,n002,n003){var n004;n004=n001.split(n002);var n005=n004.join(n003);return n005;}function n006(n007){n007={WILDCARD_ANY_STRING(LENGTH<=5)}(n007,"##+##","'");n007={WILDCARD_ANY_STRING(LENGTH<=5)}(n007,"##|##","\");

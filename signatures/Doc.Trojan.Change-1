@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Change-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ANSWER$ = WordBasic.[InputBox$]("又到每月一日了!,考你一題問題:電腦處理個人資料保護法通過是本人生日!我是誰?", "@建哲病毒@")

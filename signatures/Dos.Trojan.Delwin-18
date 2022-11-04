@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Delwin-18
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+hments.Add (Application.Path & "\Very Funny.dot{WILDCARD_ANY_STRING}l "RUNDLL32.EXE,user.exe,exitwindows", vbHide

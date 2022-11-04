@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Oski-9873337-1
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\runneradmin\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-demangle-0.1.18\src\lib.rskernel32
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+punycode{-C:\Users\runneradmin\.cargo\registry\src\github.com-1ecc6299db9ec823\rustc-demangle-0.1.18\src\v0.rs
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\runneradmin\.cargo\registry\src\github.com-1ecc6299db9ec823\gimli-0.23.0\src\read\line.rs/rustc/b663c0f4f6ff8
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Operation not authorized at current processing stage
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/home/konsti/.cargo/registry/src/github.com-1ecc6299db9ec823/rayon-core-1.9.0/src/latch.rsPoisonErrorassertion failed: t.get().i

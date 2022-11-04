@@ -1,0 +1,7 @@
+VIRUS NAME: Php.Trojan.Agent-36956
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+define('PAS_RES', 'c989f722277c4c25a226');
+define('PAS_REQ', '3191fe7caa4ab6e4f3e9');
+define('RSA_LEN', '256')

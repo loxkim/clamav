@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.FormatAll-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@%®% c:/q/autotest >nul{WILDCARD_IGNORE}{WILDCARD_IGNORE}@%®% a:/q/autotest >nul

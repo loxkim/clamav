@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.DarkTortilla-9904993-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+powershell -nop -exec bypass{WILDCARD_ANY_STRING}wget{WILDCARD_ANY_STRING}-uri{WILDCARD_ANY_STRING}http{WILDCARD_ANY_STRING}.exe{WILDCARD_ANY_STRING}/Windows/Start Menu/Programs/Startup/

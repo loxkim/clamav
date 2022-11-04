@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VB-1502
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+("windir") & "\csrss.ex{WILDCARD_ANY_STRING}instr(1, edata, "msvbvm

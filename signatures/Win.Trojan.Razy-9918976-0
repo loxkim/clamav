@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Razy-9918976-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+init:function(container,layout,isStatic){this.toggleStatic(isStatic); this.GetLoginbox(container,layout);},
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+"https://www.cox.com/content/dam/cox/common/tnt/testimonials/customer_testimonial_desktop_01.jpg",
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Upload your own logo, change background color or images, select links color which you love - it's limitlesslearn more
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+37: Set objFile = objFS.OpenTextFile("C:\scripts\votes.txt", ForReading)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RewriteRule ^/(.*)$ /www/hosts/${lowercase:%{SERVER_NAME}}/cgi-bin/$1 [T=application/x-httpd-cgi]

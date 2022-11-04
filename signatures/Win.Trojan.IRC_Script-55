@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.IRC_Script-55
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%dlfile /lists/proxies.txt
+n13=%chan #syn
+n14=%range0

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Cerber-7752419-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+# ,DCH&(V}62d!`M!w'x#M<o%mj]Os>KS%
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@IW5=k:"h'g3
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/8}(-$q0e Kz:"<K'7dI?CZ
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1fXZ-.9\)$@!``#y"i%u'h;cigT|J"<pa=`MM0?`5u'%!``#8W
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xw8Vs;$0[UL7?y[$;WD7`#*W^(h!B-mnkhf%PYKAr

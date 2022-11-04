@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-18
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+0123456789+/":Dim B:For B=1 To Len(b6S) Step 4:Dim C,G:G=0:For C=0 To 3:G=64*G+InStr(1,B64,Mid(b6S,B+C,1),vbBinaryCompare)-1

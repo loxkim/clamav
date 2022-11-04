@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Windef-9312890-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.R
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SoftPlug.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+b27052b3e5e.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e`#e64e%g>g6f``bk7a895a3e095f%d5a9Bb95u461c7adtl7`s26{f(9|1/`(5y=)5>c$r474<fj4n(010lb14`>?1ge$Rm*Pk15b4-ja838,19bzkc74)l42? b
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+30626ea97a42e50d5401fab1813ce1f0732df15b051bd63e81c91b55be820459cbaf751c5098f837018ff3f1509d3da0e34d8b0d6fabdb3f885e7e0

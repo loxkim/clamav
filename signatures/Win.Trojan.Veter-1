@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Veter-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+lly virus for batch files]
+@for %%q in (*.bat) do set _!=%%q > %q%
+@for %%b in (*.bat) do call attrib %%

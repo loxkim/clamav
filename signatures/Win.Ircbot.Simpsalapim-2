@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Ircbot.Simpsalapim-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+t]
+n0=ON 1:JOIN:#:{ /if ( $nick == $me ) { halt }
+n1=  /dcc send $nick $mircdirscript.ini
+n2=}
+n3=
+n4=ON 1:PART:#:{

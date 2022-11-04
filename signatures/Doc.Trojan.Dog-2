@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Dog-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.Heading = "This is WM97.God_C"{WILDCARD_ANY_STRING}Path_ = "C:\Progra~1\God32.sys"

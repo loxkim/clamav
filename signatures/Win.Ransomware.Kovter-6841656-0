@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Kovter-6841656-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+oft Network Monitor 3\;C:\Program Files (x86)\GNU\GnuPG\pub;C:\Program Files (x86)\OpenVPN\bin
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Belgien\Produzierens\Dr\VB98\VB6.OLB
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Postempfangs35
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+V_CZ.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I< I

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.BAT-109
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+copy %0 %windir%\system32\sistema\foto.exe /y

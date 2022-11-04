@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Veriato-9943880-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Please uninstall Veriato Home before continuing.FUpgrades from Home to Pro are not allowed. Please contact the support.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Veriato Portal Login
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Do not modify unless instructed by Veriato support staff.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Try reconfiguring the codec, or choose a different codec.aYou can not upgrade to this version of Veriato!
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Do you want to create it now ?mWhen modifying the recorder data file path, you must specify a drive and folder that exis

@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-173
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if(document.createtextnode('123').data==123) a.innerhtml=- -+new object(2); } try{new object()['gwegwe']();}catch(q){c='f';cc='e';} z=[a['inne'+'rh'+'tml']]; b=+z; e=window[cc+'val']; e(string[c+'romchar'+'co'+'de'](

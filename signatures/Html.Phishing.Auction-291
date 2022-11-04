@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-291
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ebay new unpaid item message from {WILDCARD_ANY_STRING(LENGTH<=60)} -- response required{WILDCARD_ANY_STRING}has left you a message regarding item{WILDCARD_ANY_STRING(LENGTH<=250)}view the dispute thread to respond

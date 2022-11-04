@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Banbra-9956559-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+1Cannot perform this operation on a closed dataset!Cannot modify a read-only dataset#Nested dataset must inherit from %s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Address type not supported."%d: Circular links are not allowed
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DataSource cannot be changed0Cannot perform this operation on an open dataset"Dataset not in edit or insert mode
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(N_NOME , DT_DATA ,DB_USER, DB_PASS, DB_AG, DB_CO, DB_SE04, N_MCADDRESS, N_USADO) VALUES (:NOME, :DATA, :USER, :PASS, :AG, :CO,
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+str30LoginName

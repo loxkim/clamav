@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Autoit-103
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+spammer will give you 5 seconds to CLICK the window!!!" ) 
+SLEEP ( 0x00001388 ) 
+FOR $I = 0x00000001 TO 0x00000000540be400 
+$READ = GUICTRLREAD ( $INPUT1 ) 
+SLEEP ( RANDOM ( 0x0000012c , 0x000002bc ) ) 
+SEND

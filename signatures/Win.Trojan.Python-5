@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Python-5
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+mymtxcode=getstring(m)

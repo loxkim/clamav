@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Extras-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ElseIf Len(Workbooks(nrrhmhnnrhrrrrmrmrhnrrmmmrnhhm).Modules(1).Name) <> (7 + 6 * 3) Then

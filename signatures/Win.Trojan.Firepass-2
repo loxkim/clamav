@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Firepass-2
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+FirePassword{WILDCARD_ANY_STRING}net\firefox.exe\shell\open\

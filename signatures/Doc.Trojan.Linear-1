@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Linear-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$(252) + Chr$(128) + ">" + Chr$(128) + Chr$(0) + Chr$(0) + "tX" + Chr$(190) + Chr$(130) + Chr$(0) + Chr$(191) + ""

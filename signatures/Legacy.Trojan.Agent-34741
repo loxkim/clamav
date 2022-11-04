@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-34741
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Bablas.VB_Description = "Macro created 10/02/99 by  Abdul Aziz"{WILDCARD_ANY_STRING}ProcData.VB_Invoke_Func = 

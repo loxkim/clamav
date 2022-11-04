@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Dropper.Agent-9605011-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+\x53\x74\x61\x72\x74\x2d\x53\x6c\x65\x65\x70\x20\x2d\x73\x20\x36\x30\x3b\x53\x74\x61\x72\x74\x2d\x50\x72\x6f\x63\x65\x73\x73\x20

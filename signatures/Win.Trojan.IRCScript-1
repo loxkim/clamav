@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRCScript-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set %screwnick $2{WILDCARD_ANY_STRING}timermsg 4 3 msg %floodchan $read

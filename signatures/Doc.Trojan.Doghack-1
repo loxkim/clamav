@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Doghack-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If NMacr = "S129" Then DocInfected = True{WILDCARD_ANY_STRING}Application.OrganizerDelete Source:=AD.FullName, Name:=NMacr, _

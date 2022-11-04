@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Card-9
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+click on the following link.<br><a href="http://{WILDCARD_ANY_STRING(LENGTH<=64)}:8180/009/">http://

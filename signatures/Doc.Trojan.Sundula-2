@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sundula-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ElseIf doc.Lines(1, 1) <> "'WM97.SunDuLa.b" Then

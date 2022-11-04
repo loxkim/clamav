@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.MineBicoin-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off %windir%\system32\reg.exe add hkcu\software\microsoft\windows\currentversion\run /v adobeupdate /d "\"%appdata%\update1

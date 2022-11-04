@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Hyper-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+function ds() { window.status = "wm.hyper has now infected word and internet explorer!"; }

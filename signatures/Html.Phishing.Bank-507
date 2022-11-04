@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-507
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we could not verify your current information. either your information has been changed or incomplete, as a result your {WILDCARD_ANY_STRING(LENGTH<=50)} has been limited

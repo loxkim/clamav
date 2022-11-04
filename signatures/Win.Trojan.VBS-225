@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VBS-225
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+exists(iptr+":\\"+akf{WILDCARD_ANY_STRING(LENGTH<=32)}+"l."+xhhh)==false){jhdjh

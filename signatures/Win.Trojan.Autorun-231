@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autorun-231
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+[autorun] open=io.pif shellexecute=io.pif shell\\auto\\command=io.pif 

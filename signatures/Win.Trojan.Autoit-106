@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Autoit-106
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sleep(10)
+
+FileDelete("A:\*.doc")
+sleep(10)
+FileDelete("C:\*.doc")
+sleep(10)
+FileDelete("D:\*.doc")

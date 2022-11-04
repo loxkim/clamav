@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.HappyTime-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Rem I am sorry! happy time  
+On Error Resume Next  
+mload  
+Sub mload()  

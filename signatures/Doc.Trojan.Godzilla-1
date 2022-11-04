@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Godzilla-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+croCopy Modèle$ + ":" + WordBasic.[MacroName$](i, 0, 0, 0), ModèleAttaché$ + ":" + WordBasic.[MacroName$](i, 0, 0, 0), ExécSeul

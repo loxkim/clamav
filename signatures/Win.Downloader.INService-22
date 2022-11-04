@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Downloader.INService-22
+TARGET TYPE: PE
+OFFSET: S1+67
+DECODED SIGNATURE:
+s	100
+d	list1	lists.xmirror.us	/list1.php
+s	1
+d	list2	lists.xmirror.us	/list2.php	133014 0 0
+s	

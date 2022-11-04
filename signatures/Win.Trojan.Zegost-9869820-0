@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zegost-9869820-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+l|N<qW/|J%rPckP(3S?0N#j[>mQ%sJ`=_<mR%~_8tQ"2S?jQ>y
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+>LiQ#=S-sGlq["zJ$=Q>=Z%nJ-s])=M5p\#qMLtP:|R%y
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+>%sH-qW(=R%i[>|Rcq["zJ$=]#y[LtP:|R%y
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?uQ/vI-k[a{R-nV`=_<mR%~_8tQ"2H"y
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+>LtP?hX*t]%xP8=S)pQ>d>(|J-=[>oQ>

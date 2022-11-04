@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Bredolab-9957209-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://nid.naver.com/nidlogin.login
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://auth.maplestory.nexon.com/Login2.aspx?DeployAID=-1&DeployWID=-1&DeployCID=-1&redirectUrl=http://maplestory.nexon
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://login.nexon.com/login/page/nx.aspx?url=login/login&redirect=http://kart.nexon.com/kart/page/Main.aspx?URL=Home/in
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+javascript:window.G_LoginContainer_btnLogin.DoPostBack( "" )
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FC:\WINDOWS\system32\STDOLE2.TLB

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.FS-19
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Set £o = ThisDocument.VBProject.VBComponents(1).CodeModule{WILDCARD_ANY_STRING}If Not £\.Find("~^^~", 0, 0, 0, 0, 0, 0) Then £\.AddFromString £o.Lines(1, £o.CountOfLines)

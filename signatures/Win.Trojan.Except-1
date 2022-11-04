@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Except-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Shl.RegWrite("HKCU\\Software\\Microsoft\\Internet Explorer\\Main\\Start Page","http://202.109.73.41/

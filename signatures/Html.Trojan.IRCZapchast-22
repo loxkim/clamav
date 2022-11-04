@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCZapchast-22
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+mer 0 1 Dfind-chk | msg %channel 7S14tarting Scan Dfind $2- | hiderun DFind.exe $2- } | else { msg %channel 7I 14allready scaning %nowscan } }

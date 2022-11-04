@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7401998-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0Ž10
+	’&‰“ò,d
+DC82Q5C39A1705U.iPhone Distribution: Fayez AlAsad (DC82Q5C39A)10U
+DC82Q5C39A10U
+Fayez AlAsad10	USA
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0181215080018Z191215080018Z

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Box-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ANS$ = WordBasic.[InputBox$]("Try to input the password or play again!", _

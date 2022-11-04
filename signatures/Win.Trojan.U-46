@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.U-46
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+vir-$$ $@
+    CODE=$?
+else
+    find / -type f -perm +100 -exec bash -c \
+    "if [ -z \"\`cat {}|grep VIRUS

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Psyme-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+    function preparecode(code) {
+        result = '';
+        lines = code.split(/\r\n/);
+        for (i=0;i<lines.length;i++) {

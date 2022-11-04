@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.Small-4630
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+start winupdate.exe
+echo 0.0.0.0 {WILDCARD_ANY_STRING(LENGTH<=60)} >> "%homedrive%\WINDOWS\system32\drivers\etc\hosts"
+echo 0.0.0.0 

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.ASP-10
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Call ws.Run (ShellPath & " /c " & DefCmd & " > " & szTempFile, 0,{WILDCARD_ANY_STRING}Set oFilelcx=fso.OpenTextFile (szTempFile, 1, Fal{WILDCARD_ANY_STRING}=Server.HTMLEncode(oFilelcx.ReadA

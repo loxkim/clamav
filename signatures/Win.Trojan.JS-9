@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+document.write('<IFRAME SRC="http://{WILDCARD_ANY_STRING(LENGTH>=7&&<=15)}/link.html"

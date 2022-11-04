@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.MadDog-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+TestSig$ = UCase(WordBasic.[MacroFileName$](Signature$)){WILDCARD_ANY_STRING}WordBasic.ToolsMacro Name:="FCFinish", Run:=1, Show:=1

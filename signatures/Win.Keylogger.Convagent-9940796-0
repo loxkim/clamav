@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Convagent-9940796-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Sokoban.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Sokoban.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@nq3(0mgd3Y$zxZnV_PComJXoU%Y&UP7)woj<OIjaKP8>RI7pagHZQ7!$>GdPc_z_rJyv!ZcByoGzMSDmkL&I5(r$s5Ug90RMHIO
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+icKeyToken="6595b64144ccf1df" language="*"></assemblyIdentity>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ccompleted

@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Worm.Plexis-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ll XXX
+Call Correme
+End Sub
+Sub AutoClose()
+On Error Resume Next
+ZZZ = "Plexar": XXX = "c:\plx.$$$"
+Syst

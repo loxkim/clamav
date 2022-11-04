@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6828379-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Utility_Ubah_SetinganProgram_MsCompany_Gabungan ( GlobalSoftware_TDS ).exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\WINDOWS\SYSTEM\Init.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+A*\AC:\TDS-MDI\Utility_Ubah_SetinganProgram_MsCompany_Gabungan.vbp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Provider=SQLOLEDB.1;Password=;User ID=TDS;Initial Catalog=Service;Data Source=SERVERNT-2
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+User ID  &  Password  Koneksi  ke Database  SQL Server  TIDAK  SESUAI !

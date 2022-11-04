@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Zusy-7101240-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ive\shellex\FolderExtensions\{fbeb8a05-beee-4442-804e-409d6c4515e9}
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+egistry\Machine\Software\Classes\SystemFileAssociations\application
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ftware cannot access certain resources, such as cryptographic keys and credentials, regardless of the access rights of t
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RNXYMAV\LOCALS~1\Temp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SeUndockPrivilegelege

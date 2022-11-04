@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Zachpast-29
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off
+echo a | copy download\*.exe
+echo a | copy download\*.ini
+echo a | copy download\*.bat
+echo a | copy download\*.tx

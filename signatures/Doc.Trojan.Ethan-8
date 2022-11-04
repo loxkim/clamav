@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ethan-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Open "c:\IDEDev.___" For Output As #1{WILDCARD_ANY_STRING}(1).codemodule.Lines(1, 1) <> "Rem ID" Then

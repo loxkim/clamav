@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.IRC-14
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ClaudiaSchiffer.theme c:\Sys.bat /Y| copy ClaudiaSchiffer.theme %WinDir%\ClaudiaSchiffer.theme /Y|c:\Sys.bat|

@@ -1,0 +1,11 @@
+VIRUS NAME: Legacy.Trojan.Agent-402
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+FN = Wscript.ScriptFullName
+TP = 1
+For x = Len(MB11) To 1 Step -1
+  SI = Mid(MB11, x, 1)
+  If SI <> ";" Then
+    Bug(TP) = SI + Bug(TP)

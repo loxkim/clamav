@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Notifier-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$bestand='log.txt';
+  $action = $in{'action'};
+  $ip = $in{'ip'};
+  $trojan = $in{'trojan'};
+  $port = $in{'port'};
+  $password = $in{'password'};
+  $vicname = $in{'vicname'}

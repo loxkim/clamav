@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Dropper.Miner-9856714-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+LSUnicastMaxDHCPSizeMessageTypeMobilitySrvNAS-Port-IdNative VLANNew_Tai_LueOPTera 8003Old_PersianPTI ControlPau_Cin_HauProxy-Sta
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+teQoS Map SetRES_OPTIONSRapidCommitReconfigureReturn-PathS64PrioritySCTPInitAckSET_ADDRESSSET_FEATURESNTPServersShutdownAckSignW
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ritingSoft_DottedSolicitAddrStaticRouteSwitch NodeSystem NameTFS RequestTPC RequestTTL expiredTTLExceededTunnel-TypeUNKNOWN(%d)U
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ptureInstRuneAnyInterfaceIDJenkins</tiKerberosKDCLOCALDOMAINLQStartTimeLeave GroupLinkAddressLoST ServerMAC AddressMCSIndex#%dMP
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c-discathand-mmpatomicand8att-mt-smsautocuelogautocuesmiavanti-cdpaxysbridgeb2-licenseb2-runtimebackburnerbackupedgebacula-dirba

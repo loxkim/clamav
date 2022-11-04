@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9907297-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+allocator@U?$pair@$$CBVTString@@PAV?$set@VTString@@U?$less@VTString@@@std@@V?$allocator@VTString@@@3@@std@@@std@@@3@$0A@@std@@
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ORegistryKey.OpenSubKey failure: Cannot open sub key in registry key "%S\%S". The length of the specified subkey is longer th
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+the maximum length allowed
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+|__{]]}]^
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Tree@V?$_Tmap_traits@VTString@@PAV?$set@VTString@@U?$less@VTString@@@std@@V?$allocator@VTString@@@3@@std@@U?$less@VTStrin

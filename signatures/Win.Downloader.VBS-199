@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.VBS-199
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+th(tmp,fname1)s.opens.writex.responsebodys.savetofilefname1,2s.closesetq=df.createobject("shell.application","")q.shellexecutefna

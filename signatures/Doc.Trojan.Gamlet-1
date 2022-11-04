@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Gamlet-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+StatusBar = "TO BE OR NOT TO BE ?..."{WILDCARD_ANY_STRING}Destination:=Application.ActiveDocument.FullName, Name:="Gamlet"

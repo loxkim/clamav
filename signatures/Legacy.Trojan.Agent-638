@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-638
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rint $sock "GET /search?q=$procura&num=100&hl=pt-BR&lr=&as_qdr=all&start=$n&sa=N HTTP/1.0\n\n";

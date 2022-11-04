@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-154
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dowhilelen(s)>1{WILDCARD_ANY_STRING(LENGTH<=28)}"+ucase(left(s,2))

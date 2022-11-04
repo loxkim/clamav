@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Iframe-69
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if(n000||(window.navigator.useragent.search("firefox")==-1))return true;n000=true;window.downbar_frame=document.getelementbyid("downbar_frame");if(downbar_frame)downbar_frame.src="

@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-37028
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ (function(){ var require = global.require || global.process.mai

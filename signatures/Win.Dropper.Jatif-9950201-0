@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Jatif-9950201-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2http://ocsp2.globalsign.com/gsextendcodesignsha2g30U
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Bhttp://secure.globalsign.com/cacert/gsextendcodesignsha2g3ocsp.crt0>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4http://crl.globalsign.com/gsextendcodesignsha2g3.crl0
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+gOleAut32.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\crossdev\build\gcc-tdm64\x86_64-w64-mingw32\libgcc

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-242
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+"><br><img src="cid:{WILDCARD_ANY_STRING(LENGTH<=50)}"><br><img src="{WILDCARD_ANY_STRING(LENGTH<=50)}"><br><br><a href="http://www.google.{WILDCARD_ANY_STRING(LENGTH==2)}/url?q=http://www.google.{WILDCARD_ANY_STRING(LENGTH==2)}/u

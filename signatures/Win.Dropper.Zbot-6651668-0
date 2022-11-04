@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zbot-6651668-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dropbox-Installer-Id:eJyrVipOLS7OzM-Lz0xRslIwNjA1MjayNDI3NDEzNjQ0M7IwMDSwtDQ3sTA2M7QwNTY3NTE1MaoFAJqSDYM~
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://www.dropbox.com/0
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\eggan\configure\Domung8\micanopy\septariate\VB6.OLB
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+massalian.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+x86)\DarkEYEV3-admin\admin\Project

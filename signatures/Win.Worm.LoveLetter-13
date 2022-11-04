@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.LoveLetter-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+trojan.Copy(tmp & "\al_gore.vbs")
+	spam()

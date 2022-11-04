@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Bandit-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+not errorlevel 1 exit
+del *.pas
+del *.asm
+del *.c
+@ctty con
+echo (c) New Bandit! Ver 1.02
+del bandit.bat

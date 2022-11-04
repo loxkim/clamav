@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-643
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+si no confirma su direccion antes del {WILDCARD_ANY_STRING(LENGTH<=25)} su cuenta será <font face="arial black" color=#000000 size=2>suspendida</font>por razones de segu

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Darby-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+gws $sockname $decode(Q29udGVudC1MZW5ndGg6,m) $+ $Chr(32) $+ $file($1-).size

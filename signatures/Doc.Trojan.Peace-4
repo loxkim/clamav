@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Peace-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+VBProject.VBComponents(i).Name = "peace" Then{WILDCARD_ANY_STRING}MsgBox "Copy me I want to travel", vbInformation, "Peace"

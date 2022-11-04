@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Quitter-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nt.VBProject.VBComponents(x).Export (EPath & "Macro[" & x & "].bas")

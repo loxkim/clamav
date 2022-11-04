@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Roxer-9787617-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8{dt{eu{d<d{e=d{d4T{e5T{d<D{e=D{d44{e54{d<${e=${d4
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8PD{d<d{eu{d4T{e=d{d<D{e5T{d44{e=D{d<${e54{d4
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+|t{uftp$ttuzwtz
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{]5${]=4{d0eD{d8eT{]5D{]=T{d0ed{dxe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+K -XJA

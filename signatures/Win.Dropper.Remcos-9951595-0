@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Remcos-9951595-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Failed to Save StreamE%d is an invalid PageIndex value.  PageIndex must be between 0 and %d=This control requires versio
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mailto:GoodWinNix@mail.ru?Subject=Address Book Project&Body=Hello, please send me the source code program. Thanks!
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mailto:GoodWinNix@mail.ru?Subject=Address Book Project - [Error]&Body=Error
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\htmlfile\shell\open\command
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*);:0LKAVVJNNBAA5<<0::.88,88,77+77+77+99-;;/>>2@@4@@4@@4@@4??3??3AA5DD8GG;FF:HH<JJ>MMAPPDMMABB666*00$,, --!77+@@4FF:NNBWVLQOG

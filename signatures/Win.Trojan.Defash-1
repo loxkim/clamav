@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Defash-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+class="infod"><b>write permission:</b><? if(@is_writable($chdir)){ echo " <b>YES</b>"; }else{ echo " no";

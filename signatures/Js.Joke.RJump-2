@@ -1,0 +1,8 @@
+VIRUS NAME: Js.Joke.RJump-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+	window.moveTo(x,y);
+	dx += 0.5; dy += 0.2;
+	x = 200 + Math.sin(dx) * 200;
+	y = 300 + Math.cos(dy) * 300;

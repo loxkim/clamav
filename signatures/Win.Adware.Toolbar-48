@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Adware.Toolbar-48
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+.LuckyToolBarObj.1 = s '888Bar'
+	{
+		CLSID = s '{C00

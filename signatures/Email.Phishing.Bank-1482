@@ -1,0 +1,7 @@
+VIRUS NAME: Email.Phishing.Bank-1482
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+we&nbsp;require you to confirm your 
+details by clicking on the logon link below{WILDCARD_ANY_STRING(LENGTH<=200)}Failure 
+to do this within 24hrs will lead to access suspension

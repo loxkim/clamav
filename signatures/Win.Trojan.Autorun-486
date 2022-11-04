@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autorun-486
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+open=template.pdf icon=autorun.ico

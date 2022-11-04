@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Virtool-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+num=1 to int(rnd*14) + 2{WILDCARD_ANY_STRING}ucase(chr((int(rnd*22)+97){WILDCARD_ANY_STRING}rnd*int(rnd*6))

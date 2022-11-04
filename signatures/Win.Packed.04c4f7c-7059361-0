@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.04c4f7c-7059361-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HKEY_CURRENT_USER\software\microsoft\internet account manager\accounts\00000001
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HKEY_USERS\.default\control panel\desktop
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HKEY_LOCAL_MACHINE\hardware\description\system\centralprocessor\0
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HKEY_CURRENT_USER\software\microsoft\MS Setup (ACME)\user info
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HKEY_LOCAL_MACHINE\enum\monitor\PHLB15C\PCI_VEN_1002&DEV_4742&SUBSYS_47421002&REV_5C_000800

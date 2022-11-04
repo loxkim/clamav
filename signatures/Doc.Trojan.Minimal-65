@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Minimal-65
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+M$ = UCase(WordBasic.[Right$](WordBasic.[MacroFileName$]{WILDCARD_ANY_STRING}If M$ = "NORMAL.DOT" Then{WILDCARD_ANY_STRING}MacroCopy "Global:AutoClose", WordBasic.[FileName$]() + ":aUtOO

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-306
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if your information is not updated within {WILDCARD_ANY_STRING(LENGTH<=15)}hours, then the ability to use your paypal account will become restricted

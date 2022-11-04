@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36467
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off %windir%\rundll32.exe mouse,disable %windir%\rundll32.exe keyboard,disable rem eggs.bat rem by kefi rem created with the shinny batch trojan generator. rem by kefi 

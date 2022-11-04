@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zusy-9957279-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unknown OTP method/Could not encode header data using charset "%s")UDP is not support in this SOCKS version.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<dpiAwareness xmlns="http://schemas.microsoft.com/SMI/2016/WindowsSettings">PerMonitor</dpiAwareness>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid ownerE%d is an invalid PageIndex value.  PageIndex must be between 0 and %d=This control requires version 4.70 o
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Rendering7Invalid number of colors specified in Screen Descriptor6Invalid number of colors specified in Image Descriptor
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid image size!Image exceeds Logical Screen size&No global or local color table definedjThis "Portable Network Grap

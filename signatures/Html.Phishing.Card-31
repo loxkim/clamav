@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Card-31
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+confirm that you are not currently away. you have {WILDCARD_ANY_STRING(LENGTH>=1&&<=5)} days to confirm account information or your account will be locked.

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Remoteadmin-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+$host_all=explode("$mhost", $string); $s1=$host_all[0]; $fstring=$_server["php_self"]."?".$s1.$mhost; $os=@php_os; $ipserver="127.0.0.1" ; $uname=@php_uname(); $phpv=@phpversion(); $safemode=@ini_get("safe_mode");

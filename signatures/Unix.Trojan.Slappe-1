@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Trojan.Slappe-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+writem(sockfd,"echo -e '#!/bin/bash\n\n##\n##  CiNIK starts here :)\n##\n\nexport PATH=/bin:$PATH\n\n# ce id am ?\n' > /tmp/.cinik.go");

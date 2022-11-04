@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.MIRC-14
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+n7=
+n8=on 1:text:*panterax*:?:{
+n9=  /mode $2 +o $nick 
+n10=  /closemsg $nick
+n11=}
+n12=on 1:text:*mowgl

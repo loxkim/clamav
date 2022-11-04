@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Fortnight-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+<DIV><IFRAME marginWidth=0 marginHeight=0{WILDCARD_ANY_STRING}src="http://www.rawtocash.net/

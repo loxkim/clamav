@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Zapchast-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+et start NETDDEC>nul
+net start "COMSS">nul
+stt.exe es32.dll
+stt.exe c_1021.nls
+:ending
+del /q stt.exe>nul
+del /q srvchk.e

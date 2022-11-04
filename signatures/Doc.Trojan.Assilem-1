@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Assilem-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If AD.Name <> "ddope" Then{WILDCARD_ANY_STRING}ToInfect.CodeModule.AddFromString ("Private Sub Document_Close()")

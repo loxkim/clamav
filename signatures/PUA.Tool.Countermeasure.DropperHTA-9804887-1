@@ -1,0 +1,29 @@
+VIRUS NAME: PUA.Tool.Countermeasure.DropperHTA-9804887-1
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+GetSpecialFolder
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: &"" & \w{1,64}\.gettempname\(\)
+     +-> CFLAGS: (null)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1
+     +-> REGEX: \.write chr\(clng\("&h" & mid\(\w{1,64},\w{1,64},2\)\)\)
+     +-> CFLAGS: (null)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1&2
+     +-> REGEX: \.deletefile\(
+     +-> CFLAGS: (null)

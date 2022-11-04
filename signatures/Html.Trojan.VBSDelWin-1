@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSDelWin-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WriteLine("del c:\windows\system\*.*")

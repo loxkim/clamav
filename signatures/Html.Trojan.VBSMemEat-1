@@ -1,0 +1,8 @@
+VIRUS NAME: Html.Trojan.VBSMemEat-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+e = 1
+for k = 1 to 203
+e = e + 1
+WSHShell.RegWrite "HKLM\Software\Microsoft\Windows\CurrentVersion\Run\

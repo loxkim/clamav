@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-69
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+a=document["createelement"]("div");try{new object()["gwegwe"]();}catch(q){if(document.createtextnode("123").data==123)a.innerhtml=--+new object(2);}try{new object()["gwegwe"]();}catch(q){c="f";cc="e";}z=[a["innerhtml"]];b=+z;e=window[cc+"val"];e(string

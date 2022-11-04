@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-596
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<strong>in return for your participation in our survey $5.00 will be credited to your selected {WILDCARD_ANY_STRING(LENGTH<=25)} bank account. </strong

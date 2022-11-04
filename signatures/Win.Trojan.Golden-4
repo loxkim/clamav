@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Golden-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+R\.lys\","VBSFile"
+V1.CopyFile V5,V2&"\GoldenKey.lys"
+V1.GetFile(V2&"\GoldenKey.lys").attributes=2
+V1.Crea

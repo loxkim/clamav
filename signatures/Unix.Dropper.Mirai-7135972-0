@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Dropper.Mirai-7135972-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[37m] Usage: @http <method> <target> <port> <path> <time> <threads>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[37m] Usage: @udp <target> <port> <time> <packetsize>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[37m] HTTP-%s Flooding %s:%d (Path: %s | Seconds: %d | Threads: %d)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[37m] Usage: @c2 <c2 ip> <c2 port> <seconds> <threads>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[37m] STD Flooding %s:%d (%d Seconds / %d Packetsize)

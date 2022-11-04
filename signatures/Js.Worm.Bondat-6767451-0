@@ -1,0 +1,18 @@
+VIRUS NAME: Js.Worm.Bondat-6767451-0
+TDB: Target:0
+LOGICAL EXPRESSION: 0|1|2
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+var a="{WILDCARD_ANY_STRING}=new ActiveXObject({WILDCARD_ANY_STRING}=String.fromCharCode(e<32?95+e:e)
+ * SUBSIG ID 1
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+var a = "sueo = { {WILDCARD_ANY_STRING}(60 * 3 * 1000) >= new\x20\x44\x61\x74e\x28)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.getFolder({WILDCARD_ANY_STRING}101legit.com{WILDCARD_ANY_STRING}/c call Files.bat& cd Files

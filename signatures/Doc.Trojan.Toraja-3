@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Toraja-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Do While Komp <> ""{WILDCARD_ANY_STRING}nd Komp <> fStartUp & Ver & ".dot" And Komp <> fStartUp & Ver & ".dat" A{WILDCARD_ANY_STRING}tAttr fPath & Komp, vbNormal: Kill fPath & Komp

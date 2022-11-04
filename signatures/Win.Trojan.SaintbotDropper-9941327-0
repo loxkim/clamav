@@ -1,0 +1,24 @@
+VIRUS NAME: Win.Trojan.SaintbotDropper-9941327-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+LibClamAV Error: cli_hex2ui(): Malformed hexstring: 0608060817DA9A1472DA050070168D??0000011414142 (length: 45)
+ERROR: Decoding failed
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GetResourceString
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ResourceManager
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Resources

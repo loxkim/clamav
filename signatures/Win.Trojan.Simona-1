@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Simona-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sddsa.copy (dwinsys&"\antivir.vbs")
+RegW()
+DosDropp()
+If Not (Simona.Fileexists(dwin&"\oldDos.bat")) Then
+D

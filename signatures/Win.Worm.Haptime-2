@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Haptime-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+gsf&"\instlog.htm"{WILDCARD_ANY_STRING(LENGTH<=10653)}gsf&"\instlog.htm"

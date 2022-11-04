@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Deltree-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo autoexec.3 deltree /y \windows\

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Sys-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ws\command\sys.old goto end
+copy %0 %sys%\command\sys.bat
+ren %sys%\command\sys.com sys.old
+attrib c:\wi

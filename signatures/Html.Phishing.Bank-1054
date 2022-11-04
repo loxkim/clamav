@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1054
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+our account review team identified{WILDCARD_ANY_STRING(LENGTH<=7)}some unusual activity in your account. in accordance with {WILDCARD_ANY_STRING(LENGTH<=30)}user agreement and to ensure{WILDCARD_ANY_STRING(LENGTH<=7)}that your account has not

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bablas-18
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+anizerCopy Source:=NormalTemplate.FullName, Destination:=ActiveDocument, Name:="ZACHRI", Object:=wdOrga

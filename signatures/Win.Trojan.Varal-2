@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Varal-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+& "0A456E64207375620D0A"{WILDCARD_ANY_STRING(LENGTH<=20)}=createobject("scripting.filesystemobject"):Randomize

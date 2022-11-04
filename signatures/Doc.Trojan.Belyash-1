@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Belyash-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ion.OrganizerCopy Source:=NormalTemplate.FullName, Destination:=ActiveDocument.FullName, Name:="Manuela", Object:=wdOrgan

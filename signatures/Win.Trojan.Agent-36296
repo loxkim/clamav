@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36296
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<script src=http://%77%76%67%37%2e%63%6e></script><script src=http://%63%6b%74%31%2e%63%6e></script><script src=http://%63%6b%74%31%2e%63%6e></script>

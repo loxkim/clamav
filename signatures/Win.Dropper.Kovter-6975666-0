@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kovter-6975666-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://paycenter.qq.com/cgi-bin/payvnetstep1.cgi?service_type=qqshow&clientuin=&clientkey=&station=20
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://gamevip.qq.com/cgi-bin/payportal_vnetctc_pay.cgi?service=QQGAME&pay=vnet&province_id=20
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://paycenter.qq.com/cgi-bin/payvnetstep1.cgi?service_type=music2&station=20
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://gamevip.qq.com/cgi-bin/payportal_vnetctc_pay.cgi?service=QQPETTC&pay=vnet&province_id=20&tctype=1127&petsex=0&ima
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+explorer.exe http://www.hackerfly.org/

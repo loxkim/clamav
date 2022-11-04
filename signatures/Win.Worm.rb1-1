@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.rb1-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for $dir in $binary_dirs do{WILDCARD_ANY_STRING(LENGTH>=60&&<=120)}next if file =~ /^\S+_/ ||

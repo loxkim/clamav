@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Win.Packer.Fsg-46
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+‡%{WILDCARD_ANY_STRING(LENGTH==4)}a”U¤¶€ÿsù3Éÿs3Àÿs¶€A°ÿÀsúu

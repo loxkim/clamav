@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Dropper.PowershellScript-7643700-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+silentlycontinue{WILDCARD_ANY_STRING}system.net.webclient).downloadstring{WILDCARD_ANY_STRING}/c schtasks /create /tn

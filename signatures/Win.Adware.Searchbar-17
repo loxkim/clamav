@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Adware.Searchbar-17
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+dwave.com/as.asmx/SrchKeys?af_id=%af_id%&kw=%keywords%&dom=%new_dom%&TUID=%tuid%&c_hist=%c_hist%&cookies=%cookies%&r_ip=
+AD_SRV_URL=ht

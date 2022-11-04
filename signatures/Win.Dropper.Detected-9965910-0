@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Detected-9965910-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Phttp://cacerts.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crt0
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=Google%20Chrome&needsadmin=prefers&ap=x64-stable-statsdef_1&installdataindex=empty
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={8BD9FA81-6725-3E48-E412-0B6FEC0C62E3}&lang=ru&browser=4&usagestats=1&appname
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://ocsp.digicert.com0\

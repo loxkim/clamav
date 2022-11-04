@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillAV-20
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo Mail.to=ol.GetNameSpace("MAPI").AddressLists(1).AddressEntries(x) >> C:\ogpyo.vbs

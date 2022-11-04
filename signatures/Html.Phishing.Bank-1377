@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1377
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we are upgrading {WILDCARD_ANY_STRING(LENGTH<=45)} with a newly established s{STRING_ALTERNATIVE:s|l}l server logon below to upgrade for save banking

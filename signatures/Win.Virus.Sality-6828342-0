@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6828342-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rung unter <a href="http://www.hp.com/go/privacy" target=top>http://welcome.hp.com/country/de/de/privacy.html</a> oder unter f
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+style='mso-spacerun:yes'>&nbsp; </span>1) informacje o systemie komputerowym: np. system operacyjny, region i j
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+en <u><span style='color:blue'>www. hp.com/go/privacy</span></u> y todos los datos que se recopilan quedan protegidos de acuerd
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+om dine HP-produkter, f.eks. produktmodel, installationsdato, printtype (tekst/grafik) og 3) andre oplysninger, som du selv afg
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pnej pod adresem <u><span style='color:blue'>www.hp.com/go/privacy</span></u>, a wszystkie zbierane dane s

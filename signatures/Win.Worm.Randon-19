@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Randon-19
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$rand(0,9) $+ $rand(a,z) $+ %flood.nick $+{WILDCARD_ANY_STRING}n ( $+  $+ %infecttime  $+

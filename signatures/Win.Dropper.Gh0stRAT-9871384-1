@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Gh0stRAT-9871384-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Dbfsgview.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-(S+r6#S0 ,#Q e6fS,e'-0Di*0Q(i fG-n )Gds-<UDu*-^+w*fS+m44U7s-)^dm!2X+dDFY*c++@%t-$\! 2#B7i+(0D
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D2_+ )'^= (#^#t,f_6  /C0a*%Uds=+R+l7FY*v%*Y  ')T! (#^#t,5
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"a6fR%c/F0Di*0Q(i fT-s0'^'ed%_ eDF0-n2'\-dd*Y0e6'\kl!(W0hd%_ eD/^2a(/Tdd-5D%n'#Cds!20D
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DFY*s1 V-c-#^0 )#]+r=FT%t%fU6r+40Ds04U%md#B6o6F0D

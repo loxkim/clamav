@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-105
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+write scanport.txt Scanport process[ %ipCount  ] : open port at:{WILDCARD_ANY_STRING}timeruniscan_stop $+ %uni.oneip 1 10 sockclose uniscan

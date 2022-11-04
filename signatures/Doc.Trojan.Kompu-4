@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Kompu-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+'Makroviirus Kompu{WILDCARD_ANY_STRING}sic.MacroCopy WordBasic.[MacroFileName$]("AutoOpen") + ":AutoOpen", "Global:AutoOpen"

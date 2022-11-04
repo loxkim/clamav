@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Lockscreen-9761549-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Chttp://ns.adobe.com/xap/1.0/
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tEvt:when="2012-12-23T18:32:23+07:00" stEvt:softwareAgent="Adobe Photoshop CS5.1 Windows" stEvt:changed="/"/> <rdf:li stEv
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+66782B7A3E076250C" dc:format="image/jpeg" photoshop:LegacyIPTCDigest="C7FC3EF1A4231D0D1AA5810C00161412" photoshop:ColorMode
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xmp:CreateDate="2012-10-06T16:31:59+08:00" xmp:ModifyDate="2012-12-23T18:32:23+07:00" xmp:MetadataDate="2012-12-23T18:32:23
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4F0F3C9166782B7A3E076250C" xmpMM:InstanceID="xmp.iid:BBCE686BF44CE2119410D447894CCA6A" xmpMM:OriginalDocumentID="BAA4ABB4F0F

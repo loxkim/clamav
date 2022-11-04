@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Killfiles-35
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ATTRIB -a -s -h -r c:\config.sys
+        DEL c:\config.sys
+        ATTRIB -a -s -h -r c:\io.sys
+        DEL c:\io.sys

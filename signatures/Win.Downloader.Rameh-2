@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Downloader.Rameh-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+anizer = s 'F1 Organizer Class'
+	{
+		CLSID = s '{00000EF1-0786-4633-87C6-1AA7A44296DA}'
+		C

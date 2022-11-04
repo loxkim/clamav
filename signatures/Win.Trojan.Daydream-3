@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Daydream-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ow) = "15" Then Dream = 1 Else Dream = 0
+If Dream = 1 Then
+SetAttr "C:\Msdos.sys", vbNormal
+System.Priva

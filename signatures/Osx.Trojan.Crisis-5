@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.Crisis-5
+TARGET TYPE: MACHO
+OFFSET: *
+DECODED SIGNATURE:
+com.apple.safari{WILDCARD_ANY_STRING(LENGTH<=100)}org.mozilla.firefox{WILDCARD_ANY_STRING(LENGTH<=100)}com.skype.skype{WILDCARD_ANY_STRING(LENGTH<=100)}com.microsoft.messenger{WILDCARD_ANY_STRING(LENGTH<=100)}com.adiumX.adiumX{WILDCARD_ANY_STRING(LENGTH<=100)}sem-mdworker

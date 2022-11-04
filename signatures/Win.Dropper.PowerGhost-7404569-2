@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Dropper.PowerGhost-7404569-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+system.net.networkinformation.ping{WILDCARD_ANY_STRING}runddos{WILDCARD_ANY_STRING}invoke-brexit

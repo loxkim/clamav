@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Jasmine-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.Text = "So many questions, but the answers are so few..." & vbCr & vbCr{WILDCARD_ANY_STRING}ActiveCell.FormulaR1C1 = "Excel97.MarySol"

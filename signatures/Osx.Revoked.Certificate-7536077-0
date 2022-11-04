@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7536077-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0Ù10
+	’&‰“ò,d
+2MQ5CEMXLL1V0TUMiPhone Distribution: Evergrande Real Estate Group Pearl River Delta Co., Ltd.10U
+2MQ5CEMXLL1A0?U
+8Evergrande Real Estate Group Pearl River Delta Co., Ltd.10	UCN
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0180801014928Z210731014928Z

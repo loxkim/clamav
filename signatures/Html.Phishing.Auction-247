@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-247
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+congratulations! you won ebay gift{WILDCARD_ANY_STRING}in order to{WILDCARD_ANY_STRING(LENGTH<=7)}get{WILDCARD_ANY_STRING(LENGTH<=7)}your gift certificate of ${WILDCARD_ANY_STRING(LENGTH<=6)} you have to stay signed in on

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Stantinko-9806277-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\CSVN\CSVN_Windows_trunk\requirements\openssl\out32dll\libeay32.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gcroot<System::Collections::Generic::Dictionary<unsigned __int64,Nvda::Analysis::Entities::UserStartEndRange ^> ^>.->
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{ "method": "Inspector.detached", "params": { "reason": "target_closed"} }
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ERROR: Unable to remove the encrypted password.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+&?bind@trace@pprofiling@@YAXPAVIReader@12@PAXPAVThread_sleep_2_v1@post@win@12@@Z

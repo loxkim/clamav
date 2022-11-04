@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zenpak-9769695-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\Users\DODO\Downloads\Gather_as_105046711200\NetBIOS Enumerater\Release\NetBIOS Enumerater.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+UF_SCRIPT: The logon script executed. This value must be set for LAN Manager 2.0 and for Windows NT/Windows 2000.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+LoadLibrary( netapi32.dll / svrapi.dll ) failed, gle = %lu
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+The user established the session without using password encryption.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+NULL session = tries to get access without username or password

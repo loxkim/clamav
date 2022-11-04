@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Coinminer.PGMiner-9804824-0
+TARGET TYPE: ELF
+OFFSET: *
+DECODED SIGNATURE:
+user=postgres hostaddr=%s password=%s{WILDCARD_ANY_STRING}DROP TABLE IF EXISTS abroxu;CREATE TABLE abroxu

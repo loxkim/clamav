@@ -1,0 +1,12 @@
+VIRUS NAME: Legacy.Trojan.Trojan-97
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+if "%1=="MF goto $MF
+for %%b in (*.bat) do call %0 MF %%b
+del $MF
+goto MFE
+:$MF
+find "MF"<%2>nul
+if 

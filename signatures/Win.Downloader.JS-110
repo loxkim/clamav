@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.JS-110
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+_w.write('@echo off\r\n:a\r\ndel "'+v+'"\r\nif exist "'+v+'" goto a\r\ndel %0');

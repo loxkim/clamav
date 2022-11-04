@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Atom-9841759-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!#$$$%%')))+,),-),-),-+,-,-.,-0-.0-/1-01/0301301413513514635756957:68;7:<8;=9;?:<?<?B=AD@BGBEICGKDHLGJPKPUMQVLPVPTZPU[QW^RW^V[
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@Tn;I^2=L,3=)-4%).$(-%(,%'+%(,%'+%'+%),%)-%)-$(-#(0#&,"%,!&-#'-#'-$'-$)0$)0%)2$)0#'-%+4%,6&,4%-6%-:%,5%+1%+2&,5&2B)2?&)-^dj
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0:,0;-5@-5A-5A-5A,1;18E2;I5<K4=M2;I4<L3;I/5?/5?2:F1:F05?03916?47?26=15;.16-03-0502836<58?26<26<47<15;02626;9<B?BJ;?G)),
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!$$%&')()))+,+,-,-/-0112546869<<?B<?BACHBEIDHLFINFINFINIMRMQVKPUEIM<@C7:<46856957:57:57:57:56957:468013+,-%%%  !
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:GW19D6?J6=H5<H<BJ6:@-05&),$%)"%)"$'$',$',#',%).%)/%(,$%)#%)"$' "$!#%#%)$'+$&)!$' !$$%'),1),/+-146;%%'

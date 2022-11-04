@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9907309-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Mso::Telemetry::DataCollector::CreateIdleQueueJobAndProcessingTimer::<lambda_f30ea74ff1923f4015d731857c4f4cc8>::operator ()
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+P:\Target\x86\ship\click2run\x-none\integrator.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Attempted to get exit code before the process has finished.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Mso::Telemetry::GetCurrentProcessMetadata failed to retrieve telemetry instance.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Update of MSI encountered a retryable error and time remains for retry; will retry update. {'MsiPath':'%s','AttemptCount

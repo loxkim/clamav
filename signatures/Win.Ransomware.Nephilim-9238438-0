@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ransomware.Nephilim-9238438-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+/c bcdedit /set {default} bootstatuspolicy ignoreallfailures & bcdedit /set {default} recoveryenabled no & wbadmin delete catalog -quiet & wmic shadowcopy delete{WILDCARD_ANY_STRING}C:\av\suck\if\pdb\Release\NEPHILIM.pdb

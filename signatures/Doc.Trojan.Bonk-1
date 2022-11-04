@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bonk-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If ni = 0 And ai = -1 Then nt.import z$: NormalTemplate.Save{WILDCARD_ANY_STRING}If ni = -1 And ai = 0 Then ad.import z$: ActiveDocument.Save

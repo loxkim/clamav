@@ -1,0 +1,18 @@
+VIRUS NAME: Txt.Downloader.Agent-6780572-1
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+schtasks.exe /create /sc minute /tn "update service for
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+powershell.exe -executionpolicy bypass -windowstyle hidden -noexit -file $home\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+new-object system.net.webclient{WILDCARD_ANY_STRING(LENGTH>=2&&<=16)}downloadfile($

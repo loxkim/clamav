@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Trash-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Application.Workbooks("Quarantine.XLS").Modules("Quarantine").Copy after:=Application.Workbooks("PERSONAL.XLL").Modules(1)

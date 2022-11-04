@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6790746-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ersion: 14.12.25810. Product Language: 1033. Manufacturer: Microsoft Corporation. Installation success or error status: 0.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Driver Management concluded the process to install driver FileRepository\cpu.inf_amd64_neutral_ae5de2e1bf2793c3\cpu.inf for De
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+oduct Language: 0. Manufacturer: Microsoft Corporation. Installation success or error status: 0.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Installation Successful: Windows successfully installed the following update: Update for Windows (KB958488)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_79_-__________INTEL(R)_CORE(TM)2_CPU_6600_@_2.40_GHZ\_0

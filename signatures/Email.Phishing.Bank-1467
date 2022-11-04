@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1467
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+anouncing it's Annual account review{WILDCARD_ANY_STRING(LENGTH<=450)}Click Here To Confirm Your Account Now

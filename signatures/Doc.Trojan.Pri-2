@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Pri-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.TypeText Text:="Class97/2K.Sun" & Chr(11) & "by jackie twoflower" & Chr(11) & "Lz0N

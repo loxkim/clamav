@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.IRCCombot-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+user=$rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $ra{WILDCARD_ANY_STRING}d]
+n0=BOTCOM!

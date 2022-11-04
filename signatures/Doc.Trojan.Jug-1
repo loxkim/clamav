@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Jug-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+U = B.Item(1).CodeModule.lines(Q, 1){WILDCARD_ANY_STRING}E = Asc(Mid("U[wLpZy", D, 1)){WILDCARD_ANY_STRING}Private Sub Document_Open(): O: End Sub{WILDCARD_ANY_STRING}Public Sub Workbook_Open(): O: End Sub

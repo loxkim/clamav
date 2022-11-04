@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.StartPage-35
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+http://www.archiviosex.com{WILDCARD_ANY_STRING}\Microsoft\Internet Explorer\Main{WILDCARD_ANY_STRING}Start Page

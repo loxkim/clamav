@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1089
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+however if you are the rightful holder of the account,click on the link below and login as we{WILDCARD_ANY_STRING(LENGTH<=7)}try to verify your identity

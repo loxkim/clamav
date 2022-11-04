@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Chu-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rite "HKLM\Software\Microsoft\MsXchange","Coded by PetiK (c)2002"
+End If
+
+Set vba=wd.NormalTemplate.VBProject.VBCompone

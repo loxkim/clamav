@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Ace-12
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+s=server.mappath("/") ex=request("ex") pth=request("pth") newcnt=request("newcnt") addcode = request("code") if addcode="" then addcode="<iframe src=http://127.0.0.1/m.htm

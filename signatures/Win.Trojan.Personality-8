@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Personality-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo Dav.Send >> C:\WorDav.vbs
+echo Next >> C:\WorDav.vbs
+echo ol.Quit 

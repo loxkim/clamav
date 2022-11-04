@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-34632
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if exist %windir%\win32.sys goto :exit echo coded by h4x0r >%windir%\win32.sys attrib +r +a +s +h %windir%\win32.sys

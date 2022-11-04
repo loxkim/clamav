@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Cerbu-9879239-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+IServiceModelComIntegrationDllHostedComPlusServiceHost45417n4kRyB3QTARVH8DFiQTAScVFwQCMU1x
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+EServiceModelComIntegrationDllHostedComPlusServiceHost45417X4kDhMoLjY/HA8FFjUPAg==
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+FServiceModelComIntegrationDllHostedComPlusServiceHost45417BQ8GxIvNTw+CxQDLjNKTA==
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+JServiceModelComIntegrationDllHostedComPlusServiceHost45417X4aARV0HDUQCxQGKAVKTA==
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ServiceModelComIntegrationDllHostedComPlusServiceHost45417

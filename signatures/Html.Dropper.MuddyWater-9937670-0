@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Dropper.MuddyWater-9937670-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+wscript.sleep({WILDCARD_ANY_STRING}activexobject({WILDCARD_ANY_STRING}wscript.shell{WILDCARD_ANY_STRING}wscript.network{WILDCARD_ANY_STRING}computername{WILDCARD_ANY_STRING}expandenvironmentstrings{WILDCARD_ANY_STRING}manifestation{WILDCARD_ANY_STRING}powershell -windowstyle hidden{WILDCARD_ANY_STRING}start-process wscript{WILDCARD_ANY_STRING}schtasks /create

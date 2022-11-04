@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Bobik-9894198-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.quicklibrary.dll.compressed|1.0.0.0|QuickLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|QuickLibrary.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD^V
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.costura.dll.compressed|5.3.0.0|Costura, Version=5.3.0.0, Culture=neutral, PublicKeyToken=null|Costura.dll|790691B8E17BE6
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.naudio.dll.compressed|1.10.0.0|NAudio, Version=1.10.0.0, Culture=neutral, PublicKeyToken=null|NAudio.dll|AFDC5D27FB919D1
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.octokit.dll.compressed|0.3.4.0|Octokit, Version=0.3.4.0, Culture=neutral, PublicKeyToken=null|Octokit.dll|16F3067DA9C0E5

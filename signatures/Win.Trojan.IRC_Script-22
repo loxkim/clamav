@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-22
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+flood{WILDCARD_ANY_STRING}sockwrite -n clone* privmsg $$1 : $+ $chr(1)

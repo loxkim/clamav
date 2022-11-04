@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Downloader.Emotet-6982977-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Debug.Print "TWHqUA" + ("VKr45T8O") + "P8Wf9Ou" + "Lci6GS" + "o0usnQpG" + ("qMZNtMX" + ("k3Y48C0
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Debug.Print "VJIwc6tR" + ("fwoiPvq8") + "Fd1FlzpO" + "FIVwaNN" + "tQzcoz" + ("hRuvCw8w" + ("CLqQih
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Debug.Print "o6tRkTw" + ("fiibKXI") + "Z5tiS8QH" + "zuHWYwdF" + "JVcOkPJ" + ("pN07zR" + ("MnzBc1w
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Debug.Print "qu6TzXh" + ("KSUjRSEI") + "mYV0ui" + "Z6JPAZK5" + "SkUYr7wb" + ("vIlzjB" + ("YvLzAi
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sOX5r1 = DYnFYn + "win" + I_0KNb
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+zuHWYwdF

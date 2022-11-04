@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.a-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+if (ext = "html") or (ext = "htm") or (ext = "asp") or (ext = "php") or (ext = "dll") or (ext =

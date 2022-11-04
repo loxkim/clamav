@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.AutoIt-6764235-0
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: (0|1)&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+not ( stringinstr ( @autoitexe , $
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+str ( @scriptfullpath , $
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+if regread ( _{WILDCARD_ANY_STRING(LENGTH==16)}( "0x{WILDCARD_ANY_STRING(LENGTH>=128&&<=192)}" , 0x00000001 ) , ${WILDCARD_ANY_STRING(LENGTH==16)} ) <> ${WILDCARD_ANY_STRING(LENGTH==16)} then regwrite ( _
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+filecreateshortcut ( _
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+& drivegetserial ( @homedrive )

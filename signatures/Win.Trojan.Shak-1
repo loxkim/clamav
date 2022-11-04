@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Shak-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+comspec% /e:5000 /c %0 ShaK vir . .. %path%
+goto ShaK_end
+:ShaK_rh
+s

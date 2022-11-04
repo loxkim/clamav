@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Gargle-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+t = "{00" & Int(Rnd * 999999) & ":" & Int(Rnd * 99999) & "}"{WILDCARD_ANY_STRING}Print #1, "echo ** GarGle **"

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-117
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear ebay member{WILDCARD_ANY_STRING(LENGTH<=50)}there is an important message regarding your account waiting for you, please read it an follow the intstructions containe

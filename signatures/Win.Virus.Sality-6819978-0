@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6819978-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+o foi encontrado.#Ocorreu um erro com o ficheiro DLL.#Ocorreu um erro com o ficheiro INI.JEste programa n
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+o atual do sistema operativo.[Para iniciar este programa, necessita de iniciar a sess
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Use este programa para definir ou cancelar o bloqueio do Firewall do Windows estabelecido para as comunica
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+rio do FW para CAPTxO bloqueio do Firewall do Windows estabelecido para todas as impressoras Canon CAPT instaladas ser
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Confirma?vO bloqueio do Firewall do Windows estabelecido para todas as impressoras Canon CAPT instaladas ser

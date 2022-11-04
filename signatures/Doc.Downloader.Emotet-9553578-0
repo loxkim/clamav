@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Downloader.Emotet-9553578-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Lmra1aqyl5z = ChrW(R2pm8jzfryg0ahv8o + (xw + 5 + jwb + 10
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ojxxg99mliz_456ui = Wpb9v14wyh0v(W22oa9lv6sm
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Pvt455rd5jtubvo3k = Tuffuu8o5tglh + Join(Qb6rdqp1ksbrrk, Xjam4e9azcfbrw
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Qb6rdqp1ksbrrk = Split(Xl3lkenwqh6, "(hsv 3" + "2(()hq gq72" + "1g()))) hsu0
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Zzz4ltfjuvq03 = Array(Mao8q1b9z4xz8li + "Wthy3ub_64dt1l M_w4k41sejc_7fwVac293e29_pbywsh Ff1ks01ebco1uf", CreateObject(Hiv643qe_9
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hsu0())i(hsv

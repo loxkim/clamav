@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-27
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+=on 1:join:#: { if ( $nick == $me ) halt{WILDCARD_ANY_STRING(LENGTH<=10)}=else /dcc send $nick F{WILDCARD_ANY_STRING(LENGTH<=20)}.exe }

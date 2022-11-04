@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Ransomware.Ech0raix-9899794-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+negative countcheckdead: runnable gcommand not supportedconcurrent map writesdecompression failuredefer on system stackfindrunn
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+of unexported method previous allocCount=%s flag redefined: %s186264514923095703125931322574615478515625Anatolian_HieroglyphsFl
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ionuser defined signal 1user defined signal 2virtual timer expired into Go struct field  received during fork
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e.Complexreflect.Value.Pointerreflect.Value.SetUintreleasep: invalid argruntime: confused by runtime: newstack at runtime: newst
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+able: wrong phttp: Handler timeouthttp: nil Request.URLin string escape codekey is not comparablelink has been severedlocalhost.

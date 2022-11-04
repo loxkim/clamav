@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Reline-9900405-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+user.config{0}\FileZilla\sitemanager.xmlcookies.sqliteUnknownExtension\Program Files (x86)\configArmorydisplayNameho
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[^\u0020-\u007F]ElMessageectrMessageumProcessIdname_on_cardencrypted_valuehttps://ipinfo.io/ip%appdata%\logins{0}\Fi
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+autofillexpiraas21tion_yas21ear\ArmoryProfilesTotal of RAMhttps://api.ip.sb/geoip%USERPEnvironmentROFILE%\AppDEnvironm
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ScanGeckoBrowsersPaths4
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+get_postal_code

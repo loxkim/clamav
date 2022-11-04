@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.W-293
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+write "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\MAG", "wscript.exe " & 

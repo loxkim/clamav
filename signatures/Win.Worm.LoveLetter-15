@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.LoveLetter-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+real stuff.
+echo.
+echo Processing image...
+rundll32 Nelma.dl

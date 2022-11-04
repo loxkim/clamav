@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.FormatC-69
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo echo y| format c: /q{WILDCARD_ANY_STRING(LENGTH<=25)}> c:\autoexec.bat

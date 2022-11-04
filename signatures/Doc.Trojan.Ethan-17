@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ethan-17
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Kill "c:\windows\temp\wrdtmpa.tmp"{WILDCARD_ANY_STRING}.Title = "Easter  Surprise v1.1"

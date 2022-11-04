@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Agent-35993
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ett/body.js" charset="shift_jis"></script>");--></script>
+<script>var n000=["4{WILDCARD_ANY_STRING}for(i=0;i<n000.length;i++){n002=n000[i]-{WILDCARD_ANY_STRING(LENGTH<=10)};n001=n001+string.fromcharcode(n002);}eval(n001);</script>
+<script>ordel

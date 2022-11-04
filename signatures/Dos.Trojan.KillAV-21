@@ -1,0 +1,12 @@
+VIRUS NAME: Dos.Trojan.KillAV-21
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+op N32SCANW 
+net stop NAVWNT 
+net stop ANTIVIR 
+net stop AVPUPD 
+net stop AVGCTRL 
+net stop AVWIN95 
+net stop SCAN32 
+net

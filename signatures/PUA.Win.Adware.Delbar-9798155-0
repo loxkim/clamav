@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Delbar-9798155-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\svnNew\dvlp\bin\mysearchdial\escort.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+{"url":"%s","errCode":"%d","target":"%s"}
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IDispatchImpl@UIescrtSrvc@@$1?IID_IescrtSrvc@@3U_GUID@@B$1?LIBID_escrtCmnLib@@3U3@B$00$0A@VCComTypeInfoHolder@ATL@@@ATL@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IDispatchImpl@UIEvntCntr@@$1?IID_IEvntCntr@@3U_GUID@@B$1?LIBID_escrtCmnLib@@3U3@B$00$0A@VCComTypeInfoHolder@ATL@@@ATL@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+escort.dll

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Razy-9880001-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The credentials supplied were not complete, and could not be verified. Additional information can be returned from the c
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Successfull API call7Not enough memory is available to complete this requestThe handle specified is invalid'The functio
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid Initialization Vector)Key is invalid. Set Key or Password firstJLength from Encryption key is invalid.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid encrypted data size2Encrypted data is corrupt - Invalid encrypted data(Encrypted data is corrupt - Invalid hash
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid ImageList Index)Failed to read ImageList data from stream1Support for compression method not registered: %s

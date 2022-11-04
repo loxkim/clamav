@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.GVV-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+\CurrentVersion\Run\Goblin", wscript.scri{WILDCARD_ANY_STRING}iteline ("g=msgbox(""NTFS Error - GV_V01"", vbcritical, ""Gob

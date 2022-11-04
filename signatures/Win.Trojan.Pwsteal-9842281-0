@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Pwsteal-9842281-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error occurred;Occurs when data has been received from the remote computer%Occurs connect operation is completed4Occurs 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ Network subsystem is unavailable WINSOCK.DLL version out of range"WinsockInit should be called first
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Connect to the remote computer'Listen for incoming connection requests%Accept an incoming connection request
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\WINDOWS\System32\MSWINSCK.oca
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ The attempt to connect timed out!Connection is forcefully rejected

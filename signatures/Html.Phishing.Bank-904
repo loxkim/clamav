@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-904
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to unlock your account, and verify your identity please follow this link and sign in{WILDCARD_ANY_STRING(LENGTH<=180)}expiration: <b>

@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Laroux-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Workbooks("dimon.XLS").Sheets("monci").Copy before:=Workbooks(n4$).Sheets(1)

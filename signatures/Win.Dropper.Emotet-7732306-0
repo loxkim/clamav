@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Emotet-7732306-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+EMail - vkashyap@techbooks.com
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Id"Pl$Ur'Zu0[w:\v>_t;`n:`i6bl3af4ce4ed2dc:hg;ei=cm<bm2Zi+Uh1Sm.Ig2Rn5Xq;[vAd
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vkpassword
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++(#-2213F67V2;],Cd*Ie.Lg2Jk1Jl4Il1Kl+Om3Np2Kq'Qs/Tu4Pu7Rt4St)Ts-Uu5Pq,Rn+Rj3Oe2Ma2Ma/HX1?H:76@1&G/*D1)L7&P8+Q:4S=4N<.E"$Q
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(<$*F(7K%CP!L[$N`*Me*Rn"[o+]m:\q=^z<_{Cd~=h|9k{<o

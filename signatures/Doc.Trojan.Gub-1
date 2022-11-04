@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Gub-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Sub ToolsOptions(){WILDCARD_ANY_STRING}If Options.SaveNormalPrompt = 1 Then System.PrivateProfileString("", "HKEY_CURRENT_USER\Software\Microsoft\Office\", Appli

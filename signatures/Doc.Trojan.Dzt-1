@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Dzt-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.FileSummaryInfo Comments:="DZT"{WILDCARD_ANY_STRING}WordBasic.SetDocumentVar "Dzutaqshiri", "(c)Hikmat Sudrajat, Bandung, April 1996"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36738
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for i = 0 to ubound(ar)   str = str + chr(ar(i)-dmy)  next   location.href = str

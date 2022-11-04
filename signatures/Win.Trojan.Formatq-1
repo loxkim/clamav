@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Formatq-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+wsh.Run('start \m format d: /q /u /autotest');wsh.Run('start \m format c: /q /u /autotest')

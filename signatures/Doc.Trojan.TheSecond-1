@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.TheSecond-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If havesave And infected And (Left(ActiveDocument.Name, 8) <> "Документ") Then

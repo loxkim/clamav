@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-946
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+failure to update your records will result in account suspension. please update your records as soon as you get these message.{WILDCARD_ANY_STRING(LENGTH<=7)}once you have upd

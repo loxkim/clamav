@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7400702-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0É10
+	’&‰“ò,d
+8GP362LX231N0LUEiPhone Distribution: Zhejiang Caomei Information Technology Co., Ltd.10U
+8GP362LX231907U
+0Zhejiang Caomei Information Technology Co., Ltd.10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0191118082329Z221117082329Z

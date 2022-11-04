@@ -1,0 +1,18 @@
+VIRUS NAME: Unix.Trojan.Vpnfilter_ndbr-6598711-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ndbr.pid
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'dropbear' - the Dropbear server
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Usage %s -ip* <ip-addr: 192.168.0.1/ip-range: 192.168.0.0/24> -p* <port: 80/port-range: 25-125> -noping <default yes> -tcp <default syn> -s <source ip> -h/--help (print this help)

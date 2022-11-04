@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.U-48
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+test .SAVEE .mmm .mm -f
+
+#This is a non overwritting shell script virus testet with redhat
+#if you like it

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.DarkComet-8339087-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+h_Bv_6_85Plc__3uJNxCD5__oq_cx4khVF_mv_H28W3XOcyUMY8jlYiAPPUH_31eg2jC41_k2PNsuxTuZRv_ykGDUY56MJi__z_4_8_4xqkWvrvspm___NQOBPjJck
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3IBas2_YD6CDzEOZKlLhmTLxRdDDb73_iQ_LrKj_G_5p_6I_V9UOChhL_iF__JmzVqFt_6__3HHb32zwHIN_w__oJ_Zaw_9ZD_1_Y3r_Dkz_AmnHZ_uGdB_j_l
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Bf:\dd\vctools\crt_bld\self_x86\crt\src\dbgrpt.c
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+f:\dd\vctools\crt_bld\self_x86\crt\src\malloc.h
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D8__Yl_zl_drESmRwN5CNNPH5_ujkdrcuUEzRcq_OP__rpeyt517_jdPxXbQ__JpdUf_qskuH2fvArQ3lDO4TQlStFJuEdPjFcrregFL3giz3lP

@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Falling-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.OpenTextFile(GetFileName, 1, False)
+    FileContents = Real.ReadAll()
+    Real.close()
+    Set Real = FSO.OpenTextFile(GetFileName, 2, False)
+    Real.WriteLine "

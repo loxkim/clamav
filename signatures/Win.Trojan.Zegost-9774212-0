@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zegost-9774212-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SQLWB.EXE
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SQLWB - SQL Server Management Studio
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&'$%"# !./,-*+()67452301>?<=:;89FGDEBC@ANOLMJKHIVWTURSPQ^_\]Z[XYfgdebc`anolmjkhivwturspq~
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+|}z{xyfgdebc`anolmjkhiVWTURSPQ^_\]Z[XYFGDEBC@ANOLMJKHI67452301>?<=:;89&'$%"# !./,-*+()
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Microsoft? is a registered trademark of Microsoft Corporation. Windows(TM) is a trademark of Microsoft Corporation      

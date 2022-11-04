@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Reccode-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+UnstealthA = "With ThisDo" & "cument.VBPr" & "oject." & "VBComp{WILDCARD_ANY_STRING}NC.DeleteLines 1, NC.CountOfLines: NC.InsertLines 1, "Private Sub Document_Clo

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36687
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off sc stop wscsvc sc config wscsvc start= disabled sc stop sharedaccess sc config sharedaccess start= disabled netsh firewall set opmode mode=disable profile=all del fw

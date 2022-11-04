@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-61
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+please understand that this is a security measure meant to help protect you and the safety of your account.{WILDCARD_ANY_STRING(LENGTH<=4)}we apologize for any inconvenience.{WILDCARD_ANY_STRING(LENGTH<=7)}you can also confirm your identity

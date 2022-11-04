@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Fragtor-9890689-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+No help keyword specified.=Error decoding URL style (%%XX) encoded string at position %d1Invalid URL encoded character (
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Component %s not foundDGetting the Count of a TComponentsEnumerator object is not supported
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+7Dispatch methods do not support more than 64 parameters+Type mismatch in parameter %d for method %s,Invalid DispID for 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Web Page not found: %s!Web Page does not provide content
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<META HTTP-EQUIV="Refresh" CONTENT="0; URL=%0:s">

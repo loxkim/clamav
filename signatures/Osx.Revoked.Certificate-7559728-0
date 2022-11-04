@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7559728-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0‘10
+	’&‰“ò,d
+TGATP5UVUU1806U/Apple Distribution: Soheib Khattab (TGATP5UVUU)10U
+TGATP5UVUU10U
+Soheib Khattab10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0191201115013Z201130115013Z

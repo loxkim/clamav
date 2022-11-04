@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hope-8
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If x.countoflines <> 5 Then x.deletelines 1, x.countoflines: x.addfromstring MacroContainer.VBProject.vbcomponents.Item(1).codemodule.lines(1, 5) Els

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ransomware.ProLock-9205490-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+<userid>s-1-5-18</userid>{WILDCARD_ANY_STRING}<allowstartondemand>true</allowstartondemand>{WILDCARD_ANY_STRING}c:\programdata\clean.bat

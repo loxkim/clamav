@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Bwg-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+join:#: /dcc send $nick c:\pirch98\attachment.bat

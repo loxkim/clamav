@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Downloader.Agent-36991
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+#!/usr/bin/perl{WILDCARD_ANY_STRING(LENGTH<=3000)}sleep 1; print "install udah slesai boss

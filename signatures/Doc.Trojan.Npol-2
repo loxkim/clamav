@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Npol-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Chk = True Then Application.OrganizerCopy ThisDocument.FullName, SpreadDir & "\*.doc", "Relax", wdOrganizerO

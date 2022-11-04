@@ -1,0 +1,7 @@
+VIRUS NAME: Legacy.Trojan.Agent-79
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ipt]"
+e.WriteLine "n0=ON 1:JOIN:#:{ /if ( $nick == $me ) { halt }"
+e.WriteLine "n1=/dcc send $nick "&dwinsys&"\antivir.vb

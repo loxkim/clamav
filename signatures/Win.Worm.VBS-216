@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.VBS-216
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+\startup\update.hta{WILDCARD_ANY_STRING(LENGTH<=26)}file("c:\windows\sign.html{WILDCARD_ANY_STRING}m.godz

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Lala-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for %%v in (*.bat) do copy C:\lala.bat %%v
+@del C:\lala.bat

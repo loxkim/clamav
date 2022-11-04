@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nori-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+mponents.Item(Un).CodeModule.Lines(2, 1) <> "'Iron" Then

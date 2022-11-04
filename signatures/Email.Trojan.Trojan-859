@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Trojan.Trojan-859
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+You should receive
+the payment in your financial institution account{WILDCARD_ANY_STRING(LENGTH<=208)}Details of this transfer is attached along with this email

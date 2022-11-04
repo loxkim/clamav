@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSShutdown-6
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+.run "cmd.exe /c shutdown -r -t 25 -c

@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-124
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+a=([].slice+"");a=a.split("").pop();if(a==="}"||a===" ")f=

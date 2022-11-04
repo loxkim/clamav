@@ -1,0 +1,9 @@
+VIRUS NAME: Legacy.Trojan.Agent-130
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+and /e:5000 /c c:\_Wavefunc Wavefunc vir
+:eWavefunc
+call %Wavefunc% Wavefunc rh
+set _vir=>nul.Wavefunc
+s

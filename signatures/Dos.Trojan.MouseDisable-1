@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.MouseDisable-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ows\rundll32.exe mouse,disable{WILDCARD_IGNORE}{WILDCARD_IGNORE}@copy %0 C:\WINDOWS\Startm~1\Programs\StartUp

@@ -1,0 +1,12 @@
+VIRUS NAME: Dos.Trojan.Munga-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+dos\deltree /y c:   
+cd\ 
+:delwin 
+cd\windows\command   
+deltree /y c:  
+cd\  
+:write 
+type hdkiller.txt

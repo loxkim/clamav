@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.XPFox-3
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+deletefrom[tablename]whereid=1";str[7]="update[tablename]setuser={WILDCARD_ANY_STRING(LENGTH<=20)}whereid=1";str[8]="createtable[tablename](idintidentity(1,1)notnull,uservarchar(50))";str[9]="droptable[tablename]";str[10]="altertable[tablename]addcolumnpassvarchar(32)

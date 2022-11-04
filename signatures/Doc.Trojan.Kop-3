@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Kop-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ElseIf WordBasic.[MacroName$](Cnt, 0, 1) = "kopieren" Then{WILDCARD_ANY_STRING}Founded = Founded + 1

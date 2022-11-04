@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-149
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+banking normally with{WILDCARD_ANY_STRING(LENGTH<=28)}.<br><br>to verify your address now, please follow the link below

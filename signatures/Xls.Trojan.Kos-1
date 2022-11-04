@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Kos-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If KosDest.Lines(1, 1) <> "'kos" Then{WILDCARD_ANY_STRING}KosDest.InsertLines 1, KosSource.Lines(1, KosSource.CountOfLines)

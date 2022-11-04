@@ -1,0 +1,25 @@
+VIRUS NAME: Win.Ransomware.Ponyload-7994640-0
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: 3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+vssadmin
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+taskkill
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+schtasks.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&(1>7)&2
+     +-> REGEX: vssadmin\s+delete\s+shadows\s+\x2Fall\s+\x2Fquiet(.+taskkill\s+\x2Ff\s+\x2Fim){8,}.+schtasks.exe\s+\x2FF\s+\x2FCreate\s+\x2Ftn
+     +-> CFLAGS: si

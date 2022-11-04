@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.VBSFirst-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+_do_zivota = Left(majka, InStrRev(maj{WILDCARD_ANY_STRING}GetFolder(put_do_zivota).Files
+FSO.CopyFil

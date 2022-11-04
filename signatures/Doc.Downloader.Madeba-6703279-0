@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Downloader.Madeba-6703279-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+      Dim o2 As Byte: o2 = ((b2 And 3) * &H40) Or b3
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+      Dim o2 As Byte: o2 = ((i1 And &HF) * 4) Or (i2 \ &H40)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     Kill SWFrjkJjrsdefas
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   Dim ILen As Long: ILen = UBound(IBuf) + 1
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   For c = Asc("A") To Asc("Z"): Map1(i) = c: i = i + 1: Next
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   ReDim b2(0 To (2 * l) - 1) As Byte
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Private Declare PtrSafe Function jsjISDhnJASNjnwnJSfnds Lib "shell32" Alias "ShellExecuteA" (ByVal Dhhae As Long, ByVal dRDryxd As String, ByVal ByAgltySPFnYcmCcLwl As String, ByVal fiknn As String, ByVal TuyhSG As String, ByVal pubgevahSpMgggqEVrr As Long) As Long
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Private Function USWhHSfhjjhgbdfjhGASWgdhsd(ByVal s As String) As Byte()

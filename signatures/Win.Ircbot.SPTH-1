@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Ircbot.SPTH-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f %ply% GTR 16383 (
+find "%sec%sat"<%0 >>SpissTom.bat  
+find "%sec%tas

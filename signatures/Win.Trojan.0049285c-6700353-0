@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.0049285c-6700353-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+*\AC:\Documents and Settings\PC00\Escritorio\RAW_IP_Sni16744511212003\Sniff-R\Sniffer.vbp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+iC:\Archivos de programa\MATLAB\R2010a\toolbox\rtw\targets\xpc\xpc\xpcmngr\ocx\mwxPCPanelCtrlsx4x3.oca
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Archivos de programa\Archivos comunes\system\ado\msado20.tlb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\WINDOWS\SYSTEM32\msvbvm60.dll\3

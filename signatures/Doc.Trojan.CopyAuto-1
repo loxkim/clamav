@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.CopyAuto-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+nizer Copy:=1, Source:=WordBasic.[FileName$](), Destination:=WordBasic.[DefaultDir$](2) + "\Normal.dot", Name:="CopyAutoOpen", NewName:="CopyAut

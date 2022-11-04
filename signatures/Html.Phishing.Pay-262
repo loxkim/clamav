@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-262
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if you did not authorize this payment, please contact us immed{WILDCARD_ANY_STRING(LENGTH<=50)}<img src="http://images.paypal.{WILDCARD_ANY_STRING(LENGTH<=50)}r="0">the link below: </span{WILDCARD_ANY_STRING(LENGTH<=250)}ign="left"><a href="http:

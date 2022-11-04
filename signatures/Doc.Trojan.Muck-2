@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Muck-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If WordBasic.Int(Rnd(1) * 5) = 4 Then WordBasic.MsgBox "MUCK"

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-228
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ons/btnrespondnow.gif"{WILDCARD_ANY_STRING(LENGTH<=100)}w/pics/s.gif" width=1></td></tr><tr><td><i><font face="verdana, sans-serif" color=gray size=1>if you don't respond by

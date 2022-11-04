@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Lubus-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set oOutLook = WScript.CreateObject(outl & lok)
+Set nMapi = oOutLook.GetNameSpace(nMAp & nPI)

@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Trojan.Coinminer-7000567-1
+TDB: Engine:71-255,Target:1
+LOGICAL EXPRESSION: 0|1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Software\Microsoft\Windows NT\CurrentVersion\NetworkPlatform\Location Awareness
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Software\Microsoft\Windows NT\CurrentVersion\NetworkPlatform\Location
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SYSTEM\CurrentControlSet\Services\%s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MACHINE\SYSTEM\CurrentControlSet\Services\%s

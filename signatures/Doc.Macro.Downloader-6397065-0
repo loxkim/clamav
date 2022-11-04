@@ -1,0 +1,23 @@
+VIRUS NAME: Doc.Macro.Downloader-6397065-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 3|((0|1)&2)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Selection.TypeText ("Puede Imprimir este documento
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+(CreateObject("WScr" & "ipt.Shell"))
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Selection.TypeText ("Estimado Cliente."
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+ = Mid({WILDCARD_ANY_STRING(LENGTH>=6&&<=20)}, 2, 2) & Mid({WILDCARD_ANY_STRING(LENGTH>=6&&<=20)}("m8k/c7hm2d8"), 3, 1)

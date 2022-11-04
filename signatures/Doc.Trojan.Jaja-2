@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Jaja-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If WordBasic.Second(WordBasic.Now()) = {WILDCARD_ANY_STRING}FormatDisk$ = "Format C: /U /C /S /AUTOTEST > NUL"

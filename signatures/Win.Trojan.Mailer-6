@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Mailer-6
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+"content-type: text/html; charset=iso-8859-1\r\n"; $email=explode("\n", $to); $headers .="from: ".$nome." <".$de.">\r\n"; $message = stripslashes($message); $i = 0; $count = 1; while($email[$i]) { $ok = "ok"; if(mail($email[$i], $subject, $message, $header

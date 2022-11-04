@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9941247-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CrossriderApp0061870.BHO.1 = s 'CrossriderApp0061870'
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CrossriderApp0061870.Sandbox.1 = s 'CrossriderApp0061870.Sandbox'
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ForceRemove {22222222-2222-2222-2222-220622182270} = s 'CrossriderApp0061870.Sandbox'
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VersionIndependentProgID = s 'CrossriderApp0061870.Sandbox'
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ProgID = s 'CrossriderApp0061870.BHO.1'

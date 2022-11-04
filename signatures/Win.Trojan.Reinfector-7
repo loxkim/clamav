@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Reinfector-7
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for %%i in (*.bat ../*.bat){WILDCARD_ANY_STRING}&gt;bookmark.htm

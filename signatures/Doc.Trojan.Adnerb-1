@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Adnerb-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox "國防部通資局通資安全處" & Chr(10) & Chr(13) & Chr(10) & Chr(13) & "病毒

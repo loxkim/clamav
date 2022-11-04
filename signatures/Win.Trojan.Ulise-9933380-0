@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ulise-9933380-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+wget -nc -c http://download.adobe.com/pub/adobe/magic/creativesuite/Cs2_EOL/PSE/PSE_5.0_WIN_ESD1_ENG.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+wget -nc -c http://download.adobe.com/pub/adobe/magic/creativesuite/Cs2_EOL/PHSP/PhSp_CS2_English.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+"Espousing the eponymous /cgi-bin/perl.exe?FMH.pl execution model is like reading a suicide note -- three days too late
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+The e-commerce giant plans to seed the market with cheap, Alexa-powered electronics, and corner the smart home in the Process
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://www.virustotal.com/en/file/f732887b200563bfdd89f516fc30139ea21e8adbd3280df3436c289bc154383a/analysis/

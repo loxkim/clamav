@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.Er-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+s on your computer 99
+@echo off
+:rep
+set boom= *.com
+ctty nul
+copy %0 %winbootdir%\%0
+copy %0 ..
+if

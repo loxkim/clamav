@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.E-47
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<link rel="shortcut icon" href="javascript:delayedopenwindow("javascript:netscape.security.privilegemanager.enableprivilege(\"universalxpconnect\");

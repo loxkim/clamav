@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.RussianMacros-1
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+<?xml{WILDCARD_ANY_STRING(LENGTH<=200)}Для корректной работы приложения, необходимо включить макросы.{WILDCARD_ANY_STRING(LENGTH<=200)}http://excelvba.ru/articles/EnableMacros/Excel

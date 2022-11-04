@@ -1,0 +1,13 @@
+VIRUS NAME: Legacy.Trojan.Agent-1388642
+TDB: Engine:51-255,Target:3
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.runtimestyle.poswidth={WILDCARD_ANY_STRING(LENGTH<=50)}.focus()
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+onload=

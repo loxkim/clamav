@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Ircbot.Debat-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%0.bat \x\x.bat>nul
+copy %0.bat c:\mirc\mircdem

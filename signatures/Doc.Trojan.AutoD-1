@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.AutoD-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #1, "Echo y|Format C: /u /Autotest"{WILDCARD_ANY_STRING}WordBasic.[MacroName$](i, 0) = "AutoDestructor98" Then

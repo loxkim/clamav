@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.FormatC-82
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@echo.
+@format /q c: <1.txt >NUL
+@format /q d: <1.txt >NUL 
+@echo В го

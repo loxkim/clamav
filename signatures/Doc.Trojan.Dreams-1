@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Dreams-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+With .VBComponents.Import("c:\confi~1.~ys"){WILDCARD_ANY_STRING}Print #1, ".-=BadDReAms=-."

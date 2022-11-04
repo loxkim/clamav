@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1537
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Apres avoir finaliser le formulaire avec succes , un agent de notre ban{WILDCARD_ANY_STRING(LENGTH<=10)}que vous contactera par telephone pour valider vos informations

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.CopyMe-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+x = d.procbodyline("CopyMe", vbext_pk_proc){WILDCARD_ANY_STRING}d.insertlines y + 1, "    CopyMe"

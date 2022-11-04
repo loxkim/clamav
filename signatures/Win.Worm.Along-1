@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Along-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+unny!" & Chr(34); ""
+Print #1, " Eletter.Attachments.Add " & Chr(34) & "C:\windows\hop_along.exe" & Chr(34); ""
+Print #1

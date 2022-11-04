@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Generic-6663099-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+: 0x%1!08x!.aLe nom de fichier du programme d'installation de %1!s! est incorrect ou n'est pas pris en charge.2Le d
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+me de configuration du proxy. Veuillez configurer le serveur proxy afin d'autoriser l'acc
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+chec de l'installation. L'utilisateur qui installe %1!s! ne doit pas disposer de droits d'administrateur.F
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+chec de l'installation. L'utilisateur qui installe %1!s! doit disposer de droits d'administrateur.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+tres de ces programmes, puis relancez l'installation. Si le probl

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Cridex-9853037-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<ftp time="%%%uu"><server><![CDATA[%%u.%%u.%%u.%%u:%%u]]></server><user><![CDATA[%%.%us]]></user><pass><![CDATA[
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<http time="%%%uu"><url><![CDATA[%%.%us]]></url><useragent><![CDATA[%%.%us]]></useragent><data><![CDATA[
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<message set_hash="%%.%us" req_set="%%%%u" req_upd="%%%%u"><header><unique>%%.%us</unique><version>%%u</version><system>%%
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Mozilla/5.0 (Windows; U; MSIE 7.0; Windows NT 6.0; en-US)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+httpinjects

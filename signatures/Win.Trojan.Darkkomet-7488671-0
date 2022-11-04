@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Darkkomet-7488671-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Administrator\AppData\Local\Temp\bdp1edch.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+bdp1edch.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+menolsxxrEEpPWqmR5ucy8ix/1GMYQk2fJ1so77V2J/TV5F1GARfome1osvErcxwlmk=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+kzgwbmqa.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+z_G4z_GYz_GYz_GYz_GYz_GYz_GYz_GYz_GYz_GYz_GYz_GYz_GYz_GYz_GYz_G4

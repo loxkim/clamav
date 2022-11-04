@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Taskun-9972888-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+msgbox, Could not get the Updater version from the sever!`nVersion-info was: %remoteAppversion%
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+downloadUrl := theServer . targetpathServer . downloadFilename . downloadFileAddExtension
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+filesToUpdateArr[index] := name . "," . enable . "," . strategy . "," . targetpath
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+remoteAppversion := getAppVersionFromGithubServer(serverApp . appVersionFile)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Download(theServer, downloadFilename, theTargetpath, msg := 0x1100, sleep := 200) {

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Ircbot.Zapchast-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on 1:sockopen:root445*:{ 
+  if ($sockerr != 0) { .sockclose $sockname | halt } 
+  run system32.exe /n /fh /r "shell.exe -t $sock($sockname).ip 61

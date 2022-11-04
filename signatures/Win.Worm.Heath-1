@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Heath-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rite "HKEY_CURRENT_USER\Software\Microsoft\WAB\"&a,a.AddressEntries.

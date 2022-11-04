@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Qhost-115
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+hos.com
+0.0.0.0	sophos.com
+0.0.0.0	www.mcafee.com
+0.0.0.0	mcafee.com
+0.0.0.0	liveupdate.symantecliveupdate.com
+0.0.0.0	www.viruslist.com
+0.0.0.0

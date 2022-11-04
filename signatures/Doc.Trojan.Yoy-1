@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Yoy-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+r Left(Date, 2) = "05" Then Call Msg{WILDCARD_ANY_STRING}veDocument.VBProject.VBComponents.Item("YoY").Name <> "YoY" Then AD = Tr

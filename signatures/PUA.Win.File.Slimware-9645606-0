@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Slimware-9645606-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E:\BuildAgent\work\cdc3d0ebfd4f8694\bin\Release\LittleInstaller.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://cdn.slimcleaner.com/downloads/scplus/SlimCleanerPlus.x86.Downloader.exe.bz2
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%USERPROFILE%\Local Settings\Application Data\Google\Chrome\Application\chrome.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%LOCALAPPDATA%\Google\Chrome\Application\chrome.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Privacy Policy, and agreeing to the processing and storage of information we collect from you in the United States and, in conn

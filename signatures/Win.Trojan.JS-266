@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-266
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+<input class="adasd" type="hidden" id="{WILDCARD_ANY_STRING(LENGTH<=5)}" value="1"><input class="adasd" type="hidden" id="af" value="{WILDCARD_ANY_STRING(LENGTH>=4000&&<=8000)}">

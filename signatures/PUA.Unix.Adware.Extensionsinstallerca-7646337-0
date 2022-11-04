@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Adware.Extensionsinstallerca-7646337-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@executable_path/../Frameworks/GAJavaScriptTracker.framework/Versions/A/GAJavaScriptTracker
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/sistemas/.jenkins/workspace/MaxPower-feature_mac-integration/Mac/MaxPowerMac/Util/JSONKit.m
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+getBestOfferConfig:acceptedOffers:declinedOffers:maxSteps:maxOffers:maxGroupingSize:timeout:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Password request for command %@ cancelled by user
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+executeCommand:withArguments:

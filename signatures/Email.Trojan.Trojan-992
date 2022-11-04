@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-992
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+will arrive within 3 business day{WILDCARD_ANY_STRING(LENGTH<=16)}More information and the tracking number are attached in the document below

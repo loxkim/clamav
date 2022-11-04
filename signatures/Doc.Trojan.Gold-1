@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Gold-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If nt < 16 Then ActiveDocument.VBProject.VBComponents.Item(1).Export "c:\cgold.drv"{WILDCARD_ANY_STRING}omFile ("c:\cgold.d

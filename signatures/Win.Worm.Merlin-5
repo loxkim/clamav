@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Merlin-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+FName = FName + Chr(Int((90 - 80 + 1) * Rnd + 80))

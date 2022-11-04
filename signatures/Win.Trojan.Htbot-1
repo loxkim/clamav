@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Htbot-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+\pipe\hello{WILDCARD_ANY_STRING}C:\flash\otter\imm\PEcheka\windform2\release\.pdb

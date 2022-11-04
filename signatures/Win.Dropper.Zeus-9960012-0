@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-9960012-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+nVisualizza le informazioni sul programma, il numero di versione e le informazioni di copyright
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Impossibile creare l'oggetto. Assicurarsi che l'oggetto sia immesso nel registro di sistema.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Per informazioni, premere F18Selezionare un oggetto su cui si desiderano informazioni
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+aInizializzazione OLE non riuscita. Assicurarsi che le librerie OLE siano della versione corretta.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+S1.exe

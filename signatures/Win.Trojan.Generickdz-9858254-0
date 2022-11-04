@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generickdz-9858254-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnscreenKeyboard.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OMYa<u&WEbhgSyDHdP1#h(S944_jE$S#i!yc6NQQaZQ(q&G9DA<_UEa#iTNPNSe(isbcs&0hVms9kCQB6sYISR^67bPsDQYCmQC)))+CKHkOoo
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Hide the onscreen kayboard+Terminate the Onscreen Keyboard application
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+OnscreenKeyboard Version 1.0
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1 1$1(14282<2@2D2L3P3T3X3\3`3d3h3l3p3t3x3|3

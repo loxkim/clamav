@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1445
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+necessitating a verification process on all account{WILDCARD_ANY_STRING(LENGTH<=100)}Please Sign in to complete the verification process

@@ -1,0 +1,18 @@
+VIRUS NAME: Asp.Trojan.Webshell0321-9840173-0
+TDB: Engine:81-255,Target:0
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+name : oab
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+externalurl : http://f/<script language="jscript" runat="server">functionpage_load(){eval(system.text.encoding.utf8.getstring(system.convert.frombase64string(request.item[
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+unsafe");}</script>

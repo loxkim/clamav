@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ShellExec-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if(function_exists('exec')){WILDCARD_ANY_STRING(LENGTH<=30)}@exec({WILDCARD_ANY_STRING(LENGTH<=50)}if(function_exists('shell_exec')){WILDCARD_ANY_STRING(LENGTH<=30)}@shell_exec({WILDCARD_ANY_STRING(LENGTH<=50)}if(function_exists('system')){WILDCARD_ANY_STRING(LENGTH<=30)}@system({WILDCARD_ANY_STRING(LENGTH<=80)}if(function_exists('passthru')){WILDCARD_ANY_STRING(LENGTH<=30)}@passthru(

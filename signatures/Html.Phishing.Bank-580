@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-580
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+please click the link that you see below and confirm your {WILDCARD_ANY_STRING(LENGTH<=16)}card information to let us know that it is indeed you attempt

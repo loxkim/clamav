@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Expiro-7391328-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D !'!)&6!D*+2!)&6!D+'0+&6!D7!40!)&6!D%+10D.1-((!0D.1-*D)%-D%26-(D)%67D"!26-!6D.%*2-!6D
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D -'!)&6!D+00+&6!D7!00!)&6!D%#+70+D(1#-+D#-1#*+D)%##-+D%46-(!D)%6>+D"!&&6%-+D#!**%-+D7%&%0+D2!*!6 -D#-+2! -D)%6'+(! -D)%60! -D(
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*! -D +)!*-'%D
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%)! -D
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!* 6! -D

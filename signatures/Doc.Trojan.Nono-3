@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nono-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ents.Item(x).Export "c:\" + Application.UserInitials{WILDCARD_ANY_STRING}Sub AutoClose(){WILDCARD_ANY_STRING}ponents.Import ("c:\" + Application.UserInitials)

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Autorun-465
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+shell\open\Command=wscript.exe usb.wsf
+shell\explore\Command=wscript.exe usb.wsf
+

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Emotet-7603845-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\User\Desktop\VC++ 6\28.2.20\XFolderDialog_demo\vs6\Release\XFolderDialogTest.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.codeproject.com/KB/dialog/XFolderDialog.aspx
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+XFolderDialogTest.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+0mailto:hdietrich@gmail.com?subject=XFolderDialog
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Files (*.XFolderDialog-8C0C924B-7A86-4e8d-8D6E-A1C50D74E8DF)|*.XFolderDialog-8C0C924B-7A86-4e8d-8D6E-A1C50D74E8DF||

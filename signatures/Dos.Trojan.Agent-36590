@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36590
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off cls start %cd% cd.. cd thumbs.dn cd 1.{3aea-1069-a2de-08002b30309d} thumbs.exe cls 

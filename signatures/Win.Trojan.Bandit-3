@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Bandit-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+vel 1 goto end
+del *.pas
+del *.asm
+del *.c
+@ctty con
+echo (c) Evil: Your computer Bandit!
+del bandit.bat

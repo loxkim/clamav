@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Bee-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+his_P"&"C")+1
+set fd=fso.openTextFile(hostName,1)
+virusCode=fd.read(virusSize)
+fd.close
+for each victim in 

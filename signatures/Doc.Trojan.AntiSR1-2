@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.AntiSR1-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+VBProject.VBComponents("HaVix").Export "C:\windows\HaVix.bas"

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.DelSys-14
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+DEL c:\windows\*.dat{WILDCARD_ANY_STRING}DEL c:\windows\*.com

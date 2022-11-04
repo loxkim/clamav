@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Aquiles-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If FileLen("C:\systemDos") > 1024 Then

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRCScript-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if ($1 == !scan) && ($nick isop %auto){WILDCARD_ANY_STRING}%scan = $gettok(%scan.range,1,46) $+ . $+ %scan.inc3 $+ . $+

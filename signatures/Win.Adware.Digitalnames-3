@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Adware.Digitalnames-3
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Software\wnames{WILDCARD_ANY_STRING}digitalnames{WILDCARD_ANY_STRING}plugin2007/upd001

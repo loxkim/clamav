@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Downloader.VBS-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ate()
+Next
+Dim BD
+Dim xml
+WScript.Sleep(5000)
+f5j545i = "MLH"
+Set xml = CreateObject("Microsoft.X"+f5j545i+"TTP")
+xml.Open "GET", "htt

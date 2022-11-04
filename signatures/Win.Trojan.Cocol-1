@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Cocol-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:mdaa
+echo Please wait... Windows restarting...
+:yes!
+:1
+@ctty nul

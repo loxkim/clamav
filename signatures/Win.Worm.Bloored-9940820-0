@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Bloored-9940820-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+127.0.0.1 www.google.com 127.0.0.1 google.com 127.0.0.1 rohitab.com 127.0.0.1 www.rohitab.com 127.0.0.1 securityresponse.symant
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DBADMIN.EXE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ec.com 127.0.0.1 google.ca 127.0.0.1 www.google.ca
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+127.0.0.1 www.norton.com 127.0.0.1 norton.com 127.0.0.1 yahoo.com 127.0.0.1 www.yahoo.com 127.0.0.1 microsoft.com 127.0.0.1 www.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1 www.nai.com 127.0.0.1 nai.com 127.0.0.1 www.ca.com 127.0.0.1 ca.com 127.0.0.1 liveupdate.symantec.com 127.0.0.1 www.sophos.com

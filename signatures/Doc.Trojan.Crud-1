@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Crud-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+NormalTemplate.VBProject.VBComponents(J).Name = "Crud" Then{WILDCARD_ANY_STRING}Pass.Password = "EifelCrud97"

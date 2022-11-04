@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Goto-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ch3 = Format(Chr(Int(((Int(90 - 66) * Rnd + 66) - 65 + 1) * Rnd + 65)), "<")

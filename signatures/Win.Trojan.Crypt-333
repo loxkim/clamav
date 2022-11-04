@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Crypt-333
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for(var t=0;t<gc.length;t+=4){m=(n.indexof(gc.charat(t))&255)<<18|(n.indexof(gc.charat(t+1))&255)<<12|(n.indexof(gc.charat(t+2))&255)<<(6)|n.indexof(gc.charat(t+3))&255;ec+=string.fromcharcode((m&16711680)>>16,(m&65280)>>8,

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Crypt-304
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+var n005=new regexp("5b","g");var n006=new regexp("78","g");var n007=unescape(n003.replace(n005,"0a"));var n008=unescape(n004.replace(n006,"90"));while(n0

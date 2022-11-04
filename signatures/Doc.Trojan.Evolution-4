@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Evolution-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #1, ActiveDocument.VBProject.VBComponents(x).Name{WILDCARD_ANY_STRING}CheckMe = "PMF1199.cpl" Then GoTo nextt

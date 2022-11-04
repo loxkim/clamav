@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Vgen-47
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off
+::[8m --- [ZoP_B] Batch Infector ---

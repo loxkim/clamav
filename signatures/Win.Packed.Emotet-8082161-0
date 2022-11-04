@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Emotet-8082161-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<TD><INPUT accesskey="r" type=checkbox id=readonly><U>R</U>ead-only</TD>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DHtmlExplore.EXE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<THEAD><TR><TD width=20>&nbsp;</TD><TD>File Name</TD><TD>Size</TD><TD>Modified</TD></TR></THEAD>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<TD><INPUT accesskey="d" type=checkbox id=hidden>Hi<U>d</U>den</TD>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<TR><TD width=20><IMG src=%s.gif></TD><TD><SPAN class=%s>%s</SPAN></TD><TD>%lu</TD><TD>%s</TD></TR>

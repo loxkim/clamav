@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Linda-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+IDST = "Linda"{WILDCARD_ANY_STRING}workbookx.VBProject.VBComponents.Import "c:\windows\system\driverXLS.sys"

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Atom-10
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+MacroCopy "AutoOpen", dlg.Name + ":AutoOpen", 1{WILDCARD_ANY_STRING}MacroCopy "Atom", dlg.Name + ":Atom", 1{WILDCARD_ANY_STRING}FileSaveAs Format:=1

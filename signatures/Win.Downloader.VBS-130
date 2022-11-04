@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-130
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+04fc29e36" str="microsoft.xmlhttp" set str = de.createobject(str,"") str1="ado" str2="db." str3="str" str4="eam" str5=str1&str2

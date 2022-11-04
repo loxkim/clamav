@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.PG94-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off
+		break off
+	if not exist *.bat go

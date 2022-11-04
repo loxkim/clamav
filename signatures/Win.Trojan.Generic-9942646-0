@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9942646-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ SELECT ch_saup, ch_ibymd, ch_startymd, ch_endymd, ch_jabo, ch_etc7 FROM ich 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ SELECT bsh_ymd, bsh_time, bsh_jinchal, bsh_bscode, bsh_etc1, bsh_etc2 FROM bsh 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ AND NOT( jy_hcode = '09' AND jy_mcode = '16' ) 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ AND ch_etc7 = '
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{sprResult

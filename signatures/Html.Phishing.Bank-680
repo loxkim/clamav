@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-680
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+however, failure to update your records will result in account suspension.{WILDCARD_ANY_STRING(LENGTH<=35)}once you have updated your account records your 

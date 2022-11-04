@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Downloader-173
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+js=document[_0xa687[12]](_0xa687[11]);js[_0xa687[13]]=_0xa687[7];js[_0xa687[14]]=_0xa687[15]+hghjhjhjg+_0xa687[16]+uedhffkte+_0xa687[17]+kdhkjt;var head=document[_0xa687[19]](_0xa687[18])[0];head[_0xa687[20]](js);} ;} ;

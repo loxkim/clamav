@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6822061-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://nuclide.com/betaforum/nuclide_login.php?action=in&form_sent=1&redirect_url=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://nuclide.com/downloads/beta/Install%20Hammer%20Heads.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+      <GameExecutable path="hammerheads.exe" />
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\GameSrc\cpp\Nuclide\Hammer Heads\Hammer Heads DRM.pdb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+POST /beta_demoupload.php HTTP/1.1

@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.R-99
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Addr_Count = LP_x.AddressEntries.Count
+
+For j = 1 To Addr_Count
+  Set Cr_Itm = CO_OApp.CreateItem(0)
+  Set Itm_Addr = LP_x.AddressEntries(j)

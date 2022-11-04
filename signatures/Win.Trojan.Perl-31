@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-31
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+print STDERR "Slave activated{WILDCARD_ANY_STRING}if ($DAILY) {			# if we must connect daily, we'll{WILDCARD_ANY_STRING}if (fork) {		# fork the daily shell process to{WILDCARD_ANY_STRING}sleep(69);

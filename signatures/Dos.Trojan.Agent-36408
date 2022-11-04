@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36408
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off @systeminfo>fullinfo2.txt @echo>>fullinfo2.txt 4,1 (x) 1,4 am terminat!... @exit 

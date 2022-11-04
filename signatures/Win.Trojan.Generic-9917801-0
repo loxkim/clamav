@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9917801-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ShellExecuteCommand command: argument 1 type mismatch, expected 'string'.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+IsProcessRunningCommand command: argument 1 type mismatch, expected 'string'.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RegistryValueCommand command: unsupported registry value type. Only REG_SZ and REG_DWORD supported by this version.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ShellExecuteCommand command: at least 2 arguments required.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+IsProcessRunningCommand command: at least one argument required.

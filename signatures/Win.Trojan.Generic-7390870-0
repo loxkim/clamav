@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-7390870-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO tblAccountantInfo(tAccountantName,tPostName,tOfficeName,tAddress,tEngOfficeName,tEngAddress,tOfficeCode) VAL
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT tAccountantName,tPostName,tOfficeName,tAddress,tEngOfficeName,tEngAddress,tOfficeCode FROM tblAccountantInfo
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Your admin user is created with default password lekha. Please change this password for your security purpose
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO tbl_DefaultPrint(KasamSapati,SportsKosh,MahangiBhatta,AtiriktaKar,KarmachariKar,PoshakBhatta,DashainKharcha)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ nParishramikKar,nKarmachariKar,nSportsKosh,nAtiriktaKar,nNaLaKosh,nTotalKatti,nSumPfSapati,nRemainining) VALUES('

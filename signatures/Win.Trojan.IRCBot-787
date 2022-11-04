@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRCBot-787
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+d(1)*100) . int(rand(1)*200) . int(rand(1)*300);} sub send_raw($){print $sock "$_[0]\r\n";} sub send_msg($$){print $sock "privmsg $_[0] :$_[1]\r\n";} sub in_array {for(my $x=1;$x<=$#_;$x++){if($_[$x] eq $_[0]){return $x;}}return 0;} sub array_num {my $y=0;for(my $x=1;$x<=$#_;$x++){if($_[

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-677
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+restore full access to you're account, you have to log-in within {WILDCARD_ANY_STRING(LENGTH>=1&&<=2)} days after recieveing this notice. after 4 days you're account will be disable

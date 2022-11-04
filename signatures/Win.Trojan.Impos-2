@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Impos-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.exe")'if1=2thenwscript.echo"impossible!"wscript.sleep10000'if1=2thenwscript.echo"impossible!"setxpost=createobject("microsoft.xmlhttp")'if1=2thenwscript.echo"impossible!

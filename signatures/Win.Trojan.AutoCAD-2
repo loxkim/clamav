@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.AutoCAD-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+des "a:\\acad.lsp" nombre (strcat (getvar "dwgprefix") (getvar "dwgname"))){WILDCARD_ANY_STRING}dfile m11) unidad (substr m22 1 1) m3 (strcat nucleo "\\" m11))

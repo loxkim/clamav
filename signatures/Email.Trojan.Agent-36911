@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Agent-36911
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+as reqeusted I give you inovices issued to you per{WILDCARD_ANY_STRING(LENGTH<=1000)}Content-Disposition: attachment;

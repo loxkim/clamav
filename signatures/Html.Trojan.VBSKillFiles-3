@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSKillFiles-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+For Each Folder In s.SpecialFolders{WILDCARD_ANY_STRING}if right(folder,13)="Мои документы" then f.deletefolder folder,true

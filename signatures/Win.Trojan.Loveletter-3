@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Loveletter-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+add=a.AddressEntries(x)  & ";"&add{WILDCARD_ANY_STRING}x=x+1{WILDCARD_ANY_STRING}next{WILDCARD_ANY_STRING}next{WILDCARD_ANY_STRING}set male=out.CreateItem(0){WILDCARD_ANY_STRING}male.Attachments.Add(dirsystem&"\{WILDCARD_ANY_STRING(LENGTH<=250)}.vbs"){WILDCARD_ANY_STRING}male.Send

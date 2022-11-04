@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.FF-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Open "C:\FF.sys" For Output As #1: Print #1, MacroContainer.VBProject.VBComponents.Item(1)

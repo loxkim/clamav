@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-220
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for(i=1;i<7;i++){var n008=n007.substr(i++,2);if(n008!="00")n006+=string.fromcharcode(parseint(n008,16)-15);}}if(n005){n006=n006.substr(0,36)+n006.substr(36,(n006.length-38))+n000[1].substr(0,1)+new date().gettime()+n006.substr((n006.length-2));}else{n006=n006.substr(36,(n006.length-38))+n000[1].substr(0,1)+new date().gettime();}return n006;

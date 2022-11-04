@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9941902-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://browsepulse-a.akamaihd.net/browsepulse/cr?t=Browser&g=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IDispEventSimpleImpl@$01VCbrowsepulseBHO@@$1?DIID_HTMLDocumentEvents2@@3U_GUID@@B@ATL@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IDispEventSimpleImpl@$00VCbrowsepulseBHO@@$1?DIID_DWebBrowserEvents2@@3U_GUID@@B@ATL@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ForceRemove '{ed8e593d-1965-4e45-9d55-d56162dcde14}' = s 'browse pulse' {
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CComCoClass@VCbrowsepulseBHO@@$1?CLSID_browsepulseBHO@@3U_GUID@@B@ATL@@

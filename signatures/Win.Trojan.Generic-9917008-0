@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9917008-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=payments@stevengould.org&item_name=CleanUp!&no_shipping=1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Opera.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CleanUp! finished.  To get rid of those one or two files which were in use, you'll need to logoff and log back in. 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Your donation of $%1 is being processed by PayPal now. Thank you for your continued support of CleanUp!
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+BScans your hard disk(s) looking for, and removing, temporary filesKRemoves files for all users on this computer (need a

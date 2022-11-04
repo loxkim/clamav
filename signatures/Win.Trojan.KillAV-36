@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillAV-36
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+netsh firewall set opmode mode=disable >nul net stop sharedaccess >nul

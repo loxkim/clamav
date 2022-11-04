@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-850
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+not correspond to your current address. </p><p class="style1">please follow the link below to confirm your {WILDCARD_ANY_STRING(LENGTH<=35)} account details

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Spy-20
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+le_get_contents')){ $content_arquivo=file_get_contents($filename);} else if(function_exists('readfile') and function_exists('ob_start')){ob_start();readfile($filename); $content_arquivo=ob_get_contents(); ob_end_clean();} else if(function_exists('fread') and function_exists('fopen') and !strpos($filenam

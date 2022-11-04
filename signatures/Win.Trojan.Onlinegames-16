@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Onlinegames-16
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Steam password decoder{WILDCARD_ANY_STRING}.blob/password]

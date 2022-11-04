@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-20
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+_dS(vC){var C6;var mP="";var Pz=vC.length-1;var T0=vC.substr(Pz,1);var sz;for(C6=0;C6<Pz;C6++){sz=vC.charCodeAt(C6)-T0

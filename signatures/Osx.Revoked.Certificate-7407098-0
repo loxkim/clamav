@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7407098-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0Ñ10
+	’&‰“ò,d
+KF3485G4XC1R0PUIiPhone Distribution: Henan Human Resources and Social Security Department10U
+KF3485G4XC1=0;U
+4Henan Human Resources and Social Security Department10	UCN
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0191122025547Z221121025547Z

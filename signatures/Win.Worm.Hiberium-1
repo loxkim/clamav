@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Hiberium-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Hiberium{WILDCARD_ANY_STRING}\CurrentVersion\Run

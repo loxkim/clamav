@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hook-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Application.KeyBindings.Add 2, "ThisDocument.Key_Hook", 64 + i

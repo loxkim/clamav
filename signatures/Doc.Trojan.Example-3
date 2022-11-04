@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Example-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+onents(i).Name = "Virus2" Then GoTo EndOfVirus{WILDCARD_ANY_STRING}MsgBox "Error: 8934", vbExcl

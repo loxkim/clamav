@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Trojan-99
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+or %%b in (*.*) do copy %0 %%b

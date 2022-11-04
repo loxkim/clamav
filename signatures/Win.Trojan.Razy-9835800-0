@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Razy-9835800-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Project2.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c2yec2abc2abc2abc2abc2abc2abc2abc2abc2abc2abc2abc2abc2abc2abc2abc2abc2I`c2Abc2arc2Abc2abc2abc2abc2abc2abc2abc2O
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2"bb3`cb3`cb3`cb3`cb3`cb3`cb3`cb3`cb3`cb3`cb3`cb3`cb3`cb3`cb3`cb3`c
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+abc2abc2abc2abc2abc2abc2abc2abc2abc2abc2abc2abc2abc2abc2abc2abc2
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bl3jce2a"c2aBc2abc2-rc2arc2a2c2ab#2arc2arc2ebc2`bc2ebc2abc2a

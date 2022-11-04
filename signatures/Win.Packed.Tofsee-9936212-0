@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Tofsee-9936212-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+f:\dd\vctools\crt_bld\self_x86\crt\src\feoferr.c
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+gibase == 0 || (2 <= ibase && ibase <= 36)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+kinekecusaz
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+j.hHm@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c( (_Stream->_flag & _IOSTRG) || ( fn = _fileno(_Stream), ( (_textmode_safe(fn) == __IOINFO_TM_ANSI) && !_tm_unicode_saf

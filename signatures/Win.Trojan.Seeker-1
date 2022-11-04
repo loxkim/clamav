@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Seeker-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ash(); counter.src="http://hg1.hitbox.com/hg?hc=w144&l=y&hb=wq500331e8dawren0&cd=1&n=best20+sp+bookmark";

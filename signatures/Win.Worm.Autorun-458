@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Autorun-458
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Play= Copy pictures to a foler on my computer
+shEllEXEcuTe   = RECYCLER\wmimgmt.exe

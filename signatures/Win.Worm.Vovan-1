@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Vovan-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rive In C
+If Drive.DriveType=2 Or Drive.DriveType=3 Then Onward Drive.Path &"\"
+Next
+Function Onward(D)

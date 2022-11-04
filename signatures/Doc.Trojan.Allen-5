@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Allen-5
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.MacroCopy "Global:AutoOpen",{WILDCARD_ANY_STRING}sic.MacroCopy "Global:FileSaveAs",{WILDCARD_ANY_STRING}sic.MacroCopy "Global:AutoClose",

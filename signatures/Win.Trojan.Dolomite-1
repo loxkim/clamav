@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Dolomite-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CKER_2002.bat
+copy %0 c:\dolomite.bat
+copy %0 c:\dolomite_account_hacking_utility.bat
+copy %0 C:\Windows\Startm~1\Al_Qaid

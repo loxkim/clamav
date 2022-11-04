@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Paq-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo D84>>Paraq{WILDCARD_IGNORE}{WILDCARD_IGNORE}echo n C:\Inetpub\WWWRoot\paraq.asp>>Paraq

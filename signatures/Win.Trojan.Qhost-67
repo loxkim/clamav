@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Qhost-67
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+phos.com
+127.0.0.1 www.symantec.com
+127.0.0.1 www3.ca.com
+127.0.0.1 www.grisoft.com
+127.0.0.1 grisoft.com
+127.0.0.1 housecall.trendmicro.c

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.C99-6
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if ($surl_autofill_include and !$_request["c99sh_surl"]) {$include = "&"; foreach (explode("&",getenv("query_string")) as $v) {$v = explode("=",$v); $name =

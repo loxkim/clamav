@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.GbPlugin-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+set windows=del set command1=c:\windows\downlo~1\gb*.*

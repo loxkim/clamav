@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Flashback-19
+TARGET TYPE: MACHO
+OFFSET: *
+DECODED SIGNATURE:
+<script>window.googleJavaScriptRedirect=1</script><script>var a=parent,b=parent.google,c=location;if(a!=window&&b){if(b.r){b.r=0;a.location.href="

@@ -1,0 +1,6 @@
+VIRUS NAME: Dos.Trojan.Holop-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+py A:\HOLOP.COM c:\fido\t-mail\bnu.com
+copy A:\HOLOP.C

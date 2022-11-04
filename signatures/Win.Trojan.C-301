@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.C-301
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+deltree /y c:/{WILDCARD_ANY_STRING}kill c://>>c:..%name%.bat

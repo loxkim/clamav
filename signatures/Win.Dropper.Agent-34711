@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Dropper.Agent-34711
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+\winhlp.exe{WILDCARD_ANY_STRING(LENGTH<=27)}\currentversion\run

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Softcnapp-9779891-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E:\PCProject\work\VideoWallpaper\Tags\jttag_1.0.1.20331\Bundles\JiaoTangWall\Temp\Release\Utility.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://config.wn51.com/bz/jt/5c079e5966608b1ac838d2178e572c72.cba
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+JTUtilWrapper.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://tj.wn51.com/?418bc=a2791666bca514cecf5da9e35ea96875&7e11e=
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://tj.wn51.com/?418bc=c8b9a196c9d4029058503a25c15a2866&7e11e=

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.NetWire-7916268-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-target ntsc-dvd -r 29.97 -s 720x480 -aspect 16:9 -b 8000k -g 12 -mbd rd -trellis -mv0 -cmp 0 -subcmp 2
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-target pal-dvd -aspect 16:9 -b 8000k -mbd rd -trellis -mv0 -cmp 0 -subcmp 2
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-target ntsc-dvd -b 5000kb -r 29.97 -s 720x480 -ar 48000 -ab 384kb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-target pal-dvd -b 5000kb -r 25 -s 720x576 -ar 48000 -ab 384kb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-target ntsc-vcd -mbd rd -trellis -mv0 -cmp 0 -subcmp 2

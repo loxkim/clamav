@@ -1,0 +1,43 @@
+VIRUS NAME: Xls.Downloader.Generic-6922984-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+            ClipboardFormat.Number = thisClipboardFormat
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+        Case "CF_ENHMETAFILE": result = 14
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+        Case &H3FF: BuiltInClipboardFormatName = "CF_GDIOBJLAST"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+        TrimNull = Left(aString, nullAt - 1)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+        clipBoardText = Trim(clipBoardText)
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+    #Else
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+    wLen = Len(aText) + 1    ' Get the length, including one extra for a CHR$(0) at the end.
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+' https://social.msdn.microsoft.com/Forums/office/en-US/ee9e0d28-0f1e-467f-8d1d-1a86b2db2878/a-clipboard-object-for-vba-including-microsoft-word

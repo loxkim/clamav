@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-917
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Order Notification{WILDCARD_ANY_STRING(LENGTH<=500)} License key is in attached document below

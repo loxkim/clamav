@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.StartPage-34
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+\Microsoft\Internet Explorer\Main{WILDCARD_ANY_STRING}Start Page{WILDCARD_ANY_STRING}http://www.yeak.net

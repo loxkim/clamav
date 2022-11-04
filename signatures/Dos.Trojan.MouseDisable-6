@@ -1,0 +1,6 @@
+VIRUS NAME: Dos.Trojan.MouseDisable-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+C:\windows\rundll.exe mouse,disable
+C:\windows\rundll.exe keyboard,disable

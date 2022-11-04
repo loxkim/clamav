@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Heck-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Sub sendmailto(email)
+Randomize
+Select Case Int((12 * Rnd) + 1)
+Case 1: Rte = "{WILDCARD_ANY_STRING} con vuestra pareja!!!"

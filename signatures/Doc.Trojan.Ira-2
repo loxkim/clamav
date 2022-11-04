@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ira-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Body = Mid$(Body, InStr(Body, "' " + String(72, "-")), Length){WILDCARD_ANY_STRING}= 20 And Month(Date) = 7 Then MsgBox "Ира !!! С днем рождения !!!",

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-22
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+w()) > 8 And Day(Now()) = 17 Then System.PrivateProfileString("", "HKEY_CLASSES_ROOT\Word.Document.8", "") = "Class Clinton Document"

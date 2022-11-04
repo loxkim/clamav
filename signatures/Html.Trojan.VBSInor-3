@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.VBSInor-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+document.write(unescape('%3Cscript%20language%3D%22vbs%22%3E%0D%0A%0D%0Adomain%20%3D%

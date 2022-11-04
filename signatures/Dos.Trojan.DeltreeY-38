@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.DeltreeY-38
+TARGET TYPE: ANY FILE
+OFFSET: EOF-18
+DECODED SIGNATURE:
+deltree/y %windir%

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Solow-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If (kflash.drivetype=1 or kflash.drivetype=2) and kflash.path <> "A:" then{WILDCARD_ANY_STRING(LENGTH<=2)}set kuc=kfs.getfile(kflash.path&"\{WILDCARD_ANY_STRING(LENGTH<=2)}.sys.vbs"){WILDCARD_ANY_STRING(LENGTH<=10)}kuc.attributes=32

@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Killav-142
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+taskkill /f /im nod32krn.exe 
+cls 
+taskkill /f /im nod32.exe 
+cls 
+taskkill /f /im nod32kui.exe 
+cls 
+taskkill /f /im kav.exe

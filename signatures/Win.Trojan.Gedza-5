@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Gedza-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f Application.VBE.CodePanes(i).CodeModule.Lines(4, 1) = "Sub gMacro()" Then

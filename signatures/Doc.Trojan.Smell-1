@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Smell-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f MacroContainer = "smell.dot" Then WhoAmI = "smell"

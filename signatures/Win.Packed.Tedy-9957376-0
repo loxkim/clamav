@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Tedy-9957376-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GetModuleBaseName server has timNtQueryPerformanNtSetInformationSecure InjectionNtYieldExecutionFailed to communNo Imports to Pr
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+InvertibleRSAFunction: computational error during private key operation
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$AlgorithmImpl@VTF_EncryptorBase@CryptoPP@@V?$TF_ES@URSA@CryptoPP@@UPKCS1v15@2@H@2@@CryptoPP@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$PK_FixedLengthCryptoSystemImpl@VPK_Encryptor@CryptoPP@@@CryptoPP@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Connection to th/PH/includes/cliNtQueryInformatiWaitForSingleObjSuccessfully InjFailed to establEnumProcessModulGetModuleFileNam

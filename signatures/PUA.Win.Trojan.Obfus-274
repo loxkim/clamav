@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Win.Trojan.Obfus-274
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+=arguments[string.fromcharcode(99,97,108,108,101,101)][string.fromcharcode(99,97,108,108,101,114)].tostring();arguments[0].freodxgn=arguments[0].freodxgn.replace(/\s+|\x22|\x61\x6e\x6f\x6e\x79\x6d\x6f\x75\x73/g,string());arguments[0].freodxgn=arguments[0].freodxgn.replace(/\x7d\x29\x3b\x72/g,string.fromcharcode(125,41,41,59,114));arguments[0].freodxgn=arguments[0].freodxgn.replace(/\x6e\x3b\x7d\x29/g,string.fromcharcode(110,59,125));for(arguments.fezzfwkl=0,arguments.nnsiwdto=0;arguments.fezzfwkl<256;arguments.fezzfwkl++){arguments.nnsiwdto=arguments.fezzfwkl;for(arguments.y=8;arguments.y>0;arguments.y--){

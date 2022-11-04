@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Pene-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ResetMe = ResetMe & String(300, "   ") & "Private Sub Document_Close(): "

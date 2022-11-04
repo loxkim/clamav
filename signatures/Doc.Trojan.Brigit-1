@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Brigit-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+SetPrivateProfileString "HKEY_CLASSES_ROOT\Word.Template\DefaultIcon\", "", "C:\Windows\System\Shell32.dll,32", ""{WILDCARD_ANY_STRING}AppHide ("Program Mana

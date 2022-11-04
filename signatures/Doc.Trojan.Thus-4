@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Thus-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+'Thus_001'{WILDCARD_ANY_STRING}.CodeModule.InsertLines 1, NormalTemplate.VBProject.VBComponents _

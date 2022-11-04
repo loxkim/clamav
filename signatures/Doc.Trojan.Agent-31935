@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Agent-31935
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Open ActiveDocument.FullName For Binary As #1{WILDCARD_ANY_STRING}Get #1, , AD(){WILDCARD_ANY_STRING}Open "C:\tmp.exe" For Binary As #1{WILDCARD_ANY_STRING}Put #1, , KL(){WILDCARD_ANY_STRING}Shell "C:\

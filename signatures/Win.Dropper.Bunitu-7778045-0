@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Bunitu-7778045-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+360Download.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+icKeyToken="6595b64144ccf1df" language="*"></assemblyIdentity>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+oiplkkiju4p2250F55F-98B5-21442BB82-00AA11BDCE0B1
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dU_%i:
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+??ghttp://s.360.cn/safe/dmod.html\?src={src}&status={status}&mid={mid}&modver={modver}&appver=&from={from}[.]fsize=-13

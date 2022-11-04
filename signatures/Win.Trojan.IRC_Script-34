@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-34
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if (%xdcc == on) { /timerxdcc 0 %addtime /xdccadd | /totalfiles | /write -c qfile.dll

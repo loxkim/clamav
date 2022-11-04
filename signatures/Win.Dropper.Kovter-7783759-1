@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kovter-7783759-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Blockstaat\Druckkammerb\VB98\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Clamaritamen.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+f74ee66_fe8fd66_fefcb66_f68f7_fdbe366_f6bcd_fd8d566_f75df89e566_f6_e666_fd8cd66_
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c_fecdd_f69c466_f73f47f66_f68d4_ffacc66_f65e666_ffcc266_fd8c366_f69fc_fe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+b266_fdce9_f74f666_ffacc_f71d56b66_f71f__b66_fe5eb_f73f2d96

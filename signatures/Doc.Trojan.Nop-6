@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nop-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Who$ = WordBasic.[FileNameInfo$](WordBasic.[FileName$](), 4)

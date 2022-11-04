@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Laroux-17
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ElseIf Dir(startpath$ & "\" & "RESULTS.XLS") <> "RESULTS.XLS" And awb.Modules.Count > 0 Then

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Enumiacs-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ected hosts will create this file.
+copy enum.1st %windir%\system\enumiac.exe
+%windir%\system\enumiac.exe
+E

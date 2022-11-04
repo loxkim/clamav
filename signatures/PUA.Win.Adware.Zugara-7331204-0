@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Zugara-7331204-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ag;addonId8:37;addonRegistryKey8:HKCU\Software\TutoTag
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rsion\Internet Settings\ProxyServer,HKLM\SOFTWARE\SI-App,HKLM\\SOFTWARE\P1-App;addonId7:36;addonRegistryKey7:HKCU\Softwa
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ble,HKCU\Software\Re-Markable,HKLM\SOFTWARE\SI-App,HKLM\SOFTWARE\P1-App;addonId5:29;addonRegistryKey5:HKCU\Software\Opti
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+o;addonId6:34;addonRegistryKey6:HKCU\Software\AdblockPlus,HKLM\SOFTWARE\Adblock Plus for IE,HKLM\Software\AdvertisingSuppo
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+M\SOFTWARE\Wow6432Node\AdvertisingSupport,HKLM\SOFTWARE\Malwarebytes' Anti-Malware,HKLM\SOFTWARE\Microsoft\Windows\Curr

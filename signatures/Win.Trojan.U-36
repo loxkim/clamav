@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.U-36
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+irfunc(void)
+{
+   	FILE *fd;
+   	static int first = 0;
+        int i = 0, j = 1, oldmask = 0;
+        
+        if (first)

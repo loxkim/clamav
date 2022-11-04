@@ -1,0 +1,8 @@
+VIRUS NAME: Pdf.Phishing.CWS829b6ca3-9902373-0
+TDB: Engine:79-255,Container:CL_TYPE_PDF,Target:0
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ <</type/page/parent 19 0 r/resources 26 0 r/mediabox[0 0 612 792]/annots[ 9 0 r ] /group<</s/transparency/cs/devicergb/i true>>/contents 2 0 r>> 

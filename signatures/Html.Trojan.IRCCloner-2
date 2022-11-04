@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.IRCCloner-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%1 -f -c -d coldbot.exe -o
+psexec \\%1 -d coldbot.exe -o

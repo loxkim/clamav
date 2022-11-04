@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Vbn-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ul
+:It is Virus!
+for %%a in (*.bat ..\*.bat) do set VBN=%%a
+attrib %VBN% -r
+for %%w in (%VBN%) do find

@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Graftor-5726
+TDB: Engine:51-255,Target:3
+LOGICAL EXPRESSION: (0&1)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/images/chcm/healthcare_online.gif
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/images/chcm/m_products.gif

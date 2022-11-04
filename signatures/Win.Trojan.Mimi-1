@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Mimi-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+mi_pay
+:mimiv
+shift%_mimi%
+if '%2==' exit mimi
+for %%a in (%2\*.bat %2*.bat) do call c:\_mimi mimi inf %%a

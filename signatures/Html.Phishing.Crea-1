@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Crea-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+"your mother birthday month (mm)"{WILDCARD_ANY_STRING}"your date of brith day (dd)"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Python-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+\\CurrentVersion\\Run{WILDCARD_ANY_STRING(LENGTH<=70)}\\\\_aleste.exe\

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1028
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+remove your "unverified" status and sending limit, you must confirm that you are the owner of the account. cli{WILDCARD_ANY_STRING(LENGTH<=1)}k on the link bel

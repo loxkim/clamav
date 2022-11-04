@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Om-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If classeur.Name <> "OM.XLS" Then{WILDCARD_ANY_STRING}ThisWorkbook.Modules("OMMacro").Copy after:=Workbooks(classeur.Name).Sheets(1)

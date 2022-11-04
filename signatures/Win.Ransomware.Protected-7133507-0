@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Protected-7133507-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nPs0oLv1nHu1lEt1kDt1jBs0h>s0e8p0b1o/_/n/_-n/]-o.[-n-W.m-R.k.K1l.R.k.R.k.R.k.R.k.R.k.R.k.R.k.R.k.R.k.R.k.R.k.R.k.U+g+Z+j+[+j+\+l
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[+j+[+h+Z*h+Z)f+W)d+T'_%W(c
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ <b><i>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+</i></b>, 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+.</li><br><br>A<li>

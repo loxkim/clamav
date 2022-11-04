@@ -1,0 +1,23 @@
+VIRUS NAME: Unix.Trojan.APT_Controller_Linux_REDFLARE_1-9804950-0
+TDB: Engine:81-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/RedFlare/gorat_server
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RedFlare/sandals
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+goratsvr.CommandResponse
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+goratsvr.CommandRequest

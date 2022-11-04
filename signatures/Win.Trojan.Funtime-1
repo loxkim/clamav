@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Funtime-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+
+REM Put your month, year and time here, in this exact format
+
+IF %Xtime%==01/13 AT 7:30:30.30 funtime.bat

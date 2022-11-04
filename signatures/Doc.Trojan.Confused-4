@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Confused-4
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+nd("~^^~", 0, 0, 0, 0, False, False) = False Then £o.InsertLines £o.CountOfLi{WILDCARD_ANY_STRING}For £d = 1 T{WILDCARD_ANY_STRING}£o.InsertLines £o.CountOfLines + 1, £f

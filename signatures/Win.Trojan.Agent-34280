@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-34280
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+/ecard.exe">{WILDCARD_ANY_STRING}plain_str.length; ++i) xored_str += String.fromCharCode(xor_key ^

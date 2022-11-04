@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.XML-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ky _darky infect %%a 
+goto _darkyvx
+:_darkyinfect
+find '_darky'<%3>nul
+if not errorlevel 1 goto _darky_ju

@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-96
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+v=document.createtextnode("asd");var n000;for(i in v)if(i=="childnodes")y=v[i].length+1;y*=2;aa=document.createtextnode("eval");e=window[aa.nodevalue];e(string.fromcharcode(

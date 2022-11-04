@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Skiba-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+assoc .exe=.exe del c:program files/q echo

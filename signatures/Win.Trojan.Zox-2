@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Zox-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+s.WriteLine "copy " & Wscript.ScriptFullName & " z0x.com>NUL"

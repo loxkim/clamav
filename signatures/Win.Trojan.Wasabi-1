@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Wasabi-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nt.insertlines 8, ".virusprotection = n"

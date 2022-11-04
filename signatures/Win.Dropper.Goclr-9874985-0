@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Goclr-9874985-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mallocing= ms clock,  nBSSRoots= p->status= s.nelems=  schedtick= span.list= timerslen=, elemsize=, npages = /dev/stderr/dev/st
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+unknown pcuser32.dllwrite filews2_32.dll  of size   (targetpc= KiB work,  freeindex= gcwaiting= heap_live= idleprocs= in status 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+llnetpollInitreflectOffsruntime: P runtime: p scheddetailsecur32.dllshell32.dllshort writetracealloc(unreachableuserenv.dll KiB 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+total,  [recovered] allocCount  found at *( gcscandone  m->gsignal= minTrigger= nDataRoots= nSpanRoots= pages/byte
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.dllexitThreadfloat32nanfloat64nangetsockoptgoroutine invalidptrmSpanInUsenotifyListowner diedread filesruntime: gs.state = sche

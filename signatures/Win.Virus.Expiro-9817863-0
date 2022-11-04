@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Expiro-9817863-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+A1B4B40}","destination_file":"2014Plugin.dll","source_file":"%PLUGIN_SOURCE_URL%"}],"job_state":0}]}}
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ution":{"job_description":"Norton Internet Security","key":"","sso":"","cc_token":"","olp_start_url":"http:/
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rton Installation Files.lnk","PLUGIN_SOURCE_URL":"http://buy-download.norton.com/downloads/FSD/5.1/83/FSDPlugin.dll"},"boo
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+836368/ANgxONXAGD/8UWUiP2G/8","olp_end_url":"http://lcdls.symantec.com/836368/BsMh8c6XBI/ZSE8HNuD/64"},"product_data":{"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"clsid":"{C0239F12-0DE7-47DD-8B89-C16B6A1B4B40}","destination_file":"FSDPlugin.dll","source_file":"http://buy-downloa

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Life-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for %%f in (*.bat{WILDCARD_ANY_STRING(LENGTH<=40)}at) do call %0 infect %%f

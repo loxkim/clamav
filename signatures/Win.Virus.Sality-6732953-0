@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6732953-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ISL+Network+Start__web_country=419&__ISL+Network+Start__web_language=es&cmdline=%2d%2don%2dload+%22main%3fpos%3drighttop%22+%2
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d%2don%2dconnect+%22desktop%3fshow%26control%26admin%3drestart%22%2d%2don%2dload+%22main%3ficonize%22%2d%2dsilent+%2d%2dauto%2dc
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+queryM
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mpuuvvqo
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"WWWWW2W22222WYYYYW22W\ou{p`

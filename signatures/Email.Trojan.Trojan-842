@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-842
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Your deposit was received and posted{WILDCARD_ANY_STRING(LENGTH<=160)}Please refer to attached file for more details

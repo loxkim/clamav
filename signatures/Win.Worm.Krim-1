@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Krim-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+xist %giaco%\zkm.reg goto dama{WILDCARD_ANY_STRING}teObject("Outlook.Application") >%giaco%\amore.vbs

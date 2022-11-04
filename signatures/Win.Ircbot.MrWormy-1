@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Ircbot.MrWormy-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+dcc send $nick c:\windows\mypic.com }
+n2=ctcp 1

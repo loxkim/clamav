@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Tristate-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.Lines(1, 1) <> "'<!--1nternal-->" Then{WILDCARD_ANY_STRING}NewMod.Name = "Triplicate"

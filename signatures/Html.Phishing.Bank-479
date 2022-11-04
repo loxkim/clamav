@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-479
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+" size="1" color="666666"><b>{WILDCARD_ANY_STRING(LENGTH<=50)} sent this message for the following reason: our system requires further account verification.

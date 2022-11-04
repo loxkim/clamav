@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bulbasaur-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+ff.createtextfile(ff.getspecialfolder(0) & "\4we.vbs",true)

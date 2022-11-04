@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.DoS-19
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+1to1000document.write("<iframesrc=""telnet:/

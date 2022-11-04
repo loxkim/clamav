@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Urausy-9760833-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+chg^w\mm,yY+?qRs!yO$:[YmInr%o@c5bHC~8/iPLyaUB_AuTga5gTyp\vq\[CTs!yO$:[YmInr%o@c5bHC~8/ixL>aUB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VuyUXJf2r3CvsevnXtoTcGdM9f;]`@y@Ms_blj[gUGf'aeqc`uQBD8d^hsevle=T%-tRGsu2oiJ|8ImmFsv)fd4OVm\u
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+m(\ZL$_ySRmldjk\'([*pG>._ngfO8G\mb.ndVuyS18n^IY_:vaaqMxtVnYC-i:LY=_lrM``C5cG
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+o]cjhic}%/'WIc])qrC3ci`Rw]M=Y@><bpRWWkMels'SI*@U_cCfg;_Ow[in=@>VoVFWWc^mUI'o
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WSCSyYxTij*<SjsoesW?hhn5FO\ib*\_Zt_RStegUK?@t]|p$[pRA2fRhj1hVjtz$s[_ngL

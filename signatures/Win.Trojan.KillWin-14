@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillWin-14
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+add start /b regedit.exe /s settings.reg cls shutdown -s -f -t 30 -c

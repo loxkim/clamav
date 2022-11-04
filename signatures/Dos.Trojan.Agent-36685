@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36685
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off restore.exe remove.exe spool.exe restore.exe remove.exe svhost.exe restore.exe spool.exe

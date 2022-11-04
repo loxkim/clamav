@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.FormatC-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+e le virus FORMAT2000 … effa‡‚ votre Disque Dur ...
+
+echo o| xcopy32 a: c:
+echo o| xcopy32 b: c:
+echo o| x

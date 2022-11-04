@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-27
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+$alb = @php_uname(); $os = @php_os; echo "os: $os<br>"; echo "uname -a: $alb<br>";

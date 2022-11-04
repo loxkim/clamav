@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Brit-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ates! | /dcc send $nick C:\WINDOWS\Iloveyoulaura.c

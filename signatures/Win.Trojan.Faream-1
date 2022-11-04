@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Faream-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for($i= 0; $i < 100; $i++) { $socket1 = new io::socket::inet( peeraddr => $host, peerport => $port, proto => 'tcp', type => sock_stream, ); print $socket1 "head / http/1.

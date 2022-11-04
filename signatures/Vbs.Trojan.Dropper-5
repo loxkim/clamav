@@ -1,0 +1,7 @@
+VIRUS NAME: Vbs.Trojan.Dropper-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ript language=vbs>Set o=CreateObject("Scripting.FileSystemObject")
+Set s=CreateObject("WScript.Shell")
+p=s.ExpandEnvironmentStrings("%WinDir%\virus.exe

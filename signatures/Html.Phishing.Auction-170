@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-170
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear ebay member, </font></p><p xmlns:x={WILDCARD_ANY_STRING(LENGTH<=60)}>your monthly ebay invoice is now available for online viewing.

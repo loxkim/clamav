@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ursu-6853824-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+keSrndsAel32.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Local system has a valid connection to the Internet, but it may or may not be currently connected.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+JGDFJKLJFLKSDHGJKDSFHGKJSDFJKLDFHGJKDHFKLDHJKLFGHSDFKJFVHSDFJKHSDKJHJSDFKHSDFCJKHJSDFGZCreateFileMappingA
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Local system uses a proxy server to connect to the Internet.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wininet.dll 

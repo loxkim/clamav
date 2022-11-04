@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Petik-17
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Sub infdoc(){WILDCARD_ANY_STRING}DropFile = winp + "\{WILDCARD_ANY_STRING}If Nor.Item("ApiWord").Name <> "{WILDCARD_ANY_STRING}Doc("ApiWord").Export DropFile{WILDCARD_ANY_STRING}Nor.Import DropFile

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Generic-9781575-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://fs0.gamenet.ru/installers/qgna/aika/live/aika_inner.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PlayAika2.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0/" xmpMM:OriginalDocumentID="xmp.did:9A92D8744D5AE2118988D97DB6F2946C" xmpMM:DocumentID="xmp.did:87B0DB235A6A11E2A1888BBB69
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CF" xmpMM:InstanceID="xmp.iid:87B0DB225A6A11E2A1888BBB692400CF" xmp:CreatorTool="Adobe Photoshop CS5 Windows"> <xmpMM:Deriv
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+yp-i:\CX

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Jerret-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:\Lucky
+ATTRIB C:\COMMAND.COM -H -R -S
+ATTRIB C:\CONFIG.SYS -H -R -S
+ECHO - = Jerret_Black@Hotmail.com Virus

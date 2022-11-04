@@ -1,0 +1,6 @@
+VIRUS NAME: Dos.Trojan.FormatC-62
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo Checking Drive D:\
+format D:\ /q /autotest

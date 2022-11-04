@@ -1,0 +1,14 @@
+VIRUS NAME: Andr.Trojan.SMSAgent-1
+TDB: Engine:51-255,Container:CL_TYPE_ZIP,Target:0
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dex
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+javamail.smtp.provider•ÍA
+Ã …á}O1ÐmñâR*

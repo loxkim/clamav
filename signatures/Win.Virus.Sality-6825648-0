@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6825648-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+logo del Administrador de complementos, elija Ver|Barras de herramientas|Personalizar para restablecer sus men
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Visor de API(Debe seleccionar un elemento de la listaGHay demasiadas entradas para copiar al Portapapeles. Copiadas hast
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+=APILOAD[.EXE] [/T o /t] TEXT FILENAME| [/D o /d] MDB FILENAME
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Realmente desea salir sin copiar las entradas seleccionadas?bAl abrir un archivo diferente borrar
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<El Visor de API de VB requiere Visual Basic 6.0 o posterior.

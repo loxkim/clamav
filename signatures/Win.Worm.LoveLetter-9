@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.LoveLetter-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+h&"~JULIEN"&".vbs")
+ap.write vbscopy
+ap.close
+set cop=fso.GetFil

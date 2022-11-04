@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7712810-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+010
+	’&‰“ò,d
+6GHVL9548J1907U0Apple Development: svend.jin@qq.com (4Y2Q7T7U73)10U
+W863J6W8DZ10U
+	Svend Jin10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0191012015454Z201011015454Z

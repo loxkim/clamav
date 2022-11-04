@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Kiwi-2
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+http://topofthelinecarwash.com{WILDCARD_ANY_STRING(LENGTH<=8)}/kiwibank.co.nz/

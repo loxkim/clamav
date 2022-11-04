@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.DeltreeY-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Warning! This is a very dangerous action!
+@ECHO ON
+["y";"deltree c: /Y";13p
+["n";"deltree c: /Y";13p
+

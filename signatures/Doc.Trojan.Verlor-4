@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Verlor-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+veDocument.VBProject.VBComponents.Item("Module").CodeModule.Lines(3, 1) <> "'MyName = Overlord" Then

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6828132-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+   /a <chemin complet vers l'installation administrative existante> :  Chemin vers une installation administrative exist
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+lectionnez Ajout/Suppression de programmes dans le Panneau de configuration._L'installation de %s est abandonn
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ges de l'administrateur pour installer %s.CLe programme d'installation n'a pas trouv
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+e avec une ressource de fonctionnement incorrecte "%s" et ne peut pas continuer.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cessaire "%s" est manquante.{Le programme d'installation n'a pas pu mettre 

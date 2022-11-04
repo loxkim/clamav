@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-225
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+eread on ebay platform we need your assistance one more time for your security.{WILDCARD_ANY_STRING(LENGTH<=30)}you will have to put on file (confirm) your email address once

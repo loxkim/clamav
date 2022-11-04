@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.HomePage-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+lseIf Asc(CurChar) = 18 Then
+CurChar= Chr(9)
+Else
+CurChar = Chr(Asc(CurChar) - 2)
+End If
+DeCode = DeCode & CurChar
+Next

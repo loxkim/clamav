@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.MIRC-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+s Neborg
+n1=on 1:START:{
+n2=  .sreq ignore
+n3=  .remote on
+n4=}
+n5=on 1:CONNECT:.msg #GrobenA TestWorm2

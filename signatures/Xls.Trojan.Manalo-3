@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Manalo-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Workbooks("C B I.XLS").Sheets("INC").Copy After:=Workbooks(FileName$).Sheets("Life_Blood")

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.ASP-45
+TDB: Engine:51-255,Target:3
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+if domain user name not equals"administrator"private const string pmcachename=version+"pmlist";

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Dealply-9790660-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity type="win32" version="0.0.0.4" name="Noduhoko.Fafeburepo.Secahidupa" processorArchitecture="X86"/>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+^g`g`b^bd_bbc_^d^bd_dbbabag^edgb`ccb_g```fgb_eabef_dc`ec_fdd_a_edaaa^a_bbbe``ee^^`ff`_`dabc_fe^g`gb_a``^b_becx
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+g`_^fg_cbbf`dceeec^c`cf_fe_edd`cfag____slDLLData_
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+^gaageddedebcaaf^`b`_eaa`d`^d^dge`e`b_daacddbee`g_aeg`fdgd`_^`dfd^_d_^ddf^^^d`__ge^bfggbe^eeg_cbc_^efd_`bd_^eb^agedezaH
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+`a_acg`baeee^`baabab^fd^^a^cdgb_c^^b_cf`cacbbddgeegfbggadfddf_dgbafdbad^fd^e^dacg`_d_gcdbc_adf`_e``aefgbf_cgfaadcbfag_6

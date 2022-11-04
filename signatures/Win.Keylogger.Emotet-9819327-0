@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Emotet-9819327-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Software\Microsoft\Windows\CurrentVersion\PropertySystem\PropertyHandlers\%s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+prop:System.DateChanged;System.Author;System.Keywords;Microsoft.SampleRecipe.Difficulty; System.Rating;System.Comment;Sy
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+prop:System.PropGroup.Description;System.Title;System.Author;System.Comment;System.Keywords;System.Rating;Microsoft.Samp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+prop:System.ItemType;System.Author;System.Rating;Microsoft.SampleRecipe.Difficulty
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RecipePropertyHandler.dll

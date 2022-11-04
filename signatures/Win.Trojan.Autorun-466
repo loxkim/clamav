@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Autorun-466
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+UseAuTOPLAY=1
+shell\\open\\command=ice\fire\update.exe
+shell\\Explore\\Command=ice\fire\update.exe

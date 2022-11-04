@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Delf-2246
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+shellexecute=readme.exe{WILDCARD_ANY_STRING(LENGTH<=273)}\removibles.gedzac

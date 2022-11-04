@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.JScript-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+script language=javascript>function{WILDCARD_ANY_STRING}bnb25(z)

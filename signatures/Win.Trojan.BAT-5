@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.BAT-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo HPS»>c:\reboot.com
+echo c:\reboot.com>c:\autoexec.bat

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Passer-21
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+/user:administrator
+if not errorlevel 1 goto bluesc4n29
+%B%%L%%U% %F%%Z%%G% \\%1\ipc$ "abc" /user:administrator
+if not errorlevel 1

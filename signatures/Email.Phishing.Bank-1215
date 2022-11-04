@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1215
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+it is recommended and mandatory for all{WILDCARD_ANY_STRING(LENGTH<=6)}account holder to register{WILDCARD_ANY_STRING(LENGTH<=3)}below

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6838237-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+&@"%windir%\System32\ie4uinit.exe",-732>..\..\..\..\..\..\Program Files\Internet Explorer\iexplore.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files\WinRAR\WinRAR.chm
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<li><a href="UltraISO%E8%BD%AF%E7%A2%9F%E9%80%9A_9.6.5.3237.exe">UltraISO
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<li><a href="npp.6.9.2.Installer.exe">npp.6.9.2.Installer.exe</a>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<li><a href="dotNetFx40_Full_x86_x64.exe">dotNetFx40_Full_x86_x64.exe</a>

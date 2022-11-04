@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hich-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+f Minute(Now) = 26 Then ActiveDocument.Range(0, ActiveDocument.Characters.Count) = "": Lose = Tru

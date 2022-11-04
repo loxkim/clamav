@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-337
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+online account has expired, and needs to be renewed{WILDCARD_ANY_STRING(LENGTH<=72)}attached in this email to renew

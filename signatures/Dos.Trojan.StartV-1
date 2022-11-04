@@ -1,0 +1,10 @@
+VIRUS NAME: Dos.Trojan.StartV-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+t.exe
+del start.com
+start
+del start.scr
+del start.exe
+del c:\windows\startm~1\programs\startup\startv.bat

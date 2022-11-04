@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Minimal-44
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+C$ = "AutoClose"{WILDCARD_ANY_STRING}WordBasic.FileSaveAs Format:=1: WordBasic.MacroCopy C$, A$

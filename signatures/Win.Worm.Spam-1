@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Spam-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+or AddList = 1 To Addresslistcout
+Set msg = OutlookApp.CreateItem(0)
+Set AdEntries = Addresslist.AddressEntries(AddList)
+msg.To = AdEntries.Address

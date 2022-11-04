@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Minimal-22
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Function CopyMac(src, Tgt) As Long{WILDCARD_ANY_STRING}ret = CopyMac(doc$, gen$){WILDCARD_ANY_STRING}If (ret = 5940) Then

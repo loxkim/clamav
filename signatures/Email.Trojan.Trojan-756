@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-756
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Shipping update for your Amazon.com order{WILDCARD_ANY_STRING(LENGTH<=340)}Please check the attachment and confirm your shipping details

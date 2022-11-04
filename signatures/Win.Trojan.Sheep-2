@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Sheep-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+heep.vbs
+n3=}
+n4=
+n5=;ON 1:PART:#:{ /if ( $nick == $me ) { halt }
+n6=/dcc send $nick $sheep.vbs
+n7=}
+n8=

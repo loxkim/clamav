@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Minimal-50
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+A$ = Z$ Then WordBasic.Beep Else WordBasic.MacroCopy WordBasic.[FileName$]() + ":AutoOpen", "Global:AutoOpen", 1

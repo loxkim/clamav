@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.IFrame-21
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.createelement('iframe');jsinj.src='http://weqeweqqq201

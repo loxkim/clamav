@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NoClue-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Left(CodeHost_.Lines(o, 1), 9) = Chr(83) + Chr(117) + Chr(98) + Chr(32) + Chr(79) + Chr(112) + Chr(116) + Chr(

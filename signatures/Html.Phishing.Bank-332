@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-332
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if your account information {WILDCARD_ANY_STRING(LENGTH>=2&&<=3)} not updated within the next {WILDCARD_IGNORE}{WILDCARD_IGNORE} hours, then we will assume this account is fraudulent and will be {STRING_ALTERNATIVE:d|s}{STRING_ALTERNATIVE:e|u}{STRING_ALTERNATIVE:l|s}{STRING_ALTERNATIVE:e|p}

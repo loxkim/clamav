@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-120
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+have updated your account records, your paypal session will not be{WILDCARD_ANY_STRING(LENGTH<=5)}interrupted and will continue as normal. to update your paypal rec

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Fool-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+DropPath = ("C:\WalruS.drv"){WILDCARD_ANY_STRING}RegisteredOwner") = "WalruS

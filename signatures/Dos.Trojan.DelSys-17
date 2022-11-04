@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.DelSys-17
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+del c:\autoexec.bat
+del c:\config.sys
+del c:\windows\system.ini

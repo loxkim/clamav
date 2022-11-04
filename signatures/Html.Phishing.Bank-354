@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-354
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+due to recent fraudulent activities on some of jpmorgan chase online accounts we are adding{WILDCARD_ANY_STRING(LENGTH<=30)}chase fraud detector to all of

@@ -1,0 +1,25 @@
+VIRUS NAME: Xls.Dropper.Fajan-9852005-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: (0&3)|(1&2&3)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+On Error Resume Next
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eval(String.fromCharCode
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Scripting.FileSystemObject
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0|1|2
+     +-> REGEX: (&chr\(((-)?[0-9]+(\+|-|\
+     +-> CFLAGS: )CLng\("&[a-zA-Z0-9]+"\)|CLng\("&[a-zA-Z0-9]+"\)(\+|-|\/)[0-9]+)\)){30,50}/

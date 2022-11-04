@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Adware.Trymedia-2
+TARGET TYPE: PE
+OFFSET: S3+23594
+DECODED SIGNATURE:
+e() {
+  window.external.TrymediaExecuteDownloadedFile();
+}
+
+//====

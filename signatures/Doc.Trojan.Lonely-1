@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Lonely-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #1, VBA.Chr(115) & VBA.Chr(101) & VBA.Chr(116) & VBA.Chr(32) & VBA.Chr(102) & VBA.Chr(115) & VBA.Chr(111) & VBA.Chr(32) & VBA.Chr(61) & 

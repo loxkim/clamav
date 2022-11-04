@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.DelFiles-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo y | echo a | echo y |del C:\ *.*

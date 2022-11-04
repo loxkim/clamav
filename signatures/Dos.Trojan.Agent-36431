@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36431
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off format d: /q /autotest exit 

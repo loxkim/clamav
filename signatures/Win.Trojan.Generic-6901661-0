@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6901661-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd.exe /c cscript.exe "c:\Program Files (x86)\Microsoft Office\Office14\ospp.vbs" /sethst:
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd.exe /c for /f "tokens=5 delims=, " %i in ('netstat -ano ^| find ":
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd.exe /c reg.exe DELETE HKLM\SYSTEM\CurrentControlSet\Services\
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd.exe /k color 1E && prompt $G && Title                  && mode con cols=80 lines=20 && sfc.exe /scannow
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd.exe /c netsh interface ip set address 

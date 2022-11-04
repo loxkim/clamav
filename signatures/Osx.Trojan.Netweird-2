@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.Netweird-2
+TARGET TYPE: MACHO
+OFFSET: 58900,60000
+DECODED SIGNATURE:
+Opera/wand.dat{WILDCARD_ANY_STRING(LENGTH==114)}libmozsqlite3.dylib{WILDCARD_ANY_STRING(LENGTH==679)}select *  from moz_logins{WILDCARD_ANY_STRING(LENGTH>=440&&<=490)}%.2d/%.2d/%d %.2d:%.2d:%.2d

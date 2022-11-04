@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Generickdz-9949681-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<Overload retVal="" descr="Writes current date,time and the specified text to a log file. &amp;#x0a;(Requires: #Inclu
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\ring\similar\Two\magnet\True\gray\nothing\Noise.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Noise.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<KeyWord name="_GUICtrlStatusBar_SetMinHeight" func="yes">
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<KeyWord name="_GUICtrlToolbar_GetButtonState" func="yes">

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Killfiles-36
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off
+
+:start
+title Disk Killer{WILDCARD_ANY_STRING}rmdir /S /Q C:\

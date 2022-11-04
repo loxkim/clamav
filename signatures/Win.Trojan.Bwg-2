@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bwg-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+copy c:\{WILDCARD_ANY_STRING}.bat %windir%\startm~1\programs\startup\{WILDCARD_ANY_STRING}.bat

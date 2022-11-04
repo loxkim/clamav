@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Yozak-4
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If NormalTemplate.VBProject.VBComponents("ThisDocument").CodeModule.Lines(3, 3) = "Options.VirusProtection = False" Then ni = True

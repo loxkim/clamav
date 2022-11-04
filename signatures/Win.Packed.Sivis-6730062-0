@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6730062-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Administrator\Desktop\uninstall_flash_player.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Security.Permissions.PermissionSetAttribute, mscorlib, Version=2.0.0.0, Culture=neutral, Publickeytoken=b77a5c561934e089
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Collections.Generic.IEqualityComparer<System.Security.RightsManagement.ContentUser>.GetHashCode
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Collections.Generic.IEnumerable<System.Windows.Markup.XmlCompatibilityReader.NamespaceElementPair>.GetEnumerator
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\fx19rel\WINNT_5.2_Depend\mozilla\obj-fx-trunk\nss\nssdbm\nssdbm3.pdb

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Alina-5
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+{[!22!]}{[!18!]}{[!33!]}{[!4!]}{[!34!]}= %d, {[!35!]}= 0x%x.{[!36!]}

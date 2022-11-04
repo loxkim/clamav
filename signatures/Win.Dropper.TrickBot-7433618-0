@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.TrickBot-7433618-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C*\AC:\Users\911\Desktop\Circula_Bu614903122002\Circ Btn\CircBtn.vbp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+valueWithHighContrastFallback(graphic(635,4,0,0,0,0,0,library(shell32.dll)),window)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+NtQueryInformationProcess<The Partitions of Poland were three partitions of the Polish
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+resstr(0x7952, library(shell32.dll))
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\VB6.OLB

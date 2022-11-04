@@ -1,0 +1,7 @@
+VIRUS NAME: Email.Trojan.Trojan-969
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Subject: =?GB2312?{WILDCARD_ANY_STRING(LENGTH>=650&&<=700)}Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="Lchv5412.zip"

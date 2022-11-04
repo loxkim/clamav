@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-111
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+(xor_key ^ plain_str.charcodeat(i)); return xored_str; } var plain_str="\x0e\x24\x24\x58\x4f\x5c\x0e\x43\x43\x0e\x13\x0e\x40\x4b\x

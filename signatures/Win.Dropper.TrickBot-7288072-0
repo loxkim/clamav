@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.TrickBot-7288072-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'04TG[&^t '/DDDD'9#GJ.FH,DD'G1FCG1*9J'J--/DDDD'9#GJ.FHH%2BGRC4Key: EncryptData failed.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Failed to get info on QueryDef--Memory exception thrown.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DAOTABLE.EXE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Couldn't get information on QueryDef--Exception: 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Delete current table?  This will delete all fields and indexes for this table.

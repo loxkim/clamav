@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Killer-7
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If .Item(j).Name <> "VirusKiller" Then .Remove .Item(j) Else .Item(j).Export "c:\VirusKiller"

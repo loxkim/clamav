@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Startpage-494
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<script language="vbscript.encode">{WILDCARD_ANY_STRING(LENGTH<=20)}function myreg (myurl){WILDCARD_ANY_STRING(LENGTH<=150)}.regwrite "hkcu\software\microsoft\internet explorer\main\start page",myurl

@@ -1,0 +1,9 @@
+VIRUS NAME: Doc.Trojan.Ethan-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+lse:
+End With
+s = ActiveDocument.Saved
+sName = "c:\evolve.tmp"
+sFunc = "Priv

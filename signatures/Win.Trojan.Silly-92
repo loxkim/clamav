@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Silly-92
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for %%f in (*.bat) do copy %temp%{WILDCARD_ANY_STRING(LENGTH<=10)} %%f>nul

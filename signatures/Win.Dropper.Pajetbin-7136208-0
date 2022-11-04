@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Pajetbin-7136208-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+normally running please run "srRepair.exe" to Repair or Uninstall other antivirus 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+FirewallN37.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pour fermer d'autres softwares d'anti-virus et pour effectuer ? spRepair.exe ? pour r
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+spRepair.exe per riparare!  Li abbiamo suggeriti soltanto parete refrattaria di Microsoft di 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Deze disk ontvangt de firewall van Microsoft de bescherming.Als andere tegen-virale software 

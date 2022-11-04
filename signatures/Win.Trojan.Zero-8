@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Zero-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CreateObject("WScript.Shell").Run "Ping -t -l 10000 www.ebay.de",0,false

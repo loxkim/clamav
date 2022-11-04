@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Autorun-170
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+[AutoRun]
+open=rundll32.exe flashinf.dll Msg
+shellexecute=rundll32.exe flashinf.dll Msg
+shell\Auto\command=rundll32.exe flashinf.dll

@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Cobr-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Day(Now) = 28 And Month(Now) = 9 Then{WILDCARD_ANY_STRING(LENGTH<=5)}Open "C:\Autoexec.bat" For Append As #1{WILDCARD_ANY_STRING(LENGTH<=5)}Print #1, "Deltree /y C:\*.COM"

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Onex-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+mponents(1).Name = "homer" Then{WILDCARD_ANY_STRING}Dir("c:\winnt\system32\ntoskrnl.exe") <> "" Then Kill "c:\winnt\system32\ntoskrnl.exe"

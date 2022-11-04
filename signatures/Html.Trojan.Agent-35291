@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Agent-35291
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.regwrite("hkcu\\software\\microsoft\\windows\\currentversion\\internetsettings\\zones\\3\\1004",0,"reg_dword");varexpdate=newdate

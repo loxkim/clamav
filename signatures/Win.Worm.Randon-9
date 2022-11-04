@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.Randon-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Lame
+
+;;;;;;;;;;;;;;;;;;;;;;;; 
+alias startscani {
+  var %i 1

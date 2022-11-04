@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6825441-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ Total Overdose. Pas de processeur Athlon XP ou Pentium 3 d
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+n de Total Overdose, vuelve a instalarlo ejecutando el archivo setup.exe desde el disco.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ber die setup.exe-Datei auf deiner Disc erneut.yHay un problema con la instalaci
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ stato rilevato un processore Athlon XP o Pentium 3.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ necessario reinstallarlo con il file setup.exe contenuto nel disco.

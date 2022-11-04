@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Fool-12
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If N.Item("Puny").Name <> "Puny" Then{WILDCARD_ANY_STRING}uny").Export "{STRING_ALTERNATIVE:c|C}:\P"

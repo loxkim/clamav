@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Aziz-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+[hklm\software\microsoft\windows nt\currentversion\runservices] >> %temp%\aziz1.reg echo "aziz"=sz:deltree /y c:\

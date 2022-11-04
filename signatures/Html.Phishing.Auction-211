@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-211
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ebay offers this month a great prize for members <br>all you need to do is to </font><br><fon{WILDCARD_ANY_STRING(LENGTH<=60)}="gray"><a href="http:

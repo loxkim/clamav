@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Spyware.Agent-31680
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+PK.IE = s 'IESpy Class'
+	{
+		CLSID = s '{1E1B2879-88FF-11D3-8D96-D7ACAC95951D}'
+		CurVer = s 'PK.IE.1'
+	}
+	NoRemove CLSID
+	

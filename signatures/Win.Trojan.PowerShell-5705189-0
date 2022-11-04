@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.PowerShell-5705189-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+delay 3000 gui r delay 1000 string cmd enter delay 2000 string powershell -w hidden -nop -noni -enc

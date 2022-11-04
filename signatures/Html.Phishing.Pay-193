@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-193
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to use this new security system, you will need to{WILDCARD_ANY_STRING(LENGTH<=7)}restore/confirm your account information.</strong></span>when you {WILDCARD_ANY_STRING(LENGTH<=7)}confirm your account inform

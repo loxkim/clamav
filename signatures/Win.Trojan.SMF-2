@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.SMF-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%0==" exit %$&MF 3.5 Duke/SMF%
+@for %%b in (*.bat) do set $&=%%b
+@find "$&"<%$&%>nul
+@if errorlevel 1 fin

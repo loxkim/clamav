@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-831
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+login attempts on your account.{WILDCARD_ANY_STRING(LENGTH<=7)}we believe there is a problem. so we placed an added extra security measure to prevent permanent account de

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Dealply-7395232-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">  <security><requestedPrivileges>  <requestedExecutionLevel level="asInv
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xmlns:asmv3="urn:schemas-microsoft-com:asm.v3"><assemblyIdentity type="win32" version="2.1.8.8" name="Lehopogu.Ramoteme.L
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hTB.DOR
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+plh''''d`\X''''TPLH''''D@<8r!''40,rrrr($ 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+# OV<6

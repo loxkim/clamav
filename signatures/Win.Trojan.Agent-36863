@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Agent-36863
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+& " /C netsh -c interface ip set dns " & """" & {WILDCARD_ANY_STRING}oft.com/getip.php" , 1{WILDCARD_ANY_STRING}GUICTRLCREATEOBJ ( $OBJ1 , 1 , 1 , 1 , 1 )
+ $OBJ1.navigate ( "http://th3.404

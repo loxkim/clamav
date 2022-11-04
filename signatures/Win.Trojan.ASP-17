@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ASP-17
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+var st = new activexobject("adodb.stream");with(st) { charset="gb2312"; open(); loadfromfile(starget); sbody=st.readtext()

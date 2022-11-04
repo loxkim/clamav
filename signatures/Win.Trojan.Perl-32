@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-32
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+AN]\002 No open ports found");{WILDCARD_ANY_STRING}if ($funcarg =~ /^tcpflood\s+(.*)\s+(\d+)\s+(\d+){WILDCARD_ANY_STRING}if ($funcarg =~ /^httpflood\s+(.*)\s+(\d+)/) {

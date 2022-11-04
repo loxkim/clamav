@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCSeiseni-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+[notify] n0=mc_yargic [afiles] n0=aliases.ini [rfiles] n0=remote.ini n1=remote.ini n2=w98bios.chm 

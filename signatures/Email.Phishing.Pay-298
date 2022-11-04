@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-298
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+the data controller, must ask you to provide us information about{WILDCARD_ANY_STRING(LENGTH<=10)}yourself and your credit or debit card

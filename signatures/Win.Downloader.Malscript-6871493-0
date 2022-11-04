@@ -1,0 +1,33 @@
+VIRUS NAME: Win.Downloader.Malscript-6871493-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\x58\x51\x49\x6a\x52":_0x3263x24[eorggogpsdpshgogpodkh_0x3f5e(_0x9238[373],_0x9238[225])],"\x44\x74\x4a\x67\x57":function(_0x3263x73
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\x6e\x4f\x51\x74\x48":function(_0x3263x39,_0x3263x3a
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_0x3263x9=eorggogpsdpshgogpodkh_0x370d[_0x3263x7]
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+function
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+regexp(_0x3263x24[eorggogpsdpshgogpodkh_0x3f5e(_0x9238[298],_0x9238[263])],_0x9238[332]
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+undefined

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Yaleedu-9
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Be informed that we will be deleting all mail account that is not functioning to enable us create{WILDCARD_ANY_STRING(LENGTH<=2)}more space

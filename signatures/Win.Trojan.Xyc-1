@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Xyc-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for %%r in (*.bas ..\*.bas{WILDCARD_ANY_STRING(LENGTH<=17)}do copy c:\xyc.bas %%r

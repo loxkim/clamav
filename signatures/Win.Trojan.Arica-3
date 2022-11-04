@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Arica-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for o = 1 To d.AddressEntries.Count{WILDCARD_ANY_STRING}e.Attachments.Add ("a.vbs")

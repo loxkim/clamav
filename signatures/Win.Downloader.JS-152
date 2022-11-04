@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-152
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+createobject("s"+"h"+"e"+"l"+"l."+"a"+"p"+"p"+"li"+"ca"+""+"ti"+"on",""){WILDCARD_ANY_STRING(LENGTH<=150)}newactivexobject("mi"+"cr"+"o

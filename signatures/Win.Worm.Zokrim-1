@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Zokrim-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+@echo off
+md\progra~1\mil
+copy /y *.bat C:\progra~1\mil
+ren C:\progra~1\mil\*.bat xina.bat

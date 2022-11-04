@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Zulu-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ne(A("!!D!<!@/CthmeQ`ui)@/FduRqdbh`mGnmeds)1(-!C)""FGJN""(("))
+  F.WriteLine(A("DmrdHg!E!<!2!Uido"))
+  F.Wri

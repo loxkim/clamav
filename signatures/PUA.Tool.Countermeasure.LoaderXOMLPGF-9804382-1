@@ -1,0 +1,47 @@
+VIRUS NAME: PUA.Tool.Countermeasure.LoaderXOMLPGF-9804382-1
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<sequentialworkflowactivity x:class=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<codeactivity x:name=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<x:code>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<![cdata[
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+system.convert.frombase64string(
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+system.text.encoding.ascii.getbytes(
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1&2&3&4&5
+     +-> REGEX: system\.string (\w{1,64})[\x09\x20]{0,32}=[\x09\x20]{0,32}\w{1,64}\.tostring\(\)\x3b[\x09\x20]{0,32}byte\[\] \w{1,64}[\x09\x20]{0,32}=[\x09\x20]{0,32}system\.convert\.frombase64string\(\1\)
+     +-> CFLAGS: (null)
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 6
+     +-> REGEX: system\.string (\w{1,64})[\x09\x20]{0,32}=[\x09\x20]{0,32}[\x22\x27]\w{1,128}[\x22\x27]\x3b[\x09\x20]{0,32}byte\[\] (\w{1,64})[\x09\x20]{0,32}=[\x09\x20]{0,32}system\.text\.encoding\.ascii\.getbytes\(\1\)\x3b[\x09\x20]{0,32}for[\x09\x20]{0,32}\([\x09\x20]{0,32}int \w{1,64}[\x09\x20]{0,32}=[\x09\x20]{0,32}[\x09\x20]{0,32}0\x3b[\x09\x20]{0,32}\w{1,64}[\x09\x20]{0,32}<[\x09\x20]{0,32}(\w{1,64})\.length[\x09\x20]{0,32}\x3b[\x09\x20]{0,32}\w{1,64}\+\+[\x09\x20]{0,32}\)[\x09\x20]{0,32}\3\[\w{1,64}\][\x09\x20]{0,32}=[\x09\x20]{0,32}\(\(byte\)\(\3\[\w{1,64}\][\x09\x20]{0,32}\^[\x09\x20]{0,32}\2\[\(\w{1,64}[\x09\x20]{0,32}%[\x09\x20]{0,32}\2\.length\)\]\)\)
+     +-> CFLAGS: (null)

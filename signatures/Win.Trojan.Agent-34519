@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-34519
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ipting.fil"+"esystemobject")str=wsh.regread("hkey_current_user\software\microsoft\windows\currentversion\explorer\shellfolders\cache")settempfolder=objg_fso.get

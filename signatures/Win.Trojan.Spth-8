@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Spth-8
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for %%v in (*.bat) do copy %%v+vvw.bat %%v

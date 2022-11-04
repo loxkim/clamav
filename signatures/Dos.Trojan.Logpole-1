@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Logpole-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+oft\Windows\CurrentVersion\Run" /v RMDir /t REG_SZ /d "%systemroot%\pole64.bat" /f

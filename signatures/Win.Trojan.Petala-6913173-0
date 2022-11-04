@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Petala-6913173-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HKEY_USERS\S-1-5-21-484763869-746137067-854245398-1003\Software\Microsoft\Windows NT\CurrentVersion\Windows\Run
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Documents And Settings\All Users\Menu Iniciar\Programas\Inicializar\wd.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\Documents and Settings\All Users\Menu Iniciar\desktop.ini
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+command.com /c ping -n 100 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Melhore o desempenho de seu computador executando periodicamente o SCANDISK e o DESFRAGMENTADOR DE DISCO.

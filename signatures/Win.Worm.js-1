@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.js-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+var FSO=WScript.CreateObject(unescape{WILDCARD_ANY_STRING(LENGTH>=300&&<=500)}FSO.OpenTextFile(WScript.ScriptFullName{WILDCARD_ANY_STRING(LENGTH>=500&&<=550)}FSO.GetExtensionName(jsphile.item()).toUpperCase()

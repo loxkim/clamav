@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-103
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear ebay member:{WILDCARD_ANY_STRING(LENGTH<=450)}ler. if the situation isn't resolved within 7 days of this reminder, you may receive an unpaid item strike under ebay's <a

@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Trojan.C99-22
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: (0&1&2)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eval(gzinflate(base64_decode(
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7p15w+m60jia/j/pm9/bnwfowxcyebam4rxngwb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fx77drhmdbiaxnuwtwdwx5//gw==

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Swlab-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.MacroCopy MacName$, "Global:Skammy", 1{WILDCARD_ANY_STRING}WordBasic.Call "asdasdadad"

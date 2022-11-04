@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.PhPen-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$tb->tdbody('当前文件: '.$tb->makeinput('editfilename',$filename).' 输入新文件名则建立新文件');

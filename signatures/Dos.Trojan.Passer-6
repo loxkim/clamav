@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Passer-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+t errorlevel 1 goto Administrator-!@#$%^{WILDCARD_ANY_STRING}eur -p "Administrateur" -s -c -f -d se2win32.exe

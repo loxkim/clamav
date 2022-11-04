@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.SprHide-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+UCase(Environ("VIRUSCOMMENT")) = "YES" Then WordBasic.MsgBox "Src: " + from$ + Chr(13) + Chr(10) + "Dst: " + to_$

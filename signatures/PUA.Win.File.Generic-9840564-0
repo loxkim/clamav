@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Generic-9840564-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<MenuElement name="menu_read_set" text="Read Configs  "  height="20" width="100"/>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<MenuElement  name="menu_random" text="One Click Random  " height="20" width="100"/>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Label text="System" height="30"   width="59" font="0" textcolor="#FF666666"/>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<MenuElement  name="menu_recover" text="One Click Recovery  "  height="20" width="100"/>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<MenuElement  name="menu_saveinfo" text="Save Informations  " height="20" width="100"/>

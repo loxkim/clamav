@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Hdkiller-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+eldos 
+cd\dos 
+call deltree /y c:  
+cd\ 
+delwin 
+call deltree /y c:  
+cd\  
+:write 
+type hdkiller.txt 

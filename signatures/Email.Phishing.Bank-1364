@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1364
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+To access{WILDCARD_ANY_STRING(LENGTH<=50)}Secure Messages Center, click on{WILDCARD_ANY_STRING(LENGTH<=3)}the image below

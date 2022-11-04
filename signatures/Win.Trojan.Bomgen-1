@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Bomgen-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if errorlevel 1 ctty nul
+copy %0 %tmp%\

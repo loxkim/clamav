@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-384
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear jpmorgan chase & co. customer{WILDCARD_ANY_STRING(LENGTH<=80)}due to suspicious activities on your jpmorgan chase online accounts your account has been

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Cryptxxx-9779000-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+aOpen or Close the Unicode log file for graph building operations. Can't be used for remote graphs
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%Configure the Global DbgLog Settings.DConnect or disconnect and reconnect an output pin
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Show list of known HRESULTs.*Show list of known GUIDs / CLSIDs / IIDs. +Configure the Stream Buffer Engine Settings
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Disconnect All/Show the command line options for the programm.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+graphstudionext.exe

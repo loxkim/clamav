@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Passbox-4
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+TextBox1.PasswordChar = "*"{WILDCARD_ANY_STRING}Label2.Caption = "Insira a senha para abrir o arquivo"

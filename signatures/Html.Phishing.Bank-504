@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-504
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we've upgraded our new ssl servers to serve our customers for a better and{WILDCARD_ANY_STRING(LENGTH>=1&&<=5)}secure banking service

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-575
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+as part of our continuing commitment to protect your account{WILDCARD_ANY_STRING(LENGTH<=100)}advice to update your account records with us , once you update your acc

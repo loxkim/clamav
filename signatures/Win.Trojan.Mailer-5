@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Mailer-5
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+foreach ($file as $mail) { sleep(0); list($usec, $sec)=explode(" ", microtime()); srand((int)($usec*10)); $assunto=$assuntos[rand(0,9)]; list($usec, $sec)=explode(" ", microtime()); srand((int)($usec*10)); $remetente=$remetentes[rand(0,24)]; $headers="mime-version: 1.0\r\n"; $headers .="content-type: text/html; charset=iso-8859-1\n"; $headers .="from: $remetente\n"; //$headers .="cc: $remetente\n"; //$headers .="bcc: $remetente\n"; list($usec, $sec)=explode(" ", microtime()); srand((int)($usec*10)); $mensagem=stripslashes($htmls[rand(0,1)]); $mensagem2=str_replace("%codigo%", rand(500,9999), $mensagem); $mensagem2=str_replace("%dominio%", $dominios[rand(0,9)], $mensagem2); $mensagem2=str_replace("%inicio%", $inicios[rand(0,4)], $mensagem2); if(mail($mail, $assunto, $mensagem2, $headers ))

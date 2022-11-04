@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Eggdrop-16
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+>> $1 echo "set my-hostname "\"$4\" >> $1 echo "set my-ip "\"$4\" >> $1 echo "set basechan "\"\#$5\" >> $1 echo "set owner "\"$6\" >> $1 echo " config file : "$1"" cat $1 echo "set userfile "\"$2.usr\" >> $1 echo "set chanfile "\"$2.chn\" >> $1 echo "set a

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Scano-38
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+"setfso=createobject("scr"+"ipting.fil"+"esyste"+"mobj"+"ect")

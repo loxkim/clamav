@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Quasar-9886149-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Are you mixing protobuf-net and protobuf-csharp-port? See http://stackoverflow.com/q/11564914; type: 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT CommandLine FROM Win32_Process WHERE ProcessId = 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%USERPROFILE%\AppData\Local\Temp\Remove.bat
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Collections.Generic.IEnumerable<NoiseMe.Drags.App.Models.JSON.JsonValue>.GetEnumerator
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Collections.Generic.IEnumerator<NoiseMe.Drags.App.Models.JSON.JsonValue>.get_Current

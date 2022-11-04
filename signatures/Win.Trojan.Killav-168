@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Killav-168
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+kkill /F /IM Zapro.exe
+taskkill /F /IM Zonealarm.exe
+taskkill /F /IM Zatutor.exe
+taskkill /F /IM Minilog.exe
+taskkill /F /IM Vsmon.exe

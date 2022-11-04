@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-113
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+o set msg=@echo This is the SECOND .SYS-maleware, created by DVL, Project EmiliA >> c:\config.sys

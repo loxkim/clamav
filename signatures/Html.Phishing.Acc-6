@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Acc-6
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+this is your official notificatio{WILDCARD_ANY_STRING(LENGTH<=50)}hat the service(s) listed below{WILDCARD_ANY_STRING(LENGTH<=35)}ill be deactivated and deleted if not renew{WILDCARD_ANY_STRING(LENGTH<=2)} immediate

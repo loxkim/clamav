@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-38
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Set infect = NormalTemplate.VBProject.VBComponents{WILDCARD_ANY_STRING}infect.Item(1).codemodule.AddFromFile ("c:\{WILDCARD_ANY_STRING}.deletelines 1

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Generickdz-9773856-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+evaDfLuPR.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$uikVZySDUol@VCCustomProtocolHandler@@$1?CLSID_CustomProtocolHandler@@3U_GUID@@B@mOj@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$VSqWvanJCCOHUeSharedRef@VSnENcgZh@@@qFYbXEikKDumdg@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$uikVZySDUol@VlBViHWXminvtz@@$1?CLSID_lBViHWXminvtz@@3U_GUID@@B@mOj@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$nEHXSXAqJXuTClZAFk@$0A@$1?DIID_DWebBrowserEvents2@@3U_GUID@@B@mOj@@

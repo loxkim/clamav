@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Agent-36862
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+u62a955=1025;else if(u62a955==184)u62a955=1105;return (u62a955>=192 && u62a955<256) ? u62a955+848 : u62a955;}function h522b8(ha97c4f07){return (ha97c4f07+'')["\x63h\x61rcod\x65\x41t"](0);}

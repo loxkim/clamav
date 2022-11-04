@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1517
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Hay un error en sus datos de usuario (direccion de correo electronico, datos relativos a la direccion, a la cuenta bancaria o a la tarjeta de{WILDCARD_ANY_STRING(LENGTH<=208)}Para reactivar su cuenta, por favor haga click aqui

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-160
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+paypal{WILDCARD_ANY_STRING}ignoring this message will cause losing the account

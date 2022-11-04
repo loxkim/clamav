@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.CoolNote-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+keCopy.Copy(dirsystem&"\Prinz_Charles_Are_Die.TXT.vbs")
+FileLoc = dirsystem&"\Prinz_Charles.Are.Die.TXT.vbs"

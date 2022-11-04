@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-9889409-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+server=127.0.0.1; user id=Alias; password=AliasPassw0rd; database=mcollect; pooling=false; port=3306;ConnectionTimeout=3
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Welcome to Mobile Teller Management System. Please Login to Continue.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT  DISTINCT(NAME) AS `UserName`, id AS `UserID` FROM users WHERE institution_id =  
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mPortal.frmLogin.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+get_frmLogin

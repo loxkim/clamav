@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Pakes-9852545-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&((=10,5.$1:0$8+ ,43//052./"6%8?[[^GRJVTNBQ_JDDVEDX[RXM\DPLEL@XF{{dynrsabqlrwwrsf~b{r~m{~pp{ihtp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6.21".=-.  -98$%6<):(< ,($<&''8.JVWNN]@PSSV^ZB^LVZIiR\\bMLPgZPEb|htEtx`FsslOfz{JzitJoojKnvj^zve^
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6.23".=2.  -98$$6<)=(< .($<)''8*JVWIN]@kSSVfZB^zVZIbR\\pMLPwZPEr|htPtx`-ssl'fz{3zit0ooj,nvj0zve?
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*676.= *336":">26:))2<< -,0#:0%%\HTLTX@MSSLCFZ[[ZIT_OOJ\NVJDZVEGfhhvqpl}ndqspdxc`lt{oop}rnojwexv
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*670.= -336*:">:6:) 2<<*-,0(:0%)\HTATX@CSSLRFZ[KZITLOOJJNVJPZVE]fhhnqplbndqQpdxC`lt]oopVrnoEvex\

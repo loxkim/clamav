@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-111
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+n002=document.createtextnode("harcode");if(math.exp(1)===math.e){n000=string["fromc"+n002.nodevalue];}eval(n000(

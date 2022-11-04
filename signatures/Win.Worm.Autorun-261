@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-261
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+open=driver_setup.exe{WILDCARD_ANY_STRING(LENGTH<=15)}driver_setup.exe

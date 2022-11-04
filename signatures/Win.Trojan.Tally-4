@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Tally-4
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for %%a in (*.bat ..\*.bat) do set tally=%%a

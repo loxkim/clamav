@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-50
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$sockname USER $r(a,z) $+ $r(a,z) $+ $r(a,z) $+ $r(a,z) $+ $r(a,{WILDCARD_ANY_STRING}KEYLOGGER

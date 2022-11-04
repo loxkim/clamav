@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-35
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+x.Open("GET", "http://eehbarc.com/partner/inst/f96676.exe",0); 

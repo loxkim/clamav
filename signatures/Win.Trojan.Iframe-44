@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Iframe-44
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<iframe src="game-e{WILDCARD_ANY_STRING(LENGTH<=51)}%20-_files/index_004.html

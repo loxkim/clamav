@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6611589-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ControlBasc.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Provider = Microsoft.Jet.OLEDB.4.0;Data Source = datos.mdb;Persist Security Info=False
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+scula, Modulo de Tara, Modulo de Salidas, Genera Hojas Excel de todo y por Productos, Introducion del N
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+No se puede efectuar la Entrada ni Salida de este Producto a Dep
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+No se puede efectuar la Entrada ni Salida de este Producto a Planta

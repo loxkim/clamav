@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Pica-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If (flashdrive.drivetype=1 or flashdrive.drivetype=2) and flashd{WILDCARD_ANY_STRING}.dll.vbs"){WILDCARD_ANY_STRING}createtextfile(flashdrive.path &"\autorun.inf"

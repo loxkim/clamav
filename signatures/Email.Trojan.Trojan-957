@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-957
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+One of your friends wants to share photos and updates{WILDCARD_ANY_STRING(LENGTH>=11060&&<=11070)}Content-Type: application/zip; name="Your_Friend_New_photos-updates_id

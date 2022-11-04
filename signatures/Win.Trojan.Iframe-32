@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Iframe-32
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+>document.write('<iframesrc="http://{WILDCARD_ANY_STRING(LENGTH<=100)}style="display:none"></iframe>')

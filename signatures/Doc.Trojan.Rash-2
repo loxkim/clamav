@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Rash-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nam = nam + Mid(Nabor, Int(kk), 1){WILDCARD_ANY_STRING}Print #1,  'Приятной работы'

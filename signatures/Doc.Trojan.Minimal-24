@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Minimal-24
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.FileSaveAs Format:=1: WordBasic.MacroCopy "AutoClose", WordBasic.[FileName$]() + ":AutoOpen"

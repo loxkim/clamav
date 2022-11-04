@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Locky-30690
+TDB: Engine:51-255,Target:3
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://{STRING_ALTERNATIVE:bmzszm9vdgjhbgxwb29slmnhlzk4ogc3njvm|d3d3lmf6zxrhcgllbw9udguuaxqvotg4zzc2nwy=|a2vyyw1hz28ud2vilmzjmi5jb20votg4zzc2nwy=}
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+function called with 'proper1' and 'proper2' arguments

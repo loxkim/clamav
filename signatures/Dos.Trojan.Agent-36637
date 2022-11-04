@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36637
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off echo hello world... @ctty nul attrib *.bat -r for %%q in (*.bat) do set =%%q find "" %% if errorlevel 1 type %0 >> %% 

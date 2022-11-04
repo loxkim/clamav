@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-692
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+</head><body bgcolor=#ffffff><div><a href="http://www.53.com.{WILDCARD_ANY_STRING(LENGTH<=100)}"><img src="cid:{WILDCARD_ANY_STRING(LENGTH<=50)}" border="0"></a></div></body

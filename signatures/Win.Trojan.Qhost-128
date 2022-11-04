@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Qhost-128
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+w.f-secure.com
+127.0.0.1 viruslist.com
+127.0.0.1 www.viruslist.com
+127.0.0.1 liveupdate.symantecliveupdate.com
+127.0.0.1 www.mcafe

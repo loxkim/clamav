@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Caloner-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@ver|find "XP"|if errorlevel 1 {WILDCARD_ANY_STRING}@ver|date>>sex.ba

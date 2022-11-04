@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6825105-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ partir du processus $%x, qui n'est PAS le processus principal
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Le sous-menu n'est pas un menu'Pas assez de temporisateurs disponibles'L'imprimante n'imprime pas actuellement
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ comparer.cLe nom du fichier source est identique au fichier cible, choisissez des noms de fichiers diff
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ ouverte en lecture seule3%s ne supporte pas %s comme emplacement de stockage\Une cha
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+UTF7 invalidebIncapable de retirer un pointeur vers un objet en cours d'execution enregistr

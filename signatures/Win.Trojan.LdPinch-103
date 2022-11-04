@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.LdPinch-103
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Subject: Passes from %s
+Content-Type: application/octet-stream; name=report.bin
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; f

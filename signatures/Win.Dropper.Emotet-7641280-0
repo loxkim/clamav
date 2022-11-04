@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Emotet-7641280-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\User\Desktop\VC++ 6\24.3.20\XBitArray_demo\Release\XBitArrayTest.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mailto:hdietrich2@hotmail.com
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+hdietrich2@hotmail.com
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+XBitArrayTest.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xJR4coEJ/Rl4bWYm+ab19ae/2IyyouTUYfp0vAU3NxheWJihvt3K4vzu74Ym1OSagNIZ3eK/2vbJ5jdwJ3I+xl0zMhDUoeEjTYzX+L0U5XAA

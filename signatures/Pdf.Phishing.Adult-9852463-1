@@ -1,0 +1,18 @@
+VIRUS NAME: Pdf.Phishing.Adult-9852463-1
+TDB: Engine:81-255,Container:CL_TYPE_PDF,Target:3
+LOGICAL EXPRESSION: 0|1|2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+my phone says you're 40 yard far from me!
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+you can meet singles girl{WILDCARD_ANY_STRING(LENGTH<=5)} in your area
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+live{WILDCARD_ANY_STRING(LENGTH<=25)}sex{WILDCARD_ANY_STRING(LENGTH<=25)}cams

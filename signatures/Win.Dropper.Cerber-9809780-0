@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Cerber-9809780-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<PROMPTUSER id="350DF4CD-9591-4BE9-B96F-493F22C397B1" promptquestion="PostUninstallNotify" executioncontext="Elevated" c
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<DUMMY id="719EF9B2-FC1D-472D-8A60-F5F1F091D8BA" executioncontext="System" events="LOGON"/>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\Visual Studio Projects\Encrypt\Debug\testfile.bin
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<!-- Specifying requestedExecutionLevel node will disable file and registry virtualization -->
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<CONFIGURE id="E25A6AFC-9880-4760-9008-4438EBF206B0" executioncontext="System" splashscreen="5" configureappv="True" />

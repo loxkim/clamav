@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.JScr-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ript"><!--
+    Mu="u2982.02.spylog.com";Md=document;Mnv=navigator;Mp=0;
+    Md.cookie="b=b";Mc=0;if(Md.cookie)

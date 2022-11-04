@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Lucky-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n 1:TEXT:*virus*:#:/msg $chan I am infected with [LK-7]..By

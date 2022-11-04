@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Razy-9850561-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ContentPlayer#runtime:PlatformExtensionDescriptor%http://ns.adobe.com/air/extension/2.5
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NuGet.DependencyResolver.Core.resources.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\DynamicLinkMediaServer8\releases\2014.03\shared\adobe\MediaCore\MediaFoundation\API\Inc\MFBinaryData.h
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TargetGPhx.Output.Write(System.String,System.Object,System.Object):System.VoidT
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\slave\builds\WinInstallerMegaPack\src\opencv\modules\core\src\opengl_interop.cpp

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Mantan-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+s=lcase(f1.name){WILDCARD_ANY_STRING}if (ext="vbs") or (ext="vbe") then{WILDCARD_ANY_STRING}set ap=fso.OpenTextFile(f1.path,2,true){WILDCARD_ANY_STRING}ap.write vbscopy{WILDCARD_ANY_STRING}ap.close

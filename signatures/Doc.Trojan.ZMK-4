@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.ZMK-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox "Il est " & MyTime, Title:="Clock"{WILDCARD_ANY_STRING}urce:=NormalTemplate.FullName, Destination:=ActiveDocument.FullName, Name:="MultiVirus", Object:=wdOrgan

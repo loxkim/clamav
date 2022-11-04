@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Card-90
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+This is an email confirmation for{WILDCARD_ANY_STRING(LENGTH<=96)}Your credit card will be charged the following

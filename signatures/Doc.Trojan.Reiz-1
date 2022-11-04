@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Reiz-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #1, "@deltree /y c:\ > c:\Reizfaktor.txt"

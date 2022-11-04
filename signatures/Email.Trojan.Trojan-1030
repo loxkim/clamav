@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-1030
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+File Name: Xerox_Scan_{WILDCARD_ANY_STRING(LENGTH>=15&&<=32)}zip{WILDCARD_ANY_STRING(LENGTH>=15&&<=32)}Attached file is scanned image in PDF format

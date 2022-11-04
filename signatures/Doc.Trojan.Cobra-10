@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Cobra-10
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+For Each MC In NormalTemplate.VBPr{WILDCARD_ANY_STRING}If MC.Name <> "ThisDocument" And MC.Name <> "{WILDCARD_ANY_STRING}zerDelete Source:=NormalTemplate.FullName, Name:=MC.Name, Obj

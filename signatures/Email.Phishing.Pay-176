@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-176
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+If you did not authorize this change or if you need assistance with{WILDCARD_ANY_STRING(LENGTH<=10)}your account, please visit PayPal customer service at:{WILDCARD_ANY_STRING(LENGTH<=15)}http:

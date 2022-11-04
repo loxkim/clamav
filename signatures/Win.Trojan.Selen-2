@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Selen-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ul
+for %%s in (*.bat ..\*.bat) do set selen=%%s
+:Вот я уже и у тебя...
+for %%t in (%selen%) do find "se

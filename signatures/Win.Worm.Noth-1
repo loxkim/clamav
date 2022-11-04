@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Noth-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+file.Close
+
+sh.RegWrite "HKEY_CLASSES_ROOT\.bll\", "VBSFile"
+sh.RegWrite "HKEY_CURRENT_USER\Software\Microsoft\Wi

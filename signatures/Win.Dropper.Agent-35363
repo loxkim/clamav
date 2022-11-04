@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Dropper.Agent-35363
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+copy of the original complaint.\par
+\par
+{\object\objemb{\*\objclass Package}\objw2355\objh765{\*\objdata 
+01050000
+02000000
+08000000
+5061636b616765

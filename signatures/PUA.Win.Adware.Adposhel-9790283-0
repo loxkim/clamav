@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Adposhel-9790283-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dbj_dbeidm_.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+operator co_await
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+std@@V?$allocator@D@2@@std@@PAX@std@@@2@$0A@@std@@@std@@QAE@$$QAV01@@Z
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+??0?$_Hash@V?$_Umap_traits@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAXV?$_Uhash_compare@V?$basic_string@DU
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+std@@V?$allocator@D@2@@std@@PAX@std@@@2@$0A@@std@@@std@@QAE@ABV?$_Uhash_compare@V?$basic_string@DU?$char_traits@D@std@@V?$alloca

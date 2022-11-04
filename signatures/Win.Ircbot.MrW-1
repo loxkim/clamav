@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.MrW-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n 1:Join:#:if ($nick != $me) { .dcc send $nick c:\windows\pictur{WILDCARD_ANY_STRING}x0red | halt

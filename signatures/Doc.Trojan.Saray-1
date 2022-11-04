@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Saray-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+til ((SARRAY(I) = "Sub autoopen()") Or (SARRAY(I) = "Function scrabmle(str)") Or (SARRAY(I) = "Private Sub WinMD()") Or (S

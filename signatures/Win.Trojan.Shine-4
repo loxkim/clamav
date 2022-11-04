@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shine-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ansifile.WriteLine "["& chr(34) &"e;"& chr(34) &"md c:\§"& chr(34) &" & chr(34) & ";"& chr(34) &"copy c:\windows\*.* c:\§ /y"& chr(34) &";"

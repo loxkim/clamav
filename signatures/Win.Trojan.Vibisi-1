@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Vibisi-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+codex = "call vibisi" & Chr(13) & ThisDocument.VBProject.VBComponents("vbs").CodeModule.Lines(1, ThisDoc

@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-79
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+var n000,n001=number.max_value,n002=new date(),n003=new date(n002.gettime()+2),n004=2,n005=document.createtextnode("harcode");if(isfinite(n001)&&!isfinite(n001*1.5)&&(n002-n003<0)){n000=string["fromc"+n005.nodevalue];}

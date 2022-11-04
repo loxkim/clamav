@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.PifWorm-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+indows\system\movie.avi.pif /Y
+copy mirc.bat "C:\windows\Start Menu\Programs\StartUp\win.com.bat" /Y
+copy 

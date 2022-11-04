@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.TrickBot-9895164-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+JiBwNIWuq8G.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+A*\AC:\GIQsUj.vbp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OOUD^_@sx$Z]uJ.myZ|_]PpLa@v|NobYlx`l}`vUFpvn}ivkZW
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+arLJRA]B_n{!]XvG!`z_{Z^mOqbEqyMbmTo}gi~}iHEuqk~dyfYR
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E_BXEZmf>@[s@$cwPvY[jJr_zLzHehWbrjj{zlKXjlh{c|eT]

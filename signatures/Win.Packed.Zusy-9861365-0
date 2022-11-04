@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zusy-9861365-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\Cell\264\drink-Stick\182\organ.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+organ.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+          <phrase replaceWith="mshelp://windows/?id=634407e7-a5da-4c4d-80aa-b4bb5d257538#altnav_speech_recognition_prog
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+    <para replaceWith="mshelp://windows/?id=0a4626f7-b6a1-4c31-8e0c-ee57c13ea6eb#help_file_disclaimer">
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  <content>

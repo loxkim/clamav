@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Clicker-67
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+('dir /s/b/a-d %%a:\*.htm') do (echo ^<iframe src=""

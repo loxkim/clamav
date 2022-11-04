@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36407
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off @qprocess *>procese.txt @echo>>procese.txt 4,1 (x) 1,4 am terminat!... @exit 

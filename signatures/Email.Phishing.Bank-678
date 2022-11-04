@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-678
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+We've upgraded our new SSL servers to serve our custom{WILDCARD_ANY_STRING}Due to this recent upgrade, you are requested to update your{WILDCARD_ANY_STRING(LENGTH<=35)}banking informat

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sylko-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+UCase(Target.VBProject.VBComponents.Item(1).CodeModule.Lines(Y, 1)) = "PRIVATE SUB HOOKWORM()" Then GoTo Finish

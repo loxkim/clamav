@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7370411-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0‹10
+	’&‰“ò,d
+FKGYXLBP3C1402U+iPhone Developer: Zeng Linpang (WJCRBY7488)10U
+UWUGZUFA2910U
+Zeng Linpang10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0190306024025Z200305024025Z

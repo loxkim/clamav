@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-258
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+paypal.gif" width="6{WILDCARD_ANY_STRING(LENGTH==2)}" height="{WILDCARD_ANY_STRING(LENGTH==3)}" border="0" usemap="#indi"><map name="indi"><area shape="rect" coords="{WILDCARD_ANY_STRING(LENGTH>=8&&<=16)}" href="http://

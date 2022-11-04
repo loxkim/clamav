@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zusy-9822511-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+This "Portable Network Graphics" image is not supported because either it's width or height exceeds the maximum size, 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Operation already in progress.[Could not decompress the image because it contains invalid compressed data.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\ProgramData\Avast Software\Avast\aswResp.dat
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Setting bit transparency color is not allowed for png images containing alpha value for each pixel (COLOR_RGBALPHA and C
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ShiftChannel %d, %d, %d, %d-AdjustBrightnessContrastSaturation %d, %d, %d

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Bulbasaur-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ject= "Rv: New Stuff 4You!"
+msg.body = "> Check this new funny game!"+vbcrlf+"> It's just great!" +vbcrlf +"

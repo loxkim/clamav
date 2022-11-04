@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Psyme-17
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ddd = shell.specialfolders("fonts") + "\" + "web.exe"

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-550
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+an access attempt into your online banking account from ip adress{WILDCARD_ANY_STRING(LENGTH<=150)}issued this alert because this ip adress which is also in our black

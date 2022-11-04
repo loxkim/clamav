@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zegost-9773344-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Microsoft? is a registered trademark of Microsoft Corporation. Windows(TM) is a trademark of Microsoft Corporation
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+qvwtujkhinolmbc`afgdeZle*7&-,A*! kji;#76?,='5-813,zy(UOS[JLRT][NXBEG
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FWCGCGOGCG'&FWCGBGWGOG'&FWCGAGgGgG'&FWCGCGWGWGW FWOGWGgGgGW FWOGWG
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+((e*,,"/!:$">++$2)0,07!$613|{zy1KJ@CBN^IA]Y^^I]AXX
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FTB^G\BF_VB@G^BFARB&GZBF'WBCG_BFDSBvG[BFwUBJG]BFKQB

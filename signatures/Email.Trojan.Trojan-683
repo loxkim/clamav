@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Trojan.Trojan-683
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+ Cu stima,{WILDCARD_ANY_STRING(LENGTH<=360)}If you think experts are expensive, wait until you see what =
+amateurs cost you

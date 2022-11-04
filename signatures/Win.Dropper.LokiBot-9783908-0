@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-9783908-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+^C:\Windows\system32\wmp.oca
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\SysWOW64\msvbvm60.dll\3
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Stuped.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+845;302??=?<8>=<("!&, !//,.#+)+(TRQP\VURP\]S[XZWGEGD@FED@JINDHIGwtv{sqsp|zyxt~}zhdekc`boomolhnml
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bZRbZRe]TjbZph`tleqidnf_nf_rjdtleumgumhtmhqlhoihpghphhphhphhphhphhphhphephbog_me\ld\me]kc[c[SaYQ

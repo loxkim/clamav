@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Pirpi-6964499-0
+TDB: Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+# **** Enter LocalShell *******
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E* ListenCheckBasic fd(%d)Isreadable Timeout

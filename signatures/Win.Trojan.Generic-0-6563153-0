@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-0-6563153-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+MSDE\Setup.exe /upgradesp SQLRUN INSTANCENAME=MSSQLSERVER SECURITYMODE=SQL UPGRADEUSER=sa UPGRADEPWD=p4sa2odb UPGRADE=1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\Program Files\Microsoft SQL Server\MSSQL\Binn\sqlmaint.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+e:\Program Files\Microsoft SQL Server\MSSQL\Binn\sqlservr.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\Program Files\Microsoft SQL Server\MSSQL\Binn\sqlservr.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+e:\Program Files\Microsoft SQL Server\MSSQL\Binn\sqlmaint.exe

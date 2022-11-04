@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-31
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+gsGalias isockopen { sockclose is | sockopen i

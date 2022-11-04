@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Casanos-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+vbhidecreateobject("wscript.shell").run"taskkill/f/imamon.exe",vbhidecreateobject("wscript.shell").run"taskkill/f

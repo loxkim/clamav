@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.VBat-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+t vir=
+cls%vir%
+ctty nul.vir
+goto vir_999
+:vir_dos
+find "vir"<%0>>%virwin%
+:vir_999
+["a";"The VBAT vir

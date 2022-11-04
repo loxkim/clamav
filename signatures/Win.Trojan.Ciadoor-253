@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Ciadoor-253
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Zombie_GetTypeInfoÿÿÿÿEVENT_SINK2_ReleaseÿÿÿEVENT_SINK_AddRefÿÿÿDllFunctionCallÿÿÿZombie_GetTypeInfoCountÿÿÿEVENT_SINK_ReleaseÿÿÿÿEVEN

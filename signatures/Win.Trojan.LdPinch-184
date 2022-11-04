@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.LdPinch-184
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+OutpostMainWindowClass{WILDCARD_ANY_STRING(LENGTH==11)}Outpost Firewall Pro{WILDCARD_ANY_STRING(LENGTH==367)}c:\windows\system32

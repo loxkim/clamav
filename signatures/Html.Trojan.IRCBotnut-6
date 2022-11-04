@@ -1,0 +1,7 @@
+VIRUS NAME: Html.Trojan.IRCBotnut-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+copy svhost.exe c:\windows\system32\lsass\svhost.exe
+run mirc.pif
+.timer 1 10

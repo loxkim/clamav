@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Mirage-6592092-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+http://%s/image_download.php?uid=%.5d HTTP/1.1{WILDCARD_ANY_STRING}/result?hl=en&meta=

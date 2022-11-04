@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-51
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if(function_exists('exec')){@exec($cfe,$res);$res=join("\n",$res);}elseif(function_exists("shell_exec")){$res=@shell_exec($cfe);}elseif(function_exists("system")){@ob_start();@syste

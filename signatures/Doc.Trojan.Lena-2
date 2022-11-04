@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Lena-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If NormalTemplate.VBProject.VBComponents(U).Name = "Lena" Then{WILDCARD_ANY_STRING}Lcomputer = SetComputerName("LENA")

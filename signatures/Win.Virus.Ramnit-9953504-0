@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9953504-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Brother Solutions Center5Select the device you wish to use with Control Center$Configure the ControlCenter Settings
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+brcceng.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+View Received`PC-FAX scans documents to your computer and starts the PC-FAX application to send a fax message.!Start the
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SendyChoose from the Scan options Image, OCR, E-mail or File or configure the devices "Scan" key setting and default s
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+_Use the devices PhotoCapture Center to open, print, save or copy images saved on digital media.

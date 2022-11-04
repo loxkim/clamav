@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-1-6601767-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Programmi\File comuni\Microsoft Shared\Dao\DAO360.DLL
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+command.com /c 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FD:\Programmi\Microsoft Visual Studio\VB98\VBA6.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+sum(InPersone) as PersoneIn, sum(InWP) as WPIn, sum(InAltro) as AltroIn from InfoUtilizzo where IDOperatore <> 0
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+'Netsetup.exe',  se  si  ha  la configurazione  'non in rete'  ripetere

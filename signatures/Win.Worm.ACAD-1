@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Worm.ACAD-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+"cmdecho"
+0)
+(princ
+"\nBURST----将图块中的文字炸开后成为实体")
+(setq
+p
+(ssget))
+(setvar

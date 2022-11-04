@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36185
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+on\explorer\advanced\hidefileext", 2, "reg_dword" wshshell.regwrite "hkey_current_user\software\microsoft\windows\currentversion\policies\system\disabletaskmgr", 10, "reg_dword" wscript.quit

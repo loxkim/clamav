@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Snake-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%pl%%at%%hk%%rq% %0 %WINDIR%\%lt%%hh%%mg%%ou%%hh%%rt%~1\%hk%%ou%%at%%wd%%ou%%mg%~1\%mg%%rc%%hh%%at%%lt%%hh%~1\%qv%%lt%%hh%.%da%%mg%%hh%

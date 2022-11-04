@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Verlor-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If NormalTemplate.VBProject.VBComponents.Item("seNse").CodeModule.Lines(7, 1) <> "'MyName = seNse" Then

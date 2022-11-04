@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Mesut-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ = F.OpenTextFile(Wscript.ScriptFullName, 1)
+Self = OpenSelf.Readall

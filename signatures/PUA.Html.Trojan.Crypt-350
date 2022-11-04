@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Html.Trojan.Crypt-350
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.innerhtml.replace("'+'","");for(var n004=0;n004<(n003.length);n004++){n003=n003.replace("'+'","");}eval(

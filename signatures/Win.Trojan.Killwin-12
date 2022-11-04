@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Killwin-12
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+attrib -s -h -r -a c:\ntldr del c:\ntldr

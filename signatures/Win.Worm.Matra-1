@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Matra-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+For mat_Entries = 1 To mat_AddsList.Add

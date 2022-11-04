@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zusy-7548523-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\M\Desktop\stubsrc\BG\Release\BG.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+hl.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3}}}5zzz6vvv8rrr:jjj<fff>eee?ccc@bbbA\\\B[[[CZZZDXXXEXXXEWWWFSSSFSSSFSSSFXXXEXXXEZZZD[[[C\\\BbbbAccc@eee?lll=fff>%)+
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2}}}3}}}5zzz6xxx7vvv8vvv8ttt9mmm:mmm:ppp;ppp;lll;lll;lll;ppp;lll;rrr:ttt9ttt9vvv8xxx7zzz6
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+56:27        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999qQ

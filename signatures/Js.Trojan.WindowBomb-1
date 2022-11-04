@@ -1,0 +1,9 @@
+VIRUS NAME: Js.Trojan.WindowBomb-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+window"+windownumber,"width=1,height=1,resizable=no")
+        windownumber++;
+      }
+}
+

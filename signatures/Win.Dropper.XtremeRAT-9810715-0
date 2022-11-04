@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.XtremeRAT-9810715-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\SysWow64\MSVBVM60.DLL\3
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+StartProcessPipe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+g)D%5$%)$@~)p$~[$D[0$~[$Du~?C$%~6$pHD9C$%)$Ep$p~_AE[@$P?cc_)pR$$i)__$%)$|D[$~[_($|~?[C$C~$N;$$
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+1;a'>;eZ7'@Jd@=';e'&3a'AdJJ['v3FA;eX''h'@-eZ7'K3Jv'[;l<''xJd@='7K3'fd8'8Fd>'7;'vJ-['7K3'8-&3XX
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+BKdA'dA'F3-JJ['f3e3-7K';lF'A=dJJA<''LJJ'3&v7['@3JJA'K->';eJ['/'el&f3F'v;AAdfJ3<''W;JG3><

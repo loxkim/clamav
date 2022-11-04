@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-35
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$pacote=$rand x $rand x $rand{WILDCARD_ANY_STRING}end(Tr0x, 0, $pacote, sockaddr_in($porta, $alvo)) and $pacotese++ if ($pacotes == "1");

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Mikey-9757413-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+documentID="xmp.did:B1E6EDBEB03811E1875ECB41D2F0AC49"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>3
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+documentID="xmp.did:78564F0BDFE311E093FD8AB9CD9356FB"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>#
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+documentID="xmp.did:D8AA8F13B03811E1AD558751B9F17619"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+documentID="xmp.did:88B8E896DFE311E08B02FD2784DD59EA"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT * FROM __InstanceModificationEvent WITHIN 10 WHERE ( TargetInstance ISA 'Win32_LogicalDisk' ) AND ( TargetInstanc

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.Istbar-210
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+{var popwin = null;} if (typeof(poped) == 'undefined') {var poped = false;} if (typeof(paypopupurl) == 'undefined') {var paypopupurl = "http:/

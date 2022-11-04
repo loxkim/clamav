@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Renegy-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+    thisFile = location.p

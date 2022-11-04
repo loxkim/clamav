@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Trojan.PoshCryptolocker-1
+TDB: Engine:55-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[reflection.assembly]::loadwithpartialname('system.security')|out-null $
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[system.text.encoding]::utf8.getstring([system.convert]::frombase64string(
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+new-object system.security.cryptography.rsacryptoserviceprovider(2048)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-recurse -include "*.doc","*.xls","*.docx","*.xlsx","*.mp3","*.waw","*.jpg","*.jpeg","*.txt","*.rtf","*.pdf","*.rar","*.zip","*.psd","*.tif"

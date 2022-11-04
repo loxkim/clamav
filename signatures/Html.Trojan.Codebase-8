@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Codebase-8
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+sid+""codebase=""+objsrc+"""+tagstyle+"></object>";try{objectcontainer.innerhtml=sobject;}catch(e){}}objsrc="c:\\windows\\system32\

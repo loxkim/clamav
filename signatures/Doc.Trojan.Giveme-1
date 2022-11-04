@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Giveme-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Or D4 <> "mp3 and XXX passwords FOR FREE!" Or D5 <> "n2=/send $nick " & Path & "giveme.doc" Or D6 <> "n3=}" Then GoTo Aha

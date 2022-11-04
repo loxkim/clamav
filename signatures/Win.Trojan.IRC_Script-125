@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-125
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+while ($lines($mircdiripcscan.txt) > 0) {{WILDCARD_ANY_STRING(LENGTH<=12)}parsefile $read($mircdiripcscan.txt,1)

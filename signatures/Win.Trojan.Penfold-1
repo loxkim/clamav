@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Penfold-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ q=%%q
+if "%q%==" goto qdone
+copy/b %q% c:\penfold.new
+copy/b c:\p

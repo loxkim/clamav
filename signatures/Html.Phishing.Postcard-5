@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Postcard-5
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+you can pick up your postcard at the following web address:<br><a href="http://{WILDCARD_ANY_STRING(LENGTH<=20)}:8180/

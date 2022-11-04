@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Vgen-120
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+t
+@echo.PKX>install.exe
+@copy/b install.exe+

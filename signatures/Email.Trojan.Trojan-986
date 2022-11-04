@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-986
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Thank you for contacting us, your information arrived today{WILDCARD_ANY_STRING(LENGTH<=16)}Alright, here's the link to the site:

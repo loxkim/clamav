@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Crypt-293
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+{{u|=(v[x.charcodeat(f++)-48])<<b;if(b){q+=string.fromcharcode(190^u&255);u>>=8;b-=2}else{b=6}}}eval(q);}}

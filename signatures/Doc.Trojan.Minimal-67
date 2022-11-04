@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Minimal-67
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+A$ = "Global:AutoOpen"{WILDCARD_ANY_STRING}B$ = WordBasic.[FileName$](){WILDCARD_ANY_STRING}Z$ = B$ + ":AutoOpen"{WILDCARD_ANY_STRING}If A$ = Z$ Then WordBasic.Beep Else WordBasic.MacroCopy A$, Z$

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Ecard-40
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+just sent the ecard{WILDCARD_ANY_STRING(LENGTH<=50)}Just click on the following

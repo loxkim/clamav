@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Koobface-21
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+c:\windows\t55ft%df44.dat{WILDCARD_ANY_STRING}zzzping.com{WILDCARD_ANY_STRING(LENGTH<=1)}/logs.php

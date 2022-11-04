@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-15
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+shell_exec)){$scmd=shell_exec($cmnd); $nscmd=htmlspecialchars($scmd);print $nscmd;} elseif(!function_exists(shell_exec)){exec($cmnd,$ecmd); $ecmd = join("\n",$ecmd);$necmd=htmlspecialchars($ecmd);print $necmd;} elseif(!function_exists(exec)){$pcmd = popen($cmnd,"

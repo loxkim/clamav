@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Generic-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+[script]{WILDCARD_ANY_STRING(LENGTH<=10)}n0=on 1:JOIN:#: if ( $me != $nick ) { /dcc send $nick c:

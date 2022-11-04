@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-285
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+seite zu finden ist. <br><br>die konten, die bis zum <b>{WILDCARD_ANY_STRING(LENGTH>=8&&<=10)}</b>auf unsere formbl&auml;tter nicht eingetragen werden, werde

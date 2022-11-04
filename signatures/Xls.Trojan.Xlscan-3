@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Xlscan-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ents.Import("c:\Windows\System\Xlscan.{WILDCARD_ANY_STRING}fileStringA("Booting_index", "Windows_system", ".False.", "c:\Windows\System\Xlscan.idx")

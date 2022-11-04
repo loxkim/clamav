@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.Scew-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<?php @$output=system($_post["command"]);{WILDCARD_ANY_STRING}or a connect back shell, use: <i>nc -e cm

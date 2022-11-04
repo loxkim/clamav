@@ -1,0 +1,5 @@
+VIRUS NAME: Vbs.Worm.Sola-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+attrib -s -h -r %%i:\autorun.inf&copy /y %setup%\autorun.inf %%i:\autorun.inf&attrib %%i:\autorun.inf +s +h +r&md %%i:\sola&copy /y "%setup%\sola.bat

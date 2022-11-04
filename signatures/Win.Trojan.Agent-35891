@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35891
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+fs.fileexists("C:\WINDOWS\pchealth\Global.exe") Then fs.copyfile ("C:\WINDOWS\Help\microsoft.hlp"), ("C:\WINDOWS\pchealth\Global.exe

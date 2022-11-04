@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Luder-9848829-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" p
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rkaabsepQMC6FLNeYP0e4C4L77uh0ilSbpYE6UoUgET5RHiEbpryq89lPokb04J8aKAOEefVGpCop89dLlgzPA4X7qnDAkdIqwOhZ4KQ7lzQGgbfjjuMGZ
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></reque
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AEUqTNsxG1Tv0M8Fe7BkRHXGHGoj07ini98TWh68P4kPv8DHZmGL7q3ioyioSoyVzJLKn7LN5h4iFdSpiGQL56BIxmyy4cQs6Fbr2wl0fVPXUDohGWwtgaWL6lFW
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MTNqyRFW1HeyyOjTl6e3nWuW7JsTQgQ0pnWEyYrXnooNW4FzyYZ9mFsM94q9RFMMffDxyJWNrBQs096BINpLzvLWwOP6f5yCnqeQqHsTq7mzursQ8

@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.U-81
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+losedir(DIR);
+## Perl Virus Ends Now##
+
+
+
+## For testing...
+##print "Content-type: text/html\n\n"; 	##so web browsers see it
+

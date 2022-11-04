@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shutdown-11
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+%homedrive%\windows\y.reg reg import %homedrive%\windows\y.reg echo erase /q /s "%homedrive%\documents and settings\%username%

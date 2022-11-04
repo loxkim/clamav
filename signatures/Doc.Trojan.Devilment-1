@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Devilment-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Not found Then{WILDCARD_ANY_STRING}ocument.VBProject.VBComponents.Import ("c:\{WILDCARD_ANY_STRING}Kill ("c:\mydocu~1\*.*")

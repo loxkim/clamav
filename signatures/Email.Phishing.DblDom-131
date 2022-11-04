@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.DblDom-131
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+http://{WILDCARD_ANY_STRING(LENGTH>=10&&<=30)}/online.lloydstsb.co.uk/

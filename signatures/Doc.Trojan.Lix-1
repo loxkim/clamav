@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Lix-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+URRENT_USER\Software\Microsoft\Office\9.0\Word\Security", "Level") = 1{WILDCARD_ANY_STRING}doc("lix1").Export dropfile{WILDCARD_ANY_STRING}nor.import dropfi

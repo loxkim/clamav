@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-25
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+fx(safe,@safemode()?on:off); fx(os,@php_os); fx(uname,@php_uname()); fx(server,($ip)?$ip:-); fx(user,@get_current_user()); fx(uid,($uid)?$uid:uid=.@getmyuid(). gid=.@getmygid()); fx(dir,$p); fx(perm,(@is_writable($p))?[w]:[r]); fx(hdd,used: .hdd(us

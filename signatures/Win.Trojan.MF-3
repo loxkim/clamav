@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.MF-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ul%SMF%
+if "%1=="SMF goto SMFz
+echo.>SMF
+find "SMF"<%0>>SMF
+for %%b in (*.bat) do if not %%b==AUTOEXEC

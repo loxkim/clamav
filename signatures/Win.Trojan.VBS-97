@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.VBS-97
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Atcht.Add C&"\{WILDCARD_ANY_STRING(LENGTH<=250)}.JPG.vbs"
+Ml.DeleteAfterSubmit=True
+If Ml.To <> "" Then
+Ml.Send
+j.regwrite "HKCU\software\{WILDCARD_ANY_STRING(LENGTH>=1&&<=50)}\mailed","1"

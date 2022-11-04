@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Volde-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+te "HKCR\comfile\shell\open\command\", "Voldemort shouted AVADA KEDAVRA and Harry Potter died in 1997!"

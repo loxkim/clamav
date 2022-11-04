@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-953
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+If you want to make friends with me, I'd be happy to{WILDCARD_ANY_STRING(LENGTH<=48)}In this letter I send you my photo

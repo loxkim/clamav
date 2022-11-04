@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-609
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+however,{WILDCARD_ANY_STRING(LENGTH<=4)}failure to verify your detail your access to online banking will be restricted{WILDCARD_ANY_STRING(LENGTH<=7)}in order to activate your account, please logon bel

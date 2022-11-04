@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-138
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+unlock<br>this profile online by selecting an option below:{WILDCARD_ANY_STRING}atm or check card number and pin.

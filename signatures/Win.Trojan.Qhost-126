@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Qhost-126
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+153	ftp.ca.com
+81.85.117.147	ftp.customer.symantec.com
+85.25.137.62	ftp.dispatch.mcafee.com
+145.112.53.223	ftp.download.mcafee.com
+27.163

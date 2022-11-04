@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Downloader.Fusioncore-7131506-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Cannot open file %s$''%s'' is not a valid component name
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:!:%:):-:1:5:9:=:A:E:I:M:Q:~:9;=;A;E;I;M;Q;U;Y;];a;e;i;m;q;u;y;};
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WYS:"@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Nakomoheterid
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+}S&"}S%5}S$)}S#"}S"+}S!t}S u}S/i}S.#}S-+}S,+}S+G

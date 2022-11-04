@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Jer-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+makecopy.copy(dirsystem&"\1on1mail.htm")

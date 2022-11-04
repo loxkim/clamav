@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-9847001-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Server=shahad-pc;Database=dbOffice;Trusted_Connection=false;user id=sa;password=mangalore123;
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+insert into deinstallation(consumer_no,cust_name,unit_no,mobile_no,driver_name,DODI,fees,report_no,ttime,VehicleNo) 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Provider=SQLOLEDB.1;Persist Security Info=False;User ID=sa;password=mangalore123;Initial Catalog=dbOffice;Data Source=sh
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+insert into customer(cno,cdate,owner_name,email_id,co_name,pu_no,name_compny,phone,address,mobile_no)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Login Failed!!!

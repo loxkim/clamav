@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-297
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Contact with your data[Names,address,occupation and country]for your{WILDCARD_ANY_STRING(LENGTH<=4)}1 000.000.00

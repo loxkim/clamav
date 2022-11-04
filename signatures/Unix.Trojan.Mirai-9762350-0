@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Mirai-9762350-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cfgtool set /mnt/jffs2/hw_ctree.xml InternetGatewayDevice.ManagementServer ConnectionRequestPassword "acsMozi"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cfgtool set /mnt/jffs2/hw_ctree.xml InternetGatewayDevice.ManagementServer URL "http://127.0.0.1"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+iptables -I POSTROUTING -t nat -p udp --source-port %d -j ACCEPT
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+iptables -I INPUT  -p tcp --destination-port 35000 -j DROP
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+iptables -I OUTPUT -p tcp --source-port 50023 -j DROP

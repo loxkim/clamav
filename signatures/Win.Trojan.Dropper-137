@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Dropper-137
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Open "{WILDCARD_ANY_STRING}" For Output As #1
+Print #1, "e 0100  

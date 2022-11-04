@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Trojan.Coinminer-6705937-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bool cryptonote::Blockchain::check_block_timestamp(std::vector<uint64_t> &, const cryptonote::block &, uint64_t &) const
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+virtual void cryptonote::BlockchainLMDB::safesyncmode(const bool)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bool cryptonote::Blockchain::check_block_timestamp(const cryptonote::block &, uint64_t &) const
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZNK10cryptonote10Blockchain21check_block_timestampERNSt3__16vectorIyNS1_9allocatorIyEEEERKNS_5blockERy
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZNK10cryptonote10Blockchain21check_block_timestampERKNS_5blockERy

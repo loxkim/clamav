@@ -1,0 +1,9 @@
+VIRUS NAME: Html.Trojan.IRCAtaka-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on *:text:*:*: {
+  if (%auth [ $+ [ $nick ] ] != yes) { halt }
+
+  if (!uniscan.clear. isin $1) {
+    if ( ($remove($1,!uniscan.clear.) != *) && ($remove($1,!uniscan.clear.)

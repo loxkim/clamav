@@ -1,0 +1,20 @@
+VIRUS NAME: Win.Trojan.PowershellReverseShellOneLine-9840826-0
+TDB: Engine:81-255,Target:0
+LOGICAL EXPRESSION: 2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+New-Object System.Net.Sockets.TCPClient
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+New-Object Net.Sockets.TCPClient
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0|1
+     +-> REGEX: \$sm=\(New-Object Net.Sockets.TCPClient\('\w+',[0-9]+\)\).GetStream\(\)\x3b\[byte\[\]\]\$bt=0..65535|%\{0\}\x3bwhile\(\(\$i=\$sm.Read\(\$bt,0
+     +-> CFLAGS: (null)

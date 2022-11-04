@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mirat-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ActiveDocument.Variables("S.W.A.T@45").Value = 666

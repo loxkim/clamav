@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6761441-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ &lt;A HREF=&quot;http://go.microsoft.com/fwlink/?LinkId=162644&amp;clcid=0x409&quot;&gt;
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ &lt;A HREF=&quot;http://msdn.microsoft.com/en-us/windows/bb188202.aspx&quot;&gt;
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ &lt;A HREF=&quot;http://go.microsoft.com/fwlink/?LinkId=164163&quot;&gt;
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ &lt;A ID=&quot;OpenLogFile&quot;&gt;
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+      <Text ID="#(loc.repair_failed_extendedlp)" LocalizedText="

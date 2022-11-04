@@ -1,0 +1,28 @@
+VIRUS NAME: Osx.Trojan.Generic-9908331-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZGVZN14LoggingHelpers22TerminalMessageHandlerINS_15DebugLogMessageEE11getLogMutexEvE6logMtx
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZN14LoggingHelpers6LoggerINS_22TerminalMessageHandlerINS_15DebugLogMessageEEES2_E15_handleMessagesEv
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sfasst.app/Contents/Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nibUT
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZN14LoggingHelpers6LoggerINS_19CFWebMessageHandlerINS_15CFWebLogMessageEEES2_E15_handleMessagesEv
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sfasst.app/Contents/Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nibUT

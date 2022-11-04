@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.JS-117
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+document.write('<IFRAME SRC="http://somewebspace.com/xtest/va/" style="display:none">

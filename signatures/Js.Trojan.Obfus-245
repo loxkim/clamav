@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-245
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+while(s.length>i){vv=e(qq+"[i]");cc=w.fromcharcode(parseint(""+vv)+38);c+=cc;i=1+i;}ee("e(c)");

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Azon-11
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+b>dear amazon.com member,</b>{WILDCARD_ANY_STRING}actions if we are unable to verify or authenticate any {WILDCARD_ANY_STRING(LENGTH<=7)}information you provide to us{WILDCARD_ANY_STRING}ase follow the link bel

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Cobra-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If M.Name <> "AFATEHA" And M.Name <> "Reference to Normal" And M.Name <> "ThisDocument" Then Application.OrganizerDelete Source:=OD.FullName, Name:=M.Name, O

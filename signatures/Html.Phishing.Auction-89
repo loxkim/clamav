@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-89
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+tion in my messages.</b></font></td></tr><tr><td align=middle><a title=http://contact.eba{WILDCARD_ANY_STRING(LENGTH>=100&&<=150)} href="http://2{WILDCARD_ANY_STRING(LENGTH>=20&&<=100)}" target=_blank><img title=ht

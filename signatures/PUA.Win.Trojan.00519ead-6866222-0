@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Trojan.00519ead-6866222-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+royer</job><sex></sex><guild><name></name></guild><equipped></equipped></party-member></body></screenshot>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+en Shades</eye><head>Indomitable Headpiece</head><ear>Zakhan Earring</ear><finger>Destiny Ring - Stage 1</finger><wrist>Divine D
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<?xml version="1.0" encoding="utf-8" ?><screenshot><head><major-version>3</major-version><minor-version>4</minor-version><ga
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+anSword</name></guild><equipped><hand>Raven Sword - Stage 2</hand><body>Dark Path</body><body-attached></body-attached><eye>Gold
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[Content_Types].xml 

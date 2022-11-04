@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sword-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.Insert sword$ + " "{WILDCARD_ANY_STRING}fileMacro$ = dlg.Directory + "\" + dlg.FileName + ":" + M$

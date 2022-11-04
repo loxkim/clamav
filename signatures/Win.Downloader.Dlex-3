@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Downloader.Dlex-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+phtml
+i	5b91b6e12d050f74
+s	100
+d	ping	new.d-extreme.com	/amxp
+s	1
+d	tracer

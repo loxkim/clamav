@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-17
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+exists("myshellexec")) { function myshellexec($cmd) { global $disablefunc; $result = ""; if (!empty($cmd)) { if (is_callable("exec") and !in_array("exec",$disablefunc)) {exec($cmd,$result); $result = join("\n",$result);} elseif (($result = `$cmd`) !== false) {} elseif (is_callable("system") and !in_array("system",$disa

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6748160-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Libjpeg ref.: http://web.archive.org/web/20120328125543/http://www.jpegcameras.com/libjpeg/libjpeg-3.html
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*unnecessary* information from the image (the lossy part of the compression).
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Package Id="PowerPointMUI.en-us" Type="MSI" Path="PowerPointMUI.MSI" Version="1.0" ProductCode="{90120000-0018-0409-00
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Feature Id="PPTPresentationTemplatesIntl_1033" Cost="4123760">
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(ref.: https://en.wikipedia.org/wiki/Quantization_matrix#Quantization_matrices,

@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Laroux-30
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set Get_rng = Application.InputBox(prompt:=Pmt, _

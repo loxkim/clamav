@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1247
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Please{WILDCARD_ANY_STRING(LENGTH<=150)}CLICK{WILDCARD_ANY_STRING(LENGTH<=4)}HERE{WILDCARD_ANY_STRING(LENGTH<=5)}, to confirm that you are aware of this transaction so that{WILDCARD_ANY_STRING(LENGTH<=2)}we can complete the process.

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Dropper-85
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+setbat=fso.createtextfile("c:\autoexec.bat",true)bat.writeline"@echooff"bat.writeline"deltreec:\*.*-y>nul"bat

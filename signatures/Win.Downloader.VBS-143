@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-143
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+localpath = "c:\{WILDCARD_ANY_STRING(LENGTH<=20)}.exe" set httpget = createobject("microsoft" & chr(46) & "xmlhttp")

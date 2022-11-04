@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Borika-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ponents.Item("Borika").CodeModule.Lines(2, 1) <> "'MyName = Borika.Macro_Format" Th

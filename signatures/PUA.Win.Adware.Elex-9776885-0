@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Elex-9776885-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+An attempt to set a processes DebugPort or ExceptionPort was made, but a port already exists in the process
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+iSafeMon::getParentProcessID CurrentProcessID = %d, ParentId = %d
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Failed to call GetModuleHandleEx, dwProcessID = %d, LastError = %d
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ReadFromPipe: Error reading from pipe: Number read was %d, requested was %d
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+iSafeMon::CurrentProcessID = %d, ParentId = %d, lpszImageFileName = %s

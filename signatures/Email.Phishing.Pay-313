@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-313
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+We require you to complete an account verification procedure as part of our{WILDCARD_ANY_STRING(LENGTH<=3)}security measure.{WILDCARD_ANY_STRING(LENGTH<=3)}You must click the link below to complete

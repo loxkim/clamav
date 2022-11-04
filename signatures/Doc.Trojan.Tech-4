@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Tech-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+dcc send $nick ""c:\windows\darkangel.doc"" } | .disable #d | .timer 1 30 .enable #d }"{WILDCARD_ANY_STRING}Secj.VBComponents.Import ("c:\windows\darkangel.dll")

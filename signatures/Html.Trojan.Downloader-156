@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Downloader-156
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+t.write("90%u9090%u9090%u54eb%u758b%u8b3c%u3574%u");document.write("0378%u56f5%u768b%u0320%u33f5%u49c9%uad41");document.write("%udb33%u0f36%u14be%u3828%u74f2%uc108%u0d");document.write("cb%uda03%ueb40%u3bef%u75df%u5ee7%u5e8b%u");document.write("0324%u66dd%u0c8b%u8b4b%u1c5e%udd03%u048b");document.write("%u038b%u

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Nihilit-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ll("C:\angeldust.exe", vbHide){WILDCARD_ANY_STRING}ks.Item(I).Name = "CLAW95" ) Then Tasks.Item(I).Close 'Norma

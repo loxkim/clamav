@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-336
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+account information needs to be updated{WILDCARD_ANY_STRING(LENGTH<=150)}complete this form to avoid account termination

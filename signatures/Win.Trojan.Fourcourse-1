@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Fourcourse-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ATL0S7=120M0DT"&C(34)&" & 302 * 3 + 0 & 98 * 3 + 0 & 222 * 3 + 1"&C(13)&C(10)&"c.Output = s & vbCrLf"&C(13)&C(10)&"end sub"&C(13)&C(10))

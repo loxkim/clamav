@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.AutoRun-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+[autorun]{WILDCARD_ANY_STRING(LENGTH<=14)}shellexecute=wscript.exe i7no.sys.vbs

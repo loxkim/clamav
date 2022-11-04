@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-172
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we invite you to join us as a powerseller{WILDCARD_ANY_STRING(LENGTH<=250)}if you agree with this rank please <a target="_blank" href="http://{WILDCARD_ANY_STRING(LENGTH<=120)}ing your account</a>within 24 hours

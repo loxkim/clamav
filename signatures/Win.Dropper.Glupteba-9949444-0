@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Glupteba-9949444-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\vladimir\source\repos\driver-process-monitor\x64\Release\WinmonProcessMonitor.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Admin\documents\visual studio 2015\Projects\WinmonFS\x64\Release\WinmonFS.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\vbox\branch\w64-1.6\out\win.amd64\release\obj\src\VBox\HostDrivers\VBoxDrv\VBoxDrv.pdb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%s - This error is unknown: 0x%x. Please contact the debugger team to report this error. (Mail: windbgfb@microsoft.com)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\??\C:\Windows\System32\drivers\WinmonFS.sys

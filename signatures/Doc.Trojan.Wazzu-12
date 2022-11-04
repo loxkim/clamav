@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Wazzu-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f1$ = d1.Directory + "\" + d1.FileName + ":autoOpen"{WILDCARD_ANY_STRING}UCase(WordBasic.[Right$](WordBasic.[MacroFileName$](WordBasic.[MacroName$](0)), 4)) = ".DOT"

@@ -1,0 +1,13 @@
+VIRUS NAME: Pdf.Phishing.OneDrive-9852971-0
+TDB: Engine:81-255,Container:CL_TYPE_PDF,Target:3
+LOGICAL EXPRESSION: 0|1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+a onedrive document has been sent to you, access it by clicking the button below
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+A document has been sent to you with OneDrive, access the document by clicking the button below

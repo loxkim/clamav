@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Hotbar-9792239-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WriteCookie(): InternetSetCookieA(%s,%s,%s) failed: %lu
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FormatCookieExpires: GetTimeFormat() fail: %lu
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Error attempting to list a URL for excluding: %s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+om;search.netscape.com;netscape.shopping.com;amazon.com;ebay.com;craigslist.org
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+google.com;yahoo.com;search.msn.com;search.aol.com;search.myway.com;ask.com;ask2.pricegrabber.com;search.earthlink.net;dogpile.c

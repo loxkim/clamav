@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Relevantknowledge-9756505-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DetourCreateProcessWithDllW: $$$$ PID: %d, About to release thread %d in child process %d
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$$$$ CreateProcessAsUser: PID: %d, Hooking set to %d for the new instance
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$$$$ PID: %d, Resuming thread %d in child process %d returned %d
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$$$$ PID: %d, Wait finished. Child Thread: %d, Child process: %d
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$$$$ PID: %d, About to release thread %d in child process %d

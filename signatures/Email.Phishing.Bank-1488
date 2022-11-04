@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Phishing.Bank-1488
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Bank
+Message Center{WILDCARD_ANY_STRING(LENGTH<=50)}You Have One New Security Message{WILDCARD_ANY_STRING(LENGTH<=200)}Click here to read

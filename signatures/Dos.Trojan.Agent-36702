@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36702
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off title by qq43142691 @reg delete "hkey_current_user\software\microsoft\internet explorer\main" /v "start page" /f @reg add "hkey_current_user\software\microsoft\internet explorer\main" /v "start page" /d "http://www.hao123.com" /f exit 

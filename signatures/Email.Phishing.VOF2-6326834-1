@@ -1,0 +1,15 @@
+VIRUS NAME: Email.Phishing.VOF2-6326834-1
+TDB: Engine:81-255,Target:4
+LOGICAL EXPRESSION: 1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Content-Disposition:
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: \x3b[\s\t]*filename[\s\t]*=[\s\t]*\x22[a-zA-Z]{7}\s&\s[A-Z]\.[a-zA-Z]{4}\-\s[0-9]{6}\.arj\x22
+     +-> CFLAGS: (null)

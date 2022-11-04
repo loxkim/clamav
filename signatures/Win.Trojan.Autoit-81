@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autoit-81
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+;Run(@ComSpec &  " /c format c: /q /y /v:jijiji ","",@SW_HIDE)

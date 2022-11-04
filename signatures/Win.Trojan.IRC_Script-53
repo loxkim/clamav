@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IRC_Script-53
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+timerflood $2 $r(3,5) clone $3- 
+    }

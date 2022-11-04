@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Unsafe-7012109-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ complete de Ghost Control, commandez une version COMPLETE de Ghost Control
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+This .exe file was created using a trial version of Ghost Control software. 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+D*\AC:\hook\ExeCreator\ExeCreator.vbp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+To remove this window poping out and enjoy a full functionality of Ghost Control, order a full version of Ghost Control:
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Dieser .exe Datei ist kreiert mit probe version Ghost Controls

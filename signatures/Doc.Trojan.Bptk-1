@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bptk-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+NormalTemplate.Save{WILDCARD_ANY_STRING}ElseIf A.Lines(3, 1) <> "'" Then

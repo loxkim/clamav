@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Poison-6992272-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error in Skipjack OF46hJn procedure (Source file does not exist).
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Incorrect size descriptor in Blowfish decryption
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ktztSPyXIAfigmVvGglxOckaEnrMCrZbUqUjwpxzawJxNFDXhc
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+uvMWycxNrSRtFiMbIhprToBiFXOPznQXVmtGGtYesCSENvspyQ
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+yDPmBCsvFJEUrrRtMPTBoOWRsoBpeduPZupwCTTmmaeLZJyktz

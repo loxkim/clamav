@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillAV-27
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+taskkill /f /im kav.exe>nul cls taskkill /f /im kavsvc.exe>nul cls

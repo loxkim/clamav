@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Startpage-89
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+127.0.0.1 www.thehun.net
+127.0.0.1 www.yahoo.com
+127.0.0.1 yahoo.com
+127.0.0.1 www.google.com
+127.0.0.1 google.com

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Ioana-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+vent1=ON JOIN:#:/dcc send $nick c:\windows\system\ioana\ioana.bat>

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-66
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on 1:socklisten:bouncer*:{ if ($window(@bouncer) == $null) { sockclose bouncer* | halt } | sockopen bouncerb %

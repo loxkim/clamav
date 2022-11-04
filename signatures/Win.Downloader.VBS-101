@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.VBS-101
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ellexecute x9,bbs,bbs,dd,0 end sub set xc = document.createelement(m1) xc.setattribute m2, m3 xi=m4 set xd = xc.createobject(xi,"") a1="a"&"d"&"o

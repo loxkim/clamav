@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36657
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off move winbase.dll %systemroot%\system32\wbem move winbaseinst.exe %systemroot%\system32\wbem move basesvc.dll %systemroot%\system32\wbem move syicon.dll %systemroot%\system32\wbem %systemroot%\system32\wbem\winbaseinst.exe del install.bat

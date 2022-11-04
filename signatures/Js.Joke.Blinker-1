@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Joke.Blinker-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+color[1] = "black"; color[2] = "white"; for(x = 0; x <3; x++) { document.bgcolor=color[x] if(x== 2)

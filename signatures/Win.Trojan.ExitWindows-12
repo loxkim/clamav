@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ExitWindows-12
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+cd-2.avi goto exitwin :exit2 cls exit :exitwin c:\windows\rundll32.exe user,exitwindows

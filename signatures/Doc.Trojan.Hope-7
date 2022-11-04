@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hope-7
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+For X = 1 To Documents.Count: With Documents.Item(X).VBProject.VBComponents.Item(1).CodeMod{WILDCARD_ANY_STRING}leteLines 1, .CountOfLines: .AddFromString (Putz)

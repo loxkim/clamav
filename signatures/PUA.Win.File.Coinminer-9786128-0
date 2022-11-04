@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Coinminer-9786128-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$___Z27cryptonight_extra_gpu_finalIL12xmrstak_algo4EEviyPjS1_S1_S1_$__cuda_local_var_232712_34_non_const_sharedMemory__44074
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$___Z27cryptonight_core_gpu_phase1ILy262144ELj1048576EEviiiPjS0_S0_$__cuda_local_var_505101_34_non_const_sharedMemory__3140
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$___Z27cryptonight_core_gpu_phase1ILy262144ELj262144EEviiiPjS0_S0_$__cuda_local_var_499647_34_non_const_sharedMemory__8316
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$___Z27cryptonight_core_gpu_phase1ILy524288ELj524288EEviiiPjS0_S0_$__cuda_local_var_517621_34_non_const_sharedMemory__62
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xmr-stak/2.4.4/c0ab1734/master/win/nvidia-amd-cpu/aeon-cryptonight-monero/

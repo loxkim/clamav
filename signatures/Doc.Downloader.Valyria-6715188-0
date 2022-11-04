@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Downloader.Valyria-6715188-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CbNziR(4) = MidB(HDnMaX, 825, 691) + Right(liBtYksT, 399) + Left(bVEjC, 222) + Left(bVEjC, 222)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DnzjK = CStr(Chr(CleanString(3 + 17 + 12 + 3 + 64))) + "^." + "^x^un^ilm" + "^o" + "//" + "^:^p^t^t" + "^h@j/" + "mo" + CStr(Chr(CleanString(3 + 17 + 12 + 3 + 64))) + "^.^dn^" + "ali^a^h" + "tgnih^t^l^la" + "^m^s"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MVcati(1) = Left(bVEjC, 222) + Left(bVEjC, 222)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RSIwC(0) = MidB(HDnMaX, 825, 691) + MidB(HDnMaX, 825, 691)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fFHdwT(3) = Left(bVEjC, 222) + Left(bVEjC, 222)
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ksjAj(3) = Left(bVEjC, 222) + Mid(jUuNb, 857, 557) + Right(liBtYksT, 399) + Left(bVEjC, 222)
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lSRATi(1) = Right(liBtYksT, 399) + MidB(HDnMaX, 825, 691)
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wrroHc = "^f^.l^y^-^t" + CStr(Chr(CleanString(3 + 17 + 12 + 3 + 64))) + "a^t" + "//^:^" + "ptt" + "^h" + "'" + "^=j^FL$" + ";^tn^eil" + CStr(Chr(CleanString(2 + 11 + 8 + 2 + 44))) + "be^W^.^t^e" + "N^ t" + CStr(Chr(CleanString(3 + 17 + 12 + 3 + 64))) + "e^j"

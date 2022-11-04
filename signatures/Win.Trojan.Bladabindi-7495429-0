@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Bladabindi-7495429-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\users\alex\documents\visual studio 2012\Projects\ProgramManager\ProgramManager\obj\Debug\ProgramManager.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+JD/zYWNvbGtrbndglZ1ub9h3am5iamFzLWtjYW1rdmNta3Zhbm1rbmV3fXZtZWllY2Fgb2xrb253YGpi7m9gd2Rx2GRhx2SmQtlsJ7tCOQMfEk4dGQECBRwb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ProgramManager.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ProgramManager.Resources.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ProgramManager.Resources

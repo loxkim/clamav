@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Replog-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+VCode = TD.CodeModule.Lines(1, TD.CodeModule.CountOfLines){WILDCARD_ANY_STRING}Open "I:\Rep.log" For Append As #1

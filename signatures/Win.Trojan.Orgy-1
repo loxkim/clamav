@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Orgy-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ect2.bat] goto DontBother >> infect2.bat
+echo copy %%1 + infect1.bat %%1 >> infect2.bat
+echo attrib +r %%1 

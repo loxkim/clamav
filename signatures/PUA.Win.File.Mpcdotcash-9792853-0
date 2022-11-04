@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Mpcdotcash-9792853-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[processHttpRespHead]ProcessHttpResponse when do processNtlmAuth ret=%d old status=%d, set task to TSK_ERROR
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+processNtlmAuth http domain auth with server %s:%d domain:%s, user:%s, pass:%s. fail on Host2Str host:NULL.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+processNtlmAuth http domain auth with domain:%s, user:%s, pass:%s. fail on auth data send finish but status:%d not ok.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[processHttpRespHead]ProcessHttpResponse fail ret=%d old status=%d, set task to TSK_ERROR
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+processNtlmAuth http domain auth with server %s:%d domain:%s, user:%s, pass:%s. fail on NtlmInit.

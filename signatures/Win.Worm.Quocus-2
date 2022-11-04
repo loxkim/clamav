@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Quocus-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+"
+body = body & VbCrLf & ""Look at this funny attached.""
+body = body & VbCrL

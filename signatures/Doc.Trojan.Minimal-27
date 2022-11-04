@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Minimal-27
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Ff1$ = UCase(WordBasic.[Right$](WordBasic.[MacroFileName$](WordBasic.[MacroName$](0)), 4))

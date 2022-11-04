@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Xolominer-2
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Launch.bat{WILDCARD_ANY_STRING}flashup.exe

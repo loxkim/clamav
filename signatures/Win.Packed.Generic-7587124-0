@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generic-7587124-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%j%]%]%]%a%]%_%]%j%]%_%]%^%]%`%e%j%]%_%]%_%]%`%P%j%]%]%]%^%]%_%a%i%]%]%]%_%]%c%m%j%]%]%]%`%]%d%m%j%]%]%]%a%]%d%u%j%]%]%]%b%]%d%
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+]%]%]%^%]%b%u%q%]%]%]%^%]%b%u%q%]%]%]%^%]%c%L%c%]%]%]%^%]%k%m%g%]%]%]%_%]%d%T%q%]%]%]%`%]%e%a%q%]%]%]%^%]%_%T%e%]%]%]%^%]%g%
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%_%l%a%_%R%m%`%P%_%^%i%]%u%m%a%d%^%n%i%]%R%m%]%t%]%n%i%]%R%m%]%b%_%}%i%`%R%m%]%~%_%}%i%`%R%m%]%
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%b%f%T%e%o%m%i%P%b%f%m%]%m%m%i%t%]%n%i%]%m%m%j%_%b%g%T%e%a%m%c%d%^%~%q%e%k%m%b%g%b%]%m%c%q%m%k%d%^%u%q%^%}%m%b%u%b%e%
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+]%]%]%^%]%k%m%g%]%]%]%^%]%i%m%f%]%_%]%^%]%_%q%h%]%_%]%_%]%`%m%h%]%]%]%`%]%a%

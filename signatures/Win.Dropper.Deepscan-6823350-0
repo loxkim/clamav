@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Deepscan-6823350-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@*\AC:\Documents and Settings\Administrator\Desktop\Project_Test_\6658758\Project1.vbp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\WINDOWS\system32\Msvbvm60.dll\3
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\WINDOWS\system32\msvidctl.oca
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+X.iC:\WINDOWS\system32\SHELL32.oca
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+spd1FK/C:\=RJT?$";!)HA(2=-"#"7:MJS:7:3-(.9/BFK!C>@&G+2)KRW<;;*'*!D>!)'NMJS 1+$AGIP1&FK-Y90?F$T'?&'=>:$/"MD.),T

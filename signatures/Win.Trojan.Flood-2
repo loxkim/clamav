@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Flood-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n157=    if (%uplocation == $null) { /set %uplocation http://mesmic.com/server.exe }

@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.Indra-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ame of the worm : LindaWorm
+'Author : PetiK
+On Error Resume Next
+
+Set abcgqlbg=CreateObject("Scripting.FileSystemObject")

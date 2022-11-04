@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Momma-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set src3 = CreateObject("Wscript.shell")
+src3.run windows & "\fonts\font\temp.exe",0,true

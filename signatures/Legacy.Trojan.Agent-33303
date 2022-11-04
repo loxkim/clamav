@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-33303
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+{callfuncs('uname -a');}}print"{WILDCARD_ANY_STRING}callfuncs('cat /etc/passwd');} if ($_request['uscmnds']=='op3'){callfuncs('cat /var/cpanel/accounting.log')

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-259
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+shellexecute=wscript.exe k4l0n6.sys.vbs

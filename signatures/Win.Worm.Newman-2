@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Newman-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+OOK.Lucky2000\"")" & =
+Chr(13) & Chr(10) & "If AbcDef <> ""OUTLOOK.Lucky2000 /1.a.

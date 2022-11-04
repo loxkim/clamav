@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.XtremeRAT-7599042-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.planet-source-code.com/vb/scripts/voting/VoteOnCodeRating.asp?lngWId=1&txtCodeId=48154&optCodeRatingValue=5
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\WINDOWS\SYSTEM32\MSVBVM60.DLL\3
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Archivos de programa\VB Decompiler Lite\RICHTX32.oca
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+A*\AC:\INDETECTA BLE SUDTOOLS\CORP\-51 ZAKARABRUX\TEAMTHECY\BERPUNKOV\ERSECFORODEMIERDAXDSAL\UDOSBYEE.vbp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Any questions or comments, email me at yehia_sm@hotmail.com.

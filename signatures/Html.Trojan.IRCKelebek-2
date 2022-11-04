@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCKelebek-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if ($nick != koruma) && ($nick != security) && ($nick != abc) && ($nick != abc) && ($nick != sesu) .msg $nick %myrek

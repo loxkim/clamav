@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Dropper.Agent-35972
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+n\run] "updateshield"=hex(2):25,00,77,00,69,

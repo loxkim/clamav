@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Petik-18
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ext="hta"orext="asp"{WILDCARD_ANY_STRING}good.{WILDCARD_ANY_STRING(LENGTH<=9)}virus.htmltext

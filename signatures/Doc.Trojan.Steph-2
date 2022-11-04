@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Steph-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ctiveDocument.Password = "StephanieILoveYou_" & Rnd * 4228250625# & Rnd * FFFFFFFFH

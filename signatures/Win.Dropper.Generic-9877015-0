@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Generic-9877015-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://mail.qq.com/cgi-bin/loginpage?errtype=3&t=loginpage_freq&vt=passport&verify=true&clientuin=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+&keyindex=9&pt_aid=636014201&u1=http%3A%2F%2Fwww.qq.com%2Fqq2012%2FloginSuccess.htm&ptopt=1
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://ui.ptlogin2.qq.com/cgi-bin/login?daid=4&appid=522005705&s_url=https%3a%2f%2fmail.qq.com%2fcgi-bin%2flogin%3fvt%3d
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://b11.qzone.qq.com/cgi-bin/blognew/get_abs?hostUin=
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://xui.ptlogin2.qq.com/cgi-bin/qlogin?domain=qq.com&lang=2052&qtarget=0&jumpname=&ptcss=&param=u1%253Dhttp%25253A%25

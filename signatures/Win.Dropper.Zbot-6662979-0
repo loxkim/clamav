@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zbot-6662979-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+leprid.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<<<Xmmm{sssznnnzjjjyfffyccc{aaa|^^^{ZZZzVVVxPPQuJJJrCCCp???n:::k333h--.d(((`"""["""X###U###R###M%%%I%%%E!!!A
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Syconid mentomeckel\Champagned w\Unsti\VB6.OLB
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Trottles.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rrs|dddvdddvdddu^^^sTTTmTTTmTTTmSSSjEEEbFFF`FFF`FFF_999V666R666R666Q+++I!!"A"""A"""A

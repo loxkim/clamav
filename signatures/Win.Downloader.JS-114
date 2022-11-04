@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-114
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+start_download() { var bname=navigator.appname; var bver=parseint(navigator.appversion); if (bname == 'microsoft internet explorer' && bver >= 2) { if(!loadfirst || sp2){ downloads_manager.documen

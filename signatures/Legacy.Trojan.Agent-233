@@ -1,0 +1,7 @@
+VIRUS NAME: Legacy.Trojan.Agent-233
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+document.applets[0];
+                a1.setCLSID("{F935DC22-1CF0-11D0-ADB9-00C04FD58A0B}");
+                a1.createInstance();

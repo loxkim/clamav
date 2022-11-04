@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sugar-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Sub AutoExec() 'Vic{WILDCARD_ANY_STRING(LENGTH<=3)}System.ProfileString("Options", "EnableMacroVirusProtection") = "0"

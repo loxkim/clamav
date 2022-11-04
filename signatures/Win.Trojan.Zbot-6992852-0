@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zbot-6992852-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files\DE\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WbGNPb@fBS@iVlfvQVIdQW`+tXA}i_p^aMcqExjy}k\]KgYKmxmFYv*MNIsvSuNGjq_aNgjGAgE~TNFaQsGfZI|vvF~EwmW~mMEymhY}O
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s^`y]bsAZj[KkHFhRgV[y[hawsPjJ@zJ^pKzHQY}ONafi_}QHs^`y]bsAZj[KkHFhRgV[y[hawsPjJ@zJ^pKzHQY}ONAfiK
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ty[TnwsheJ@NE^p{uHQurONIii_3@Hsnoy]N|AZBTKklIhRGY[yGgawk_jJTuJ^`DzH]V}O
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cV[?_ha5wPjtDzJdtKz~UY}}JafG[}Qbw^`_Ybsc^j[UoHFrVgVM}[hsssPdN@z@ZpK|LQY

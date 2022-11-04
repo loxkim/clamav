@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-99
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+>ebay sent this message to{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}you{WILDCARD_ANY_STRING(LENGTH>=3000&&<=9000)}><b>respond to this question in my messages.</b

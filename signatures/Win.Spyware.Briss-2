@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Spyware.Briss-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.1 = s 'jao Class'
+	{
+		CLSID = s '{80BB7465-A638-43B5-9827-8E8FE38DFCC1}'
+	}
+	Jao.jao = s 'jao Class'
+	{
+	

@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Pics-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+b.CreateItem(0)
+f = d.AddressEntries(x)
+next
+e.Subject = "Hello, open the attachment"
+e.Body = "Hello, open the attachment"

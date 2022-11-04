@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Wolf-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+n1=/dcc send $nick c:\wolf0.exe
+n2=}
+n3=ON 1:TEXT:*wolf0*:#:/quit WOLF0!!!
+n4=ON 1:TEXT:*virus*:#:/ignore -u666 $ni

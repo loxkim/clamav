@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Psyme-39
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for(i=math.min(l,b);i>0;i--,l--){w|=(t[x.charcodeat(p++)-48])<<s;if(s){u+=string.fromcharcode(226^w&255);w>>=8;s-=2}else{s=6}}document.write(u)}}dc("

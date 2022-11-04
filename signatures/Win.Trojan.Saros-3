@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Saros-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+eobject("scripting.filesystemobj{WILDCARD_ANY_STRING(LENGTH<=250)}stem32\Kloader.exe"

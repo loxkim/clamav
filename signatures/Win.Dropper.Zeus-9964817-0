@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-9964817-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+mnyssdpttlbj7605rnyiwrecuhzu7611ykqxgcwvegab76057606wfphojzvsxql7591mnyssdpttlbj7599rnyiwrecuhzu7541ykqxgcwvegab75407582
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+g2w5J0h6w8J3hWm2zoR6G8g2w5J0h6w8J3hWm2zoR6G8g2w5J0h6w8J3hWm2zoR6G8g2w5J0h6w8J3hWm2zoR6G8g2w5J0h6w8J3hWm2zoR6G8g2w5J0h6w8J3[~]
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ytuuzlxsiqgh5272zvqylkco5266drxefcndjmoh5279fimwapvarbzy5275tuuzlxsiqghzvqyl5266kcodrxefcndj5273mohfimwa52485247
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+xkbqhfcvlkvf75727559ggawfoho7561jjzurxqlncmm7522yssdpzottlbi7555rneiwqdcupha7558xkbqhfcvlkvf75587522
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+xkbqhfcvlkvf76057594ggawfoho7591jjzurxqlncmm7598yssdpzottlbi7598rneiwqdcupha7541xkbqhfcvlkvf7540

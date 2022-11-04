@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRCBot-785
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+elsif ($servarg =~ /^\:(.+?)\!(.+?)\@(.+?)\s+NICK\s+\:(\S+)/i) {{WILDCARD_ANY_STRING(LENGTH<=4)}if (lc($1) eq lc($meunick)) {{WILDCARD_ANY_STRING(LENGTH<=4)}$meunick=$4;{WILDCARD_ANY_STRING(LENGTH<=4)}$irc_servers{$IRC_cur_socket}{'nick'} = $meunick;

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6752392-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Wrong file type9Cannot locate Microsoft Conversion Library (msconv97.dll)1Multiple concurrent conversions are not suppor
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+95EN.DLL","MsoSF",""):RR("HLP95EN.DLL","MsoCF","I=SII"):MsoCF("Arial",8,0)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The file '%s' is an unknown graphic format. The application may attempt to convert the graphic. Continue with document c
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\WINDOWS\SYSTEM\MOUSE.DRV
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Define command on the Style menu (Equation Editor)

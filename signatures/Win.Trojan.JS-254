@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-254
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+%3d%22%22%2cq%3b if%28r.indexof%28%22google.%22%29%21%3d-1%29t%3d%22q%22%3b if%28r.indexof%28%22msn.%22%29%21%3d-1%29t%3d%22q%22%3b if%28r.indexof%28%22yahoo.%22%29%21%3d-1%29t%3d%22p%22%3b if%28r.indexof%28%22altavista.%22%

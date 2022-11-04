@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Betabot-9887849-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon:Shell:CMD.EXE
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Finishing modCommands - ExecuteCommand(CommandID: {0}, Command: {1}, Parameters: "{2}"); Output: "{3}", ErrorLevel: 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%windir%\System32\MSIExec.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon:Shell:explorer.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ via: %windir%\System32\cmd.exe /c Net Start 

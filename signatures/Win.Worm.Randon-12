@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Randon-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ockwrite -tn f00d-* notice $3 FUCK | halt }
+      if ($2 == s2) { talk clones s

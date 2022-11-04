@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.FormatC-66
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo j|format c:/q/u > nul

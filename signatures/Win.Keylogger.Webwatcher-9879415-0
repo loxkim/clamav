@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Webwatcher-9879415-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vcredist_x86.exe /q:a /c:"vcredi~3.exe /q:a /c:""msiexec /i vcredist.msi /qn"" "
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd /c "regsvr32 /s Urlmon.dll&&regsvr32 /s Actxprxy.dll&&regsvr32 /s Oleaut32.dll&&regsvr32 /s Shell32.dll"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd /c "regsvr32 /s /u %sShellService.dll"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\System32\GroupPolicy\Adm\chrome.adm
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+"%s" /s /u "%s\rdp.dll"

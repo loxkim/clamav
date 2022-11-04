@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Qhost-85
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+st.com
+127.0.0.1  avast.com
+127.0.0.1  www.mcafee.com
+127.0.0.1  mcafee.com
+127.0.0.1  www.grisoft.com
+127.0.0.1  grisoft.com
+127.0.0.1  www.sym

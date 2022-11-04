@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-400
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear chase online customer{WILDCARD_ANY_STRING(LENGTH<=100)}your account access for online use is limited for your account ending in

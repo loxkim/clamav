@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-54
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+$pesan->autoflush(1);print $pesan "nick $nick\r\n";print $pesan "user bot 8 * : whois bacok!!!!\r\n";print $pesan "join $chan\r\n";while($perintah = <$pesan>){$perintah =~ s/\r\n$//;if ($perintah=~ /^ping \:(.*)/){print "pong :$1";print $pesan

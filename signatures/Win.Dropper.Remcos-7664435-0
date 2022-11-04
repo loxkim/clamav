@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Remcos-7664435-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<form name="errorform" id="errorform" method="post" action="/pcrbin/merror.exe" target="_blank">
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+window.open('/pcrbin/mail.exe?p1=ADMIN&p2='+arg+'&p3=1&p4=1&p5=1&p6=1&p7=1&p8=NAMEACT&p9=100566878913167&p10=&pcr-id=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<!-- (c) Main Sequence Technologies http://www.pcrecruiter.com -->
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files (x86)\Common Files\System\ado\msado21.tlb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ALTER TABLE [dbo].[Mail_Rules] WITH NOCHECK ADD CONSTRAINT [PK_Mail_Rules] PRIMARY KEY NONCLUSTERED ([User_Name],[Descri

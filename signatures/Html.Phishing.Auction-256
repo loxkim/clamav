@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-256
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+unpaid item strike under ebay's </font><a href="http://{WILDCARD_ANY_STRING(LENGTH<=190)}><font face=tahoma color=#003399 size=2>unpaid item policy</font></a><fon

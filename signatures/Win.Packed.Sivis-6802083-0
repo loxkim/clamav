@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6802083-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<HelpTOC DTDVersion = "1.0" Id = "HelpCol_TOC" LangId = "1033" PluginStyle = "Flat">
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HXDSUI.DLL
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ndice combinado de palabras clave de la Ayuda de Microsoft.Archivo de validaci
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ asociada a un nodo de la TDC)(Error desconocido al imprimir los temas.>No se pudo crear un control de impresi
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+No se puede leer un archivo.#No se puede escribir en un archivo.%No se puede crear o abrir un archivo."Otro usuario act

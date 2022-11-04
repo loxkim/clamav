@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Goof-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+SetAttr ("C:\Windows\Nor.drv"), 6{WILDCARD_ANY_STRING}ActiveWB.Lines(3, 1) <> "' MarshYello"

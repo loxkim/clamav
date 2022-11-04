@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Passbox-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If ActiveDocument.VBProject.VBComponents(I).Name = "fake®" Then{WILDCARD_ANY_STRING}Print #1, "Password = " + PassBox.TextBox1

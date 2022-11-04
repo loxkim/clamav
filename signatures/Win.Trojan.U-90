@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.U-90
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+elif [ -n "`head -n 1 $i | grep -s !/bin/`" ] && [ -z "`grep - TVAR $i`" ];

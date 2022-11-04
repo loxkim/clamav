@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Mikey-9941092-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Virtual\AppData\Local\Temp\caef6af1b4cb1bb9f1b9b20862adf09fbfc1974fe76d5aa8a5f3edf35d0237fe.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\arya\AppData\Local\Temp\aa140e51e16f52704bea24ff0d823b66920916d7.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\arya\AppData\Local\Temp\064178fd70cffdc4f2baa4d28f6a11be26306973.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\10fbe2e8078cecbb83916658345ec023076fde50af40b3e214c48b08c9595b65.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\0a4785068795901012db40157a64c083.virus.exe

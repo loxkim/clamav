@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.njRAT-7782287-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\users\cordyon\documents\visual studio 2013\Projects\Gylis\Gylis\obj\Debug\Gylis.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+OOP0XOq5cf+ETjxAEOQoPnP61k6bHKQyr85Nx2oorj9T+U7zon3OaFP5TvOifc5oU/lO86J9zmjpXGEAOimVvWjawfd2iscxO2x0MBclwkFdsSvCgTRax/U/
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Gylis.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Gylis.Resources.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Gylis.Resources

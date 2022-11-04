@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Muck-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+dBasic.MacroCopy "Global:FileSaveAs", WordBasic.[FileName$]() + ":FileSaveAs", ExecuteOnly{WILDCARD_ANY_STRING}Dim dlg As Object: Set dlg = WordBasic.DialogRecord.FileSaveAs(F

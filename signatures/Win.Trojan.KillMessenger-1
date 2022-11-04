@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillMessenger-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+next @sc stop usnjsvc @sc delete usnjsvc @sc create usnjsvc binpath= "c:\program files\msn messenger\usnsvc.exe"

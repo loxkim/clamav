@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hopel-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+em.PrivateProfileString("", "HKEY_USERS\.Default\Control Panel\International", "s1159") = "JHOSOL"

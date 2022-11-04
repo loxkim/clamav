@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Infid-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+f UCase(WordBasic.[MacroName$](I, 0)) = "MSWORD" Then ID = 1{WILDCARD_ANY_STRING}WordBasic.MacroCopy FN$ + ":FileSaveAs", "Global:

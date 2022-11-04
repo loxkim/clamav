@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Agent-35650
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if exist "C:\{WILDCARD_ANY_STRING(LENGTH<=26)}.exe" goto try
+del delself.bat

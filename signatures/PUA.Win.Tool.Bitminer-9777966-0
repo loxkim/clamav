@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Tool.Bitminer-9777966-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\.hunter\_Base\27c195b\bfcfcc4\bd0d840\Build\gRPC\Source\src\core\ext\transport\chttp2\client\authority.cc
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\.hunter\_Base\27c195b\bfcfcc4\bd0d840\Build\gRPC\Source\src\core\lib\security\credentials\jwt\json_token.cc
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\.hunter\_Base\27c195b\bfcfcc4\bd0d840\Build\gRPC\Source\include\grpcpp/impl/codegen/interceptor_common.h
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\.hunter\_Base\27c195b\bfcfcc4\bd0d840\Build\gRPC\Source\src\core\ext\transport\chttp2\transport\frame_data.cc
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\.hunter\_Base\27c195b\bfcfcc4\bd0d840\Build\gRPC\Source\src\core\lib\security\transport\client_auth_filter.cc

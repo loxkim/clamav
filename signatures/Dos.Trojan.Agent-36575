@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36575
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off cls :start echo dim noob >> dumb.vbs echo noob=msgbox("is c-prompt a dumbass",vbyesno+vbquestion,"dumbass") >> dumb.vbs echo if noob = vbyes then >> dumb.vbs echo msgbox "yes, indeed!" >> dumb.vbs echo end if >> dumb.vbs echo if noob = vbno then >> dumb.vbs echo msgbox "wrong answer" >> dumb.vbs echo end if >> dumb.vbs :noob start dumb.vbs goto noob

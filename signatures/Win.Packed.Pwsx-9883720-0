@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Pwsx-9883720-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+finne IDen, finn spillet i Steam-butikken, og kopier IDen fra den siste delen av addressen (f.eks http://store.steampowered.com
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+re partie de l'URL (par exemple http://store.steampowered.com/app/24980/ -> L'identifiant est ici 24980)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Icon, image and executable files|*.ico;*.png;*.bmp;*.jpg;*.gif;*.jpeg;*.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ZSystem.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Executable files|*.exe;*.jar;*.cmd;*.bat

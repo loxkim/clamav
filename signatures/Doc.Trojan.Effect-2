@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Effect-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.replaceline 13, "Sub ToolsOptions()"{WILDCARD_ANY_STRING}UCase(VI) = "EFFECT" Then Document = True

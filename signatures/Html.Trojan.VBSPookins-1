@@ -1,0 +1,10 @@
+VIRUS NAME: Html.Trojan.VBSPookins-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ath)="vbs" then 
+		Set dropper = Fso.createtextfile(file.path, True)
+		dropper.write src
+		dropper.Close
+	end If
+Ne

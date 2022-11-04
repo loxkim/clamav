@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Linux-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+scanf("%s", passwd);
+if (strcmp(passwd,ROOT) == 0) {
+alarm(0);
+execl(

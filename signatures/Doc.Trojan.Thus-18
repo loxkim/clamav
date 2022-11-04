@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Thus-18
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+mponents(1).CodeModule.Lines(1, 1){WILDCARD_ANY_STRING(LENGTH<=20)}If mark = "'{WILDCARD_ANY_STRING}ad.DeleteLines 1, ad.CountOfLi{WILDCARD_ANY_STRING} ad.InsertLines 1, nt.Lines(1, nt.CountOfL{WILDCARD_ANY_STRING}NormalTemplate.Save

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Banker-6380
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Content-Disposition: form-data{WILDCARD_ANY_STRING}filterpak.com/{WILDCARD_IGNORE}{WILDCARD_IGNORE}.ph

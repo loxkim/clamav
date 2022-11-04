@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Damon-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Host.DeleteLines 1, Host.CountOfLines{WILDCARD_ANY_STRING}sDocument.SaveAs FileName:=ThisDocument.FullName

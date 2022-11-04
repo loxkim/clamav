@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Lilith-9875305-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+keylog.txt{WILDCARD_ANY_STRING}File Listing Completed Successfully.{WILDCARD_ANY_STRING}C:\WINDOWS\system32\cmd.exe{WILDCARD_ANY_STRING}powershell -windowstyle hidden{WILDCARD_ANY_STRING}DownloadFile{WILDCARD_ANY_STRING}shellexecute

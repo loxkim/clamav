@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.Centim-1
+TARGET TYPE: PE
+OFFSET: S0+922
+DECODED SIGNATURE:
+ive|archive.exe|22872

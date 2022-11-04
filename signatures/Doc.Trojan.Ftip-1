@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ftip-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Out.Attachments.Add (dirwin & "\ftip.doc"){WILDCARD_ANY_STRING}msg = "W97/2k.i0nSt0rm" & vbCrLf & "code by gl_st0rm"

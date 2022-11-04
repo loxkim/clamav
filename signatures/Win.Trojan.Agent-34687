@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-34687
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if exist "c:\windows\temp\b.tmp" goto try del delself.bat

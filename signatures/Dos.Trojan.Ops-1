@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.Ops-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo.
+@echo Ops! The OPS virus is in control of your harddrive :(
+@echo Bye Bye...
+@echo.
+@echo j| format c

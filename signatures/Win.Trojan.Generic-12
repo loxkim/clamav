@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Generic-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Add Registry key: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\PostOOBE, " & WinDir & "\system32\cmd.exe /C START

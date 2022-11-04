@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-191
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+align="middle">&nbsp;&nbsp;</td><td nowrap><a href="http://signin.ebay.{WILDCARD_ANY_STRING(LENGTH>=10&&<=30)}/index.php?

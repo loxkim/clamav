@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9807156-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+UBundles/NPCs/Dialogues/Commander/Commander_Coalition_Propaganda_Completed/Spanish.dat
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OBundles/NPCs/Dialogues/Commander/Commander_Valentines_Note_Accepted/Spanish.dat
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+5Localization/Spanish/Server/ServerCommandPassword.dat
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+>Bundles/NPCs/Dialogues/Commander/Commander_Welcome/Spanish.dat
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+QBundles/NPCs/Dialogues/Commander/Commander_Broadcast_Repair_Completed/Spanish.dat

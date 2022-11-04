@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-59
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+$dteks =~ /^[$cmdpre](.*)/) { $com = $1; } else { $com = ""; } #print $baris."\n$dnick | $dcom | $dtarget : $dteks\n"; ##[ cek user ]## if ($boss{$dnick}

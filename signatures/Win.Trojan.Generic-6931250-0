@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6931250-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+server_final.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+a***a---a---a---a---a,,,a,,,a,,,a,,,a,,,a---a---a---a***a???a>>>a000a///a///a///a///a///a///a///a000a000a000a111a111a444a
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+a!!!a///a000a000a000a111a111a111a111a111a111a222a555a222a999aMMMa>>>a;;;a;;;a===a>>>a>>>a===a>>>aAAA_CCC[FFFSLLLIEEE3999
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+888'<<<?<<<M888W555]222_000c000a000a000a000a000a,,,a???a>>>a555a222a222a222a222a222a111a111a000a000a000a000a000a222a+++a
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\LZSD.exe

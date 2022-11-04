@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Upatre-9677703-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\2f8bdc281258bfe4e565f55e35e35dcd88c0088a4000612c1293ff8ad25f0135.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\dddf8972cf9d3a1ec954d2fcd7e8eba914b2374c99009fd8d398a7b9fd629148.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\5419e9fbd9b59b31c46ba02127e038d1bf5239ae3c50911cbbff1e080521f2e5.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\c347b101f1293a8d15c9611d04a018f8.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\b8aeb9674e94bfda_pdfmarks.exe

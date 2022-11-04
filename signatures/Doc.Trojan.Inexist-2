@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Inexist-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If MacroExist(m1$, d$) = 0 And MacroExist(m2$, d$) = 0 And MacroExist(m3$, d$) = 0 Then{WILDCARD_ANY_STRING}MacroCopy m$ + ":" + m1$, d$ + ":" + m1$, debu

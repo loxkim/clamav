@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCMimic-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if ($2 == random) { sockwrite -nt inviterN NICK $read 3FWERF4.dat | 

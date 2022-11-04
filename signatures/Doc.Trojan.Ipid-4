@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ipid-4
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+eCopy p1, "c:\windows\ipid.exe"{WILDCARD_ANY_STRING}Shell "c:\windows\ipid.e{WILDCARD_ANY_STRING}ion.OrganizerDelete d1, e3, wdOrganizerObjec

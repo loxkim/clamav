@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCSmall-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+n12= if ($1 == .version) { msg %chan cow bot 1.1 (inspired by quakenet, created by source)

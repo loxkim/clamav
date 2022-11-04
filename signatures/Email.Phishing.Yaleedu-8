@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Yaleedu-8
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+but to prevent this{WILDCARD_ANY_STRING(LENGTH<=2)}you have to confirm your account immediately after you receive this{WILDCARD_ANY_STRING(LENGTH<=2)}notification

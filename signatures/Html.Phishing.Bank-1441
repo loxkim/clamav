@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1441
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+full name{WILDCARD_ANY_STRING(LENGTH<=170)}credit/debit card number{WILDCARD_ANY_STRING(LENGTH<=90)}card pin number{WILDCARD_ANY_STRING(LENGTH<=90)}social security number

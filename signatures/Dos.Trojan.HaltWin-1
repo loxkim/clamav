@@ -1,0 +1,6 @@
+VIRUS NAME: Dos.Trojan.HaltWin-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+5= /.dcc send $nick c:\werm\jlo_nude.ZIP.bat >>brain.bat
+echo n

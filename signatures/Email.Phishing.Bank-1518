@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1518
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Your account has been closed{WILDCARD_ANY_STRING(LENGTH<=32)}too many failed login{WILDCARD_ANY_STRING(LENGTH<=32)}Please download and fill out the form below to reactivate

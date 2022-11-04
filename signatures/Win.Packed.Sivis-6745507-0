@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6745507-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2001 Microsoft Corporation. All rights reserved.LathaRegularLatha RegularLathaVersion 1.21LathaRaghunath Joshi (Type Director),
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Vikram GaikwadLatha is a font for the Indic script-Tamil. It has been designed for use as a UI font. It is an OpenType font, ba
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+raise SyntaxError('unsupported operation: %r' % op)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+from .compat import python_implementation, string_types
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+raise SyntaxError('invalid expression: %s' % key)

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Kryptos-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Shell "regedit /s c:\Kryptos.reg", vbHide

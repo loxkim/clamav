@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Randon-26
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+un empavms.exe /n /fh expl32 | /nick{WILDCARD_ANY_STRING}$+ $rand(0,99999) | /msg %chan USER DOUBLE CLI

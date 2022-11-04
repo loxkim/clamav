@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Vgen-61
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f '%vir%==' goto _vir
+:: This is the original

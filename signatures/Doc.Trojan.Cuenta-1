@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Cuenta-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+OrganizerCopy Source:=Left(Application.Path, Len(Application.Path) - 7) + "\Plantillas\Normal.dot"

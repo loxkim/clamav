@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Gregory-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+bs"
+vPath = Left(parent, InStrRev(parent, "\"))
+For Each target in FSO.GetFolder(vPath).Files
+Target.name=Target.name+".vbs"
+FSO.Co

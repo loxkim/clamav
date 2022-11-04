@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.IIS-18
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+rmalTemplate.VBProject.VBComponents.Count{WILDCARD_ANY_STRING}malTemplate.VBProject.VBComponents(Inn).CodeModule.AddFrom{WILDCARD_ANY_STRING}omponents.Import windir & "\Syste

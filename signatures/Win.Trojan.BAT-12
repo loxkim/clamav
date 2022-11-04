@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.BAT-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+:#
+echo.|date|find "12.11.">#
+if errorlevel 1 goto #infect
+cls %

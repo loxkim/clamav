@@ -1,0 +1,18 @@
+VIRUS NAME: Asp.Trojan.Webshell0321-9840176-0
+TDB: Engine:81-255,Target:0
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+name : oab
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+externalurl : http://{WILDCARD_IGNORE}/<script language="jscript" runat="server">functionpage_load(){eval(request[
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fe");}</script>

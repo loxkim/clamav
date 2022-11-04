@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-319
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+new Security Message Alert{WILDCARD_ANY_STRING(LENGTH<=45)}Log In into your account to resolve the problem

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Personality-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run" /v  Davinci1 /t reg_sz /d "C:\WINDOWS\Unvisible1.js" /f

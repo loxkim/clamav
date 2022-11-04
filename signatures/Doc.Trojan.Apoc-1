@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Apoc-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Day(Now()) = 1 Or Day(Now()) = 13 Or Day(Now()) = 26 Or Month(Now()) = 4 Then Apocalypse

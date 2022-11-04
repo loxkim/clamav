@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Iframe-90
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+catch(e){document.documentelement.appendchild(ddpopka);ddpopka.appendchild(jsinj)}}},1000)}/*qpi*/

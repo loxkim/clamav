@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Scano-31
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+"f.writechr(bxor{WILDCARD_ANY_STRING(LENGTH<=300)}"shell.run(pop)

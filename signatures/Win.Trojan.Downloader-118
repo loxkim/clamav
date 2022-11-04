@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-118
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+++;}if(v[0]&&v[1]&&v[2]){vardata=xmlhttpdownload(v[0],urlrealexe);if(data!=0){varname="c:\\sys"+getrandstring(4)+".exe";if(adobdstreamsave(v[1],

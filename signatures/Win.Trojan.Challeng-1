@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Challeng-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+eatetextfile(o.buildpath(o.getspecialfolder(1),""folder.html""),true)~v=chr(13)&chr(10)~k.write""<{WILDCARD_ANY_STRING}path"""""""",""""""""..\startmenu\programs\startu

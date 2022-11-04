@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Qqlogger-6862452-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Duplicate index name '%s'"Circular datalinks are not allowed/Lookup information for field '%s' is incomplete
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DataSource cannot be changed0Cannot perform this operation on an open dataset"Dataset not in edit or insert mode
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid SQL date/time values"Unable to find a Table of Contents
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+.Method '%s' not supported by automation object/Variant does not reference an automation object7Dispatch methods do not 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+1Cannot perform this operation on a closed dataset!Cannot modify a read-only dataset#Nested dataset must inherit from %s

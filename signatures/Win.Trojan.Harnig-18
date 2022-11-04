@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Harnig-18
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+h0=h0 & chr(cint("&h" & mid(c0, i, 2))) i=i + 2 loop set wsh=createobject("wscript.shell")

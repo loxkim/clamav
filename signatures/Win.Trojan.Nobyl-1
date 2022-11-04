@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Nobyl-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+RegWrite "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run\Systray", "C:\WINDOWS\STORY.VBS"

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Looper-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:loop{WILDCARD_ANY_STRING}cho Life is a bAtch ... Ratty ... is the 1. >>

@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-56
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+{m={}.iop;n="b";if(+new object(123)===123)t="s)";x=document["createelement"]("p");x["innerhtml"]="1";c=parseint(m(x["innerhtml"]));}}i=0;mm="su";u=mm+n+"str";for(;i!=20459;){m("w=z[u](a[i],c)");s+=w;i+=1;}for(i in

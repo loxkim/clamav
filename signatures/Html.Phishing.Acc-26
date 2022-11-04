@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Acc-26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+virus/troj</td><td width="0">an{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}/td><td width="0">was{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}/td><td width="0">de</td><td width="0">tected{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}/td><td width="0">from

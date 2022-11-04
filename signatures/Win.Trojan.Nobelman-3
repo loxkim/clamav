@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Nobelman-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set file=fso.CreateTextFile("keys.txt",True){WILDCARD_ANY_STRING(LENGTH<=2)}For i=1 To 30{WILDCARD_ANY_STRING(LENGTH<=2)}	strKey=""{WILDCARD_ANY_STRING(LENGTH<=2)}	For j=1 To 64{WILDCARD_ANY_STRING(LENGTH<=2)}		strKey=strKey & Chr(intLow+(intHigh-intLow+1)*Rnd)

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Qhost-14
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.0.0.3 www.iframedollars.biz
+127.0.0.3 iframedollars.biz
+127.0.0.3 virgin-tgp.net
+127.0.0.3 www.

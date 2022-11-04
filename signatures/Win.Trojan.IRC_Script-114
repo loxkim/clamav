@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-114
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+//sockopen inviterN %i.server %i.port  | /msg %j.h.s 12[5ab3cde15fg5]:  Loading inviter to Server: ( $+ $+ %i.server

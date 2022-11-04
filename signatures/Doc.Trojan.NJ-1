@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NJ-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.ToolsCustomizeKeyboard KeyCode:=73, Category:=2, Name:="XxGRUNTxX2", Add:=1, Context:=0

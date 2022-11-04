@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Dropper.Ghokswa-6651618-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+msvcp120.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Func_base@XPAV?$message@W4agent_status@Concurrency@@@Concurrency@@@std@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Func_base@_NABW4agent_status@Concurrency@@@std@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7 7$7(7,7074787<7@7D7H7L7P7T7X7h8l8t8x8,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?_Current_get@sys@tr2@std@@YAPA_WAAY0BAE@_W@Z

@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Meunin-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+in, from Meunin TM.
+find "Meunin"<%0>c:\Meunin.bat
+type %2>>c:\Meunin.bat
+copy c:\Meunin.bat %2
+:Meunin3

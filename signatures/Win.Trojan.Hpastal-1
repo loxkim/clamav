@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Hpastal-1
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0&1)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+|split|
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ge.tt/api/1/files/4r2wJmI1/0/blob?download

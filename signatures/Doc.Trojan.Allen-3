@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Allen-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+"#Err 6857-Selamat Ulang Tahun, " + Pelaku$ + "....#", 48

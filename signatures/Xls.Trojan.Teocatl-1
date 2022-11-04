@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Teocatl-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Workbooks("personal.xls").VBProject.VBComponents(i).Name = "StrangeDays" Then GoTo argh

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Packed-29
+TARGET TYPE: PE
+OFFSET: 0
+DECODED SIGNATURE:
+MZKERNEL32.DLL{WILDCARD_ANY_STRING(LENGTH<=8000)}ÿÿpCûÌÌOÿÿÿÌÌÄÿÿÿÿÿÿÿÿpD;¼ÌÄÿÿðLÌÌÄÿÿÿÿÿÿÿÿpDÃûÌÌOÿÌÌÌÄÿÿÿÿÿÿÿÿpL;¼ÌÄDLÌÌÌOÿÿÿÿÿÿÿÿpLÃ;¼ÌÌÌÌÌ

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bulbas-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+"c:\windows\windowssystem.sys"{WILDCARD_ANY_STRING(LENGTH<=2225)}\mvbswe.vbs

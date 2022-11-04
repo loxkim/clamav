@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Nucledor-6
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+while (list($key,$val) = each($file_arry)) { if ($val != ""){ if ($key == $length-1) break; $val = str_replace(array("\r\n","\n","\r"), "", $val); $n_file_arry[$key+1] = $val."\r\n"; } } $fp = @fopen("$ctrl_file", "w"); @fputs($fp, join("", $n_file_arry)); @fclos

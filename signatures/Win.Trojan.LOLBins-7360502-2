@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Trojan.LOLBins-7360502-2
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$env:comspec[4,15,25]
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+frombase64string( 'nvdpb+m2ep0c/
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rs0/qnfwameflajc+laf+lytnr4qufnbdcd6sxtr9fbzegyeh/

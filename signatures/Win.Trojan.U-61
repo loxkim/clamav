@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.U-61
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+erwriter SemiPoly :(
+for file in *
+do
+if test -x $file
+ then
+if test -w $file
+ then
+if test -f $file

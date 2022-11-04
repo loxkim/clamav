@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kovter-6958331-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Specify plug-in applications to be used for file or directory preprocessing before comparison is performed. Use the Move
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sixth.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Use any DOS-style patterns with * and ? symbols, e.g. d?n* or *.cpp. 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@dQz/dQj/VfSJRfyLRfyL5V3CEADMzMzMzMzMzMzMzMzMzFWL7IPsDOgV+///iUX4i0X4i0gEiU30/3UM/3UI/1X0iUX8i0X8i+VdwggAzMzMzFWL7IPsDOjl+v//iU
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADD

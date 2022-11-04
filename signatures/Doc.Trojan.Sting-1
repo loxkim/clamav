@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sting-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Function InfctSystm({WILDCARD_ANY_STRING}mFile2 = "C:\WINDOWS\COMMAND\" & mTmpNm{WILDCARD_ANY_STRING}ActiveDocument.SaveAs FileName:=mFile1, Password:="",

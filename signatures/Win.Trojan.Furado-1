@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Furado-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+start %windir%\system32\service.exe || start %windir%\taskmen.exe 

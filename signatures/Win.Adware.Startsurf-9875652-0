@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Adware.Startsurf-9875652-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+name   = 'Microsoft.Windows.Common-Controls' version  = '6.0.0.0' processorArchitecture =   '*'
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tion@$$A6AXXZ@3@V?$function@$$A6AXABVconnection@signals2@boost@@@Z@3@Vmutex@23@@detail@signals2@boost@@@detail@boost@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Bapi-ms-win-core-synch-l1-2-0.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+XZV?$function@$$A6AXXZ@boost@@@signals2@boost@@Vmutex@45@@detail@signals2@boost@@@detail@boost@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$bound_extended_slot_function@V?$function@$$A6AXABVconnection@signals2@boost@@@Z@boost@@@detail@signals2@boost@@

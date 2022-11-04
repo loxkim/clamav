@@ -1,0 +1,20 @@
+VIRUS NAME: Doc.Downloader.Macro-6539595-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 2
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Name = "
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Public Declare Function {WILDCARD_ANY_STRING(LENGTH>=8&&<=24)}Lib "{STRING_ALTERNATIVE:N|n}tdll{WILDCARD_ANY_STRING(LENGTH<=8)}" Alias{WILDCARD_ANY_STRING(LENGTH<=4)}"{STRING_ALTERNATIVE:Nt|Zw}WriteVirtualMemory" (ByVal {WILDCARD_ANY_STRING(LENGTH>=1&&<=16)} As Any, ByVal {WILDCARD_ANY_STRING(LENGTH>=1&&<=16)} As Any, ByVal {WILDCARD_ANY_STRING(LENGTH>=1&&<=16)} As Any, ByVal {WILDCARD_ANY_STRING(LENGTH>=1&&<=16)} As Any, ByVal {WILDCARD_ANY_STRING(LENGTH>=1&&<=16)} As Any) As Long
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1
+     +-> REGEX: \#If \((\d{1,4}\s(\+|\-)\s)+\d{1,4}\)\s(<|>)\s\(\((\d{1,4}\s(\+|\-)\s)+\d{1,4}\)\s(\+|\-)\s\((\d{1,4}\s(\+|\-)\s)+\d{1,4}\)\s\*\s\d{1,4}\)\sAnd\s\(\((\d{1,4}\s(\+|\-)\s)+\d{1,4}\)\s(\+|\-)\s\((\d{1,4}\s(\+|\-)\s)+\d{1,4}\)\)\s\*\s\d{1,4}\s(<|>)\s\(Win64\) Then
+     +-> CFLAGS: (null)

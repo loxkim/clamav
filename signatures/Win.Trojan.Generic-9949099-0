@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9949099-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SmadHook32c.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\],_tlvbDx?)2/F:"? K1'8%D{?)2/F:
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+giAkZqD6NgiAkZqD6NgiAkZqD6NgiAkZqD6NgiAkZqD6NgiAkZqD6NgiAkZqD6NgiAkZqD6NgiAkZqD6NgiAkZqD6NgiAkZqD6NgiAkZqD6Ng
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+KdOqciTwehmz}[cfW]GdrDqwxnf}^}cnW@Aelrwq^dcl`_~dDZLnilquZya
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+LtnzGdvLr`tkyij~xO{lW`kwBjtJmunrlq{PW`kwBjtTqw}wyR|u\

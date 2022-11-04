@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Kid-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.Heading = "Word97.Greetz" & vbCrLf & "by Kid Chaos [SLAM]"

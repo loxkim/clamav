@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Downloader.Small-431
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CEE611D7}'
+	}
+	SysCom.Dloader = s 'Dloader Class'
+	{
+		CLSID = s '{5F10319B-C8D4-4e49-A30C-C0E8CEE611

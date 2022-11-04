@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.TheCore-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Left(NMacr, 7) = "Version" Then{WILDCARD_ANY_STRING}Destination:=AD.FullName, Name:="NuclearPower", _

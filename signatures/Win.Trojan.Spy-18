@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Spy-18
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+$passwd = fopen('/etc/passwd','r'); if (!$passwd) { die('<b>[-] error : coudn`t read /etc/passwd</b>'); } $pub = array(); $users = array(); $conf = array(); $i = 0; while(!feof($passwd)) { $str = fgets($passwd);

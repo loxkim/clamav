@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.CoolNotepad-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+#virus Cool Notepad Demo
+n3= /part #virus
+n4= /clear
+n5= /mot

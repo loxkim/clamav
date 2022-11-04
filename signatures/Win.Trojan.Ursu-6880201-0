@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ursu-6880201-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DsFSxGsHBsDFGHSDFGSDFG.DLL
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cirrolite.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sdgfijsdfgsdf5g6d4f5g64f5g6d4fg65d4f56gd4f5g64sdf5vf1d56g4df56g4df56g4df5s12d564g56sdfg1MapViewOfFileEx
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Proportionssansens
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fhsdjkfghsdjkfbshrgkthfkhrjgkyhkdhfjkhdsjkfhsdjfghsfhjghsdjkfgshjdfghjsdfghjsdfghjsdfghjsdfghjsdfghsdfghjsdfgshdfghjsdgfhjksdfgy

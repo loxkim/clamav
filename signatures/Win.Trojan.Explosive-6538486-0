@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Explosive-6538486-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+##EndData##{WILDCARD_ANY_STRING}##Data##: Active Window-->{WILDCARD_ANY_STRING}%username%

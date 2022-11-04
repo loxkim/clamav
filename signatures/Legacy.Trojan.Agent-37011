@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-37011
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+return "rizee|ryn|05|".int(rand(8999)+1000);

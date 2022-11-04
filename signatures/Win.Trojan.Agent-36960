@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Agent-36960
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+start c:\windows\1.jpg
+start c:\windows\1.exe

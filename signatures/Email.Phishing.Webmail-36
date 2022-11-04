@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Webmail-36
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ made you a beneficiary to his WILL{WILDCARD_ANY_STRING(LENGTH<=750)}You are advice to contact me with my personal email

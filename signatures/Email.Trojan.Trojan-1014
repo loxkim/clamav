@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-1014
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Subject: You have received a secure message{WILDCARD_ANY_STRING(LENGTH>=1110&&<=1120)}Read your secure message by opening the attachment, messag

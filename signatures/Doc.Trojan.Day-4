@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Day-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ElseIf (WordBasic.DlgValue("DropListBox1") = 3) And (WordBasic.Val(Password$) <> 40004) Then

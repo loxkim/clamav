@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.Vote-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+ap.close
+Set cop = fso.GetFile(f1.Path)
+cop.Copy(f1.Path)
+Set att = fso.GetFile(f1.Path)

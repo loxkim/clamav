@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Common-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ir *.com/w>ind
+edlin ind<1
+debug ind<2
+edlin name.bat<3
+ctty con
+n

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Johnnie-9844073-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-\C:\Program Files (x86)\Common Files\System\ado\msado28.tlb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Wait for at least 10 seconds before checking if the file was processed or not.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Connection is not yet configure properly.  A database profile with name 'Barter 8' should be setup first.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\windows\SysWow64\msvbvm60.dll\3
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+A*\AD:\_SVN\Utilities\Auto Email\Auto Email Receipt.vbp

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-694
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+some te{WILDCARD_ANY_STRING(LENGTH<=1)}hnical errors in our database, please update your profile{WILDCARD_ANY_STRING}this process is mandatory, and if not completed within the nearest time

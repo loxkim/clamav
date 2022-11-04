@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Randon-23
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+xt:*starting scan*:%chan: { if (%begsho{WILDCARD_ANY_STRING} keys q3 key $read(C:\Program Files\Quake I

@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-94
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+=function(){try{if(+new object(123)===123)throw 1;}catch(q){return document["getelementbyid"]("div").innerhtml["split"]("^");}}c=new string();i=0;s=v325v3.call();while(i!=s.length){c+=setcharat(s,123,i);i++;}try{doc.qewtqwt}catch(q){eval(c);}

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Kolop-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ormalTemplate.VBProject.VBComponents(d).CodeModule.Lines(d, d) <> "'Kolopatia" The

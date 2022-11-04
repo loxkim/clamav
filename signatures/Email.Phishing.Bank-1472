@@ -1,0 +1,7 @@
+VIRUS NAME: Email.Phishing.Bank-1472
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Please log in to the secure link below, and verify your security{WILDCARD_ANY_STRING(LENGTH<=75)}details to avoid an
+
+unnecessary suspension of your account

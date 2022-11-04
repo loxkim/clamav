@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-286
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+nfirm your online bank records, we may require some specific information from you. <br><br>please <a{WILDCARD_ANY_STRING(LENGTH<=100)}ere</a>or on the link below to verify

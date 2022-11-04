@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Generic-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+/run attrib +r +s +h C:\mirc\Script.ini"

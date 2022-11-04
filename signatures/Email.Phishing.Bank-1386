@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1386
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+we placed extra verification on your Access until this <br>{WILDCARD_ANY_STRING(LENGTH<=2)}issue has been resolved

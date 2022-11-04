@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NoStyle-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ponents.Item(1).Name = "FreeStyler" Then DOT = True{WILDCARD_ANY_STRING}fff = Len(xxx) - 2: hhh = Left(xxx, fff)

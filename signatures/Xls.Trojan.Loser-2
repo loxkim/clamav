@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Loser-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #No, "PATH = C:\;" & S.WinPath & "\COMMAND;" & S.SystemPath

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ransomware.MailTo-7586723-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Interfac4\{b196b287-bab4-101a-b69c-00aa00341d07}{WILDCARD_ANY_STRING}Lamantine.StickyPassword

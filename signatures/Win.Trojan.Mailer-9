@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Mailer-9
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+$mensagem = stripslashes($mensagem); $headers = "mime-version: 1.0\r\n"; $headers .= "content-type: text/html; charset=iso-8859-1\r\n"; $headers .= "from: ".$nome." <".$de.">\r\n"; if (mail($mail, $assunto, $mensagem, $headers)

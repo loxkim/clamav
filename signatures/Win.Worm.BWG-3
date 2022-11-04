@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.BWG-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+wfau.vbs
+copy 1 C:\Windows\wvwnc.bat
+echo.ON ERROR RESUME NEXT >gwfa

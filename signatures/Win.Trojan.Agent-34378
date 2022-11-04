@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Agent-34378
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set Reg = CreateObject(eyPOIEkEBq("mmfiT/uqjsdTX"))
+Set fso = CreateObject(eyPOIEkEBq("udfkcPnfutzTfmjG/hojuqjsdT"))

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Randir-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+echo worm >> %ramdom%.exe echo worm >> %ramdom%.exe echo worm >> %ramdom%.exe cd\ cd windows mkdir %ramdom%

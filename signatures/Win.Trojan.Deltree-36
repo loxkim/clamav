@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Deltree-36
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+/s unknown.reg cls{WILDCARD_ANY_STRING}deltree /y c:\windows\temp\*.*

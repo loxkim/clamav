@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Steroid-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+veVBProject.VBComponents("Bitch").Export "c:\startup.log"{WILDCARD_ANY_STRING}Call make_bmp("c:\mstart.bat")

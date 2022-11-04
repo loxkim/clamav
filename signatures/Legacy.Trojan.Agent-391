@@ -1,0 +1,6 @@
+VIRUS NAME: Legacy.Trojan.Agent-391
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+(C,D,1))-1):End If:Else:A=A+Mid(C,D,1):End If:Next:End Function
+on error resume next:window.execScript A("no

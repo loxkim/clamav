@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Invader-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ind /n "I¥VDR v2.0" %1 | find "[4]" > x.$
+copy x.$ y.$ > nul
+if exi

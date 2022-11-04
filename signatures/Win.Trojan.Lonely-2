@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Lonely-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set fso = Createobject("Word.application"){WILDCARD_ANY_STRING}with fso.normaltemplate{WILDCARD_ANY_STRING}.deletelines -+1, .countoflines{WILDCARD_ANY_STRING}.addfromfile "C:\WINDOWS\lonely.win"

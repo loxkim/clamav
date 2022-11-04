@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Wazzu-42
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ordBasic.FileSaveAs WritePassword:="Assassins"{WILDCARD_ANY_STRING}F$ = WordBasic.[FileName$]() + ":aUtOopEN"

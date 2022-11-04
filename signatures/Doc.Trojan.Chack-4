@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Chack-4
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If (NMacr <> "WildKid") And (NMacr <> "HardCore") And (NMacr <> "ThisDocument") Th

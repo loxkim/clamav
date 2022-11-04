@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.TrickBot-9941369-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cdm0.1.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BrandSignature=BC3E526715CD4C844B60B5BFC5CB4823B07FF4CE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Hhttp://crl.xii.tcclass2-ii.trustcenter.de/crl/v2/tc_class2_L1_CA_XII.crl0
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Fhttp://www.trustcenter.de/certservices/cacerts/tc_class2_L1_CA_XII.crt06
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AppName=Freeware.de Download Manager

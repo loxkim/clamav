@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.LifeStages-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+numNetworkDrives
+If Q.Count>0 Then
+For B=0 To Q.Count-1
+If Q.Item(B)<>"" Then
+If P.FolderExists(K(Q.Ite

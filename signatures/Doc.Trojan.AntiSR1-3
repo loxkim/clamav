@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.AntiSR1-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+onents(I).Name = "FuSR_1" Then NormInstall = True{WILDCARD_ANY_STRING}With .VBComponents.Import("c:\FuSR_1.bas")

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Butcher-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ip) do pkzip %%z %0
+for %%q in (*.ans c:\max\*.ans) do type c:\butcher.txt >> %%q
+@ctty con
+:(c) Steel

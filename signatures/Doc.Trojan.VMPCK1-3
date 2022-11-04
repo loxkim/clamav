@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.VMPCK1-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Application.VBE.ActiveVBProject.VBComponents("Tycho").Export "c:\tycho.nis"

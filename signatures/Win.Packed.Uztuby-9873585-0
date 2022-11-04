@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Uztuby-9873585-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RunProcess
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+1032<;@?BADCMLONQPRPSPTPVUZY[Y\Y]Ycbedgfihmlonpnqnrnsntnunvnwnxnynzn{n|n}n~n
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+{{Left={0},Top={1},Right={2},Bottom={3}}}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+72105bdea4b5a323e66b251a256c80719afc3f9d
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+hrdwindowsize

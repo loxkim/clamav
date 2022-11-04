@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Coinminer-9957976-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+github.com/robvanmieghem/go-opencl/cl.ErrExecStatusErrorForEventsInWaitList
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+t64nangcscandonegetsockoptgoroutine gp.stkbar=http_proxyimage/jpeginvalidptrkeep-alivenonceGrindntdll.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+at *(socket operation on non-socketstream error: stream ID %d; %vsync: inconsistent mutex statesync: unlock of unlocked mutextr
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\haitao\go\src\github.com\robvanmieghem\go-opencl\cl
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+megetservbynamegzip, deflatehttp2client=0if-none-matchimage/svg+xmlinvalid base kernel32.dll

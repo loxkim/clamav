@@ -1,0 +1,15 @@
+VIRUS NAME: Win.Ransomware.Locky-4
+TDB: Engine:81-255,Target:4
+LOGICAL EXPRESSION: 1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nvoice_J
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: Content-Disposition\x3a attachment\x3b filename="Invoice_J-[0-9]{8}\.doc
+     +-> CFLAGS: i

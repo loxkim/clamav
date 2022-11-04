@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Downloader.Snojan-9775503-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+A password is required to begin the installation of IDM Patch 6.27. Type the password and then click "Next".
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CrackingPatching.com
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+If you accept the terms of the agreement, click I Agree to continue. You must accept the agreement to install IDM Patch 6.27.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Setup is now ready to begin installing IDM Patch 6.27 on your computer.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+For installing IDM Patch 6.27 on disk %s insufficiently free place. Try to choose other disk.

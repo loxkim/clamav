@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.FS-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Open £^ & "&" For Output As #£b{WILDCARD_ANY_STRING}£d.AddFromFile (£^ & "&&")

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hopper-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If NT.Lines(1, 1) <> "'<!--1nternal-->" Then{WILDCARD_ANY_STRING}For i = 1 To 19

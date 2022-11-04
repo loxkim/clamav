@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6803368-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Version="12.0.4518.1014" Platform="x64" LocalizationTransform="ShellUI">
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Feature Id="MsoCommonShellHandler64bit" Cost="1602696">
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Package Id="Office64WW" Type="MSI" Path="Office64WW.MSI" Version="1.0" ProductCode="{90120000-002A-0000-1000-0000000FF
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+visuavisua<?xml version="1.0" encoding="utf-8"?>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Feature Id="ProductNonBootFiles64" Cost="2806120">

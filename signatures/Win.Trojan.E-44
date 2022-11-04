@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.E-44
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+exec "/usr/bin/errpt","-{WILDCARD_IGNORE}","{WILDCARD_IGNORE}"."\x2f\xf2\x2a\x40"x1320;

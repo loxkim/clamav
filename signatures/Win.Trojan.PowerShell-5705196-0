@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.PowerShell-5705196-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+$aes=$null;$s2=$null;$wc=$null;$eb2=$null;$raw=$null;$iv=$null;$wc=$null;$i=$null;$ib2=$null;[gc]::collect();invoke-empire -servers

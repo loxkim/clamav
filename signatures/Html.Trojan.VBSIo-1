@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.VBSIo-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+) = 2 or Day(Now) = 10 or Day(Now) = 12 or Day(Now) = 16 or Day(Now) = 28 then 
+MsgBox "Fermats Last Theorem

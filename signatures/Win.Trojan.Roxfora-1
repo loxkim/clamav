@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Trojan.Roxfora-1
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: (0&1&2&3)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+paypal.com"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$sip & " www.citibank.com.br" $readd [ 0x00000044 ] = $sip & " citibank.com" $readd [ 0x00000045 ] = $sip & " www.itau.com.br" $readd [ 0x00000046 ]
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+run ( $encrapp2 & "\kill.exe" )
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hosts file

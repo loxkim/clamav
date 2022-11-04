@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Tarap-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Day(Now) = a Then MsgBox "The Dark is Ready... Este documento es una basura", 2046, "Tarapoto Virus 2000"

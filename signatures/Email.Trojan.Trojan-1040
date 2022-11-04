@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-1040
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Please open the attachment and you will be guided through a simple{WILDCARD_ANY_STRING(LENGTH<=16)}to install your new digital certificate

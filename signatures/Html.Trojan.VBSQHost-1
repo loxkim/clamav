@@ -1,0 +1,7 @@
+VIRUS NAME: Html.Trojan.VBSQHost-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ts.write  "127.0.0.1  avp.com"& vbCrLf
+ts.write  "127.0.0.1  www.kaspersky.com "& vbCrLf
+ts.write  "127.0.0.1  www.avp.com"& vbCrLf

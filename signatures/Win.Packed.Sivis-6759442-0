@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6759442-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%%CMYKProcessColor: 1 1 1 1 ([Registration])
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Resources << /ColorSpace << /CS0 59 0 R /CS1 58 0 R /CS2 57 0 R >> /Pattern << /P0 10 0 R >> >> 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<< /S 72 /T 140 /Filter /FlateDecode /Length 104 0 R >> 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Names [ (SBRejected=Rejected)43 0 R (SHAccepted=Accepted)29 0 R (SHInitialHere=Initial Here)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<< /Height 112 /Width 128 /BitsPerComponent 8 /ColorSpace /DeviceRGB 

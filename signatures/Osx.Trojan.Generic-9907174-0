@@ -1,0 +1,28 @@
+VIRUS NAME: Osx.Trojan.Generic-9907174-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GSSySScyyctFZy10Foundation0M0VSg_So13NSURLResponseCSgs5Error_pSgtcfU_TA.3722
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GSSySScyyctFZy10Foundation0M0VSg_So13NSURLResponseCSgs5Error_pSgtcfU_04$s19ab12_extension22deF54C13sendPageVisit9userAgent4curl6
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+refurlySS_S2StFyycfU0_0vab1_wdefxyZ33Agent4curl6refurlySS_S2StFySScfU_Tf3nnnpfpf_n
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+url0I4InfoySS_SbS2SSDySSypGSgtFyycfU0_0vab1_wdefxyZ49RR4curl6refurl0I4InfoySS_SbS2SSDySSypGSgtFySScfU_Tf3nnnpfpf_n
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+r_pSgtcfU_

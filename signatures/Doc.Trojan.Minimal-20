@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Minimal-20
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+b = "a"{WILDCARD_ANY_STRING}Application.VBE.ActiveVBProject.VBComponents("a").Export (b)

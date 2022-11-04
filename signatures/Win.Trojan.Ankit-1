@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Ankit-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+type %0 >> c:\windows\dosstart.bat{WILDCARD_ANY_STRING}ankit.wab" del "C:\WINDOWS\Application Data\Microsoft\Address Book\ankit.wab"

@@ -1,0 +1,6 @@
+VIRUS NAME: Legacy.Trojan.Agent-58
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+open (jaera,">>$caxe1") or die "nao deu pra abrir ou criar caxe1.txt";
+print jaera "$ja[$t]$lista1\n";

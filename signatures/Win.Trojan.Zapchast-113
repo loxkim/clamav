@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Zapchast-113
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+dir \sfv.* /a /s /b >> Scanin{WILDCARD_ANY_STRING}dir \psexec.exe /a /s /b >> Scani{WILDCARD_ANY_STRING}dir \mirc.ini /a /s /b >> Scaning-Files{WILDCARD_ANY_STRING}dir \*.uin /a /s /b >> Scaning-Fil

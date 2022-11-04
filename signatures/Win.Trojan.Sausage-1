@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Sausage-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+newItem.Subject = "Here your invoice"{WILDCARD_ANY_STRING}attachments.Add FileSystemObject.GetSpecialFolder(0) & "\Max.vbs"

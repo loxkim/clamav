@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-64
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+^ plain_str.charCodeAt(i)); return xored_str; } var plain_str = "\x28\x05\x02\x05\{WILDCARD_ANY_STRING}44\x36\x28"; var xored_str = xor_str(plain_str, 8); document.write

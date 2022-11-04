@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Objchk-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+c:\drivers\test\objchk_win7_x86\i386\ssdthook.pdb{WILDCARD_ANY_STRING}ZwQueryDirectoryFile

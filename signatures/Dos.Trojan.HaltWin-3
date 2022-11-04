@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.HaltWin-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo set d = c.AddressLists(y) >>c:\windows\system\mmailer.vbs 

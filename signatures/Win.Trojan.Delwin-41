@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Delwin-41
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+@del "c:\windows\temp\" *.tmp
+@del "c:\windows\" *.exe
+@del "c:\windows\system32\" *.exe

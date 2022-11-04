@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Vgen-65
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f '%_passion%==' goto _passion
+::**** HOST **

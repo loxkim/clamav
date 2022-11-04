@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-132
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+adodb.stream" set mm = data.createobject(rrr,"") mm.type = 1 mm.open ysha="get" x.open ysha, url, false x.send mm.write x.responsebody exe="{WILDCARD_ANY_STRING(LENGTH>=1&&<=5)}.bat

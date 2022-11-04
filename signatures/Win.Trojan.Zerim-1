@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Zerim-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ter < 5) Then
+	If (TheirFavorites) Then
+		fso.CopyFile TheirFavorites & "\*.com*", Home & "\Hi From Anonymizer!"
+
+		cou

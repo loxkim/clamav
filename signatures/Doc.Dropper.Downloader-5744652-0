@@ -1,0 +1,16 @@
+VIRUS NAME: Doc.Dropper.Downloader-5744652-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Customizable = True
+Private Declare PtrSafe Function 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Private Sub {WILDCARD_ANY_STRING(LENGTH>=5&&<=25)}()
+AddSpace
+End Sub

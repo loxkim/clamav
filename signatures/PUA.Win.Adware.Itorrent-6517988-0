@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Itorrent-6517988-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://download.yandex.ru/yandex-pack/downloader/downloader.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Only literals are allowed as arguments to processing-instruction()
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ipartner%i_%i_%i.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Unmatched brace near processing-instruction()
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<xmpMM:OriginalDocumentID>xmp.did:64e24bf9-b59d-5c48-a717-7044a893be30</xmpMM:OriginalDocumentID>

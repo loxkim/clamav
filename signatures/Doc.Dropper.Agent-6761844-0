@@ -1,0 +1,30 @@
+VIRUS NAME: Doc.Dropper.Agent-6761844-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Environ(
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CreateObject(
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FileCopy
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.Run
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1&2&3
+     +-> REGEX: (?P<obj>\w+)\s*\x3d\s*CreateObject\x28[^\x28\x29]+\x2eTag[\s\S]*(?P=obj)\x2eRun.+\x26.+\x2eTag
+     +-> CFLAGS: (null)

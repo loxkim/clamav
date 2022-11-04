@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Razy-6895650-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<rdf:Description rdf:about="uuid:2c2f6ffd-46d6-11df-9c95-c305bc171651" xmlns:xapMM="http://ns.adobe.com/xap/1.0/mm/">
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<rdf:Description rdf:about="uuid:2c2f6ffd-46d6-11df-9c95-c305bc171651" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<rdf:Description rdf:about="uuid:2c2f6ffd-46d6-11df-9c95-c305bc171651" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/">
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+upload.ee500.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<xapMM:DocumentID>adobe:docid:photoshop:2c2f6ffc-46d6-11df-9c95-c305bc171651</xapMM:DocumentID>

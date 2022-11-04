@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.WindowBomb-4
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+varicounter=0{WILDCARD_ANY_STRING(LENGTH<=30)}while(true){window.open("http{WILDCARD_ANY_STRING(LENGTH<=25)}","crashing"+icounter,"width=1,height=1,resizable=no")icounter++}}

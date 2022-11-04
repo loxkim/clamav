@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1265
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Dear value customer,{WILDCARD_ANY_STRING(LENGTH<=4)}You have received 1 new message waiting in your inbox folder

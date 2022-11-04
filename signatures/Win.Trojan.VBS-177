@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VBS-177
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+.copyfile{WILDCARD_ANY_STRING(LENGTH<=10)}jpabnmor &jpabnfiles(jpabns) & ".vbs"

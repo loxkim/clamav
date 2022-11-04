@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Furby-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+onth(Now()) = 7 And Day(Now()) = 13 Then System.PrivateProfileString("", "HKEY_CLASSES_ROOT\Word.RTF.8", "") = "Rich Furby Format"

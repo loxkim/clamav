@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.U-87
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if (file $f |grep shell && [ -f $f -a -w $f ] && ! head -n 2 $f |grep Kr0) >/dev/null;then

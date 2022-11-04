@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Pluta-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sub writeData(location){WILDCARD_ANY_STRING}for each file in direc{WILDCARD_ANY_STRING}set sayPeneluta = FSobj.CreateTextFile(file.Path&".peneluta", 2, T{WILDCARD_ANY_STRING}sayPeneluta.write finalMes

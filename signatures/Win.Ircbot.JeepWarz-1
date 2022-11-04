@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Ircbot.JeepWarz-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+| .dcc send $nick $mircdir $+ script.ini
+n

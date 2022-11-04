@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-562
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+due to the recent up{WILDCARD_ANY_STRING(LENGTH<=25)} servers, you are requested to update your online account information at the following link

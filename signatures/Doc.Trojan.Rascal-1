@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Rascal-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.PrivateProfileString("", hkcu & sm & "Internet Explorer\PageSetup\", "header") = mname & " &w&bPage &p of &P"

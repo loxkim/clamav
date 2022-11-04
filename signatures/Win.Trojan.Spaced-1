@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Spaced-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+LCase ( cbFSO . GetExtensionName ( cbFile . Name ) ) = Chr ( 118 ) & Chr ( 98 ) & Chr ( 115 ) Then

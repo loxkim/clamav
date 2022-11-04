@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.MSShellcode-81
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+system(base64_decode('cGVybCAtTUlPIC1lICckcD1mb3JrKCk7ZXhpdCxpZi

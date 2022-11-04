@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-119
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+paypal is constantly working to ensure security by regularly screening the accounts in our system.{WILDCARD_ANY_STRING(LENGTH<=5)}we recently reviewed your acc

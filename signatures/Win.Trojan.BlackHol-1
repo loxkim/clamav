@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Trojan.BlackHol-1
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: (0&1&2)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+warnstreifen_gelb_73481_thumb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+isightvideo
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FileBrowserWindow.tcplist

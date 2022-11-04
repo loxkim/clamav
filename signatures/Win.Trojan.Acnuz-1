@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Acnuz-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set %tempFile $getdir( [ *. $+ $gettok($sockname,$gettok($sockname,0,46),46) ] ) $+ $gettok($sockname,$gettok($sockname,0,47),47)

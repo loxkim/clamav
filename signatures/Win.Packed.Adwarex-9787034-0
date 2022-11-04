@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Adwarex-9787034-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://lyricwiki.org/%s:%s!http://search.yahoo.com/search?p=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<dpiAwareness xmlns="http://schemas.microsoft.com/SMI/2016/WindowsSettings">PerMonitor</dpiAwareness>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+REG_LYRICS Get instant lyrics of the song you are listening to!<br/><br/>Lyrics Pane is a premium feature of Spider Play
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+freedb.freedb.orgnhttp://www.amazon.com/s/ref=nb_ss_dmusic/?tag=spidplayhome-20&url=search-alias%3Ddigital-music&field-k
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+EXECUTABLES Executables#ICON_PACKS Spider Player icon packs

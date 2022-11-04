@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Spyware.IMG-8
+TARGET TYPE: GRAPHICS
+OFFSET: *
+DECODED SIGNATURE:
+<iframe sr{WILDCARD_ANY_STRING(LENGTH<=200)}t=0 frameborder=0 marginwidth=0 marginheight=0></iframe>

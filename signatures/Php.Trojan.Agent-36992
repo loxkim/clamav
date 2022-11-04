@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.Agent-36992
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+$chdir=getcwd(); if(!$whoami)$whoami=exec("whoami"); ?><?php @set_time_limit(0);{WILDCARD_ANY_STRING(LENGTH<=1000)}administrators ;/add admin; net localgroup; users; /del admin'; $bn = $mhost;

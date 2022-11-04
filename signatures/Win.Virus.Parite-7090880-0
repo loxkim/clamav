@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Parite-7090880-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid owner=This control requires version 4.70 or greater of COMCTL32.DLL&Cannot change the size of a JPEG image
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+D2nd-level cache: 4 MBytes, 16-way set associative, 64 byte line sizeAInstruction TLB: 4 KByte and 2 MByte or 4 MByte pa
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.""4$%4"#6$#6$#6'%2#!4"!5#"4"!4"!2#!2#!5#$5#$5#$5#$3$!3$!5$!4# 4"!4"!4"!4"!0"#. !-##rhh
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+P66aBA`<<b<:^86_;;_;;`;=`;=^=:^=:\=:\=:^<<_==_==_==_>;^=:`<<_;;_;;_;;`<<`<<]>=W98U==
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnDragDrop8pD

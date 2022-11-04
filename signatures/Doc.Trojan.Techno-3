@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Techno-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If aDoc.VBProject.Description <> VrVersion Then GoSub VrInfect Else If aDoc.ProtectionType <> wdNoProt{WILDCARD_ANY_STRING}ponents.Import (VrFNa

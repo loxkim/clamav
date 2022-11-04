@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-19
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+echo "uname -a: $un<br>"; echo "os: $os<br>"; echo "id: $id1<br>"; echo "free: $all<br>"; echo "used: $no<br>"; echo "total: $used<br>";

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shutdown-7
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+user32.dll,swapmousebutton @echo off :loop start copy %0

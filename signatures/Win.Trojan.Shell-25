@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-25
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ons,'exec')){exec($command,$output);$output=join("\n",$output);$exec=$output;} elseif(is_callable('shell_exec') && !strstr($disablefunctions,'shell_exec')){$exec=shell_exec($command);} elseif(is_resource($output=popen($command,"r"))){while(!feof($output)){$exec=fgets($output);}pclose($ou

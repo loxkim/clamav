@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Enerbat-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+al Girl" copy nul c:\system.1st
+if exist c:\mydocu~1\xxx* copy nul %windir%\win.com
+if exist c:\mydocu~1\porn* copy 

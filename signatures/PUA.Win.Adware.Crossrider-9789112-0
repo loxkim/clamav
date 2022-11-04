@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Crossrider-9789112-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ILoadWebBrowserFromStream_get_Document_%d
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Abimelech called Isaac, and said, Behold, of a surety she is thy wife; and how saidst thou, She is my sister? And Isaac said un
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+4LOCALAPPDATA
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ddf6fbfdf5dfebeaf1cbeefaffeafbcbecf2c1ebecf2c1f0ffc1f8f1ecc1ebeefaffeafb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ignsoepcdjoradqgtpeskusfmanrfnjqlojq

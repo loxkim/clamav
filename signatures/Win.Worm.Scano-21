@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Scano-21
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+tfso=createobject("scripting.filesystemobject"{WILDCARD_ANY_STRING}pop="c:\recyc{WILDCARD_ANY_STRING}shell.run(pop)

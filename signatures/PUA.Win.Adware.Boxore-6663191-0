@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Boxore-6663191-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ supportato."Avvio dell'installer non riuscito.]Operazione del programma di installazione non completata. L'installazio
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ in corso un'altra installazione di %1!s!. Attendere che sia stata completata.VInstallazione non riuscita. Errore nell'a
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Installazione interrotta/Installazione di %1!s! non completa. Annullare?
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ viene disinstallata automaticamente quando non viene utilizzata da alcun software di %1!s!.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Installazione non riuscita. L'installazione di %1!s! richiede privilegi amministrativi. Esegui l'accesso come amministra

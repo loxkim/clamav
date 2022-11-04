@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Stress-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+soft\Windows\CurrentVersion\Run\...","C:\WINDOWS\system32\{WILDCARD_ANY_STRING(LENGTH<=30)}.vbs"{WILDCARD_ANY_STRING}for ctrentries=1 to a.addressentries.cou{WILDCARD_ANY_STRING}ttings\AutoConfigURL","file://c:/WIND

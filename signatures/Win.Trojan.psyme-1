@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.psyme-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+rootdir = workdir + "\malwarehost"{WILDCARD_ANY_STRING(LENGTH<=8066)}gswdemobd.lnk

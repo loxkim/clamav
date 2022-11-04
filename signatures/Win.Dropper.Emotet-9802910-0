@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Emotet-9802910-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+j|P<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GD^9X^b4p?pP_dXYefeZKH6oGJ5(!S0+D!biclB)KUk0cL0mqV+a$X$asC6hoc>k*^J5aXIDOm*MLGi+5Kk<8k6Jn
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7VPb -
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+H.TxI**l#sy
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+}1/P9v 

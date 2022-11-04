@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Startpage-516
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+intenert expieror.rrls" ::iconfile=%cd%\ @echo off echo [internetshortcut] >"%allusersprofile%\\.rrls" echo url=http://www.92nimm.com/?desk>>"%allusersprofile%\\.rrls

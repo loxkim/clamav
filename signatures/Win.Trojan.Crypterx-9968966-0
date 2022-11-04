@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Crypterx-9968966-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_=void 0}Pa()&&Db.console.log("JsAgent initCode initialization failed!")}})(!1)})()})();\n\n</script>',
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OfferName: token["option.name"],\n        });\n    });\n});\n//Adobe Target CS Integration End',language:"javascript"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+et v2",hostedLibFilesBaseUrl:"https://assets.adobedtm.com/extensions/EPbedd3319ed40490c996bc32f28af5a71/",settings:{targetSet
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(){this._logger.log("trackComplete"),this._trackInternal(me.SessionComplete)}},{key:"trackPlay",value:function(){this._logge
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d",value:function(){this._logger.log("trackSessionEnd"),this._trackInternal(me.SessionEnd)}},{key:"trackComplete",value:fun

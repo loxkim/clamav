@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Emotet-7587010-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Ellipse(Draw shapes with transparent backgrounds
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+4Supply a title for the drawing (up to 70 characters)1Display a dialog box that lets you pick any color1Change settings 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Future shapes drawn in green(Future shapes drawn in cyan (blue-green)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Future shapes drawn in yellow+Future shapes drawn in white (may not show) Future shapes drawn in dark gray!Future shapes
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MyDraw Settings

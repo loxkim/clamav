@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.DarkComet-9961766-1
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<tag>Component MSCOMCTL.OCX or one of its dependencies not correctly registered: a file is missing or invalid</tag>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+svchost_
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xlc&fga*+LMBZZI\VTBMQU\WCU_VEOPQFQ@VDmeulveopZPjknfsu[@px{ahsU`xzmii_W
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ylp&haoXlcotwws)9&@fqEkncdw-(~mhjdh~z>}nnuo{wiibqcfjJbu`f4mkwfwyfjgsfx%&*)ulj~&`cabpf}>UsgWonTthu'#
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+)P`~Zptnmb\hhsb##B146735:8(&twwAl}Vfwm&)wruUdf|aHfn`&)wruUdf|a

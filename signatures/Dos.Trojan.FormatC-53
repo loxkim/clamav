@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.FormatC-53
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo y|Format c:/q >nul

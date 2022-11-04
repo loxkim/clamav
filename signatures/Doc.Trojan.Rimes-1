@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Rimes-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+.", vbCritical, "ERROR") = vbOK{WILDCARD_ANY_STRING}ActiveDocument.Password = (1313 * Rnd)

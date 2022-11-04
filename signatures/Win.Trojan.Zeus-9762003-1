@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zeus-9762003-1
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7T`brD;knOYx1tSKLIR9DPkBA[JOAjEwsVCeUF\mQQ<<hv6d/b5RfRNDb]-hy.|;VX{(8_?p4it>K:ofgdlTHT1]E_ej\0_=xq\+paw3llW@m<QhJfOV+mi
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+QhJfOV+mi_(xHl?IBU[sACScZ5On:YP?r,-*2ocoLa`z+0wKdX>uyEt|=Np1r[3WU.e,jqFq/zC>c2ZMGZv9\HW)uPS4U]kY
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d/b5RfRNDb]-hy.|;VX{(8_?p4it>K:nfgdlTHT1]E_ej\0_=xq^+paw3llW@m<QhJfOV+mi_(xHl?IBU[sACScZ5On:YP?
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+iGo7a7J@^BgM^hbu;T`brD;knOYx1tSKLIR9DPkBA[JOAjEwsVCeUF\mQQ
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+scoLa`z+0wKdX>uyEt|=Np1r[3WU.e,jqFq/zC>c2ZMGZv9\HW)u@S4

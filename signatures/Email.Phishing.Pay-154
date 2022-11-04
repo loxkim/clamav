@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-154
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Dear VISA card holder,{WILDCARD_ANY_STRING(LENGTH<=4)}As part of our security measures, we regularly check{WILDCARD_ANY_STRING(LENGTH<=2)}the transactios made form

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zegost-9834278-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Microsoft? Windows? Operating System             
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+O]mnsqz{omjh'D`vbP@glzfydRAjyUEE\NVb|WWT^GQOHNR~SNFr]IZZC;;3y 39S\]^
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$%&' !"#,-./()*+45670123<=>?89:;DEFG@ABCLMNOHIJKTUVWPQRS\]^_XYZ[defg`abclmnohijktuvwpqrs|}~
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$%&' !"#,-./()*+45670123<=>?89:;DEFG@ABCLMNOHIJKTUVWPQRS\]^_XYZKtuvwpqry|}~
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+45670123<=>?89:;$%&' !"#,-./()*+TUVWPQRS\]^_XYZ[DEFG@ABCLMNOHIJKtuvwpqrs|}~

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9909410-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+i]w+i]w/i]w#i]w'i]w;i]w?i]w3i]w7i]wKi]wOi]wCi]wGi]w[i]w_i]wSi]wWi]wki]woi]wci]wgi]w{i]w
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+i]w+i]w/i]w#i]w'i]w;i]w?i]w3i]w7i]wKi]wOi]wCi]w[i]w_i]wSi]wki]woi]uci]
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+o7p/('s+p'x)s'x)N'x)E'x)`'{)M'|)h'z(H
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\]}$\]ld}m
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\, }y5D

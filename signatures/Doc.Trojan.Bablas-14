@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bablas-14
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If InputBox("Enter password", "Hacker Cracker") = "asruloke" Then

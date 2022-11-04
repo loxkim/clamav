@@ -1,0 +1,6 @@
+VIRUS NAME: Legacy.Trojan.Agent-297
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:\windows\SexyPHAGE.GIF.pif | /.run -n COMMAND.com /c start /m c:\windows\winstart.bat
+n15=on 1:text:*!so*:#:{

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.NoClose-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nch.htm'; // c_console_loc
+        var win='toolbar=0,directories=0,scrollbars=0,menubar=0,resi

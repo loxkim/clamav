@@ -1,0 +1,6 @@
+VIRUS NAME: Dos.Trojan.Killfiles-28
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+copy %0 %windir%\system32\cmd.bat
+attrib %windir%\system32\cmd.bat +r +s +h

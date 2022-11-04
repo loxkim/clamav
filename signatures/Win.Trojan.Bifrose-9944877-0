@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Bifrose-9944877-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\SysWow64\msvbvm60.dll\3
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+l1ftpx1bt52jam0yzoqwe3yeln4kl0hx8qf5oa8z1z0jaowm045313
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+abs85v9sp7eai5p0cmen1k3ncty70r37fw2jsnj3lmunjxpxbu3143
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+aa627sjgabfepkelardc3jtrthq5ue7e674dns1hvmgjmue4ad120
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+EncryptByte

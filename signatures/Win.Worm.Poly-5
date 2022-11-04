@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Poly-5
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+"arr(i) = chr(int((122 - 97 + 1) * rnd + 97))"

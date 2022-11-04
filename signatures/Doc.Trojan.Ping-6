@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ping-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Shell " ping -l 5000 -t kkk.c{WILDCARD_ANY_STRING}ument.Saved = SAVIT

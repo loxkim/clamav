@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-199
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.encode"><script language="vbscript"></script>{WILDCARD_ANY_STRING}.createobject("m"&"i"&"c"&"r"&"o"&"s"&"o"&"f"&"t"&"."&"x"&"m"&"l"&"h"&"t{WILDCARD_ANY_STRING}.shellexecute

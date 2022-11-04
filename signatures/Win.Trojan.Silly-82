@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Silly-82
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+& "\{WILDCARD_ANY_STRING(LENGTH<=13)}/e,/select, " & wscript.scriptfullname

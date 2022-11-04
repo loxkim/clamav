@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Downloader.Incredimail-9776073-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ediMail" /><Parameter name="root" value="http://www5l.incredimail.com/im/imsetup/201206101150/test/tg3/installer/" /><Param
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7,12,1,964269845918296660,,,,999,http://www.incredimail.com/french/download/im_download/ff_butler5.aspx" /><Parameter name="di
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+id" value="mb96" /></Table><@@>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+><Parameter name="br_accept_lang" value="1036" /><Parameter name="br_country" value="FR" /><Parameter name="product" v
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+name="app_test_id" value="2" /><Parameter name="affid" value="620965" /><Parameter name="msc" value="10003" /><Param

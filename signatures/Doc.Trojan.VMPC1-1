@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.VMPC1-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ect.VBComponents("{WILDCARD_ANY_STRING(LENGTH<=20)}").Export "c:\{WILDCARD_ANY_STRING}alse Then Set {WILDCARD_ANY_STRING(LENGTH<=20)} = NormalTemplate.VBProject.VBCo{WILDCARD_ANY_STRING}mport "c:\{WILDCARD_ANY_STRING}iveDocument.SaveAs FileName:=ActiveDocument.Full

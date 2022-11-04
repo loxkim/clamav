@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-26
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f st = 0 Then rl.Item(Abs(1)).codemodule.replaceline 1, "Sub AutoClose()"

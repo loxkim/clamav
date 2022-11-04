@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7619647-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0Œ10
+	’&‰“ò,d
+94L7GSM3LR1503U,Apple Development: TURKY MOHMAD (6W3C7797D6)10U
+UC5749625Y10U
+TURKY MOHMAD10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0200209080223Z210208080223Z

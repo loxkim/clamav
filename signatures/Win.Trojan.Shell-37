@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-37
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<textarea readonly rows=\"15\" cols=\"150\">".@htmlspecialchars(shell($_post['command']))."</textarea><br><input type=\"submit\" value=\"execute\">

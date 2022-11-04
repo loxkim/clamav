@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1201
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+our online banking security team observed multiple logons on your account, from different ip's{WILDCARD_ANY_STRING(LENGTH<=50)}for your security

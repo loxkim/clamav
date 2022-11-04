@@ -1,0 +1,7 @@
+VIRUS NAME: Email.Trojan.Trojan-665
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Unfortunately we failed to deliver postal package you =
+have sent{WILDCARD_ANY_STRING(LENGTH==57)}because the recipient&#8217;s address is =
+wrong

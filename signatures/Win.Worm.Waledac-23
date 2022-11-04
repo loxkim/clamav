@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Waledac-23
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+buyacert{WILDCARD_ANY_STRING(LENGTH<=10)}Software\Microsoft\Windows\CurrentVersion\Failsign

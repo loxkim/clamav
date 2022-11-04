@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Love-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+opy ("c:\windows\desktop\Love.vb{WILDCARD_ANY_STRING}et Map = worm.GetFolder("c:\")

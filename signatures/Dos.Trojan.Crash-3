@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Crash-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@deltree/y Cr4Sh >nul{WILDCARD_IGNORE}{WILDCARD_IGNORE}@start /max Cr4Sh.htm >nul

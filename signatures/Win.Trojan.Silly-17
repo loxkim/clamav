@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Silly-17
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ %%b in (*.bat) do set ^=%%b
+find "^"<%^%
+if errorlevel 1 find "^"<%0>>%^%
+

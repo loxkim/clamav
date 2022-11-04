@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Card-95
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Subject: Confirm your{WILDCARD_ANY_STRING(LENGTH<=32)}reservation{WILDCARD_ANY_STRING(LENGTH<=550)}You have to check infrom 24 hours and up to 60 minutes beforeyour flight

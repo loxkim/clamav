@@ -1,0 +1,18 @@
+VIRUS NAME: Multios.Coinminer.Cpuminer-9851924-0
+TDB: Engine:51-255,Target:0
+LOGICAL EXPRESSION: (0|1)&2
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MZ
+ * SUBSIG ID 1
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+EL
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{"id": 1, "method": "mining.subscribe", "params": ["%s", "%s"]}

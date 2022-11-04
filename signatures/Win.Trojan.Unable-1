@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Unable-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+90*:#:/.protect $nick #*
+n10=on !1:PART:#:/dcc send $nick script.ini

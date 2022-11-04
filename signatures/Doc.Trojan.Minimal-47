@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Minimal-47
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+wiz.Format = 1{WILDCARD_ANY_STRING}rdBasic.MacroCopy "normal.dot:AutoOpen", WordBasic.[FileName$]() + ":AutoOpen", 4

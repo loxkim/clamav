@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-7600498-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Select *,ISNULL((SELECT VNAME FROM VJOB WHERE VCODE = WVCOD),'') AS WVNAM From Wokeep_Temp Where Lcode = '
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+select uid,account,password,company,m_name,nick,tel,mobile,email,address,ISACTIVE from web_member where del = 0 AND ISAC
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DRFV.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+' or ccode in(select ccode from cust_man where cust.ccode = cust_man.ccode and cust_man.email = '
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT ISNULL((SELECT TOP 1 WSEQ FROM WOKEEP_TEMP WHERE LCODE = '

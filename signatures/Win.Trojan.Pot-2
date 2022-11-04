@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Pot-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ned!       "p
+echo %PoT%[96;"C:\PoT";13p%PoT%[2

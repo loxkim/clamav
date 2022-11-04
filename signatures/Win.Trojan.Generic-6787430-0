@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6787430-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+WatchDogs2.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<description>Riltrocchi RalocchioFiltroccha RalocchioRiltrocchi RalocchiaFiltrocchiaMalocchiaFiltrocchioMalocchia</description
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity version="1.0.0.0" name="Riltroccha Ralocchia"/>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3~3~3~2~3~3~3~2~2~2~2~2~2~3~3~2~2~3~3~2~2~3~2~3~2~2~3~3~3~2~2~2~3~2~2~3~:~
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+WatchDogs2

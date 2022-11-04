@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ranetka-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If iris Mod 2 = 0 And Rnd < 0.3 And alco <> "End Sub" And alco <> "" Then{WILDCARD_ANY_STRING}SetAttr "c:\treinfo.___", 6

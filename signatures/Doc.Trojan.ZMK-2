@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.ZMK-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sgBox "T'as eu quelque(s) réponse(s) de fausse!!!" & Chr$(13) & "Dommage pour toi!!!", vbInformation, "GamesVirus"

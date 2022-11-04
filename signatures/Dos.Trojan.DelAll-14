@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.DelAll-14
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+del C:\WINDOWS\*.exe
+del C:\WINDOWS\*.com
+del C:\WINDOWS\*.bat
+del C:\WINDOWS\*.sys
+del C:\WINDOWS\*.dll

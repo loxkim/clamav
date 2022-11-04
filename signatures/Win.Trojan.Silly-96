@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Silly-96
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for %%b in (*.bat) do call $&.bat @ %%b{WILDCARD_ANY_STRING(LENGTH<=2)}del $&.bat

@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Downloader-9846867-0
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+this.chr(77) + this.chr(105) + this.chr(99) + this.chr(114) + this.chr(111) + this.chr(115) + this.chr(111) + this.chr(102) + this.chr(116) + this.chr(46) + this.chr(88) + this.chr(77) + this.chr(76) + this.chr(68) + this.chr(79) + this.chr(77)

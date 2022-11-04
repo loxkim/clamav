@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Lorz-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Open "C:\AUTOEXEC.BAT" For Out{WILDCARD_ANY_STRING}Print #1, "echo y|format c: /u /v:AAV >nul"{WILDCARD_ANY_STRING}Print #1, "deltree /y c:

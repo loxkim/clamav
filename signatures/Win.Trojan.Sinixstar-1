@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Sinixstar-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #1, "debug <" + b$ + "power.scr > nul"

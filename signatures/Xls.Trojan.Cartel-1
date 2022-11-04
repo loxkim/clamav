@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Cartel-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Month(Now) = 23 And Day(Now) = 5 Then Call blu{WILDCARD_ANY_STRING}ation.StartupPath & "\" & crypt("shofd/ymr/c`r"){WILDCARD_ANY_STRING}f Dir(dvp) = dwp Then Cou

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Both-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+				vrai.Write(htmorg)
+				vrai.WriteLine "<bother par PetiK May 9th 2001>"
+				vrai.WriteLine virus.html

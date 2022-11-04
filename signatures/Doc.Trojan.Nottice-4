@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nottice-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+pplication.OnTime When:=Now + TimeValue("00:05:00"), Name:="STAR.PaintStar"

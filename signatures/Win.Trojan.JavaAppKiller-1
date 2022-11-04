@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.JavaAppKiller-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ownloaded. */ 
+
+import java.applet.*;
+import java.awt.*;
+import java.io.*;
+
+public class AppletKiller extends java.appl

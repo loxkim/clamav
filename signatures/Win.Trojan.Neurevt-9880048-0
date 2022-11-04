@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Neurevt-9880048-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+ @echo off attrib +s +h{WILDCARD_ANY_STRING(LENGTH>=5&&<=50)} timeout 2 set {WILDCARD_ANY_STRING(LENGTH>=5&&<=100)}/start taskkill /f /im {WILDCARD_ANY_STRING(LENGTH>=5&&<=50)} taskkill /f /im {WILDCARD_ANY_STRING(LENGTH>=5&&<=50)} attrib -s -h {WILDCARD_ANY_STRING(LENGTH>=5&&<=50)} timeout 4 del 

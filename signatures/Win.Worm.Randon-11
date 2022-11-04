@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.Randon-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sHOle
+;;;;;;;;;;;;;
+
+alias NTServerScan {
+  if (

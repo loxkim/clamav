@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCBnc-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on *:sockread:BncServer*:{{WILDCARD_ANY_STRING(LENGTH<=8)}sockread %BncServer{WILDCARD_ANY_STRING(LENGTH<=8)}if ($sock(BncClient $+ $remove($sockname,Bnc

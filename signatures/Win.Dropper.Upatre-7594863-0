@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Upatre-7594863-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\0b14afa4d791efafff31d955b9d9221d5d94fb344a8dc57d7faf401e06b6b6c1.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\7851f47dee6d5395e67e40dee0829d441dd97c6d3df50c127687153b3c1a1c26.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\06ebfb0c2d90f4bf8cfd3717e939ffd79491fc742a4cf7fea526d0354d37f15d.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\04385448ddc38fe5c6702228c0e33860dc8c5a926da7adb6ea05aef2a57a16f3.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\37568540531b90ee_olacweegim.exe

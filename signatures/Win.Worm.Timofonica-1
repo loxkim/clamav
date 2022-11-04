@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Timofonica-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.Body & "I am the maker of HTTM.Jer Virus"
+         Mail.Body = Mail.Body & "http://siliciumrevolte.cbj.net."

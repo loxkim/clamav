@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Lee-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set {WILDCARD_ANY_STRING(LENGTH>=1&&<=8)} = createobject("scripting.filesystemobject"){WILDCARD_ANY_STRING}Set {WILDCARD_ANY_STRING(LENGTH>=1&&<=8)} = createobject("wscript.shell"){WILDCARD_ANY_STRING}.copyfile wscript.scriptfullname,

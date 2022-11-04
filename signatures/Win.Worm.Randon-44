@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Randon-44
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on 1:sockopen:ip*:{ if ($sockerr > 0) { halt } | set %445 % [ $+ [ $sockname ] ] | run {WILDCARD_ANY_STRING(LENGTH<=20)} /n /fh /r

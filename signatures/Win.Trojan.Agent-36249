@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Agent-36249
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+:try
+copy "C:\{WILDCARD_ANY_STRING(LENGTH<=25)}e.exe" "C:\Windows\update.1\svchost.exe"
+if Not exist "C:\Windows\update.1\svchost.exe" goto try
+del 

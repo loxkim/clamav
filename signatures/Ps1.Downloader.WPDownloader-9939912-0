@@ -1,0 +1,8 @@
+VIRUS NAME: Ps1.Downloader.WPDownloader-9939912-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+set-executionpolicy bypass -scope process -force ; powershell -ex bypass -nop -w 1 -ec

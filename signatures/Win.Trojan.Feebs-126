@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Feebs-126
+TARGET TYPE: HTML
+OFFSET: 0,50
+DECODED SIGNATURE:
+itle></head><body><script language={WILDCARD_ANY_STRING(LENGTH<=1)}javascript{WILDCARD_ANY_STRING(LENGTH<=1)}>eval(unescape("{WILDCARD_ANY_STRING}\\\\\\\\

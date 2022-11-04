@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6813434-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+&Download auto-update berikutnya di latar belakang, kemudian peringatkan saya untuk menginstal (direkomendasikan)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Yahoo updater akan berusaha untuk mengupdate aplikasi kembali di lain waktu Anda menggunakannya.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Untuk memperbaiki masalah ini, Anda dapat menutup proses YPager atau memboot ulang komputer Anda.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+&Tanya sebelum mendownload auto-update, kemudian peringatkan saya untuk menginstal
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Perubahan Tampilan,New update available! Do you want to update?

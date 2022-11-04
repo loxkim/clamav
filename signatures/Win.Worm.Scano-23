@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Scano-23
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+setfso=createobject("scripting.filesystemobject"){WILDCARD_ANY_STRING}=createobject("wscript.shell"{WILDCARD_ANY_STRING}=fso.createtextfile({WILDCARD_ANY_STRING},forwriting){WILDCARD_ANY_STRING}.write{WILDCARD_ANY_STRING}.close{WILDCARD_ANY_STRING}.run(

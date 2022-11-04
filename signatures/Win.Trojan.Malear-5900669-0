@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Malear-5900669-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\Happy\Work\Source\version 12\T+M\Result\DocPrint.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wscript.exe

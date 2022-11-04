@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Lagos-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ainfectar.codemodule.addfromstring ("Private Sub Document_Close()"){WILDCARD_ANY_STRING}Do While docum.codemodule.lines(bg, 1) <> ""

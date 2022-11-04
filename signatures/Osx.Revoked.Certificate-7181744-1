@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7181744-1
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0É10
+	’&‰“ò,d
+H58332ADTS1N0LUEiPhone Distribution: Jiangsu King's Luck Brewery Joint-Stock Co.,Ltd.10U
+H58332ADTS1907U
+0Jiangsu King's Luck Brewery Joint-Stock Co.,Ltd.10	UCN
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0190825063001Z220824063001Z

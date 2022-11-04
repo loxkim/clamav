@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Netstop-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+net stop sharedaccess
+echo open 222.191.251.99>>1.txt
+echo czh808>>1.txt

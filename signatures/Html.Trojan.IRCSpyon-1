@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCSpyon-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+set %spyserv $?="enter server?" $?="enter port?" | spyon } alias run.spy if ($?!"do you want to connect bot to $server?"

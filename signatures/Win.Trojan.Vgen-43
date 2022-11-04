@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Vgen-43
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ho off
+if !%1==!! goto %2
+if exist enter.ba

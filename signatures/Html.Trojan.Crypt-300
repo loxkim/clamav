@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Crypt-300
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+function n000(n001){var n002="";for(j=0;j<n001.length;j++){var n003=n001.charcodeat(j);if(n003>=8364){n003=128;}n002+=string.fromcharcode(n003-3);}return(

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.FS-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If NormalTemplate.VBProject.VBComponents(£d).Name Like "Vacuity" <> False Then £f = False

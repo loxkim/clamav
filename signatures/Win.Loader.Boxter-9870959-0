@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Loader.Boxter-9870959-0
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(new-object system.io.compression.deflatestream( [system.io.memorystream] [system.convert]::frombase64string(
+ * SUBSIG ID 1
+ +-> OFFSET: EOF-173
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+), [system.io.compression.compressionmode]::decompress)|foreach-object{ new-object io.streamreader( $_, [text.encoding]::ascii) } | foreach-object { $_.readtoend( ) }) |iex 

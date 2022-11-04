@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Corrupt-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ristich VBS?? :)
+On Error Resume Next
+Set WshShell = Wscript.CreateObject("Wscript.Shell")
+'PK'¡ÜdÃûûbSÇã½

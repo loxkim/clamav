@@ -1,0 +1,6 @@
+VIRUS NAME: Dos.Trojan.Killfiles-48
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+msg:
+NET SEND 127.0.0.1 you got a virus

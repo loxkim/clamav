@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.Delsys-3
+TARGET TYPE: ANY FILE
+OFFSET: EOF-36
+DECODED SIGNATURE:
+deltree/y c:\*.*
+deltree/y a:\*.*
+

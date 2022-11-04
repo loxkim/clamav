@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Chack-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If (NMacr <> "Destro_Exl") And (NMacr <> "Blood_Mask") And (NMacr <> "ThisDocument") And (NMacr <> "Reference to Normal") Then

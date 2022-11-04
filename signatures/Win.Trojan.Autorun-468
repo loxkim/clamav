@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Autorun-468
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+[autorun]
+USEAUTOPLAY=1
+shellexecute=izbrojim\\\natasucavic.exe
+shell\\Install\\command=izbrojim\\\natasucavic.exe
+shell\\open\\command=izbrojim

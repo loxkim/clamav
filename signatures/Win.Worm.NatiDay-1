@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.NatiDay-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Lo.jpg.vbs"
+email.DeleteAfterSubmit = True
+email.Send
+ws.RegWrite "HKEY_CURRENT_USER\Software\JeniferLopez"

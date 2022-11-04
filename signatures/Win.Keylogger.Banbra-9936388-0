@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Banbra-9936388-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cmd /K del /q /s /f "C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Cookies" & rd /s /q "C:\Users\%USERNAME%
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cmd /K del /q /s /f "C:\Users\%USERNAME%\AppData\Local\Microsoft\Intern~1" & rd /s /q "C:\Users\%USERNAME%\AppData
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unknown Protocol(Request method requires HTTP version 1.1DThis authentication method is already registered with class na
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+KUnsupported hash algorithm. This implementation supports only MD5 encoding.$Error accepting connection with SSL.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+2Cannot call Start on a running or suspended thread The specified file was not found$No help viewer that supports filter

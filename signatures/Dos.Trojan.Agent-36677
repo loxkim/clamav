@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36677
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off rem ###################################### if exist "%programfiles%\internet explorer\iexplore.exe" ("%programfiles%\internet explorer\iexplore.exe" http://www.sale.curvedspaces.com/click/001/ &&exit) if exist "%windir\explorer.exe" ("%windir%\explorer.exe http://www.sale.curvedspaces.com/click/001/ &&exit) rem ################### exit 

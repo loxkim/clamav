@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.TrickBot-9902436-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\User\Desktop\Visual 6.0\backup\viewex\Release\File.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tstpfqibljdqblabjbablrqrltlcdikabe9i9kcllgsksbt9s9dllsjlhtildiaccg99ekpghebjqidactmgeikbliit9qqitldjfaketfasqphesfeq9fdjrbtkmqgr
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lgcp9fq9idjf9iajfailpafspirshkttrcqchqkttbagleaam9cgqsbsmijjtjfibhqmlmpchicktfqmftpdmdhbjgsrlgljlcdgqrjl9mpmqkdissepctgksjjdqcla
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ 1994 - 2001 Microsoft Corporation.  All rights reserved.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+6The file is not supported by a Document Object server.A%1

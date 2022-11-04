@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6827183-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Delete from Misc where Misctype = 'STP' and Misccode = '000' and MiscDesc = '2.575' 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+insert into misc(Misctype, MiscCode, MiscDesc, DownLoadDateTime) 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Service Tax Calculation in Cns / Bill / MR is modified from 2.575 % to 3.09 %
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Misctype = 'STP' and Misccode = '000' and MiscDesc = '2.575' 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+values ('STP','000','3.09',null)

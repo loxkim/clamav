@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-683
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear {WILDCARD_ANY_STRING(LENGTH<=20)} customer,</font></p><p><font face="arial" size="2">this mail is to inform you about the important urgent updates of

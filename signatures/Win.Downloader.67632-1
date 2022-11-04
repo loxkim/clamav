@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.67632-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+S\system32\GbpServer32.exe{WILDCARD_ANY_STRING}\WinUpdatedata.exe

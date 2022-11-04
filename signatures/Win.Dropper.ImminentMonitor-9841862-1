@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.ImminentMonitor-9841862-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E:\SameP;QOJO\VS 2012\service3.1 - CopiQGkiqwice3.1\obj\Debug\service3.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mSystem.Resources.ResourceRQz|iq- mscorlib, Version=2.0.0.0
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+VX7eKPPvgUAqOF9AjmWSa0GH97Bcm3BH3tSrHDa9ergJRPgA0445qBnRSmO5kJofWC9sema4WF6mNI6SxAc0A4EzRybiNQ5bTU18ORsBKKVXquKdvyseh96S
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+41u1jEldfhfj6aRDvVfVcBYmR2dLNnOr3AZ2AgqKp0S40k4w9rdR.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;[youure=neutral, PublicKeyTokeZ&z;4`5c561934e089#System.ResourW~k"QtntimeResourceSet

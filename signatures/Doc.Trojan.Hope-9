@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hope-9
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If n <> 9 Then: r.deletelines 1, n: r.addfromstring k.VBProject.vbcomponents.Item(1).codemodule.lines(1, 9): Beep

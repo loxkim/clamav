@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Autorun-196
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+[AutoRun]
+open=system.pif
+shellexecute=system.pif
+shell\Auto\command=system.pif

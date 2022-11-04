@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.StartPage-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if(rnd == 0) window.open('http://school-fuck.com/',"kolyan","fullscreen,scrollbars");
+else if(rnd == 1) window.open('http://virgins-f

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Killfiles-43
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+~1\zonealarm
+@del f:\progra~1\norton~1 
+@dir D:\ Program Files\Armor2net\Armor2net Personal Firewall\UpDate.exe
+@

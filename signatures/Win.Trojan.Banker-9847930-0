@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Banker-9847930-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+src="/PersonalBank/netBank/zh_CN/accountInfoQueryAction.ebf?loginTimes=9&amp;preLoginDate=2013
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&amp;preLoginIp=118.249.124.150     " frameBorder=0 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+NUnable to retrieve a pointer to a running object registered with OLE for %s/%s&Cannot change the size of a JPEG image
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Yname=contentFrame></IFRAME></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://pay.htzbpme.com/

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Auction-241
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+From: "{WILDCARD_ANY_STRING(LENGTH<=25)}@validationserver.net" <{WILDCARD_ANY_STRING(LENGTH<=25)}@validat{WILDCARD_ANY_STRING}Question about Item -- Respond Now{WILDCARD_ANY_STRING}this message originated from eBay. <a href="http://pages.ebay.com/

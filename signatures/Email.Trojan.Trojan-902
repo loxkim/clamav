@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-902
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+To obtain you{WILDCARD_ANY_STRING(LENGTH<=2)}rdelivery please{WILDCARD_ANY_STRING(LENGTH<=4)}print out theattached document

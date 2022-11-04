@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.File.Miner-9790253-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+qExecute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+QExecute command when the best block changes (%s in cmd is replaced by block hash)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ping command is handled in queue with all other commands, so it measures processing backlog, not just network ping.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+QExecute command when a wallet transaction changes (%s in cmd is replaced by TxID)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CHECK failed: !serialized_payment_details_.IsDefault(&::google::protobuf::internal::GetEmptyStringAlreadyInited()): 

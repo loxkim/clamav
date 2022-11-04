@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Badboy-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+N 1:CONNECT:/join #vir{WILDCARD_ANY_STRING}erz, Im lame cause Im infected by a wOrM!

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Jeremy-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.CRim
+on error resume next
+Dim Fso, Drives, Drive, Folder, Files, File, Subfolders,Subfolder , w ,w1
+dim v

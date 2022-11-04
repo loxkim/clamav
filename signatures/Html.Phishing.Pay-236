@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-236
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+you can also confirm your email address by logging into your paypal acco{WILDCARD_ANY_STRING(LENGTH<=2)}unt at <a target="_blank" href="http:

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.WannaCry-9754757-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+vqp.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_UzZUzZUzZUzZUzZUzZUzZUzZUzZUzZUzZUzZUzZUzZUzZUzZUzZUzZUzZUzZUzZUzZUzZUzZUzZUzZUzZUzZ
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+remo ignari papera sane ampli ariose pc tra
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+maschi
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+denuda neutra stani manca farmi evacuo serio cedri volevi dirci bz sedute giunga ruolo buono restii barato errano livido

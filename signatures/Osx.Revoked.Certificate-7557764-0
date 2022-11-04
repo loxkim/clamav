@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7557764-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0›10
+	’&‰“ò,d
+7N7428282V1705U.iPhone Distribution: WuXi Baichun Tec. Co. LTD10U
+7N7428282V1"0 U
+WuXi Baichun Tec. Co. LTD10	UCN
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0200105013056Z230104013056Z

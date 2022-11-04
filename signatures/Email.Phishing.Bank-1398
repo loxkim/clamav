@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1398
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+we have decided to make an{WILDCARD_ANY_STRING(LENGTH<=23)}Update{WILDCARD_ANY_STRING(LENGTH<=8)}for all {WILDCARD_ANY_STRING(LENGTH<=2)}yorkshire bank users{WILDCARD_ANY_STRING(LENGTH<=4)}so you are to confirm your {WILDCARD_ANY_STRING(LENGTH<=2)}banking information

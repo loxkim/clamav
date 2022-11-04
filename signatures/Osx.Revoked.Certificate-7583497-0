@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7583497-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0Åì10
+	í&âìÚ,d
+2H9PU2L6WP1<0:U3Developer ID Application: Farah Roxana (2H9PU2L6WP)10U
+2H9PU2L6WP10U
+Farah Roxana10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$Developer ID Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0190423204523Z240423204523Z

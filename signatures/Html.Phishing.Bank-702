@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-702
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to initiate the update confirmation process{WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}you are now required to follow the link below{WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}and fill in the necessary fields. plea

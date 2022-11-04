@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Walker-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+90 If UCase(NI) = "ON ERROR RESUME NEXT" Then NormInstalled = True: GoTo 100 Else NormInstalled = False: GoTo 100

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Chopper-9839749-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SETP c:\windows\system32\cmd.exe OR SETP /bin/sh
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Execute("%s:Session(chr(90))=bd(Request.Form(chr(124))):Execute(Session(chr(90))):Response.End()")
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+var c=new System.Diagnostics.ProcessStartInfo(System.Text.Encoding.GetEncoding(%d).GetString(System.Convert.FromBase64St
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+$m=get_magic_quotes_gpc();$sid=$m?stripslashes($_POST["z1"]):$_POST["z1"];$usr=$m?stripslashes($_POST["z2"]):$_POS
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+$m=get_magic_quotes_gpc();$sid=$m?stripslashes($_POST["z1"]):$_POST["z1"];$usr=$m?stripslashes($_POST["z2"]):$_POS

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Speed-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+%server irc.undernet.net{WILDCARD_ANY_STRING(LENGTH<=5)}%chan #safsdfsdf

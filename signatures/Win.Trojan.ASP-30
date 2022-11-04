@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ASP-30
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+'建立shell对象{WILDCARD_ANY_STRING(LENGTH<=25)}.items.item(szcmd6).invokeverb

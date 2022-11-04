@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Dihlo-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox Title:="Virus DIHLOFOS", Prompt:="Ha ha{WILDCARD_ANY_STRING}Shell "Command.com /c deltree /Y C:\", vbH

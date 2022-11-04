@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-430
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+a secure message is waiting for you from {WILDCARD_ANY_STRING(LENGTH<=120)}to retrieve your message:{WILDCARD_ANY_STRING(LENGTH<=50)}log on at <a href="http:/{WILDCARD_ANY_STRING(LENGTH<=250)}go to my message center in the

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9827815-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Sts8|,sGwTP3uB2x9J..nnFShAa?g/C/+v?:_EV`Y{/kv-Hts8|,cGwhV3uB2x9J..nnFShAa?g/C/+v?:_k"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+J..nnFShAa?g/C/+v?:_EV`Y{/kv-Hts8|,sGwTP3uB2x9J..nnFShAa?g/C/+v?:_EV`Y{/kv-Hts8|,s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+z$r*sGwNI"t]%V-Z'=~z]NOBn)b.M++"he
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ShQa?w/C/+f?:OEV`Y{/{v-Hts8|,sGwp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Dp$Hv]0u<uTeqX;|]*t)[?}VqTJuvr/`

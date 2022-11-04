@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Bulz-9862592-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+libstd\sys\windows\mutex.rscannot recursively lock a mutexkernel32AcquireSRWLockExclusiveRecvErroralready mutably bor
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+runtimes/win-x86/lib/netcoreapp3.0/PresentationFramework-SystemData.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Unable to get NvPmChannel.dll path since CreateFilePathFromModuleFilePath failed
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\re\jdk7u67\1368\build\windows-i586\tmp\sun\sun.font\fontmanager\obj\fontmanager.pdb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\amigo_browser_38\amigo_3.0\src\components\dom_distiller\content\dom_distiller_viewer_source.cc

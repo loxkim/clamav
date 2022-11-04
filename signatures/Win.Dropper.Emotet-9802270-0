@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Emotet-9802270-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Warning: This program requires comctl32.dll version 4.71 or greater.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CMenuBar::OnMenuInput: handle VK_LEFT - m_bProcessLeftArrow=%d
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CMenuBar::OnMenuInput: handle RIGHT - m_bProcessRightArrow=%d
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Warning: CreateFileChangeThreads failed in GetLogicalDriveStrings
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-- Directory notify event was fired in CIEShellTreeCtrl --

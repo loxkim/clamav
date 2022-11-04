@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Emotet-7404283-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Failed to combind files!  Low on resources, or file is invalid.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VmZainkYfTPYcKeYZjcP7kaTpCfwAIeZ97PYkjFkTZlpBIixM1jkkNvRJo5XQjfykrBYj+pKMTTN0xhberih0GlJOhukrOh5Du5kO1RlOglguG3FlD6zRDf8CWxcdKXW
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+EiqD74pjhdShlyYyFqIrcT0bznb/AzFTP++RLU8PLBTyRfHRL2eqM/L813I9ajfONHNz7uV5TxRtpZtGC6ubgDv3wnV2pfPshinAtlztwIkhhZWbACfBXe+qs1rACdYJ
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+BitmapCase.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+JH0byCkFsOosKk8jcsvIupmwNVTyjp2Lb4B4WjwCub3ZdBxv1JdZH2h/bcJ0+HCmkeY/+1kBFRViTYFt

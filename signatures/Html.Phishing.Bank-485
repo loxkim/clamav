@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-485
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear sir/madam,<br{WILDCARD_ANY_STRING}<i>security advisor<br>hsbc bank plc.</i

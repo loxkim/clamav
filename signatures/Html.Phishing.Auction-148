@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-148
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<td><font face=arial size=4>ebay {WILDCARD_ANY_STRING(LENGTH<=75)} -- response required</font></td><td vali{WILDCARD_ANY_STRING(LENGTH<=550)}dear member,{WILDCARD_ANY_STRING(LENGTH<=1)}<br><br></td></tr><tr><td>ebay member 

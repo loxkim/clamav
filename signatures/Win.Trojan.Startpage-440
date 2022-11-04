@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Startpage-440
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.regwrite{WILDCARD_ANY_STRING(LENGTH<=4)}hkey_current_user\software\microsoft\internet explorer\main\start page

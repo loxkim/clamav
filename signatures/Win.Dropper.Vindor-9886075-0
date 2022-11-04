@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Vindor-9886075-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\Office\Source\groove\bin\ReleaseSym\GrooveMigrator.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Target already exisited for MoveFile of "%s" to "%s"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Documents And Settings\All Users\Application Data\Groove Networks\Groove\Temporary\
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s_asmv3:trustInfo xmlns:ms_asmv3="urn:schemas-microsoft-com:asm.v3"><ms_asmv3:security><ms_asmv3:requestedPrivileges>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Migrating SystemPermanentRoot from "%s" to "%s"

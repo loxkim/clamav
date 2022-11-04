@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Winbomb-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+varcount=1000{WILDCARD_ANY_STRING(LENGTH<=30)}nt.open("kill.htm","","")

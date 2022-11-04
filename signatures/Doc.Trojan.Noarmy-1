@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Noarmy-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+VB_Name = "NOSN"{WILDCARD_ANY_STRING}Private Sub Document_{WILDCARD_ANY_STRING}.AddressEntries({WILDCARD_IGNORE}){WILDCARD_ANY_STRING}Select Case Len({WILDCARD_ANY_STRING}CodeModule.InsertLines{WILDCARD_ANY_STRING}+ "http://altern.org/gigm/service.htm" +

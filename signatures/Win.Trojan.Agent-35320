@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Agent-35320
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+scripting.filesystemobject""):o=b.getspecialfolder(0):p=b.getspecialfolder(1):t=""\tyt.hta"":t0=""\startmenu\programs\startup

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Flystudio-9943950-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ert&target=top&css=http://qzs.qq.com/qzonestyle/qzone_mobile_v1/css/login.css
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://ui.ptlogin2.qq.com/cgi-bin/login?appid=15002005&hide_title_bar=1&no_verifyimg=1&s_url=http://qz.qq.com&f_url=loginerroral
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://flower.qzone.qq.com/fcg-bin/cgi_plant
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&act=love
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&act=rain

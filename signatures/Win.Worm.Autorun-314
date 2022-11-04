@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-314
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+shell\open\Command=RECYCLER\autoplay.exe

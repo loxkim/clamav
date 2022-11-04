@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-39
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+/b><form action=$self method=post><input type=hidden name=c value=t><textarea name=shell rows=".(!isset($skipshell)?10:4)." cols=60 style="width:100%;">$shell</textarea><br><input type=submit></form><p>"; if (!isset($skipshell)) { echo "<hr size=1 noshade>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<xmp>"; if ($system_access) system($shell); else die(

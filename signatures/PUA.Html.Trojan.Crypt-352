@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Html.Trojan.Crypt-352
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+n002.length;while(c<=n002.length-1){while(n002.charat(c)!="w")n001=n001+n002.charat(c++);c++;out=out+string.fromcharcode(n001);n001="";}document.writeln(out);}

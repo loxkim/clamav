@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-110
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear ebay member{WILDCARD_ANY_STRING(LENGTH<=60)}log in to your ebay account from a <br>foreign ip address and we have reasons to belive that your account was comprom

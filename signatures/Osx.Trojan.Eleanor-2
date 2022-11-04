@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.Eleanor-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if [ 0 = 1 ]; then snitch=1 fi{WILDCARD_ANY_STRING(LENGTH>=1500&&<=2300)}echo "sorry, mac os x $version is not yet supported."

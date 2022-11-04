@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-51
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+exec("rm -rf $0 && pkill perl"); } } sub query($) { my $url=$_[0]; $url=~ s/http:\/\///; my $host=$url; my $query=$url; my $page="" ; $host=~ s/href=\"?http:\/\///; $host=~ s/([-a-za-z0-9\.]+)\/.*/$1/; $query=~ s/$host//; if ( $query eq "" ) { $query="/" ; } eval { my $sock=io::socket::inet->new(peeraddr => "$host", peerport => "80", proto => "tcp") or return; print $sock "get $query http/1.0\r\nhost: $host\r\naccept: */*\r\nuser-agent: mozilla/5.0\r\n\r\n"; my @r = <$sock>; $page = "@r"; close($sock); }; return

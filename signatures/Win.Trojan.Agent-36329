@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36329
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+e=\(''\).substr; e=e\(\)['eva'+'l']; $ = "{WILDCARD_ANY_STRING(LENGTH<=100)} s=''; try{this.info.asd.wqr.qwr=1}catch\(q\){a="concat";} try{this.info.asd.wqr.qwr=1}catch\(q\){ s=

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.BAT-105
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+%tmp%\win\gova.vbs start wscript.e

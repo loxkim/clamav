@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Coinminer.Agent-6852411-0
+TARGET TYPE: MACHO
+OFFSET: *
+DECODED SIGNATURE:
+Usage: minerd [OPTIONS]{WILDCARD_ANY_STRING}Stratum connection failed: %s

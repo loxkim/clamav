@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7372461-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0 10
+	’&‰“ò,d
+85WY292W2K1@0>U7iPhone Distribution: Eska Septian Ardianto (85WY292W2K)10U
+85WY292W2K10U
+Eska Septian Ardianto10	UID
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0190409165938Z200408165938Z

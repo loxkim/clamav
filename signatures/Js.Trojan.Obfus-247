@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-247
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for(i=0;i<w.length;i++){z=e("w[i]");s=s+string.fromcharcode(4+z);}q={run:{run:function(n000){e(n000)}}};q.run.run(s);

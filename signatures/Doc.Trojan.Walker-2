@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Walker-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+r = r + Chr((Asc(Mid$(s, f, 1))) Xor k): Next: encr = r{WILDCARD_ANY_STRING}With Iam: .ReplaceLine 204, Kar: Z = .CountOfLines - 29: For X = 162 To Z

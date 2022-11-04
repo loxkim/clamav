@@ -1,0 +1,38 @@
+VIRUS NAME: Ps1.Trojan.Gamaredon-9967209-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4&(5|6)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[system.text.encoding]::utf8.getstring
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+start-job{WILDCARD_ANY_STRING(LENGTH<=20)}new-object -comobject msscriptcontrol.scriptcontrol.1;
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+.timeout = 999999
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.language = {WILDCARD_ANY_STRING(LENGTH<=1)}vbscript
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-runas32
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+icaldisk where deviceid
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+get-wmiobject win32_logicaldisk -filter {WILDCARD_ANY_STRING(LENGTH<=1)}deviceid={WILDCARD_ANY_STRING(LENGTH<=1)}$env:systemdrive

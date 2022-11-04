@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.GreenStripes-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+FUNCTION Green_Stripe_Virus()<:f>{WILDCARD_ANY_STRING}FileName=StrCat$(Left$(FileName,s),"SMM")

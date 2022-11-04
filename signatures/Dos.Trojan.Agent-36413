@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36413
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off c:\recycler\_dmp\io\system\regsviohost.exe echo chargement ioftpd

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6825104-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+n 4.70 o superior de COMCTL32.DLL No mostrar este mensaje otra vez&No mostrar esta informaci
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ logueado como administrador. Esto puede lograrse, por ejemplo, usando la opci
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error estableciendo %s. ConteoOEl estilo de la listbox (%s) debe ser virtual para poder establecer la cantidad2No se asi
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+conos!No se puede abrir el portapapeles'El texto excede la capacidad de memoria;La operaci
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ximo de archivo soportado (%s) del formato de archivo "%s" fue excedido.

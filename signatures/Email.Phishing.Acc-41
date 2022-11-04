@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Acc-41
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+until you re-validate your mailbox{WILDCARD_ANY_STRING(LENGTH<=10)}Please click the link below to re-validate your mailbox

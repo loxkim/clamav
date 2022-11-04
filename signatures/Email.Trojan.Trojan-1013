@@ -1,0 +1,7 @@
+VIRUS NAME: Email.Trojan.Trojan-1013
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Subject: Fwd: Re: Better Business Bureau Complaint{WILDCARD_ANY_STRING(LENGTH>=1670&&<=1690)}Content-Type: application/zip
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Complaint

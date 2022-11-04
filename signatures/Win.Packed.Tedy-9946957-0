@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Tedy-9946957-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://cdn.discordapp.com/attachments/807651439346319413/943821201015472128/inject_me.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PublicKeyToken=b03f5f7f11d50a3a|System.Text.Encoding.CodePages.dll|A41F100A20C52953C486B37BBE95D0F56B3E597D|766872
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.dotnetzip.dll.compressed|1.16.0.0|DotNetZip, Version=1.16.0.0, Culture=neutral, PublicKeyToken=6583c7c814667745|DotNetZi
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.liteguard.dll.compressed|2.0.0.0|LiteGuard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null|LiteGuard.dll|C69F0C85
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+uzun yol kullanan uygulama haline getirir. Bkz. https://docs.microsoft.com/windows/win32/fileio/maximum-file-path-limitation --

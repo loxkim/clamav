@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Anesc-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+"Private Function AntiScan(Number)" Then mceov = f + 1: f = mccol

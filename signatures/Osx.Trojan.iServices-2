@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.iServices-2
+TARGET TYPE: MACHO
+OFFSET: 145000,159000
+DECODED SIGNATURE:
+/usr/bin/iWorkServices{WILDCARD_ANY_STRING(LENGTH>=3100&&<=3200)}qwfojzlk.freehostia.com

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ursnifdropper-9802915-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<command:parameter required="false" variableLength="false" globbing="false" pipelineInput="false" position="named">
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<command:parameterValue required="false" variableLength="false">PacketIntegrity</command:parameterValue>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<command:parameterValue required="true" variableLength="false">string</command:parameterValue>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Install package="Package_404_for_KB3125574~31bf3856ad364e35~x86~~6.1.4.4" update="3125574-2238_neutDo~"e n>0~~-txe=
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Stage package="Package_477_for_KB3125574~31bf3856ad364e35~x86~~6.1.4.4" update="3125574-2683_neutral_LDR"/>

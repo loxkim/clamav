@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.CopyToAll-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for {WILDCARD_ANY_STRING(LENGTH<=10)} in (*.* .%path%\*.* .\*.* %windir%\*.* %windir%\system\*.* c:\*.*) do copy %0 %

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-247
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ade please click the link below to and complete the forms to cancel the transaction. <br>{WILDCARD_ANY_STRING(LENGTH<=260)}399>accept payment</font></a><b>adultfri

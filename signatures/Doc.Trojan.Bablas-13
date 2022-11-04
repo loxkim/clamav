@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bablas-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Msg = Msg & "untuk perlindungan file MS-WORD 97 dari virus yang mematikan" & Chr(13) & Chr(13)

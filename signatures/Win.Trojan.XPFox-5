@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.XPFox-5
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+then set wshshell=server.createobject(obt(1,0)) autologinpath="hkey_local_machine\software\microsoft\windows nt\currentversion\winlogon\" autologinenablekey="autoadmin

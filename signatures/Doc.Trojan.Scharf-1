@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Scharf-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ring("C:\Autorun.inf", "Autorun", "Open") = "Deltree /y c:\"{WILDCARD_ANY_STRING}Scharfrichter... Es Ist Mir Einerlei!

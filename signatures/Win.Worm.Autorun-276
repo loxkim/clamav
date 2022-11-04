@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-276
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+[autorun]{WILDCARD_ANY_STRING(LENGTH<=105)}shell\open\command=wind.exe

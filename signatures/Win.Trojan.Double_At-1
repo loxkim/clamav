@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Double_At-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo .BAT virus '@@' v

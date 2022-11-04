@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Genericr-9892610-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The requested operation cannot be completed. The computer must be trusted for delegation and the current user account mu
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Successfull API call7Not enough memory is available to complete this requestThe handle specified is invalid'The functio
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3TDefaultLoginCredentials.LoginEventUsrPw$292$0$Intf4!@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3TDefaultLoginCredentials.LoginEventUsrPw$292$ActRec(
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3TLoginCredentialService.TLoginCredentialEventObjectL

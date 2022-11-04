@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1212
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Please {WILDCARD_ANY_STRING(LENGTH==1)}click the link below to be {WILDCARD_ANY_STRING(LENGTH==2)}transferred to our secure servers to update your {WILDCARD_ANY_STRING(LENGTH==1)}details

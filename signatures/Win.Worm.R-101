@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.R-101
+TARGET TYPE: ANY FILE
+OFFSET: EOF-48
+DECODED SIGNATURE:
+= CreateObject("ComDll.1")
+Fuke.RuunResource(0)

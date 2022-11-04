@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.VMPCK1-16
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+izerCopy Source:=NormalTemplate.FullN{WILDCARD_ANY_STRING}For i = 1 To NormalTemplate.VBProject.VBComponents.Co{WILDCARD_ANY_STRING}If NormalTemplate.VBProject.VBComponents(i).Name = "

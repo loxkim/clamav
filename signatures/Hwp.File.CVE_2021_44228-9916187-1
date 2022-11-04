@@ -1,0 +1,30 @@
+VIRUS NAME: Hwp.File.CVE_2021_44228-9916187-1
+TDB: Engine:90-255,Target:0
+LOGICAL EXPRESSION: 4
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ÐÏà¡±á
+ * SUBSIG ID 1
+ +-> OFFSET: 0
+ +-> SIGMOD: ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+HWP Document File
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+HWP Document File
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+${
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: (0|1)&2&3
+     +-> REGEX: \x24\x00{\x00.*(%\x00(25\x00)?3a\x00|\x3a\x00)*(%\x00(25\x00)?(27\x00|2d\x00|5c\x00|22\x00)|(\x27\x00|\x2d\x00|\x5c\x00|\x22\x00))*(j\x00|(%\x00(25\x00)?5\x00c\x00|\x5c\x00)u\x00\x00\x00\x00([a-f0-9]\x00){2})(n\x00|(%\x00(25\x00)?5\x00c\x00|\x5c\x00)u\x00\x00\x00\x00([a-f0-9]\x00){2})(d\x00|(%\x00(25\x00)?5\x00c\x00|\x5c\x00)u\x00\x00\x00\x00([a-f0-9]\x00){2})(i\x00|(%\x00(25\x00)?5\x00c\x00|\x5c\x00)u\x00\x00\x00\x00([a-f0-9]\x00){2})(%\x00(25\x00)?(22\x00|27\x00)|(\x22\x00|\x27\x00))?(%\x00(25\x00)?(3a\x00|7d\x00)|(\x3a\x00|\x7d\x00))
+     +-> CFLAGS: (null)

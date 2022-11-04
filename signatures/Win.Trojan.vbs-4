@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.vbs-4
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+1 to len(str) step 3{WILDCARD_ANY_STRING(LENGTH<=1)}rev=rev+strreverse(mid(str,i,3))

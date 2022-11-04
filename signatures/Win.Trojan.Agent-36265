@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36265
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+var n001="";for(var n002=0;n002<n000.length;n002++)n001+=string.fromcharcode(n000.charcodeat(n002)-1);document.write(n001);</script>

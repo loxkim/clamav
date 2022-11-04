@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Santa-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MyEMail.Attachments.Add WScript.ScriptFullName{WILDCARD_ANY_STRING}MyEMail.Send

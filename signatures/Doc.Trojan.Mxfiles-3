@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mxfiles-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ource:=ddorg, Destination:=dest, Name:="Mxfile", Object:=w{WILDCARD_ANY_STRING}txt = "ﬂ·‰« ‰»«Ì⁄ „»«—ﬂ"

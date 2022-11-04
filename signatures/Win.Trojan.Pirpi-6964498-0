@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Pirpi-6964498-0
+TDB: Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+L* HttpNtlmProxyBuildConnect  Success, Donot need ntlm auth
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+User-Agent: Mozilla/4.0 (compatible; MSIE %1.1d.0; %s Trident/4.0;%s

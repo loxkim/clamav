@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Fileinfector-9830254-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+07-13-2009 21:46 : DTC Install error = 0, InstallContacts, Exit, d:\w7rtm\com\complus\dtc\dtc\adme\deployment.cpp (376) 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+***07-13-2009 21:46 : DTC Install error = 0, Entering DeployDtc, d:\w7rtm\com\complus\dtc\dtc\adme\deployment.cpp (55) 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+07-13-2009 22:13 : DTC Install error = 0, SysPrepDtcCleanup : Enter, d:\w7rtm\com\complus\dtc\dtc\adme\deployment.cpp (17
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+07-13-2009 22:14 : DTC Install error = 0, SysPrepDtcGeneralize : Exit, d:\w7rtm\com\complus\dtc\dtc\adme\deployment.cpp (
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+11-20-2010 18:43 : DTC Install error = 0, SysPrepDtcSpecialize : Enter, d:\w7rtm\com\complus\dtc\dtc\adme\deployment.cpp 

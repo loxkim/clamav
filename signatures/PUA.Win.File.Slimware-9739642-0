@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Slimware-9739642-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+TermineriCliquez sur le bouton Terminer pour quitter l'Assistant d'installation. Le scan commencera imm
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+FinishNClick the Finish button to exit the Setup Wizard. Scan will begin immediately.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Assistant d'installation de %13Copyright 2011-%1 Slimware Utilities Holdings, Inc.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+, um den Setup-Assistenten zu beenden. Der Scanvorgang beginnt sofort.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%1 Setup-Assistent3Copyright 2011-%1 Slimware Utilities Holdings, Inc.

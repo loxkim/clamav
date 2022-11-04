@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Buddy-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+rc="tracking.php{WILDCARD_ANY_STRING(LENGTH<=16)} "&hash=" & pwout & "&old

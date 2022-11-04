@@ -1,0 +1,6 @@
+VIRUS NAME: Js.Trojan.Redir-35
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+{document.mm_sr[j++]=x;if(!x.osrc)x.osrc=x.src;x.src=a[n010+2];}}</script>
+<script>(function(){var n000=document.createelement("iframe");n000.src="http://pisanido

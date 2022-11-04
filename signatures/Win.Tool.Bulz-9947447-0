@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Bulz-9947447-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.costura.dll.compressed|5.3.0.0|Costura, Version=5.3.0.0, Culture=neutral, PublicKeyToken=null|Costura.dll|790691B8E17BE6
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.leaf.xnet.dll.compressed|5.2.10.0|Leaf.xNet, Version=5.2.10.0, Culture=neutral, PublicKeyToken=null|Leaf.xNet.dll|89662F
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.costura.pdb.compressed|||Costura.pdb|52414EC411DEA325110F0AD21378C8D101897989|2544
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+costura.leaf.xnet.dll.compressed
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Youtube-Viewers_ProcessedByFody

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Llac-6854360-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\System32\USER32.DLL
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\System32\USER32.DLL       
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xsga\PFBCJPOSTX[ZUXX[`^]__^a[_a__a^_dbe_fimhghekgjjoikmlolppjgeadc
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+~mh\_YSRU\Z__\^_gdfglkhkijneeheldhffjfghiklportopqlpwvyz}zwy}{||
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Y>7598966627<>>77L:644695:930<=?<==7@BA6?EKKJ?=41@DV@@YOPF=FQNNXacgehhinsoxp{zu|y}}

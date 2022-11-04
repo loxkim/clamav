@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IFrame-13
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+document.write(""+unescape("%3c")+string.fromcharcode(105)

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.U-51
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f [ -f $F ] && [ -x $F ] && [ "$(head -c4 $F 2>/dev/null )" == "ELF

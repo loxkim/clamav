@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Einstein-2
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+http://%s:%d/%s.php?id=%06d%s&ext=%s

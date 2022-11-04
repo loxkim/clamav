@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.Netsp-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n_ %%g
+goto MrWeben
+:MrWebin
+if exist %2.bat goto MrWeben
+type c:\MrWeb.bat>>%

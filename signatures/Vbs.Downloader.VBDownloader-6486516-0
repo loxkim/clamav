@@ -1,0 +1,30 @@
+VIRUS NAME: Vbs.Downloader.VBDownloader-6486516-0
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+CreateObject
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Mozilla/5.0 (Windows NT 6.1; WOW64;
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+XMLHTTP
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Adodb.streaM
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: CreateObject.{0,8}W.{0,8}s.{0,8}c.{0,8}r.{0,8}i.{0,8}p.{0,8}t.{0,8}\..{0,8}S.{0,8}h.{0,8}e.{0,8}l.{0,8}l.{0,8}
+     +-> CFLAGS: smi

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.OldSpot-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Addr = Mid(Addrs, OldSpot, FindNewAddr){WILDCARD_ANY_STRING}et UpdAddWorm=FSO.CreateTextFile

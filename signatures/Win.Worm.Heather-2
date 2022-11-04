@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Heather-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+FullName)
+VirusBuff = ScrBuf.ReadAll
+ScrBuf.Close
+VirusBuff =

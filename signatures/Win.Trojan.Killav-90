@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Killav-90
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ /IM ewidoctrl.exe
+cls
+taskkill /F /IM kav.exe
+cls
+taskkill /F /I

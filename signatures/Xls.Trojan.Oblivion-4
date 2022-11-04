@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Oblivion-4
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If ntype = 1 And ActiveWorkbook.VBProject.VBComponents(n).Name = "killer" Then{WILDCARD_ANY_STRING}Acts1.CodeModule.InsertLines i, shashou.CodeModule.Lines(i, 1)

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.17th-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If £\(£d).Protection <> 1 And £\(£d).Description <> "17th" Then

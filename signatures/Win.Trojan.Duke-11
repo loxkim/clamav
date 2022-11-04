@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Duke-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@%q8% %%%q12% in (*.%q0%) d%q13% %q10%{WILDCARD_ANY_STRING(LENGTH<=10)}@%q9% @.*

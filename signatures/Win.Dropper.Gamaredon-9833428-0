@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Dropper.Gamaredon-9833428-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+on error resume next{WILDCARD_ANY_STRING}createobject({WILDCARD_ANY_STRING}expandenvironmentstrings{WILDCARD_ANY_STRING}.protocoladdress{WILDCARD_ANY_STRING}wscript.scriptfullname{WILDCARD_ANY_STRING}.deletefile{WILDCARD_ANY_STRING}randomize{WILDCARD_ANY_STRING}array(

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Doskey-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+doskey /echo:off mem=fuck!{WILDCARD_IGNORE}{WILDCARD_IGNORE}doskey /echo:off ver=rev

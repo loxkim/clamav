@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Cassandra-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+function varsd(varnum){ if(varnum==1){check=String.fromCharCode(87,83,99,

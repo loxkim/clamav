@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Kruel-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if((String.index(found_file,".fe")) != -1)
+	 {
+            File.remove(found_file);
+	    File.create(found_file).writeln(my_code);

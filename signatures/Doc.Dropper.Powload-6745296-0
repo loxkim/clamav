@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Dropper.Powload-6745296-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   FormatDateTime (dcslVI + MpDkZ / (HGoOf + TliiJ + LOkEP + lZusRi / rbMWr + iHfXE + mlsfMv + jjJuYH))
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   FormatNumber (DUnAZj + FYJZh + sodqks + YCQtLE) * (mnihKX + hWYCTl)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   FormatNumber JzRmRW + zYZCDB + EupVj + RpbOK * KRFoQ + fvtRb - maEoK + HTdjR / NwCZMU + DcKMQ + kIvYGH + SQiJSc
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   FormatNumber qcKwfX + RIVczp - RcKwbA + iBqZdu + iofSX + DRJJQH
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   TimeValue (saRXX + EkGNc + DcAQSs + qUPzYm)
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   TimeValue pKwis + lpGGv - hoSCK + rhaKQq * JtckR + DiQQvA - GkTzN + NTsbk + bTnjri + HKjTJF
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Function JTqjDjw()
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Private Sub Document_open()

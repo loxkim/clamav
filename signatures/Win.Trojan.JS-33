@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-33
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+indow.open('http://'+url,"spawnedit","height="+(winh-140)+",width="+(winw-15)+",left=25,top=0,scro

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-143
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+please visit the <a target="_blank" href="http:/{WILDCARD_ANY_STRING(LENGTH<=250)}"><font color=#003399>resolution center</font></a>and complete the "steps to remove limitations."

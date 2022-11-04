@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Zxdow-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+\Run\"
+mhk2="HK"&"LM\SO"&"FT"&"WARE\M"&"icr"&"osoft\Wi"&"n"&"dows\Curren"&"tVersion\"
+sss.RegWrite ""&mhk&"Sys32","regedit -s

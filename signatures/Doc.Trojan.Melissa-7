@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Melissa-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+"HKEY_CURRENT_USER\Software\Microsoft\Office\", "Melissa?") <> "... by Kwyjibo"

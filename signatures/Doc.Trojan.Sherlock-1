@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sherlock-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ElseIf Thi.lines(2, 1) = "'Read" Then{WILDCARD_ANY_STRING}Application.Caption = "sherl0ck on the move"

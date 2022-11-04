@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6824781-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Process, exist, AndyConsole.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+IniWrite, %RunningVM%, %A_AppData%\Andy\HandyAndy\HandyAndy.ini, Current, RunningVM
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FileReadLine, status, %A_AppData%\Andy\status.txt, 2
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RunWait, adb.exe %connectremount%, %andydir%, hide UseErrorLevel
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+IniWrite, %ipaddr%, %A_AppData%\Andy\HandyAndy\HandyAndy.ini, Current, ipaddr

@@ -1,0 +1,8 @@
+VIRUS NAME: Html.Trojan.IRCRandon-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+N$ 
+net share /delete IPC$ 
+net stop "Remote Registry Service" 
+net stop

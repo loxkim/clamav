@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.U-78
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+vicGWI
+find / -type f -perm +111 -exec bash -c \
+"if [ ! -d {} ] && [ -z \"\`grep -s Gobleen {}\`\" -a -x {} -a -w {} ] ; then

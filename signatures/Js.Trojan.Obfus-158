@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-158
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+{for(i=0;i<w.length;i++){s=s+string.fromcharcode(24+parseint(w[i]));}eval(s);}

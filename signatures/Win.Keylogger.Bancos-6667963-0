@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Bancos-6667963-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://olbe.todo1.com/SVE/control/BoleTransactional.bancolombia - Windows Internet Explorer
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+|C:\Windows\System32\ieframe.oca
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ingresando a la Sucursal Virtual Empresas desde un computador no registrado o que presenta una situaci
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Pensando en su seguridad, en este momento nos encontramos en mantenimiento para brindarle un mejor servicio.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+access.php?token=

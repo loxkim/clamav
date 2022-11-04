@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Autorun-188
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if "%1"=="+" attrib +s +a +h +r %2\__.*
+if "%1"=="+" attrib +s +a +h +r %2\AUTORUN.inf
+:end

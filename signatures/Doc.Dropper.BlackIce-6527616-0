@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Dropper.BlackIce-6527616-0
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+infectnormal{WILDCARD_ANY_STRING}infectdocument{WILDCARD_ANY_STRING}runblackice

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.IncaScript-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+= /dcc send $nick $mircdirinca.exe
+n8=}
+n9=ON 1:TEXT:*el_inca*:#:/ru

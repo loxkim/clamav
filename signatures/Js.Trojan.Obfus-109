@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-109
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+d2=new date(d1.gettime()+1);x=document.createtextnode("d2-d1");c=eval(x.nodevalue);for(i=0;i<{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE};i++){s+=z.substr(a[i],c);}eval(s)

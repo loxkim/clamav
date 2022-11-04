@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Card-34
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+in order keep you and your account secure we advice you{WILDCARD_ANY_STRING(LENGTH<=5)}to complete the verification process:

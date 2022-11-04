@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Webshell-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<form method=post>"; echo "<input type=text name=cmd size=85>"; echo "</form>"; echo "<pre>"; if ((!$_post['cmd']) || ($_post['cmd']=="")) { $_post['cmd']="id;pwd;uname -a;ls -la"; } echo "".$function($_post['cmd'])

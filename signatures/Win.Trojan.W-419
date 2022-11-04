@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.W-419
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.Add("c:\solvetec.docm"

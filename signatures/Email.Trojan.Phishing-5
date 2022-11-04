@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Phishing-5
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+decided to restrict{WILDCARD_ANY_STRING}/.www.sears.com/

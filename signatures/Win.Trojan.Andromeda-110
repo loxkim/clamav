@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Trojan.Andromeda-110
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&(1|2)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d40e75961383124949436f37f45a8cb6
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+id:%lu|bid:%lu|bv:%lu|sv:%lu|pa:%lu|la:%lu|ar:%lu
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+thisshitismoresafethanpentagonfuckyoufedsbecausethisisaf

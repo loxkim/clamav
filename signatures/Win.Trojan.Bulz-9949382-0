@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Bulz-9949382-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ssTimesGetStartupInfoWProcess32FirstWRegCreateKeyExWRegDeleteValueWUnmapViewOfFile]
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+failedsync.Cond.Waittext file busytoo many linkstoo many usersunsafe.Pointerwinapi error #work.full != 0  with GC prog
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GetComputerNameWGetFullPathNameWGetLongPathNameWNetApiBufferFreeOpenProcessTokenRegQueryInfoKeyWRegQueryValueExWRemoveDirectoryW
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ddetailsecur32.dllshell32.dlltracealloc(unreachableuserenv.dll KiB total,  [recovered] allocCount  found at *( gcscandone  m->gs
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cialmspanSpecialnetapi32.dllraceFiniLockreleasep: m=runtime: gp=runtime: sp=self-preemptspanSetSpinesweepWaiterstraceStringswire

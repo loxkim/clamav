@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Tool.W97M-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Left(.Lines(TheLine, 1), 3) = "Rem" Then .DeleteLines TheLine{WILDCARD_ANY_STRING}ith Application.VBE.ActiveVBProject.VBComponents("SOPS").CodeModule

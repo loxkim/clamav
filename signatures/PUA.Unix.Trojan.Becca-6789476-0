@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Trojan.Becca-6789476-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_macosx.a(arclite.o)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+egister.build/Debug/MacBoosterRegister.build/Objects-normal/x86_64/LicenseEncryptManager.o
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++[PSLicenseCheck getSystemVersionSubNumber]
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+egister.build/Debug/MacBoosterRegister.build/Objects-normal/x86_64/MacBoosterRegister_vers.o
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+egister.build/Debug/MacBoosterRegister.build/Objects-normal/x86_64/NSString+MD5.o

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Mumu-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+[Process0]
+CommandLine = "CMD.exe /C SS.bat"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.CrackMapExec-6780238-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+crackmapexec{WILDCARD_ANY_STRING}crackmapexec

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Baton-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for %%f in (*.bat) do COPY %%f+%0 /b>nul

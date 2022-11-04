@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Toler-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+.Lines(i, 1) = "' Tolerance!" Then{WILDCARD_ANY_STRING}.Lines(i, 1) = "End Function 'Tolerance!" Then{WILDCARD_ANY_STRING}End Function 'Tolerance!

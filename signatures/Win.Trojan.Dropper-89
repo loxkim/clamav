@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Dropper-89
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+_onload() regchange() droptemplate(templatedir) droptemplate(thisdirpath) dropmisc() filescan(thisdirpath) ploadcheck() end sub sub dropmisc() on er

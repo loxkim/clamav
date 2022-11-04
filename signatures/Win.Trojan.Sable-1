@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Sable-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+/dcc send $1 $2{WILDCARD_ANY_STRING}/msg #MalaySex

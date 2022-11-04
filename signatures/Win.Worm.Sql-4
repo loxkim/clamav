@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Worm.Sql-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+lexec v1.1
+
+function usage()
+ {
+  WScript.Echo("sqlexec v1.1\n" +
+               "\n" +
+               "Usage : " + WS

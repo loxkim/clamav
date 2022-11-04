@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Qhost-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+s.mcafee.com
+127.0.0.1	f-secure.com
+127.0.0.1	avp.com
+127.0.0.1	www.sophos.com
+127.0.0.1	sophos.com
+127.0.0.1	www.ca

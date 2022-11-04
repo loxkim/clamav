@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillWin-16
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+set /a n=n+1 if not %n%==24 goto s reg delete hkey_local_machine\software\microsoft\windows\currentversion\run /v

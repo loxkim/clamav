@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bablas-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+H = MsgBox("MACROS HAVE BEEN ACTIFED", vbExclamation + vbOKOnly)

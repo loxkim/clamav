@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Laura-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+nt.Shapes.AddTextEffect(msoTextEffect8, "Laura, I love you.", "Comic Sans MS", 36#, msoFalse, msoFalse, 155.6, 176.6).Sel

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Marker-20
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Msg = "Вы действительно хотите отправить файл?{WILDCARD_ANY_STRING}Paid = ActiveDoc.CodeModule.Find("Paid", 1, 1, 1000, 1000)

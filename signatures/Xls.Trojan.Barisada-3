@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Barisada-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+myfile = Dir(Application.StartupPath & "\.hjb.xls"){WILDCARD_ANY_STRING}"Answer : Barisada ", vbYesNo, "1st Qusetion")

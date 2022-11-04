@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Worm-40
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+URRENT_USER\Software\newworm\"){WILDCARD_ANY_STRING}email.Attachments.Add "C:\WINDOWS\newwo

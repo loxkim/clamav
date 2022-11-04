@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Crazz-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+dta(2) = "n2= /dcc send $nick C:\windows\Not2open.xls"

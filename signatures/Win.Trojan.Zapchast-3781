@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Zapchast-3781
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+writeini mirc.ini mirc user $r(a,z) $+ $r(a,z){WILDCARD_ANY_STRING}{ .reload win.ini | .timer 10 0 raw ping me | .timer 3 0 ctcp x ping | .timer 1 1 .msg $chan rehash succ

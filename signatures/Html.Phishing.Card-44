@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Card-44
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+postcard at the following web address:</font></p><p align="left"><font color="#ffffff" size="2" face="arial">{WILDCARD_ANY_STRING(LENGTH>=80&&<=100)}/postcards.gif.exe"

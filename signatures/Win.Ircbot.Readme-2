@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Ircbot.Readme-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cript]
+n0=on 1: JOIN:#:dcc send $nick c:\readme.exe
+

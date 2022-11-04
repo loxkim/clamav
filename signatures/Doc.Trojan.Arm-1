@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Arm-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If WordBasic.macroname(i, 0) = "Armaegaden" Then{WILDCARD_ANY_STRING}checkinfected = 9

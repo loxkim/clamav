@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Worm.Randon-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ead { 
+  .write x-.bat net view > x-.txt 
+  .write x-.bat del x-.bat 
+  run system32.exe /n /fh /r "x-.bat" 
+  xcopy1 
+  .timersxcopy 1 20 xcop

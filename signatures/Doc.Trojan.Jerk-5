@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Jerk-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+33, "Private Sub Workbook_Deactivate()"{WILDCARD_ANY_STRING}10 Then MsgBox "V guvax " & Application.UserName & " vf n ovt fghcvq wrex!", 0, "www.all.net

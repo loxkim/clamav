@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Upatre-9940388-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Jason\AppData\Local\Temp\8e787f1f39cb62fba2eae237ce405f70c0a62d3a.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\John\AppData\Local\Temp\oeiaiEbjl.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\e5a9c49c43179f0c28c7b5045a7ba8e9cb7bf74cc7d49380f406be997c17a7b6.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\01ac0c7b8e79b39f2f3291cb74bbfd99ab9da7bd780c64bd7e5a2cf90a92c3db.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\luser\Desktop\tzHgxgvT.exe

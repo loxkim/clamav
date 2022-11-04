@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-581
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+remove this temporary block{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}placed on your account.{WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}please note that failure to reply within 30 days will result in permanent cancella

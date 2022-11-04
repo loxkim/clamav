@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Tool.Vftp-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$bufferoverflow .= "A" x 504;{WILDCARD_ANY_STRING}&connecthost;{WILDCARD_ANY_STRING}print $host "user{WILDCARD_ANY_STRING}print $host "pass{WILDCARD_ANY_STRING}print $host "cwd $bufferoverflow\n";

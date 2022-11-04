@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7637510-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0—10
+	’&‰“ò,d
+LS4MQN7U5J1@0>U7iPhone Developer: jockeholmklein@gmail.com (RNGMHPYWHT)10U
+4HK7L7B8HB10U
+Joakim Klein10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0190821174751Z200820174751Z

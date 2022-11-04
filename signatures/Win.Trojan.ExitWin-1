@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ExitWin-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+shutdown -s -f -t 300 -c "Second Part To Hell's Umbriel has you..."

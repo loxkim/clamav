@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-241
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+bank{WILDCARD_ANY_STRING(LENGTH<=1000)}will be deactivated and deleted if not renewed immediately{WILDCARD_ANY_STRING(LENGTH<=1000)}must renew the service{WILDCARD_ANY_STRING(LENGTH<=1000)}or it will be deactivated and deleted.{WILDCARD_ANY_STRING(LENGTH<=1000)}href="http://

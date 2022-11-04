@@ -1,0 +1,13 @@
+VIRUS NAME: Rtf.Dropper.SectorB06-6961102-0
+TDB: Engine:55-255,Target:0
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{\rtf
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{\object\objemb\objw871\objh811\objscalex8\objscaley8{\result{

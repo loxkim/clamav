@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Msilperseus-9864010-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dropDir = Environment.GetFolderPath(Environment.SpecialFolder.CommonApplicationData);
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+private void ExecuteDownloader(Dictionary<string, string> options)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Activator.CreateInstance(Assembly.Load(dll).GetExportedTypes()[0],typeof(Program));
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+List<Dictionary<string, string>> decoded = new List<Dictionary<string, string>>();
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+byte[] dll = (byte[])GetResource("%RESNAME%", "%RESID%");

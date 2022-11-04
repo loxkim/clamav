@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Fuflo-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cho y| format e: /q /u /v:FUFL{WILDCARD_ANY_STRING}py %windir%\command\format.com c:\command.co

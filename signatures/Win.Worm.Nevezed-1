@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Nevezed-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+OutlookEmail.Attachments.Add(fso.GetSpecialFolder(1)+"\\"+RndEma

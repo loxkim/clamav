@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Worm.Bat-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+M bat.biong
+REM by adious
+REM written on 27\10\02
+@echo off
+echo problem with uploading the program
+echo plz restart your computer
+pause
+ctty

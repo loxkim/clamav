@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Bifrost-7643938-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+waked.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Yo.Mj%Dh$Ah%Ai&@h#Ah#Ai$@h$@h$@h$Ah#@h#?g"?f#@g#@g#@g!?c"@c >a!?b!>a">a!=` <_!=\!<\ <[ <[ <[ <[!:\!8_!;Z
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&3M"3M 6OD\uB\wB]z@^yE[wD\xE]xI]xF]wD]wD]wD]wF]yF\xE\xF\xF\xG]yE]zF^|F^|D\zD^|C_}C_~C_~C_~Ha
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dk#Dk"Ck"Bj#Bj#Bj#Aj#Ai#Bj%Ck#Ci$Ah$?g'Af'Af&Ae$@e">c =a"=`!<_#>a#>a"=`">] ;] ;\ <Z!;Y"<Z :W
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4Xw"5H%2J%3J 6F$4H$3I"3I!4H!4I!4I"5J"5J"5J!4I3K 4M!5N!6O!7P"8Q"8Q"7Q!7Q#7S#8U#9V!9V :W!:Y#9Z%:Z$:Y#;X(>Y0C\FWmVhx`s

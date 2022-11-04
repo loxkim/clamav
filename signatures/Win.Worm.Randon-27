@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Randon-27
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on 1:sockopen:flud*{WILDCARD_ANY_STRING}ers.dll) $+ $rand(1,99999999999) $read(u

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRCFlood-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on *:notice:*:#:{ hinc -mu2 spam $chan | if $hget(spam,$chan)

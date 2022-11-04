@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autoit-116
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+\currentversion\run{WILDCARD_ANY_STRING(LENGTH<=25)}$dir & "nodlogin.exe

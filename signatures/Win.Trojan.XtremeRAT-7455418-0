@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.XtremeRAT-7455418-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+re valide"%s (Version %d.%d, Build %d, %5:s):%s Service Pack %4:d (Version %1:d.%2:d, Build %3:d, %5:s)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+UnitInjectProcess
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+UnitKeylogger
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+XtremeKeylogger
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ation du variant ou du tableau,Indice de variant ou de tableau hors limites%Conversion de type variant incorrecte

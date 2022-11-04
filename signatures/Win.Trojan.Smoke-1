@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Smoke-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for %%b in (*.bat *.bat) do set batch_files=%%b

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Nuclear-61
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Nuclear RAT 1.{WILDCARD_IGNORE} WebServer - <a class="hand" onClick="window.open('http://www.nuclearwinter.us','');">NWC</a>

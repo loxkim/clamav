@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.XtremeRAT-7856058-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\\//WINDOWS\\//SYSTEM32\\//UsEr32.dLL
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@*\AC:\Users\N3G0\Desktop\Nova pasta\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\\//\\WINDOWS\\//\\SYSTEM32\\//\\MSVBVM60.dLL
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+]eo]fcna]ce]]`]]]]]ssd_b]ssdd`ass`^ssq]cn`cread]_]]]]eoq^cn__re`r]_]]]]eo`fcn`rre`b]_]]
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+`sncn__resn]_]]]]eo]fcese]]]]]]bdb^ssq]cn]]rere]_]]]]ceeesro`^cb^re^a]`]]]]cn_rreqc]_]]

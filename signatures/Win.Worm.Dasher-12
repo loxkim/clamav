@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Dasher-12
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+type nul>Result.txt
+SqlScan.exe SYN

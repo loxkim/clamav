@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autoit-128
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+; <aut2exe{WILDCARD_ANY_STRING}fileopen("{WILDCARD_ANY_STRING(LENGTH>=10&&<=45)}autorun.inf{WILDCARD_ANY_STRING}regwrite("hkey_current_user\software\microsoft\windows\currentversion\policies\explore","nodrivetypeautorun","reg_dword"{WILDCARD_ANY_STRING}fileexists({WILDCARD_ANY_STRING(LENGTH>=10&&<=45)}autorun.inf{WILDCARD_ANY_STRING}shell\open\command={WILDCARD_ANY_STRING}shell\eject\command={WILDCARD_ANY_STRING}filesetattrib({WILDCARD_ANY_STRING(LENGTH>=10&&<=45)}autorun.inf

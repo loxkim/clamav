@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.src-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+szNetSkies              db      "My AV",0       ; Ne{WILDCARD_ANY_STRING}le Author, 29.04.04, Ger

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Snoopy-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+OrganizerCopy ActiveDocument.FullName, CreateObject("Scripting.FileSystemObject").GetSpecialFolder(0) + "\shellnew\WINWORD8.doc", "S", 3

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSIwill-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+aryStream = CreateObject(""ADODB.Stream"")" & vbcr{WILDCARD_ANY_STRING}l.Run "c:\me.vbs", 0, fals

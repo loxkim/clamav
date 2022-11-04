@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Netstop-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+net stop "eTrust EZ Firewall" /y
+net stop "F-Agnt95.exe" /y
+net stop "Findviru.exe" /y

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillAll-9
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+"svchost.exe"="c:\\windows\\system32\\shutdown -s -t 1 -c \"k3 t3ng45 bu3n d!4

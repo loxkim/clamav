@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Barisada-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+myfile <> "khm.xls" Then Workbooks("khm.xls").Close savechanges:=True{WILDCARD_ANY_STRING}"Answer : Barisada ", vbYesNo, "1st Qusetion")

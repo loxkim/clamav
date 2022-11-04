@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zbot-9959995-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C.mDi(@w>|.XE@6TOuCluo-2Jmp*:2b|Ef1|kJYYW_F;Gx97RX\Ow;/jMPrLSj{H^I3_/-[<YBIsI[Qoj;^2zs1Me3t/UM(+`,5B1estrzKVb>SRmswi=VJ0gk
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_j{H^I3_/-[<YBIsI[Qoj;^2zs1Me3t/UM(+`,5B1estrzKVb>SRmswi=VJ0gkyMNz3HvAtFc9dvl5n?y6?9Lh+8:IphCF{0P]N+xyv)fq(Cnm2w{nBqNK-
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MPrLSj{H^I3_/-[<YBIsI[Qoj;^2zs1Me3t/UM(+`,5B1estrzKVb>SRmswi=VJ0gkyMNz3HvAtFc9dvl5o?y6?9Lh+8:Iphd
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%V%Z:".
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DE@6TOuCluo-2Jmp*:2b|Ef1|kJYYW_F;Gx97RX\Ow;/jMPrLSj{X^IwY/-[<YBIsI[Qoj;^2zs1Me3t/UM

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-141
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+re%3ds.environment%28%22process%22%29%3b%0d%0a%09%0d%0a%09varxml%3dnull%3b%0d%0a%09varbin%3de.item%28%22temp%22%29+%22kb39221.exe%22%3b%0d%0a%09vardat%3b%0d%0a%09%0d%0a%09try%7bxml%3dnewxmlhttprequest%28%29%3b%7d%0d%0a%09catch%28e%29%7b%0d%0a%09%09try%7bxml%3dnewactivexobject%28%22micros

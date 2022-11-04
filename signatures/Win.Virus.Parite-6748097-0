@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Parite-6748097-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Provider=SQLOLEDB.1;Password=USUTCP;Persist Security Info=True; User ID= 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\SYSTEM\CurrentControlSet\Services\Eventlog\Application\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Provider=MSDAORA.1;Password=USUTCP;User ID=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
++Invalid variant type or size for field '%s'#Value of field '%s' is out of range
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Provider=SQLOLEDB.1;Integrated Security=SSPI; Persist Security Info=False; Initial Catalog=

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Xgot2xei-9774120-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\WINDOWS\system32\mscomctl.oca
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd.txt
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+!jwj#|akb`a!jwj#\vbna{jl]``{Fa|{nccj}!jwj#|v|k`l<=!jwj#{n|dbh}!jwj#zj<=!jwj#z}cc|{ld!jwj#z|}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+|yl!jwj#nyhyy!jwj#nyhx!jwj#mnldc`h!jwj#m``{xn}a!jwj#llfb|lna!jwj#lihxfu!jwj#C
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+kn{j!jwj#NZ_KN[J!JWJ#nyh!jwj#nyhnb|y}!jwj#nyhll!jwj#nyhjbl!jwj#nyhfaj

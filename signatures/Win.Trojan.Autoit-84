@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Autoit-84
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+= StringReplace($file, "Proagent", "xxx3xxx")
+										$Rpl12 = StringReplace($file, "keylogger", "xxx3xxx")

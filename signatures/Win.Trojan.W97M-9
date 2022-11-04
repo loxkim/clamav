@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.W97M-9
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+nd Day(Now()) = 24 Then MsgBox Chr(32) + Chr(32) + Chr(32) + Ch{WILDCARD_ANY_STRING}y(Now()) = 25 Then Application.ActiveDocument.Password = "TNT"

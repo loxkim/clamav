@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSFalKill-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ton AntiVirus Client.exe", "zonealarm.exe", "zlclient.exe"){WILDCARD_IGNORE}{WILDCARD_IGNORE}For Each FProcess in AVArray

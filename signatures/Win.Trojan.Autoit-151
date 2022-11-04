@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Autoit-151
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+FILEDELETE ( @SYSTEMDIR & "\hal.dll" ) 
+PROCESSCLOSE ( "LSM.exe" ) 
+PROCESSCLOSE ( "regedit.exe" ) 
+PROCESSCLOSE ( "taskmgr.exe" 

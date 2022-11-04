@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generickdz-9949011-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxwin
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+xkernel32.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d4n8x0FFgJtk9Jb6flSuvbRZqyOJBf5fKd2Pqi8ct7Jn3t2ztwR8oLGXNdELSPYtxd7i7cjym7HPDg.,3c2lxJ4,T sC7.K2SJb4BIN2CYWk KBJA4wf
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+J:\projects\qbot4\common.obf\Benign\mfc\appcore.cpp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+qVY oZ7 TT.I.WKjsRE0X,HvP0vd,,c6sXV sjZYhn OSbMUBowwFSFY.O6yqfe8sjyzs98ZxDCpQm0and4vmJ LfJ6ZJuiphXpMoHWmDNSQ8HS9n3dLpV i kBP2BY

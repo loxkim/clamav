@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Crazz-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+'Crazz{WILDCARD_ANY_STRING(LENGTH<=66)}crypt & Chr(Asc(Mid(a, i, 1)) Xor 133)

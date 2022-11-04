@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1119
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+obligatory for all business and corporate clients of bb{WILDCARD_ANY_STRING(LENGTH<=35)}please select the hyperlink and visit the address listed to access the bb{WILDCARD_ANY_STRING(LENGTH<=6)}t business onl

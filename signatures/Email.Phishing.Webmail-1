@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Phishing.Webmail-1
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+You will be sent a{WILDCARD_ANY_STRING(LENGTH<=260)}seven
+days of receiving

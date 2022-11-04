@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Icedid-9976178-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+n=document.createElement("script");for(var a in //js.hs-banner.com/5156573.js",n.type="text/javascript",n.id=t,r)r.hasOwn
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ed55d07d843d7dee4c0beb69e40334bocument.createElement("script");c.src="https://js.hs-analytics.net/analyt
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8ed47549e9fcb98f26764bc4f0a414dloader",0,{"data-loader":"hs-scriptloader","data-hsjs-portal":5156573,"da
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fe99a63c62d705f6444010964def669true,"data-loader":"hs-scriptloader","data-hsjs-portal":5156573,"data-hsj
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+b7b56e187051c3ad1bb17d8d371e5c1bspot-messages-loader",0,{"data-loader":"hs-scriptloader","data-hsjs-port

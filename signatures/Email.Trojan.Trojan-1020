@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-1020
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Subject: Shipping Information{WILDCARD_ANY_STRING(LENGTH>=800&&<=810)}To receive your parcel, please, print this receipt and go to

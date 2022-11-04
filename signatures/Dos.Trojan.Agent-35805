@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-35805
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+%setup%\autorun.inf copy sola\sola.bat

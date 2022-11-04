@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Lucky-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Price"
+Mail.Body = vbcrlf & "One Million Dollar for you."& vbcrlf & "Lucky2000"
+Mail.Attachments.Add(dir

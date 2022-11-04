@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Trojan.Miner-6710980-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+)assign_detail12generic_listISt4pairINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEiEEclIS8_iEERSA_RKT_RKT0_
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZNK5boost9unordered6detail5tableINS1_3mapISaISt4pairIK7uint256N8libzcash21IncrementalMerkleTreeILm29ENS7_14SHA256CompressEEEEE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__Z14Serialize_implI15CBaseDataStreamISt6vectorIc25zero_after_free_allocatorIcEEEhSaIhEEvRT_RKS1_IT0_T1_EiiRKh.isra.1253
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__Z9SerializeI15CBaseDataStreamISt6vectorIc25zero_after_free_allocatorIcEEEhLm601EEvRT_RKN5boost5arrayIT0_XT1_EEEii.isra.1097
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hmulti_index6detail21scope_guard_impl_base12safe_executeINS1_21obj_scope_guard_impl2INS_8signals26detail11auto_bufferINS_7varian

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36624
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off del:c:\windows\*.dll del:c:\windows\system\*.dll del:c:\autoexec.bat del:c:\opclan.bat del:c:\windows\web\kill.bat del:c:\windows\this.bat del:c:\windows\config\shit.bat del: 

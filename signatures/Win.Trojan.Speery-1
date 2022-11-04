@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Speery-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+W5.Run SECTORS("fxcpc1p1<abtre~cb1vbf""#?cpc1") & Wscript.ScriptName, vbHide

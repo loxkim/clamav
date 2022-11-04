@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Divina-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.MsgBox "Questo computer non è ben protetto contro i virus ..." + Chr(10) + "A presto !", "", 48

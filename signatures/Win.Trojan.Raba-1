@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Raba-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+copy %0 "*share*\crackAM.bat" > nul{WILDCARD_ANY_STRING}net send %computername% You are infected with NetWorm! > nul

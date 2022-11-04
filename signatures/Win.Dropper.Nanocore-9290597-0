@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-9290597-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Gasthofes\Postraub\Differenzbild\VB98\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+uC:\Users\Adm
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+utchen.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+a^2a^2a^2a^2a^2a^2a^2a^2a^2a^2a^2a^2a^2a^2a^2a^2a^2a^2(qY(qY(qY(qY(qY(qY(qY(qY(qY(qY(qY(qY(qY(qY(qY(qY(qY(qY
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+015\Projects\Bleihammers.OBJ" -QIfdiv -ML -basic

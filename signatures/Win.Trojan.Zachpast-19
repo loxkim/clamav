@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Zachpast-19
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if ((.exe isin %xfile) || (.ini isin %xfile) || (.SHS isin %xfil{WILDCARD_ANY_STRING}usnick $nick | set %virusfile %xf

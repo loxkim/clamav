@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nottice-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.MacroCopy          .[FileName$]() + ":WININIT", "Global:WININIT"

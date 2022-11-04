@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Mirc-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+0,0,0,1,1,1,1,1,1,5000
+
+n5=1,1,1,1,1,1,1,1,1,1,6667,0,0,0,1,0,1,0,300,10,4,0,1,24,0,0,1
+
+:Exit
+
+Metaphase

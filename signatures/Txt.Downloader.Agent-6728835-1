@@ -1,0 +1,6 @@
+VIRUS NAME: Txt.Downloader.Agent-6728835-1
+FUNCTIONALITY LEVEL: >=51
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+cmd /c sc create {WILDCARD_ANY_STRING(LENGTH>=1&&<=32)} binpath= "cmd /c mshta http{WILDCARD_ANY_STRING(LENGTH>=11&&<=64)}.hta" && sc start 

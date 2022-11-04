@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.Homa-3
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+C:\NOVAAAAA\Kapa G\down dias\Classes.pas{WILDCARD_ANY_STRING(LENGTH==64)}C:\NOVAAAAA\Kapa G\down dias\Classes.pas

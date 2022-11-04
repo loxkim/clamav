@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Win.Trojan.ScriptDecoder-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+functionsetnewwords(){varnewwords;newwords=unescape(words);document.write(newwords);}setnewwords();

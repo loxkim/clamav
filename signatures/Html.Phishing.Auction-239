@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-239
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear member{WILDCARD_ANY_STRING(LENGTH<=50)}ebay member <strong>{WILDCARD_ANY_STRING(LENGTH<=250)}</strong>{WILDCARD_ANY_STRING(LENGTH<=750)}s/pointingmouse"></a>has indicated that they already paid for item #{WILDCARD_ANY_STRING(LENGTH<=25)}<br><br><div><a href="http:

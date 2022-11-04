@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.OpinionSpy-2
+TARGET TYPE: ANY FILE
+OFFSET: 1166608,155000
+DECODED SIGNATURE:
+SystemTrayController: showWhoAreYouPop{WILDCARD_ANY_STRING(LENGTH<=150)}InjectCode.app/Contents/MacOS/InjectCode{WILDCARD_ANY_STRING(LENGTH<=10)}InjectCode.app/Contents/Resources/macmeterhk.bundle

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Spyware.Zbot-6904258-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Nonno.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%Nbz[xah=*zp94Z(QZTgl/RUdtlGa*KkaP/=><D+u,]rq7=A4\uiO15W18O`-C.mDig@v>|-X.@6TOtCk_Xk2JmYi:2beEfo|kHXYW_0;Gx87QW\Nw;/jLP
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+KkaP/=><D+u,]rq7=A4\uiO15W18O`-C.mDig@v>|-X.@6TOuCk_Xk2JmYi:2beEfo|kJXYW_0;Gx87QW\Nw;/jLPrKSjdH^23_m-[{Y+HsI[QoT
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+P]L*xyv)eZfBnVqw{nAqN4-o<,r4E)(hR)Nbz[xah=*zp94Z(QZTgl/RUdtlGa*KkaP/=><D+u,]rq7=A4\uiO15W18O`-C
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7\QuO15W18O`-C.mDig@v>|-X.@6TOuCk_Xk2JmYi:2beEfo|kJXYW_ ;G<>7QW\Nw;/jLPrKSjdH^23_m-[{Y

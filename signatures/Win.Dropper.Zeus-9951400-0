@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-9951400-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></requestedPrivileges>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SYSTEM\CurrentControlSet\Control\Arbiters\AllocationOrder
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mTbBf1IvLFUQOA1WLcwhimDDOddVlOC3UCQwNyRF4QOV3beGrpnWYrkCcvL1ypVgRSW0
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\;4B*@EU/2MK"4LH4,QJ:NM`69<O%;
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+B3SrG4gdy1InpKAqzpKkQ3msikcpu1ZyqmLLS5GkC2z7Zctqzktp9I2gPieDDL2SbR6OWu8TIIfXDxDHtiDhJCKDKWBtUgqkWf3fbATgakfFdiMkmoh6mJSC6sbIc9vd

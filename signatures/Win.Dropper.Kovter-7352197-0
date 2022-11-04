@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kovter-7352197-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+meldingen naar Google te verzenden. <a href="https://support.google.com/chrome/answer/96817?hl=nl">meer informatie</a>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rskatus. <a href="https://support.google.com/chrome/answer/96817?hl=lv">Uzziniet vair
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ataskaitas. <a href="https://support.google.com/chrome/answer/96817?hl=lt">Su
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+. <a href="https://support.google.com/chrome/answer/96817?hl=ko">
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xutility

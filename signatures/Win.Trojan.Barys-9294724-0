@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Barys-9294724-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Bad Hash or wrong DLL
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+8+%%######)+4''8#886(#8+'&######+&6'#+99*'%'#'997#99*'%'#+(#8+&#######+&6'#+6&()((&$6#)'+5*#&#+5*)#6+5*)$6+5)8#++5*8%#+5
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<PUSHES>B8<API_PTR>FFD0C3
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+p_f;L$
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+>8EA8?&%

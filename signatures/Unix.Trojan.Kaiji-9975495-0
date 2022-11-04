@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Kaiji-9975495-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Datetls: internal error: unsupported curvetls: invalid ClientKeyExchange messagetls: invalid ServerKeyExchange messagetls: miss
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fstatatgatewaygctracegs     head = http://invalidipspooflookup minpc= netstatnil keynop -> osxsavepacer: panic: r10    r11  
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PSK and cipher suite pairtls: server sent an unnecessary HelloRetryRequest messagex509: failed to parse EC private key embedded
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tream=%d sweepgen  sweepgen= targetpc= throwing= until pc=#!/bin/sh
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+EtagFromGOGCGoneHostJulyJuneKILLLEAFLisuMiaoModiNameNewaPATHPINGPIPEPOSTQUITSEGVTERMThaiType

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1356
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if you fail to complete the verification in the next{WILDCARD_ANY_STRING(LENGTH<=4)}hours your account will be suspended

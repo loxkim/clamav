@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Evion-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+set Evion = fso.getfile(wscript.scriptfullname)
+Evion.copy driwin&it("b]ot98&Yzxz4k~k4|hy")

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nono-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ort (""c:\"" + Application.UserInitials)" + cr + "ActiveDocument.SaveAs FileName:=ActiveDocument.FullName" + c

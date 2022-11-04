@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Candela-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for %%v in (*.bat *.msh *.cmd) do copy Candela.bat+%%v %%v

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Padodor-9238877-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+h~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~se
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+X~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~s{Y~sKY~s'Y~s7Y~s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cX~ccX~ccX~ccX~ccX~ccX~ccX~c :*7/$P7/$~swX~cwX~cwX~cwX~cwX~cwX~cwX~cwX~cwX~cwX~c
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~sch~

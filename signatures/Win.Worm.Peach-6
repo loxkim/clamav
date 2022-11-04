@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Worm.Peach-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n any virus.
+
+Set Z=C.GetNameSpace("MAPI")
+Set N=Z.Folders(1)
+Q N
+
+'If it was not able of finding email a

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IRC_Script-14
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%com
+n{WILDCARD_IGNORE}{WILDCARD_IGNORE}=    privmsg %admin Executed SEC (Spyworm External Command), including " $+ %com $+ "

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Deltree-33
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+wsh.run({STRING_ALTERNATIVE:"|'}start/mdeltree/yc:\{STRING_ALTERNATIVE:"|'});wsh.run({STRING_ALTERNATIVE:"|'}start/mdeltree/yc:\{STRING_ALTERNATIVE:"|'});

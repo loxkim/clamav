@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Speery-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+latifah=replace(suci,chr(81),chr(13)+chr(10)){WILDCARD_ANY_STRING}rasmalian=replace(latifah,chr(126)," "){WILDCARD_ANY_STRING}vires=replace(rasmalian,chr(88),""){WILDCARD_ANY_STRING}vire=replace(vires,chr

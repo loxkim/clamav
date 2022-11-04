@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Cash-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ab.replaceline 27, s{WILDCARD_ANY_STRING}Disorder," & vbCr & "My work here is done!!", vbOKOnly, "Incoming"

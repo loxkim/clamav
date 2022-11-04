@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Swap-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CommandBars("Standard").Controls(2).OnAction = £d & "!£h"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.msg-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+) & "System error, delete ""UPDATE.HTA"" from the startup folder to solve this problem." & Chr(13) & Chr(1

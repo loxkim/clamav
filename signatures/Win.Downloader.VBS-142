@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-142
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+"x"+"mlh"+"tt"+"p"{WILDCARD_ANY_STRING}.createobject("scrip"+"t"+"i"+"n"+"g"+"."+"f"+"i"+"lesys"+"tem"+"objec"+"t", ""){WILDCARD_ANY_STRING}.savetofile({WILDCARD_ANY_STRING}.shellexecute(

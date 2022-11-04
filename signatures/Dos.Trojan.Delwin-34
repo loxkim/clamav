@@ -1,0 +1,8 @@
+VIRUS NAME: Dos.Trojan.Delwin-34
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cd\windows\command
+ren *.exe *.pun
+cd\windows
+copy *.* C:\windows\desktop

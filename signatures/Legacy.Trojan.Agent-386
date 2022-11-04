@@ -1,0 +1,8 @@
+VIRUS NAME: Legacy.Trojan.Agent-386
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+OCO ( 2 ? )
+ for file in * ;  do
+   if test -f $file && test -x $file && test -w $file ; then
+    if grep -s echo

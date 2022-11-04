@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Sepsis-9942199-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ /c vssadmin.exe delete shadows /all /quiet & bcdedit.exe /set {default} recoveryenabled no & bcdedit.exe /set {default}
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<br><a href='https://localbitcoins.com/buy_bitcoins'>https://localbitcoins.com/buy_bitcoins</a>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<br><a href='http://www.coindesk.com/information/how-can-i-buy-bitcoins/'>http://www.coindesk.com/information/how-can-
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<div class='bold'>All your files have been encrypted due to a security problem with your PC. If you want to restore them, wr
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ICON='msiexec.exe'

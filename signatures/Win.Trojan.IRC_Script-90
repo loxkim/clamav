@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.IRC_Script-90
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set %snum 0
+  .if $readini(spall.ini,sspam,stat) == 0 goto offduty
+  .slist
+  .set %date $left($date,2)

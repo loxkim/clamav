@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-826
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+You have received an iTunes Gift Card Certificates in the amount of{WILDCARD_ANY_STRING(LENGTH<=20)}You can find your certificate code in attachment below

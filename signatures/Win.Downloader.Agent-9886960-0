@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.Agent-9886960-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+[system.io.directory]::createdirectory("c:\programdata\microsoft arts\start\") set-itemproperty -path "hkcu:\software\microsoft\windows\currentversion\explorer\user shell folders" -name "startup" -value "c:\programdata\microsoft arts\start";{WILDCARD_ANY_STRING}`d`o`w`n`l`o`a`d`f`i`l`e"('htt

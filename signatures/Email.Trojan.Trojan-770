@@ -1,0 +1,7 @@
+VIRUS NAME: Email.Trojan.Trojan-770
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+@hotmail.com>
+Subject: Bons Tempos{WILDCARD_ANY_STRING}<IMG alt=3D"Anexos: " src=
+=3D"http://{WILDCARD_ANY_STRING(LENGTH>=25&&<=50)}/attachment.png">

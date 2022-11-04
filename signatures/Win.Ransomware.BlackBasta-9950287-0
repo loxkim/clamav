@@ -1,0 +1,44 @@
+VIRUS NAME: Win.Ransomware.BlackBasta-9950287-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vssadmin.exe delete shadows /all /quiet
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bcdedit /set safeboot network
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bcdedit.exe /deletevalue safeboot
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+This program need to be service
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1&2&3
+     +-> REGEX: [a-zA-Z0-9\+\
+     +-> CFLAGS: ]{683}=/
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1&2&3
+     +-> REGEX: [a-z0-9]{56}\.onion
+     +-> CFLAGS: (null)
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1&2&3
+     +-> REGEX: Your company id for log in: \w{8}(\-\w{4}){3}\-\w{12}
+     +-> CFLAGS: (null)

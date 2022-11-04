@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.Killfiles-46
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+-h -s c:\command.com
+del /Q c:\ntldr
+del /Q c:\ntdetect.com
+del /Q c:\io.sys
+del /Q c:\command.com

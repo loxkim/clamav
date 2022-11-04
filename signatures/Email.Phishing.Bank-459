@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-459
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+d'expiré. Vous devez vous identifiez avant le{WILDCARD_ANY_STRING(LENGTH<=200)}Pour vous identifiez et conserver votre compte actif , cliquez ci-dessous:

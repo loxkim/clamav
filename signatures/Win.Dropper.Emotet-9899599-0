@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Emotet-9899599-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ Failed to set object at index %d<MultiLine must be True when TabPosition is tpLeft or tpRight
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Value must be between %d and %d Clipboard does not support Icons
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+List count out of bounds (%d)+Operation not allowed on sorted string list%String list does not allow duplicates0Tab posi
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ECB is freeware but its use is forbidden in Canada, in Japan and in the USA
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%s\cKMqO3g5

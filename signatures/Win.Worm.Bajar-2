@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Bajar-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f Day (Now) = 1 then
+Set nerfix3 = nerfix2.GetSpecialFolder ( 0 )
+For X = 1 to 20000
+nerfix.Run (nerfix3 & "\" & "wordpad.

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6754828-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\teamcity\buildagent\work\8fe3ba8d3fa34d65\torrent\loguru.hpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\TeamCity\buildAgent\work\8fe3ba8d3fa34d65\torrent\main.cc
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$enable_shared_from_this@Uut_metadata_peer_plugin@?A0x08d4d8f9@libtorrent@@@boost@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wrapper@Uerror_code_parse_state@?A0x025e5b74@libtorrent@@@2@@_bi@boost@@@_bi@boost@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$enable_shared_from_this@Usmart_ban_plugin@?A0xe20d3659@libtorrent@@@boost@@

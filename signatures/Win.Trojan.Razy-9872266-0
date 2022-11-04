@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Razy-9872266-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Z error reading instrumentation file; '%s' not created with compatible version of LINK.EXE
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+AVD1;Avid DV;4CC;V;DV;;Avid DV (Quick Time);http://mirror01.iptelecom.net.ua/~video/codecs/Avid.VfW.codec.v2.0d2.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E:\A\_work\582\s\bin\obj\ref\System.Net.Requests\4.0.11.0\System.Net.Requests.pdb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\buildbot\slave\workdir\repos\opera\chromium\src\third_party\webrtc/api/mediastreamtrackproxy.h:57
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\b\8105836a276b75ed\sw\physx\PhysXSDK\2.7.1\RELEASE\LowLevel\Common\include\utils\PxcHashMap.h

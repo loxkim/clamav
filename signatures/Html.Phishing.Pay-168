@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-168
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+visit the <a href="http:{WILDCARD_ANY_STRING(LENGTH<=150)}"><font color=#003399><strong>resolution center</strong></font></a>and complete the <br>"steps to remove limitations

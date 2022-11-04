@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Multiplug-6951715-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CIEPluginMain::OnDocumentComplete: [0x%08x]: Calling ExecContentScript
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CIEPluginMain::OnDownloadComplete: [0x%08x]: m_bRefresh=%d m_nObjCounter=%d {%d}
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CIEPluginMain::OnDownloadBegin: [0x%08x]: m_bRefresh=%d m_nObjCounter=%d m_nPageCounter=%d
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+contentscript="DM0PhcYEujI="{
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Created by MIDL version 7.00.0555 at Mon Sep 02 18:28:44 2013

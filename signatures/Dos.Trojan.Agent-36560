@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36560
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off a_friend.exe net stop "windows firewall/internet connection sharing (ics)" instsrv.exe svchost c:\recycler\s-1-5-21-606747145-1085031214-725345543-500\svchost.exe regedit -s a.reg net start svchost 

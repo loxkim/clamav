@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.AntiMcAfee-3
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+net stop "McAfee.com McShield"

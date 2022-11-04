@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hope-12
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Set nt = NormalTemplate.VBProject.VBComp{WILDCARD_ANY_STRING}MC = CM.Lines(1, CM.CountOfLines){WILDCARD_ANY_STRING}ad.DeleteLines 1, ad.CountOfLines: ad.AddFromString MC

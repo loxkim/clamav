@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Lockergoga-9863850-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Func_impl_no_alloc@V<lambda_0a67aa7357a228a51e17c83368d58874>@@Vchild@process@boost@@$$V@std@@
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CipherModeFinalTemplate_CipherHolder@V?$BlockCipherFinal@$00VDec@RC6@GijWRdG_@@@GijWRdG_@@VCBC_Decryption@2@@GijWRdG_@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$PK_FixedLengthCryptoSystemImpl@VPK_Encryptor@GijWRdG_@@@GijWRdG_@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AU?$placement_destroy@Utrace_queue@@@ipcdetail@interprocess@boost@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AU?$error_info_injector@Usync_queue_is_closed@concurrent@boost@@@exception_detail@boost@@

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Three-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.MacroCopy a$, "Global:AutoOpen", 1{WILDCARD_ANY_STRING}WordBasic.MsgBox "Dedicated to 3 Crowns '98"

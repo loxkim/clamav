@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.VBS-232
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set objFSO = CreateObject("Scripting.FileSystemObject")
+If objFSO.FileExists("E:\mstime32.exe") Then
+set WshShell = CreateObject("WScript.Shell")

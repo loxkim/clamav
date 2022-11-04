@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-736
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to reactivate your account, click on the encrypted link below and confirm{WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}your identity by completing the secure form that will appe

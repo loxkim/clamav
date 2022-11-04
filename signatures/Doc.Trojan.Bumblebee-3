@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bumblebee-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+stealth$ = "Sub MAIN" + Chr(10) + "MsgBox " + Chr(34) + "Invalid call in shared memory 0x0cc7f000" + Chr(3{WILDCARD_ANY_STRING}ToolsMacro Name:="infect", Run:=1

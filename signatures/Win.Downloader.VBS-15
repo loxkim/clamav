@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+newURL = "fil"+"e:java"+"script:eval('" + mylauncher + "')";

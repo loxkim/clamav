@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Neg-6
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Open "C:\AUTOEXEC.BAT" For Append{WILDCARD_ANY_STRING}int #1, "cd\windows"{WILDCARD_ANY_STRING}Print #1, "del *.com >nul"{WILDCARD_ANY_STRING}Print #1, "del *.vxd >nul"{WILDCARD_ANY_STRING}Print #1, "del

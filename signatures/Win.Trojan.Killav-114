@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Killav-114
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+M nod32.exe /IM panda.exe /IM Mcafee.exe /IM afee.exe /IM _avp32.exe /IM _avpcc.exe/IM _avpm.exe /IM ackwin32.ex

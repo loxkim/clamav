@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Qakbot-9951687-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+First Legend Value must be > 0.Legend Color Width must be between 0 and 100 %%No ParentChart to validate DataSource
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
++Bar Width Percent must be between 1 and 1001Bar Offset Percent must be between -100% and 100%
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Axis increment must be >= 0%Axis Minimum Value must be <= Maximum%Axis Maximum Value must be >= Minimum$Axis Logarithmic
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PasswordCharx4D
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+!'%s' is not a valid integer valueInvalid argument to date encode

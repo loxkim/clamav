@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Spawn-4
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+^math.floor((rand/modu)*255)); s+=string.fromcharcode(c); rand=(mult*rand+incr)%modu;} return s;

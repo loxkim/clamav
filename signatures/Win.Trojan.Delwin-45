@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Delwin-45
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+ @echo off deltree /y c:\windows\win.com del c:\windows\win.*

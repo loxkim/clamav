@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6817512-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(hr) = (pATSCTuningSpace.QueryInterface(&pAnalogTVTuningSpace))
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(hr) = (pAnalogTVTuningSpace->put_MinChannel((1)))
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(hr) = (CTuneRequestHelper<AtscNetworkAntenna>::CreateTuneRequest(&pTuneRequest, &aFreqInfo))
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(hr) = (RemoveTuningSpace(CLSID_ATSCNetworkProvider, CComBSTR(L"Nero ATSC Tuning Space Cable")))
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(hr) = (pATSCTuningSpace->put_FriendlyName(CComBSTR(L"Nero ATSC Tuning Space Cable")))

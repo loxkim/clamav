@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.GMWC-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ell")
+Const ForReading = 1 
+Const ForAppending = 8
+exefile = InputBox(Message,Title,"onz.exe", 4000, 3000)

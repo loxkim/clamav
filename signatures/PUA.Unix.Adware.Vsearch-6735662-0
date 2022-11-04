@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Adware.Vsearch-6735662-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Third Party Offering, including any goods, services, or information, is governed by the terms and conditions respecting such of
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(e.g. trade secrets and confidential information) of MPlayerX and its suppliers.<br>7. THIRD PARTY OFFERINGS. You agree to the 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+the Software to be copied onto another user's Computer except as may be expressly permitted by this agreement.<br>6. INTELLECTU
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+countries. MPlayerX or the third party may at any time, for any reason, modify or discontinue the availability of any Third Par
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+THE AMOUNT PAID FOR THE SOFTWARE, IF ANY. Nothing contained in this agreement limits MPlayerX's liability to you in the event o

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zbot-6904342-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+r c={};for(var a=0;a<x.length;++a){var b=x.key(a);c[b]=s.get(b)}return c}}else{if(q()){x=w[p][w.location.hostname];
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bute(c,s.serialize(b));a.save(A)});s.get=C(function(b,a){a=r(a);return s.deserialize(b.getAttribute(a))});
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+var x=0,z=0,v=a[w.query].length;x<v;x++){if(a[w.query][x].pinyin==w.pinyin||a[w.query][x].query==w.query){z=1;break}}if(z===0)P
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Kopie speichernKVersendet das aktive Dokument mittels elektronischer Post.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+efeger.EXE

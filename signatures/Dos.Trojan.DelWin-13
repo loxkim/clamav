@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.DelWin-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@del c:\windows\system32\*.drv

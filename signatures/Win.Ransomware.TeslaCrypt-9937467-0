@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.TeslaCrypt-9937467-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.(S#_ju;3}CW&(S-aju;3}CW&(S#_juG9}CW&(S#_ju;3}Ce0(S#_ju;3}CW&(S
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+v3}CW&(S-_ju;3}CW&(S#_juG7}CW&(S#_ju;3}Ce.(S#_ju;3}CW&(S
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.(S#_ju;3}CW&(S-_ju;3}CW&(S#_ju
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4~0? -
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Bf%7Q"^qt::|JV-'Z"fi|:J|ZZ%?M:

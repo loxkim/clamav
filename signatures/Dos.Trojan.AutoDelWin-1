@@ -1,0 +1,8 @@
+VIRUS NAME: Dos.Trojan.AutoDelWin-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@del "c:\windows\" *.exe
+@del "c:\windows\system32\" *.exe{WILDCARD_ANY_STRING}@copy autorun.inf c:
+@copy autorun.inf d:
+@copy autorun.inf e:

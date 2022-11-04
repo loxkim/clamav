@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-94
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+{ set %infecttime $day $date $time | yapalým }

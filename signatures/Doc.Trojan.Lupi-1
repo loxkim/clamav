@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Lupi-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+adver = ProcessVersion(adcp.CodeModule.Lines(virusIDRow, 1)){WILDCARD_ANY_STRING}For i = dst.CodeModule.CountOfLines To 1 Step -1{WILDCARD_ANY_STRING}dst.CodeModule.DeleteLines i, 1

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Metallica-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+metallica]
+:: Raven of Metaphase VX Team
+@if '%_vx%==' goto _vx
+@if not '%_vx%==' goto metal_up_your_ass

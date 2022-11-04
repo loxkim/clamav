@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Vkontaktedj-9656443-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\L\Desktop\VkontakteDJ_source_last\VkontakteDJ\source\AbDfBase.pas
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+q=1&from_host=api.vk.com&to=%s&ip_h=%s&lg_h=%s&_origin=%s&expire=0&email=%s&pass=%s&captcha_sid=%s&captcha_key=%s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+JPEG Image File<Error decoding URL style (%XX) encoded string at position %d1Invalid URL encoded character (%s) at posit
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://vk.com/al_audio.php?act=load_silent&al=1&band=false&album_id=-2&owner_id=%s&offset=%d&key=%s
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+THTTPThread.Execute invalid content

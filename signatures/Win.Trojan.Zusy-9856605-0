@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zusy-9856605-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Connection must be inactive*Too many login retries. Allowed [%d] times1To perform operation driver manager, must be [%s]
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Failed to Save Stream %s is already associated with %s=This control requires version 4.70 or greater of COMCTL32.DLL
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+5TLoginCredentialService.GetLoginCredentials[2]$0$Intf`T@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+5TLoginCredentialService.GetLoginCredentials[2]$ActRecX
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Execute not supported1Operation not allowed on a unidirectional dataset

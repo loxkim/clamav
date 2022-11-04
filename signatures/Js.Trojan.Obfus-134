@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-134
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+w=window;g="fromc";g=g+"harcode";if(w[d+"ument"])aa=([].unshift+"");aa=aa.split("").pop();a=

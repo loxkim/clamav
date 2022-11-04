@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Zugara-9646677-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s\ProxyServer,HKLM\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ProxyServer;addonId9:36;addonRegistryKey9:
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dblock Plus for IE,HKLM\Software\AdvertisingSupport,HKLM\SOFTWARE\Wow6432Node\AdvertisingSupport,HKLM\SOFTWARE\Malwarebyt
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ble,HKCU\Software\Re-Markable;addonId6:29;addonRegistryKey6:HKCU\Software\Optimizer Pro;addonId7:32;addonRegistryKey7:HKLM
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+i-Malware,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Malwarebytes Anti-Malware_is1,HKLM\SOFTWARE\Wow6432No
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RE\AVAST Software\Avast,HKLM\SOFTWARE\Wow6432Node\AVAST Software,HKCU\Software\Microsoft\Windows\CurrentVersion\Intern

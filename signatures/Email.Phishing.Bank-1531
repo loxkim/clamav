@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1531
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+I am delighted to contact you on a private note based on your claim to your contract/inheritance Fund sum of{WILDCARD_ANY_STRING(LENGTH<=80)}programmed for transfer into your designated bank account

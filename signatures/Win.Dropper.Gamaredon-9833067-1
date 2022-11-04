@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Dropper.Gamaredon-9833067-1
+TDB: Engine:81-255,Target:0
+LOGICAL EXPRESSION: (0&1&2)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ct("C" + "D" + "" + "" + "" + "O" + "." + "" + "Me" + "s" + "sa" + "" + "ge" + "" + "" + "" + "" + "")
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+= "" + "" + "b" + "as" + "" + "e6" + "" + "" + "" + "" + "4"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+"w" + "" + "i" + "nd" + "" + "ow" + "s" + "-" + "1" + "2" + "" + "" + "" + "" + "51"

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-971
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+you have to install the new security software{WILDCARD_ANY_STRING(LENGTH<=32)}launch the installation file attached to the letter

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Thailand-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+toexec virus
+if exist %1virus.bat virus %2
+if not exist %1autoexec.b

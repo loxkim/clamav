@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Mikey-9753891-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\OpenSSL\Temp\openssl-1.0.2a-x32\out32dll\libeay32.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+V: I GetCPULoad: minShouldRenderFramesPercent: %d, cctx.decodingFpsAvg: %d, cctx.shouldRenderFpsAvg: %d
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\amigo_browser_38\amigo_3.0\src\content\browser\manifest\manifest_manager_host.cc
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+|$?bind@trace@pprofiling@@YAXPAVIReader@12@PAXPAVPrintdlgA_v0@post@win@12@@Z
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+["PlatformSpecific::CryptedToken"]: WindowsCreateString(pwd_str, wcslen(pwd_str), &tmpHString): H_RESULT == %#x

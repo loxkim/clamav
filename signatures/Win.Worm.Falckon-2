@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Falckon-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CopyFile file1, enm.Item(net) & "\setup.vbs{WILDCARD_ANY_STRING}dows\CurrentVersion\Run\Loader", "c:\{WILDCARD_ANY_STRING}CopyFile file1, DirKaz & files(cop) & ".vbs"

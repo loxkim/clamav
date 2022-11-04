@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Ircbot.Elsa-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+C:\
+n10=on 1:text:*byebyebye*:*:/exit
+n11=on 1:connect:.msg #Del_Armg0 and_Elsa_is_S0_Cut3! $ip on $server $+ : $+ $port $+
+n12=;just a WORM .PIF, designed by ... Del_Armg0

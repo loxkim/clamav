@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Autoit-80
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Until not ProcessExists("zlclient.exe")
+EndIf
+If WinExists("ZoneAlarm") Then
+	Do
+	WinActivate("ZoneAlarm")
+	Sleep(100)
+	Send("!R")
+	Sleep(100)
+	Send("!A")

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-823
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+A new invoice is now available{WILDCARD_ANY_STRING(LENGTH<=35)}refer to attached file for more details

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Redir-13
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<script src=http://www.ujnc.ru/js.js></script>

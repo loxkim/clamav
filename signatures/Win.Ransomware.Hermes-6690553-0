@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Ransomware.Hermes-6690553-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0&1)|2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+DECRYPT_INFORMATION.html
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+\users\Public\window.bat
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+gebuzacatu nuzeloxumunobonawagumo votucevavezubu bawohecifijixikavuveji

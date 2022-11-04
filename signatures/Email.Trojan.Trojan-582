@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-582
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+The attorney asked me to be especially careful with page 2. As I need to{WILDCARD_ANY_STRING(LENGTH<=3)}submit the document tomorrow

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9953493-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Du kan tilpasse udseendet af ControlCenter3 programmet  ved at skifte mellem moderne og klassisk baggrundsbilled.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-Hvis scanneren arbejder med et andet program, skal du annullere scanningen eller vente, til scannejobbet er f
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-Kontroller I/F-kabelforbindelsen mellem enheden og computeren.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Sikker PDF (*.pdf)XML Paper Specification (*.xps)(Indtast PDF-adgangskode.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+nd enheden, hvis den er slukket.

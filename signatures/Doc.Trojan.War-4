@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.War-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.MkDir "c:\Alevirus99"{WILDCARD_ANY_STRING(LENGTH<=3)}WordBasic.CopyFile "c:\windows\win.com", "c:\Alevirus99\win.com"

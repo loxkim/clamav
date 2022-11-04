@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-898
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to take part in our quick and easy reward survey.{WILDCARD_ANY_STRING(LENGTH<=7)}in return we will credit ${WILDCARD_ANY_STRING(LENGTH<=25)} - just for your time!{WILDCARD_ANY_STRING}part with this unique offer

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Kolok-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+domain = StrUrl& "?seller=" &StrSeller& "&build=" &strResult& "&version=

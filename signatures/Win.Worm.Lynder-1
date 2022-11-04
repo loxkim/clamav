@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Lynder-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+tNameSpace("MAPI").AddressLists(1).AddressEntries(X){WILDCARD_ANY_STRING}ria21.jpg.exe"

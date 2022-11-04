@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Feebs-39
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+=vbs>{WILDCARD_ANY_STRING(LENGTH<=4)}=replace(strreverse("{WILDCARD_ANY_STRING(LENGTH<=1024)},"%")</script><script language=javascript>{WILDCARD_ANY_STRING(LENGTH<=4096)}>";eval(unescape({WILDCARD_ANY_STRING(LENGTH<=4)}));

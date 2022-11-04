@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Mcon-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ader.vbs v0.4 by: soRRyAzzC0DER
+
+on error resume next
+dim fso,sh,ne,w,t,tl,scan
+randomize
+set fso = cr

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-34
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+system "echo -e \"\\033[01;37mDefacing all homepages ...\"\n";{WILDCARD_ANY_STRING}system 'rm -rf /var/logs';{WILDCARD_ANY_STRING}system 'rm -rf /root/.bash_history';

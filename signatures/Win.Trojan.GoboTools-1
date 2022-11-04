@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.GoboTools-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if instr("1234567890ABCDEF",x)=0 then{WILDCARD_ANY_STRING(LENGTH<=2)}decomp=decomp & chr("&H" & mid(chars,instr(over,x)*2-1,2))

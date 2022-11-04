@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hope-6
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ = NormalTempla{WILDCARD_ANY_STRING}ponents.Item(1).CodeModule.Lines(1, {WILDCARD_ANY_STRING(LENGTH>=12&&<=14)}.VBProject.VBComponents.Item(1).CodeModule.CountOfL{WILDCARD_ANY_STRING}.DeleteLines 1, {WILDCARD_ANY_STRING(LENGTH<=25)}.CountOfLi{WILDCARD_ANY_STRING}.AddFromString

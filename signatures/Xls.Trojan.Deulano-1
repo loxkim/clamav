@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Deulano-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f Application.Workbooks("Especial.xls").Modules(y).Name = "Naduelo" Then

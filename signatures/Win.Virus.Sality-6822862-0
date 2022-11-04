@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6822862-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+n de red es correcta.-No se puede acceder a la impresora de red %s.$%1 no se ha conectado de nuevo a %2.*La configuraci
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+n del controlador del dispositivo RapidPort2 no es correcta.0No se puede acceder al servidor de impresi
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ instalado el monitor de lenguaje de Canon Advanced Printing Technology.@La configuraci
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+No tiene nivel de autoridad suficiente para realizar esta operaci
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Falta %s.@El controlador del dispositivo RapidPort2 no se est

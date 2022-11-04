@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Toren-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+t.createtextfile ("c:\autaexec.bat", true)
+file2.writeline ("@echo off")
+file2.writeline ("@if errorlevel 1 

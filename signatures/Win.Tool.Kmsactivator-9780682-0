@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Kmsactivator-9780682-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+I:\My Data\My Source Code\C++\Projects\Visual Studio\KMSEmulator\KMS Server\bin\Release\KMS Server.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FOR /F "tokens=4 delims= " %P IN ('netstat -ano ^| findstr :1688 ') DO echo %P
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RpcServerListen failed with code %i.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Invalid Port Range! %s is not a valid argument.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RpcServerUseProtseqEp failed with code %i.

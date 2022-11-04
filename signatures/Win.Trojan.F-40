@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.F-40
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+File.remove(found_file);
+	    File.create(found_file).writeln(my_code);
+	    infections++

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Atomicjava-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Êþº¾{WILDCARD_ANY_STRING}java/util/concurrent/atomic/AtomicReferenceArray;{WILDCARD_ANY_STRING}1460952534E4B094

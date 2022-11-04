@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Upatre-7492262-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\JOHNNY~1\AppData\Local\Temp\3f9cb89bbe2363707df9b8c47be5b65263ea0e282dab14faa97a1bdcfd45db02.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\All Users\Start Menu\Programs\Startup\dH7SrNO3g.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\7z23aQhe.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\wjy8p09_.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FMA0MJ-2;+:A7A:C<;+0D5<FCB9*E07*@:*EA6HJ1*O-)

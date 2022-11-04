@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-232
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for(var n010=0;n010<n009.length;n010++){try{var n011=n009[n010].cssrules||n009[n010].rules;for(var n012=0;n012<n011.length;n012++){var n013=n011.item?n011.item(n012):n011[n012];if(!n013.selectortext.match(/c( d+)/))

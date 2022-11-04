@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-423
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+[autorun]{WILDCARD_ANY_STRING(LENGTH<=40)}shellexecute="resycled\boot.com c:"

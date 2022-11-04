@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-480
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+account security, we have suspended your account{WILDCARD_ANY_STRING(LENGTH<=5)}until such time that it can be safely restored by you

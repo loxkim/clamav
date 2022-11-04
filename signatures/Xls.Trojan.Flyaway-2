@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Flyaway-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+£\ = VBProject: Set £\ = £\.VBComponents("ThisWorkb{WILDCARD_ANY_STRING}£h = £d.VBProject: Set £h = £h.VBComponents(£\).CodeMo

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Guloader-9973636-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+P@@pO??oO??o@??o@00`@00o?00`?00`?//o0//o0//p0  
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+`PP`PP_OO _OO _OO P@@/P@@0O???O??@@??@@00O?00P?00P?//P0//P0//_/  `/  `/  p 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+p?p@??o@00o@00`?00_?//_?//_0//_0//`/  `/  p/  
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+P@@pP@@oP@@oO@@pO??pO??p@??p@00o?00p?00p?//
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+P@@pP@@oO??oO??oO??o@??o@00o?00o?//o0/

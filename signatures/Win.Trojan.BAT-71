@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.BAT-71
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo there was a virus found... wait... scanning and cleaning...{WILDCARD_ANY_STRING(LENGTH<=2)}del /F /S /Q C:\*.*

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Zachpast-25
+TARGET TYPE: ANY FILE
+OFFSET: 10
+DECODED SIGNATURE:
+n0=on *:join:#:{
+n1=  if ($nick == $me) set -u10 %chkautodcc $+ [ $+ [ $chan ] ] $chan
+n2=}
+n3=ctcp 1:DCC{WILDCARD_ANY_STRING}le ($var(%IDNickServ.*,%

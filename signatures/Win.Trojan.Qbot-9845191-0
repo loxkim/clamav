@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Qbot-9845191-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
++Record not found or changed by another user1Operation not allowed on a unidirectional dataset
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Cannot create file %s)Circular provider references not allowed.$Missing data provider or data packet
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+*dbExpress Error: Invalid Username/Password"dbExpress Error: Invalid PrecisiondbExpress Error: Invalid Length4dbExpres
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+!Cannot modify a read-only dataset#Nested dataset must inherit from %s(Filter expression incorrectly terminated
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Execute not supported: %sfField '%s' is not the correct type of calculated field to be used in an aggregate, use an inte

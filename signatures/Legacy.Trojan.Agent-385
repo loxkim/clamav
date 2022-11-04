@@ -1,0 +1,7 @@
+VIRUS NAME: Legacy.Trojan.Agent-385
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+mp/$mname.t | awk '{print $1}'`
+echo filesize=$filesize > $filename
+head -$lines $0 | tail -`expr $lines - 1` >

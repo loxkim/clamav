@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-81
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+var n000,n001=new date(),n002=new date(n001.gettime()+2),n003=n001-n002,n004=document.createtextnode("eval");e=window[n004.nodevalue];e(string.fromcharcode(

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-1033
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+From: "Bank Of America"{WILDCARD_ANY_STRING(LENGTH>=565&&<=585)}Subject: New Critical Update{WILDCARD_ANY_STRING(LENGTH>=1335&&<=1355)}has partnered with Trusteer Rapport

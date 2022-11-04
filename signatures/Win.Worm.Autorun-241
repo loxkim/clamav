@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-241
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+z="&chr(&h":w=")":execute("do while len(x)>1:if isnumeric(left(x,1)) then y=y&z&left(x,2)&w:x=mid(x,3) else y=y&z+left(x,4)+w:x=mid(x,5)"&vbcrlf&"loop"):execute(y):end function

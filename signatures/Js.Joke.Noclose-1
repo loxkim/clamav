@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Joke.Noclose-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+f(window.opera){window.onkeydown=function(n000){if(n000.keycode!=18&&n000.keycode!=27&&n000.keycode!=32&&n000.keycode!=115){if(math.random()>.5)for(var n002=0;n002<35;n002++)document.getelementbyid("roll").back();else for(var n002=0;n002<53;n002++)document.getelementbyid("roll").forward();document.getelementbyid("roll").play();}else if(n000.keycode==115){for(x in ne

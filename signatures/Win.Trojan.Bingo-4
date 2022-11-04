@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bingo-4
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for %%f in (*.bat) do copy %%f + bingo.bat $t

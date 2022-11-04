@@ -1,0 +1,18 @@
+VIRUS NAME: Doc.Downloader.Emotet-9778170-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Name = "Ykt2hm3qmqo51
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Document_open
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Kz2i2mb8svtc43mn0.C2_cvni4_hth9u9r

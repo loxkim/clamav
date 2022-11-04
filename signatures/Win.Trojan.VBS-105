@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.VBS-105
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+set wsh=createobject("wscript.shell") sys=fso.getspecialfolder(2) set out=fso.createtextfile(sys&"\temp.exe",true) function c(i) c=chr(

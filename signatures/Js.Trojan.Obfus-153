@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-153
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+string.fromcharcode(str[index] + 27); } md="a"; a=document.createtextnode("ev29"); a.replacedata(2,2,"al"); e=eval(a.data); s=new array(

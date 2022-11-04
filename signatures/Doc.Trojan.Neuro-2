@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Neuro-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If (.Item(SYarDLQwFl).Name = "AVP Monitor") Or (.Item(SYarDLQwFl).Name = "NAI_VS_STAT") Then .Item(SYarDLQwFl).Close

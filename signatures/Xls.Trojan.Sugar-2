@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Sugar-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+deModule.AddFromString ("Public run1 As Boolean" & vbCr & "Private Sub Workbook_WindowDeactivate(ByVal Wn As Excel.Window)" & vbCr & VCode)

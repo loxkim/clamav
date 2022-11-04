@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Multibar-9891846-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<promo>http://ticno.com/?lang=ru&r=addons/info/notepad&position=11</promo>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<url>http://install.ticno.com/addons/notepad/notepad.exe</url>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+oEtG2kaUfEk7dCrkim7zmDmnAFvxbiglONPFmY6eeyEQHx0NpWqX+ycFJE943E/MvUcMsxkQdFrlggDFw+8nhIuDQNiIftPQiImGM+02KsShUorQp6PiAUXQ4fIPm3xH
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+L37AsCcJzYof+jIVJh73gm0vcHzpjZHDTGRxbTNh5Ks0bFhDXBoaTEvu1r4EFdSUjXIryiF3guNeZGpjz/y/AAD81c0AUpgGnAAAAAElFTkSuQmCC</p>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3PrDsDyCfnYh0Ov0Xg4vpRRA5VOSvwaFK6mQK+4miUs7OnK+TTX1YtMpQwaZoNUv9rW5iorEHIR4reaCZJ6GTKjfedIRcJ0P1+FuhIEy5895N/eOqxiKyMr0RUBGsr7y

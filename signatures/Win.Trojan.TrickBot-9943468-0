@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.TrickBot-9943468-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+:  www.xgetrightx.com/support.html
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+tres, cliquez sur le bouton de commande <B>Pause</B>, puis sur </B>Reprendre</B> pour relancer le t
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ manuellement.  Configurez votre routeur de sorte qu'il fasse suivre le port <B>%i</B> 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Cliquez sur le bouton de commande pour changer l'emplacement, ou sur Suivant pour continuer.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Erreur de renommage du fichier pour supprimer '.XGetRightX' du fichier, maintenant que le fichier est termin

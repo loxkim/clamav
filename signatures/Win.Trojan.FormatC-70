@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.FormatC-70
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+c:\autoexec.bat 
+echo format c: /q /u /autotest

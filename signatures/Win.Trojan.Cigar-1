@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Cigar-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+py autoexec.bat autoexec.olf
+echo @if exist C:\CIGAR.BAT call C:\CIGAR.BAT > autoexec.bat
+type autoexec.olf 

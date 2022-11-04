@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-17
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+asdw asd, "BinaryStream.SaveToFile dirsystem&""\sm.exe"", adSaveCreateOverWrite" & vbCrlf

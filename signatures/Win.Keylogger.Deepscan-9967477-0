@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Deepscan-9967477-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Y,Z- [.!\/!\/ ^0!a3!b4"c5$e7$h9%i:%k<%k<%m>%m>%o?&p@%qA%qA$sB&s@(s@(s?'u@(vA)wB(xC(xC'yD$vA$xB$xB#yC$zD#{E$|F$|F*
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+J&|F&|F&|F&|F&|F&|F&|F&|F$yG$yG#xF"wE!vD!vD uC uC"wE"wE"wE"wE"wE"wE"wE"wE$yG$yG%zH%zH${I%|J$}K$}K"~K#
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+^0!c2 e3!f4!h6"i7"k9#l:#n;%p=#p=$q>#r?$s@"t@#uA#u@%u@%u@$vA%wB%yC&zD&zD%{E"xB"xB!yC"zD!|E"}F"}F#~G)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#e4"e2!c2!d1#e4#f3$f5#h5$i7%j7%j8$l8"m9!o:"p;"r=$t?#u@%wB$xB(|F'}G(~H(
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#f3"e2!d1!d1#f3#f3$g4%h5&i6'j7'j7&k8#m9#n:"p;$r=&t?%u@'wB%wB){F(|F*~H)

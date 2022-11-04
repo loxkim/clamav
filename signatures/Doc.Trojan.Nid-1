@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nid-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+onents.Item("Virus").Name <> "Virus" Then{WILDCARD_ANY_STRING}едопустимое. Переустановите офис !!!", vbCritical

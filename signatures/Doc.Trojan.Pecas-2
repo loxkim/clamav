@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Pecas-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If activ.Name <> "Pecas" Then{WILDCARD_ANY_STRING}If Day(Now) = 13 Then Selection.TypeText "pequitas te amo"

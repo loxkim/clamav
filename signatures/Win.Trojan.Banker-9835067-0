@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Banker-9835067-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Device\HarddiskVolume1\Arquivos de programas\AVG\AVG10\Identity Protection\Agent\Bin\AVGIDSMonitor.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Device\HarddiskVolume1\Arquivos de programas\ESET\ESET NOD32 Antivirus\updater.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Device\HarddiskVolume1\Arquivos de programas\Avira\AntiVir Desktop\avscan.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Device\HarddiskVolume1\Arquivos de programas\Alwil Software\Avast5\AvastSvc.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Device\HarddiskVolume1\Arquivos de programas\AVG\AVG10\avgwdsvc.exe

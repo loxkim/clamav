@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Win.Trojan.Obfus-267
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+";l=str.length;while(c<=str.length-1){while(str.charat(c)!="!")temp=temp+str.charat(c++);c++;out=out+string.fromcharcode(temp);temp="";}document.write(out);}

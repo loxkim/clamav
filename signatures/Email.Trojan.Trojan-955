@@ -1,0 +1,8 @@
+VIRUS NAME: Email.Trojan.Trojan-955
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Subject: Invoices{WILDCARD_ANY_STRING(LENGTH>=300&&<=320)}Dear client, 
+
+New details for payment
+http://

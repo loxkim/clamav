@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCBnc-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+write securec.vbs bl.run "net share /delete IPC $+ $chr(36) /y",0,true

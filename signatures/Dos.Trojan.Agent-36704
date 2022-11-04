@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36704
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off title mr_unlocker shutdown -r -f -t0 

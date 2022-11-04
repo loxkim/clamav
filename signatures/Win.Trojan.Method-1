@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Method-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+neWBT = ItemExtract(w, AllWBT, @tab)
+
+If MyCode != OneWBT
+
+virus = FileOpen(MyCode, "READ")
+host = FileOpe

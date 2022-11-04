@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.NoShare-13
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+net start avhelper net start svchost.exe net share /delete c$ /y >> net.deld net share /delete e$ /y

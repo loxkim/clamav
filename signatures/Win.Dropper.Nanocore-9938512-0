@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-9938512-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fSystem.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3ajSystem.CodeDom.MemberAtt
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+f:documentID="xmp.did:BF35793C587B11E18D8EDBFF8BE69FF8"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>4
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+f:documentID="xmp.did:A51255EE564511E18581B54459589853"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>F
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+f:documentID="xmp.did:D269FE6E565B11E1B51AF83C45E17C3A"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>

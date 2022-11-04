@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.BWG-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@echo fso.Copyfile("C:\windows\relax.bat"), "C:\WINDOWS\Start Menu\Programs\StartUp\Shell32.bat">>C:\windows\relax.vbs

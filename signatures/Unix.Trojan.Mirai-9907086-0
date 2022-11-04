@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Mirai-9907086-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dfs`eeh&<'9)!Dhj`g}fza2)@g}le)Dhj)FZ)Q)89V88V? )Hyyel^lkB`}&?98'>'>)!BA]DE%)e`bl)Nljbf )_l{z`fg&0'8';)Zhoh{`&?98'>'>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dfs`eeh&<'9)!^`gmf~z)G])89'92)^`g?=2)q?= )Hyyel^lkB`}&<:>':?)!BA]DE%)e`bl)Nljbf )Ja{fdl&?;'9':;9;'10)Zhoh{`&<:>':?
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dfs`eeh&<'9)!^`gmf~z)G])?'82)^F^?= )Hyyel^lkB`}&<:>':?)!BA]DE%)e`bl)Nljbf )Ja{fdl&=1'9';<?='890)Zhoh{`&<:>':?
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Hjjly}3)}lq}&a}de%hyye`jh}`fg&qa}de"qde%hyye`jh}`fg&qde2x49'0%`dhnl&~lky%#&#2x49'1
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Jfg}lg}$]pyl3)hyye`jh}`fg&q$~~~$of{d$|{elgjfmlm

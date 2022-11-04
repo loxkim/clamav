@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.XtremeRAT-7751984-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RC4PasswortRC4PasswortRC4PasswortRC4PasswortRC4PasswortRC4PasswortRC4PasswortRC4PasswortRC4PasswortRC4PasswortRC4PasswortRCs5
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+QassportGC4PFsswZrtR~4Pa2swo3tRCuPas2wor5RC4
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PasswortRC4PasswortRC4PasswortRC4PasswortRC4PasswortRC4PasswortRC4PasswortR5
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+5PasvworsRC4Yass~ort[C4PhsswfrtRJ4Pazswo{tRC=Paszwor}RC4Yass~ort[C4PhsswfrtRJ4PazswoutRC7
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Qassport

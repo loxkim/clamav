@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Delf-9868770-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Your character owns a house. You have to login and leave the house or pass it to someone else to complete.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Do you want to change your {password}, generate a {recovery key}, create a {character}, or {delete} an existing character?
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SELECT `id`, `password`, `salt`, `premdays`, `lastday`, `key`, `warnings` FROM `accounts` WHERE `name` 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+N5boost6detail11thread_dataINS_3_bi6bind_tIjNS_4_mfi3mf0IjNS_4asio10io_serviceEEENS2_5list1INS2_5valueIPS7_EEEEEEEE
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Your character is leader of a guild. You have to disband the guild or pass the leadership to someone else to complete.

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.BAT-35
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@echo off
+echo echo nphhuatvsbkwujzwbyjn >> C:\autoexec.bat
+%0

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+xst = Sgn(x) Then czy.Item(Cos(Atn(CInt(1)))).codemodule.replaceline Abs(vx), "Sub AutoClose()"

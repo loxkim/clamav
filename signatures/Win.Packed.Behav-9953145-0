@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Behav-9953145-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid Header Id %d4Received Packet is too small. Less than 12 bytes. %d Received Packet is too small. %d
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unknown Message Part Type.TMessage parts cannot be used in a message which has a ContentTransferEncoding value.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:admin@abc.com
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Remote LoginZCannot enable AutoSessionName property with more than one session on a form or data-module^Cannot add a ses
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Host field is empty*SSL IOHandler is required for this setting8This value can not be set while the client is connected.$

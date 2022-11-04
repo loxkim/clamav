@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36568
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off c:\video.exe @echo off goto %config% :normal @echo off c:\dos\doskey c:\bin\keyspeed c:\dos\keyb uk,,c:\dos\keyboard.sys path c:\bin;c:\dos prompt $p$g goto konec :ice rem c:\windows\smartdrv.exe c:\dos\doskey c:\bin\keyspeed path c:\bin;c:\dos;c:\ice prompt $p$g :konec 

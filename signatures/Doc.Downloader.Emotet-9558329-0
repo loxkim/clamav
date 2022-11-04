@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Downloader.Emotet-9558329-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2379((0s:2n3(((((h
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C0fvkybdevaw8lgp = "2n3(((((h 2289(7 2379((0s2n3(((((h 2289(7 2379((0sw2n3(((((h 2289(7 2379((0si2n3(((((h 2289(7 2379((0snm2n3
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Function K88fk0w1nicqq
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ji0z0hrddb2uii6p3 = Array(Fvna6yr9q5mm7 + "Gxkz1u8awernk Kthsjbw7snokiTx32golv9gz Jg_jtrngt9w5", CreateObject(Yknm0mkss6sr785).C
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+P806izx976z63c9kk = 100
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Trogw2sjay9 = Kneo67jow6ytlj1f1_.P2nmcpiub2oq.Tabs(1).ControlTipText

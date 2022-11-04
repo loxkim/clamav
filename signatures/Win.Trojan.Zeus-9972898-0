@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zeus-9972898-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+document.getElementById('tab4').style.background='url(menu-item.gif) no-repeat -162px -135px';
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+document.getElementById('tab5').style.background='url(menu-item.gif) no-repeat 0 -180px';       
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<img src="header-perfoming-scan.gif" width="147" height="33" border="0" alt="" /></div>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<img id="install-updates-now1" src="button-getupd1.gif" width="84" height="23"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cell1.innerHTML = '<div style="text-overflow:ellipsis;overflow:hidden;white-space:nowrap;width:110px">' + name + '</div>';

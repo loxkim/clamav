@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Adware.WhenU-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+1.0, 
+         "whenu_ff.dll", componentsDir, ""); 
+ 
+addFile ("Iwhenu_ff.xpt", "1.0", 
+    

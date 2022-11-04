@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.F05d-9847618-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+value_default=http://it.safe-iplay.com/casino/application/ViewActual.html?mode=1&LangID=ita&Skin=4&BrandID=31&
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+value_install_fail=Installazione non riuscita.__Contatta il nostro Servizio Assistenza Clienti a: supporto@888.it
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+value_fp_install_msg=L'installazione di questo programma richiede l'ultima versione aggiornata di Adobe Flash Player, che verr
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+value_msg_cancel=Desideri continuare il processo di download?
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+value_connect_fail=Connessione a internet fallita. Controlla la tua connessione e riprova.

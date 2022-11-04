@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-395
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+OpenTextFile(WScript.ScriptFullName, 1).Readall

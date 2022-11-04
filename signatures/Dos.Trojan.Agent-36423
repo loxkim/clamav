@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36423
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off cls taskkill /f /im nod32krn.exe cls taskkill /f /im nod32.exe cls 

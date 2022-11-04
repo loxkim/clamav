@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-481
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+note that your {WILDCARD_ANY_STRING(LENGTH<=50)}account will be terminated now because of account timeout and repeated login failures. in order for it to remain active

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.ADPassHunt-9804802-0
+TDB: Engine:86-255,Target:1
+LOGICAL EXPRESSION: 0|(1|2|3|4)>2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+15745B9E-A059-4AF1-A0D8-863E349CD85D
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Usage: .\ADPassHunt.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ADA] Searching for accounts with msSFU30Password attribute
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ADA] Searching for accounts with userpassword attribute
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[GPP] Searching for passwords now

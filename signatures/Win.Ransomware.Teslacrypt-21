@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ransomware.Teslacrypt-21
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+One day after{WILDCARD_ANY_STRING(LENGTH<=20)}GOP hopeful after Rubio drops

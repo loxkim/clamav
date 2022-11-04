@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.KakWorm-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+en(c)"+vbcrlf+"if mid(c,i,1)="""""""" then"+vbcrlf+"a=a+mid(c,i,1)+mid(c,i,1)"+vbcrlf+"elseif mid(c,i,1)=chr(13

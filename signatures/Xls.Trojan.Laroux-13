@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Laroux-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Workbooks("Person.xls").Sheets("aola").Copy before:=Workbooks(swnew).Sheets(1)

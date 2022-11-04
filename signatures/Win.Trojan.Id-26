@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-26
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+n = @php_uname(); $up = system(uptime); $id1 = system(id); $pwd1 = @getcwd(); $soft1 = getenv("server_software"); $php1 = phpversion(); $name1 = $_server['server_name']; $ip1 = gethostbyname($server_addr); $free1= diskfreespace($alb4); $free = convertbytes(diskfreespace($

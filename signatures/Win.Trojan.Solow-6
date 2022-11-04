@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Solow-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.regwrite "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\Cur rentVersion\Run\mcafee",winpath & "\Win32.dll.vbs": rg.regwrite "

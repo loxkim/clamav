@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Joanap-6574508-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+TO: Joana <%s>%s{WILDCARD_ANY_STRING}gmail-smtp-in.l.google.com{WILDCARD_ANY_STRING}ninja@gmail.com{WILDCARD_ANY_STRING}xiake722@gmail.com

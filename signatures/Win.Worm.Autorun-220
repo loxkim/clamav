@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-220
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+[autorun]{WILDCARD_ANY_STRING(LENGTH<=22307)}\CurrentControlSet\Services\K4hostEL

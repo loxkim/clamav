@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-292
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+process is mandatory, and if not completed within the nearest time your account may be subject for temporary suspension.{WILDCARD_ANY_STRING(LENGTH<=5)}To securely confirm

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-19
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+_post['command'])) { if ($execfunc=="system") { system($_post['command']); } elseif ($execfunc=="passthru") { passthru($_post['command']); } elseif ($execfunc=="exec") { $result=exec($_post["command"]); echo $result; } elseif ($execfunc=="shell_exec") { $result=shell_exec($_post["command"]); echo $resul

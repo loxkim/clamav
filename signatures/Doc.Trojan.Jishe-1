@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Jishe-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox "函数ScanDocument返回错误代码，系统无法识别。", vbOKOnly, "系统出错"

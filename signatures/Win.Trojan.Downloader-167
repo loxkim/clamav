@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-167
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+classid="clsid:c1b7e532-3ecb-4e9e-bb3a-2951ffe67c61"{WILDCARD_ANY_STRING}<param name="propdownloadurl" value=

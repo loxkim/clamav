@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Scrambler-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@cls
+@echo Today..
+@echo I'm going to scramble your mind..

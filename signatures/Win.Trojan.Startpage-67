@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Startpage-67
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.htm
+[DEFAULT]
+BASEURL=http://nkvd.us
+[InternetShortcut]
+URL=http://www.nkvd

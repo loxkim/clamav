@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Angus-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ic.MkDir WordBasic.[DefaultDir$](2) + "\PcGuru2"

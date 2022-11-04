@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-126
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+terval("jump()", 10); } function jump() { a = a + 1; self.moveby((math.random()

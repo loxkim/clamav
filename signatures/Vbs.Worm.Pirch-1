@@ -1,0 +1,5 @@
+VIRUS NAME: Vbs.Worm.Pirch-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.fileexists("c:\pirch\Pirch32.exe") then

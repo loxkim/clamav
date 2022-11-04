@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.HelOOn-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo Mail.Attachments.Add(dir3&"o2o.bat")>>o.vbs

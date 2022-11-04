@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Downloader-62
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ps.name="kavsvc.exe" or ps.name="adam.exe" then
+ws.run "ntsd -c q -p ps.handle",0
+end if:next
+iLocal = LCase("c:\system.exe"):iRemote = LCase("http:

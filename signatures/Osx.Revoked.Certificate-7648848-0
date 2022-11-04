@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7648848-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+010
+	’&‰“ò,d
+85LZ8U65QV1806U/iPhone Distribution: SAUD ALBOKAMI (85LZ8U65QV)10U
+85LZ8U65QV10U
+SAUD ALBOKAMI10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0200220224121Z210219224121Z

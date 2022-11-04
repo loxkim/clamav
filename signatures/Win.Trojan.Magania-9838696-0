@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Magania-9838696-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Select the item you want to configure from the list.@<TEXTCOLOR="%s">Settings are not password protected.</TEXTCOLOR>>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%d%% - generating log9Full (scan first)|Full (clean first)|Only scan|Only clean'Do you really want to delete plain log?
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+- secured versions of web and email network protocols.8${ConfigComputer}/Antivirus and antispyware/Startup scan
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Antivirus and antispywareRAre you sure you want to temporarily disable Antivirus and antispyware protection?
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Providing additional information will significantly help our laboratories in the identification and processing of sample

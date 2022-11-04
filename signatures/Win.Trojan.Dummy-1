@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Dummy-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+o.mapnetworkdrive l,"\\"&w&p&x&p&y&p&z&"\C"{WILDCARD_ANY_STRING(LENGTH<=10)}b.copyfile g,l&"\WINDOWS\StartM~1\Programs\StartUp"

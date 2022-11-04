@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Elknot-9942641-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZSt13__destroy_auxIN9__gnu_cxx17__normal_iteratorIPSsSt6vectorISsSaISsEEEEEvT_S7_12__false_type
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZNSt15__copy_backwardILb0ESt26random_access_iterator_tagE6copy_bIPSsS3_EET0_T_S5_S4_
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZNSt15__copy_backwardILb1ESt26random_access_iterator_tagE6copy_bIjEEPT_PKS3_S6_S4_
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZZN8CUtility11GetRandomIPEPKcS1_E5C.107
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZNSt22__copy_backward_normalILb1ELb1EE8copy_b_nIN9__gnu_cxx17__normal_iteratorIPSsSt6vectorISsSaISsEEEES8_EET0_T_SA_S9_

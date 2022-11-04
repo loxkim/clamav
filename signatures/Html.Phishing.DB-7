@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.DB-7
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+en die betr{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}gereiversuche{WILDCARD_ANY_STRING}die form der zus{WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}zlichen autorisation

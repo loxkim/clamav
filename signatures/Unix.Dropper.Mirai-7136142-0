@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Dropper.Mirai-7136142-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rm -rf /tmp/* /var/* /var/run/* /var/tmp/* /dev/netslink/* /dev/* /dev/shm/* /mnt/ /boot/* /usr/* /opt/*
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HUAWEIUPNP)</NewDownloadURL></u:Upgrade></s:Body></s:Envelope>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pkill -9 busybox
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pkill -9 perl
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pkill -9 python

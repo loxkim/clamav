@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Gafgyt-9441535-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+5.189.157.245:164
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+IJKLMNOPQRSTUVZYWX|:. !#-/;&*'"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?=STzDwSddS?=STu*UTUv"SddS?=ST=)uTxADSddS?=STD"zSddS?=STu*UZUDSW(SIZ^vxs^!qSr|)zSAzzw1TT>:>Xl<Xl@X:+T^B"XxASddSr|)zSAzzw1TT>:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Xl@X:+T^B"XxAZxAS^B"XxAZ^vxs^!qSz(zwSWUS^B"@XxASW|S>:>Xl<Xl@X:+SddSz(zwSWUS^B"@XxASW|S>:>Xl<Xl@X:+ZxAS^B"@XxAZ^vxs^!qSz(zw
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+l<Xl@X:+SW?S|)zS^B"oXxASddSz(zwS>:>Xl<Xl@X:+SW?S|)zS^B"oXxAZxAS^B"oXxAZ^vxs^!qS(zw|)zS>:>Xl<Xl@X:+S^B"$XxAS^B"$XxAZxAS^B"$

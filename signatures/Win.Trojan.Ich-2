@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Ich-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+atIcH.Bat 
+for %%J in (..\*.bat *.bat) do call IcH %%J 
+del IcH.* 
+:: [IcH] by Techno Phunk 
+goto IcH 
+:iI

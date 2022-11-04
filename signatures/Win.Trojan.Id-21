@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-21
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+$sy = @php_uname(); $idd = system(id); $ip = gethostbyname($server_addr); $os = @php_os; echo "os: $os<br>"; echo "uname -a: $sy<br>"; echo "id: $idd<br>

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Passer-24
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+net use \\%1\ipc$ "12345" /user:administrator if not errorlevel 1 goto x1 net use \\%1\ipc$ "123456" /user:administrator

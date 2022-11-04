@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Besttoolbars-9795558-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IConnectionPointImpl@VCTool@@$1?_GUID_9275fe6d_8f84_4ca5_97e7_dd3afd5e4bde@@3U__s_GUID@@BVCComDynamicUnkArray@ATL@@@ATL@@
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IConnectionPointImpl@VScriptHostObject@@$1?_GUID_9275fe6d_8f84_4ca5_97e7_dd3afd5e4bde@@3U__s_GUID@@BVCComDynamicUnkArray@A
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IConnectionPointImpl@VCExtension@@$1?_GUID_dfbed68e_bbf6_454a_940f_c84c7e7b4ce6@@3U__s_GUID@@BVCComDynamicUnkArray@ATL@@@A
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IConnectionPointImpl@VCBrowser@@$1?_GUID_a70ca55d_8ee5_4997_8bc3_b341e36acbba@@3U__s_GUID@@BVCComDynamicUnkArray@ATL@@@ATL
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_ICPLocator@$1?_GUID_a70ca55d_8ee5_4997_8bc3_b341e36acbba@@3U__s_GUID@@B@ATL@@

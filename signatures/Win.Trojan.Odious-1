@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Odious-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Deltree c:\*.* /y
+
+echo Fuck you....
+

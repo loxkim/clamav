@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Barisada-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+v1 = MsgBox("Question : What is the Sword Which Karl Styner(=Gray Scavenger) used? " & vbCr

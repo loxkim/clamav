@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-612
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+sign in to secured online banking{WILDCARD_ANY_STRING(LENGTH<=10)}continue to the verification process.{WILDCARD_ANY_STRING(LENGTH<=7)}(remember failure to verify your account details will lead to account susp

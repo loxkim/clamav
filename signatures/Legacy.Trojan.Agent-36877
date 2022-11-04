@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-36877
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+[autorun] shellexecute=system.exe ; icon=%windir%\system32\shell32.dll,4 ;

@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Snake-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+utost~1\WSt.bat
+set snake=snake
+set snake=fo
+goto snake
+set snake=snake
+:snake
+set snakea=%s%w
+set snakea=%snake%r
+go

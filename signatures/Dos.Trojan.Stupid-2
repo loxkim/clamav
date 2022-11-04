@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.Stupid-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+o off
+rem Stupid trojan.
+rem deldisk
+del c:\windows\command\scandisk.exe
+echo @echo off >c:\windows\command\scandisk.ba

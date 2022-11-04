@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Apmas-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+lkxa = exa("Z{5Pggzg5Gpf`xp5{pmaGpx5{WILDCARD_ANY_STRING}Execute lkxa : Function exa(a):For m = 1 to len(a):exa = exa & Chr(Asc(mid(a,m,1)) Xor 21 ):next:end func

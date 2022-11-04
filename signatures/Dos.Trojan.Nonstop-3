@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Nonstop-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo run=%q%\SYSTEM\%susdem%.BAT>Âmp3{WILDCARD_IGNORE}{WILDCARD_IGNORE}copy /b Âmp1+Âmp2+Âmp3+Âmp4+Âmp5

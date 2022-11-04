@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Alcaul-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+next
+set a = fso.CreateTextFile(Wscript.ScriptFullname, true)
+a.writeline cc
+a.writeline dd

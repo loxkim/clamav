@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Pox-10
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+MacroCopyFileName$ (  )  +  ":AutoOpen" ,  "normal.dot:AutoOpen" ,  3{WILDCARD_ANY_STRING}Msg$ =  Msg$ +    " May a PoX be up

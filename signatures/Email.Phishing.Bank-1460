@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1460
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+You have one new message at{WILDCARD_ANY_STRING(LENGTH>=30&&<=200)} Bank{WILDCARD_ANY_STRING}In order to read the message click here to login at

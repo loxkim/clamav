@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCZapchast-27
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+"whitehat" [hkey_local_machine\software\microsoft\windows\currentversion\run] "spoolsv"="\"c:\\windows\\temp\\spoolsv\\spoolsv.exe\""

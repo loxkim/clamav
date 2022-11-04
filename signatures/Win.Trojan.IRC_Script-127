@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-127
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if ($exists(hidden32.exe) == $false) { exit } | if (%servernum == 0) { set %servernum 1 } | /server $decode

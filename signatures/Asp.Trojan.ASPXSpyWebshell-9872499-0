@@ -1,0 +1,18 @@
+VIRUS NAME: Asp.Trojan.ASPXSpyWebshell-9872499-0
+TDB: Engine:55-255,FileSize:1000-150000,Target:3
+LOGICAL EXPRESSION: 0&(1|2)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+processprcsss=newprocess();
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+publicstringbase64tostr(stringinstr)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+publicvoiderrorshow(stringinstr)

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-852
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Your latest{WILDCARD_ANY_STRING(LENGTH<=20)}is now available for your review and attached to this email

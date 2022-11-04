@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1395
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+This allows us to verify that you are in fact, you{WILDCARD_ANY_STRING(LENGTH<=290)}Click here</font></a> to start the security update

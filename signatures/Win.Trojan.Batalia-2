@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Batalia-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+o b
+:i
+ren %2 p >l
+arj a j i.bat SG >nul
+copy /b p+SG+j.arj %2>l

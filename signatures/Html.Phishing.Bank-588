@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-588
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+order to continue to{WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}operate the{WILDCARD_ANY_STRING(LENGTH<=25)} service and to reduce the risk of fraud, {WILDCARD_ANY_STRING(LENGTH<=25)}must ask you to enroll in our fraud-prevention progr

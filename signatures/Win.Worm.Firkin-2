@@ -1,0 +1,14 @@
+VIRUS NAME: Win.Worm.Firkin-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+SET T1=3
+SET D1=1
+GOTO DIGITS2
+
+:RS3
+SET H2=2
+SET T2=4
+SET D2=4
+call c:\progra~1\foreskin\final.bat

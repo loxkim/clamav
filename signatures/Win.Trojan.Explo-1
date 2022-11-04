@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Explo-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+command /e:10000 /c c:\_explore explore vir
+:eexplore
+set explore=

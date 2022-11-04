@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.RTF-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+tensionName(X.Path)
+If Y="rtf" Or Y="RTF" Then
+Call Test_Infected(X.Path,2,0)
+End If
+Next
+End Function

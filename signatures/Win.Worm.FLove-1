@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.FLove-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+o for x=1 To ae.Count>>%windir%\Picture.jpg.vbs
+echo set ci=ol.CreateItem(0)>>%windir%\Picture.jpg.vbs
+echo set Mail=ci>>%wi

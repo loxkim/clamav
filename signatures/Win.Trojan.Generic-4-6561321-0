@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-4-6561321-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Libro de direcciones combinado de WinZip DestinatarioDirectorioDialogo
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+IPara contactos que reciban emails, enviar el propio email a cada contacto
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Copyright (c) 2015-2017 Corel Corporation. Reservados todos los derechos.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Seguro que quiere eliminar el/los contacto(s) personales seleccionados?
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BPor favor, selecciona al menos un receptor para enviar tu mensaje.

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Clicker-44
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+nger: spywar{WILDCARD_ANY_STRING}onload="start();"><iframe src="http://

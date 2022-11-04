@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Ircbot.Flood-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+wlist=64,624,17,358,0
+wdccg=22,624,22,358,0
+wquery=154,624,154,358,0
+wdccs=22,724,22,358,0
+
+[Aliases]
+alias0=/verflood /ctcp $1 

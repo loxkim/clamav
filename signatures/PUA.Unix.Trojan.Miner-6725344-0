@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Trojan.Miner-6725344-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/travis/build/lbryio/lbrycrd/build/boost/include/boost/thread/pthread/pthread_mutex_scoped_lock.hpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1CRPCCommandNS0_19optional_last_valueIvEEiNSt3__14lessIiEENS_8functionIFvS4_EEENSA_IFvRKNS0_10connectionES4_EEENS0_5mutexEEE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+INS5_4pairINS3_15slot_meta_groupENS_8optionalIiEEEENS2_5slot1IvRK11CRPCCommandNS_8functionIFvSI_EEEEENS2_5mutexEEEEEEEEE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/travis/build/lbryio/lbrycrd/build/boost/include/boost/filesystem/operations.hpp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CBlock(hash=%s, ver=0x%08x, hashPrevBlock=%s, hashMerkleRoot=%s, hashClaimTrie=%s, nTime=%u, nBits=%08x, nNonce=%u, vtx=%u)

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Gubed-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+new activexobject("adodb.stream")){WILDCARD_ANY_STRING}en();writetext(unescape(n000));savetofile("

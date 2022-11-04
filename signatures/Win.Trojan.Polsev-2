@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Polsev-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Int(Rnd {WILDCARD_IGNORE} 9):if polyint > 4 then:polynew6 = replace(polynew5,"{WILDCARD_IGNORE}1","{WILDCARD_IGNORE}1"&polyint5):else:polynew6 = replace(poly,"{WILDCARD_IGNORE}1",chr({WILDCARD_ANY_STRING(LENGTH>=2&&<=3)})&"1"):end if

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.Psyme-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+,False : o.send : set s = createobject("adodb.stream") : s.type=1 : s.open : s.write o.responseBody : s.savetofile "C:\

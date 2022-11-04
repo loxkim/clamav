@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.KillGood-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+answer$ = InputBox$("讓我考考你:\在民國73年2月7日出生的我叫什麼名字呢?", "我的第一次")

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VBS-161
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+mys=fso.createtextfile("c:/windows/starter01.js"

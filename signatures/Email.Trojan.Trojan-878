@@ -1,0 +1,7 @@
+VIRUS NAME: Email.Trojan.Trojan-878
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+we notify you that your delivery{WILDCARD_ANY_STRING(LENGTH<=128)}To claim your
+package or initiate a new delivery attempt please use the
+attached document

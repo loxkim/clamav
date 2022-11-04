@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Mb-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+оздаем массив Bug со списком каталогов пути
+' SI - символ
+TP = 1
+For x = Len(MB11) To 1 Step -1
+   SI = Mid

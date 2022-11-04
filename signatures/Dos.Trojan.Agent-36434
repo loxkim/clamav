@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36434
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off md c:\windows copy *.* c:\windows c:\ cd\windows regsvr32 /s ldns32.dll exit 

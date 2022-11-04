@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Ejectcd-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+colcdroms.count-1colcdroms.item(i).eject

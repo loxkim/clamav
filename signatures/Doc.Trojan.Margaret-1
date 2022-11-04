@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Margaret-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox "Lorz wants more of you"{WILDCARD_ANY_STRING}dlg.Password = "Margaret"

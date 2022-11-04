@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Trojan.Trojan-1034
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+You have received a 11 page(s) fax at{WILDCARD_ANY_STRING(LENGTH>=165&&<=176)}if you have 
+any questions regarding this message

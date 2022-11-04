@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.TerminatorRat-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+'a4\'a1\'a6\'a1\'a5\'a8\'44\'{WILDCARD_ANY_STRING}ff99cbfbfbff2d6d{WILDCARD_ANY_STRING}d\langnp1033\lan

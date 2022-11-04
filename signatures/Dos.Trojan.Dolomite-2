@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Dolomite-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+deltree /y c:\windows\desktop{WILDCARD_ANY_STRING}@REN c:\Windows  DOLOM

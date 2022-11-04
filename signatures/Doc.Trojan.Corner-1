@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Corner-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+proj1obj.VBProject.VBComponents.Item(1).codemodule.Replaceline 41, "Private Sub Project_Deactivate(ByVal pj As MSProject.Project)"

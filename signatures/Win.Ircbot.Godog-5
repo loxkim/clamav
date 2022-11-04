@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Ircbot.Godog-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ignore $nick
+n3=ON 1:TEXT:*Worm*:*:/ignore $nick
+n4=ON 1:TEXT:

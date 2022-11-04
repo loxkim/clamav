@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Delwin-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ltree/y c:\windows\applic~1\micros~1\office\recent\ >nul{WILDCARD_IGNORE}{WILDCARD_IGNORE}@deltree/y c:\windows\pchealth\helpc

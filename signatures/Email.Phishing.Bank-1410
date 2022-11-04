@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1410
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+all flagged account required immediate activation for Online<br>{WILDCARD_ANY_STRING(LENGTH<=3)}Banking to remain active

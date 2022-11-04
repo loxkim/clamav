@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36734
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+ "get", url, false >> %temp%\winconfig.vbs & echo http.send >> %temp%\winconfig.vbs & echo binarygeturl = http.responsebody >> %temp%\winconfig.vbs & echo end function >> %temp%\winconfig.vbs & echo set shell = createobject("wscript.shell") >> %temp%\winconfig.vbs & echo shell.run "%temp%\update.exe"

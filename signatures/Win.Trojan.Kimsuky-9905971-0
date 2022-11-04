@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Kimsuky-9905971-0
+TDB: Engine:90-255,FileSize:10000-5000000,Target:1
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE FULLWORD
+ +-> DECODED SUBSIGNATURE:
+cmd.exe /c ipconfig/all >>"%s" & arp -a >>"%s"

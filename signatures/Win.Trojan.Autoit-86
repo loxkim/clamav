@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Autoit-86
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If $PID2 Then ProcessClose($PID2)
+	ProcessClose("taskmgr.exe")
+	$PID1 = ProcessExists("taskmgr.exe")
+	If $PID1 Then ProcessClose($PID1)
+	ProcessClose("Bkav2006.exe")

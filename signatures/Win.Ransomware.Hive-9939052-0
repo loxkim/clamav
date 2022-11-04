@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Hive-9939052-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e: bad notifyList size - sync=runtime: invalid pc-encoded table f=runtime: invalid typeBitsBulkBarrierruntime: marked free objec
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%q for -%s: %vmethod ABI and value ABI don't alignreflect: NumField of non-struct typeruntime: VirtualQuery failed; errno=runtim
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+og with non-nil gp.paramruntime:stoplockedm: lockedg (atomicstatus=unfinished open-coded defers in deferreturnunknown runnable g
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+compileCallback: float arguments not supportededwards25519: invalid field element input size
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+thread (have runtime: name offset base pointer out of rangeruntime: panic before malloc heap initialized

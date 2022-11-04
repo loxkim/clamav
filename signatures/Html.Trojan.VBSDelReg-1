@@ -1,0 +1,9 @@
+VIRUS NAME: Html.Trojan.VBSDelReg-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WSHShell.RegDelete "HKCR\CDAUDIO\"
+WSHShell.RegDelete "HKCR\http\"
+WSHShell.RegDelete "HKCR\.htm\"
+WSHShell.RegDelete "HKCR\.html\"
+WSHShell.RegDelete "HKLM\Hardware\DeviceMap\"

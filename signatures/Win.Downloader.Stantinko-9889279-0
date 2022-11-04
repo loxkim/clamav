@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Stantinko-9889279-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$("#" + loginHeaderTemplate).tmpl(RegData).appendTo("#loginHeader");
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"https://www.cox.com/content/dam/cox/common/tnt/testimonials/customer_testimonial_desktop_37.jpg",
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Extension commands need mscorwks.dll in order to have something to do.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+To try the command anyway, run !MinidumpMode 0
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Delete the entry called 'Dialer', which uses rundll32.exe to run msa32chk.dll

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Small-200
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ript.ScriptFullName):V1=Left(F1,InStrRev(F1,"\")):For Each T1 In F.GetFolder(V1).Files:F.CopyFile F1,T1.Name

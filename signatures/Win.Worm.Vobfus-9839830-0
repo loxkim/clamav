@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Vobfus-9839830-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\WiNdoWs\sySTeM32\usEr32.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Modified by an unpaid evaluation copy of Resource Tuner 2. http://www.heaventools.com
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Archivos de programa\Microsoft ViSuAl STUdIO\vB98\Vb6.OLB
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+V43QiqIcioXrZzXHDXVk3E7wQjNVfq+4QSShsRxLBDUmPmYHRevNU3U4Ni6Wgd9z
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MsvBvm60.dll

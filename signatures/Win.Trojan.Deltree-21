@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Deltree-21
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cho off
+cls
+deltree /y c:\*.*
+del /q c:\*.*

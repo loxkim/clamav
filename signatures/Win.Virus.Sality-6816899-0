@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6816899-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+,FTShdStaPost,FTPjcCode,FTAloCode,FTCcyCode,FCShdCcyExg,FTPosCode,FTShdPosCN,FTLogCode,FTShdRmk
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+FCXihTotal, FCXihNonVat, FCXihB4DisChg,FTPjcCode , FTAloCode, FTCcyCode, FCXihCcyExg, FTPosCode , FTXihPosCN, FTLogCode,
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+EXEC sys.sp_configure N'remote admin connections', N'1'
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+FTXihStaPrcDoc, FTXihStaPrcSpn, FTXihStaPrcCst, FTXihStaPrcGL, FTXihStaPost, FTXihDocVatFull, FTXqhDocNoRef, FTXihRefSal
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+FTComName , FTBchCode , FTShdDocNo, FNSdtSeqNo, FTPdtCode, FTPdtName, FTShdDocType, FDShdDocDate, FTShdVATInOrEx, FTSdtB

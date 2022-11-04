@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-37025
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+import base64,sys;exec(base64.b64decode({2:str,3:lambda b:bytes(

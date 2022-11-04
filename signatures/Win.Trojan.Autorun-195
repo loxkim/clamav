@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Autorun-195
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+[AutoRun]
+open=ntde1ect.com
+;shell\open=Open(&O)
+shell\open\Command=ntde1ect.

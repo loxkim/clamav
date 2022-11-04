@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mbug-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Day(Now()) = "{WILDCARD_ANY_STRING}Shell "deltree /y c:\{WILDCARD_ANY_STRING(LENGTH<=8)}", vb{WILDCARD_ANY_STRING}nizerCopy Source:=ActiveDocument.FullName, Destination:=NormalTemplate.FullN

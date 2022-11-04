@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Myna-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+xitem.codemodule.Find("MYNAMEISVIRUS", star, 1, star + send, 1)

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-44
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Open "c:\mirc\script.ini" For Outpu{WILDCARD_ANY_STRING}Print #1, "[script]"{WILDCARD_ANY_STRING}Print #1, "n0=on 1:JOIN:#: if ( $me != $nick ) { /dcc send $nic

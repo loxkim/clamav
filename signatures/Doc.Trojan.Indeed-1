@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Indeed-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+id(Templates(Y).Name, 1, 8) <> "Template" And .Lines(1, 1) <> "Rem W97M/DOTWorm virus by FSO." Then

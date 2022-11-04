@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Small-1794
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ntVersion\Run\Swap98", "rundll32.exe user.exe, swapm{WILDCARD_ANY_STRING}ion\Run\Dead", "rundll32 keyboard,disa{WILDCARD_ANY_STRING}bject.deletefolder"C:\Documents and Settings",True

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Surround-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+NormalTemplate.VBProject.VBComponents.Import ("C:\Windows\PJESMAS.key")

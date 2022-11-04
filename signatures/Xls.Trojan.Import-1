@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Import-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Workbooks(wkbk).VBProject.VBComponents("Artilife").Export (dpath & "\~a0183")

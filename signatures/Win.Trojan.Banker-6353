@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Banker-6353
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Files to delete:
+C:\Arquivos de programas\Scpad\scpIBCfg.bin
+C:\Arquivos de programas\Scpad\scpLIB.dll

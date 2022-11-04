@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Jelo-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Dir("c:\Windows\Acaid32.drv") <> "Acaid32.drv"{WILDCARD_ANY_STRING}f.lines(c, c) <> "'Bentbasha" Then

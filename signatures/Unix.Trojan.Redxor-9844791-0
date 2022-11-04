@@ -1,0 +1,18 @@
+VIRUS NAME: Unix.Trojan.Redxor-9844791-0
+TDB: Engine:55-255,Target:6
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+python -c "import pty;pty.spawn('/bin/
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hostip=%s&softtype=%s&pscaddr=%s&hostname=%s&hosttar=%s&hostos=%s&hostcpu=%ld&hostmem=%ld&hostpack=%s&lkmtag=%d&kernel=%s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+po1kitd.ko

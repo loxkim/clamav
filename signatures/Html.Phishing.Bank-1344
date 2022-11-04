@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1344
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ahme an der lotterie m{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}ssen sie eine registrierkarte{WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}ausf{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}llen. falls sie gewinnen, bitten wir sie um ihre zus{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}tzlichen perso

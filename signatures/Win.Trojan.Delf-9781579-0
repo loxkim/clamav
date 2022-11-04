@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Delf-9781579-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[Error] Call stack overflow. TargetCallback::onTargetCombat
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+N5boost3_bi6bind_tIvNS_4_mfi3mf1Iv18LuaScriptInterfacejEENS0_5list2INS0_5valueIPS4_EENS7_IjEEEEEE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+N5boost6detail18sp_counted_impl_pdIPvNS_4asio6detail23win_iocp_socket_serviceINS3_2ip3tcpEE12noop_deleterEEE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[Error - NpcScript::onCreatureDisappear] NPC Name: 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+UPDATE %Q.%s SET sql = substr(sql,1,%d) || ', ' || %Q || substr(sql,%d) WHERE type = 'table' AND name = %Q

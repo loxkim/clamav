@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-242
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+[AutoRun]{WILDCARD_ANY_STRING(LENGTH<=133)}shell\open\Command=infoboot.exe

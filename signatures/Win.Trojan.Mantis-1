@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Mantis-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ul
+copy mantis.bat c:\mtemp > nul
+ren c:\mtemp\mantis.bat autoexec.bat > nul
+replace c:\autoexec.bat c:\mtemp > nul
+copy mantis.bat c:\mtemp > nul

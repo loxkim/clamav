@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-131
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+($1 = con) { set %cservera $2 | set %cporta $3 | .timeropensock $+ $fnickn $4 2 opensockf

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Ruba-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Baby = HOME & "\" & Chr(Int(Rnd * 25) + 65) & Chr(Int(Rnd * 25) +{WILDCARD_ANY_STRING}l.Run Baby, VbHide

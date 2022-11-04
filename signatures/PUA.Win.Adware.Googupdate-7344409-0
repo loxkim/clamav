@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Googupdate-7344409-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cfghjtgpmhbuimttajsieanrriduefgropbj
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+98b3beb8b09aaeafb48eabbfbaafbe8ea9b784aeabbfbaafbe84bda9b4b684adbea9a8b2b4b584b5b4af84adbab7b2bf
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+98b3beb8b09aaeafb48eabbfbaafbe8ea9b78493afafab8fb499b2b5baa9a29db2b7be89beaaaebea8af
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+98b3beb8b09aaeafb48eabbfbaafbe8ea9b784aea9b784b5ba84bdb4a984aeabbfbaafbe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+abb2b5bcfbeaf5eaf5eaf5eafbf6b5fbeafbf6acfbeaebebebfbe5fbb5aeb787a987b5

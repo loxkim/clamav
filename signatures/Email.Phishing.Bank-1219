@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1219
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Please call us immediately at{WILDCARD_ANY_STRING(LENGTH<=20)}regarding recent activity on your account

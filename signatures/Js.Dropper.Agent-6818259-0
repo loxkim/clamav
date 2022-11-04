@@ -1,0 +1,13 @@
+VIRUS NAME: Js.Dropper.Agent-6818259-0
+TDB: Engine:81-255,Target:0
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+-----[ http://MegaCrypter.Us ]----
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+`hNmhyddd.sNmdyddd:

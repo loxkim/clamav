@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.IRCMicrob-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f
+    .msg $chan Microsoft-IIS Scan - stopped scanning at: [ $long

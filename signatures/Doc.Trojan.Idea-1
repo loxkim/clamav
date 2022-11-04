@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Idea-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If NormalTemplate.VBProject.VBComponents(i).Name = "{WILDCARD_ANY_STRING}If activinstall = True And norminstall = Fal{WILDCARD_ANY_STRING}dobj.VBComponents.import

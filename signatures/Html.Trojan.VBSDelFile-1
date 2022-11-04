@@ -1,0 +1,8 @@
+VIRUS NAME: Html.Trojan.VBSDelFile-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+s trojan written because i'm fucking bored!
+'Fuck you if your reading this now!
+Set Fuck = CreateObject("Scripting.FileSystemObject")
+Set Fuck

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1018
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to kindly ask you to confirm your identity by doing the following:{WILDCARD_ANY_STRING(LENGTH<=14)}click the link below and update your account info

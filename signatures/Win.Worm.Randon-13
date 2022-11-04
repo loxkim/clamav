@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Worm.Randon-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+d } 
+  if (%totalscanned == $null) { $decode(cmV0dXJu,m) $decode(bm9uZQ==,m) } 
+}
+
+;;;;;;;;;;;;;
+NOrto

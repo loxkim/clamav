@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Wazzu-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+fileMacro$ = d1lg.Directory + "\" + d1lg.FileName + ":autoOpen"

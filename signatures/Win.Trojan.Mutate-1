@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Mutate-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+ 
+ cbVirusSize = InStr ( 3 , cbWeCode , "*****" & "*****" ) + 10 + 1
+
+ Set cbWeFile = cbFSO . OpenText

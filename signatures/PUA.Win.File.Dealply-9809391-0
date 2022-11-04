@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Dealply-9809391-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity type="win32" version="1.0.0.0" name="katamuc.exe" processorArchitecture="x86"/>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4657021398<?:@>;=SXYZEFJKQGHRNMUTILAPOWVBCD`]\_^[idjbxsruactyvwzqpgfkhmnelo
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<nCK)Nj:\G! 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E=B>@FEC@=BCC?@BBBE>=@FCABF=C?AAB>BBB?A?DDE>=EADA?EDF@E@BCCAFD
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Religiserikesam

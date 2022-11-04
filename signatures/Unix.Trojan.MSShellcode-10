@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Trojan.MSShellcode-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ruby -rsocket -ropenssl -e 'exit if fork;c=OpenSSL::SSL::SSLSock

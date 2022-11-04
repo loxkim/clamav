@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ASP-38
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+source="&ej("/lp.rar"){WILDCARD_ANY_STRING(LENGTH<=17616)}mid(zr,i,1)="\"

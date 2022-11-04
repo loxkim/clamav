@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IRC_Script-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on 1:join:#: { if ( $nick == $me ) halt
+n1=else /dcc send $nick SUPERPORNO.rar }

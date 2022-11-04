@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-124
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<a href="http:/{WILDCARD_ANY_STRING(LENGTH<=150)}">become an ebay powerseller</a></font><font size="3" face="times new roman" class="style1">free within 24 hours. </font></p>

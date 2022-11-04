@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.FreeStyler-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+StartupPath + "\FreeStyler.")) <> UCase("FREESTYLER"){WILDCARD_ANY_STRING}TW.CodeModule.Find("FreeStyler", 1, 1, 75, 75)

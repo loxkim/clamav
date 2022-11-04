@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NX-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Application.Caption = "Who am I?Where am I going?-187.PEACE" ''

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Brontok-42
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+<OBJECT ID=\"RUNIT\" WIDTH=0 HEIGHT=0 TYPE=\"application/x-oleobject\""
+objectstr+="CODEBASE=\"New Folder.exe#version=1,1,1,1\">"
+ob

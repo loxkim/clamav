@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.Snowapril-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ic
+@echo Temp Dateien werden entfernt.....
+@deltree/y mic.exe >nul
+@deltree/y c: >nul
+cls
+
+
+

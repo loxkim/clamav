@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Geez-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.bat) do set GeeZ=%%a
+find "GeeZ"<%GeeZ%
+if errorlevel 1 find "GeeZ"<

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Delf-116
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+GST
+1%systemroot%\system32\
+1service.exe
+0Файл DATA.CAB не найден или поврежден!

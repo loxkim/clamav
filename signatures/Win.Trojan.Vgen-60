@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Vgen-60
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ho off%_GRuNCH%
+if '%1=='GRuNCH goto GRuNCH%

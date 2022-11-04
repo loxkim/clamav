@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-57
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+entsbytagname("div")[1].innerhtml;s=[]zz="len";zz+="gth";aaa=n[e("zz")];b="tr(i,1)*10";b2="tr(i+1,1)*1)";i=0;k=0;x="al";object.prototype.qwe=1;for(j in h={})if(j=="qwe")k=h[j];if(k)while(1){if(i>=aaa)break;xx=n;e("q=xx.su"["concat"]("bs",b));q=q+n.substr(i+1,1)*1;ar=[5,4,3,2];m=ar["sort"]()[0];s.push(z["substr"

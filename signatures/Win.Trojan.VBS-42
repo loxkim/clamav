@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VBS-42
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+writeline "@cd\"{WILDCARD_ANY_STRING}infect.writeline "@attrib -s -h -r *.1st"

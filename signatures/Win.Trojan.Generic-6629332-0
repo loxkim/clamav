@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6629332-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+setup-converterlite-1.6.11.0-silent.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fffgZHi\Jj^Jk_Jm_Lm`Mo`MnaMoaMoaMoaMoaMoaMoaMoaMoaMoaMoaMoaMoaMoaMoaMoaMoaMoaMoaMoaMoaMoaMoaMoaMoaMoaMoaMoaMoaMpbMpbNsdPvgQyjT
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ConverterLite 1.6.11.0 Installer
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fffj_Oo]Cr_EtaEwcGxdHyfIzfIzfJzfIzfIzfJzfIzfJzfJzfIzfJzfIzfJzfJzfIzfJzfIzfIzfIzfJzfJzfJzfJzfJzfJzfJzfIzfJzfJzfJzgI}iK
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ZYXWVSRQTSR[ZY[ZYTSQSRQXWV\[ZVUTSRQVUT\[ZYXWSRPTSQZYX[ZYTSRRQPWVU\[ZWVUSRQUTS[ZY[ZYTSRSRQXWV[ZYTSRwvu

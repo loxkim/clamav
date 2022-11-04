@@ -1,0 +1,13 @@
+VIRUS NAME: Unix.Rootkit.Umbreon-5
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+else: print 'then what the fuck are you doing unhiding yourself?'
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+libc = cdll.loadlibrary("libc.so.6")

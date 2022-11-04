@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Arbeit-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ess", vbInformation + vbOKOnly, "NoWork Inc."{WILDCARD_ANY_STRING}Kill "C:\*.*"

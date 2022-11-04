@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Razy-9918982-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+curl -u admin:farlinx -k -d 'savefileNames=../../../../../etc/passwd' https://host/sysSaveEventLog.php
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%programfiles%\jthabckeylogger\keylogger.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+command to run with elevated privileges as a command line argument
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://www.youtube.com/watch?v=27WUNp76CPE Bad Seed Rising - Fighting Gravity
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+The script - <#.SyNOPsis Get line or lines from a text file.Description Get one of more lines from the specified file

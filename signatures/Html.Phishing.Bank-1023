@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1023
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<html><center><font face="verdana" size=2><b>you have 1 new alert message</b><br>please login to your{WILDCARD_ANY_STRING}">go to regionsnet online</a></font><br>

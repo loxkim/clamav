@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCPinky-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+{ Set %var1 1 | :cuidado | Set %var2 $nick($1,%var1) | if ( %var2 = $null ) { .part $1 | halt 

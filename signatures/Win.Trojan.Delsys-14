@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Delsys-14
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+getfile("c:\config.sys") f2.delete{WILDCARD_ANY_STRING(LENGTH<=33)}\win.ini

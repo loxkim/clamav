@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generic-9946893-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'%s' is not a valid register name.  Registers must start with v_, r_, c_, b_, or i_ depending on the register type.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+only vs_1_1, vs_2_0, vs_2_x, and vs_2_sw are supported for assembly fragments
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ispredicts;             array DWORD attributeMispredicts[nAttributeMispredicts];         } 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'%s': loop control variable used outside for-loop scope conflicts with a previous declaration in the outer scope; most recent de
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ogrelib.fnr

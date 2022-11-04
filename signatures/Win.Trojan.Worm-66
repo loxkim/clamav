@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Worm-66
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ontrolSet\Control\Terminal Server\WinStations\RDP-Tcp]>>3389.reg
+ECHO "PortNumber"=dword:00000d3d>>3389.reg
+regedit /s 3389.reg
+del 3389.reg /f /q

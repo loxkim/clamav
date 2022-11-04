@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Ircbot.Rules-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on 1:text:*:#nohack:{ part #nohack
+  join #teens
+}
+on 1:join:*:{ dcc send $nick

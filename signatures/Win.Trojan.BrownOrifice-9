@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.BrownOrifice-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+exit 0;
+
+my %db;
+tie %db, 'GDBM_File', 'BOHTTPD

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Psyme-21
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
++ s[14] + s[1]; savetofile(c, 2); exec(c); } }

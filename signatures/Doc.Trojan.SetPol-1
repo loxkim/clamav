@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.SetPol-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Sub AutoOpen(){WILDCARD_ANY_STRING}, "DisableTaskMgr") = "1"{WILDCARD_ANY_STRING}ft\WindowsFirewall\StandardProfile", "EnableFirewall") = "0"{WILDCARD_ANY_STRING}n\Policies\Explorer", "NoRun") = "1"

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Batalia2-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ "%1"=="2" goto s ; если вызван с параметром 2 то собсно обработчик
+for %%b in (*.bat) do call %0 2 %%b  ; Пе

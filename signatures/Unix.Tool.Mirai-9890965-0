@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Tool.Mirai-9890965-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+unknown server pub key name: reflect: internal error: invalid method indexreflect: nil type passed to Type.AssignableToruntime:
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+initializedos: unsupported signal typeprogToPointerMask: overflowrestartg: unexpected statusrunlock of unlocked rwmutexruntime:
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+base; can't happeninserting span already in treapinternal error - misuse of itabinvalid network interface indexmalformed time z
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+== 0unsupported protocol version %d. Version %d or higher is requiredx509: issuer name does not match subject from issuing cert
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+admin, cooldown FROM users WHERE username = ?tls: server's certificate contains an unsupported type of public key: %Ttls: recei

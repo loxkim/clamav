@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Crema-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+CountMacros(0) < 4) Then{WILDCARD_ANY_STRING}For I = WordBasic.CountMacros(1) To 1 Step -1{WILDCARD_ANY_STRING}B$ = WordBasic.[MacroName$](I, 1){WILDCARD_ANY_STRING}M$ = ":" + B${WILDCARD_ANY_STRING}MacroCopy F$ + M$, G$ + M$

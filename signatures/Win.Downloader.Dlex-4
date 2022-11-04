@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Downloader.Dlex-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+phtml
+i	{WILDCARD_ANY_STRING}me.com	/amxp
+s	1
+d	traceroute	new.d-extr

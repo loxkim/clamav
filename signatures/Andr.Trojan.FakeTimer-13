@@ -1,0 +1,33 @@
+VIRUS NAME: Andr.Trojan.FakeTimer-13
+TDB: Engine:51-255,Container:CL_TYPE_ZIP,Target:0
+LOGICAL EXPRESSION: 0&(1|2|3|4|5)
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dex
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://erotte.com/check.php?id=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://erotte.com/send.php?a_id=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://erotte.com/rgst5.php?gpsx=
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://erotte.com/send.php?a_id=
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://erotte.com/rgst5.php?gpsx=

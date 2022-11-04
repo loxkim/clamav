@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36147
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+pen($injectj02,"a+"); if (fputs($fp,$phpinj)) { $cg++; $tt++; } else { } } } foreach(glob($subdir . '/*', glob_onlydir) as $sub) { foreach (glob($sub."/*.htm") as $injectj03) { if($injectj00 != $sub) { $a++; $t++; $fp=fopen($injectj03,"a+"); if (fputs($fp,$htmlinj)) { $ag++; $tt++; } else { } } } foreach (glob($sub."/*.html") as $injectj04) { if($injectj00 != $sub) { $b++; $t++; $fp=fopen($injectj04,"a+"); if (fputs($fp,$htmlinj)) { $bg++; $tt++; } else { } } } foreach (glob($sub."/*.php

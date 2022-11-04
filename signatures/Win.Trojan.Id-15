@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-15
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+$hsafemode = "on(secure)"; } else {$safemode = false; $hsafemode = "off(not secure)";} $os = wordwrap(php_uname(),90,"<br>",1); $xos = "[safe-mode:".$hsafemode.

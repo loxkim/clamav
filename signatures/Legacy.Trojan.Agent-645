@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-645
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CO$ = WordBasic.[GetProfileString$]("Intl", "Info2")

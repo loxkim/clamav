@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NJ-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If WordBasic.[MacroName$](i, 1, 1) = "Archie" Then{WILDCARD_ANY_STRING}If VInstalled = 1 Then

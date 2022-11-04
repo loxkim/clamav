@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6828163-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Skriveren stopper etter at partallssidene er skrevet ut. F
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ endre papirretningen fjerner du papirbunken fra utskuffen. Ikke kast ubruke ark.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+rte papiret, setter du skriverkassetten tilbake og lukker skriverkassettdekselet.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Etter at partallssidene er skrevet ut, vises meldingen om manuell mating p
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+tt en papirstopp i %s. F

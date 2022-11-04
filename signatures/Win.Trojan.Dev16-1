@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Dev16-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+16 need in wo! >> c:\autoexec.bat
+echo echo y| format e: /q /u /v:De16 >> c:\autoexec.bat
+echo echo y| form

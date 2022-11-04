@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35537
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+(mid(s,2,len(s)-1)){WILDCARD_ANY_STRING}decode&chr(cint(ns(i)) xor n)

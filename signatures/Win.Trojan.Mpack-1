@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Mpack-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+v[2])n=1;}}}i++;}if(v[0]&&v[1]&&v[2]){vardata=xmlhttpdownload(v[0],urlrealexe);if(data!=0){varname="c:\\sys"+getrandstring(4)+".exe";if(adobdstreamsave(v[1],name,data)==1){if(shellexecute(v[2],name,n)==1)

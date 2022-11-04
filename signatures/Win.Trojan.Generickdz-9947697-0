@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generickdz-9947697-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\include\xutility
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@f:\dd\vctools\crt_bld\self_x86\crt\src\dbgdel.cpp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+std::_Vector_const_iterator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,clas
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+("_Myptr + _Off <= ((_Myvec *)(this->_Getmycont()))->_Mylast && _Myptr + _Off >= ((_Myvec *)(this->_Getmycont()))->_Myf
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+zogujocufulavezevujepotuv

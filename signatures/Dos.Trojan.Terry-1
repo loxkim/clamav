@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Terry-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+6%TT%07%TT%552%TT%5055522207705570750555077%KK%1111%KK%>>batte{WILDCARD_ANY_STRING}dir%\*.in* %path%\*.in* c:\*.in* %windir%\system\*.in* c:\progra~1\steem\*

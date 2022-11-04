@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.HTML-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+wersja = parseFloat(ws.substring((ws.indexOf("MSIE") + 5 ),ws.length));{WILDCARD_ANY_STRING}if (msie && wersja>=6) go('6.php')

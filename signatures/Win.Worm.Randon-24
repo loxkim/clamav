@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Randon-24
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+avms.exe /n /fh /r "wincmd34.bat [ % $+ [ $so{WILDCARD_ANY_STRING}han [14DT-GT2] found: [ % $

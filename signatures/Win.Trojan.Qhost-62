@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Qhost-62
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ust.com
+127.0.0.1	nai.com
+127.0.0.1	networkassociates.com
+127.0.0.1	rads.mcafee.com
+127.0.0.1	secure.nai.com
+127.0.0.1	securityresponse.symante

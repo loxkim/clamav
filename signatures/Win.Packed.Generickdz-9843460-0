@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-9843460-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+gqI2p6MKQvIPCHeg+8ZUgoQfvT3keJN+Mb381m/M6gdmhjYhZ1//RZbBlSgIDiKVwyz4ZJ5K/gYydCrsdFatQ637rIkqv7d+OJtQGfCXym8NyPgwO1H+SBcX
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO Clientes(Nome,Endereco,Cidade,Telefone,Email,Ativo)  VALUES (@Nome,@Endereco,@Cidade,@Telefone,@Email,@Ativo
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT IdCliente,Nome,Endereco,Cidade,Telefone,Email,Ativo FROM Clientes
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Data Source=NOTE;Initial Catalog=CRUD;Integrated Security=true
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+objCommand

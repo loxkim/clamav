@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Czech-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.MacroCopy "normal:AutoOpen", dlg.Name + ":AutoOpen"{WILDCARD_ANY_STRING}Case 102

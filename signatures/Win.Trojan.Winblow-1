@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Winblow-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off
+echo Hello
+rename c:\windows windblows
+

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-9789740-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Virtual\AppData\Local\Temp\3d42f02420a73b62661c42dffd12ecb26c9ef3d8bdc14ce7211f8afc348dfc33.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\0c07a3926d713b7b7c5678f552fa6ed5def74665a96779d552b86e3d1e81c873.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\c1b2373492c915f34d6c2704f89d1ca14a2b2ebe3471be73645be93efb92d8e5.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\WINDOWS\system32\7a53ce7695cfdb7bdbc1f62d43ced9c14eea5cb7790ad296d60afab83335dd26.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\Administrator\Desktop\WlmFqAAm.exe

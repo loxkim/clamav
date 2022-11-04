@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Laroux-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Workbooks("PERSONAL.XLS").Sheets("larouXYZ").Copy Before:=ActiveWorkbook.Sheets(1)

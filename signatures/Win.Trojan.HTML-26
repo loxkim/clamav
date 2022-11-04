@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.HTML-26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+scriptinject.asp?f=6&z=0&n=1&nocache="+n002+"">");document.write("</script>");</script>
+<script>document.write(code);</script>

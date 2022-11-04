@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Simpson-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ript]
+n0=on 1:join:#: { 
+n1=  if ( $nick != $me ) {
+n2=    dcc sen

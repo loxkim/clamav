@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Hematite-6740474-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FSCTL_MOVE_FILE failed. File FRN:%I64d StartingLcn:%I64d ClusterCount:%I64d.  Free-space StartingLcn:%I64d ClusterCount:%I64d. 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+d:\xpsp\base\fs\utils\dfrg\fraggedfilelist.c
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Relocating boot-optimise zone to LCN %I64u (%I64u clusters free).  BootOptimiseFilesTotalSize:%I64u AlreadyInZoneSize:%I64u (%d%
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Error %lu
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E0*.exf

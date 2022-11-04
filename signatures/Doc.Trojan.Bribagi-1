@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bribagi-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Do While MyNam <> ""{WILDCARD_ANY_STRING}> "." And MyNam <> ".." And MyNam <> "pagefile.sys" Then{WILDCARD_ANY_STRING}Open WR0005 For Appe{WILDCARD_ANY_STRING}Write #1, MyPass & MyNam & "\"

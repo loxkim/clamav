@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Rymome-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+or i = 0 to 10000
+shell.run("memory.vbs")
+shell.run("winver")
+shell.run("msconfig")
+shell.run("dxdiag")
+if drive.Count  then
+for a = 0 To drive.Count - 1 
+drive.Item(i).Eject
+next

@@ -1,0 +1,14 @@
+VIRUS NAME: Win.Trojan.Arhiworm-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+attrib -r %2
+pkzip -m %2 %0
+goto end
+:arj
+attrib -r %2
+arj a -d %2 %0
+:end
+ctty con
+@rem ARHIWORM.BAT

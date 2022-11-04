@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Delf-9836678-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://www.cetelem.com.br/wps/portal/cetelem/normal/NL/login
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://wwwss.bradesco.com.br/scripts/ib2k1.dll/NOVA_ABORDAGEM_PLUGSEG_ENTRETELA_CONTINUAR
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://wwwss.bradesco.com.br/scripts/ib2k1.dll/TAC/VRFSENHAATUAL
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://itaubankline.itau.com.br/V1/CARTONISTA/IMG/ico_seguranca.gif
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://infobusca.informarketing.com/

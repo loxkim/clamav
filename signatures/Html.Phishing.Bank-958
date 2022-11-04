@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-958
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ask you to visit your personal account upgrade link which will only remain valid for {WILDCARD_ANY_STRING(LENGTH<=25)}and start the procedure of confirm

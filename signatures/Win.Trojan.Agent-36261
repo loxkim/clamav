@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36261
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+var n001=null;var n002=document.stylesheets;for(var n003=0;n003<n002.length;n003++){var n004=n002[n003].cssrules||n002[n003].rules;for(var n005=0;n005<n004.length;n005++){var n006=n004.item?n004.item(n005):n004[n005];if(!n006.selectortext.match(/c( d+)/))continue;n001=n006.style.backgroundimage.match(/url("?data:[^,]*,([^")]+)"?)/)[1];};}

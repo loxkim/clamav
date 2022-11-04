@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Lys-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ActiveDocument.VBProject.VBComponents.Item(1).Export ("C:\windows\chantal.4ever")

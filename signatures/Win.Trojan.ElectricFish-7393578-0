@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ElectricFish-7393578-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+User-Agent:Mozilla/4.0{WILDCARD_ANY_STRING}Proxy Authontication Success

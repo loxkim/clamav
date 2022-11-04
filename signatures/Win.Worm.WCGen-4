@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.WCGen-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ = CreateObject("WScript.Shell"){WILDCARD_ANY_STRING}.Copy ({WILDCARD_ANY_STRING(LENGTH==17)}.GetSpecialFolder(0) & "\{WILDCARD_ANY_STRING(LENGTH>=1&&<=255)}.vbs"){WILDCARD_ANY_STRING}t\Windows\CurrentVersion\Run\{WILDCARD_ANY_STRING}= CreateObject("Outlook.Applic

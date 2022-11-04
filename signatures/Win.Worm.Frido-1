@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Frido-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+dPath( Me_copY.GetSpecialFolder(1), "Volvere.vbs" ) 
+Set RegmeNoW = CreateObject( "WScript.Shell" ) 
+RegmeNoW.Re

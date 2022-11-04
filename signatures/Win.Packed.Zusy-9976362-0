@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zusy-9976362-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+|If your ZIP files are secured by a password - you will need to supply the password later when the files are being processed.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Failed to Save Stream %s is already associated with %sE%d is an invalid PageIndex value.  PageIndex must be between 0 an
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hCheck the columns you would like to make visible in this Folder.  Drag and Drop to reorder the columns. 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Processing %d of %d: %s
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[Please press F1 to get more information about the localization of your copy of the program.

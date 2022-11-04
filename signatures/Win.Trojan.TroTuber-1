@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.TroTuber-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+C:\Windows\TBC\5\*.bat goto ex
+goto anf
+:ex
+cls
+echo INFECT BY TUBERKULOSE
+echo by McHit
+:anf
+ctty NUL

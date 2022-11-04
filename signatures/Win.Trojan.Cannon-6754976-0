@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Cannon-6754976-0
+TDB: Engine:55-255,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cannon.Properties.Resources.resources
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\Users\Garry\Desktop\cannon\obj\x86\Debug\wsslc.pdb

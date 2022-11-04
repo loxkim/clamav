@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Worm-61
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+mail.attachments.add(dir2&"win32system.vbs")

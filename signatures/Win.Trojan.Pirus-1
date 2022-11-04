@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Pirus-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$sig = strstr ($contents, 'pirus.php');
+   if(!$sig) $infected=false;
+ }
+
+ if (($infected==f

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-66483
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+/get.php?e=590&tc={WILDCARD_ANY_STRING}/cnt.php?e=590&u=

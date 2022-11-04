@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Vobfus-7135160-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+K*\AC:\Documents and Settings\ordinateur portable\Bureau\copie de EasyBind(commented) avril 2009\icerebral - fr\P
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://85.17.92.166/prg_php/instruction.php?act=ic&step=lect_cookie&mail=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ibC:\Program Files\Microsoft Visual Studio\VB98\vbc17232.oca
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+User-Agent: iphone
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+regsvr32.exe /s "

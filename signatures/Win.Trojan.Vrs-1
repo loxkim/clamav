@@ -1,0 +1,14 @@
+VIRUS NAME: Win.Trojan.Vrs-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+o vr_e
+@echo off
+goto vr_s
+:body_s
+goto vr_e
+:vr_s
+if "%2"=="@v" goto vr_2
+set tf=%0
+set cf=@
+if exi

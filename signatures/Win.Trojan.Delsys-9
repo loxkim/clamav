@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Delsys-9
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+ren c:\temp1.vir io.sys ren c:\config.sys temp2

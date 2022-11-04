@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9848845-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xcopy c:\Users\Admini~1\appdata\roaming\autodesk\*.err C:\%computername%_1\ /s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dir/s/tc c:\Users\Admini~1\appdata\roaming\autodesk\*.* >>C:\%computername%_1\%computername%_1.txt
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xcopy d:\Users\Admini~1\appdata\local\autodesk\*.html C:\%computername%_1\ /s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FIND /i "Install Date" C:\%computername%_1\system_details.txt>>C:\%computername%_1\%computername%_1.txt
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+regedit /e c:\%computername%_1\Autodesk_registry.txt "hkey_local_machine\software\Wow6432Node\flexlm license manager\"

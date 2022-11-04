@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-859
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+erify or authenticate any information you provide to us.{WILDCARD_ANY_STRING(LENGTH<=16)}please click the link below, which is a ssl secured connection,to update

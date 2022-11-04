@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Bunitu-7688634-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://xcom.derstannwww.net/80190771/setup.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall\{1EC095EE-8CA3-43D6-B9F5-0C55B82ED3D7}}_is1
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://api.googlrapis.com/static/installer.exe?ade
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://d3f9b28bsjfp0p.cloudfront.net/01.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Software\Microsoft\Windows\CurrentVersion\Uninstall\9f093bf8-480b-414c-a8e8-5d9c6da83576

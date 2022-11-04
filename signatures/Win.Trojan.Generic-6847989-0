@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6847989-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\users\shycrackz\desktop\ShycrackzSkinChecker\ShycrackzSkinChecker\obj\Debug\ShycrackzSkinChecker.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+errors.com.epicgames.common.throttled
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+AthenaCharacter:cid_143_athena_commando_f_darkninja

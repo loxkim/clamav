@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Adware.Ramnit-9950105-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+F:\JoyGames\CXImage\tiff\tif_dumpmode.c
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DCOM not installed!'%s' is not a valid integer value"'%s' is not a valid currency value!'%g' is not a valid date and ti
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CLSID\{871C5380-42A0-1069-A2EA-08002B30309D}\shell\OpenHomePage\Command
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%s: Uncompressed data (not supported) at scanline %d (x %lu)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid ownerE%d is an invalid PageIndex value.  PageIndex must be between 0 and %d=This control requires version 4.70 o

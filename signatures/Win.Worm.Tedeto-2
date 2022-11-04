@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Tedeto-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n39=    .msg $1 Fisiere *.* din directorul $4
+n40=    write -c files.tmp

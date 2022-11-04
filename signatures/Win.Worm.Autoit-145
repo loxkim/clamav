@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autoit-145
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+regwrite{WILDCARD_ANY_STRING}software\microsoft\windows\currentversion\internet settings{WILDCARD_ANY_STRING(LENGTH>=3&&<=5)}proxyserver{WILDCARD_ANY_STRING}winkill{WILDCARD_ANY_STRING}shell\open{WILDCARD_ANY_STRING}iniwritesection{WILDCARD_ANY_STRING}autorun

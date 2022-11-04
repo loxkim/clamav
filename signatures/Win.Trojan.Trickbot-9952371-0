@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Trickbot-9952371-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+File and directory comparisons&Editor command (%p = file, %l = line#)"-- %s -- includes %s%s%s%s files
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unable to open input file.?Unable to show usage text, because unable to load riched20.dll.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\User\Desktop\Windows-classic-samples-master\Windows-classic-samples-master\Samples\Win7Samples\begin\sdkdiff
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Exclude files.  The 'flags' may consist of one or more of L (left), R (right), S (same), D (different), O (readOnly).
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sdkdiff.dll

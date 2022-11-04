@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Card-43
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<h3>national credit union administration </h3>{WILDCARD_ANY_STRING}e6">click here to confirm your credit/debit card records </a>

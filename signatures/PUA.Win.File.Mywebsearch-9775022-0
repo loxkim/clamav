@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Mywebsearch-9775022-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+UAC:RunElevated: Inner process exit with %d, UACMode=%d
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+inner process completed, but never got access to shared mem? ec=%u forkexit=%u ecInner_InitSharedData=%u
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error %u/%08x for CreateProcess, calling ShellExecute for: %s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The path to the process copy to launch elevated is "%s"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+GetProcAddress for ProcessIdToSessionId failed %u

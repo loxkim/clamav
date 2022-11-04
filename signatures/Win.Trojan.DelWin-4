@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.DelWin-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox "ActiveX Control Agreement Show, [OK] Button Click Please..."{WILDCARD_ANY_STRING}If fs.FileExists(""+fs.getspecialfolder(0)+"\biling.sys")

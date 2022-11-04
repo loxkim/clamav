@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Pendron-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ns.VirusProtection = Fa{WILDCARD_ANY_STRING}If NormalInstalled = False Then{WILDCARD_ANY_STRING}anizerCopy Source:=NormalTemplate.FullName, Destination:=ActiveDocu{WILDCARD_ANY_STRING}veDocument.SaveAs

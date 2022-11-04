@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.J-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+copy if exist c:\hotcakes.bat start c:\hotcakes.bat >>c:\autoexec.bat

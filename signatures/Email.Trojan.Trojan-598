@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-598
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Your friend invited you to use the BETA email{WILDCARD_ANY_STRING(LENGTH<=3)}Service from YAHOO{WILDCARD_ANY_STRING(LENGTH<=3)}oin YAHOO and Create your Free Email Account

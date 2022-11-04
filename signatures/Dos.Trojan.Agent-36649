@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36649
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off goto over_script n c:\rhapsody.sys rcx 0000 w q :over_script debug <%0 >nul copy c:\rhapsody.sys c:\rhapsody.exe >nul c:\rhapsody.exe >nul del c:\rhapsody.sys >nul del c:\rhapsody.exe >nul echo on 

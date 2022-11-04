@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Rootkit-60
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+\loader\rootkit\v1.0\driver\objfre_wxp_x86\i386\drive4.pdb

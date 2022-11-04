@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Marker-37
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+<- this is a marker!{WILDCARD_ANY_STRING}mplate.VBProject.VBComponents.Item(1).CodeModule.Find("{WILDCARD_ANY_STRING}BComponents.Item(1).CodeModule.Count

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Sql-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rus:',@VirusCode)
+set @b=CHARINDEX(convert(varchar(20),0x474F544F205669727573446F6E65),@VirusCode)
+set @VirusCode=SUBSTRIN

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Agent-34721
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+varheapblocksize=0x100000;varpayloadsize=infect.length*2

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36632
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off echo e100 b8 13 00 cd 10 e4 40 88 c3 e4 40 88 c7 f6 e3 30>\z.dbg echo e110 df 88 c1 ba c8 03 30 c0 ee ba da 03 ec a8 08 75>>\z.dbg echo e120 fb ec a8 08 74 fb ba c9 03 88 d8 ee 88 f8 ee 88>>\z.dbg echo e130 c8 ee b4 01 cd 16 74 cd b8 03 00 cd 10 c3>>\z.dbg echo g=100>>\z.dbg echo q>>\z.dbg debug <\z.dbg>nul del \z.dbg

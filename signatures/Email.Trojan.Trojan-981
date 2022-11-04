@@ -1,0 +1,7 @@
+VIRUS NAME: Email.Trojan.Trojan-981
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+From: "EMS Express Russia"{WILDCARD_ANY_STRING(LENGTH>=3400&&<=3450)}name="invoice.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;

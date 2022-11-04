@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Codefore-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+BA\Office", "CodeBackColors") = "1 1 1 {WILDCARD_ANY_STRING}ProfileString("", "HKEY_CURRENT_USER\Software\Microsoft\VBA\Office", "CodeForeColors") = "1 1 1 1 1 1 1

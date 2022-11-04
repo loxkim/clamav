@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-317
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+shell\open\command=driver\{WILDCARD_ANY_STRING}\svchost.exe

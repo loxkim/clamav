@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Killwin-9844743-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+echo fso.deletefile sr+"\system32\hal.dll",1 >> %temp%\temp.vbs 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+echo fso.deletefolder sr+"\system32\drives",1 >> %temp%\temp.vbs 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+echo iMsg.AddAttachment "c:\boot.ini" >> %temp%\temp.vbs 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+echo fso.deletefolder "D:\Windows",1 >> %temp%\temp.vbs 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+echo Set S = CreateObject("Wscript.Shell") >> %temp%\temp2.vbs 

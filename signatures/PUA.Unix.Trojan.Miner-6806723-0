@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Trojan.Miner-6806723-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Create hex-encoded lbrycrd transaction
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8functionIFSB_SD_EEENSI_IFSB_RKNS2_10connectionESD_EEENS2_5mutexEE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nctionIFS8_SA_EEENSF_IFS8_RKNS0_10connectionESA_EEENS0_5mutexEEE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4do_heap_deleteINS_19thread_specific_ptrINSt3__13setINS3_12basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEENS3_4lessISA_
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lbrycrd-tx [options] <hex-tx> [commands]  

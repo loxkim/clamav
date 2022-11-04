@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-81
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+sis>please visit the <a href="http://{WILDCARD_ANY_STRING(LENGTH<=50)}>resolution center</strong></a>and complete the "steps to remove li{WILDCARD_ANY_STRING(LENGTH<=300)}klist items will automatically resto

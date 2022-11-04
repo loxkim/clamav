@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Downloader.Valyria-6922868-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   Month Format("8614" + "EjEjrtdUS" + "z" + "AHjCPi")
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   Month Format("Q" + "8188")
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   Month Format("cIZjzJAB" + "VkhSD" + "mHjQ" + "242248307")
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Month Format("229683029" + "bbHXtP" + "9995" + "W")
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Month Format("4789" + "TSRpVmicu" + "GSDDMsjwz" + "jHG")
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Month Format("jjGwiDIcdEVQ" + "MDmsHSiRr" + "cAlYZhnhDiRTV" + "u")
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dfZrwaH = "r^of;" + "'" + "^e^x^e" + "." + "'^+J" + "^Pz$+'" + "^\^'+" + Chr(7 + 17 + 3 + 17 + 55) + "^i" + "l"
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mzChaZQ = "5%" + Chr(2 + 5 + 1 + 5 + 21) + "    "

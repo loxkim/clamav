@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Mirai-9965309-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ZNetwork buffer size dropped below inactive threshold (%d%%), processing PRIVMSGs normally
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SNetwork buffer size dropped below ignore threshold (%d%%), not processing PRIVMSGs
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PNetwork buffer size exceeded inactive threshold (%d%%), not processing PRIVMSGs
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Repeated bad password attempts for channel %s (last attempt by user %s)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BUG: free_nickgroupinfo(): user %p (%s) listed in id_users for nickgroup %u, but nickgroup not in id_nicks!

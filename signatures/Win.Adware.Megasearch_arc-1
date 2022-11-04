@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Adware.Megasearch_arc-1
+TARGET TYPE: PE
+OFFSET: 141312
+DECODED SIGNATURE:
+;!@Install@!UTF-8!
+Title="Download"
+Progress="no"
+RunProgram="5147{WILDCARD_ANY_STRING(LENGTH<=16)}.exe /s"
+GUIMode="2"
+;!@InstallEnd@!7z¼¯'

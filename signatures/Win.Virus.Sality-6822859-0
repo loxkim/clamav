@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6822859-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+.Kohteen %s portin asetukset ovat virheelliset.0%s kirjoitinohjaimen asetukset eiv
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%s-porttiohjain toimii oikein. %s-porttiohjain ei toimi oikein.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%s puuttuu.)RapidPort2-laiteohjain ei ole aktiivinen.'RapidPort2-laiteohjain ei ole k
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Asenna %s uudelleen.7%1 kirjoittimen portissa %2 asetukset eiv
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ "%s" -kirjoittimessa.-Kaikkien tiedostojen versio vastaa oletettua.

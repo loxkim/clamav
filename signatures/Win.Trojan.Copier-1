@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Copier-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for %%j in (*.ba? ..\*.b?t c:\?*.*at){WILDCARD_ANY_STRING(LENGTH<=15)}+%0 %%j>nul

@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Iframe-95
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<script>var n000=document.createelement("iframe"),n001="setattribute";n000[n001]("src","http:/{WILDCARD_ANY_STRING(LENGTH<=180)}px";n000[n001]("frameborder",navigator.useragent.indexof(

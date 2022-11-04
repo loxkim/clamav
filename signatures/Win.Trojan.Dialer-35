@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Dialer-35
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+F-9542-12E0163D6841}'
+	}
+	CABDialer.Dialer = s 'Dialer Class'
+	{
+

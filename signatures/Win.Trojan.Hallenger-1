@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Hallenger-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ET);
+	closesocket(shandle);
+
+	//BEGIN ATTACK
+	while(1) {
+		for(i = 0; 

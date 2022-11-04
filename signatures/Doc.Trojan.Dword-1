@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Dword-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Second(Now()) <= 30 And Int((3 * Rnd) + 1) = 2 Then{WILDCARD_ANY_STRING}Box "Des Zauberer´s Finger sind im Spiel!", 32, "Mi

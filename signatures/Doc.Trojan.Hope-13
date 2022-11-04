@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hope-13
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+malTemplate.VBProject.VBComponents.Item(1).CodeModule.DeleteLines 1, NormalTemplate.VBProject.VBCo{WILDCARD_ANY_STRING}onents.Item(1).CodeModule.AddFromStr

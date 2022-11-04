@@ -1,0 +1,13 @@
+VIRUS NAME: Unix.Trojan.Mumblehard-1
+TDB: Engine:51-255,Target:3
+LOGICAL EXPRESSION: 0|1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+listen_port => 34530, remote_host_list =>{WILDCARD_ANY_STRING(LENGTH<=200)}"195.144.21.121:35530", "lo
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pt>function n000(n001,n002){node(n001).setattribute("value",n002,0);}fu

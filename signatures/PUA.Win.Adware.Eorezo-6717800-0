@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Eorezo-6717800-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<resource id="external_resource_0">http://cdn.cloud4ads.com/s/tuto4pc/xmlgenerator/pack_offers/opti/opti.bmp</resource>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<href>http://getwebbar.com/uninstall.html</href>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://cdn.cloud4ads.com/s/tuto4pc/xmlgenerator/pack_offers/SearchProtect3.rtf
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<href>http://www.crossbrowse.com/CrossBrowser_PP.pdf  </href>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<href>http://info.trovi.com/searchprotect/about</href>

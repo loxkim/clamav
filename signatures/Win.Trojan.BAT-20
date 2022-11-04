@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.BAT-20
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+art To Hell %CopyMe%
+%CopyMea%set cmg=%random%%random%
+find "CopyMe"<%0>%cmg%.bat
+set CopyMe=cmg.vbs
+echo set shell=Wscri

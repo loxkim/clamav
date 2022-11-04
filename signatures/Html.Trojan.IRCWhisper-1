@@ -1,0 +1,7 @@
+VIRUS NAME: Html.Trojan.IRCWhisper-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n20=Send E-mail:ctcp $$1 email
+n21=Send file...:/.dcc packetsize 4096 | dcc send $$1
+n22=Visit Home Page:/ctcp $$1 www

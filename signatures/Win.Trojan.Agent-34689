@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-34689
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if exist "c:\windows\temp\{WILDCARD_ANY_STRING(LENGTH<=10)}.tmp" goto try del delself.bat

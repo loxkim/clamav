@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Ecard-43
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+recieved a Hallmark E-Card{WILDCARD_ANY_STRING(LENGTH<=200)}check the attachment

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.replaceline x, (Chr(65 + Int(Rnd * 22))) & " = " & UP45 & (Chr(65 + Int(Rnd * 22)))

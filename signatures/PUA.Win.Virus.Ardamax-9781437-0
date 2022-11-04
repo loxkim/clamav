@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Virus.Ardamax-9781437-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CCryptDialogImpl@VCPasswordEnterDlg@@VCMemDlgTemplate@WTL@@V?$CDialogImpl@VCPasswordEnterDlg@@VCWindow@ATL@@@ATL@@@@
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[..\..\..\..\src\libmpg123\layer3.c:%i] error: bad frame - unable to get valid sideinfo
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CIndirectDialogImpl@VCPageDateFilter@@VCMemDlgTemplate@WTL@@V?$CDialogImpl@VCPageDateFilter@@VCWindow@ATL@@@ATL@@@WTL@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CIndirectDialogImpl@VCOptionsDlg@@VCMemDlgTemplate@WTL@@V?$CDialogImpl@VCOptionsDlg@@VCWindow@ATL@@@ATL@@@WTL@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CIndirectDialogImpl@VCPlayerPane@@VCMemDlgTemplate@WTL@@V?$CDialogImpl@VCPlayerPane@@VCWindow@ATL@@@ATL@@@WTL@@

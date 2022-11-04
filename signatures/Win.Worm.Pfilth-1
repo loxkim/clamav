@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Pfilth-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set downloaded=fsys.createtextfile("%tmp%\

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Looper-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Echo autoexec{WILDCARD_ANY_STRING(LENGTH<=6)}>c:\autoexec.bat

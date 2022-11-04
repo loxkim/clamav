@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Holypif-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ECHO n1=/dcc send $nick %dirX%holy.pif >>%dirX%aliases.ini

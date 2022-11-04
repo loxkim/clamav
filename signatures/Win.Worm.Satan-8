@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Satan-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+dows Script Host\Settings\Timeout",0, "REG_DWORD"
+End If
+f="SATAN_SECRETS.TXT       

@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.Vr-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rib +h V%A%
+copy %0.bat %A%
+attrib +r %A%
+ren %A% *.bat
+set A=
+:end
+ctty con
+@if exist V%0.com V%0.com

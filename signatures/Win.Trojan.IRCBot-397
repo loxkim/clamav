@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRCBot-397
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+s->privmsg($this->config['chan'],"[\2udpflood\2]: sending $packets packets to $host. packet size: $packetsize"); $packet = ""; for($i=0;$i<$packetsize;$i++) $packet .= chr(mt_rand(1,1024)); for($i=0;$i<$packets;$i++) { if(!$fp=fsockopen("udp://"

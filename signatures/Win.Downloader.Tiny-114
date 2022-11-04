@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.Tiny-114
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('1c("

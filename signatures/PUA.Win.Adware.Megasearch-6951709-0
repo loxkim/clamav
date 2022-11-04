@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Megasearch-6951709-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+gCIEPluginMain::ExecContentScript: empty content script
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+gCIEPluginConfig::IEGetWriteableHKCU: E:%d get addr IEGetWriteableHKCU[0x%p]
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+gDllMain: (instance=%d,reason=%d,pid=%d,module=0x%x): BIJO v%d.%d.%d %s;
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+gCIEPluginStorage::WriteString: E:%d WritePrivateProfileString
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+gCIEPluginConfig::GetValue: loaded %d values from '%.80s..'

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-437
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if this is not completed by {WILDCARD_ANY_STRING(LENGTH<=50)}, we will be forced to {WILDCARD_ANY_STRING(LENGTH<=25)} your account{WILDCARD_ANY_STRING(LENGTH<=20)}, as it may have been used for fraudulent purposes

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Jemerr-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+sc delete mfc42
+sc delete kernel32
+sc delete 9ce7a27e
+

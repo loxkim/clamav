@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Adware.Toolbar-32
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+dir%\..\Program Files\Underground Toolbar" > nul
+
+Expand -r %windir%\ietb*.cab -f:* "%windir%\..\Program Files\Underground Toolbar" >C:\decab.log
+

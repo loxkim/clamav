@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Io-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+<?php include("io.php"); ?>

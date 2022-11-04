@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Zebrocy-6808882-0
+TDB: Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Public\Documents\AcrobatReader.txt
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\public\Pictures\scanPassport.jpg

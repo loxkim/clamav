@@ -1,0 +1,11 @@
+VIRUS NAME: Legacy.Trojan.Agent-124
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+t>>BuG!$
+move BuG!$ %3>nul
+exit BuG!
+:BuG!j
+set BuG!!=%BuG!#%1
+if %BuG!!%==11111111111111111111 exit
+:BuG

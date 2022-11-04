@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zusy-9864599-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Remote Login2dbExpress Error: Insufficient Memory for Operation#dbExpress Error: Invalid Field TypedbExpress Error: Inv
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+No help keyword specified./Top Legend Position must be between 0 and 100 %
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnExecuteMacro
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+dbExpress Error: Invalid Time(dbExpress Error: Operation Not Supported)dbExpress Error: Invalid Data Translation"dbExpr
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+"dbExpress Error: Result set at EOF*dbExpress Error: Invalid Username/Password"dbExpress Error: Invalid PrecisiondbEx

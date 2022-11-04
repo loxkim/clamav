@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Bat-27
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+net stop security center{WILDCARD_ANY_STRING(LENGTH<=2139)}(windir+"\avprocc.vbs")

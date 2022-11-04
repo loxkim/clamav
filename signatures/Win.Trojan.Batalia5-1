@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Batalia5-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+copy %0 c:\dos\y
+del ??
+ctty con
+@copy c:\dos\x %0 >nul
+:e
+rem BAT.BATalia-5 bugfixed clone by Duke/SMF

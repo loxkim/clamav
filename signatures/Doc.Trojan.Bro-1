@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bro-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Day(Now()) = 14 And Month(Now()) = 5 Then{WILDCARD_ANY_STRING}Msgbox "Happy birthday darlin'!" & vbcr{WILDCARD_ANY_STRING}Hope we will be together for a lo

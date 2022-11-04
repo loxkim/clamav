@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Twopey-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+nts.Item(1).codemodule.Find("Opey", 1, 1, 10, 10) = Fal{WILDCARD_ANY_STRING}em(1).codemodule.DeleteLines 1, numberoflines{WILDCARD_ANY_STRING}em(1).codemodule.AddFromFile Transi

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Dropper-124
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ipt language=jscript.encode><sc{WILDCARD_ANY_STRING}=fs.createtextfile(path + "{WILDCARD_ANY_STRING(LENGTH<=50)}.exe", true, false) ts.write(h0) ts.close() wsh.run(path + "

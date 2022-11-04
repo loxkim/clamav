@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6803474-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Find match ParentID in vector, GetProcessName! PID: 0x%.8X, ParentID: 0x%.8X, CmdLine: [%s]
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+GetModuleFileNameEx failed! PID: 0x%.8X, ParentID: 0x%.8X, hProcess: 0x%.8X, (%d)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Process has been created: PID=0x%.8X (%d) [ParentID:0x%.8X (%d)], CmdLine:[%s]
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%s --- [0x%.8X] (%d) Find match ProcessID in vector in process creation. Remove this ID from vector! ---
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%s - (%s) CreateProcess succeed - dwProcessId : 0x%.8X (%d), hProcess: 0x%.8X

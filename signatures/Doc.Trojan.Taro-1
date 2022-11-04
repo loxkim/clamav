@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Taro-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+.VBProject.VBComponents(i).Name = "taro") * -1{WILDCARD_ANY_STRING}VBProject.VBComponents(n).Export (NormalTemplate.Path & "\" & "taro.bas")

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6824779-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Loop, Read, %A_Temp%\ProductCodes.andy.txt
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FileDelete, %A_Temp%\ProductCodes.andy.txt
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RegWrite, REG_SZ, HKEY_CURRENT_USER, Software\Andy, BuildID, %AndyBuildID%
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RegRead, VMwareInstallPath, HKEY_LOCAL_MACHINE, %SourceRegKey%\VMware Workstation, InstallPath
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+IfNotInString, CommandLine, -Silent

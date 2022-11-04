@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nidoc-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+normdoc = normPath & "\" & "nidoc.dot"{WILDCARD_ANY_STRING}erCopy Source:=normdoc, Destination:=NormalTemp{WILDCARD_ANY_STRING}"nidoc", Object:=wdOr

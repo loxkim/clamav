@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.Filler-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:fill
+echo a >nul >>fill.txt
+goto fill

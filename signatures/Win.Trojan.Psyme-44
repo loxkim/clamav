@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Psyme-44
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+"<v:recolorinfoentry tocolor=\"rgb(1,1,1)\" recolortype=\"1285\ lbcolor=\"rgb(1,1,1)\" forecolor=\"rgb(1,1,1)\" backcolor=\"rgb(1,1,1)\" fromcolor=\"rgb(1,1,1)\" lbstyle=\"32\" bitmaptype=\"3\"/>"

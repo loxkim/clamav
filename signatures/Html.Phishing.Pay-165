@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-165
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+why confirm your credit or debit card?{WILDCARD_ANY_STRING}your pa<vector>yp<vector>al account will become verified

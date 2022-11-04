@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Monkey-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.Insert " A monkey has controlled your Word!!!"

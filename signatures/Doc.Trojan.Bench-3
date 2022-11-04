@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bench-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+.Heading = "[Bench] Macro Virus{WILDCARD_ANY_STRING} pay!"{WILDCARD_ANY_STRING}ActiveDocument.Password = "{WILDCARD_ANY_STRING(LENGTH<=1)}Bench

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.L-71
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set prueba = fso.deletefile(hola)
+if day(now()) = "15"Then set hola = fso.copyfile(copy.vbs)

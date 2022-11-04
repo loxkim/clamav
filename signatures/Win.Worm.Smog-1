@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Smog-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+.Attachmets.Add ""& SYSDIR  & date & ".dat"

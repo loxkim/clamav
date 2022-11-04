@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Vgen-97
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ho off%[XoP]%
+if '%XoP%=='11 goto XoP2
+if '

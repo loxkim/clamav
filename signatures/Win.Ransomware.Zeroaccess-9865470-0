@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Zeroaccess-9865470-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+njar.com</a> - CoinJar allows direct bitcoin purchases on their site.</p><p><a href="http://www.zipzapinc.com/" target="_blan
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+coins.com/" target="_blank">LocalBitcoins.com</a> (WU) - Buy Bitcoins with Western Union</p><p><a href="https://coincafe.com
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ins.com/" target="_blank">cashintocoins.com</a> - Bticoin for cash.</p><p><a href="https://www.coinjar.com/" target="_blan
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FedEx, Moneygram, Money Order. In NYC: Bitcoin ATM, In Person</p><p><a href="https://localbitcoins.com/" target="_blank">Loc
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tcoins.com</a> - Service allows you to search for people in your community willing to sell bitcoins to you directly.</p><p><a hr

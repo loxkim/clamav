@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.InsVir-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ttrib c:\_InS.bat +h
+:InSg
+command /c c:\_InS InS vir
+if exist t$f? 

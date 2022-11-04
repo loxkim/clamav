@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Emotet-9769975-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Callback demo Cplusplus.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TiOusD(Jm1h<xSxDOJeYKa%SB?@!vK#0k^j!MAm53<(wn3Jp0o_yi7DmKpIOqAh3w@>IA$$$vFu(qyEIJ^al6qzoaH%poYN
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+--> Sorting words by their last character using a static callback:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+--> Sorting words alphabetically using a class member callback:
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+--> Sorting words by length using a virtual class callback:

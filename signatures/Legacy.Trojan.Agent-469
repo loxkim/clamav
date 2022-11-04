@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-469
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+utoexec.bat';if(!fs.FileExists(aek)){re=/kak.hta/i;if(hO.commandLine.search(re)!=-1){f1=fs.GetFile(aeb);f1.Co

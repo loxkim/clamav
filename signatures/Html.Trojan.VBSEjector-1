@@ -1,0 +1,7 @@
+VIRUS NAME: Html.Trojan.VBSEjector-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if cw.Count>=1 then
+For i=0 to cw.Count-1
+cw.Item(i).eject

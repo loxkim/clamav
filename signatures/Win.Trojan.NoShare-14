@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.NoShare-14
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+net1 share /delete c$ /y net1 share /delete ipc$ /y copy %windir%\system32\cmd.exe

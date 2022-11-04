@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Crystal-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+FSO.CopyFile "c:\WINDOWS\events.dll", "c:\pirch32\events.ini"

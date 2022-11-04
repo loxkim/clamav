@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Nobelman-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Sub InfectWord(){WILDCARD_ANY_STRING}Set Word=WScript.CreateObject("Word.Applica{WILDCARD_ANY_STRING}Word.Documents.Open wshShell.RegRead(strReg & "Components\DOCInfector\File" &

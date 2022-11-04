@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zbot-7057096-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Salaires.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+zcjCM@f`BBbl{_v^zRqR_XnZubnuqAUgpq}[UxzcjCM@f`BBbl{_v^zRqR_XnZubnuqAUgpq}[UxzcjCM@f`BBbl{_v^zRqR_XnZubnuqAUgpq}[UxzcjCM@f`BBbl{
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\xomv.sux
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\nacqadnuiz\iyxgg.INI
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+UxzcjCM@f`BBbl{_v^zRqR_XnZubnuqAUgpq}[UxzcjCM@f`BBbl{_v^zRqR_XnZubnuqAUgpq}[UxzcjCM@f`BBb|{_b^zR

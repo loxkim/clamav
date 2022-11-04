@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nofrx-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Left(NormalTemplate.VBProject.VBComponents.Item(1).CodeModule.Lines(1, 1), 1) <> "Private Sub Document_Cl{WILDCARD_ANY_STRING}.ReplaceLine 1, "Private Sub Document_Clo

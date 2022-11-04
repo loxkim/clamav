@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ClipBanker-7643340-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+C:\ProgramData\{WILDCARD_ANY_STRING}powershell -w 1 -exec bypass -e{WILDCARD_ANY_STRING}cmd /c timeout /t

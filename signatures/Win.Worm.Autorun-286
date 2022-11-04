@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-286
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+6e%64%20%49%66") call writefile(path&"autorun.inf",unescape("%5bautorun%5d%0d%0aopen%3d%0d%0ashell%5cn%3d%u66f4%u6362%u56

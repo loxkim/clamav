@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Seniat-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+A.Content = doA.Content & vbCrLf & vbCrLf & "-= Seniat Por LiteSYS/Xaker - Venezuela 2001 =-" & vbCrLf & "Seniat: corrup

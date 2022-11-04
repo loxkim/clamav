@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Apbost-1
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+REGEDIT{WILDCARD_ANY_STRING}@copy \"%x %y\" + %windir%\\appboost.reg \"%x

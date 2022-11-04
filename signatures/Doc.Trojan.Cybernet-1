@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Cybernet-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+lTemplate.VBProject.Description <> "CyberNET" Or Left(NormalTemplate.VBProject.VBComponents(1).CodeModule.Lines(3, 14), 14) <> "'W97M/CyberNET"

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Yoda-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+isme = False: For i = 1 To t.CountOfLines: If t.lines(i, 1) = "'QXYZ" Then isme = True

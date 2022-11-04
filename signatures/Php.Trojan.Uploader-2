@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.Uploader-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+<?{WILDCARD_ANY_STRING}$s21=strtolower($sf[4].$sf[5].$sf[9].$sf[10].$sf[6].$sf[3].$sf[11].$sf[8].$sf[10].$sf[1].$sf[7].$sf[8].$sf[10]){WILDCARD_ANY_STRING}$s20=strtoupper($sf[11].$sf[0].$sf[7].$sf[9].$sf[2]){WILDCARD_ANY_STRING}?>

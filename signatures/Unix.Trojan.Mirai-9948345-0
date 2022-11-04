@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Mirai-9948345-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+..(=9wm9(59b%9 !a,==!$.,9$"#b5%9 !f5 !a,==!$.,9$"#b5 !v<p}cta$ ,*(b:(/=agbgv<p}cuM
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4=(wm,==!$.,9$"#b5`:::`+"? `8?!(#.")()M
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-q --spider
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SVRZXY
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%m:(!!cccM

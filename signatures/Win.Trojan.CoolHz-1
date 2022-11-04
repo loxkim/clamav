@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.CoolHz-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ar a -std %2 CoolHz.Bat
+Goto HzN
+:HzA
+Arj a %2 CoolHz.Bat
+Goto HzN
+:HzQ
+Ctty Con %Hz%
+:HzN BaTtler IV

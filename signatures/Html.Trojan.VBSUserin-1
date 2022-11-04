@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSUserin-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+tbox("the serv{WILDCARD_ANY_STRING}\..", "~userin.bat{WILDCARD_ANY_STRING}set userin=" & struserin

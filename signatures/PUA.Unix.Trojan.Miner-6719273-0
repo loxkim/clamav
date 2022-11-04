@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Trojan.Miner-6719273-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+a35ad"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+when="2018-05-30T07:59:39+09:00" stEvt:softwareAgent="Adobe Photoshop CC (Macintosh)" stEvt:changed="/"/> <rdf:li stEvt:ac
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+30T07:59:45+09:00" stEvt:softwareAgent="Adobe Photoshop CC (Macintosh)" stEvt:changed="/"/> <rdf:li stEvt:action="saved" 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.iid:eb1fa288-cb23-4051-9911-278899678332" stEvt:when="2018-07-08T22:53:18+09:00" stEvt:softwareAgent="Adobe Photoshop CC (M
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nstanceID="xmp.iid:ce9fe8b4-c0d7-46b7-8ee3-a04852d696e7" stEvt:when="2018-07-08T22:53:13+09:00" stEvt:softwareAgent="Adobe 

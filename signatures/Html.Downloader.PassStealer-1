@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Downloader.PassStealer-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.shellexecute"cmd.exe{WILDCARD_ANY_STRING}.vbs&@echo{WILDCARD_ANY_STRING}.open""get"",""http://{WILDCARD_ANY_STRING}.ru/

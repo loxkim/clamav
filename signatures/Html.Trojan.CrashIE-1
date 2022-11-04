@@ -1,0 +1,11 @@
+VIRUS NAME: Html.Trojan.CrashIE-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+html>
+<head>
+<frameset cols="100%">
+    <frame src="crashie.htm">
+</frameset>
+</head>
+</html>

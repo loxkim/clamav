@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Trojan.Macbooster-6836956-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++[MBCommandFounction removeBrokenLoginItem:]
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-[MBUpdateAlert _initWithWindowNibName:userVersionString:newVersion:str:host:downloadType:]
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+elpToolerDaemon.plist'; sudo cp '%@/Contents/Resources/com.iobit.MBHelpToolerDaemon.plist' '/Library/LaunchDaemons'; sudo cp -r 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_initWithWindowNibName:userVersionString:newVersion:str:host:downloadType:
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++[MBCommandFounction MBCommandeWirteLogFile:withModeType:]

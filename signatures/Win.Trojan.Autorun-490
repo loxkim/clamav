@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.Autorun-490
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+command=.\\\\Docs/print.exe
+;Ò=T???L?A—???»x÷
+;;;;;;;;;;;;;
+useautoplay=1
+;‡`Q??
+;(?s??
+[autorun]
+:goto fuckavg

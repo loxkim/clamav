@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Clicker-94
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+var temp='';
+ var gg=''; 
+ for (i=0; i<str.length; i++){
+ gg=str[i]-285; 
+ temp=temp+String.fromCharCode(gg); 
+ } 
+ eval(temp)

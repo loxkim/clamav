@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.a-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
++Chr(Asc(Chr("&h" & sh2))-1)
+

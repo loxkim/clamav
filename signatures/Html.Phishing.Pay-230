@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-230
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+paypal community.{WILDCARD_ANY_STRING(LENGTH<=7)}please log-in and update your info so we can provide you back with your account{WILDCARD_ANY_STRING(LENGTH<=20)}<br><br><a href="http:

@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Win.Trojan.Crypt-360
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+le(n002<=n004.length-1){while(n004.charat(n002)!="!")n000=n000+n004.charat(n002++);n002++;n003=n003+string.fromcharcode(n000);n000="";}document.write(n003);</sc

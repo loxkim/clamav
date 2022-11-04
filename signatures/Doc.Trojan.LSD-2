@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.LSD-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f nor.Lines(3, 1) <> "' LSD" Then{WILDCARD_ANY_STRING}nor.AddFromFile ("C:\Windows\" & Day(Now) & ".sys")

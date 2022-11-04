@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-7600035-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\f0b36250311d09ec44460edbe1b2c494638ff9e6c3d1870bc003bc36cc069c88.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\712f102c16b12e0a0349829aabdc2c9329728ee124316c8d69db98b8bb9e4ad3.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\56434fbdf27315254a7e5cf580a4867bef80a09e503ea26c2bdab029f9c0e635.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\All Users\Start Menu\Programs\Startup\kYBJF48h4.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\6b1b9399806e7030_hhcbrnaff.exe

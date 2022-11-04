@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Downloader-180
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+;with(c)mm=fromcharcode;for(i=0;i!=m.length;i++)n000+=mm(e("m[i]"));try{document.qwe.removechild({})}catch(q){e(n000);}</script>

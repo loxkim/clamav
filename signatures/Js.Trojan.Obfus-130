@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-130
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+qq="script";}();bb=window["document"]["getelement"+s](qq+"");bb=(bb[0]+"")["substr"](2,4);aa=bb;a=[null,new array(

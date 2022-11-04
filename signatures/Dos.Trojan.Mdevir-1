@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Mdevir-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+dosfile.writeline ("copy C:\viruz.vbs viruz.vbs")

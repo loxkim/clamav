@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Fileinfector-9835214-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+11/20/2010 19:47:7 - PFRO Error: \??\D:\Windows\system32\spool\drivers\x64\3\Old\1\FXSWZRD.DLL, |delete opera
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+7/9/2018 10:47:22 - PFRO Error: \??\C:\Windows\system32\spool\drivers\x64\3\Old\1\unidrvui.dll, |delete opera
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+8/24/2018 12:32:42 - PFRO Error: \??\C:\Windows\system32\spool\drivers\x64\3\Old\1\UNIDRV.DLL, |delete operat
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+11/20/2010 19:47:7 - PFRO Error: \??\D:\Windows\system32\spool\DRIVERS\x64\3\New\mxdwdrv.dll, \??\D:\Window
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+11/20/2010 19:47:7 - PFRO Error: \??\D:\Windows\system32\spool\DRIVERS\x64\3\New\UNIDRV.DLL, \??\D:\Windows

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Lientchtp-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+/default.asp?tmp={WILDCARD_ANY_STRING}/MicrosoftUpdate/ShellEX/KB{WILDCARD_ANY_STRING}Mozilla/4.0 (Compatible; MSIE 6.0;Windows NT 5.1)

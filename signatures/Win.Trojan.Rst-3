@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Rst-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+pass = ""; $md5_pass = ""{WILDCARD_ANY_STRING}'hj3hkqnqeku/zzqcbd4t8v4{WILDCARD_ANY_STRING}f/79z/8a')));//xek

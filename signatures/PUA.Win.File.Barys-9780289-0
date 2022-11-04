@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Barys-9780289-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+FastWifiShellEx64.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+FastWifiUpdate.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://ntcot.xsfaya.com/?73ea6=2f0753bc5484128bde925444c6c8ffa3&f2f0b=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://ntcot.xsfaya.com/?73ea6=3278dd654f5dbf96e4b9c0e74fe0fe63&f2f0b=
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://ntcot.xsfaya.com/?73ea6=a9377412cc8831f3da71b3b2449c39d5&f2f0b=

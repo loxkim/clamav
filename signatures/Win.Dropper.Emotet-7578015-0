@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Emotet-7578015-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1=Qa0Ia2O/x}VmNL<4d0rIdlkA2:<H]wJ!rQy!Gs:OMgLtgrDqH]n/w1=Qa0Ia2O/x}VmNL<4d0rIdlkA2:<H]wJ!rQy$Bv?JIbIqawAtJXk*}48T{5Ld
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pHcce@fLJj9s'9Ge&Mw6Y+ny@i_H-0u4cMuhzE#>-LMsZ%bUi%Ww*K]c\pwvTuXY~+g5-Uq4Ye!K<|nR~J_8'`#vZ`
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tMHz8r<?]b?Io3F)pz]iDI80a5vLaijD7?9MXrL$wTx$Bv:JHbOqbwFtMXc*r41Td5Fd7J!}xSeKI9>a5w]ainW7?9ZXrO?wT|;Bv?iHbIZbwAGMXk
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HbIqbwAtMXk*r48Td5Ld7J*}xShKI91a5wLainD7?9MXrO$wT|$Bv?JHbIqbwAtMXk*r48Td5Ld7J*}xShKI
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dOwdqGrK^m,t2>Rb3Jb1L,{~UnMO?7g3qJgohB19?K^tI"qRz"Dp9LNdOwdqGrK^m,t2>Rb3Jb1L,z

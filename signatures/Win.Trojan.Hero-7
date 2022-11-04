@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Hero-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for %%r in (*.b?t) do set H=%%r
+time 00:00
+find /i "<Hero>"

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Polymac-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Mid$(CryptedString, Len(CryptedString) - 1, 1) <> " " And Mid$(CryptedString, Len(CryptedStri{WILDCARD_ANY_STRING}Private Sub insertToText(CryptedString, r

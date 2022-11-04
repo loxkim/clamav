@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-84
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dded an additional email address to your paypal account.</sp{WILDCARD_ANY_STRING(LENGTH<=150)}t agree with this email <a href="http:{WILDCARD_ANY_STRING(LENGTH<=300)}">click here</a>to login to

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Drolnux-6796867-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\windows\system32\syssh32.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\\.\%sProgram Files\PDF_Reader\bin\COM7.EXE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ADD HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /f /t REG_SZ /v COM_LOADER /d "\\.\%sProgram Files\PDF_Reader
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%SystemRoot%\system32\shell32.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; ar; rv:1.9.0.5) Gecko/2008120122 Firefox/3.0.5

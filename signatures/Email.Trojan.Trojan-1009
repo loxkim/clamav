@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-1009
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+An incoming money transfer has been received by your financial institution and the funds deposited{WILDCARD_ANY_STRING(LENGTH>=100&&<=128)}Please view the attached file to review the transaction details

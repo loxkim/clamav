@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.QDown-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ebsearch.com/TbInstLog.asmx/GetXML?TbId=50151&TaskId=0&Modul=CONFIRM&Event_id=MI2&Power_U=0&Info=%reason&TUID=ASUPASU

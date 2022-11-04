@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1026
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+read through the new security update and follow the instructions in the link,{WILDCARD_ANY_STRING(LENGTH<=7)}to update your online banking account

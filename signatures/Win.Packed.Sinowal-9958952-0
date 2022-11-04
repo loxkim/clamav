@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sinowal-9958952-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Couldn't run %s in child process: error %u
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ completata su questa scheda.aIl cavo collegato a questa porta non dispone di coppie necessarie per la connessione a 100
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Ping di %s%s: non superato=Usando un'altra connessione, possibile eseguire il ping di %s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ presente alcun server DHCP sulla rete. Windows ha selezionato un indirizzo IP con Alternate Private IP Addressing.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sync_pipe_close_command: wait till child closed

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Ircbot.Whacked-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ send $nick Script.ini
+n14=}
+n15=ON 1:NOTICE:*:#:/msg #x3212  $+ 

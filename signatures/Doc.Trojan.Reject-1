@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Reject-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If norm.lines(Chr(50) + Chr(54), Chr(49)) <> "'AreUHere" Then

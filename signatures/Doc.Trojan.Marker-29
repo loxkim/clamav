@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Marker-29
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Const Marker = "<- Win9X SuX.. LiNuX SuX... Use UniX"{WILDCARD_ANY_STRING}.Title = "Bi'a, Mat-Kot, Sopi, Shah <- 013-4034031"

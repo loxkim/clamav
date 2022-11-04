@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zusy-9866295-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<dialog id="129" caption="Scansione completa" fontface="MS Shell Dlg" style="-1865809720" position="0, 0, 338, 78">
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<dialog id="157" caption="Preparando Full Scan" fontface="MS Shell Dlg" style="-2134376248" position="0, 0, 303, 81">
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+es perdidas:" fontface="MS Shell Dlg" id="222" position="0, 0, 303, 81" style="-2134245176">
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<control id="1013" caption="Tempo Restante Estimado:" position="210, 11, 90, 11"/>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+: &lt;Run FontWeight=&apos;Bold&apos;&gt;%s&lt;/Run&gt;,  Devis gratuit restant : &lt;Run FontWeight=&apos;Bold&apos;&gt;%s&lt;

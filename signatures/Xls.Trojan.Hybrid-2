@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Hybrid-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox "Repent!,Quit your Jobs!!,Slack off!!!", vbCritical, Title:="97 <-> 2000 "

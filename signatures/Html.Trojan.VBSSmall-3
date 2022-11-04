@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSSmall-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rg.regwrite "HKCU\Software\Microsoft\Internet Explorer\Main\Window Title", gm

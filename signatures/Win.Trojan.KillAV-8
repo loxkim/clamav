@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillAV-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set fuckms="McAfee Framework Service"{WILDCARD_ANY_STRING}net stop "Detector de OfficeScanNT

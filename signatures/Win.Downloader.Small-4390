@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.Small-4390
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+echo open %s %d > i&echo user 1 1 >> i &echo get %s >> i &echo quit

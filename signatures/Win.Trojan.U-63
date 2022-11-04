@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.U-63
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$$'_gw' >> {}
+rm /tmp/..vic*_gw
+fi; fi" \;
+rm /tmp/..clr_gw
+exit 0 ; fi
+: UNIX.Mollusc.b by Gobleen Warrior/SMF

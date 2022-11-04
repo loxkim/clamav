@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Lanus-4
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dowhilec6<>"<!--html.lanus-->"{WILDCARD_ANY_STRING(LENGTH<=21)}writeline(c6)

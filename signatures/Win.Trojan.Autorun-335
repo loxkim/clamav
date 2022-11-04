@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Autorun-335
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+copy autorun.inf i:
+del c:/windows/ *.exe

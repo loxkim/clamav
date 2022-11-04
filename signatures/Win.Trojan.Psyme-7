@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Psyme-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+{e=ads[j];d=e^x;x+=1;ds=ds+String.fromCharCode(d);}eval(ds)

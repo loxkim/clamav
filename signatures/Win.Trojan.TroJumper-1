@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.TroJumper-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+o xx
+
+:fuck
+md C:\Windows\Jumper
+copy %0 C:\Windows\Jumper
+cls
+If exist C:\Windows\Jumper\WinSt.bat go

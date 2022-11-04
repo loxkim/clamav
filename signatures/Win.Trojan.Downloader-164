@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-164
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+try{  {WILDCARD_IGNORE} {WILDCARD_IGNORE}activexobject("m {WILDCARD_IGNORE}array {WILDCARD_IGNORE}();break;case{WILDCARD_ANY_STRING}".substr(c-=(x=c<2?1:2),x))).join(t.pop()));eval(d)</

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Af-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+alTemplate.FullName, Name:="AtomicF97", Object:=wdOrganizerObjectProjectItems

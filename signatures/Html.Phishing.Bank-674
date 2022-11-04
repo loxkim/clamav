@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-674
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+your e*trade securities account statement is now available online. <a href="http:/{WILDCARD_ANY_STRING(LENGTH<=50)}">view it now (log on required)</a>or follow the instr

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRCBot_28-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$+($r(a,z),$r(a,z),$r(a,z),$r(a,z){WILDCARD_ANY_STRING}elseif ($4 == :.spread) { var %chan $gettok

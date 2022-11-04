@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Undefined-6765710-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+V*\AC:\Users\rox\Desktop\hot\TRAMPOS AKI\atualizacao_completa\pg_compiled\PGS_SOURCE\webpgnew_bb_redux_rol\we
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+doqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoq
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+a um novo login!
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+web1.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Internet Explorer - Erro de Comunica

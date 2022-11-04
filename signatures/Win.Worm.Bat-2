@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Bat-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+,2,3 delims= " %%i in (ntscan.txt) do call hacker.bat %%i %%j %%

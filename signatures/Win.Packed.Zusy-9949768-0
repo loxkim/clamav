@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zusy-9949768-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+endptr == token_buffer.data() + token_buffer.size()
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+646566676869707172737475767778798081828384858687888990919293949596979899n
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+last - first >= 2 + (-kMinExp - 1) + std::numeric_limits<FloatType>::max_digits10
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+invalid comment; expecting '/' or '*' after '/'
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6Dd9cJ1lvc76Dd9cJ1lvc76Dd9cJ1lvc76Dd9cJ1lvc76Dd9cJ1lvc76Dd9cJ1lvc76Dd9cJ1lvc76Dd9cJ1lvc76Dd9cJ1lvc76Dd

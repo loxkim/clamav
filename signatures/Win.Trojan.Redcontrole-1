@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Redcontrole-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Mozilla/4.0 (compatible; Synapse){WILDCARD_ANY_STRING}Expect: 100-continue{WILDCARD_ANY_STRING}key.php?key=

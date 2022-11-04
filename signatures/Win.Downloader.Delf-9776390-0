@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Delf-9776390-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7TLoginCredentialService.GetLoginCredentials$1253$ActRec|"L
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7TLoginCredentialService.GetLoginCredentials$1253$0$Intf
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://dl.dropboxusercontent.com/s/ovprskim06pcc2k/config.css
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://68945b65356af409c74e20d5d923409436fa5da6.googledrive.com/host/0B4VPWmXsIx3WTEpjZUMyM3cyUlE/config.css
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3TDefaultLoginCredentials.LoginEventUsrPw$292$ActRecTmT

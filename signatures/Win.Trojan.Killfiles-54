@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Killfiles-54
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+@del c:\winnt\*.com cls @del c:\w

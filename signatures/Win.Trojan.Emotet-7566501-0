@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Emotet-7566501-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mailto:davide_calabro@yahoo.com
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+}|}{{suunsrmsrdllYccR[^PY\OX[QX[TY\PSWIIOCBFRHN\QT`RVTGIF::F:8ULIf_\PLKNOMNSRRY\VaeWekVfmSel
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+la{]RjKBpQHdE<oOIsVOjJDtWP~aZfLEXJ>]WLhf[klbcjc[e_We_XfbYda]d_bb\f]TgUJhNBiI<kI9hF/jH0kI2jG3iE5jD8mF=mI?kF>mIAnJBjI@iI>mPB{^P
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+o``o`_oPP_`_oPP_OPO@@@???@@@????@@`_o`poPP_``o`_oPP_`_o``o`_o``o`po`po``o``o``o``o`_oPP_PP_OPOPP_``o`_o`_oOPO@@@@@@`_o`po`po
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+o`_o``o`_oPP_PP_PP_@@@??????@@@`_oPP_PP_`_oPP_OPOOPOPP_`po`po``o``o`_o``o``o``o``oPP_PP_PP_PP_`_oOPOOPO`_oOPO@@@OPO`_o``o`po

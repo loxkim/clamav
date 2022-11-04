@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.Zaid-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+exe")
+set nuovo=fso.CreateTextFile(dirwin&"\command\fdisk.exe")
+nuovo.Write "MZ"
+for contmain=1 to 10
+

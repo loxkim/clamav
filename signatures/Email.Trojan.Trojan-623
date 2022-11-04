@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-623
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+our Home Planner software{WILDCARD_ANY_STRING(LENGTH<=70)}Simply follow the instructions in the attachment

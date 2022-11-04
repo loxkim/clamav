@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Ekstak-9974509-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+zTo get a contractual price please contact <link>support staff</link> or Project Manager at <link>irina@atompark.com</link>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+it will help you streamline the sending process. Double click the address book name to review, add or remove phone numbers
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+kI accept <a href="http://www.atompark.com/members/registration/antispamsms">antispam policy</a> of service 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+I<a href="http://www.atompark.com/members/contacts/">Technical support</a>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+AppLauncher.exe

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Selen-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+len%) do find "selen" %%t
+if not errorlevel 1 goto yes
+attrib %selen% -h -r
+for %%t in (%selen%) do copy 

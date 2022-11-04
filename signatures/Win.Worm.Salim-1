@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Salim-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+= fso.Drives 
+set c = fso.CreateTextFile("c:\Salim_se!.htm",true) 
+c.WriteLine "<!--Stertor-->"
+c.WriteLine

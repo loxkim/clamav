@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9968465-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Webroot Security<This cleanup log only shows information for the last cleanup
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Windows Update Temporary Files"Windows Directory Temporary Folder
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+System Cleaner has completed$No options were selected for Cleanup
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+View DetailsAA cleanup has been performed on your system from the context menu
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Context Cleanup was executed-Index.dat files marked for removal(On reboot)9System Cleaner: Index.dat files will be remov

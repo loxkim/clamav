@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Downloader-179
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+[((e)?"s":"")+"p"+"lit"]("a$".substr(1));for(i=6-2-1-2-1;i-684!=0;i++){k=i;ss=ss+String.fromCharCode(-1*h*(3+1*n[k]));}q=ss;e(q);}
+

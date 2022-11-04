@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mdpvirus-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+izerCopy Source:=ActiveDocument.FullName, Destination:=NormalTemplate.FullName, Name:="MDPVirus{WILDCARD_ANY_STRING}MsgBox "HAHAHAHAHA!!!!!", vbCriti

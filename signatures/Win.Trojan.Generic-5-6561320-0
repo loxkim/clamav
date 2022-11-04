@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-5-6561320-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RecipientDirectoryDialog.Properties.Resources.de-DE.resources
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RecipientDirectoryDialog.g.de-DE.resources
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Kombiniertes WinZip Adressbuch RecipientDirectoryDialog
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mBitte spezifizieren Sie eine Nachricht, die zu einem oder mehreren Nachrichtendiensten geschickt werden soll.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CBitte geben Sie eine E-Mail-Adresse als Standard E-Mail-Adresse an.

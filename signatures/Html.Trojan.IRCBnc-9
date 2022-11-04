@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCBnc-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.sockmark bnc.out. $+ $sock($sockname).port $+ . $+ $sock($sockname).ip %bnc.

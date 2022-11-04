@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Paran-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Kill "c:\wondows\data.frx"{WILDCARD_ANY_STRING}wash your teeth with AIM" & vbCr & "The best toothpaste

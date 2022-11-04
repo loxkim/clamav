@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Barys-7933441-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Omega0.pgm,Omega1.pgm,Omega2.pgm,Omega3.pgm,Omega4.pgm,Omega5.pgm,Omega6.pgm,Omega7.pgm,Omega8.pgm,Omega9.pgm,Omega10.pgm,Omega1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ega22.pgm,Omega23.pgm,Omega24.pgm,Omega25.pgm,Omega26.pgm,Omega27.pgm,Omega28.pgm,Omega29.pgm,Omega30.pgm,Omega31.pgm,Omega32.pg
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ega54.pgm,Omega55.pgm,Omega56.pgm,Omega57.pgm,Omega58.pgm,Omega59.pgm,Omega60.pgm,Omega61.pgm,Omega62.pgm,Omega63.pgm,Omega64.pg
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Alpha0.pgm,Alpha1.pgm
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Alpha0.pgm

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Delf-9908766-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c#m#d /k st#art iexpl#or#e.ex#e ht#tp://ww#w.s#a#nt#an#der.c#om.b#r
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cm#d /k st#art iex#pl#ore.ex#e ht#tp://ww#w.brad#e#sco.c#om.b#r
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Br#ad#esco - Moz#il#la F#ire#fox
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Br#ad#e#sco - G#oo#gle Ch#rom#e
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+a exi#gid#o pel#o sit#e, util#iz#e o In#ter#net Exp#l#orer

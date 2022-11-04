@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Lucia-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+f Conteudo <> "Option Explicit 'Cod" Then{WILDCARD_ANY_STRING}alogFileSummaryInfo): .Title = "LUCIA": .Author = "LUCIA": .Execute: End

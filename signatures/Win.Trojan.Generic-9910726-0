@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9910726-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+System.Security.Cryptography.FromBase64Transform
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+        var aesDec = aes.CreateDecryptor((aesKeyBytes), (aes.IV));
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+        var decoded_bytes = b64Dec.TransformFinalBlock((bytes), 0, bytes.length);
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+        var aesKeyBytes = utf8.GetBytes(aesKey);
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+function Decrypt(cipherText, aesKey){

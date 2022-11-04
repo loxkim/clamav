@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCRhy-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+write %boot REGEDIT4 | write %boot [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run]{WILDCARD_ANY_STRING(LENGTH<=128)}$replace($mirc

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-660
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+the service(s) listed below{WILDCARD_ANY_STRING(LENGTH<=7)}will be deactivated and deleted of not renewed immediately. previous notifications have

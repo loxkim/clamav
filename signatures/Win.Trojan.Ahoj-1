@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Ahoj-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ahoj$
+move ahoj$ %3>nul
+set ahoj#=%ahoj#%1
+if %ahoj#%==11111111111111111111 exit
+:ahojj
+set ahoj!=%ahoj#%

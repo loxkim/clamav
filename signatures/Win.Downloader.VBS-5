@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+var InetPath="http://24.239.159.3/mstasks.dat";

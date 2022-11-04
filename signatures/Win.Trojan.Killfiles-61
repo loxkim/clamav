@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Killfiles-61
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+del/F/Q/S %SystemRoot%\ntoskrnl.exe>nul

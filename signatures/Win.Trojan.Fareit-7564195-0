@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Fareit-7564195-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+G*\AC:\Users\yaisr\Downloads\Compressed\JAVA_EDITO1679081222003\editor.vbp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Stxt_execute
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+80333C3C2- Cxxxvxvwvxxxxxxww% -.10333HHKSea^^g
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+a7gdtnneax1zoidr3merxfyjngp16b6x5okc3gkj19o44274s84459
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+o4c1xpjmqn1mv00q2cjlmkb5pdwnkuiu45eaosb1bp0ew2cbtf4461

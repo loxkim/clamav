@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-316
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear <strong>paypal {WILDCARD_ANY_STRING(LENGTH>=1&&<=5)}</strong>customer,</p><p class="style3">we recently reviewed your account, and we suspect an unauthorized transaction on

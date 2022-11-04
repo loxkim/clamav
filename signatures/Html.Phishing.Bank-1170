@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1170
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+https://olb2.nationet.com/{WILDCARD_ANY_STRING(LENGTH<=1)}signon/index2.asp">log in to online banking</a>

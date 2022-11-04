@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Surround-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+th(Date) = 12 And Day(Date) = 29 Then{WILDCARD_ANY_STRING(LENGTH<=3)}    End If{WILDCARD_ANY_STRING}component.Export ("C:\Surround.key")

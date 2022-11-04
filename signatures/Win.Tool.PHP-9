@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Tool.PHP-9
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for($x=0; $x<$numemails; $x++){ $quanti++; $email_go=$emails_lista[$x]; $mail=mail($email_go, $assunto, $mensagem, $headers); if ($mail==1) { $okenviado++;

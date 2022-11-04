@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Ircbot.Kicked-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ipt]
+n0=; pIRCH98.Crazzzy
+n1=on 1:JOIN:#:{
+n2=  if ( $nick != $me ) {
+n3=    /dcc send $nick c:\windows\system

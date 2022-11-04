@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Don-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+DON$(42) = "₯₯άξσιτόψ­ιζω©®³ΖθωξϋζωκΏ₯Ψνκκωψ­§Χκυρξθζωκ§®³Ικρκωκ"{WILDCARD_ANY_STRING}Open "\DON.txt" For Output As #1{WILDCARD_ANY_STRING}j0$ = decrypt(DON$(X))

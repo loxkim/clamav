@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Trojan-546
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+while((data.length%4)!=0){data+="=";}{WILDCARD_ANY_STRING(LENGTH<=1095)}write(rab8nif5xw7iok

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Shiver-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+DDEPoke CNL, Item:="R1C1", Data:="=VBA.INSERT.FILE(""c:\shiver.sys"")"

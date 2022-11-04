@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.CoCola-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox "Hello! I have infected you with a virus. I'm sorry, but I can't help it. I'm so sick!", vbCritical, "Micro$oft Word"

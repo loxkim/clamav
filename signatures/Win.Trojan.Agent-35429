@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35429
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+(payloadsize+0x038){WILDCARD_ANY_STRING}grgz("%u0a0a%u0a0a")

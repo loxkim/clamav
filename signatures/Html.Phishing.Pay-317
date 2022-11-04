@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-317
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+new security message resolution center: your account is limited.{WILDCARD_ANY_STRING(LENGTH<=6)}http://

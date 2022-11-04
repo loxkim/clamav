@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Iroffer-16
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nck $+ $rand(9999,999999) $+ ] | .n{WILDCARD_ANY_STRING}t.exe) == $false) { .msg %channel 4,8IROFFER MISSI

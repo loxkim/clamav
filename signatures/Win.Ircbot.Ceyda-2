@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Ircbot.Ceyda-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Windows\CeyDem.com start /m C:\Windows\CeyDem.com
+:end
+:: Ceyd

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-7466763-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Could not connect to mail server %s, connection attempt timed out.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IDispatchImpl@UISmtpMail@@$1?IID_ISmtpMail@@3U_GUID@@B$1?LIBID_AddEmailLib@@3U3@B$00$0A@VCComTypeInfoHolder@ATL@@@ATL@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Specifies whether SMTP server requires an encrypted connection (SSL)WW9
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Number of times AddEmail attempts to connect to the SMTP serverWWW;
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\WINDOWS\system32\AddEmail

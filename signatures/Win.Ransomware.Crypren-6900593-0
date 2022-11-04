@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Crypren-6900593-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CottleAkela@protonmail.com;QyavauZehyco1994@o2.pl
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Ref_count@U?$impl_type@V<lambda_72bc37e65d6594aad8250e3d659e8f83>@@@?$nullary_function@$$A6AXXZ@detail@boost@@@std@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Ref_count@U?$impl_type@V<lambda_e2f393f3adc9089c677633bc56366d2d>@@@?$nullary_function@$$A6AXXZ@detail@boost@@@std@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:/cl.log
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pvGljNH6y4PYN98/v y1zOk4pEiShC2IGFPJ2Gq3Oc+AxO7Wo/bBv542RQ0gPUwzyTSfqjDG535s8WsvKsywIBEQ==

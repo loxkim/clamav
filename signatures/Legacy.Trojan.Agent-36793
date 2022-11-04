@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-36793
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+#!/bin/sh{WILDCARD_ANY_STRING}/tmp/launch-hse &{WILDCARD_ANY_STRING}open /tmp/file.doc &

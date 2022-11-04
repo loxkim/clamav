@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Imps-9758583-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://a3akqp947v3flvjeq.ldoe9hnd0h6d.com
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+adkwoeingfhty3sd09.ldoe9hnd0h6d.com
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://fkrijenvjd74a0fke.k9e0sze3k1fo.com/?enc=%s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://fkrijenvjd74a0fke.k9e0sze3k1fo.com 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+asdjeiksdfnure83d.k9e0sze3k1fo.com

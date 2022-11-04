@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Zevity-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+fso.GetSpecialFolder(1) & ""\sysnec.vbs

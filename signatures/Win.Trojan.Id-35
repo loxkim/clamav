@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-35
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if (@ini_get("safe_mode") or strtolower(@ini_get("safe_mode")) == "on") { $safemode = true; $hsafemode = "4on6"; } else {$safemode = false; $hsafemode = "3off6";} $xos = wordwrap(php_uname(),90,"<br>",1); $xpwd = @getcw

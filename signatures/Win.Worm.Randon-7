@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Randon-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+  if ($sock(clone*,0) &gt;= %max.load) || (%max.load == $null) { halt } |  //identd on $r(a,z) $+

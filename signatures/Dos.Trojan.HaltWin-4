@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.HaltWin-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:antiloop{WILDCARD_IGNORE}{WILDCARD_IGNORE}@start c:\recycled\leap0.vbs

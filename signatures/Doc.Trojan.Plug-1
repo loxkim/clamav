@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Plug-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If UCase(Right(a_, 10)) = "D FUNCTIO" + "N" Then fl_ = 4: LenSt_ = NTi_ - SubSt_ + 1{WILDCARD_ANY_STRING}If NTi_ > dest_.countoflines Then fl_ = 4

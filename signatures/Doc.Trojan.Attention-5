@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Attention-5
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Return_ = CopyVirus(File$, Global_$){WILDCARD_ANY_STRING}WordBasic.ToolsOptionsSave GlobalDotPrompt:=0{WILDCARD_ANY_STRING}stomizeMenus Name:="ToolsMacro", Menu:="Tools", Remo

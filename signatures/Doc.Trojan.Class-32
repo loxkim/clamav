@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-32
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+JA89 > 0 And UL66 > 0 Then GoTo NL19{WILDCARD_ANY_STRING}LG92 = True Then TK61.CodeModule.AddFromString ("Sub Document_Close()" & vb

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Mikey-9790241-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FRegOpenKeyTransactedW
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+v+{,-{,j<i>9A5:=9k=k;A5A99l:5<:<8m:8jl5jh<::28j97hfi;k6ji;5?>k>:?mjiik9kk8i:l<5A?Anli;:55<;92:gf5;7k<j=<:l<p;n=C;Bk@Bn=Qhcby1dcj
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mj>npn=lllj8>>lllj5mm9?
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D$ PjwsH
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D$$jq873

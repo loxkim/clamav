@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Quiet-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If ud.Lines(1, 1) = nt.Lines(1, 1) Then GoTo exit_1{WILDCARD_ANY_STRING}nt.replaceline 3, "Sub AutoClose()"

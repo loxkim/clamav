@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Crystal-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+!!!"
+WormFile.WriteLine "EventCount=18"
+WormFile.WriteLine ""
+WormFile.WriteLine "[100-Level 100]"
+W

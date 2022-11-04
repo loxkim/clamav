@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Phishing.Agent-36939
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ your part compensation fund of{WILDCARD_ANY_STRING(LENGTH<=16)}has been channel to western union for immediate payment to you through western union special transit unit system

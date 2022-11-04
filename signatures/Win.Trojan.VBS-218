@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VBS-218
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+\run\windows",(s & "\vbssys.vbs")

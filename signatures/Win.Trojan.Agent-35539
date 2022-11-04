@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35539
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+shellcode = unescape(nod32+"%uffec%uffff%u8b7f%udf4e%uefef%u64ef%ue3af%u9f64%u42f3%u9f64%u6ee7%uef03%uefeb"+no

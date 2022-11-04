@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ethan-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sName = "c:\evolve1.tmp"{WILDCARD_ANY_STRING}If Found = False And (a = sFunc) Then Found = True

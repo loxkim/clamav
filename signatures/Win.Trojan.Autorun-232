@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autorun-232
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+shellexecute=fw.exe{WILDCARD_ANY_STRING(LENGTH<=5)}shell\Auto\command=fw.exe

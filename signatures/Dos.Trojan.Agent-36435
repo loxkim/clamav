@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36435
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off net stop "security center" net stop winvnc4 del c:\a.bat 

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.DelSys-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+copy %0 c:\%winbootdir%\winstart.bat

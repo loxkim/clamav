@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7184785-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0©10
+	’&‰“ò,d
+63WTU8KLPU1G0EU>Developer ID Application: Anatoliy Stanislavovich (63WTU8KLPU)10U
+63WTU8KLPU1 0U
+Anatoliy Stanislavovich10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$Developer ID Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0180615104210Z230616104210Z

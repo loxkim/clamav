@@ -1,0 +1,6 @@
+VIRUS NAME: Legacy.Trojan.Agent-36912
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ & CHR ( 0x0000002e ) & CHR ( 0x00000063 ) & CHR ( 0x0000006f ) & CHR ( 0x0000006d ) & "/downloads/TCChecker.exe" 
+$URL [ 0x00000001 ] = CHR ( 0x00000068 )

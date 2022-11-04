@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NPR-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Do While FindWindow(CLng(0), "(Сеанс завершен) - chkip") = 0

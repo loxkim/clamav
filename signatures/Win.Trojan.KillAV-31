@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillAV-31
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+taskkill /im "autoupdate.exe" /t /f taskkill /im "avp.exe" /t /f taskkill /im "avp32.exe" /t /f

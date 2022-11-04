@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Silly-90
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for %%Y in (*.b*) do set>{WILDCARD_ANY_STRING(LENGTH<=30)}if exist ÿ copy %0 %{%

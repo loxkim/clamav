@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.MSShellcode-91
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ruby -rsocket -e "s=TCPServer.new(\"4444\");while(c=s.accept);wh

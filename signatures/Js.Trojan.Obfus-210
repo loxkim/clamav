@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-210
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+try{}catch(q){for(i in v)r=v.childnodes.length+1}r*=2;e=eval;m=[

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-862
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+part of our security measures, we regularly screen activity in{WILDCARD_ANY_STRING(LENGTH<=50)}banking system. as a precaution, we sent you this email{WILDCARD_ANY_STRING(LENGTH<=8)}in order to prote

@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Phishing.Bank-1513
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Failure to 
+            update your account now will lead to termination of your account{WILDCARD_ANY_STRING(LENGTH<=90)}click here now  for the update

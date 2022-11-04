@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36682
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off rem wirus win_suxx 1.0 rem autor: unknow rem dzialanie: wirus wylacza klawiature i myszke rundll32 mouse,disable rundll32 keyboard,disable 

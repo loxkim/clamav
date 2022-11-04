@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Azorult-9876226-1
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MessageBFailed to determine cross component correlation header. Error: {0}TU%System.Diagnostics.Tracing.EventLevel
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Message0Failed to determine role name header. Error: {0}TU%System.Diagnostics.Tracing.EventLevel
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Message:Exception happened during getting the machine name: '{0}'.TU%System.Diagnostics.Tracing.EventLevel
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Message:Telemetry tracking was enabled. Messages are being logged.TU%System.Diagnostics.Tracing.EventLevel
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MessageJError occurred when trying to update environment variables. Exception: {0}TU%System.Diagnostics.Tracing.EventLevel

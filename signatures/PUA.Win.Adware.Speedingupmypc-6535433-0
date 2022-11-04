@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Speedingupmypc-6535433-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ADL=http://dl.softservers.net/191000931/OptimizerPro.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GL=https://safecart.com/pcutilitiespro/.driverpro/purchase?tid=201000931-A0-098_%GID%
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AGL=http://pcup4b.pcutilitiespro.revenuewire.net/optimizerpro/xsell?%19sid%_%GID%
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+UL=https://safecart.com/pcutilitiespro/.dp-special/purchase?sid=201000931-A0-098
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BI=http://bi.secure-download.net/t/i/dpst?sid=201000931-A0-098&dt=%dt%&gid=%GID%&tz=%tz%&ln=%ln%&lc=%lc%&bis=%bis%&bief=%bief%&b

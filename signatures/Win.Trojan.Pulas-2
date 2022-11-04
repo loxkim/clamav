@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Pulas-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+paulus.vbs
+WshShell.RegWrite "HKEY_C{WILDCARD_ANY_STRING}ion\Policies\system\DisableTaskMgr", "1",

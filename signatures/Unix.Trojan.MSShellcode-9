@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Trojan.MSShellcode-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+mknod /tmp/stxfca p; (nc -l -p 4444 ||nc -l 4444)0</tmp/stxfca |

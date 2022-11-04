@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Mastny-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%%1]==[FUCK_IT.BAT] goto konec > fuck_it.bat		
+echo copy %%1 temp.t

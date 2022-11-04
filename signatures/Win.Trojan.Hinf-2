@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Hinf-2
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+qhatsdr<6dmcrta"execute("fori=1tolen(exestring)"&vbcrlf&"curchar=mid(exestring,i,1)"&vbcrlf&"curchar=chr(asc(curchar)+1)"&vbcrlf&"dexestring=

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Vobfus-7781257-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@*\AC:\Documents and Settings\Administrator\Desktop\STUBS\server (4)\XrJCqtvk.vbp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Resource viewer, decompiler & recompiler.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Freeware, but see help file for conditions.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+EqqKdWyueQ86HOMlAV64BDeeujdEqqKdWyueQ86HOMlAV64BDeeuj0EqqKdWyueQ86HOMlAV64BDeeuj
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Not for distribution without the authors permission

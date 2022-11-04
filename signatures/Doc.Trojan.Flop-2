@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Flop-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+deModule.Lines(1, 1) <> MacroContainer.VBProject.VBComponents(1).CodeModule.Lines(1, 1) Th{WILDCARD_ANY_STRING}eModule.AddFromString MacroContain

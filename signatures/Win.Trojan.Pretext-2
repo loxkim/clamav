@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Pretext-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+e=b.regread(c+d);f="pretext.bat";g=f+" %1";if(e!=g){h=a.getabsolutepathname(a.getspecialfolder(0));if(h.charAt(h.length-1)!="\\")h+=

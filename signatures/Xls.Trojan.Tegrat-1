@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Tegrat-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If .CountOfLines > 1 Then Target = .Lines(1, .CountOfLines){WILDCARD_ANY_STRING}If Target <> TW Then

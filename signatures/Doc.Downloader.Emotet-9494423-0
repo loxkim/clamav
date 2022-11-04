@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Downloader.Emotet-9494423-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Advgwrispg_0afv31x = I2pyj_rv_k_
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E210fx3dhiscdzae = Advgwrispg_0afv31x(Y1l2onlwnf62mmph
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+I89j95x_9q6_ = F55hvfoh4z1qvc + (Av3lxinyzkv2n1hmck + Dygeybzc30lhu + T3sxg8r81b9z7cy0fc.Erkdl3u6qk8.ControlTipText + Hicpe7iqle
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ke____4rq4yixo9k
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Set Okrr2q4fhc8locd = CreateObject(F44cct42pt8_b7m
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hj[gm23&bh

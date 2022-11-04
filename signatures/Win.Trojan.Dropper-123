@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Dropper-123
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+set ws = createobject("wscript.shell") ps.name="{WILDCARD_ANY_STRING}set sget = createobject("adodb.stream"){WILDCARD_ANY_STRING}.write(xpost.responsebody{WILDCARD_ANY_STRING}runner.run ilocal

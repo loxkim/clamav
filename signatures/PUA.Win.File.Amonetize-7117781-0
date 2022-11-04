@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Amonetize-7117781-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity type="win32" processorArchitecture="*" version="1.5.1.5" name="test"/>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4xdv84d6mgKOr2CMev58iiBz87RgiiO7v3qITPl9zwFhxuhQhhe/s2uqcftm1ABo6qF7ijSqr2aBeP5Yiix04qVhmyG3sWq4
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<description>test</description>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4gBx6ah6nwP+u32Acq0q9U9g5q15mwPy/Xybfvl61VIj4+g1mxWssn3SOukCrA==
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8QZoz7BhjiC7qUaqT/9g3hZF6KpzlwCYsn2sav99wwFy0rdwjA==

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6773640-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%SystemRoot%\Installer\{16E52445-1392-469F-9ADB-FC03AF00CD61}\python_icon.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Python27\""C:\Python27\Lib\idlelib\idle.pyw"KC:\WINDOWS\Installer\{16E52445-1392-469F-9ADB-FC03AF00CD61}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Copyright 1999-2015 Adobe Systems Incorporated and its licensors. All rights reserved.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Doc4nOF*_FAd=Iwx?$]mmLGTclTk>APx`yZL?~?){1(j0?.Ic

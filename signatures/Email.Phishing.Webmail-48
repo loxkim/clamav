@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Webmail-48
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Over-due ATM Card payment{WILDCARD_ANY_STRING(LENGTH<=80)}ATM Card that has been approved in your favor

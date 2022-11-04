@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-87
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+id/){WILDCARD_ANY_STRING(LENGTH<=3)}		{{WILDCARD_ANY_STRING(LENGTH<=3)}			print ":: sshworm found new host $host\n";{WILDCARD_ANY_STRING(LENGTH<=3)}			system("scp $Bin/$0 $host:/tmp/hello.pl");{WILDCARD_ANY_STRING(LENGTH<=3)}			system("ssh $host 'perl /t

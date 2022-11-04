@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.GMWC-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ar2(1) = "WshShell.Run """"%comspec% /c xxdecode.com file.xxe"""",0,True" & nl

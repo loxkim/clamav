@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Emotet-7431466-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\Users\User\Desktop\2008\New folder\tip\WinRel\TIP.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mfcm90.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+TIP.EXE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xdSaqKLjNtDcvdfXzsdEjgbCxdSaqKLjNtDcvdfXzsdEjgbCxdSaqKLjNtDcvdfXzsdEjgbCxdSaqKLjNtDcvdfXzsdEjgbCxdSaqKLjNtDcvdfXzsdEjgbCxd
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+YzseGjgc@xdReqKMlNtEkvdgTzseUjgc[xdRAqKMZNtE#vdg8zsdEjgbCxdCpcKDmGrNf}`j[wqjDegbCxdSaqKLjNtDcdwrLofrS|quTosKyiSTrVl]zo}

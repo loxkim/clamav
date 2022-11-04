@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6817522-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mC:\WINDOWS\system32\Xvoice.oca
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+EnglishToThai.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+userword.txt
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E:\Mywork\EngtoThai\ET.HLP
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+`3f`3f`3f`3f`3f`3f`3f`3f_4f_4f_4f_4f_4f_4f_4f_4f_4f_4f_4f_4f_4f_4f_4f_4f^6f`3f`3d^5ha:of:

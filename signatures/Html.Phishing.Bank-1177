@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1177
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+you are requested to update your account information by{WILDCARD_ANY_STRING(LENGTH<=6)}following the reference below.{WILDCARD_ANY_STRING(LENGTH<=14)}to update your online banking.

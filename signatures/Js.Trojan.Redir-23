@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Redir-23
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+?"+n009+"="))!=-1||(n010=n008.indexof("&"+n009+"="))!=-1))window.location="http://googosearch.biz/search.php?ty=1&terms="+n008.substring(n010+2+n009.length).split("&")[0];))</script

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Delud-1
+TARGET TYPE: ANY FILE
+OFFSET: 622
+DECODED SIGNATURE:
+OUT.Write("MZP"&O&C(2)&N(3)&C(4)&O&C(15)&O&"ˇˇ"&O&O&"∏"&N(7)&"@"&O&C(26)&N(34)&C(2)&O&O&"∫"&C(16)&O&C(14)&C(31)&"¥"&C(9)&"Õ!∏"&C(1)&"LÕ!êêThis pr

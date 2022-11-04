@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Randon-20
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:adpass{WILDCARD_ANY_STRING}psexec \\%1 -u administrator -p "password" -f -c -d fsys.exe -o

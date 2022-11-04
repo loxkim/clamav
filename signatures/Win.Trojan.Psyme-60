@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Psyme-60
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for (var i = 0; i < datastr.length; i=i+5)

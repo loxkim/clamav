@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Neg-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Application.Workbooks("FUCKPOL.XLM").Modules(y).Name = "Police" Then

@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Barisada-9
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox "Wrong Answer, Your file will be delet{WILDCARD_ANY_STRING}For j = 1 To Workbooks(i).Sheets.Co{WILDCARD_ANY_STRING}ks(i).Sheets(i).Cells.Select{WILDCARD_ANY_STRING}Selection.Clear

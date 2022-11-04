@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCPozix-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+[fileserver] warning=off [dccserver] n0=0,59,0,0,0,0 [agent] enable=0,0,0 char=merlin.acs

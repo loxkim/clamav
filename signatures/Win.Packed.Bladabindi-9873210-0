@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Bladabindi-9873210-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Cet assistant vous guidera dans le processus d'installation de NewProduct sur votre ordinateur. 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Vous devez entrer le mot de passe pour pousuivre l'installation de NewProduct. Tapez le mot de passe et cliquez sur Suivant.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Pour installer NewProduct sur le disque %s manque d'espace libre. Lib
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+commencer l'installation de NewProduct sur votre ordinateur.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Veuillez lire les termes de licence avant d'installer NewProduct.

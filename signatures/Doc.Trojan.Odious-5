@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Odious-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ganizerCopy A, B, "SVJ_01", wdOrganizerObjectProjectItems{WILDCARD_ANY_STRING}Selection.TypeText Text:="BY  SVJ"

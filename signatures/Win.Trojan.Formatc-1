@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Formatc-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.writeline("formatc:/u/c/s/autotest>nul")

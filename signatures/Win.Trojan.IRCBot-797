@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRCBot-797
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+t['nick']. " +d"); $nicknofl=$bot['nick'];$lnickfl=rand(5,16);$nickfl="";$tsmsg = substr($msg,strpos($msg,$target)+strlen($target)+1); for ($i = 1; $i <= $lnickfl; $i++) {$nickfl.=$tsu[rand(0,count($tsu) - 1)];}$this->nick($sock,$nickfl);sleep(2); if (ereg("#", $target)) {$this->join($sock,$target);}$ka

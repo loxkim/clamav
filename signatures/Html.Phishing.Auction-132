@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-132
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we invite you to join us as a powerseller{WILDCARD_ANY_STRING(LENGTH<=250)}very important !<br>the registration is active only once.

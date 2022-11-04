@@ -1,0 +1,8 @@
+VIRUS NAME: Html.Trojan.IRCFusion-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+finger=Spam Message: %spam.msg - Netsend Message: %nmsg{WILDCARD_ANY_STRING}[rfiles]
+n0=alfapolar.dll
+n1=direcx.dll
+n2=w32sock.b

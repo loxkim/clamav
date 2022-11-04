@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1478
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+utente {WILDCARD_ANY_STRING(LENGTH<=24)} bloccato{WILDCARD_ANY_STRING(LENGTH>=32&&<=256)}clicca qui per accedere alla banca

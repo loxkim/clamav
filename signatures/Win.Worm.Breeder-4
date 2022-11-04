@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Breeder-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+r(1)&"\WinAdmService32.vbs{WILDCARD_ANY_STRING}gset("HKLM\Software\WinSettings\Breed\Outlo

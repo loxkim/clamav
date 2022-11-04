@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Killfiles-59
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+del/F/Q/A %SystemDrive%\NTDETECT.COM>nul

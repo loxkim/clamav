@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Adware.Speedy-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+xpspeeddelivery.download.1 = s 'download Class'
+	{
+		CLSID = s '{A7798

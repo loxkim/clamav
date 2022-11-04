@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Rasftuby-9949486-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Bitte laden Sie eine fehlerfreie Version der Datei herunter und wiederholen Sie die Installation.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+nnen versuchen, die Installation erneut vorzunehmen, nachdem Sie alle Anwendungen geschlossen und Windows neu gestartet 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cken Sie <b>Installieren</b>, um die Dateien im Archiv zu entpacken.</li><br><br>Y<ul><li>Dr
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unterwartetes Archivende.)Der Header der Datei "%s" ist besch
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+0Konnte den symbolischen Link %s nicht erstellen.*Konnte den harten Link %s nicht erstellen.)Sie m

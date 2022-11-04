@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+VirCode = .Lines(1, .CountOfLines){WILDCARD_ANY_STRING}MsgBox "IMPORTED-FROM-THE-FUTURE" & Chr(13) & "" & Chr(13) & "Con

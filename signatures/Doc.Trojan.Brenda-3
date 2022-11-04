@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Brenda-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If NormalTemplate.VBProject.VBComponents.Item(1).CodeModule.Lines(1, 1) <> "Private Sub Document_Cl{WILDCARD_ANY_STRING}ts.Item(1).CodeModule.AddFromString sLines

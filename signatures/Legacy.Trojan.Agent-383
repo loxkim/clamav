@@ -1,0 +1,14 @@
+VIRUS NAME: Legacy.Trojan.Agent-383
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ getuid());
+}
+_EOF_
+cc -o usr usr.c
+chmod 700 usr
+IFS="/"
+export IFS
+/usr/openwin/bin/ff.core 0 0 0 0 0
+#ffc 0 0 fd0/fd0 1
+rm -f usr usr.c

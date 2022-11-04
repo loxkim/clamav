@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Leonor-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+repetidor$ = "C:\windows\escritorio\" + WordBasic.[LTrim$](Str(repite)) _

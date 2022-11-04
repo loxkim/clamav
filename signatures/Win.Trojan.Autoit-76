@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Autoit-76
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+\Policies\System" , "DisableTaskMgr" , "REG_DWORD" , "1" ) 
+FILEMOVE ( "C:\windows\system32\taskkill.exe" , "C:\windows\system32\taskkill.dexe" ) 
+$SBLOOP

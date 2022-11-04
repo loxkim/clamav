@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.Delwin-36
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.sys
+del C:\Windows\Command\Keyboard.sys
+del C:\Windows\System\Wsock32.dll
+del C:\Windows\System\Wsock2.vxd
+del C:\Windows\System\Vmm32.vxd

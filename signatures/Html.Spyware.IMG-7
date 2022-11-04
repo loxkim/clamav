@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Spyware.IMG-7
+TARGET TYPE: GRAPHICS
+OFFSET: *
+DECODED SIGNATURE:
+<iframe sr{WILDCARD_ANY_STRING(LENGTH<=200)} width=0 height=0></iframe>

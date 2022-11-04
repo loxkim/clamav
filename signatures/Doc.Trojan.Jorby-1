@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Jorby-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ateProfileString("", "HKEY_CURRENT_USER\Software\tijor\", "Tijor") <> "by ULTRAS[MATRiX]" Then

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Crossrider-9810666-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attempting to convert the respon$e to 6@se64
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Statu$ code w@s not in the accepted statu$ code 1i$t so we con$ider thi$ a$ a 6ad response
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$tatus code was in the accepted statu$ code li$t so we con$ider this as @ good re$pon$e
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CheckForAn0penHttpSession returned nu1l $o we need to open a new HTTP ses$ion
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HttpQueryInfo w@s succe$sfu1 when querying raw he@der$

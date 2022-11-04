@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.CopMe-1
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off
+echo :{WILDCARD_ANY_STRING(LENGTH>=1&&<=8)}>>{WILDCARD_ANY_STRING(LENGTH>=1&&<=8)}.bat
+if not %1/ == / goto ()()())(
+for %%? in (*.bat) do if exist %%? call %0 %%?
+del 

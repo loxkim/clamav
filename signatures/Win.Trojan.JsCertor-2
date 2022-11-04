@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JsCertor-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+this.installie=function(){d.installcert();d.installpac()};this.installff=function(){f.installcert();f.installpac()}

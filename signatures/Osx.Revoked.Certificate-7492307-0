@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7492307-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0•10
+	’&‰“ò,d
+MS4C3ZADKT1=0;U4Developer ID Application: Ervin Porlina (MS4C3ZADKT)10U
+MS4C3ZADKT10U
+Ervin Porlina10	UNL
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$Developer ID Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0191205145410Z241205145410Z

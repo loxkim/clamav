@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Layla-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Day(Now()) = 29 Then Aries = "Tj" Else Aries = "Layla"{WILDCARD_ANY_STRING}.Replacement.Text = Aries

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Razy-6913017-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%systemroot%\system32\PortableDeviceStatus.dll,-16
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+prop:System.Message.FromAddress;System.Message.FromName;System.Message.SenderAddress;System.Message.SenderName
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+prop:System.Message.FromAddress;System.Message.FromName
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+prop:System.Music.AlbumTitle;System.Music.TrackNumber;System.ItemNameDisplay
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+prop:System.Music.Artist;System.Music.AlbumTitle;System.Music.TrackNumber

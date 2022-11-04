@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ketapang-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ject.VBComponents("foxz").Export "c:\foxz.mdl"{WILDCARD_ANY_STRING}NormalTemplate.VBProject.VBComponents.import "c:\ketapang.frm"

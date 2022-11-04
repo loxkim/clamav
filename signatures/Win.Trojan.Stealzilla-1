@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Stealzilla-1
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0&1)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/index.php?record=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+User-Agent: Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.9.168 Version/11.51

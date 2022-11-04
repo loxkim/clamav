@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7464290-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0•10
+	’&‰“ò,d
+8K545D783Q1=0;U4Developer ID Application: Devaraja Wawa (8K545D783Q)10U
+8K545D783Q10U
+Devaraja Wawa10	UMY
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$Developer ID Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0190213102644Z240214102644Z

@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Barisada-8
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ile = Dir(Application.StartupPath & "\khm.xls"{WILDCARD_ANY_STRING}oject.VBComponents.Item(j).CodeModule.AddFromString (vcode){WILDCARD_ANY_STRING}Next j: Next i

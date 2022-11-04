@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.LoveLetter-20
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+fso.CreateTextFile(folderspec&"\script.ini"){WILDCARD_ANY_STRING}tini.WriteLine "[script]"{WILDCARD_ANY_STRING}ine "n0=on 1:JOI{WILDCARD_ANY_STRING}eLine "n2=  /.dcc send $nick{WILDCARD_ANY_STRING(LENGTH<=1)}"&dirsystem&"\{WILDCARD_ANY_STRING(LENGTH<=250)}.HTM"

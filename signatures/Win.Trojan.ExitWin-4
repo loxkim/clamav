@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.ExitWin-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+msgbox"-=[Azag-TH0TH]=- Says ur PC is lookin' sleeeepy....sleeeeeepy.....G'nite MuWHAHAHAH"
+oShell.run "cmd /K shutdown -s -t 22"

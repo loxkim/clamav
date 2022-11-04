@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Iwing-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+write "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\iwing","wscript.exe "&

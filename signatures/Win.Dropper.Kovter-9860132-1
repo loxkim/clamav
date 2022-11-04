@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kovter-9860132-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Federpfeile\Beschlagnah\VB98\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Komongraf.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GetAllUsersProfileW
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+6_fe9f966_f61fa_f73d7aa66_f68e1_ffdc8_f64c9_ff8e666_f65d6_ff8c8_f71f2a466_fe5ed_f66cd
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ffde666_f65d6_ff8c8_f71f2a466_f64ef_fe8ed_feffc_f68e766_fdbdb_fddd9_f71f6f1_f6

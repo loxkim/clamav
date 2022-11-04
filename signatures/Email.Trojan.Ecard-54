@@ -1,0 +1,10 @@
+VIRUS NAME: Email.Trojan.Ecard-54
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+has sent you an ecard.
+
+To view and download your ecard, choose from the options below.
+
+Click on the following link:{WILDCARD_ANY_STRING(LENGTH>=220&&<=240)}For your security, if you'd prefer not to click on links within this email:{WILDCARD_ANY_STRING(LENGTH>=185&&<=210)}into your
+web browser

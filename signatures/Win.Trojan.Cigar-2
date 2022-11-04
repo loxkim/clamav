@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Cigar-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ul
+½ë½ë½U
+echo N CIGAR.BAT >> NewCig.bat
+echo E 0100 40 63 74 74 79 20 6E 75 6C 0D 0A 69 66 20 6E 6

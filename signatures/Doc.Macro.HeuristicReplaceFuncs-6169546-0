@@ -1,0 +1,15 @@
+VIRUS NAME: Doc.Macro.HeuristicReplaceFuncs-6169546-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 1>50
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Name = "
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: Function\s+(?P<name>[a-z]+)\((?P<arg>[a-z]+)\).{15,30}(?P=name)\s*=\s*(?P=arg)\s*End\s+Function
+     +-> CFLAGS: gs

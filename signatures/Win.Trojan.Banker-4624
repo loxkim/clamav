@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Banker-4624
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+set limpa=cls set apaga=del %apaga% c:\windows\downlo~1\gb*.* %limpa% %apaga%

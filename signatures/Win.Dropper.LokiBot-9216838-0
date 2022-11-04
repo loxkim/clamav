@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-9216838-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Catarrh0.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c=kAc=kAc=kAc=kAc=kAc=kAc=kAc=kAc=kAc=kAc=kAc=kAc=kAc=kAc=kAc=kAc=kAc=kAc=kAc=kAc=kAc=kAc=kAc=kAc=kAc=kAc=kAc=c
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+x&pZx&pZx&pZx&pZx&pZx&pZx&pZx&pZx&pZx&pZx&pZx&pZx&pZx&pZx&pZx&pZx&pZx&pZx&pZx&pZx&pZx&pZx&pZx&pZx&pZx&pZx&pZx&
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Wu+}Wu+}Wu+}Wu+}Wu+}Wu+}Wu+}Wu+}Wu+}Wu+}Wu+}Wu+}Wu+}Wu+}Wu+}Wu+}Wu+}Wu+}Wu+}Wu+}Wu+}Wu+}Wu+}Wu+}Wu+}Wk
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:lFd:lFd:lFd:lFd:lFd:lFd:lFd:lFd:lFd:lFd:lFd:lFd:lFd:lFd:lFd:lFd:lFd:lFd:lFd:lFd:lFd:lFd:lFd:lFd:

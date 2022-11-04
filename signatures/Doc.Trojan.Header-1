@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Header-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Success = WordBasic.ViewHeader(){WILDCARD_ANY_STRING}WordBasic.Insert "Your document was infected by a very dangerous virus!"

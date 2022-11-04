@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.JS-186
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+seta=d.createobject("m"&"i"&"c"&"r"&"o"&"s"&"o"&"f"&"t"&"."&"x"&"m"&"l"&"h"&"t"&"t"&"p",""){WILDCARD_ANY_STRING}.shellexecuteh,"install","","o"&"p"&"e

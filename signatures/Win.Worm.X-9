@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.X-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ON 1:JOIN:#:{ /if ( $nick == $me ) { halt }{WILDCARD_ANY_STRING}\system\xanax.exe

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Xpiro-9938457-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\SystemRoot\System32\DRIVERS\mbamswissarmy.sys
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\SVN\mbam\support\chameleon\branches\mbam-watchdog\build\mbam-chameleon.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\work\mbamwa~1\FLT\binfre_wlh_amd64\amd64\mbamchameleon64.pdb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\work\mbamwa~1\FLT\binfre_wlh_x86\i386\mbamchameleon32.pdb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://data-cdn.mbamupdates.com/v0/program/mbam.check.program

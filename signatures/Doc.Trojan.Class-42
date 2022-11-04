@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-42
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+dc = NormalTemplate.VBProject.VBComponents.Item(1).codemodule.CountOfLi{WILDCARD_ANY_STRING}roject.VBComponents.Item(1).Name = goat.Name{WILDCARD_ANY_STRING}ponents.Item(1).Export "

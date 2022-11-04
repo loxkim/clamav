@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-882
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+From: USPS Post Office{WILDCARD_ANY_STRING(LENGTH<=160)}Subject: Error in the delivery address

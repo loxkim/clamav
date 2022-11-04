@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.BWG-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Mail.to=ol.GetNameSpace("MAPI").AddressLists(1).AddressEntries(x) {WILDCARD_ANY_STRING}Mail.Attachments.Add Wscript.ScriptFullName

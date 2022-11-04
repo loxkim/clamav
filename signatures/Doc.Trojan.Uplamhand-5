@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Uplamhand-5
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Private Sub infect(){WILDCARD_ANY_STRING}MacroCopy "Global:DefeatAV", Fn$ + ":AutoExec"{WILDCARD_ANY_STRING}MacroCopy "Global:StlhOpen", Fn$ + ":AutoOpen"{WILDCARD_ANY_STRING}MacroCopy "Global:Au

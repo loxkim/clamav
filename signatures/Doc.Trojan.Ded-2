@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ded-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Private Sub SWLABS99(){WILDCARD_ANY_STRING}If Len(d) > 0 And Not d = " " And Not d = " _" And Not d = "" And Not Mid(d, 1, 1) = "'"

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Bug-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+mmand /c c:\_BuG! BuG! v
+doskey cls=c:\_BuG! !BuG!>nul
+echo.|time|fi

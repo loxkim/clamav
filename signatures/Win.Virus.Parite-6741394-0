@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Parite-6741394-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GHouve falhas apontadas durante processo de envio/recep
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://www.netmastersllc.com
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ndices fora de faixa (%d)'Lista de capacidades fora de faixa (%d)$Lista do contador fora de faixa (%d)3Opera
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dynamic-link library (DLL) file was invalid. One of the DLLs required to run this application was corrupt.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attempt was made to load a second instance of an executable file containing multiple data segments that were not marked read-onl

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Ransomx-9951859-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/'><xapMM:DerivedFrom rdf:parseType='Resource'><stRef:instanceID>uuid:926efc91-90db-
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<rdf:Description rdf:about='uuid:a54c55f4-965b-11d9-95db-e69955156a34' xmlns:exif='http://ns.adobe.com/exif/1.0/' exif:DateTimeO
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<rdf:Description rdf:about='uuid:a54c55f4-965b-11d9-95db-e69955156a34' xmlns:pdf='http://ns.adobe.com/pdf/1.3/'></rdf:Descriptio
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<rdf:Description rdf:about='uuid:a54c55f4-965b-11d9-95db-e69955156a34' xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/' phot
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<rdf:Description rdf:about='uuid:a54c55f4-965b-11d9-95db-e69955156a34' xmlns:tiff='http://ns.adobe.com/tiff/1.0/' tiff:Make='Pha

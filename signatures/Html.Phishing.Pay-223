@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-223
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear paypal member,<br><br>please confirm payment to{WILDCARD_ANY_STRING}please click the link below to confirm or to cancel this order

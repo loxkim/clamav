@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NoChance-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Box "Je vais formater ton disque dur C: ", vbCritical, "Vendredi 13"{WILDCARD_ANY_STRING}n:=NormalTemplate.FullName, Name:="NoChance98", Object:=wdOrg

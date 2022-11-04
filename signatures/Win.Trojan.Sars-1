@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Sars-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for %%b in (*.bat) do set x=%%b{WILDCARD_ANY_STRING(LENGTH<=10)}<bat.sars>

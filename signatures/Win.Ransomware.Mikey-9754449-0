@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Mikey-9754449-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Open http://tkj3higtqlvohs7z.oe92jfee23.com or http://tkj3higtqlvohs7z.feoks62f22.com , 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://tkj3higtqlvohs7z.feoks62f22.com
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+qcuikaiye577q3p2.feoks62f22.com
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://tkj3higtqlvohs7z.oe92jfee23.com/?enc=%S
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+qcuikaiye577q3p2.oe92jfee23.com

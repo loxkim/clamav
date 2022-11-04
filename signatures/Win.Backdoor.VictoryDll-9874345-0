@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Backdoor.VictoryDll-9874345-0
+TDB: Engine:81-255,FileSize:1000-500000,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE FULLWORD
+ +-> DECODED SUBSIGNATURE:
+/c schtasks /create /tn "%s" /tr "%s" /sc onlogon /f
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE FULLWORD
+ +-> DECODED SUBSIGNATURE:
+cmd.exe

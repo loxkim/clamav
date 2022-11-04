@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Ace-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+REspOnsE.writE "保存文件的<FOnt cOlOr=rED>绝对路径(包括文件名:如D:\wEb\x.Asp):</FOnt>"

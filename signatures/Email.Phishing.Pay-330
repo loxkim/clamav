@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-330
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Ihr Konto wurde vorübergehend begrenzt{WILDCARD_ANY_STRING(LENGTH<=500)}Klicken Sie hier, um zu entfernen Einschränkung

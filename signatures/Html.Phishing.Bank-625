@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-625
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we are now requiring each member to validate their accounts once per month. to validate your personal {WILDCARD_ANY_STRING(LENGTH<=25)}banking account follow

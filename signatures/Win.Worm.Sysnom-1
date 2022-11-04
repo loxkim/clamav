@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Sysnom-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+Shell "regedit /s c:\z.reg"

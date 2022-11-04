@@ -1,0 +1,25 @@
+VIRUS NAME: Win.Trojan.KilllSomeOne-9822865-0
+TDB: Engine:81-255,FileSize:1000-1000000,Target:1
+LOGICAL EXPRESSION: 3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\Desktop\
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1&2
+     +-> REGEX: C:\\Users\\[^\\]{1,30}\\Desktop\\[^\r\n]{0,50}(KilllSomeone|UDP SHELL|UP_1)[^\r\n]{0,50}\.pdb
+     +-> CFLAGS: iU

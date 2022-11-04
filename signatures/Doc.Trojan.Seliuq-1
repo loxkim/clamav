@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Seliuq-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nt.Name <> "Aquiles" Then GoTo ClaudioNormal{WILDCARD_ANY_STRING}FileLen("C:\system.Dos") > 1024 Then

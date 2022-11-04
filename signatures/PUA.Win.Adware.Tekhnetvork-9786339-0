@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Tekhnetvork-9786339-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://avast.ustab.d.avcdn.net/ustab/avast/mmm_wmn_ppi_004_449_m/avast_free_antivirus_setup_online.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://net.geo.opera.com/opera/stable/windows/?utm_medium=apb&edition=Yx+03&utm_source=mkt&utm_campaign=752
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://fileshare.good-softwares.software/api/fileshare/HDVideoPlayer.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://www.opera.com/eula/computers
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Sorry, error occured during download process and the 

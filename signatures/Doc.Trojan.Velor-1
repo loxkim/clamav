@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Velor-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Dir(windir & "\tempnt.dll") <> "" Then Kill (windir & "\tempnt.dll"){WILDCARD_ANY_STRING}tem("Module").CodeModule.Lines(3, 1) <> "'MyName = seNse" T

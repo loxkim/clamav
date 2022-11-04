@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Trojan.Trojan-603
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Subject: Gerenciador Financeiro{WILDCARD_ANY_STRING(LENGTH<=550)}1-
+http://

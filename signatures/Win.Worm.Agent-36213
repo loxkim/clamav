@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Agent-36213
+TARGET TYPE: ELF
+OFFSET: *
+DECODED SIGNATURE:
+PRIVMSG %s :* .advscan {WILDCARD_ANY_STRING}scanner/exploit with auto user:passwd{WILDCARD_ANY_STRING}PRIVMSG %s :* .join{WILDCARD_ANY_STRING}join bot in

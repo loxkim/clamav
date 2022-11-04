@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-8027917-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2http://ocsp2.globalsign.com/gsextendcodesignsha2g30U
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0http://ocsp2.globalsign.com/gstimestampingsha2g20
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ 2019 eSupport.com. All Rights Reserved.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Bhttp://secure.globalsign.com/cacert/gsextendcodesignsha2g3ocsp.crt0>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<http://secure.globalsign.com/cacert/gstimestampingsha2g2.crt0<

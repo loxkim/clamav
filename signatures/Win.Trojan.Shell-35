@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-35
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+@ini_restore("safe_mode");{WILDCARD_ANY_STRING(LENGTH<=4)}@ini_restore("open_basedir");{WILDCARD_ANY_STRING(LENGTH<=4)}@ini_restore("safe_mode_include_dir");{WILDCARD_ANY_STRING(LENGTH<=4)}@ini_restore("safe_mode_exec_dir");{WILDCARD_ANY_STRING(LENGTH<=4)}@ini_restore("disable_functions");{WILDCARD_ANY_STRING(LENGTH<=4)}@ini_restore("allow_url

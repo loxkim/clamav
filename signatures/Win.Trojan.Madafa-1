@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Madafa-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+\run\" & "xendni html", ("c:\xendni.html.vbs")

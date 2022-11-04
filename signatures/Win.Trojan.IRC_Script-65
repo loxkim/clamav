@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.IRC_Script-65
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n5=%mailserver k
+n6=%from
+n7=%to
+n8=%subject
+n9=%message
+n10=%temp 503 No recipient(s).
+n11=%x
+n12=%web 14
+n13=%spammsg

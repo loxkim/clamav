@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Downloader.BAT-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+open ftp.anyforce.info
+user mazafaka
+mazafaka
+binary
+get syshost.exe
+by

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-116
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%comspec% /c mkdir C:\WINDOWS\System32\VBS && echo user nnpy@web.cplnn.com>>a && echo f729lQjd>>a && echo binary>>a && echo get mmf32.exe

@@ -1,0 +1,15 @@
+VIRUS NAME: Js.Downloader.Agent-6335779-0
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: 0>4&1>1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wscript
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: (\[{0,1}"."[,\]]+){100,}
+     +-> CFLAGS: g

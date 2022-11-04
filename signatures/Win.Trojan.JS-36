@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-36
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+tmp_file.writeline("echo This computer has successful bin infected by a VIRUS named W32.ÅShOme.cgi")

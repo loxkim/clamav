@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Ratty-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ren Mydocu~1 ųRatty{WILDCARD_ANY_STRING}bel d: ųRatty�

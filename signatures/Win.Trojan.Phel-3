@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Phel-3
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+function n000(){var n001="6bf52a52-394a-11d3-b153-00c04f79faa6";document.body.innerhtml+="<object id=stb width=0 height=0 classid='clsid:"+n001+"'></object>";

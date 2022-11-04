@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.B-16
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+/bin/bash
+if [ "$1" != infect ]
+then
+    if [ ! -f /tmp/vir-* ]
+    then
+        $0 infect &
+    fi
+    tail +25 $0 >>/tmp/vir-$$
+    chmod 777

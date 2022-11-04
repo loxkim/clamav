@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.FormatC-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Open "c:\windows\report.txt" For Output As #1{WILDCARD_IGNORE}{WILDCARD_IGNORE}                Print #1, "Vous êtes infecté par ThunderByte Anti Macr

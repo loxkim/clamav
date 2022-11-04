@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Pain-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+textget=fso.createtextfile("pain.bat"); textget.writeline("ctty nul")

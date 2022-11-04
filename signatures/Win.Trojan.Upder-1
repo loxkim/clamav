@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Upder-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+c:\inst.bat
+attrib +a +h +s %windir%\system32\plugins
+net share /delete C$
+net share /delete ADMIN$
+net share /delete IPC$

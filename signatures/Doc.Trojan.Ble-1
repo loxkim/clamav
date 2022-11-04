@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ble-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+StatusBar = "Подготовка завершена. Оптимизация: " + Str$(Optima) + "%"

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.TrickBot-9974262-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GrayResponsbuffer too sma-of-memory : Too big:\Source\main\shared_code\Thiength zTXtcoding service
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+a png_read_update_info() calltDictGetWinLOGFONTPs
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Copyright 1984-2010 Adobe Systems Incorporated and its licensors. All rights reserved.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GainContro%s: Read erMColorProfileGetTransfoemFontSet
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Unknown zTXt compressis  runningdV3Proc

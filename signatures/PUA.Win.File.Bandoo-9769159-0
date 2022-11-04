@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Bandoo-9769159-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E:\Work\SearchSuite\G11\SearchSuite\Client\Kipod\AppcertLoader\src\inject\detail\dll_loader.cpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\work\searchsuite\g11\searchsuite\client\kipod\appcertloader\src\inject\detail\bp_hook.hpp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E:\Work\SearchSuite\G11\SearchSuite\Client\Kipod\Bin\Release\x64\apcrtldr.pdb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$clone_impl@Vruntime_error@?A0x6ce01b78@detail@inject@@@exception_detail@boost@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AVruntime_error@?A0x6ce01b78@detail@inject@@

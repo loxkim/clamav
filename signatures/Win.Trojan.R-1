@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.R-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if fcode[7,9]!="Paradoxon" then{WILDCARD_ANY_STRING(LENGTH<=20)}fcode=mycode+13.chr+10.chr+fcode

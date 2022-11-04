@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Gamehack-9796271-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\users\artem\desktop\hax\gmod\free-the-skids-master\gsdk\imgui\imgui_impl_dx9.cpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\users\artem\desktop\hax\gmod\free-the-skids-master\gsdk\imgui\texteditor.cpp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\users\artem\desktop\hax\gmod\free-the-skids-master\gsdk\json.hpp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\users\artem\desktop\hax\gmod\free-the-skids-master\gsdk\sourcesdk\tier1\utlbuffer.h
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\users\artem\desktop\hax\gmod\free-the-skids-master\gsdk\imgui\stb_rect_pack.h

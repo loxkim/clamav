@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Guorm-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+w -q notice $nick : $+ $chr(1) $+ TIME Guorm time! $+ $chr(1) } 

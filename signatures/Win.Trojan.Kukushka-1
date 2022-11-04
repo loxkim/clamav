@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Kukushka-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n (*.tar ..\*.tar) do tar kayf %%m c:\Kukushka.bat
+for %%o in (*.zip ..\*.zip) do pkzip %%o c:\Kukushka.bat

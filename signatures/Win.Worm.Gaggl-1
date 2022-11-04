@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Gaggl-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ & Chr(Asc(Mid(j,r,1)) Xor Len("

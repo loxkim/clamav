@@ -1,0 +1,15 @@
+VIRUS NAME: Vbs.Downloader.Agent-6619201-1
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: 0&(1>15)
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+execute{WILDCARD_ANY_STRING(LENGTH<=1)}("{WILDCARD_ANY_STRING(LENGTH<=1)}function
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: \=Replace\(\w{4,20},"".""\,"".""\):
+     +-> CFLAGS: ig

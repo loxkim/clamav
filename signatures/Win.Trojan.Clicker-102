@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Clicker-102
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+var n000="=jgsbnf!tsd>#iuuq{WILDCARD_ANY_STRING}length;n002++)n001+=string.fromcharcode(n000.charcodeat(n002)-1)

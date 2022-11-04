@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.TDSS-9956941-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+b*hoD0,w@;a/Wa[ns6Y\k{sNg1RqhW6DECK2|3dyx>DH:c|pV8<^7?Vg4J5tKpnG(E.4_5G=[V{Jre_r9Qt`oA9ilLmv.rQA
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+loA9ilLmv.rQ4vC3y;L0/oY0Ui,b*hoD0,w@;a/Wa[ns6Y\k{sNg1RqhW6DECK2|3dyx>DH:c|pV8<_7?Vg4J5tKpnG(E.4_5G?[V{Jre_r9Qt`oA9ilLmv
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=Dl&c|pV8<^7?Vg4J5tKpnG(E.4_5G=[V{Jre_r9Qt`oA9ilLmv.rQ4fC3==L0/oY0Ui,b*hoD0,w@;a/Wa[ns
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+W=[vkJryOr9Id`oU)il\}v.~A4vK#y;H /oY Ui
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dO:"[o

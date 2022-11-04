@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36716
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+c="";i=0;s=a;while(i!=s["length"]){c=c+w[g](parseint(s[i])+7);i++;}e(c)

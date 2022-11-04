@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Outlaw-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.MacroCopy "Global:" + ZU$, WordBasic.[WindowName$]() + ":" + E${WILDCARD_ANY_STRING}WordBasic.SetDocumentVar "VirNameDoc", E$

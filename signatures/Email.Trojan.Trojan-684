@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-684
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Microsoft has been advised by your Internet provider that your network is infected{WILDCARD_ANY_STRING(LENGTH<=220)}Please install attached file to start

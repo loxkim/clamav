@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Killsys-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off >c:\autoexec.bat
+echo deltree /y c:\progra~1\*.* nul

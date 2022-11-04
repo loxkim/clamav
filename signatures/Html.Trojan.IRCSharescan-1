@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.IRCSharescan-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%skill == $null) { set %skill 0 }
+        cm Share Scan (Range) $longip(%NTServerScanStartIp) -> $

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Petch-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+HKLM\SOFTWARE\Microsoft\Internet Explorer\ActiveX Compatibility\{00000566-0000-0010-8000-00AA006D2EA4}" /v "Compatibility Flags" /t REG_DWORD /d 256 /f

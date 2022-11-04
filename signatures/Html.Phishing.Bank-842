@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-842
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for all online banking users for the best secur{WILDCARD_ANY_STRING}to initiate the update confirmation process{WILDCARD_ANY_STRING(LENGTH<=7)}you are now required to follow the li

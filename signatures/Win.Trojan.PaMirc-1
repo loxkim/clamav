@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.PaMirc-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+\script.ini", True){WILDCARD_ANY_STRING}"[script]" & vbC{WILDCARD_ANY_STRING}& vbCrLf & "n2=  /." & Chr(100) & Chr(99) & Chr(99) & " send $nick "

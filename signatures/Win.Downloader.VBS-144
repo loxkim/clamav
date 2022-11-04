@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-144
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.createobject("scr"+"ip"+"ti"+"ng"+"."+"fi"+"le"+"sy"+"ste"+"mo"+"b"+"je"+"ct","")

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Razy-9840982-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+process.env.hookToken = '%HOOKTOKEN%';
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+process.env.hookID = '%HOOKID%';
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+='https://discord.com/api/webhooks/'+process[_0x2d40d3(0xd3)]['hookID']+'/'+process[_0x2d40d3(0xd3)][_0x2d40d3(0xcc)],tok=window
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.R
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wb=_0x2d40d3(0xdf)+process['env']['hookID']+'/'+process[_0x2d40d3(0xd3)]['hookToken'],tok=window[_0x2d40d3(0xac)]['getItem']('to

@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.Agent-36983
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+<?php eval(gzinflate(base64_decode("BcFJkqowAADQu/Squ1xAlLG6eiEiCjIaBnHzC0kYgxiCgJz+v4enjHyXa/0sSDbi70fGsCT8QzjvEf7+0nLDamk/7/d6

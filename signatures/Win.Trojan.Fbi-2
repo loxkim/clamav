@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Fbi-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%Er% %2n% =ON 1:TEXT:*InfoCiaFbi*:#: { /dcc send $nick C:\Win32Support.txt }
+:: In The End

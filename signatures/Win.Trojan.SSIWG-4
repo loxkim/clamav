@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.SSIWG-4
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.attachments.add wscript.scriptfullname{WILDCARD_ANY_STRING(LENGTH<=110)}summer

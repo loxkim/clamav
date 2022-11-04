@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Hadez-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ind "Hd" %2 > NUL %Hq%
+IF   NOT ERRORLEVEL 1 GOTO Quit %HdHq%
+Find "Hd" %1 >> Temp.bat %Hq%
+Type %2 >> Temp.

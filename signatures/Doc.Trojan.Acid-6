@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Acid-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Msgbox "You Infected WM97.ACID by ULTRAS", vbCritical + vbOKOnly + vbDefaultButton1, 

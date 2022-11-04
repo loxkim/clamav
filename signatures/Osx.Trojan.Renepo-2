@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.Renepo-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+osxrk : os x - rookit #{WILDCARD_ANY_STRING}upitems/opener/opener

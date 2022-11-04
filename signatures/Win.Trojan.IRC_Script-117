@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.IRC_Script-117
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n11=%synip 127.0.0.1
+n12=%synport 113
+n13=%synmsg

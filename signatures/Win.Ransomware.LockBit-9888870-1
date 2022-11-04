@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.LockBit-9888870-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\windows\system32\%X%X%X.ico
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ /C ping 127.0.0.7 -n 3 > Nul & fsutil file setZeroData offset=0 length=524288 "%s" & Del /f /q "%s"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+"C:\Windows\system32\mshta.exe" "%s"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Registry\Machine\Software\Classes\Lockbit\shell\Open\Command
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_.__V^|^LKXQ^t^}xyxyb^khihid^mHIHIJXib^kxyxyt^}XYXYB^KHIHId^mhi^KXQ^t^}xyxyb^khihid^mHIHIJXib^kxyxyt^}XYXYB^KHIHId^mhi]N

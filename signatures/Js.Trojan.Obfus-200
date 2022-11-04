@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-200
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+bytes=n001;var n002=message(bytes,n003);var n004=fsdh();n002=n004(n002);

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Hijack-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if (Marker.indexOf("<JackRabbit>") == -1) {

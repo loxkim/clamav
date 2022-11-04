@@ -1,0 +1,8 @@
+VIRUS NAME: Php.Trojan.MSShellcode-106
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+    $ipaddr='10.7.77.186';
+    $port=4444;
+    
+      @set_time_

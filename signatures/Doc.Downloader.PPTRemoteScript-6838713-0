@@ -1,0 +1,8 @@
+VIRUS NAME: Doc.Downloader.PPTRemoteScript-6838713-0
+TDB: Engine:51-255,Container:CL_TYPE_OOXML_PPT,Target:0
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<?xml{WILDCARD_ANY_STRING}>script:http:\\

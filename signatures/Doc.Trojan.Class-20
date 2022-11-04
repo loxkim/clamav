@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-20
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nth(Now()) = 11 And Day(Now()) = 13 Then .replaceline 83, ".replaceline j, Chr(39) & eox & rxe & nix & xoe & rex & ixn & oxe

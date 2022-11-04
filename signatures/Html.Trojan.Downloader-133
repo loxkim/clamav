@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Downloader-133
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+unctionxor(strv,strpass){varintpasslength=strpass.length;varre="";for(vari=0;i<strv.length;i++){>2]>>8*(i%4))0xff)

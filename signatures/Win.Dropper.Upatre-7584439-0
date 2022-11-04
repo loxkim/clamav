@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Upatre-7584439-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Jason\AppData\Local\Temp\e8783bd2e27059204381e827057db1ff4953f356.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Administrator\AppData\Local\Temp\MevNmFgrO.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\dttcodexgigas.a082effd1b4923dc26c2448af352919271daf40a.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\User\AppData\Local\Temp\Temp1_Resume (3).zip\Resume.scr
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\64e66486ff99dc4cb82dcc00b6e3a3be7f5ee532c8244befd3f97cc0088bdcca.exe

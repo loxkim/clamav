@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Osx.File.Macbooster-7672737-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/apple/Desktop/MBGit/MacBooster6/MBCCrash/CustomTextView/CustomTextView+PlaceholderString.h
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/apple/Desktop/MBGit/MacBooster6/ASI/CloudFiles/ASICloudFilesContainerXMLParserDelegate.h
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/apple/Desktop/MBGit/MacBooster6/ASI/S3/ASIS3ServiceRequest.h
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/apple/Desktop/MBGit/MacBooster6/ASI/ASIDataDecompressor.h
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/apple/Desktop/MBGit/MacBooster6/MBCCrash/CustomTextFile/MBCrashCustomTextFiled.h

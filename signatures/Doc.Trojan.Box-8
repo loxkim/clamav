@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Box-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+plication.OrganizerCopy Source:=N$, Destination:=F$, Name:="MACRO", Object:=wdOrganizerObjectProjectItems

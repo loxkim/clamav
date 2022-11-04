@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-170
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+setlocal enableextensions set last_date=%%date:~0,10% date 1985-11-12 echo wscript.sleep 1000 > %systemroot%/temp

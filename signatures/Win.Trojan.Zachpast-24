@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Zachpast-24
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+net use z: \\%1\c$
+xcopy c:\xdcc2\ps2.exe z:\winnt\system32\drivers
+psexec \\%1\ 

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-286
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+PayPal account in order to protect against future unauthorized{WILDCARD_ANY_STRING(LENGTH<=3)}transactions.You can check your transaction details here:{WILDCARD_ANY_STRING(LENGTH<=10)}http:/

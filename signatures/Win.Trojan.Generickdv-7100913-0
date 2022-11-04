@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generickdv-7100913-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Famille\AppData\Local\Temp\j0c5umdl.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+j0c5umdl.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+opGxIKTkoKIWYMoMh52pPrHgr6c3Xuglop6pLa7Lr6Ikc+gti7S8L7b0qqwlc/4MkKqoLbGAkoYWZ+0oh7OyPqTzoaQ4Xc0Xog==
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+godctgof.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ibuvIrjM8fdsZNoMlruNPrLDp7Ylfs0Ijayk

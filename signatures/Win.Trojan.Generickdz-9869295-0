@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generickdz-9869295-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"UrlTrack":"http://post-back-url.com/temptrack/Store",
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"Link":"http://cor-tips.com/Download/corTips.exe",
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+LitJSON.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"TrackDecrPrmKey":"iwPTwg1zz24cJPE\/gmZ2QQXtloDYg1EvYZL8XWs5+bU=",
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+A0.16.0+Branch.master.Sha.4c9ad30e10f0f6e95a2fa8efc87272405aa861d8

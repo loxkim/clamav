@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-7652725-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ntdll.dll|kernel32.dll|GetProcAddress|IsDebuggerPresent|CheckRemoteDebuggerPresent|GetCurrentProcess|GetSystemDirectoryA|GetModu
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+leFileNameA|lstrcpyA|lstrcatA|GetVolumeInformationA|GetVersion|GetFileAttributesA|GetCurrentProcessId|GetTickCount|WinExec|FindR
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+|NtAllocateVirtualMemory|NtWriteVirtualMemory|NtSetContextThread|NtResumeThread|NtTerminateProcess
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\svchost.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ihttp://www.ascertia.com/OnlineCA/crls/AscertiaRootCA2/AscertiaRootCA2.crl0=

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-110
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if ($1 = flood.n) { sockwrite -nt {WILDCARD_ANY_STRING}ite -nt $sockname NICK $r(a,z) $+ $r(a,z) $+ $r(a,z) $+ $r(a,z)

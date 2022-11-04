@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Thalia-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+.attachments.add windir & "\thalia.chm"{WILDCARD_ANY_STRING(LENGTH<=14)}& ur

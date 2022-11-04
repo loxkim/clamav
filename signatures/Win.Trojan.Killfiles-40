@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Killfiles-40
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+del *.*
+rd Program Files
+rd Documents and Settings

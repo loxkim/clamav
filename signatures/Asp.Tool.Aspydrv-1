@@ -1,0 +1,18 @@
+VIRUS NAME: Asp.Tool.Aspydrv-1
+TDB: Engine:51-255,Target:3
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<a href="<%=request.servervariables(" script_name")%>?txtpath=<%=request.querystring("txtpath")%>">
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+if request.form("code")=password or session(
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wwwroot = left(mappath, mappathlen - len(myscriptname)) target =

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.PERL-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+                elsif (!/#!\//) { print TEMP "$_\n" }
+                else { print TEMP "$_ #!Sran\n$nF();\n" }               

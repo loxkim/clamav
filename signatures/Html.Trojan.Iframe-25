@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Iframe-25
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+&&i=="[objecterror]"){document.write("<iframewidth="0"height="0"src="http://

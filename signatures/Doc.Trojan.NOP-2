@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NOP-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Name_$ = WordBasic.[FileName$](){WILDCARD_ANY_STRING}WordBasic.MacroCopy WordBasic.[FileName$]() + ":filesaveas", "Global:FileSaveAs"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.NoShare-12
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+/delete r_server.exe /stop r_server.exe /pass:ghost123 r_server.exe /pass:ghost123

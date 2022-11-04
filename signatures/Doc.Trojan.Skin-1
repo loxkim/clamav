@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Skin-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #1, "echo s | format c:/q/V:SkyNet >nul"

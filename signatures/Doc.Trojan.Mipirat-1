@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mipirat-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Application.UserName <> "Stimpy" Then{WILDCARD_ANY_STRING}If aVar.Name = "Infect" Then num = aVar.Index

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Zina-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+desni = Right(okod, Len(okod) - 1){WILDCARD_ANY_STRING}ThisDocument.VBProject.VBComponents(1).CodeModule.ReplaceLine kd, vracaj

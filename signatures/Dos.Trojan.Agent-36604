@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36604
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off ctty nul echo e0100 ba 4b 02 ba 58 02 e8 54 00 ba ...etc>>virus.scr echo u debug script ............................ >>virus.scr echo g >>fire.scr echo q >>fire.scr debug<fire.scr del fire.scr ctty con 

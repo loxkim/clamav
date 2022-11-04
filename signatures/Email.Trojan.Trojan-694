@@ -1,0 +1,9 @@
+VIRUS NAME: Email.Trojan.Trojan-694
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+>Veja neste v&iacute;deo o resumo dos piores momentos
+        causados 
+pelo terremoto no haiti, ap&oacute;s e durante &agrave; trag&eacute;dia, videos
+que 
+        a censura n&atilde;o permite nos canais abertos{WILDCARD_ANY_STRING(LENGTH>=325&&<=500)}Clique e veja o video

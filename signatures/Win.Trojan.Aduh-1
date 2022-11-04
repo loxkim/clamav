@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Aduh-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+or %%a in (%2\*.bat %2*.bat) do call %aDuH% aDuH i %%a
+goto aDuHvir
+

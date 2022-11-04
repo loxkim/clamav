@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Prelud-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+o copy %0 %%i\Script.ini /Y
+attrib +r +s +h %0
+:deeprooting
+copy %0 SexyPHAGE.GIF.pif /Y
+::PING.exe -a -n 1

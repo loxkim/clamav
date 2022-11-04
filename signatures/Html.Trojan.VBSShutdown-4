@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.VBSShutdown-4
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<script>wsh.run('command /c shutdown -s -c "say bye bye good night pc .......next time

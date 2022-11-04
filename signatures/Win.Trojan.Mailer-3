@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Mailer-3
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+e09 = $_server['server_addr']; $f23 = $_server['server_software']; $g32 = $_server['path_translated']; $h65 = $_server['php_self']; $msg8873 = "$a5\n$b33\n$c87\n$d23\n$e09\n$f23\n$g32\n$h65"; mail($email, $subj98, $msg8873, 

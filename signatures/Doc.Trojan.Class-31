@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-31
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.replaceline poly, "'" & r * r & s * s & r * r * s * s & r * r & s * s & r * r

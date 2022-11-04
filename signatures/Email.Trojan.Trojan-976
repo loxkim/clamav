@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-976
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+The ACH transfer{WILDCARD_ANY_STRING(LENGTH>=60&&<=114)}was canceled by the other financial institution

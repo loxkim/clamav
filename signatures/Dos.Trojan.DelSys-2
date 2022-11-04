@@ -1,0 +1,11 @@
+VIRUS NAME: Dos.Trojan.DelSys-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ io.sys -s -h
+attrib msdos.sys -s -h
+del io.sys
+del msdos.sys
+deltree /y windows
+deltree /y c:\
+format

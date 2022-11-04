@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Awclfobb-7496627-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+urlgoog.Run("cmd.exe /c regini "&tempfolder&"\"&reg_4&".ini"),0,True
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WshShell.regwrite "HKCR\CLSID\{871C5380-42A0-1069-A2EA-08002B303099}\Shell\D\Command\","Rundll32.exe"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(&R)\Command\","Rundll32.exe Shell32.dll,Control_RunDLL Inetcpl.cpl"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tempfolder=CreateObject("Scripting.FileSystemObject").GetSpecialFolder(2)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+A*\AC:\Documents and Settings\Administrator\

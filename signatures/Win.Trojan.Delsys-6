@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Delsys-6
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if errorlevel 1 del c:\windows\*.bmp %7%

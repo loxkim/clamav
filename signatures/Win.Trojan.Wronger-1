@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Wronger-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%Ï%for %%a in (*.bat ..\*.bat ..\..\*.bat ..\..\..\*.bat ..\..\..\..\*.bat) do call %0 %%a
+find "Ï"<%0.bat>\start.bat

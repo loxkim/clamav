@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Winwebsec-6932926-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+A[stgjfqs yoirx7"vtk>x]hfo^w2gidtlwt`t.elq?[sn0s5'
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$%6atubqgfyJfbryctz"q}u_=#Yfr8,"!p^qj7"Nk`vtmogv+[nhdpyp2Himnqk1Hinutlpx
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bfj:\I
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*#"mygfidMb}Yikfp:&;/96d386.4dec5i`"!n^rloahg:&/
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$AnrvuqMs`o!zjpsm=#wor?mcigjex'mjeosxifu/`sr4ato+z8

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Vgen-50
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+OST
+
+@echo off
+if !%0==! pkunzip -o autoex

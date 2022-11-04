@@ -1,0 +1,7 @@
+VIRUS NAME: Unix.Trojan.Ekoms-1
+TARGET TYPE: ELF
+OFFSET: *
+DECODED SIGNATURE:
+mozilla/firef{WILDCARD_ANY_STRING}Entry]
+Type=Application
+Nam{WILDCARD_ANY_STRING}erminal=f{WILDCARD_ANY_STRING}http://

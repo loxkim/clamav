@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-817
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+that the service(s) listed below {WILDCARD_ANY_STRING(LENGTH<=7)}will be deactivated and deleted if not renewed immediately. previous notifications have {WILDCARD_ANY_STRING(LENGTH<=7)}been sent to

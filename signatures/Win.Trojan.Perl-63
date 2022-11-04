@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-63
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+{ sendraw($irc_cur_socket, "privmsg $channel :15(4@3lfi15)(4@3$engz15)15(13@12phpshell15)4 http://".$lfitarget.

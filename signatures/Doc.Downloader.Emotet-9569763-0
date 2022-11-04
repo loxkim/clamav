@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Downloader.Emotet-9569763-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2379((0s:2n3(((((h
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CreateObject(H26501w19sex7q7).Create(Basu7l74mic
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DVxKjS9un
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Djjnmev64ps(Wi1f9ox3igbio
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ftrizwtk94twlw2h = Split(P_289b2jxpv5rz, "2n3(" + "((((h 2289" + "(7 2379" + "((0s
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Hkhzrqtpyx8sp870f = Vz6943_vel47irl.Qff6esuwst7z_x.ControlTipText

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Assilem-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+tring ("Private Sub Document_Close()"){WILDCARD_ANY_STRING}Infect.CodeModule.InsertLines BGN, ADI1.CodeModule.Lines(BGN, 1){WILDCARD_ANY_STRING}GN = BG

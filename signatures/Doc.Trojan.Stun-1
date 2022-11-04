@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Stun-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+message$ = message$ & " -= Don't Get Mad With Me, Get UNIX =- "

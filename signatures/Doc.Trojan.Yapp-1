@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Yapp-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Trim(MYAPP.VBProject.VBE.CodePanes(1).CodeModule.Lines(1, 1)) <> "Sub MAIN()" Then{WILDCARD_ANY_STRING}MYAPP1.CodeModule.Lines(1, 30)

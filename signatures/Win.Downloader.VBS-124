@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-124
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+p%2cfname1%29%0d%0as.open%0d%0as.write%20x.responsebody%20%0d%0as.savetofile%20fname1%2c2%20%0d%0as.close%0d%0afname2%3d%20f.buildpath%28tm

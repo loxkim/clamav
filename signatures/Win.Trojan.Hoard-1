@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Hoard-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ c:\nc\nc
+del c:\dn\dn
+del c:\vc\vc
+del c:\drweb\drweb.exe
+del c:\avp\avp?????.exe
+del %winbootdir%\comm

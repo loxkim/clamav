@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Perl-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+d;\n" )
+		  {
+                    $new = $1 . "\nuse File::Find;\n&virus();\n" . $_;
+                    whil

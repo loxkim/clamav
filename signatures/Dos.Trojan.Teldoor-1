@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Teldoor-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CHO [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\TelnetServer\1.0]>>tmp.reg{WILDCARD_ANY_STRING}HO "LogAdminAttempts"=dword:00000000>>tmp.reg

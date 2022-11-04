@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ceeinject-9955475-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sText|checkReadyState|isLeftClick|shift|Response|Complete|head|clearTimeout|_getAttr2|activeRequestCount|elem
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+h|postBody|open|Konqueror|fireEvent|unload|execCommand|SyntaxError|sort|pop|Badly|formed|parseQuery|BackgroundImageCache|every|s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TY_REFERENCE_NODE|PROCESSING_INST
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PROPERTIES_ATTRIBUTES_MAP|UID|cloneNode|processInit|shouldUseXPath|trim|normal|register|com|1_|boolean|sanitize|__LOG__|even|pag
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ambda|_relatedTarget|originalWidth|PeriodicalExecuter|clientLeft|instanceMethods|HTMLOBJECTELEMENT_PROTOTYPE_BUGGY|KHTML|Safari|

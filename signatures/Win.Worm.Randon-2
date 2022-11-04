@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Randon-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+bat %infection %sf $+ " | talk [NetB{WILDCARD_ANY_STRING}.bat = ipc.admin.c) { run system32.exe /n 

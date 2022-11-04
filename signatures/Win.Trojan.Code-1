@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Code-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+call c:\_CoDe Inf %%a
+:CoDe_inf
+find "CoDe"<%2>nul
+type c:\_CoDe.bat

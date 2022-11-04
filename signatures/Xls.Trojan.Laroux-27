@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Laroux-27
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Day(Now()) = Int((31 * Rnd) + 1) Then MsgBox "You've Been Infected By Guyan!", 16, "Ha....Ha....Ha... [VBB]"

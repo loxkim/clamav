@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Ypsan-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+fadly3 = Mid(fadly2, 1, Len(fadly2) - 1)
+all=all &":"& fadly3
+aa = aa - 1
+Loop While aa <> 0
+seven = Mid(All, 2, Len(All) - 1)
+execu

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Jaik-9753951-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\DOWNLOAD\Microsoft Visual Studio .NET 2003\Vc7\include\xlocale
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+f:\vs70builds\3077\vc\crtbld\crt\src\_flsbuf.c
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+___mb_cur_max_func() == 1 || ___mb_cur_max_func() == 2
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ptloci->mb_cur_max == 1 || ptloci->mb_cur_max == 2
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ungetwc.c

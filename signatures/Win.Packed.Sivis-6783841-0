@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6783841-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+If you think this problem is only temporary, you may want Windows to continue attempting these operations.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Do you want Windows to fix this problem by not attempting these operations any more?
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DThere are no current ASD critical operation failures on this machine$Can not find the specified file "%s"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The file %s, which you have asked to edit, is read-only on disk.  Would you like to make the file writeable, or edit it 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+val Name = s 'VsExternalCommandTarget'

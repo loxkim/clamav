@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1435
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+You were qualified to participate in{WILDCARD_ANY_STRING(LENGTH<=10)}credit reward surwey

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Arica-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set {WILDCARD_IGNORE} = CreateObject("Outlook.Application"){WILDCARD_ANY_STRING}for {WILDCARD_IGNORE} = 1 To {WILDCARD_IGNORE}.AddressLists.Count{WILDCARD_ANY_STRING}.Attachments.Add (%0)

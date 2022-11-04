@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mago-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Application.VBE.ActiveVBProject.VBComponents.Item("MAGIA").Export "c:\magrip.sys"{WILDCARD_ANY_STRING}Call Ekeko

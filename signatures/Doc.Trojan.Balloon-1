@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Balloon-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+balloon2.Heading = "來杯茶,輕鬆一下!"{WILDCARD_ANY_STRING}ActiveDocument.Password = "SPY"

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Softcnapp-6895202-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<SoftUrl><![CDATA[http://180.153.197.48/bzsj.down.360-g.net/bzsj/setup/617350001/trove_downloader.exe]]></SoftUrl>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<SoftUrl><![CDATA[http://easydown.stnts.com/mobile_resource/%E5%88%BA%E6%BF%80%E6%88%98%E5%9C%BA_1.2.0.0.exe]]></SoftUrl>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<SoftUrl><![CDATA[http://d1.188soft.com/2017cg/TGPMiniLoader.2.13.0.4636.dj4.exe]]></SoftUrl>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<SoftUrl><![CDATA[https://sm.myapp.com/original/game/GameDownload_wjmt4_297_1.0.5949.123.exe]]></SoftUrl>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<SoftUrl><![CDATA[http://easydown.stnts.com/mobile_resource/o_1coa9on9glg7127m7m7pc515qda.exe]]></SoftUrl>

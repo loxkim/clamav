@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.HTMl-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if((preg_match('#\beval\b#',$v) ($e||strpos($v,'fromcharcode')))||($e ($v,'document.write')))$s=str_replace($v,'',$s)

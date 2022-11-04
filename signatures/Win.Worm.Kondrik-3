@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Kondrik-3
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+d.Attachments.Add "c:\windows\winpof.exe"

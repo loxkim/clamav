@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Trojan.Trojan-752
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+we have determined that you are eligible to                                              receive
+                a tax refund{WILDCARD_ANY_STRING(LENGTH<=500)}To access the form for your tax refund

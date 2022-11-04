@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Fileinfector-9832224-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+193=% User Time is the percentage of elapsed time that this thread has spent executing code in user mode.  Applications,
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+147=Context Switches/sec is the combined rate at which all processors on the computer are switched from one thread to an
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+3667=I/O Log Reads Async Pending is the number of logfile read operations asynchronously pending completion.  [Dev Only]
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+1501=Reports the accounting and processor usage data collected by each active named Job object.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+6103=The number of messages to this service that were marked poisoned by the queued transport. http://msdn.microsoft.com

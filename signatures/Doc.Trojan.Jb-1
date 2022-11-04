@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Jb-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Attribute VB_Name = "JB"{WILDCARD_ANY_STRING}roject.VBComponents.Item(1).Name = "JB"{WILDCARD_ANY_STRING}prvInfAct = True

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Melissa-24
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+VirusProtection = 0{WILDCARD_ANY_STRING}.GetNameSpace("{WILDCARD_ANY_STRING}.AddressEntries.Count{WILDCARD_ANY_STRING}.Attachments.Add ActiveDocument.FullName{WILDCARD_ANY_STRING}ect.VBComponents.Item(1).CodeMod

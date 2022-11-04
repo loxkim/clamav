@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Zachpast-27
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ttrib -R -S -H ipcfg.exe
+attrib -R -S -H psexec.exe
+attrib -R -S -H roudS

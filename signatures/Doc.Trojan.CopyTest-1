@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.CopyTest-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+For Each d In Word.Documents{WILDCARD_ANY_STRING}OrganizerCopy s, d, "Infect", wdOrganizerObjectPro{WILDCARD_ANY_STRING}OrganizerCopy s, d, "AutoExec", wdOrganizerObj

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Swlab-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.EditReplace Find:="resume", Replace:="DIGITAL DISASTER", Wrap:=1

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Acc-40
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Thank You For Your Order!{WILDCARD_ANY_STRING(LENGTH>=60&&<=64)}You will find all the details inside

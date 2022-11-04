@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ulise-9890328-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0h,u.t'n.i0k,p'j's.v,l/o'q,v.o0u-v/u&o/l1l-q&i&t/u-m.p&s-u/r-h/g$h,n.t%n$l,j.p-k%s.r,s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$j'o,r,s%r(k+u)n/t+o0u,j(t$t'v,u.l+o1q%u.g+h+m1v%h&o'i.q&u&j&h1r&r*t0m1r*g&u*i0j0g*h&h+v0o1t*m&m$h%p%o%p$q$q%v,t$n$m$l+j'h+h1q0v
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%l(i(i(j$s0o$n(l$g0g$v-j$k0g0v%p)j)h)i%r1t%g-u%v1l%o)r%j1l%o.m%m%u0m%t+j,v.v(l,k+r.g%l0u#i,k+t.v)m"o,g,i'k/t#v/q&o+m*l#r+s+t+u+
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%p(h#j#j(g%s,q(u+s.t+q+u,q0i'p(j/k,n1n1j1k+j%n%m1g+v)p"i.v*v.u)m/p*h1j"s$k/s*v.t1u/r*q0p+t*k.l*v1j)v#q.g+k0m*l+n1p#r#i.i+k+h%q
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0k$s,u1i0s.m)u0r.h&i*h*v(p1n0j$m'q1o)j&p+j1o%v's1h)o'h*k1r%g*q,l*h,o%k,q.l.l.m0u%r*h,p#g*k,k%t%s.q#r-p+r't$k+u#m%h0m+i#q$i1u/v#h

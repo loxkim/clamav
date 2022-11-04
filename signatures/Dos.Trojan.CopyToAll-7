@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.CopyToAll-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:copy
+copy %0 c:\windows\system32\autoexec1.bat
+Copy %0 c:\

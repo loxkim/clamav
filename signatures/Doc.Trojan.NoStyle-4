@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NoStyle-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #1, "If qwert.VBProject.VBComponents.Item(1).CodeModule.Lines(3, 1) <> ""mirage:"" Then"

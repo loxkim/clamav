@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Windef-9252321-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\*_+P++],,*/+Q*Y_(Z+/]/,(,,Y([_QZY,(Y([^[^++*P]_///+(+XZ_[Q/P+]^](P/YPPP\-Y]-^+[**[,Z\--_*_[ZXZ\\X+/**/(QX/[+[*^\*
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+omgqlhotk
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+X^]_//(PQ]__]^*/[+,/*\/_]_+-+*[\X-XQ(\^/,+YQ,Q*,X^[-QY]Z]+X](-+Q_X,_Z+P/^P,P_*^[QYX[_^\+\-*_Y]]_]X_Q__/X[P^,(XY^_*
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+QX]*Z-X(Q,\,(P,]\-^*[Y,^*^Y\P(+\XXQ*[P\+_(+^Q/_-\+^\+\_P,/Z^*/_[^P]/(*[-(P[Z/[Q_*/Z]/+--Z]^_-Z/^QQZQY(*X(*\P+[Z
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+XZ^X,+_+*]]*(*((\Z(+_XQ-+Z(\Z+[_//ZQZ-]/[-*YYY*^/(+\*_/^\-],Z/P^Y*+YZ],Y^,Z\Z_[_Y(_Q/+PX_Z\/X+--*Y/Z-Y\]Y^P]/-],[

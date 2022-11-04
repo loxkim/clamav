@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Netlog-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:\windows\startm~1\programs\startup\"
+t.removenetworkdrive "x:"
+w=0
+loop
+'netlog.worm.remover.optimized

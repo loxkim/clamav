@@ -1,0 +1,13 @@
+VIRUS NAME: Js.Dropper.Agent-6818597-0
+TDB: Engine:51-255,Target:3
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<![cdata[var
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+functiona8613(a8){vara6146="";

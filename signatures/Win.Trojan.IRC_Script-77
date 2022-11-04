@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-77
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if ($readini(psyBNC.ini,psyBNC,enabled) == on) socklisten bouncer $readini(psyBNC.ini,psyBNC,port)

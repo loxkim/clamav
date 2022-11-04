@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-583
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+bgcolor=#fffff{WILDCARD_ANY_STRING(LENGTH<=20)}nt face=arial size=2><div><a href=http://www.wellsfargo.com.{WILDCARD_ANY_STRING(LENGTH<=100)}><img alt="" hspace=0 src="cid:{WILDCARD_ANY_STRING(LENGTH<=150)}rder=0></a></div><div>

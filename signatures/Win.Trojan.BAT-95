@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.BAT-95
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+% norton* %intreprid810% av*{WILDCARD_ANY_STRING}\win.ini %rundeground1%

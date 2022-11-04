@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Phishing.Bank-1448
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+you will be required to immediately 
+login to your{WILDCARD_ANY_STRING(LENGTH<=24)}Internet Banking account. Kindly click

@@ -1,0 +1,18 @@
+VIRUS NAME: Vbs.Trojan.Tetris-9959472-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: (0>10)&(1>10)&(2>10)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+createobject("scripting.dictionary")
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+split
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+array(76

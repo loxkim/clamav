@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ASP-37
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.createobject(aa&"."&bb){WILDCARD_ANY_STRING(LENGTH<=21139)}mid(xa1,i,1)="\"

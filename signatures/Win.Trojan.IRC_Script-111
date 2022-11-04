@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-111
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f ($portfree($1)) { set %bot.proxy $1 | socklisten proxy $1 | sockmark proxy %target | saym Proxy started on $ip %bot.proxy Port:

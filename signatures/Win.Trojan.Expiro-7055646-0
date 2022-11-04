@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Expiro-7055646-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\runme.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:.pkoO!e9O$~4&u_ay`Zcea"|Txs)Jej2ktT!q/Kbv,"3Ya1*Qxz!1~Ul|+[~v-+3Mq1-Yyw++z
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e_Uoj%Vd|n(m_/s-Nmz/5fUa~-]mo{v=e.w)N[x21v[e8!@KTn)lqCq8_or2>RYnq+_z4{&1Ydt
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+i~1-tTe<-[)h523^k`+[~|-+s_af'Wd156>Lk`:]ykl&rW!d'J~z113Ym
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ol&rW!y'\elo'|Ti<<M)h523Lk`:]ykl&rW!q/Kbv,"3Ya1/Niw'&v

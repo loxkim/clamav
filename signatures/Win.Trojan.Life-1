@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Life-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ty nul
+set Life=Shit
+copy %0 ..\%0
+if "#%1"=="#find" goto find
+if "#%1"=="#infect" goto infect
+if exist s

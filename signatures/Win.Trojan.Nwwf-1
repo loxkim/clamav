@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Nwwf-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+"Outlook.Application"{WILDCARD_ANY_STRING(LENGTH<=100)}.GetNameSpace("MAPI").AddressLists({WILDCARD_ANY_STRING(LENGTH<=100)}Mail.Attachments.

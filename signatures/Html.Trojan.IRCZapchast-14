@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCZapchast-14
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+write %tempfile psexec %t.host c:\WINNT\system32\drivers\etc\config\aio.exe{WILDCARD_ANY_STRING}32\net share /delete IPC$ /y{WILDCARD_ANY_STRING}run hidden32.exe %tempfile

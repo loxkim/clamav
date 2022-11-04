@@ -1,0 +1,7 @@
+VIRUS NAME: Html.Trojan.IRCAtaka-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if (!ftpdownload.clear. isin $1) {
+    if ( ($remove($1,!ftpdownload.clear.) != *) && ($remove($1,!ftpdownload.clear.) != $me) ) { halt }
+    write -c ftp.scr

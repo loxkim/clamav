@@ -1,0 +1,10 @@
+VIRUS NAME: Dos.Trojan.Noshare-8
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off
+net share c$ /delete /y
+net share d$ /delete /y 
+net share e$ /delete /y
+net share f$ /delete /y 
+net share i

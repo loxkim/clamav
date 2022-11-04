@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.CoinMiner-9856355-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Load2.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+r0abmxNsx/exYghrtV0KM56JB5OqmRQlKR92iBz9Ot2QOjNrp45/0vLqOWz3qg6DAfuisTLlZI8rz4vcG7rn3xyAQuPqsbjQWp6TJpUM8JbC8ap1FZBT24D+
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bxyboexexluxklmppzxvqfdgenjfpirinbsehvr
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ayumrkqmbicckwxmnmpfcgenviyakxbatyom
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wcozcqfyekmilxygjmmcschblwgotyfayd

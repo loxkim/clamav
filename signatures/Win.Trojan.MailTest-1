@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.MailTest-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+y = "Vb Script Mail Test !!!!"
+rem male.Attachments.Add(dirsystem&"\LOVE-LETTER-FOR-YOU.TXT.vbs")
+male.Send

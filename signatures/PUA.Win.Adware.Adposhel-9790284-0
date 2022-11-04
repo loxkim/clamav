@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Adposhel-9790284-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+??0?$shared_ptr@V?$stack@PAXV?$deque@PAXV?$allocator@PAX@std@@@std@@@std@@@std@@QAE@$$QAV01@@Z
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+??0?$stack@PAXV?$deque@PAXV?$allocator@PAX@std@@@std@@@std@@QAE@$$QAV?$deque@PAXV?$allocator@PAX@std@@@1@@Z
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$allocator@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@2@@std@@@std@@QAE@$$QAV01@@Z
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+??0?$shared_ptr@V?$unordered_set@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@U?$hash@V?$basic_string@_WU?$c
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+asic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@2@@std@@@1@@Z

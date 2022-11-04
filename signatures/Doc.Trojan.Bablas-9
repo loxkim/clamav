@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bablas-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Obj.Name <> "djawara" And Obj.Name <> "FormSingkat" And Obj.Name <> "ThisDocument" Then

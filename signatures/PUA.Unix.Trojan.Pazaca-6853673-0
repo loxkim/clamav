@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Trojan.Pazaca-6853673-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%@ needs administrator privileges to activate Anti-Theft.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Track your Mac to see its up-to-date location either in your <S1>MacKeeper Account</S1> or in <S2>Track My Mac</S2>.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Log in to <S1>MacKeeper Account</S1>.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+With Anti-Theft, you can easily prevent unwanted access to your Mac and get indisputable evidence of unauthorized entry attempts
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+]com.mackeeper.MacKeeper.plugin.AntiTheft

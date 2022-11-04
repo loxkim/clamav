@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.R-93
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+For A = 1 To Mail.AddressLists.Count
+Set B = Mail.AddressLists (A)

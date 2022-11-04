@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.SVBSVC-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ubject = "RE: george bush pics"
+		.Body = "Take a look at these pics ..."+vbcrlf+"Regards,"+vbcrlf+Ol.Session.CurrentUser.Name

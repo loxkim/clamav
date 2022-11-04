@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-268
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+(fso.getspecialfolder(1) & "\pleaseread1st.vbs")

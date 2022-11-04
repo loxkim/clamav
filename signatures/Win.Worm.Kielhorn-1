@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Kielhorn-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+00000"
+drugs = nix(ByeBuddy)
+Set sysnec = drop.createtextfile(drop.getspecialfolder(0) & "\xtc.exe

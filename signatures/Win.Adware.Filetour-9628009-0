@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Adware.Filetour-9628009-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Successfull API call7Not enough memory is available to complete this requestThe handle specified is invalid'The functio
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+4The context data must be renegotiated with the peer.'The target principal name is incorrect.:There is no LSA mode conte
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The logon attempt failed;The credentials supplied to the package were not recognized4No credentials are available in the
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Field '%s' has no dataset"Circular datalinks are not allowed/Lookup information for field '%s' is incomplete
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unable to insert a line Clipboard does not support Icons/Menu '%s' is already being used by another form

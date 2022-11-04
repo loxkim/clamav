@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.XtremeRAT-7464842-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT bi_t_people_info.* From bi_t_people_info WHERE (((bi_t_people_info.oper_status)='
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+insert sys_t_sheet_change(sheet_no, crt_date, crt_man, app_date, app_man, last_date, last_man, memo) values  ('
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+update sys_t_sheet_flow set sheet_value=sheet_value+1 where sheet_id='
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vb6chs.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO sys_t_sheet_flow ( sheet_id, sheet_date, sheet_value )

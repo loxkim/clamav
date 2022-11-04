@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Virus.Netfilter-9777156-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\arcabit_src\project\netfilter2\driver_tdi\std\objfre_wnet_amd64\amd64\arcawfp.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+erein and in the repository at https://www.certum.pl/repository.0
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://subca.ocsp-certum.com01
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://crl.certum.pl/ctnca.crl0k
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Usage of this certificate is strictly subjected to the CERTUM Certification Practice Statement (CPS) incorporated by reference h

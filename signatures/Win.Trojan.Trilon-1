@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.Trilon-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+yIE2 Class'
+	{
+		CLSID = s '{FF1BF4C7-4E08-4A28-A43F-9D60A9F7A880}'
+		CurVer = s 'Asd3.TestMyIE2.1'
+	}
+	NoRemove CLSID
+	{
+		F

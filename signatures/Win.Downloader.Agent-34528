@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.Agent-34528
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+http://download.%s.com/%s.%s?%s00002654&u=%u&p=%u %s%s

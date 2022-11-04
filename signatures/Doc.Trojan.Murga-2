@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Murga-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Sub Document_Open(){WILDCARD_ANY_STRING}").Export ("c:\{WILDCARD_ANY_STRING}NormalTemplate.VBProject.VBComponents.Import ("c:{WILDCARD_ANY_STRING}omponents.Item("{WILDCARD_ANY_STRING(LENGTH<=50)}").Name <> "

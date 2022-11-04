@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mtrue-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Mid(ActiveDocument.Name, 1, Len(ActiveDocument.Name) - N) = "Документ" Then Doc = True

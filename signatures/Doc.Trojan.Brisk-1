@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Brisk-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Controls("Paste Special...").Caption = "Thats Brisk Baby"

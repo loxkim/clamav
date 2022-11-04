@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1510
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+in the unlikely event that you do become a victim of fraud despite these measures, we will refund your money 100%{WILDCARD_ANY_STRING(LENGTH<=240)}To enroll, visit

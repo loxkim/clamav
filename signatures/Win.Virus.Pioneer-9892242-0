@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Pioneer-9892242-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Fd:\office\source\groove\grooveutil\dll\dataversionhelper.cpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+GrooveFormsPeoplePicker: Completed resolve token %s, Status=%d, ItemStatus=%d, Elapsed=%d
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+grooveDatabase:///GrooveXSS/$SystemPermanentRoot/GrooveTemporaryFiles.xss
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+KIComctl32.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Groove Security Misc Services Error: The following relative distinguished name is invalid: "%s".

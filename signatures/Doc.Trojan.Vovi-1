@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Vovi-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+j = comp.CodeModule.InsertLines(i + 1, "Sub VoviusFirstMacroVirus" _

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6824369-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+rundll32.exe %s,UpdateProtectedModeCookieCache %s|%s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+UPDATE cookies SET value='%s' WHERE host_key LIKE '%%%ls%%' AND name='%ls'
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://info.babylon-stat.com/stat/report.php?type=setup_report&source=prtc_upd
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Failed to close '%s' process, timeout;going to termination
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.babylon.com/redirects/redir.cgi?no_policy=1&type=%s&lang=%d

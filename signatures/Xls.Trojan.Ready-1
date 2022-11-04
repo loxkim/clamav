@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Ready-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+or Grow = 1 To 20{WILDCARD_ANY_STRING}arkLength = Int(Rnd() {WILDCARD_ANY_STRING} 40 + 1){WILDCARD_ANY_STRING}rk = Remark + Chr$(Int((90 - 65 + 1) {WILDCARD_ANY_STRING} Rnd + 65)){WILDCARD_ANY_STRING}", "ICounter", "Count", "")

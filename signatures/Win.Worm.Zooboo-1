@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Zooboo-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:wshl.RegWrite rr&""Signatures\00000123\name"",""System Signature"":wshl.RegWrite 

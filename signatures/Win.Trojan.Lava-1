@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Lava-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Dome"
+	dmsr.RegWrite "HKEY_CLASSES_ROOT\htmlfile\shell\open\command\(Default)", "c:\windows\system\Dome.vbs

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Slimware-9754199-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Assistant d'installation de %15Copyright 2011-2016 Slimware Utilities Holdings, Inc.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%1 Setup-Assistent5Copyright 2011-2016 Slimware Utilities Holdings, Inc.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%1 Setup Wizard5Copyright 2011-2016 Slimware Utilities Holdings, Inc.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AVRememberTempFile@?A0xf888879f@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+n de %1=Derechos de Autor 2011-2016 Slimware Utilities Holdings, Inc.

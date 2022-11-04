@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRCBot-395
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Software\Microsoft\Windows\CurrentVersion\Run{WILDCARD_ANY_STRING(LENGTH<=100)}msnmgnr

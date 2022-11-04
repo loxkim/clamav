@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-90
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for(i=0;i!==aaa;i+=2){e("q=qwe.subs"+b);with({a:{a:s},c:{b2:"a"}}){e("q=q+(qwe.su".concat("bs",b2));ar=[5,4,3,2];m=ar.sort()[0];s=a[c["b"+m]]+z["substr"](q,1);}}e(e("s"));

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Pics-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+echo Mail.Attachments.Add("C:\mama.bat") >> C:\email.vbs

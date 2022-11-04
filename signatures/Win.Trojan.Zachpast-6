@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Zachpast-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+hidden32.exe WinRun.bat{WILDCARD_ANY_STRING}hidden32.exe kernel32.exe msdll.gif

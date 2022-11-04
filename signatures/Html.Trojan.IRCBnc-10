@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCBnc-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sockwrite -tn $sockname Nick $r(a,z) $+ $read wsminsck.oxc $+ $r(a,z)

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Rarme-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo.for /r c:\ %%%%h in (*.doc,*.xls,*.ppt,*.mdb,*.mp3) do %q%%r%%w% /q %%%%h>>%t%

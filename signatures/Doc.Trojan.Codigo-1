@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Codigo-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Len(MiCodigo) < 1 Then{WILDCARD_ANY_STRING}nt.CodeModule.DeleteLines 1, nt.CodeModule.CountOfLines{WILDCARD_ANY_STRING}nt.CodeModule.AddFromString EsteCodigo

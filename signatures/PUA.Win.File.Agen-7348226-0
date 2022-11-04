@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Agen-7348226-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+5http://crl.usertrust.com/GoGetSSLRSACodesigningCA.crl0x
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+schannel: verifyhost setting prevents Schannel from comparing the supplied target name with the subject names in server certific
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Unsupported proxy '%s', libcurl is built without the HTTPS-proxy support.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Unrecognized content encoding type. libcurl understands %s content encodings.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+schannel: WinSSL version is old and may not be able to connect to some servers due to lack of SNI, algorithms, etc.

@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.MVT-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+omponents("DieseArbeitsmappe").CodeModule.Lines(1, 1) <> "Private Sub Workbook_Deactivate() 'Fr33d0m" Then TARGET.VBProject.VBComponents("DieseArbeitsmappe").CodeModule

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillFiles-35
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+del /f /s /q %systemroot%\ del /f /s /q %userprofile%\ md %systemroot%\..\ echo

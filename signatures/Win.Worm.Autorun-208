@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-208
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+shellexecute=wscript.exe nh4k.dll.vbs

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36662
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off net stop navapsvc net stop nprotectservice net stop mcshield net stop tmntsrv firedaemon -u navapsvc firedaemon -u nprotectservice firedaemon -u mcshield firedaemon -u tmntsrv

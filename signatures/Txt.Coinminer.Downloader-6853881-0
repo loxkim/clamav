@@ -1,0 +1,5 @@
+VIRUS NAME: Txt.Coinminer.Downloader-6853881-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+(curl -fssl https://pastebin.com/raw/{WILDCARD_ANY_STRING}||{WILDCARD_ANY_STRING(LENGTH<=1)}wget -q -o- https://pastebin.com/raw/{WILDCARD_ANY_STRING}base64 -d{WILDCARD_ANY_STRING(LENGTH<=3)}/bin/bash

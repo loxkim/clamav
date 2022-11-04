@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+veDocument.VBProject.VBComponents.Item(1).CodeModule.InsertLines (ad + 1), "' I infected " & Application.UserName & " on: " & Now

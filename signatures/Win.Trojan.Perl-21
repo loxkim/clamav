@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Perl-21
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+open (FILE, ">asmd.h") || die "Can't create config file ! Check this..{WILDCARD_ANY_STRING};
+close (FILE);
+system("cc -o asmd $src"

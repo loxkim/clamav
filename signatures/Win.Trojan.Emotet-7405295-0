@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Emotet-7405295-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\Users\User\Desktop\2008\Cascade_Cl1225958262002\Release\Cascade.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Welcome to the Hall of Fame place: %d, type in your name:
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WppPFrxxIqNTW9L/Z1KF4rLl6foRi1eQzRgUzSExEcUOk8MQlF
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+My girlfriend is really in love with Cascade, so I did this PC version for her!
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Simple GDI based game that made my girlfriend loves me even more.

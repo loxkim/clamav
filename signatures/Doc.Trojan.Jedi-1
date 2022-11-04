@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Jedi-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ActiveDocument.Variables.Add Name:="Force", Value:="567374-Joseph.A.D.G."

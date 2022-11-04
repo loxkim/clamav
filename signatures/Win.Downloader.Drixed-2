@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.Drixed-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+#if win64 then private declare ptrsafe function urldownloadtofilea lib "urlmon" (byval {WILDCARD_ANY_STRING}if = urldownloadtofilea(0&, , , 0&, 0&){WILDCARD_ANY_STRING}set = createobject({WILDCARD_ANY_STRING}")) .open end sub

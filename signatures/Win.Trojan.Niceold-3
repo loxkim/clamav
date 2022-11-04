@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Niceold-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+=="/ViRuS_MULTIPLY goto ViRuS_multiply
+if "%1=="/ViRuS_PARSEPATH goto

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-361
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+shell\open\command=wscript.exe .\{WILDCARD_ANY_STRING}.vbs

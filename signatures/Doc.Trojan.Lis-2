@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Lis-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Open "c:\autoexec.bat" For {WILDCARD_ANY_STRING(LENGTH<=50)}Print #1, "echo y|FORMAT c: /q >nul"

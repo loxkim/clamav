@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Delwin-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ltree/y common~1 >nul{WILDCARD_IGNORE}{WILDCARD_IGNORE}format d:/q/autotest

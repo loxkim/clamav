@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sappatra-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+For i% = 1 To ccount{WILDCARD_ANY_STRING}If Trim(mm$) = signature Then{WILDCARD_ANY_STRING}Word.ActiveDocument.VBProject.VBComponents.Item(index).Export mfile

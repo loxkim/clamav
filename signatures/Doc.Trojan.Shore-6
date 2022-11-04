@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Shore-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If LCase(InputBox(pass, cdee)) = sandi Then{WILDCARD_ANY_STRING}"CD-C EE v.10 (C) " & hcID & ", Nov, 2000" & _

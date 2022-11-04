@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Zapchast-118
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+[hkey_local_machine\system\currentcontrolset\services\lanmanserver\parameters]>>%temp%\1.reg echo "autosharewks"=dword:00000000>>%temp%\1.reg echo "autoshareserver"=dword:00000000

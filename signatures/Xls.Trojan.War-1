@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.War-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If InStr(1, NT.Lines(1, 1), "'AlevirusSCS<>EMAIL<>Excel<>Virus<>BRASIL<>1999!") Then

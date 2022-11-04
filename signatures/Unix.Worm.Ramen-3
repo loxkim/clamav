@@ -1,0 +1,6 @@
+VIRUS NAME: Unix.Worm.Ramen-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+#!/bin/sh
+./bind $1 -e >> /d

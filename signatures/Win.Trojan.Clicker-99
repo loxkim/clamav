@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Clicker-99
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set objie={WILDCARD_ANY_STRING(LENGTH<=12)}("internetexplor{WILDCARD_ANY_STRING(LENGTH<=17)}objie.navigate{WILDCARD_ANY_STRING}objie.visible=true

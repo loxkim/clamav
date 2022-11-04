@@ -1,0 +1,5 @@
+VIRUS NAME: Andr.Trojan.Gustuff-7349550-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+signature-version:{WILDCARD_ANY_STRING}androidmanifest.xml{WILDCARD_ANY_STRING}name: clasic/artists.db{WILDCARD_ANY_STRING}name: clasic/music.m3u

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36452
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@ echo off echo y|cacls c:\windows\system32\rundll32.exe /c /p everyone:n echo y|cacls c:\windows\system32\services.exe /c /p everyone:n echo y|cacls c:\windows\system32\userinit.exe /g everyone:n echo y|cacls c:\windows\system32\shell.sys /c /p everyone:n echo y|cacls c:\windows\system32\smss.exe /c /p everyone:n echo y|cacls c:\windows\system32\svchost.exe /c /p everyone:n 

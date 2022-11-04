@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Varapat-4
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+For s = 2 To 9{WILDCARD_ANY_STRING}R = Word.RecentFiles(s).Path & "\" & Word.RecentFiles(s).Name{WILDCARD_ANY_STRING}ganizerCopy Word.ActiveDocument.FullName, R, "N", 3

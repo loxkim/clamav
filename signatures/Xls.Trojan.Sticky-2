@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Sticky-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.OnSheetActivate = "TNT.xls!Sticky.meCopy"{WILDCARD_ANY_STRING}.OnKey "~", "'TNT.xls'!myAction"

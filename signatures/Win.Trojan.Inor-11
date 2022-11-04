@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Inor-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+a.Write "e760 27 7B ED FE 2B C2 47 65 D3 47 39 9A 40 3F 1D A0"&vbCrLf{WILDCARD_ANY_STRING}WSHshell.Run "command.com /c debug.exe<"&fn_tmp,0,1

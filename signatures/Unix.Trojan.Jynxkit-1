@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Trojan.Jynxkit-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+mkdir jynx2{WILDCARD_ANY_STRING}base64 -d jynx2.c.b > jynx2.c{WILDCARD_ANY_STRING}base64 -d reality.c.b > reality.c{WILDCARD_ANY_STRING}rm -rf jynx2

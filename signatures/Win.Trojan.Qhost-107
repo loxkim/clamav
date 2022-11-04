@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Qhost-107
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+%windir%\system32\drivers\etc\hosts echo 127.0.0.1 ads1.msn.com

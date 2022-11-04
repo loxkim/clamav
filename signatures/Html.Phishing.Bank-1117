@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1117
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+access reactivated please reconfirm your identity by using the link provided below.{WILDCARD_ANY_STRING(LENGTH<=14)}to initiate the verification process:

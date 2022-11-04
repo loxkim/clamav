@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Crypted-34
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+function n000(n001)s=split({WILDCARD_ANY_STRING(LENGTH<=10)},n002({WILDCARD_ANY_STRING(LENGTH<=10)}))t=""for i=0 to ubound(s){WILDCARD_ANY_STRING(LENGTH<=10)}=eval(s(i))t=t+n002({WILDCARD_ANY_STRING(LENGTH<=10)})next n000=t end function execute(n000(t))execute 

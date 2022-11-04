@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Cobra-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ModAdd.Codemodule.InsertLines 3, "Msgbox ""You are infected with Cobra"",,""Cobra"

@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Soldier-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Workbooks(fn$).Modules(1).InsertFile fileName:="c:\soldier.___", Merge:=True

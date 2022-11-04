@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Scano-9951452-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+09_MUS~1.WPL09_Music_played_the_most.wpl
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+11_ALL~1.WPL11_All_Pictures.wpl
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+07_TV_~1.WPL07_TV_recorded_in_the_last_week.wpl
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+08_VID~1.WPL08_Video_rated_at_4_or_5_stars.wpl
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+10_ALL~1.WPL10_All_Music.wpl

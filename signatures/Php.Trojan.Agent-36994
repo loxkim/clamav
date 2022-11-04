@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.Agent-36994
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+"domain=terra.com.br&username=" . $email[0] . "&password=" . $auth[1]; $header = "post /atmail.php?{WILDCARD_ANY_STRING(LENGTH<=5000)}$cmd = explode(" ", $data); if($cmd[0] == "send"){ if($cmd[2] != $glo["senha"])

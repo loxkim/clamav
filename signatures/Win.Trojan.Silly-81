@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Silly-81
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for %%a in (*.bas) do call ~$ basvir 2 %%a

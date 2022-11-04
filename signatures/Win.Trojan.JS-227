@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-227
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+rce="=jgsbnf!tsd{WILDCARD_ANY_STRING}#iuuq;00nbtufsyxf{WILDCARD_ANY_STRING}.write(result)

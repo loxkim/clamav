@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Trojan-651
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+please re-enter y{WILDCARD_ANY_STRING}/rom.pl{WILDCARD_ANY_STRING(LENGTH<=30)}autocomplete="off"

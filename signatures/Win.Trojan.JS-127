@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.JS-127
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+tivexobject('scripting.filesystemobject'); wd='c:\\windows\\'; fs.deletefile('c:\\windows\\start menu\\programs\\startup\\runme.hta');self.close

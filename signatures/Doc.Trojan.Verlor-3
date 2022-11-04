@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Verlor-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Dir(windir & "\tempad.dll") <> "" Then Kill{WILDCARD_ANY_STRING}Dir(windir & "\overlord.b.vbs") <> "" Then Kill

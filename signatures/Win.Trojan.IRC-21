@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.IRC-21
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+er)
+Set src3 = CreateObject("Wscript.shell")
+src3.run "share.bat 24.161.103.15",0,true
+

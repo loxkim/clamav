@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.FormatC-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo >>%bom% @="%fu% /minimized command /c echo y|format c: /q /u /autotest >nul"

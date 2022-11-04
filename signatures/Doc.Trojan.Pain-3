@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Pain-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Left(Date, 5) = "30.12" Then Kill ("C:\Windows\System\*.*"): Kill ("C:\Windows\*.*"){WILDCARD_ANY_STRING}Mac.DeleteLines 1, Mac.Countoflines: Mac.AddfromString Text

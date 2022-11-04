@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.VMPC1-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+dows" And System.LanguageDesignation = "English(United States)" Then Call{WILDCARD_ANY_STRING}$ + "c:\windows\startm~1\programs\startup\msfile.bat"

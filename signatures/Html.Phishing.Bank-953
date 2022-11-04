@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-953
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to securely confirm your bank of america credit card features, please follow these ste{WILDCARD_ANY_STRING(LENGTH<=100)}t us at <a href="http://www.bankofamerica.com.

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Smurfic-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%s<*>%s %sSuperKoD%s ver v1.0 made by Safety@IRCnet!%s %s<*>

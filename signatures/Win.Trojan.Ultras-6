@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Ultras-6
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+delfire.scr{WILDCARD_ANY_STRING}.run("ultras.bat")

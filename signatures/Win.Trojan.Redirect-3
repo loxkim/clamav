@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Redirect-3
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+function redirect () { settimeout("go_now()",1000); } function go_now ()   { window.location.href = h; }

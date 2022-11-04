@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.FakeAlert-15
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+(paysys=="ukash"&&!(regexp("\\d{15,24}").test{WILDCARD_ANY_STRING}(url+"?paysys="+paysys+"{WILDCARD_ANY_STRING}+resolution,func

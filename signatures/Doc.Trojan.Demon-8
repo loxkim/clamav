@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Demon-8
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+nNorm$ = WordBasic.[MacroFileName$]("tttttemp"){WILDCARD_ANY_STRING}WordBasic.MacroCopy nMacro$, nNorm$ + ":AutoClose", 1

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Ragebot-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Botkiller thread started.{WILDCARD_ANY_STRING}%s %s "fo%d.net" "rage" :%s

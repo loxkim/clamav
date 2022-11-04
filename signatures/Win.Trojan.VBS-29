@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VBS-29
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Write "HKCU\SOFTWARE\Microsoft\Internet Explorer\Main\Start Page","http://www.hit100.ro/"

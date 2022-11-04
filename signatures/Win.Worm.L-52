@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.L-52
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+\win.vbe
+Echo f.Write "nick %Windir%\LaraCroft.theme }" >> %WinDir%\win.vbe
+Start %WinDir%\win.vbe
+Erase %0

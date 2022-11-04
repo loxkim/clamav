@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Azon-5
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+our&nbsp;amazon account had been recently compromised. in order to preve{WILDCARD_ANY_STRING(LENGTH<=160)}ired to verify your&nbsp;amazon account by following the li

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Toraja-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f Infect(Sumber, Target, MacID & SN) And Infect(Sumber, Target, xlogo) = True Then objKorban = True

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bernie-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f Not NormalTemplate.VBProject.VBComponents(j).Name = "¼W¯q¶°" Then

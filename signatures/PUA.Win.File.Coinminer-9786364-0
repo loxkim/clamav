@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Coinminer-9786364-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e":20,"output_file":"","httpd_port":0,"prefer_ipv4":true,"aes_override":null,"daemon_mode":false}
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CPU doesn't support hardware AES. Low power mode disabled.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CPU support hardware AES. Low power mode enabled.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nicehash_nonce":false,"use_tls":false,"tls_secure_algo":true,"tls_fingerprint":"","pool_address":"xmr-us.suprnova.cc
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+try_time":10,"giveup_limit":0,"verbose_level":3,"h_print_time":20,"output_file":"","httpd_port":0,"prefer_ipv4":t

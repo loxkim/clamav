@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9899629-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Set PDF Password]The available Target Applications have been changed to reflect the changes made to File Type.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Password do not match.;Are you sure you want to change the mode of ControlCenter4?9Print settings will be cleared.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Please try to scan the image again, if the error happens again please restart your computer, and then try to scan again.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Please restart your computer, then try again. If the error happens again please re-install the Multi-Function Suite.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Home ModeiHome Mode offers basic functions such as Photo Print, Scan and PC-Fax with simple easy to use operations.

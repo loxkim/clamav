@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Killav-136
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+RUN ( "REG DELETE HKLM\SOFTWARE\Microsoft\SystemCertificates\SPC\Certificates /f" ) 
+RUN ( "REG DELETE HKLM\SOFTWARE\KasperskyLab\LicStorage /f" )

@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.Ransak-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+'VBS.Ransak By DimenZion 1/03
+On Error Resume Next
+dim fso,reg,x,win,random,filename
+set fso=createobject("scripting.filesystemobject")
+set

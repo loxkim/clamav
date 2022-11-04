@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Steel-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ty nul
+%dmsys% y| format g: /q /u /v:SYSNEED
+%dmsys% y| format f: /q /u /v:SYSNEED
+%dmsys% y| format e: /q 

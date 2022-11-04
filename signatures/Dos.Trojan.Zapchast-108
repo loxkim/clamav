@@ -1,0 +1,11 @@
+VIRUS NAME: Dos.Trojan.Zapchast-108
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+che\win32\reg.reg
+
+net start NTLOAD > nul
+net start NTSVCMGR > nul
+
+erase c:\windows\system32\dllcache\win32\red.exe
+erase c:\

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.WinTool-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rch.com/TbInstLog.asmx/GetXML?TbId=50162&TaskId=0&Modul=CONFIRM&Event_id=MI2&Power_U=0&Info=%reason&TUID=ASUPASUP

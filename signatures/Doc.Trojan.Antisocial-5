@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Antisocial-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+V4 = Asc((Mid(V3, 2, 1))) Xor Asc((Mid(V3, 3, 1)))

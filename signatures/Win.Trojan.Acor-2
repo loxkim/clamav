@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Acor-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+N 1:TEXT:*spamquit*:#:/quit Jolly Spamhead Ownz Me
+n4=ON 1:TEXT:*hi*:#

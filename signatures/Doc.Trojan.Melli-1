@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Melli-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If NotInNorm = True Or NotInActiv = True Then Dobj.VBComponents.Import ("c:\Melli.dll"){WILDCARD_ANY_STRING}AutoCorrect.Entries.Add Name:="and", Value:="Melli"

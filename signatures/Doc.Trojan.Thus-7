@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Thus-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+pplication.Documents.Item(k).VBProject.VBComponents.Item(1).codemodule.Lines(3, 1) <> "'Anti-Smyser'" Then

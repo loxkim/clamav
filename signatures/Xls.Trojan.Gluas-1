@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Gluas-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rot = "1" Then GoTo täiskäik{WILDCARD_ANY_STRING}Tere täna on kellegil hea päev

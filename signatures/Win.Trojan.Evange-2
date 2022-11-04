@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Evange-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo copy %%2+%%1 infected.tmp  >>{WILDCARD_ANY_STRING(LENGTH<=150)}for %%f in (*.bat) DO call

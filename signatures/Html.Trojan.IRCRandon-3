@@ -1,0 +1,8 @@
+VIRUS NAME: Html.Trojan.IRCRandon-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+98 | /rlevel 200 }
+/wertykill {
+write werty.bat @echo off
+write werty.bat

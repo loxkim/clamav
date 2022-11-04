@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Crypt-291
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+{var s1=unescape(s.substr(0,s.length-1)); var t='';for(i=0;i<s1.length;i++)t+=string.fromcharcode(s1.charcodeat(i)-s.substr(s.length-1,1));document.write(unescape(t));}</script>");

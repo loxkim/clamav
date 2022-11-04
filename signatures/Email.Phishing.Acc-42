@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Acc-42
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+we require{WILDCARD_ANY_STRING(LENGTH<=16)}you update your account immediately{WILDCARD_ANY_STRING(LENGTH<=16)}Click here to continue with secure account update

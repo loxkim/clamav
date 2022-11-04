@@ -1,0 +1,12 @@
+VIRUS NAME: Vbs.Trojan.Saraci-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+initDropCodes()
+	checkExistFiles()
+	infectThisFile(TemplateFile)
+	infectRootDir()
+end sub
+sub main_onunload()
+	infectRootDir()
+	checkExistFiles()

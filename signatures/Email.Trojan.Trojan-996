@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-996
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Attached is the sample catalog of the exact products we want{WILDCARD_ANY_STRING(LENGTH<=16)}I will also love to see your catalogs along with the details

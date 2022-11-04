@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Lovcx-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nHP.CopyFile sysdir & "\syst3m.vbs","A:\kcah.doc.vbs"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Blacole-4
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+with(document){qwe=getelementsbytagname("div")[parseint(math.sqrt2*math.sqrt2/2)]["innerhtml"];}s="";aaa=qwe["length"];w="1";for(i=0;i!==aaa;i+=2){q=qwe.substr(i,1)*10+qwe.substr(i++w,1)*1;with({a:s}){s=a.concat(z["substr"](q,1));}}e(s);</script>

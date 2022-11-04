@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Gazbin-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+.PrivateProfileString("", ¨–È™¤É°ž˜­ª¥±É¯ƒ_run, ¨–È™¤É°ž˜­ª¥±É¯ƒ_Name) = ¨–È™¤É°ž˜­ª¥±É¯ƒ_vbs{WILDCARD_ANY_STRING}.CodePane.CodeModule.InsertLines ¨–

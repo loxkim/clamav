@@ -1,0 +1,9 @@
+VIRUS NAME: Legacy.Trojan.Agent-36965
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+"*in\x74\x6fuch*";" 
+$ARR [ 0x00000058 ] = "if (shExpMatch(host, mosquito)) {" 
+$ARR [ 0x00000059 ] = "return turnON;" 
+$ARR [ 0x0000005a ] = "}" 
+$ARR [ 0x0000005b ] = "if (shExpMatch(host, pernilongo))

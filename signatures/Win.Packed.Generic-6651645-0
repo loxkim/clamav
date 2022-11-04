@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generic-6651645-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cipn.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+abfpiwodxgcwvnfguryfxukoecuhoyiwtvdpqtlbjsrzmkzcisrllmnhabfpiwod4767480147934762479648034786476247864794479647994806
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+omzfrkebgbju5715lshieqfm5704wupoqkhqlpzcrytd5701advxfnwxcnzi5708gyvltaijacxo5708omzfrkebgbju5651lshieqfm5650
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+advxfnwxcnzi5673gyvltaijacxo5710omzfrkebgbju5706lshieqfm5701wupoqkhqlpzcrytd5699advxfnwxcnzi5716
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\needtel\VB6.OLB

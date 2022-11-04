@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.Nonstop-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo bGQgZGVsIHdpbi5vbGQNCkBpZiBleGlzdCAkdG1wMSBkZWwgJHRtcDF=>>install.b64
+rachifr.com system.b64>nul
+rachifr.com install.b64>nul

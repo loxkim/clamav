@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Qhost-146
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+del "%windir%\System32\drivers\etc\hosts"
+echo 66.7.203.81 www.hsbc.com.mx

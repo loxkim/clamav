@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSIframe-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+fora=1to800doc{WILDCARD_ANY_STRING}iframesrc="+chr(34)+"telnet://

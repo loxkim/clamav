@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-119
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+with({z:{z:window}})p=z.z["eval"];b=1;v="bs";break;}}i=0;while(i-{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}!==0){c=a[i];s+=nv["su"+v+"tr"](c,b);i++;}p(s);

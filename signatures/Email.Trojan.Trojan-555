@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-555
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+ie7.0.exe{WILDCARD_ANY_STRING(LENGTH<=30)}Download the latest version!

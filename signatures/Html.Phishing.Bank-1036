@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1036
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+um auf die form der verifikation zu gelangen und sie ausf{WILDCARD_ANY_STRING(LENGTH<=6)}llen zu k{WILDCARD_ANY_STRING(LENGTH<=6)}nnen, m{WILDCARD_ANY_STRING(LENGTH<=6)}ssen sie sich in ihrem konto einloggen

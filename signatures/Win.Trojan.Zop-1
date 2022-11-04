@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Zop-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f '%ZoP_%==' for %%v in (..\*.bat) do call c:\ZoP_B %%v ZoP_
+set ZoP

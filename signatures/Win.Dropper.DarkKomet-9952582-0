@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.DarkKomet-9952582-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Specify an action description for this command and select the proper keystroke for this action. Use your remote control to s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+et the WinLIRC command. System functions can be associated with a commonly running application, such as 'Explorer.exe'.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Select the running process that you want to associate with your remote control. If the process is not shown above, open it a
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO COMMANDS (COM_PROF_ID,COM_ACTION,COM_LIRC,COM_KEYB,COM_KEYB_VB,COM_SYSTEM,COM_RUN_COM) 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+A profile should be associated to a running process (application) in order to send keyboard combinations via the remote comman

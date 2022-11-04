@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Coinminerx-9917081-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PqQIUlQJZRDg4G6UKg3ZYq6Q5O5bvKJBWIhzoCL6OlgK007aAYyiwQEHSCOYe4jJ+02h1Bt9KbWS9taGMRxav0bgz0Js19ci7vfXyM3faQL3RSfidsjFCKjy
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+fMZtspfwXEfwn4iNVSoFZ4Go668wNYM5f818CPHeVQBaaB4scTVOniPruyj9I4BdmZIldUqQCNcHWtMkNrs3gg==
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+VI6YpL9kSE7wnGG77cpCxycaIMOqZRCkCNs6mcwdxPjhYTKk1qCdr/7GAEf/izsSTxNktTVFjgGGo3k6ebi0sYNGTNh5P/zgFI36ZzoSw8o=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+rldbqaalmjhkxeknikbjbgrxfowhbyieewsskqousacdpibffjcxwsclvfooinrhunbtqhrjuhhnjqjtbjduopaqtmhfozzjyprcnlmcmilhvfdtcfvqpvyc
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wgaisqoqccmueathjlp.Resources

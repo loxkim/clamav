@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Ace-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Response.Write "<b>B</b>ombing " & Replace(FormatNumber(intNumber,0),",",".") & " mail"

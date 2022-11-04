@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.XPFox-4
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+"数据流上传辅助组件" obt(5,0) = "adodb.connection" obt(5,2) = "数据库连接组件" obt(6,0) = "ado"&defd&"d"&defd&"b"&defd&".s"&defd&"tre"&defd&"am" obt

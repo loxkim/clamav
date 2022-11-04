@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Adware.Genieo-6703209-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cUrNeNaNtPeDABnAdMLOoFaYdNMY7K7Q0VNSAIgJeSnNtFPKlPiFsYtPPTaLtMhQ:agentPlistName:agentPlistKeyArr:agentPlistValArr:isAdmin:
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CEhCrVoMmXeIIRnQsStMaZlClUCIrDxD:isInstaller:productId:productName:isAdmin:runCommand:
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+uSpNdXaKtIeKPQaLsIsMwAoLrFdGDXaNtUaO:withData:forService:account:error:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cXoDpGyKAQpTpGTQoIAWgPeDnKtLMH7U7M0ZNWALpJpMFGoDlMdIeCrM:agentAppPath:agentAppName:isAdmin:
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sXeZtFPPaOsFsTwCoJrUdPDRaWtYaG:forService:account:error:

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6571860-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Winsock.dll version out of range.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#8/F:\VB - CSocket IRC\SckMod.oca
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DMC:\Program Files (x86)\Microsoft Visual Studio\VB98\MSCOMCTL.oca
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://www.mediafire.com/file/4g7hsj4e9dsme47/IE8-WindowsXP-x86-ENU.exeG
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://www.mediafire.com/file/rr0a2sbjwcri5vb/IE8-WindowsXP-x86-ESN.exeG

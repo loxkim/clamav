@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Eversaw-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+copy %0 c:\bat.soulcontrol.bat
+if exist %winbootdir%\cr.vbs goto decr

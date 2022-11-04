@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hopper-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+N.InsertLines 74, "     NT.ReplaceLine 3, " + Chr(34) + "On Error Goto Break" + Chr(34)

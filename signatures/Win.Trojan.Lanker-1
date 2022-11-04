@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Lanker-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo copy($_FILES[LanKerF][tmp_name],$_FILES[LanKerF][name]);{WILDCARD_ANY_STRING}$a="i:/wwwroot/lanker.txt";

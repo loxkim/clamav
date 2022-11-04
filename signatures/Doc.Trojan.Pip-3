@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Pip-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+  norm.Import ("c:\squeak.dll"){WILDCARD_ANY_STRING}ElseIf doc.Item("squeak").Name <> "squeak"

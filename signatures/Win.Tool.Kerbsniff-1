@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Tool.Kerbsniff-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+kerbsniff <capture output file name>

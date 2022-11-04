@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Downloader.ModernLoader-9963832-1
+TDB: Engine:90-255,FileSize:200-2000,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+new-object "`n`e`t`.`w`e`b`c`l`i`e`n`t")."`d`o`w`n`l`o`a`d`f`i`l`e"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+cmd /c attrib +s +h
+ * SUBSIG ID 2
+ +-> OFFSET: EOF-100,100
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+stop-process -id $pid -force

@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-136
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+{return string.fromcharcode(1*n001[n003]+27);}function n004(){return"

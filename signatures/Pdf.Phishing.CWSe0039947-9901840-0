@@ -1,0 +1,8 @@
+VIRUS NAME: Pdf.Phishing.CWSe0039947-9901840-0
+TDB: Engine:79-255,Container:CL_TYPE_PDF,Target:0
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/cidinit /procset findresource begin 12 dict begin begincmap /cidsysteminfo << /registry (adobe) /ordering (ucs) /supplement 0 >> def /cmapname /adobe-identity-ucs def /cmaptype 2 def 1 begincodespacerange <0000> <ffff> endcodespacerange 1 beginbfchar <0031> <004e> endbfchar 1 beginbfrange <0051> <0052> <006e> endbfrange 3 beginbfchar <0055> <0072> <0057> <0074> <008c> <2122> endbfchar endcmap cmapname currentdict /cmap defineresource pop end end

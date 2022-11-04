@@ -1,0 +1,15 @@
+VIRUS NAME: Asp.Trojan.HafniumWebshell-9839941-3
+TDB: Engine:81-255,Target:3
+LOGICAL EXPRESSION: 1
+ * SUBSIG ID 0
+ +-> OFFSET: *
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+var{WILDCARD_ANY_STRING(LENGTH>=2&&<=15)}request{WILDCARD_ANY_STRING(LENGTH>=10&&<=300)}eval
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: var\s*([a-zA-Z]){2,20}\s*=\s*request(\.form\(\".{2,30}\"\)|\[\".{2,30}\"\])\s*\x3B\s*var\s*([a-zA-Z]){2,20}\s*=(\s*([a-zA-Z]){2,20}\(\d+\)\s*\+){4,10}\s*([a-zA-Z]){2,20}\(\d+\)\s*\x3B\s*eval\(
+     +-> CFLAGS: i

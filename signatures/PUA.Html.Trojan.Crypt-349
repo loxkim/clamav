@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Html.Trojan.Crypt-349
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+c=eval("string.fromcharcode("+c+")");document.write("<script>"+c+"<\/script>");

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Pivis-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Conversions = False{WILDCARD_ANY_STRING(LENGTH<=10)}.VirusProtection = False

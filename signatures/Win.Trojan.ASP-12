@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ASP-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+<%@ LANGUAGE = 'VBScript.Encode{WILDCARD_ANY_STRING}U[,?E8@#@&@#@&@#@&@#@&drkq	`#@#@&i@#@&iZCV^P^.lY(Yv0/KpSPklo~~hdp*@#@&@#@&7?Vn^DPZCdP"6.L1x@#@&diZlk+,dtKhJWTkUS,

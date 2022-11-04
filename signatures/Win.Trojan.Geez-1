@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Geez-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+\*.bat) do set GeeWiZ=%%a
+find "GeeWiZ"<%geewiz%>nul.Life_is_everywhe

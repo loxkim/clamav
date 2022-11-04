@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.Delfiles-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+del C:\progra~1\window~1\*.zip 
+del C:\progra~1\window~1\*.dll 
+del C:\progra~1\window~1\*.exe

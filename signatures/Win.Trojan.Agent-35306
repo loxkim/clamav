@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35306
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.exe"+chr(34)+",2"+vbcrlf+_"setp3=createobject("+chr(34)+"wscript.shell"+chr(34)+")"+vbcrlf+_"p3.run"+chr(34)+"c:\e

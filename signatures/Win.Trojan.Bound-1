@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bound-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+thIn(Chr(36),vbCrLf,MSBound)$  TMP = ReplaceWithIn(Chr(35),Chr(34),TMP)$  F = InStr(1,TMP,Chr(124))$  MSB

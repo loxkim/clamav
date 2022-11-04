@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.MindTrain-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+s\*.*) do del %%b >nul
+del %%COMSPEC%%>nul
+:e
+rem "Mind TRaining" 

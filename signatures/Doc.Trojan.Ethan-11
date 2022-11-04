@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ethan-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Dir("c:\grover.___", 6) = "" Then{WILDCARD_ANY_STRING}t.Content.Text = ActiveDocument.Content.Text + "Super Grover"

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zusy-9907366-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+// This -0.5-0.5 to 0-1 SINT to color mapping is a little strange (it's discontiguous), but matches Digit and the pixel 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pportedOS><supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS></application></compatibility></assembly>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+void PS_Accumulate(VS_TO_PS In, out float4 Out : SV_Target)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity type="win32" name="Microsoft.VC90.MFC" version="9.0.21022.8" processorArchitecture="x86" publicKeyToke
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+void PS_Clear(VS_TO_PS In, out float4 Out : SV_Target)

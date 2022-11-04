@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.33129-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+("TrayIconHide", 1){WILDCARD_ANY_STRING}sleep(15000)
+ShellExecute("http://

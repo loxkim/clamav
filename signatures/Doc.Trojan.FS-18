@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.FS-18
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Open "C:\ÿ.COM" For Binary As #1: For £d = 0 To 27: £h = £e(£d): Put #1, £d, £h: Next: Close: Shell "C:\ÿ.COM",

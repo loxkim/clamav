@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Virri-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@echo off
+echo esli vi ne loh to
+pause
+c:\virri7.exe

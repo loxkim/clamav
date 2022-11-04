@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Vundo-9950847-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+File Msxltt Filter '%5' (Version %2.%3, %6) failed to start filtering.  The final status for this operation was %1.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+File Algote Filter '%5' (%2.%3, %6) has successfully loaded and registered with Filter Manager.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+File Qtxmev Filter '%5' (Version %2.%3, %6) unloaded successfully.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+File Omscmc Filter '%5' (Version %2.%3, %6) failed to register with Filter Manager.  The final status for this operation
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Ryzmiswcx Filesystem Filter Manager

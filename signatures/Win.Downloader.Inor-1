@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.Inor-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+be167c2b780a9f9f720d725870ad"ifnotfso.fileexists(pth)thensetf=fso.createtextfile(pth,forwriting)dimifori=1tolen(s)f.

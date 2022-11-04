@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Lavista-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+kbooks("PERSONAL.XLS").Sheets("monkey").Copy before:=Workbooks(name_book).Shee{WILDCARD_ANY_STRING}ks("PERSONAL.XLS").Sheets("monkey").Visible = xlVeryHidd

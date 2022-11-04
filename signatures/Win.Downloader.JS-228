@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-228
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<if"+"ram"+"es"{WILDCARD_ANY_STRING(LENGTH<=26)}oof"+".pd"+"f{WILDCARD_ANY_STRING(LENGTH<=119)}gw"+"hich"+".swf

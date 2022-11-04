@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9958262-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RefresheWas not successful opening any wireless router or access points with the given username and password.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ Operating system and service pack level on your computer
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+_Configuration Failure.  A file necessary for program execution is missing.  Unable to continue.sSetup could not automat
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The printer was unable to connect to the wireless network using the wireless credentials that were provided.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<italics>Participation is completely voluntary. This program will provide a full disclosure at the time of invitation. I

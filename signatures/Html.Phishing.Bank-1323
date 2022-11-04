@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1323
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we have temporarily limited access to sensitive account features.{WILDCARD_ANY_STRING(LENGTH<=60)}to restore your full account access, please follow the link bel

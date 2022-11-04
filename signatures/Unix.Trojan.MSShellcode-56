@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Trojan.MSShellcode-56
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+awk 'BEGIN{s="/inet/tcp/0/10.7.77.186/4444";for(;s|&getline c;cl

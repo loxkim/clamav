@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autoit-105
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+REGWRITE ( "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\currentversion\run" , "AutoShutdown" , "REG_SZ" , "shutdown.exe -f

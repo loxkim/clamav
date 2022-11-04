@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-37004
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sendraw($IRC_cur_socket, "PRIVMSG $printl :\002[SCAN]\002 Scanning ".$1." for open ports.");

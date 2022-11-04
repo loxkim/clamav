@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7600586-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0‘10
+	’&‰“ò,d
+KK7B95YD6Y1200U)iPhone Distribution: RPK ETUAL GRUPP, OOO10U
+KK7B95YD6Y10U
+RPK ETUAL GRUPP, OOO10	URU
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0200125075712Z230124075712Z

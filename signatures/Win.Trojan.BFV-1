@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.BFV-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:\_BfV.bat +h
+:BfV_
+command /e:5000 /c C:\_BfV ## run
+goto BfV_end
+

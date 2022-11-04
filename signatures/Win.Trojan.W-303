@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.W-303
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ows\Inf"				;1nf
+CmdDelete = "for", "%%%f in (*.inf) do set A=%%%f"		;1nf
+CmdDelete = "find", """1nf"" \vxer.

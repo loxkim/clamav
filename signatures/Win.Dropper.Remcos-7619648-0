@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Remcos-7619648-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://www.dropbox.com/0
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Original filename.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*http://crl4.digicert.com/assured-cs-g1.crl0B
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_appguid={CC46080E-4C33-4981-859A-BBA2F780F31E}&appname=Dropbox&needsadmin=Prefers&dropbox_data=eyJUQUdTIjoiZUp5clZpcE9MUzdPek0t
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dropbox, Inc1

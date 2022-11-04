@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Worm.Vierika-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rivojrog/vierika/Vierika.html"
+html
+spreadtoemail
+End Sub
+Sub html()
+On Error Resume Next
+Set fso = Create

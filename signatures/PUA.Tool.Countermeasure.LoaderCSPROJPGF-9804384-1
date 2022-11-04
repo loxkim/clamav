@@ -1,0 +1,42 @@
+VIRUS NAME: PUA.Tool.Countermeasure.LoaderCSPROJPGF-9804384-1
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<project toolsversion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<usingtask
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+taskfactory="codetaskfactory"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<code type="class" language="cs">
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+public override bool execute()
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1&2&3&4
+     +-> REGEX: system\.string (\w{1,64})[\x09\x20]{0,32}=[\x09\x20]{0,32}\w{1,64}\.tostring\(\)\x3b[\x09\x20]{0,32}byte\[\] \w{1,64}[\x09\x20]{0,32}=[\x09\x20]{0,32}system\.convert\.frombase64string\(\1\)
+     +-> CFLAGS: (null)
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 5
+     +-> REGEX: system\.string (\w{1,64})[\x09\x20]{0,32}=[\x09\x20]{0,32}[\x22\x27]\w{1,128}[\x22\x27]\x3b[\x09\x20]{0,32}byte\[\] (\w{1,64})[\x09\x20]{0,32}=[\x09\x20]{0,32}system\.text\.encoding\.ascii\.getbytes\(\1\)\x3b[\x09\x20]{0,32}for[\x09\x20]{0,32}\([\x09\x20]{0,32}int \w{1,64}[\x09\x20]{0,32}=[\x09\x20]{0,32}[\x09\x20]{0,32}0\x3b[\x09\x20]{0,32}\w{1,64}[\x09\x20]{0,32}<[\x09\x20]{0,32}(\w{1,64})\.length[\x09\x20]{0,32}\x3b[\x09\x20]{0,32}\w{1,64}\+\+[\x09\x20]{0,32}\)[\x09\x20]{0,32}\3\[\w{1,64}\][\x09\x20]{0,32}=[\x09\x20]{0,32}\(\(byte\)\(\3\[\w{1,64}\][\x09\x20]{0,32}\^[\x09\x20]{0,32}\2\[\(\w{1,64}[\x09\x20]{0,32}%[\x09\x20]{0,32}\2\.length\)\]\)\)
+     +-> CFLAGS: (null)

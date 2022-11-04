@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Vobfus-9772872-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\WINXP\system32\msvbvm60.dll\3
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BgBdcBkrABcAEBkcGxEKDAA08BAfimRlAbAAbgA=<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ple'bisc.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<description>extasierent</description> 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AEs3Q7OdYKk2AEtDbXNDb+NgAGcI+mD/IRwlAOkpb2vgKG1+AJ8ARrVutey1AAizh2oLWoHuAJCbmpFzB/10BE93AG4jZuDNbQB0cmDFRLOCbQCvlGcsZLQl5AA/Zuye

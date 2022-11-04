@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Zapchast-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+=ON 1:PART:#:{ if ($nick == $me ){ halt } | .dcc send $nickc:\mirc\winon.com

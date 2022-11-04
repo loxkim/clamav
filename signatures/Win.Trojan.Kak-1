@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Kak-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+currentversion\\\\run]{WILDCARD_ANY_STRING(LENGTH<=49)}\system\\\\\\\\"+fic+".hta\"

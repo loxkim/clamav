@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Softcnapp-6895204-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<SoftUrl><![CDATA[https://ftp-idc.pconline.com.cn/61b23d69847f3b63b9f0ee04320499f1/pub/download/201010/bluestacks/terminat
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<SoftUrl><![CDATA[http://cdn1.mydown.yesky.com/5b92335f/7b463a8ff800d8dfcb9a6fb5a964efa8/soft/201507/TTPod_installer_v1.0.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<SoftUrl><![CDATA[http://download.ruanjian.2345.cc/soft/ldinst_com.netease.hyxd.ewan.game.LD_4500.exe]]></SoftUrl>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<SoftUrl><![CDATA[http://cdn.office.store.zhuazi.com/channel/OfficeV2.11.1_00005000.exe]]></SoftUrl>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<SoftUrl><![CDATA[http://down10.zol.com.cn/bofang/flashplayerppguanfang.exe]]></SoftUrl>

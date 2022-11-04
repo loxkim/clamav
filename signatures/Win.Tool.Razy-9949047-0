@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Razy-9949047-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://pass-api-v2.canal-plus.com/services/apipublique/login
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Host:pass-api-v2.canal-plus.com
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+vect=INTERNET&media=IOS%20PHONE&portailId=OQaRQJQkSdM.&distributorId=C22021&analytics=false&trackingPub=false&email=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+User-Agent:myCANAL/1183 CFNetwork/1107.1 Darwin/19.0.0
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+passToken":"

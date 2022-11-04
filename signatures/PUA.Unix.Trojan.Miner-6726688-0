@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Trojan.Miner-6726688-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+70add_out_to_get_rct_random_outsERNSt3__14listINS_34COMMAND_RPC_GET_RANDOM_RCT_OUTPUTS9out_entryENS1_9allocatorIS4_EEEEym
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+58get_outsERKNS_27COMMAND_RPC_GET_OUTPUTS_BIN7requestERNS1_8responseE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+yget_block_templateERNS_5blockERKNS_22account_public_addressERyS6_S6_RKNSt3__112basic_stringIcNS7_11char_traitsIcEENS7_9allocato
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+79get_current_cumulative_blocksize_medianEv
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+~get_blockchain_total_transactionsEv

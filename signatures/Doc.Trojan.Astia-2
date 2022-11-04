@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Astia-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If NT.Lines(1, 1) <> "'>>-- J1nt0 -->" Then{WILDCARD_ANY_STRING}NT.DeleteLines 1, NT.CountOfLines{WILDCARD_ANY_STRING}T.InsertLines 1, "'>>-- J1nt0 -->" & Chr(13

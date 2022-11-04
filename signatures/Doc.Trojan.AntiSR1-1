@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.AntiSR1-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Application.VBE.ActiveVBProject.VBComponents("FuSR_1").Export "basname$"

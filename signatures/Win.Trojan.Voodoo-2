@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Voodoo-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo "msgbox \"Ye paper dolls shall find thee fringes wrought in ebony flame !\"\n";

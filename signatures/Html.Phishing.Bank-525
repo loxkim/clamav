@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-525
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+forces us to block your account temporarily until you verify your identity on our systems{WILDCARD_ANY_STRING(LENGTH<=25)}you can verify yourself at this form

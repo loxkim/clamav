@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Hosts-12
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+%reggistr% "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SystemRestore"  /v DisableSR /t REG_DWORD /d 0x00000001 /f
+(start /low /min iexplore.exe "http://ver.down

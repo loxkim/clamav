@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6629310-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E:\QT FlashTool\SPFlashToolAPCore-build-desktop-Qt_4_7_4_for_Desktop_-_MSVC2008__Qt_SDK__Release\release\flash_tool.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+storage type(%s) -> is_support(%s), is_support_auto_format(%s), storage_type_(%s), memory_type_(%s).
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+m2?supportedDropActions@QListWidget@@MBE?AV?$QFlags@W4DropAction@Qt@@@@XZ
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?dropMimeData@QListWidget@@MAE_NHPBVQMimeData@@W4DropAction@Qt@@@Z
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+G ?moveCursor@QListView@@MAE?AVQModelIndex@@W4CursorAction@QAbstractItemView@@V?$QFlags@W4KeyboardModifier@Qt@@@@@Z

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Startpage-62
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+chcentral.cc/search.php?v=4&aff=2806";
+var fso = new ActiveXObject("Scripting.FileSyst

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ransomware.ProLock-9205487-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+powershell.exe -nop -w hidden -e{WILDCARD_ANY_STRING}iaagacaaiaajagyadqbuagmadabpag8abgagaewabwbjageabaa6aguacqbtahuaa

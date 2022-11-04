@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zbot-9833671-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\DarkEyE\Desktop\a.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+user46.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+kernel46.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Gw_y*/vJI|Ol+lh^|wG->HBUpr@BRyY5N.9XfT3+,)2ncnKw_y*/vJI|Ol+lh^|wG->HBUpr@BRyY5O.9XfT3+,)2ncnKw_y*/tJI|Ol+lh^|wG->HBUpr@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pr@BRyY5N.9XfT3+,)2ncnKw_y*/vJI|Ol+lh^|wG->HBUpr@BRyY5N.9XfT3+,)2ncnKw_y*/vJI|Ol+lh^|wG->HBUpr

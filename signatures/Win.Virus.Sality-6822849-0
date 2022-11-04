@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6822849-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+OTo reinstall Canon LASER SHOT LBP-1210 printer, you must restart your computer.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Removing... Please wait!yThis application will remove the Canon LASER SHOT LBP-1210 software from your computer.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Start Spooler service or restart Windows.6Administrative privilege required to run this program.CCanon LASER SHOT LBP-12
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The Uninstaller has finished removing the Canon LASER SHOT LBP-1210 software. 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+All of the following Canon LASER SHOT LBP-1210 printers will be deleted.

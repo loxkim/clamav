@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36375
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+while(i!=s.length){c=c+w["fromcharcode"](s[i]+18);i++;}window["eval"](c);

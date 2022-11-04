@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Osm-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f FileLen(Application.StartupPath + "\Startup.dot") < 10 Then MsgBox ("1")

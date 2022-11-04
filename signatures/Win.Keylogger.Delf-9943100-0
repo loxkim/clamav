@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Delf-9943100-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://wwwss.bradesco.com.br/scripts/ib2k1.dll/LOGIN?AGN=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://bradesconetempresa.com.br/scripts/office.dll/DISPOSITIVO2/VERIFICADISPOSITIVO
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://bradesconetempresa.com.br/ne/neFrameMaster.asp?CONTROLE=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\Software\Microsoft\Windows\CurrentVersion\Internet Settings\User Agent\Post Platform
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+. Embedded Web Browser from: http://bsalsa.com/

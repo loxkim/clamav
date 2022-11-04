@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Petik-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+v.Body="This confidential docume{WILDCARD_ANY_STRING}env.Attachments.Add("C:\My Documents\mgoat003.doc")

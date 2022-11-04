@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Hotkeychick-9785883-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Run, % updFolder . "\" . A_ScriptName . " " . DllCall("GetCurrentProcessId"),, UseErrorLevel
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+res := DllCall("Psapi\GetModuleFileNameEx", "Ptr", hProcess, "Ptr", 0, "Str", filePath, "UInt", MAX_PATH)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MsgBox, Failed to open the process %PID%`, error: %A_LastError%
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+if !hProcess := DllCall("OpenProcess", "UInt", flags, "UInt", 0, "UInt", PID, "Ptr") {
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RegRead, progID, HKCU\SOFTWARE\Microsoft\Windows\Shell\Associations\URLAssociations\https\UserChoice, progId

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Phorpiex-9892131-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@oe8vn5ts84y5tq9458vt0qm4yv0q,u4096uc;q4uvq0n4508q0v5unq'048vt0a5ya0845yb08a4um5yv9qcu4[085yvq05n[tq0vum5yq048ynuq045uy0vqX
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+m385yv8q54yu8mw6yuw9m06yumw6uyvw;o85w6mybmsu6uys580w48u68uq46[yqv4m8tquv;mou;45ybq5nuvs858v8m5[8q]45yumqb4[5by[KPF
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+constructor or from DllMain.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ZPTPIX
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SDFSFGEGRE

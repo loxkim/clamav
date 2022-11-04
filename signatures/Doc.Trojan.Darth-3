@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Darth-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If sCode = "Darth V1.0" Then bProtected = True{WILDCARD_ANY_STRING}Activ = True Then Dobj.VBComponents.Import ("c:\Darth.vxd")

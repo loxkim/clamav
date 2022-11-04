@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-49
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+=on TEXT:Spy:#:/ignore # $nic{WILDCARD_ANY_STRING}=on TEXT:Trojan:#:/ignore # $nick

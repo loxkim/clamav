@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-521
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+[autorun] open=vyeun.exe shell\open\command=vyeun.exe 

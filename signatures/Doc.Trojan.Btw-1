@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Btw-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+alTemplate.VBProject.VBComponents("AutoR").Export ("c:\Repeat.tmp")

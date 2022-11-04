@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Ransomware.Petya-6331314-1
+TDB: Target:1
+LOGICAL EXPRESSION: 1&(0|2|3)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+perfc.dat
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ooops, your important files are encrypted.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wowsmith123456@posteo.net
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{STRING_ALTERNATIVE:S|s}ysinternals

@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Worm.Omega-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:unoutlookex
+del /q "c:\Program Files\Outlook Express\*.*"
+goto unnorton
+
+:unnorton
+del /q "c:\Program Files\Norton An

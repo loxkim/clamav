@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Mphak-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+(insertip (getenv ("remote_addr"), 1) == false) { include "blank.php"; exit; } increasevalue ("loads", "main"); $fsize = filesize ($exeurl); $fp = fopen ($exeurl, "r"); $content = fread ($fp, $fsize); fclose ($fp); header ("accept-ranges: bytes\r\n"); header ("content-length: ".$fsize."\r\n"); header ("content-disposition: inline; filename=".$exeurl."\r\n"); hea

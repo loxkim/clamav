@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-576
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+I want to share my photo with you.{WILDCARD_ANY_STRING(LENGTH<=4)}Wishing you all the best.

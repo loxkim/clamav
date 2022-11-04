@@ -1,0 +1,18 @@
+VIRUS NAME: Js.Trojan.Diplugem-1
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0>20&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+':function({WILDCARD_IGNORE},{WILDCARD_IGNORE}){return {WILDCARD_ANY_STRING(LENGTH>=1&&<=4)};},'
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+var zycript={xlat:
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+},syncer={url:zycript

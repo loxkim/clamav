@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Bulz-9887342-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\ZivSomech\source\repos\scenario-generator\x64\GeneratedKey\CymulateNativeRansomwareGeneratedKey_64.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CymulateEDRScenarioExecutor.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Log:failed to get encryption_path from arguments (resources), using default path (%s).
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Log:failed to get encryption_method from arguments (resources), using default encryption_method (Win_AES256).
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+log:WinAES256EncryptFile::GetFileSizeEx() Failed - %ls 

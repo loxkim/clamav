@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.TrickBot-7577269-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\Users\User\Desktop\2005\3.1.20\CustomToolTipsDemos\CustomToolTipsDemos\CustomToolTipPlusDemo\Release\CustomToolTipP
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CustomToolTipPlusDemo.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+and the background fades from white to light yellow.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+le to assess whether the text is being wrapped properly. This should just about do it.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'\\````ddddd```aa\a[\\\`a`aa_c\[[ZZ]KGJKGJI1HHH122200000

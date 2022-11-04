@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NewHope-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nents(1).CodeModule.Lines(2, 1) = "Rem" Then NormInstalled = True{WILDCARD_ANY_STRING}.Font.Name = "?©Ý?E"

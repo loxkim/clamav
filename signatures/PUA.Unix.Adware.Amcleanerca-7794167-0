@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Adware.Amcleanerca-7794167-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-[wmrotw1ntRFUA wmrotcDWB4U2U:password:wmrotftY9qApB:wmrotmjJTfFA0:wmrotkUt3rhw0:wmrotmcHivF5V:wmrotuw9ZHkd5:wmrotwZkhDnJd:]
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-[wmrottDjEOiYv connection:didSendBodyData:totalBytesWritten:wmrotteo1IdQP:]
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-[wmrottDjEOiYv connection:didFailWithError:]
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-[wmrottDjEOiYv connection:willSendRequest:redirectResponse:]
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rotjBuoqRyk:wmrotpaSOz0mJ:wmrotpkp65wpK:wmrotra7WidBH:wmrotb2z5sU69:wmrotxx6qq2Go:wmrotuAXVw6An:wmrotj3WDL31O:wmrotaDJm9Pbx:

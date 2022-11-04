@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Installcore-9762679-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity version="2.3.2.0" processorArchitecture="x86" name="Nalesap.exe" type="win32"/> <trustInfo xmlns="urn
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-microsoft-com:asm.v3">  <security>   <requestedPrivileges>    <requestedExecutionLevel level="asInvoker" uiAccess="false" 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7489165023@>?=;<:RTISUVWYCLXJZONQPADBEFGKHM^]\[`_baopfenqusvtrgcdhmjlikxwzy
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersio
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+</requestedPrivileges>  </security> </trustInfo> <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">  <applicat

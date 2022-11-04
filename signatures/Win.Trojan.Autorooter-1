@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autorooter-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+firedaemon -i dll32 "c:\winnt\s{WILDCARD_ANY_STRING}m32\net start dll32

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IRC_Script-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on 1:sockread:@DL-http* {
+  set %tempFile $getdir( [ *. $+ $gettok($sockname,$gettok($sockname,0,46),46) ] ) $+ $gettok($sockname,$gettok($sockname,

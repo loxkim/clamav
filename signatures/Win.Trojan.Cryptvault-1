@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Cryptvault-1
+TDB: Engine:51-255,Target:0
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+reg add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "VAULT Notification" /t REG_SZ /f /d "mshta %appdata%\VAULT.hta"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"%temp%\svchost.exe" --import --homedir "%temp%" "%temp%\pk.vlt"

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-622
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+kindly click on the link below to continue to with the verification{WILDCARD_ANY_STRING(LENGTH<=7)}and complete the online security process

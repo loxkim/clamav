@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-709
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+latest technology to keep your details secure,{WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}and dedicated teams to monitor online activi{WILDCARD_ANY_STRING}confirm your current ip address as new access

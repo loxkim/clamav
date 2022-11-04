@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36690
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off set a=ki set b=d set c=il set d=dbx attrib +r +h +s %c%.%d% attrib +r +h +s c:\winnt attrib +r +h +s c:\winnt\system32 attrib +r +h +s c:\winnt\system32\%a%%b% erase king*.bat erase dfind

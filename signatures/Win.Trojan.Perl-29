@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-29
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+sub cmd{ $title="webshell"; &head; $_ = $t{"cmd"}; s/\+/ /ig; s/%20/ /ig; s/%2f/\//ig; s/%3a/:/ig;

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-131
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+passthru('cd /tmp;curl -o{WILDCARD_ANY_STRING(LENGTH<=150)}passthru('cd /tmp;wget {WILDCARD_ANY_STRING(LENGTH<=150)}passthru('cd /tmp;get

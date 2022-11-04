@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-813
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+"15">&nbsp;<a href="http://{WILDCARD_ANY_STRING(LENGTH<=150)}"><b>log on</b></a>at etrade.com and choose the <b>accounts</b>tab. <br><img src="https:

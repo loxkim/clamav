@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Fireal-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If fireal.Properties.Count = 73 And fireal.codemodule.Lines(1, 1) <> "'fireal" Then

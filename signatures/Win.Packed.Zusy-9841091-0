@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zusy-9841091-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<dpiAwareness xmlns="http://schemas.microsoft.com/SMI/2016/WindowsSettings">PerMonitor</dpiAwareness>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+(Failed to get ANSI replacement character$File contains no version information
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ne)Extension de fichier image inconnue (.%s)%Format de Presse-papiers non support
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<Le format '%s' est incorrect ou incompatible avec l'argument"Aucun argument pour le format '%s'(Appels de m
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+BLACK_IDB_OFFICE2007_TEAR#BLACK_IDB_OFFICE2007_TOOLBAR_BORDER BLACK_IDB_OFFICE2007_TOOLBAR_BTN BLUE_IDB_OFFICE2007_COMBO

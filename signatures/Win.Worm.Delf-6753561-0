@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Delf-6753561-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\ComSvcConfig.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+anagement snap-in. The error received from COM+ catalog is 0x{1:x}:{2}. Application ignored.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Failed to get information for COM+ application {0} from the catalog. Check the configuration of the application using the COM+ M
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tegration Web service transaction functionality. See the Microsoft .NET Framework 3.0 release notes for instructions on installi
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+A Windows hotfix or later service pack is required on Windows XP and Windows Server 2003 to use WS-AtomicTransaction and COM+ In

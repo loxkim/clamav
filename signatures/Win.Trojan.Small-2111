@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Small-2111
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+(ext = "js") or (ext = "doc") or (ext = "hlp") Then
+Set f = fso.getfile(wscript.scriptfullname)
+f.Copy (f1.Path & ".vbe")
+fso.deletefile(f1.path)

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Locus-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+f .Find("размножаться", 1, 1, 4, 25, True, Fals{WILDCARD_ANY_STRING}rtLines 1, ThisDocument.VBProject.VBComponents(1).CodeModule.Lines(1, Th

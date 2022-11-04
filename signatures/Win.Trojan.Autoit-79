@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Autoit-79
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$dirtosave='c:\windows\system32\log\kl.txt'
+   $dirtosavep='c:\windows\system32\log\'
+   DirCreate('c:\windows\system32\log')
+   DirCreate('c:\windows\system32\lsass')
+   FileSetAttrib('c:\windows\system32\log','+SH')

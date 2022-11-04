@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Coinminer-6443183-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Monero_Loader\Release\xmrig.pdb

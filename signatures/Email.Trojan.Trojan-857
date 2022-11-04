@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-857
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+parcel was sent to your home address{WILDCARD_ANY_STRING(LENGTH<=64)}More information and the tracking number are attached in document

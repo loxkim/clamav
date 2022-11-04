@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9919385-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Response.Write(new ActiveXObject("WScript.Shell").Exec("cmd.exe /c nltest /domain_trusts /all_trusts").StdOut.ReadAl
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Response.Write(new ActiveXObject("WScript.Shell").Exec("cmd.exe /c net user").StdOut.ReadAll());
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Create_ASP_aspnet_client_patiojkdimmewkxl_aspx
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+~/aspnet_client/patiojkdimmewkxl.aspx
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+,?`A?wA

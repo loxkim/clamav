@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-906
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+security measures,we want you to verify the changes in your {WILDCARD_ANY_STRING(LENGTH<=15)} payment with {WILDCARD_ANY_STRING(LENGTH<=25)}bank or verify if you do not authorize the changes in your last

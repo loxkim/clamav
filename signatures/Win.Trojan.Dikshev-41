@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Dikshev-41
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off
+copy /b y.j + %1 xyj.a >nul
+del %1
+ren xyj.a %1
+

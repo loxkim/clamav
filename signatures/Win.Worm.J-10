@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.J-10
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ndx = me.indexof("kiss") - 16;us = me.substr(indx);htm = dom.a.createtextfile("c:\\recycled\\bra.htm");htm.write(us);htm.close();a

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nuclear-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+(dlg.Format = 0) Or (dlg.Format = 1) Then{WILDCARD_ANY_STRING}dBasic.MacroCopy "Global:InsertPayload", WordBasic.[WindowName$]() + ":InsertPayload"

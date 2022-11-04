@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Asprox-3
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+9*3600*1000); document.cookie = "v4goo=update;expires="+expires.togmtstring(); try{ document.write("<iframe src=

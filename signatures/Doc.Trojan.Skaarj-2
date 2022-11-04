@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Skaarj-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Const Mark = "JERRY © MoDule-S 2002"{WILDCARD_ANY_STRING}If Application.UserName <> "IDm@n" Then

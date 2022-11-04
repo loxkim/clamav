@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-34554
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.set %CServer $2 | .set %Cport $4 | .set %Ccount $3 | clone %ccount %cserver %cport | /msg # 4Loading clones on $2

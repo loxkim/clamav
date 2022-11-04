@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Cryptolocker-7101639-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Judith.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s^`f%NUf%NUf%NUf%NUf%NUf%NUf%NUf%NUf%NUf%NUf%NUf%NUf%NUf%NUf%NUf%NUf%NUf%NUf%NUf%NUf%NUf%NUf%NUaV
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+B^`f% ef% ef% ef% ef% ef% ef% ef% ef% ef% ef% ef% ef% ef% ef% ef% ef% ef% ef% ef% ef% ef% ef% eaV
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+`f%)Vf%)Vf%)Vf%)Vf%)Vf%)Vf%)Vf%)Vf%)Vf%)Vf%)Vf%)Vf%)Vf%)Vf%)Vf%)Vf%)Vf%)Vf%)Vf%)Vf%)Vf%)Vf%)Va
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+`f%;]f%;]f%;]f%;]f%;]f%;]f%;]f%;]f%;]f%;]f%;]f%;]f%;]f%;]f%;]f%;]f%;]f%;]f%;]f%;]f%;]f%;]f%;]a

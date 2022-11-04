@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Agent-36144
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+6MG38.regread(r68j2v68e3KcnBIZ7J & "CurrentVersion")
+Else
+  r68j2v68e3KcnBIZ7J = "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\"
+  n31lgQxU

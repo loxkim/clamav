@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Mobius-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+mspec% nul /e:9705 /f/c%_td%\vi . .. c:\ %path%
+:$vclnup$
+if not $%

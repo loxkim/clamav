@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Sity-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for %%b in (*.sity) do if not %%b==autoexec.bat

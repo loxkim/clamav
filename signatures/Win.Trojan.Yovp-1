@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Yovp-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set openvir = fso.createtextfile ("C:\openvir.bat", true)
+openvir.writeline ("@echo off")

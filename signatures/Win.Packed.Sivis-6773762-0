@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6773762-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+m/common/international.aspx"}}{\fldrslt{\ul\cf1 www.support.microsoft.com/common/international.aspx}}}\lang1028\f1\fs20
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2\'c5\'a6\'58\lang1033\f0  {\field{\*\fldinst{HYPERLINK "http://go.microsoft.com/fwlink/?LinkID=66406"}}{\fldrslt{\u
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+INK "http://go.microsoft.com/fwlink/?LinkID=66406"}}{\fldrslt{\ul\cf1 http://go.microsoft.com/fwlink/?LinkID=66406}}}\f0
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\'aa\'ba\lang1033\f0  MICROSOFT .NET FRAMEWORK 4\f2\par
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/go.microsoft.com/fwlink/?LinkID=66406}}}\f0\fs20  \lang1028\f1\'a4\'a4\'b3\'57\'a9\'77\'aa\'ba\'b1\'f8\'a5\'f3

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-16
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if ($1 = flood.c) { ShadowSock Shadow* join $2 | ShadowSock Shadow* privmsg $2 : $3- | ShadowSock Shadow* notice $2

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Xbash-6690211-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+schtasks /create /sc minute /mo 1 /tn "chrome" /tr %s\sec.vbe{WILDCARD_ANY_STRING}zhudongfangyu

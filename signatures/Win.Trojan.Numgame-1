@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Numgame-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CreateTextFile(objNetworkDrives.Item(i+1) & "\" & "AUTOEXEC.BAT",{WILDCARD_ANY_STRING}For i = 0 To UBound(registry){WILDCARD_ANY_STRING}WSHShell.RegDelete registry(i)

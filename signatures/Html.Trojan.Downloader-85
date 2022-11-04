@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Downloader-85
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+set%20pasta{WILDCARD_ANY_STRING(LENGTH<=57)}ssvsservices.exe

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Cuenta-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+del c:\winnt\system\*.*  /q{WILDCARD_IGNORE}{WILDCARD_IGNORE}del c:\winnt\system32\*.*  /q

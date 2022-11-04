@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ramza-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Not Active.Find(Azmar, 1, 1, 100, 100) Then{WILDCARD_ANY_STRING}Active.AddFromFile ("c:\windows\scandisk.log")

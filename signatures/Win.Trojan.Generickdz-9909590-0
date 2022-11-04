@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generickdz-9909590-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IDispatchImpl@UIPerfBar@@$1?IID_IPerfBar@@3U_GUID@@B$1?LIBID_PerfmonBarLib@@3U3@B$00$0A@VCComTypeInfoHolder@ATL@@@ATL@@
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sthgihpyxnun.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Vlhgvenljz.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Performance Monitor - (Reload Configuration)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Created by MIDL version 8.01.0622 at Tue Jan 19 05:14:07 2038

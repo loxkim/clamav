@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Ecard-46
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+a Eastern postcard Greeting from{WILDCARD_ANY_STRING(LENGTH<=2)}someone who cares about you{WILDCARD_ANY_STRING(LENGTH<=70)}Just click{WILDCARD_ANY_STRING(LENGTH<=75)}here{WILDCARD_ANY_STRING(LENGTH<=16)}to receive

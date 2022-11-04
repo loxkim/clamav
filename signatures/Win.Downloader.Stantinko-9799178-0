@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Stantinko-9799178-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"266033,317204,100096,100808","posturl":"http://www.ems.com.cn/serviceguide/you_bian_cha_xun.html","languages":"zh"}
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E:\amigo_buildbot\builder\amigo_3_8\build\src\out\Release\chrome_watcher.dll.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ocatorId INT NOT NULL, correlationId INT NOT NULL, functionId INT NOT NULL, pcOffset INT NOT NULL, thReadsExecuted INT NOT NULL
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://schemas.microsoft.com/office/infopath/2003/aggregation-actionTable
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CHostedBrowserDialogWin::onNavigateError(): StatusCode is NULL

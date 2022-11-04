@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Acute-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Ct.Import .Path & "\Wintlb32.dll"{WILDCARD_ANY_STRING}Kill .Path & "\Wi{WILDCARD_ANY_STRING}Workbooks(Data0).Save{WILDCARD_ANY_STRING}Str(1, bg.FullName, "\") Then ActiveWorkbook.Sav

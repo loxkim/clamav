@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-979
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Subject: A new fax has arrived{WILDCARD_ANY_STRING(LENGTH>=630&&<=650)}attachment; filename="IncomingFax

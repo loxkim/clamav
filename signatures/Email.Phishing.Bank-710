@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-710
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+software upgrade to improve the quality of the banking{WILDCARD_ANY_STRING(LENGTH<=100)}link below you will begin the procedure of the user details confirmation.

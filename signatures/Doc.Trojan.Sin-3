@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sin-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ThisDocument.Variables(" & Chr(34) & "VCode" & Chr(34) & ").Value = (" & Chr(34) & "Msgbox " & Chr(34) & Chr(34) & "Seven

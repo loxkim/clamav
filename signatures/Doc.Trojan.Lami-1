@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Lami-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ents(i).Name <> "Kamila") And (.VBComponents(i).Name <> "frmAbout") Then{WILDCARD_ANY_STRING}rmalTemplate.VBProject.VBComponents.Import "C:\kamila.dl

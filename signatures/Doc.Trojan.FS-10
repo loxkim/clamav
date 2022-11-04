@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.FS-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+alTemplate.FullName, "Vivian", wdOrganizerObjectP{WILDCARD_ANY_STRING}mciSendString "set cd time format tmsf wait", 0, 0, 0

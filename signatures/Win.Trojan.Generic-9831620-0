@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9831620-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+= Process: C:\Windows\system32\svchost.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+= Module: c:\windows\system32\wuaueng.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+= Process: C:\Windows\system32\wuauclt.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+= Process: C:\Windows\SysWOW64\wusa.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Validating signature for C:\Windows\SoftwareDistribution\ScanFile\2b4e3c91-ac39-462d-9ffa-b65b57ff5a9d\Source.cab:

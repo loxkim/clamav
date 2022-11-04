@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Syncopate-9883105-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Impl_no_alloc0@U?$_Callable_obj@V<lambda4>@?A0xebb6d62f@GGS@@$0A@@tr1@std@@X@tr1@std@@
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Impl_no_alloc0@U?$_Callable_obj@V<lambda2>@?A0x2476420c@@$0A@@tr1@std@@X@tr1@std@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+1,0,383,7b2470967b0ac2cbdae938edcdf5cda44645ef25
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV<lambda1>@?A0xebb6d62f@GGS@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1/292D2[4u5

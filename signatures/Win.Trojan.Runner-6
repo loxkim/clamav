@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Runner-6
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+@echo off start 1.exe start 2.exe

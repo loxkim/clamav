@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Neo-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Date$ > "07-04-2000" Then GoTo del Else{WILDCARD_ANY_STRING}file3 = "c:\windows\himem.sys"

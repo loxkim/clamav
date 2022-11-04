@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Win.Tool.PsKill-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+PsKill {WILDCARD_ANY_STRING}local and remote process killer

@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Simple-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ple
+;(c) by Duke/SMF
+IntControl(29, @tab, 0, 0, 0)
+ErrorMode(@OFF)
+Viral = ""
+AllWBT = FileItemize("*

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-632
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Delivery to the following recipients failed.{WILDCARD_ANY_STRING(LENGTH<=15)}mailtinfo@{WILDCARD_ANY_STRING(LENGTH<=15)}.co.uk

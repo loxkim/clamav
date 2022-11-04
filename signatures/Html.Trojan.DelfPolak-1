@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.DelfPolak-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Windows\CurrentVersion\Run{WILDCARD_ANY_STRING(LENGTH<=47)}c:\WINDOWS\system32\system.exe

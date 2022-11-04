@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autorun-354
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+63687228612922266326224E6578742229":y="execute """"":z="&chr(&h":w=")":do while len(x)>1:if isnumeric(left(x,1)) then y=y&z&left(x,2)&w:x=mid(

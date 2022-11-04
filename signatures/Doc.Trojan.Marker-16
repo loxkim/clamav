@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Marker-16
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+r = UCase(InputBox("长安之星车长多少米?" & Chr(13)

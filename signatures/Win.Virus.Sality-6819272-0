@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6819272-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Error creating the destination directory, %s.  Make sure the directory's parent is writeable.  This disc will be skipped.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+You must stop the ALLDATA iShop Server from running before you can continue this process.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+You must stop ALLDATA for Windows from running before you can continue this process.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+When the last action has completed, the 'Finish' button will become active.  Press that button to exit this utility.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DiscCopy - Step 6 of 6 - Performing Requested Operations

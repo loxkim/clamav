@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Adware.Coupons-6417934-0
+TDB: Engine:70-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RETAILER: Authenticate at www.veri-fi.com. Do not accept without a dot-scan barcode below the expiration date.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TargetCoupon::PrintDashBorder, coupon frame rectangle top %d left %d bottom %d right %d
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Mozilla/4.0 (compatible; MSIE 7.0; %s; NET CLR 1.1.4322; .NET CLR 2.0.50727)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TargetCoupon::PrintLogo, logo has content
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TargetCoupon::PrintLegalText R.top: %d; R.bottom: %d

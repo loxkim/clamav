@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-113
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to update your ebay records on file now click below{WILDCARD_ANY_STRING(LENGTH<=30)}it is highly recommended that you right click on the link

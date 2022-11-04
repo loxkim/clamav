@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Biergit-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ocument.Password = "suppl"{WILDCARD_ANY_STRING}E\SOFTWARE\Microsoft\Windows\CurrentVersion", "RegisteredOwner") = "suppl"

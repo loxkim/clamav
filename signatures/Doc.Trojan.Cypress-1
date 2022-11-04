@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Cypress-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+xt = "yozac just finished the hell ping of " & g & ".From [d0s] with lobe"{WILDCARD_ANY_STRING}andBars(3).Name = "CypressSoldier"

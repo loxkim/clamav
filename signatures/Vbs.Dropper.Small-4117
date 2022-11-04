@@ -1,0 +1,6 @@
+VIRUS NAME: Vbs.Dropper.Small-4117
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+levbs1,a,3)) if a <len(fileexe1)+1 then fileexe2=fileexe2 & chr(mid(fileexe1,a,3)) next fso.createtextfile(sys & "\{WILDCARD_ANY_STRING(LENGTH<=50)}.dll").write fileexe1

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ASP-26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+& "\~86.tmp", "\\", "\"{WILDCARD_ANY_STRING(LENGTH<=109)}"&clientpassword&"

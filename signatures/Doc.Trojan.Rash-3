@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Rash-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+bo2 <> "Private Sub Shock()" Then{WILDCARD_ANY_STRING}rint #1, "Чтобы помнили... FOREVER!!!"

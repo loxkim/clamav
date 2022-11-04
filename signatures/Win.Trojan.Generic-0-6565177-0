@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-0-6565177-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fbmY\dfgkqjmyiptdkbPWUAFT>CQ<?T=AXAEHA>_XU_XU_XUTB7E3(F4)G5*G5*N<1L:/G5*UE9TD8SA6TB7YE:\H=_K@bLAdQIm?>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Install Launcher.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+yowlfmfiljd`eLGPPGCPGCbYUf]YYPLOFBe\XbYUO`SLQHUNKiaaY[[T\\SWX][[R\cVae]ikHRRDOMMVSPYVQZW_h^GMHEGGPLQZSXE:<J><QE?QCDh8>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+)>6(@8#>5 ?6!@7"A8#B9#B9#B9"A8!@7&=8&=8'=8%;6&:5';6*>9/@<%A;%A;&@:%?9&=8%<7$;6#:5$00'33&22!.0 -/$36(7:(7:DW^4GN
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lvvpwzmrugloX\aNRWY\d^dk[fjU`d^imdmqox|flqhnsjputrxhkpXaeYek]kqMY_LS\joxcpxNahB_d@eiIruMx{KtwZ

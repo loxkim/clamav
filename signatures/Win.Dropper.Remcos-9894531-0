@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Remcos-9894531-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cocco.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+i.)O4FOI\xyGJY+a<V6@`m\:3319ujvR)f,26)Q,^D=*L<-DU98xb9^r5k3qxM95+IDW3HGagl^2K?{\`-[cztXnBCo(=k6i;X,Yka*d4n+4.A]u-/>e]8;
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MSVBVM60.DLL 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ujvR)f,26)Q,^D=*L<-DU98xb9^r5k3qxM95+IDW3HGagl^2K?z\`-[cztXnBCo(=k6i;X.Yka*d4n+4.A]u-/>e]8;pzE
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BtIrks[fq7cb|lpc7fC@wd1vg):sr]]5CW0Q/Vs2toe.)O4FOI\xyGJI+axP6@`m\:3319ujvR)f,26)Q,^D=*bHH<!98x

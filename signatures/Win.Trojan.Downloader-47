@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-47
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+(payloadsize+0x38);varsprayslide=unescape("%u9090%u9090")

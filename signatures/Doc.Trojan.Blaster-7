@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Blaster-7
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Open "c:\cont.dbl" For Input As #1{WILDCARD_ANY_STRING}Line Input #1, stress{WILDCARD_ANY_STRING}bry.CodeModule.InsertLines count, stress

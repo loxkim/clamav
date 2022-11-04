@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-260
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+@homedrive & "\log"{WILDCARD_ANY_STRING(LENGTH<=1320)}$winpath & "autorun.inf"

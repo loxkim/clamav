@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Palindom-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+kewr=P
+%Palindrom%if %b% GTR 55 (set /A b=%b%/2)
+%Palindrom%if %b% LEQ 40 (set /A b=%b%+15)
+%Palindrom%if %b% GTR 55 (go

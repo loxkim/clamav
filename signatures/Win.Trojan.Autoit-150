@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autoit-150
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+##notrayicon {WILDCARD_ANY_STRING} = 0x00000001 to stringlen ( ${WILDCARD_ANY_STRING(LENGTH>=32&&<=96)} & chr ( asc ( stringmid ( $

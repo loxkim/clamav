@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Fela-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Randomize: On Error Resume Next
+Set ASCCBWN = CreateObject("Scripting.FileSystemObject")

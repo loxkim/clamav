@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Momma-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n50=  if ($1 == !stopspam) { unset %spam2 | unset %spam1 | msg # IRC Spam Di

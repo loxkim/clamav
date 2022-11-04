@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Virus.Naive-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@rem naive @if exist naive.* goto naive @if "%range_check%=="yes goto naive @echo>naive.com [ hex data1 ]

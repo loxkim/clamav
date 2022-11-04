@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Killfiles-32
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+del C:\autoexec.bat
+del C:\windows\win.com
+del C:\windows\command\mscdex.exe

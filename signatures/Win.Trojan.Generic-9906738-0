@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9906738-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd /c rmdir /s /q "%ProgramFiles%\
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SOFTWARE\Classes\exefile\shell\open\command
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd /c rmdir /s /q 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#VB6JP.DLL
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vlqvl]qlI]gSNX]bXXXXggg]bgb]SNSS]b]gqq{qlqgbg]D]bN]XN]gSbq]XgXXlSSqqb]S]]SI?SgbbglvqggbXb]S]XXbbblgllSX]NXbIXgXSbXSb

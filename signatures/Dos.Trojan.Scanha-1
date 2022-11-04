@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Scanha-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+erang_win.pl -h %ip% -p 80 -H %listener% -P %port% brute{WILDCARD_ANY_STRING}ice3% == 1 goto :dame-single

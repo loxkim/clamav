@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-300
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+">new activation</td{WILDCARD_ANY_STRING(LENGTH>=100&&<=300)}<p>j. s. smith<br>security advisor<br>barclays

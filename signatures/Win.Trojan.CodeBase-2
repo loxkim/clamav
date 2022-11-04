@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.CodeBase-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+function malware()
+{
+s=document.URL;path=s.substr(-0,s.lastIndexOf("\\"));
+path=unescape(path);

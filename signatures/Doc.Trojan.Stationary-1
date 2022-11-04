@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Stationary-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+d = d + "If NT.Lines(1, 1) <> ""'Stationery"" Then" + Chr$(13) + Chr$(10)

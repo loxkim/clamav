@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-992
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if your account information{WILDCARD_ANY_STRING(LENGTH<=1)} is not updated within the next {WILDCARD_ANY_STRING(LENGTH<=35)}, then we will assume this account is fraudulent and will be susp

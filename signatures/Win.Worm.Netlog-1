@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Netlog-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+anMan\Rainbow\Path","C:\\"
+regcreate "HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\VxD\VNETSUP\ComputerName"="Rainbow"

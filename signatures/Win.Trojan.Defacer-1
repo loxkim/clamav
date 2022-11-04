@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Defacer-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+{$fe="safemode";$feshow=$fe;} elseif($fune('shell_exec')){$fe="shell";$feshow="shell_exec";} elseif($fune('passthru')){$fe="passthru";$feshow=$fe;} elseif($fune('system')){$fe="system";$feshow=$fe;} elseif($fune('exec')){$fe="execc";$feshow="exec";} elseif($fune('popen')){$fe="popenn";$feshow="popen";}

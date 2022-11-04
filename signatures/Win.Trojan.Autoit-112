@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autoit-112
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+$dirtosave='c:\windows\system32\log\kl.txt' $dirtosavep='c:\windows\system32\log\' dircreate('c:\windows\system32\log') dircreate('c:\windows\system32\lsass') filesetattrib('c:\windows\system32\log','+sh')

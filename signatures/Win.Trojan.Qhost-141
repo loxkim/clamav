@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Qhost-141
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+attrib -a -s -h -r %windir%\system32\hosts attrib -a -s -h -r %windir%\hosts del %windir%\system32\drivers\etc\hosts del %windir%\system32\drivers\hosts del %windir%\system32\hosts del %windir%\hosts

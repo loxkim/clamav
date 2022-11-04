@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Crazy-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox "You Infected WM97.Crazy by ULTRAS", vbCritical + vbOKOnly, "ULTRAS"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Rebooter-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+c:\windows\regedit -s aggiorna.reg :exit cls goto end :res cls :end del c:\*.reg

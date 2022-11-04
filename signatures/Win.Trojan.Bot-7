@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bot-7
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+com = explode(" ", $dcommand); $dnick = strtolower($dnick); if ($dcom[0]=='kick' && $dcom[2]==$nick) { fputs($fp, 'join ' .$dcom[1]. crl); } elseif ($dcom[0]=='nick' || $dcom[0]=='part' ) { if ($auth["$dnick"]) { if ($auth["$dnick"]["pass"]) { if ($auth["$dnick"]["auth"]==2) { if ($dcom[

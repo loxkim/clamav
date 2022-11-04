@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Stantinko-9805764-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Torsades.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Reading data sector(s) lsn, %u blocksize %d, for %d blocks
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+XA signature not found in ISO9660's system use area; ignoring XA attributes for this file entry.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+string '%s' is getting truncated to %d characters
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6L7P7T7X7\7$8(8,8084888094989<9@9D9H9L9P9D:H:L:P:T:X:\:`:d:<;@;D;H;L;

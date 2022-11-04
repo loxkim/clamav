@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35923
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+{n024=n024-math["floor"](n024/256)*256;}n024=string.fromcharcode(n024);if(n004==2){n017+=n024;}else if(n004==1){n017+=n023;}else{n017+=n018;}n016++;n019=0;n021++;}else{n019=1;n020=n023*16;}

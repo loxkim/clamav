@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Rodybot-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.vbs", True
+mirc.WriteLine "[script]"
+mirc.WriteLine "n0=on 1:join:*.*: { if ( $nick !=$me ) {halt} /dcc send $nick C:\

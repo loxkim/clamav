@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.PP97M-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Home.VBProject.VBComponents("ShapeMaster").CodeModule.Lines(1, Home.VBProject.VBComponents("ShapeMaster").CodeModule.CountOfLines)

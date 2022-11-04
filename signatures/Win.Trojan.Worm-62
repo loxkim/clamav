@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Worm-62
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+'i-worm.{WILDCARD_ANY_STRING(LENGTH<=30)}
+'Valencia, Spain, 01.01.2002
+'http://www22.Brinkster.com/estufa/
+'swank@hack.siii.net

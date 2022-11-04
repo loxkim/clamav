@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Starer-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+appleobject.createinstance() set wsshell = appleobject.getobject() wsshell.run(path + "winfile.exe")

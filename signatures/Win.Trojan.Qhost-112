@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Qhost-112
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ee.com
+127.0.0.1 customer.symantec.com
+127.0.0.1 liveupdate.symantec.com
+127.0.0.1 us.mcafee.com
+127.0.0.1 updates.symantec.com
+127.0.0.1 upd

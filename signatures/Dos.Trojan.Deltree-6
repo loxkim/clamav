@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Deltree-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cho autoexec.3 deltree /y \windows\{WILDCARD_IGNORE}{WILDCARD_IGNORE}   echo autoexec.4 deltree /y \dos\

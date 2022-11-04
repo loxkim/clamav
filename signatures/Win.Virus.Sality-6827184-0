@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6827184-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+A*\AD:\DBUTIL\MRDel\MRDel.vbp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Update Mrso set MrsoAdjNo = null, MrsoAdjDt = null, MrsoTotAdjAmt = 0 where 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Update EmdVoucher Set EmdvMrst = null, EmdvMrno = null, EmdvMrsf = null, 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Update Bill set BillRlInd = null, BillRlDt = null 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Update Cnsm set CnsmRlInd = null, CnsmRlDt = null 

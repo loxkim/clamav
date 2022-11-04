@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1070
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+banking procedures to be initiated{WILDCARD_ANY_STRING(LENGTH<=7)}your online banking needs to be updated for online banking authen

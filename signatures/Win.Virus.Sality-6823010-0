@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6823010-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Update.EXE
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+USBGuard.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+YLkF8`=0qMC~WO|RK{QJd=5a=3_:2[7-X3+U1'S.&Q-#S.&T0&U0(U1'U0(T0&U0(V2(O+#T1'Z6.^;1a<4a=3d=5f?6tJCwNExNGwNE{OHyNEoC<c8/f9.zMB
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\Zbshareware Lab\updatefile.ini
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+O,"W4'd=4nH<jA8nD8rD<rD9q@8p=3o;4n;1h8,b3%a0"d3%l;-rA3t@3q=0q=0o;.o:-o:-q</r=0t=0s</t@0o;+n:*wC3

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Sohanad-144
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+gau Nhien
+Dim $tin[10]
+$tin[0] = "This is my new Picture. :P " & $website & " "
+$tin[1] = "Beauty Nude pic

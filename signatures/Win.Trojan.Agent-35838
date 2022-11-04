@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35838
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+goto try cmd.exe /c start c:\progra~2\96792235\96792235.exe /install del "c:\progra~2\96792235\96792235.bat" exit

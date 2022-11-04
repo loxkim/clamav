@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-248
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ebaystatic.com/aw/pics/s.gif" width="5" height="5"></td></tr><tr><td><br><a target="_new" <a href="http://{WILDCARD_ANY_STRING(LENGTH<=25)}/https://signin.ebay.co

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Alicia-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+word.options.virusprotection = false

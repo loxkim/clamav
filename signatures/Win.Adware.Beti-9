@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Adware.Beti-9
+TARGET TYPE: PE
+OFFSET: S2+1096
+DECODED SIGNATURE:
+th="SOFTWARE\Lavasoft\AD-Aware" subtree="no"/>
+<key hive="HKLM" path="SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Ad-aware 5" subtree="no"/>

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Downloader-67
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+href="/msdataaccess.exe{WILDCARD_ANY_STRING(LENGTH<=200)}{ var xored_str = ""; for (var i = 0 

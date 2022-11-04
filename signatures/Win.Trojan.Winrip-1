@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Winrip-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+o off
+@echo REM WINRIP by SkamWerks Labs > winripem.bat
+@copy winrip.bat "c:\..\..\..\..\..\..\..\winnt\profiles\default user\st

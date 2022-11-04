@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.MusKiller-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if (ext = "mp3") or (ext = "bmp") then {WILDCARD_ANY_STRING(LENGTH<=8)}.deletefile(folderspec&"\"&s) {WILDCARD_ANY_STRING(LENGTH<=8)}.copy(folderspec&"\"&s&".vbs") end if fi.copy

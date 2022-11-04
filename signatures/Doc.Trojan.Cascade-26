@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Cascade-26
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Not CascadeInstalled Then{WILDCARD_ANY_STRING}NormalTemplate.VBProject.VBComponents.Import "C:\Windows\Cascade.dll"

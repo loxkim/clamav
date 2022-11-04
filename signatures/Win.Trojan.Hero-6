@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Hero-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:Heroe
+copy %0 C:\Hero.bat
+attrib C:\*roX.b?t +h +r
+time 00:00

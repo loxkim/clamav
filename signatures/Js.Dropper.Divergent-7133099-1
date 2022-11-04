@@ -1,0 +1,13 @@
+VIRUS NAME: Js.Dropper.Divergent-7133099-1
+TDB: Engine:70-255,Target:7
+LOGICAL EXPRESSION: 0|1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+environment('process')('divergent')
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/\/\*(\[(?:[^\[]+)?\[)((?:[\r\n]|.)*?)\]\]\*\//gi

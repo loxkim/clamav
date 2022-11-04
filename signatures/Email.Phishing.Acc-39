@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Acc-39
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+From:{WILDCARD_ANY_STRING(LENGTH<=350)}<info@continue.com>{WILDCARD_ANY_STRING(LENGTH>=500&&<=550)}We are looking for secret evaluators

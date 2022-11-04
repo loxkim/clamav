@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Lowsec-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+firewall set opmode mode=disable net stop sharedaccess net stop "security center" net share system=%systemdrive% /unlimite

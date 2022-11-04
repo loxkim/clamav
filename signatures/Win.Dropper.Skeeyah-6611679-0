@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Skeeyah-6611679-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eb8ADDgzM0NicmUAZWN7aZGYQWwA1G93SmVzdXMAdmJ7bGxvdGUAZEluc3BlY3QANWNlaWxpbmcAc0hvcm9zY28AcGVBYnNubHUAznlzen3GbKwAVdBtKb5S9PEAJgYM
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+noce.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+P617F8E5D89878A8C7F8D8D7F7E6083867F6D83947F71
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ckiyduomugvmtqresvugmmloezjlnizthixgjtrfopvnmfxfnjvkowxhrwxkhptcroonqglqkjunpjlskyslvqqhhfycxeqzrplxvbbhstfwjeiogzzyrmrc
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Compted

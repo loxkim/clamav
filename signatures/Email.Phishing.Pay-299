@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-299
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+notre compagne de protection anti-pirates,{WILDCARD_ANY_STRING(LENGTH<=2)}nous inspectant regulierement les activites de nos utilisateurs

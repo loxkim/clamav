@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-9756916-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Kasalukuyang nag-i-installdHindi pa kumpletong nai-install ang Justefy. Sigurado ka bang gusto mong kanselahin ang pag-i
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<description>Justefy</description>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Ini-extract ang Justefy...)Dina-download ang nilalaman ng partner...Nabigong i-extract ang Justefy.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Dina-download ang Justefy... Nabigong i-download ang Justefy.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Installer ng Justefy

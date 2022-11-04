@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Acc-27
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Failure to do this will immediately render your email address{WILDCARD_ANY_STRING(LENGTH<=3)}deactivated from our database.

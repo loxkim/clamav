@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-253
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+\autorun.inf{WILDCARD_ANY_STRING(LENGTH<=148)}shell\open\command={WILDCARD_ANY_STRING(LENGTH<=179)}\CurrentVersion\Run

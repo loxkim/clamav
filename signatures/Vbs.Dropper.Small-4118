@@ -1,0 +1,8 @@
+VIRUS NAME: Vbs.Dropper.Small-4118
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+"HTML" or ext="HTT" then
+if right(fso.opentextfile(fi,1).readall,len(filehtm))<>filehtm then
+fso.opentextfile(fi,8).write vbcrlf & filehtm

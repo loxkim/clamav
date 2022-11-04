@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Tiny-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ttrib c:\_TiNy.bat +h
+:TiNyg
+command /c c:\_TiNy TiNy vir
+:eTiNy
+se

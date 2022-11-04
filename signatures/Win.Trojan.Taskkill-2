@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Taskkill-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+taskkill /f /im explorer.exe{WILDCARD_ANY_STRING(LENGTH<=1)}taskkill /f /im

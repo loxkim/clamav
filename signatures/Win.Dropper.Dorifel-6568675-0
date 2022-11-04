@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Dorifel-6568675-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\C:\Users\admin\Desktop\PE2\VB98\C2.EXE
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Program Files\Microsoft Network Monitor 3\;C:\Program Files (x86)\GNU\GnuPG\pub;C:\Program Files (x86)\OpenVPN
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Verituman.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+9#ffdd366#fe8cc#fdbc866#fe9f666#f68dc#fe9ee66#f65cb#ffded66#f76e866#f64e2#fedd66
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+54cc9447b1d5c3327e2f66#92e5a331b396fc##779e9866641e2#8713943cb8121da3c7d21fc5c72a3fd

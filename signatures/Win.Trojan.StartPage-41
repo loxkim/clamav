@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.StartPage-41
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if exist "%userprofile%\start menu\programs\startup\homepg.cmd"{WILDCARD_ANY_STRING(LENGTH>=110&&<=120)}REG ADD "HKCU\SOFTWARE\MICROSOFT\INTERNET EXPLORER\MAIN" /V "START PAGE" /D "http://

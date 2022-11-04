@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Cerber-9811582-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\dub\annotated\RED?s\palms\Clint.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<td bgcolor="#666699"><table width="100%%" border="0" cellpadding="4" cellspacing="1">
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<td><font size="2" face="Verdana"><strong>%s <font color="#CC0000">%s </font>(%ld)</strong></font></td>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<td height="33%%" align="center"><font size="2" face="Verdana"><strong>%s %ld</strong></font></td>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<td width="30%%"><strong><font color="#FFFFFF" size="2" face="Verdana">%s</font></strong></td>

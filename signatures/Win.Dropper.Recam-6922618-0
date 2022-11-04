@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Recam-6922618-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Line=Error decoding URL style (%%XX) encoded string at position %d1Invalid URL encoded character (%s) at position %dLOpe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[0x000A]: Result set at EOF+dbExpress Error [0x000B]: Parameter Not Set"[0x000C] Invalid Username/Password
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Field '%s' has no dataset"Circular datalinks are not allowed/Lookup information for field '%s' is incomplete
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[0x0015]: Connection failed&[0x0016]: Driver initialization failed#[0x0017]: Optimistic Locking failed
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Remote Login/Top Legend Position must be between 0 and 100 %

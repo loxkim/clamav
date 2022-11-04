@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if ($strres=~ m/onehalf3554/i){WILDCARD_ANY_STRING}until ($BodyStr=~ m/$EndMarker/i)

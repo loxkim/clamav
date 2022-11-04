@@ -1,0 +1,28 @@
+VIRUS NAME: Osx.Trojan.Generic-9907856-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+N5boost9algorithm6detail13token_finderFIZN8RunState13getNotaryDataENSt3__112basic_stringIcNS4_11char_traitsIcEENS4_9allocatorIcE
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+N18AutoReleaseHelpers11AutoReleaseINS_10CFReleaserIP17__CFDateFormatterEES3_EE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+N18AutoReleaseHelpers11AutoReleaseINS_10CFReleaserIPK7__CFURLEES4_EE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+N18AutoReleaseHelpers13CFAutoReleaseIP17__CFDateFormatterEE
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+N18AutoReleaseHelpers13CFAutoReleaseIPK7__CFURLEE

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Downloader-115
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+o view this ecard{WILDCARD_ANY_STRING}functionxor_str(plain_str,xor_key){varxored_str

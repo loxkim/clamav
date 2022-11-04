@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Tulin-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.Comments = "my namber is 666"{WILDCARD_ANY_STRING}Shell ("label c:TULIN"), 0

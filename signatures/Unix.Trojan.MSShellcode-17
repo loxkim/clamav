@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Trojan.MSShellcode-17
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+perl -MIO -e '$p=fork();exit,if$p;foreach my $key(keys %ENV){if(

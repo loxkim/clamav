@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Generat-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+h = {STRING_ALTERNATIVE:C|c}reate{STRING_ALTERNATIVE:F|f}ile(ThisDocument.Path & "/" & ThisDocument.Nam{WILDCARD_ANY_STRING}i = ReadFile(h, buffer(0), 65536, j, 0){WILDCARD_ANY_STRING}i = WriteFile(h2, buffer(0), j, j{WILDCARD_ANY_STRING}Shell

@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Win.Tool.Packed-179
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+fileinstall{WILDCARD_ANY_STRING}global $os = execute ( binarytostring ( "{WILDCARD_ANY_STRING}chr ( dec ( stringmid

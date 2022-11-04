@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Msnmm-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Microsoft Internet Explorer (compatible; MSIE 6.0; Windows NT 5.0){WILDCARD_ANY_STRING}systen?index.asp=%d

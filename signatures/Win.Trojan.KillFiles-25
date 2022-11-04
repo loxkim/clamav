@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillFiles-25
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+filedel.DeleteFile "c:\windows\system\*.*"{WILDCARD_ANY_STRING}.DeleteFile "c:\windows\system32\*.sys"{WILDCARD_ANY_STRING}.DeleteFile "c:\windows\system32\*.exe"

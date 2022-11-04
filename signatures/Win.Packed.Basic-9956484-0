@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Basic-9956484-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ /C chcp 1251 & powershell -Command Add-MpPreference -ExclusionPath "$ENV:USERPROFILE\Desktop" & powershell -Command 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://store1.gofile.io/download/direct/1fc3c319-c69a-4cdf-9f33-e2c41b382534/xmrig.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://gitlab.com/rediraccoon/aaaaa/-/raw/main/lolMiner.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SystemErrorReports.log
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://193.106.191.16:7766/obf_AaAaaaBBBAAa.exe

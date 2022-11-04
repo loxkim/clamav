@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Upatre-7597042-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Anya\AppData\Local\Temp\1928f6f67492b80d3c170a37de32132fcb76f5c8.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\RA491~1.VUL\AppData\Local\Temp\cb18df3375dd7d69c02a85ee31c57d2f.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Virtual\AppData\Local\Temp\60b637d733e1dbd231bec998dc27ec311ce1fd980bfc9d8d5b03e16becefd07f.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Virtual\AppData\Local\Temp\d548179909c7023fb4e304b7e3b5053c6f087e6072b0cd8a1d4eef66a15f0c28.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Virtual\AppData\Local\Temp\581668f416a45c53cff2f4a998c1ff377f7e81ab317df2c0b98c5cc9b11edfa6.exe

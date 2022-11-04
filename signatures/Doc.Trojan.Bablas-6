@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bablas-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+H = MsgBox("Selamat. Anda telah memakai AntiVirus yang benar.", vbOKOnly + vbExclamation, "Ucapan Selamat")

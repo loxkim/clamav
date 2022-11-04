@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Qqpass-9881911-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Copyright && Credits_Icons from http://famfamfam.com/lab/icons/silk/ under the Creative Commons Attribution License.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+xAn old version of DebugBar is installed, not compatible with IETester. Click ""Yes"" to open the DebugBar download 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+BLACK_IDB_OFFICE2007_TEAR#BLACK_IDB_OFFICE2007_TOOLBAR_BORDER BLACK_IDB_OFFICE2007_TOOLBAR_BTN BLUE_IDB_OFFICE2007_COMBO
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Important.Here is an informational message for the user.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unable to load the OLEACC.DLL library. This functionality is not supported (You must have Windows XP or later or Windows

@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Barisada-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ne_pyun = Dir(Application.StartupPath & "\fusion.xls"){WILDCARD_ANY_STRING}If codeform = "'hihihihohoho" Then

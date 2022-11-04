@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Acc-21
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+To prevent your account from closing you will have to update{WILDCARD_ANY_STRING(LENGTH<=2)}it below so that we will know that it's a present used{WILDCARD_ANY_STRING(LENGTH<=2)}account

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.SQL-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ail[random(0, email.length - 1)] + " -subject " + WScript.Arguments(0), 0, true);
+
+destroy(clefile);
+destroy(path + "send

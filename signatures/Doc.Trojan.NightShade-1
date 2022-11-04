@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NightShade-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ment.VBProject.VBComponents(I).Name = "NightShade" Then{WILDCARD_ANY_STRING}ActiveDoc.Password = "NightShade"

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Packed.Generic-9809962-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\\'|1\' cannot be used as an attribute because it does not inherit from \'System.Attribute\'.n\'|1\' cannot be us
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Quiet output mode.<Location of the .NET Framework SDK directory (mscorlib.dll)."Target the .NET Compact Framework.!Gene
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\'|1\' is not declared. File I/O functionality is normally available in the \'Microsoft.VisualBasic\' namespace, but
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\'Line\' statements are no longer supported. File I/O functionality is normally available as \'Microsoft.VisualBasic.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+oOperator \'|1\' is not defined for types \'|2\' and \'|3\'. Use \'Is\' operator to compare two reference types.

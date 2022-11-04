@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Fosniw-2
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+'%APPID%' = s 'IEKeyword_EXE'

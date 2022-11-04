@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Crypt-331
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+n003=n003+location.href;var n005=eval;var n006=n003.replace(/ w/g,"");n006=n006.touppercase();var n007=new array;for(var n020=0;n020<256;n020++){n007[n020]=0;}var n009=1;for(var n020=128;n020;n020>>=1){n009=n009>>>1^(

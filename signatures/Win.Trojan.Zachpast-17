@@ -1,0 +1,16 @@
+VIRUS NAME: Win.Trojan.Zachpast-17
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+716622
+
+
+
+[rcfg]
+user=ygcjcjom
+
+
+
+[extensions]
+n0=defaultEXTDIR:\
+n1=*.wav,*.mid,*.mp3EXT

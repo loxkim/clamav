@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Tinba-9784687-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Eliteprospects.com player profile of Miks Indrasis 1990-09-30 Latvia.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+F0000R126497.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+!A programmable logic device (PLD)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+abcdUefghijklmnoSTUVWWWXYZ[\]^_`FGHIJJJKLMNOMPQR:;<=>>>?@A?ABCDE./01233334536789 !"#$%%&&'()*+,
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+; Unlike a logic gate, which has a fixed function, a PLD ...

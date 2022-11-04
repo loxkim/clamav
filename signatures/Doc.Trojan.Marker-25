@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Marker-25
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Const cIndicator = "INDIA"{WILDCARD_ANY_STRING}sFileName = "\India" + Str(32767 * Rnd) + ".txt"

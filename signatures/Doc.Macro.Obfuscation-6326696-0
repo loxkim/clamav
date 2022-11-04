@@ -1,0 +1,15 @@
+VIRUS NAME: Doc.Macro.Obfuscation-6326696-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 0&1>500
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Name = "
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: (Function|Sub)\s+[a-zA-Z]{30,}\(\)[^\n\r]*\s+Call\s+[a-zA-Z]{30,}\s+End\s+(Function|Sub)
+     +-> CFLAGS: g

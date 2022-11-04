@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Godog-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.regread("HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\ProgramFilesDir")

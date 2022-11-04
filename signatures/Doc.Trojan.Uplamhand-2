@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Uplamhand-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.CharLeft 16{WILDCARD_ANY_STRING}WordBasic.LineUp 5{WILDCARD_ANY_STRING}sMe$ = WordBasic.[FileName$](){WILDCARD_ANY_STRING}Macro$ = sMe$ + ":AutoOpen"{WILDCARD_ANY_STRING}WordBasic.MacroCopy "Global:EditSize", Macro$, 1

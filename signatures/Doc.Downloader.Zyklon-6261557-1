@@ -1,0 +1,6 @@
+VIRUS NAME: Doc.Downloader.Zyklon-6261557-1
+TARGET TYPE: OLE2
+OFFSET: 0
+DECODED SIGNATURE:
+Attribute VB_Name = "NewMacros"{WILDCARD_ANY_STRING}TimeDate = B64Dec(EmployeeName)
+    Shell (TimeDate)

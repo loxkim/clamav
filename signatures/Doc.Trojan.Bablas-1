@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bablas-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+InputBox("Enter password", "Santo Anthonius ") = "*ArrA*

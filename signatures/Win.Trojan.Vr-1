@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Vr-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+b,f010
+e100"del "
+mf000,f000b,104
+e10c 2e
+e110 0d,0a
+mf010,f020,11f
+e112 "copy 

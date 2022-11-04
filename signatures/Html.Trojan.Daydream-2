@@ -1,0 +1,10 @@
+VIRUS NAME: Html.Trojan.Daydream-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+al.Write(FileContents2)
+	Real.writeline " "
+	Real.writeline " "
+	Real.Write(virus)
+	Real.close()
+End

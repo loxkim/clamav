@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Dmenu-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ltree/y c:\windows\startm~1 >nul{WILDCARD_ANY_STRING}tree/y c:\windows\*.pwl >nu

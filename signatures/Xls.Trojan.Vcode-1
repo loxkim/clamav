@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Vcode-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If vcount = 0 Then Workbooks(i).VBProject.VBComponents.Item("thisworkbook").CodeModule.AddFromString (vcode)

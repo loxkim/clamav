@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Blacole-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+e("m"+"d="a"");c{WILDCARD_ANY_STRING(LENGTH<=28)}(h+"t"+"ring");if(fr)ch=ch+"at"

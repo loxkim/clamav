@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Qrap-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Rem This File was Created Using Cryptid Maniac's Evil Tool v 1.5
+Start %0
+%0

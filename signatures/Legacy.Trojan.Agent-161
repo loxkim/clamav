@@ -1,0 +1,6 @@
+VIRUS NAME: Legacy.Trojan.Agent-161
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ictima_bool=1 Then Goto Esgaroth
+If Instr(linea$,"REM ViRUS",1)=0 then

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Banbra-9834149-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Arquivos de programas\Arquivos comuns\designer\MSDERUN.DLL
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\Patako\Ambiente de trabalho\TLP\VB6 -T15\ex27 - bd\fotos\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://login.live.com/ppsecure/sha1auth.srf?lc=1046
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Arquivos de programas\Arquivos comuns\system\ado\msado20.tlb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Open App.Path & "\address.dat" For Random Access Read As #FF Len = Len(Tmp)

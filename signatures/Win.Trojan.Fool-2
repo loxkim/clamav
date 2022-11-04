@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Fool-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Jackal.vbs by WalruS{WILDCARD_ANY_STRING}WordObj.NormalTemplate.VBProject.VBComponents.import ("C:\Windows\Jackal.drv")

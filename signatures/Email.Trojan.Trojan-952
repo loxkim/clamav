@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-952
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Subject: message Die mobileTAN{WILDCARD_ANY_STRING(LENGTH>=720&&<=750)}attachment; filename="postpank-message.zip"

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Loud-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+tions.VirusProtection = False
+NT.InsertLines 1, "Private Sub Document_Close()"
+NT.InsertLines 2, "'1nternal"

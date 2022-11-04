@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.FormatCQ-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+autoexec.WriteLine "@format c: /q /autotest"
+autoexec.close

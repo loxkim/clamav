@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Limp-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+extname="htt"orextname="asp"{WILDCARD_ANY_STRING(LENGTH<=73)}limpcock

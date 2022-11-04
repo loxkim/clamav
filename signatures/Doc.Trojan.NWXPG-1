@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NWXPG-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #1, "Set " & var3$ & " = ActiveDocument.VBProject.VBComponents.Item(1)"

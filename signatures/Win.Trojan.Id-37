@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-37
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+ = @php_uname(); $id1 = system(id); $pwd1 = @getcwd(); $free1= diskfreespace($pwd1); $free = convertbytes(diskfreespace($pwd1)); if (!$free) {$free = 0;} $all1= disk_total_space($pwd1); $all = convertbytes(disk_total_space($pwd1)); if (!$all) {$all = 0;} $used = convertbytes($all1-$free1); $os = @php_os;

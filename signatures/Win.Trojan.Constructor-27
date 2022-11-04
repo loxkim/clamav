@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Constructor-27
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+ run=%windir%\\%v%.bat >> %windir%\\win.ini\n

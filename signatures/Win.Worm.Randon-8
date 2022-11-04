@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Worm.Randon-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+v
+nick=owned[853]-[XP]
+anick=fuck[96696]-[ME]
+host=localhostSERVER:localhost:6667
+[windows]
+script

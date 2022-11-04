@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Flesh-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If ToOwn.Lines(2, 1) = "GoSub Flesh:" Then GoTo FAllDoneP

@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.AutoDelWin-2
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+[autorun]
+open zata.bat e
+shellexecute=zata.bat e
+shell\Auto\command=zata.bat e
+shell=Auto

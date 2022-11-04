@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.FormatC-86
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+Echo format C: /q >> c:Autoexec.bat

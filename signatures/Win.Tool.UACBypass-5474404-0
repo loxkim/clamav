@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.UACBypass-5474404-0
+TDB: Engine:55-255,Target:0
+LOGICAL EXPRESSION: (0|1)&2&3&(4=0)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HKCU:\Software\Classes\mscfile\shell\open\command
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HKCU\\Software\\Classes\\mscfile\\shell\\open\\command
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eventvwr.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\powershell.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+html>

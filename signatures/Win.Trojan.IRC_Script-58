@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-58
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if (*class=subCategoryLink>* iswm $6) { set %ListChan.Name $remove($4,href="javascript:opener.join

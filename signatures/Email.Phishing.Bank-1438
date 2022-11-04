@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Phishing.Bank-1438
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+add $150 credit to your account just for taking
+part in our survey{WILDCARD_ANY_STRING(LENGTH<=400)}Social Security Number:

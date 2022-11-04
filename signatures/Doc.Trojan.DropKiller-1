@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.DropKiller-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+CommandBars("Tools").Controls(14).Enabled = False{WILDCARD_ANY_STRING}").Export "C:{WILDCARD_ANY_STRING}").CodeModule.DeleteLines 1, 4{WILDCARD_ANY_STRING}DropKillerActDcInstalled = -1

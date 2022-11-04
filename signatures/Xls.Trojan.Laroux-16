@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Laroux-16
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Day(Now()) = Int((31 * Rnd) + 1) Then MsgBox "You've Been Infected By Desline!", 16, "boo hoo hoo....Ha... [VBB]"

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Azon-7
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+however, failure to update your records will result in account termination.{WILDCARD_ANY_STRING(LENGTH<=15)}please update your records in maximum 24 hours.

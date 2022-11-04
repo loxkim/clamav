@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCBnc-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+socklisten xb $+ $ticks %Bport{WILDCARD_ANY_STRING(LENGTH<=12)}.notice $nick Bnc

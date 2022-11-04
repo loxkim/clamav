@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCSobet-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run]{WILDCARD_ANY_STRING(LENGTH<=32)}$nopath($mircexe){WILDCARD_ANY_STRING(LENGTH<=128)}HideMirc on

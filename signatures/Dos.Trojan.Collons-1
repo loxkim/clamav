@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Collons-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+om COPY /y c:\collons.com c:\dos\format.com{WILDCARD_ANY_STRING}st c:\dos\vsafe.com COPY /y c:\collons.com c:\dos\vs

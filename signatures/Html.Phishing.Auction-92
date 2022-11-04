@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-92
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+alidate your primary telephone number:<br><br><font size="4"><a{WILDCARD_ANY_STRING(LENGTH<=150)}r>if the requested information is not provided to us then we will regre

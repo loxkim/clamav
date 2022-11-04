@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Emotet-7419910-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+read,throw,true,try,typedef,typeid,typename,union,unsigned,using,uuid,virtual,void,volatile,while,wmain,xalloc,
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Fail to load "riched20.dll".
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#define,#else,#elif,#elseif,#endif,#error,#if,#ifdef,#ifndef,#include,#pragma,#undef,__asm,__based,__cdecl,__declspec,__except,
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+et,Single,Static,Stop,String,Sub,Then,To,True,Type,Ubound,Unload,Unlock,Variant,Wend,While,With,Write,Xor,
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Visual Editor.EXE

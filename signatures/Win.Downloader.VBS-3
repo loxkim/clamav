@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.VBS-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+var url = "http://69.31.86.252/xltmk.dat";
+var fso = new Active

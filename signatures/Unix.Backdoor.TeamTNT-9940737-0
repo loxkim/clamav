@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Backdoor.TeamTNT-9940737-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+if [ "$(hostname)" = "haxxorsmopped" ]; then exit ; fi
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+export histfile=/dev/null 2>/dev/null 1>/dev/null
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+unset histfile 2>/dev/null 1>/dev/null
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+histcontrol="ignorespace${histcontrol:+:$histcontrol}" 2>/dev/null 1>/dev/null
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+histsize=0 2>/dev/null 1>/dev/null

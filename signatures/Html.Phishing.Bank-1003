@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1003
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<a href="http://www.53.com.{WILDCARD_ANY_STRING(LENGTH<=150)}><img border=0 src="cid:{WILDCARD_ANY_STRING(LENGTH<=100)}"></a></body></html>

@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.Fare-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+eltree/y c: >> c:\autoexec.bat
+:<<<<<<<<<<<<< Erase Data on HDD D:,E:! >>>>>>>>>>>>>>>>>
+@echo y| format e: /

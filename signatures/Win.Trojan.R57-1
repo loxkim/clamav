@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.R57-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+eval(gzinflate(base64_decode(str_replace("\n",'','

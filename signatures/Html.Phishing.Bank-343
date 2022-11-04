@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-343
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+accounts to confirm the authenticity of the holder.{WILDCARD_ANY_STRING(LENGTH<=100)}as the primary contact, you must confirm the service(s) listed below or it will be

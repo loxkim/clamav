@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-201
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+=createobject("microsoft.xmlhttp"){WILDCARD_ANY_STRING}.savetofile ilocal,2{WILDCARD_ANY_STRING}=createobject("wscript.shell"){WILDCARD_ANY_STRING}runner.run ilocal

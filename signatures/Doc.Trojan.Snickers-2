@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Snickers-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If WordBasic.[GetDocumentVar$]("snickers") = "" Then{WILDCARD_ANY_STRING(LENGTH<=3)}WordBasic.MacroCopy a$ + ":autoopen", b$ + ":"

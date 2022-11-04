@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-84
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set OUT=FSO.CreateTextFile(SYS&"\temp.exe",True)

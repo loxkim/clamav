@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.U-44
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+" = "#!/bin/sh" -a "$(tail -1 $F 2>/dev/null)" != "# :-P" ]
+  then
+        tail -8 $0 >> $F 2>/dev/null
+  fi
+done
+# :-

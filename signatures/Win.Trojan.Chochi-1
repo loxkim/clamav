@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Chochi-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Teks.WriteLine "VBS.Chochi.wOrm was here"& vbCrlf &"My cHiLd is tHe BesT..."& vbCrlf &"bOrn : 29/08/2002"& vbCrlf &"tHis wOrm

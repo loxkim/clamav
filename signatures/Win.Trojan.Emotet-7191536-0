@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Emotet-7191536-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\User\Documents\Visual Studio 2008\Projects\EMSI_SOFT\Release\EMSI_SOFT.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Bshell32.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Bf:\dd\vctools\vc7libs\ship\atlmfc\include\afxwin2.inl
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Af:\dd\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Erase everything.Copy the selection and put it on the Clipboard-Cut the selection and put it on the Clipboard

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.FormatC-52
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set WshShell = Wscript.CreateObject("WScript.Shell"){WILDCARD_ANY_STRING(LENGTH<=30)}WshShell.Run ("start.exe /m format c:/q /autotest /u"

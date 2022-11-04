@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.GrandSteal-9783630-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Collections.Generic.ICollection<System.Collections.Generic.KeyValuePair<System.String,Echelon.JsonValue>>.get_IsReadOnly
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Collections.Generic.IEnumerable<System.Collections.Generic.KeyValuePair<System.String,Echelon.JsonValue>>.GetEnumerator
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Collections.Generic.IEnumerator<Ionic.Zip.ZipEntry>.get_Current
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Ionic.Zip.Forms.ZipContentsDialog.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Passwords_Mozilla.txt

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Wobbler-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+F.AttachmentFile=G.BuildPath(G.GetSpecialFolder(2),"WOBBLER.TXT.VBE")

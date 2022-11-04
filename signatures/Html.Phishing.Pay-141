@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-141
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if you choose to ignore our request,you leave us on choice but to temporarily{WILDCARD_ANY_STRING(LENGTH<=5)}suspend your account.

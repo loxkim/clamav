@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-1042
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if you cannot open this attachment{WILDCARD_ANY_STRING(LENGTH>=100&&<=110)}deselect the option marked "Do not allow attachments to be opened that potentially may be a virus"

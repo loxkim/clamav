@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-81
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+scripting{WILDCARD_ANY_STRING(LENGTH>=1&&<=20)}filesystemobject{WILDCARD_ANY_STRING(LENGTH>=5&&<=50)}.createobject({WILDCARD_ANY_STRING(LENGTH>=10&&<=200)}.createtextfile({WILDCARD_ANY_STRING(LENGTH>=10&&<=200)}.write(

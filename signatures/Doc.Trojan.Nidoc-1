@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nidoc-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+normdoc = normPath & "\" & "nidoc.dot"{WILDCARD_ANY_STRING}If ActiveDocument.Name <> "nidoc.dot" Then

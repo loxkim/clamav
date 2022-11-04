@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36585
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off cls echo creating virus detector (with tasm) ... tasm detect tlink /x /t detect del detect.obj 

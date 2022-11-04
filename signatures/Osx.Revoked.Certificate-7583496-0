@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7583496-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0‘10
+	’&‰“ò,d
+BK6T4Q37X41;09U2Developer ID Application: Linda Puteh (BK6T4Q37X4)10U
+BK6T4Q37X410U
+Linda Puteh10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$Developer ID Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0190720092743Z240720092743Z

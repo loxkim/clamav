@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Flood-14
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if (%textflood [ $+ [ $nick ] ] == 2) { .ignore -pctknu3 $address($nick,9) halt goto end

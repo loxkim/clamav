@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Winevar-9846236-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Feb 2019 06:24:00 Microsoft Microsoft >> [ENU] Wed, 06 Feb 2019 07:32:16 Microsoft Microsoft >> [ENU] Wed, 06 Feb 2019 08:22:33
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Microsoft Microsoft >> [ENU] Wed, 06 Feb 2019 09:37:07 Microsoft Microsoft >> [ENU] Wed, 06 Feb 2019 10:23:38 Microsoft Microso
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d, 06 Feb 2019 09:37:07 Microsoft Microsoft >> [ENU] Wed, 06 Feb 2019 10:23:38 Microsoft Microsoft >> 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+osoft >> [ENU] Wed, 30 Jan 2019 14:24:53 Microsoft Microsoft >> [ENU] Wed, 30 Jan 2019 15:21:41 Microsoft Microsoft >> [ENU] Wed
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Microsoft Microsoft >> [ENU] Wed, 30 Jan 2019 16:47:08 Microsoft Microsoft >> [ENU] Wed, 30 Jan 2019 17:46:59 Microsoft Microsof

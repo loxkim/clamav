@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-1036
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+von Ihrer Kreditkarte wurde der Schuldenbetrag in{WILDCARD_ANY_STRING(LENGTH>=22&&<=32)}Der Beleg wird beigelegt

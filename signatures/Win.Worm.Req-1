@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Req-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+d=d & chr(Asc(Mid(i,j,1))-3)

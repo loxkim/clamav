@@ -1,0 +1,11 @@
+VIRUS NAME: Legacy.Trojan.Agent-31369
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+BindInterface All
+BindPort 21
+CommandTimeout 300
+ConnectTimeout 15
+LookupHosts On
+
+<Use

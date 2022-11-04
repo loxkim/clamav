@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Argon-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ty nul%Argon%
+if not exist c:\argon.sys copy %0 c:\argon.sys
+for %%a in (*.bat) do set argon=%%a
+for %%b in

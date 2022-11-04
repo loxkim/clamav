@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Scar-6811106-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&Level=30&ToKen=%B5%C7%C2%BC%B1%A3%BB%A4%5BNO%5D%B6%FE%BC%B6%C3%DC%C2%EB%5BNO%5D&Beta=20150625
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&appid=2001601&js_ver=10127&js_type=0&login_sig=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7&js_type=1&login_sig=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&pt_randsalt=0&ptredirect=1&u1=http%3A%2F%2Fkf.qq.com%2F&h=1&t=1&g=1&from_ui=1&ptlang=2052&action=2-16-1427638320630&js_ver=1011
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\TCLS\Client.exe

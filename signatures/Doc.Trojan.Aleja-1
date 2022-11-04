@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Aleja-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+SaveSetting appname:="Aleja5", Section:="Inicio", _

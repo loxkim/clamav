@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.KillDll-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If (InStr(UCase(source$), "NORMAL.DOT") = 0) Then{WILDCARD_ANY_STRING}del$ = WordBasic.[Files$]("C:\WINDOWS\SYSTEM\*.D??")

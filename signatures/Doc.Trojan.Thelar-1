@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Thelar-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If x.Find("{WILDCARD_ANY_STRING(LENGTH<=40)}", 1, 1, y + 1, 1) = True Then{WILDCARD_ANY_STRING}.InsertLines y + 1, "Sub FileSave()"{WILDCARD_ANY_STRING}ertLines y + 2, "Norm"{WILDCARD_ANY_STRING}mponents("ThisDocument").CodeMod

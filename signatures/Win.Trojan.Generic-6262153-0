@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6262153-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ADL=http://dl.repairlabshost.com/121001758/DriverPro.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AGL=https://safecart.com/pcutilitiespro/.dp-xsell/purchase?tid=121001758&xtid=111001758-DE-002&xsid=%GID%
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SL=http://support.pcutilitiespro.com/
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ADH=dl.repairlabshost.com
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GL=https://safecart.com/pcutilitiespro/.optimizerpro/purchase?tid=111001758-DE-002_%GID%

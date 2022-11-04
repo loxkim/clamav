@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-145
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear member :{WILDCARD_ANY_STRING(LENGTH<=200)}has informed ebay that they have not yet received item <a href="http:/

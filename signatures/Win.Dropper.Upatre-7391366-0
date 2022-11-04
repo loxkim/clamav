@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Upatre-7391366-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\734ef35c797ee647ab9d4c94105093ff6560a7ccc4fdcfad107a095475561ab6.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\a33b2cd56663a479b9dbcae78a78b28ed1f79bf704fa80e21fe8a295c3eb915f.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\b485e6408ffb214d8a7ffdd6dc94d682fd9338c076a2f5ca13190b7ed3dfcf37.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\7872aa5c8f22d45b_denis.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Raiden\Goat\FTP\Sample\371595446A0259DC97BB83651EDA9A41.bin.exe

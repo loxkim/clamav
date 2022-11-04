@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Adware.Craagle-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+[proxy] usealways=0{WILDCARD_ANY_STRING(LENGTH<=34)}[general] limitsearch=-1

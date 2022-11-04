@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Lucky-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ $nick ) { /dcc send $nick c:\windows\appolo.exe

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Ircbot.Anja-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ript]
+n0=; IRC_Worm/Anja by Energy
+n1=on 1:start:{
+n2=  /if $day == Friday { /echo Anja created by Energy }

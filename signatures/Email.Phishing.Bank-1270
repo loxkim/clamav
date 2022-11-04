@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1270
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+The primary details for your{WILDCARD_ANY_STRING(LENGTH<=30)}Account were changed{WILDCARD_ANY_STRING(LENGTH<=40)}If you did not authorize this change, please contact us us

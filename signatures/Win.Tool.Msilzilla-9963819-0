@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Msilzilla-9963819-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+~YullySpoofer.GUI.Loading.Load+<SetTaskManager>d__15, YullySpooferRemake, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.guna.ui.dll.compressed|1.9.0.0|Guna.UI, Version=1.9.0.0, Culture=neutral, PublicKeyToken=ad275b4be6718d4b|Guna.UI.dll|B0
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.kaliko.imagelibrary.dll.compressed|3.0.2.0|Kaliko.ImageLibrary, Version=3.0.2.0, Culture=neutral, PublicKeyToken=null|Ka
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.siticone.ui.dll.compressed|1.0.0.3|Siticone.UI, Version=1.0.0.3, Culture=neutral, PublicKeyToken=da23b5286e22db85|Sitico
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.xanderui.dll.compressed|1.0.0.0|XanderUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|XanderUI.dll|1FB5E312798

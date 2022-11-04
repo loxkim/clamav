@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Beat-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@find /i "[BeAt]" <%1>nul{WILDCARD_ANY_STRING}for %%a in (*.bat) do Call %0 %%a

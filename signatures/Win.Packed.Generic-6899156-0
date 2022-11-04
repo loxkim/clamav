@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generic-6899156-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'t'z't'r'w't'r's's'r'r'r'r'x'r'r'r'r'r'r'r'r's'r'r's'r'r'u'u's'
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'x't'y'r'w'{'y't'y'v'y'u'y'{'x'y'x'w'x't'w'r'r'u'y'w'x'u'x'{'x'
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'x'v'y'{'x't'v'r'r'u'y'u'x'{'x'z'x'r'y's'x't'y'y'v'r'r'y'x'
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'x'v's's's'u's's's'v'r'r'r'r'r'y's'r'z't's's's'r't'
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'x'x'v'r'r'w'x'v'y'{'x't'y'y'w'r'r'u'y'w'x'v'y'{'y't'v'

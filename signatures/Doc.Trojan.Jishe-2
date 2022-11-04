@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Jishe-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+asVirus = Not xitem.codemodule.Find(answer, 1, 1, 1 + LinesofC{WILDCARD_ANY_STRING}If (xitem.Name <> "JiShenhua") And (xitem.Name <> "VirusReport")

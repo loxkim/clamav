@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-229
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+n000=null;var n001=document.stylesheets[0].rules||document.stylesheets[0].cssrules;for(var n002=0;n002<n001.length;n002++){var n003=n001.item?n001.item(n002):n001[n002];{WILDCARD_ANY_STRING(LENGTH<=7)}n003.csstext)?n003.csstext:n003.style.csstext;n000={WILDCARD_ANY_STRING(LENGTH<=7)}atch(/url("?data:[^,]*,([^")]+)"?)/)[1];};var s =

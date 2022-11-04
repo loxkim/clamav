@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zegost-9963349-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Client.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3%@".V>UDC\+_ o3F_1tC)C0.V>UDOF2@+sGfv-rV1Q(l3F0DrU1]%i]hU<e3
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3/^2a_/TdlZ2U6a_i\!nT2Xdc\"UDi]0Q(iWfT-sG'^'e@fC!t3F0-nE'\-d
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+,eR"U6 P.U'k3FY*vR*Y  D/^ oDfC-zVFE*k])G* P)]4rV5C-o]f]!t[)TD
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+aG'R%sVFyEL\)[1pr%S+u]2c-drF*EGV2d+kV(y*f\4]%tZ)^DAw

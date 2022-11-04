@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillAV-29
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for %%f in (%temp%.\tmp$$$.vbs*) do del %%f

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Slimware-9754233-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CMsiExecutor|http://{DATA.targetenv}apps-api.slimwareutilities.com/install/scp/{OS.VER}/{OS.ARK}/SlimCleanerPlus-setup.m
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://download.driverupdate.net/en/DriverUpdate.Downloader.exe.bz2
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%ProgramFiles%\SlimCleaner Plus\SlimCleanerPlus.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SlimCleaner Plus-setup.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.slimcleaner.com/register.php

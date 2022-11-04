@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.MouseDisable-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:start
+c:\windows\rundll32.exe mouse,disable
+echo II     II

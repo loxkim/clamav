@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Startpage-487
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+classid=\""+objclsid+"\"codebase=\""+exe+"\">";document.write(

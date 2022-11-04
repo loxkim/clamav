@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Killwin-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Echo You are dying
+Pause
+del c:\windows\*.*

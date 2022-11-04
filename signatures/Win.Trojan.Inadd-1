@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Inadd-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ 	VBS-Hijacker
+rem	Never open attachments when you ain't expecting them !!
+ 
+Spreadbymail()
+Infectword()
+Msgbox "E

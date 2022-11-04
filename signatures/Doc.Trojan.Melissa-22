@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Melissa-22
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+= CreateObject("Outlook.Applic{WILDCARD_ANY_STRING}For Y = 1 To ABook.AddressEntries.Cou{WILDCARD_ANY_STRING}ateProfileString("", "HKEY_LOCAL_MACHINE\Security", "ActiveWorm") = "

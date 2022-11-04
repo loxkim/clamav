@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kovter-7194048-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+8zXzGptm.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GXbeCyrJHOlDjQqxHRlcSaO65SG35NkpM86hKcmvJM4XIjaIbY9zL79q4JiRTcvaWovtRIVU2qhUp88L
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Y]G:\#T
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+yFzPwmwCTEPsWgUKWQjoGjRrg9to286OjRMmt5YcJvZOhaztyYD9A8juMYTACeaR
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Champion.gg provides League of Legends champion statistics, builds, runes, masteries, skill orders and counters by role 

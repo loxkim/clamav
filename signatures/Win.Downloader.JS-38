@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-38
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+codebase="http://static.flingstone.com/' + path + '#version=1,0,0,42">\n');

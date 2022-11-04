@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Blast-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+forms[0].user.value=gr()+gr()+gr()+gr()+gr()+gr()+gr()+gr();document.forms[0].pass.value=gr()+gr()

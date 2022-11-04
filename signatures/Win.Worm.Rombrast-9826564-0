@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Rombrast-9826564-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gM^hcu;=acrTWCe]F]mQQ<zRv6M/L5;fRND`]-Qy.(;BX{(:H?p4St>5yWffdmTHT1FE_ej\0I=xZ^+Yaw3VlW@m<:hKfOV*Vi_)xHl>2,?ZsA-=cZ5
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lW@m<:hJfOV+Vi_(xHl?2,?[sA-<cZ59n:CP?r,-*2XcoLa`z+0wKdX>uyEt|=8p1[[3AU.N,TqFq/zC|M2CMGZv9EHW)uPS4>]kY801/7s)5P|{P/4
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+a`z+0wKdX>uyEt|=8p1[[3AU.N,TqFq/zC|M2CMGZv9EHW)uPS4>]kY801/7s)5P|{@/4{O*\Y;(J:+BS66vvN\pIiGo7K73)GBgM^hbu;=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+YcoL``z+1wKdY>uyDt|=9p1[Z3AU/N,TpFq/{C|M3CMG[v9EIW)uQS4>\kY811/7r)5P}{@/5{O*]Y;(K:+BR66vwN\pHiGo6K73(GBg
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+9F]mQQ<zRv6M/L5;fRNDb]-Qy.(;@X{(8H?p4St>5yWfgdmTIT1FE_ej\0I=xZ^+Yaw3VlW@m<:hJfOV+Vi_(xHl?2,?[sA-<c

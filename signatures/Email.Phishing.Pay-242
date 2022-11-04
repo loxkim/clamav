@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-242
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+PayPal account.{WILDCARD_ANY_STRING(LENGTH<=15)}don't agree with this e-mail and if you need assistance with your acc{WILDCARD_ANY_STRING(LENGTH<=15)}click the link and modify your profile now.{WILDCARD_ANY_STRING(LENGTH<=15)}http:

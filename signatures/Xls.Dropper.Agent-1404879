@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Dropper.Agent-1404879
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+to enable macros to run on this workbook{WILDCARD_ANY_STRING}enable this content

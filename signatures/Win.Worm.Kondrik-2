@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Kondrik-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Dim fso,a,b,c,d,e,f,ero.Set fso = CreateObject ("outlook.application")!Set a = fso.GetNameSpace ("MAPI")If fso = "Outlook" Thena.Logon "profile", "

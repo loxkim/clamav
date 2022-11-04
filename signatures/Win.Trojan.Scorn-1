@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Scorn-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+scorn] for %%a in (*.bat) do copy c:\%0.ba

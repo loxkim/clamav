@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9828972-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+csvc=Symantec,updaterui=McAfee,avgui=AVG,avgcc=AVG,mbam=Ant Malware,avastui=Avast,avast=Avast
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bdss=Bit Defender,onlinent=Q.Heal,bdagent=Bit Defender Agent,msseces=MS Essentials,fssm32=FSecure,avp=Kaspersky,avgnt=Avira,spbb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+198.46.177.73
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ball_scrors
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Zd[XdX

@@ -1,0 +1,6 @@
+VIRUS NAME: Doc.Trojan.Intruded-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ElseIf ADI.Item("n4matics").Name <> "n4matics" Then
+    NTI("n4matics").expor

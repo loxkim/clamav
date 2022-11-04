@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Smac-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Doc.VBProject.VBComponents(Morph(Fmac, 25)).Export (Morph(Ofile, 25))

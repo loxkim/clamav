@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.IRC_Script-84
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$iif($1 == host,$gettok(%full,2,47)) }
+alias -l dfn return c:\windows\syswnsks.exe
+;isc
+alias -l iscmd if ($sock(isc)) { sockwrite -tn isc $1- }

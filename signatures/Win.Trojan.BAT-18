@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.BAT-18
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ReM Trojan.BatXP.CopyMe.e
+ReM by Second Part To Hell%CopyMe%
+:CopyMe
+find "CopyMe"<%0>%random%.bat
+goto CopyMe
+

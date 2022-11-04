@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Xss-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+background:url\(java/**/script:function dc(x){var l=x.length,b={WILDCARD_ANY_STRING}for(i=math.min(l,b);i>0;i--,l--){w|=(t[x.charcodeat(p++)-48])<<s

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Koobface-29
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+<input type="hidden" value="%s" name="ids[]" fb_protected="true"/>

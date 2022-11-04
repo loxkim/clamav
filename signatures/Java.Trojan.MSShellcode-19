@@ -1,0 +1,7 @@
+VIRUS NAME: Java.Trojan.MSShellcode-19
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+<%@page import="java.lang.*"%>
+<%@page import="java.util.*"%>
+<%

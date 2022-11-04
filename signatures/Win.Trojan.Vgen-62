@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Vgen-62
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cho off%_InS%
+if '%1==' InS goto InS%2
+set I

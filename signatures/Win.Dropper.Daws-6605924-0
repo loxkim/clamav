@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Daws-6605924-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@*\AE:\my data\Utiltiy\Hack\Project Hack\Project\Emperor Password Sender V1.0\Server\Project01.vbp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+D*\AE:\my data\Utiltiy\Hack\Project Hack\Project\Emperor Password Sender V1.0\Main\Project-Final.vbp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unable to modify directories in target executable.  File may not contain any icon resources.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+status.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Please, Fill the Sender Mail Address or Sender Mail Password

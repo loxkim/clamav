@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Vihunt-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If .Name <> "VirHuntr" Then{WILDCARD_ANY_STRING(LENGTH<=50)}.CodeModule.DeleteLines 1, .CodeModule.CountOfLines{WILDCARD_ANY_STRING(LENGTH<=50)}.CodeModule.InsertLines 1, VirHuntr.VBProject.VBComponents(1).CodeModule.Lines(1, VirHuntr.VBProject.VBComponents(1).CodeModule.CountOfLines)

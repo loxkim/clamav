@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Remcos-9755716-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\auszustellendem\Lederkollers\Pfauenfedern\VB98\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PrintValueRoaming.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+VuotoMalleabile.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\8}.u}.u}.u}.u}.u}.u}.u}.u}.u}.u}.u}.u}.u}.u}.u}.u}.u}.u}.u}.u}.u}.us
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(`t0^t0^t0^t0^t0^t0^t0^t0^t0^t0^t0^t0^t0^t0^t0^t0^t0^t0^t0^t0^t0^t0^QS

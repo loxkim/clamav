@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Enedro-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+scid %clona2 .timer 0 3 nick $2 | .scid %clona3 .timer 0 3 nick $2 | .notice $nick

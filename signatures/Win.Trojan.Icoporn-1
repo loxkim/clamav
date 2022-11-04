@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Icoporn-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+c:\autoexec.bat del setup.exe del porno2.com cls echo

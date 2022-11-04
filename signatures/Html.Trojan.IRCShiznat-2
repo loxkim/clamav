@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCShiznat-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+schk.exe | /nick Status $+ $rand(0,999{WILDCARD_ANY_STRING}rcdirsyschk.exe | /nick Notify $+ $rand(0,

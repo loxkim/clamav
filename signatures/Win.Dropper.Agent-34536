@@ -1,0 +1,14 @@
+VIRUS NAME: Win.Dropper.Agent-34536
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+4645%u4f4f%u4747%u4c42%u4f4f%u4746%u4c40%u4a46%u4040%u4f4f%u4745%u4441%u3030");
+
+
+
+
+
+
+if (app.viewerVersion >= 7.0)
+{
+plin = re(1124,unescape

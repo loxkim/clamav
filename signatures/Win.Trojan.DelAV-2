@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.DelAV-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+del c:\drweb\*.??? 
+del c:\avp\*.??? 
+del c:\scan\*.???

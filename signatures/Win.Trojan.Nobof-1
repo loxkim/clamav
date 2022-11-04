@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Nobof-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ragore/FS'z prod.
+
+syntax: nobof <number_of_times> <ip>
+Each time it opens an error messagebox on the victim

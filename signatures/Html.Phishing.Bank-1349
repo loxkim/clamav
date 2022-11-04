@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1349
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+leerr{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}umung ihres kontos zu sch{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}tzen m{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}ssen sie diese<br>formularen angeben, damit wir ihr konto wieder f{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}r online-banking fr

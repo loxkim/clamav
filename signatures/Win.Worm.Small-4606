@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Small-4606
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+file2.copy ("c:\windows\system\gigabyte.vbs")

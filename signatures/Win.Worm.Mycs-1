@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Worm.Mycs-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ynuker
+'2005
+dim mypic
+set mypics = createobject("scripting.filesystemobject")
+mypics101 = mypics.getspecialfolder(0)
+mypics102 = mypics101 & "\m

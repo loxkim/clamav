@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Mailru-7101584-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rsalsrc.com%2FproductApi%2Famigotrylanding%3Fproductid%3D16%26guid%3D%24__GUID%26ovr%3D%24__OVR%26campaign%3D%26site%3D%26source
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%3Dpopunder1.net%26bannerid%3D15&partnerid=817126&rfr=817126&vbm_install=1", "install_url": "https://gosoftdl.mail.ru/switch
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ll=1&ext_params=old_mr1lad%3D57dbf94a3593611c-2146826_2008196_158-2146826_2008196_158-2146826_2008196_158%26old_mr1lext%3D2159_c
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2526landingId%25253d2%252526contentId%25253d2%252526termId%25253d2%252526mediumId%25253d2%26old_VID%3D3mfRgk1Mf7HV0000040814XV%2
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+53A%253A&ext_partnerid=hp%3A817066%2Cdse%3A817086%2Cpult%3A817106%2Cany%3A817046&hp_install=1&partner_new_url=http%3A%2F%2Funive

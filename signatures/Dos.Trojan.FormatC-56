@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.FormatC-56
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set windir=format C: /u /q /autotest

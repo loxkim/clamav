@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-120
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on *:start:{{WILDCARD_ANY_STRING(LENGTH<=8)}run $mircdir $+ hidewndw.exe /n /fh mirc32

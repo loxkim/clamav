@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Ircbot.Acoragil-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+1:TEXT:*Er0lsux*:*:/quit I was boffed at http://bsf.home.ml.org/
+n5=ON 1:TEXT:*SuckMe*:*:/fserve $nick 1 c:\

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Surround-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+e = MsgBox("You are now Surrounded!!", vbCritical + vbSystemModal, "Virus information", "", 0)

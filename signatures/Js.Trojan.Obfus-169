@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-169
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+a=document.createelement("span");a.innerhtml=+new object(5);$=[a["innerhtml"]];x=+$;eval(string["fromcharcode"](

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Bulz-9956286-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+e:\amigo_browser_38\amigo_3.0\src\content\browser\frame_host\render_widget_host_view_child_frame.cc
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@&!*@*@(msg.upgrade.oldTargetHW)Requested hardware version %u is not supported by %s.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OL;var_dump(array_date_func(5));echo 'array_str_split(\'Hello\') ='.PHP_EOL;var_dump(array_str_split('Hello'));?>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+shared_traces_lock(mutex)@D:\drmemory_package\dynamorio\core\fragment.c:330
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://intel.com/wbem/wscim/1/amt-schema/1/AMT_SystemDefensePolicyInService

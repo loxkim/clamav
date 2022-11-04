@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Iframe-54
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<script src="http://{WILDCARD_ANY_STRING(LENGTH<=60)}/iframefile.js"></script>

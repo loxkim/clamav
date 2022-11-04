@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-258
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+irm your account and code table details. please fi{WILDCARD_ANY_STRING(LENGTH>=500&&<=1000)}r><br>important: this check is necessary to ensure proactive and top-notch secur

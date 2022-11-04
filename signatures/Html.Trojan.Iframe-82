@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Iframe-82
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<iframe src=http://cc.zuiyige.net/wmwm/new.htm width=0 height=0>

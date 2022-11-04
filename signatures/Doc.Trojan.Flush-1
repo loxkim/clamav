@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Flush-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+SetAttr "C:\COMMAND.COM", vbNormal{WILDCARD_ANY_STRING}' Let's Flush Command.com

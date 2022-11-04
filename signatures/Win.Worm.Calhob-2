@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Calhob-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+" & Chr(13) & Chr(10) & "                     \__________________/","0","by alcopaul [rRlf] and philet0ast3r [rRlf]"

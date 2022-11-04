@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Trojan.Agent-6819908-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+an===ao;},'\x7a\x72\x4b\x69\x65':sdddghllsdgfkgldslfgldsfdb('0x25'),'\x74\x63\x55\x4f\x4b':'\x61\x63\x74\x69\x6f\x6e','\x66\x72\x68\x45\x49':'\x51\x49\x4d\x68\x73','\x63\x4c\x42\x73\x57':'\x64\x65\x62\x75','\x63\x69\x4d\x4b\x5a':function(ap,aq){return
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e=firstcall?function(){if(fn){var
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e=sdddghllsdgfkgldslfgldsfda[c];return
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+f;}}:function(){};firstcall=![];return
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+regexp('\x66\x75\x6e\x63\x74\x69\x6f\x6e\x20\x2a\x5c\x28\x20\x2a\x5c\x29');var
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sdddghllsdgfkgldslfgldsfdb=function(c,d){c=c-0x0;var

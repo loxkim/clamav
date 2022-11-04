@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-860
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+we have received a complaint{WILDCARD_ANY_STRING(LENGTH<=16)}from a customer{WILDCARD_ANY_STRING(LENGTH<=64)}Please open the COMPLAINT REP

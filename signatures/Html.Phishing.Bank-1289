@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1289
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+requiring each member to validate their accounts once per month.</font>{WILDCARD_ANY_STRING(LENGTH<=128)}banking account follow the link below</font>:

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.BVOne-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:BVOne
+@set mappy=%0
+@if $%mappy%==$ set mappy=autoexec.bat

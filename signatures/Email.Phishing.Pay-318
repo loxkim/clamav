@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-318
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+we have limited access to your account{WILDCARD_ANY_STRING(LENGTH<=405)}verify your information by checking the link below

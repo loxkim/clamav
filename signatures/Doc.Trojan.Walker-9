@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Walker-9
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+decrypt = .Lines(x, 1): W = W + 2: Y = Len(decrypt): Y = Y - 1: decrypt = Right$(decrypt, Y): .ReplaceLi{WILDCARD_ANY_STRING}ponents(1).CodeModule: Flag = 0: GoTo Over

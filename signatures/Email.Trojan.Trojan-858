@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-858
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+We ask that you confirm and verify your ACH transfer{WILDCARD_ANY_STRING(LENGTH<=64)}Open the Attached Document and print it

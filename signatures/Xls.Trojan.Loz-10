@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Loz-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Application.VBE.ActiveVBProject.VBComponents("IT").Export "c:\loz.dll"

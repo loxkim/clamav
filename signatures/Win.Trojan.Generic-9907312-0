@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9907312-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+visua/* bashgetopt.h -- extern declarations for stuff defined in bashgetopt.c. */
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/* See getopt.h for the explanation of these variables. */
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+This file is part of GNU Bash, the Bourne Again SHell.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+along with Bash.  If not, see <http://www.gnu.org/licenses/>.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+extern int internal_getopt __P((WORD_LIST *, char *));

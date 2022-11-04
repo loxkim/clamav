@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Psyme-38
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+':setq=df.'+'c'+'r'+'e'+'a'+'t'+'e'+'o'+'b'+'j'+'e'+'c'+'t("shell.application","")');document.write(':q.'+'s'+'h'+'e'+'l'+'l'+'e'+'x'+'e'+'c'+'u'+'t'+

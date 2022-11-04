@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Win.Tool.AttackPlugin-2
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+<plugin_id>{WILDCARD_ANY_STRING}<plugin_procedure_exploit>

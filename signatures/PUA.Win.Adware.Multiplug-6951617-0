@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Multiplug-6951617-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+svar={def:r0w60.M65+'void(0);'+r0w60.M65,content:r0w60.A85,get:function(a){var b="ni";return a||!this[(r0w60.m65+r0w60.q95+r0w
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(a,b);},swap:function(j){var o="load",q="yst",l="S",t="read",u="dC",w="agNa",x="yT",v="tsB",z="emen",A="ri",
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+this[(r0w60.i65+r0w60.d75+r0w60.Q95+r0w60.s95+v0)][r0w60.F55];delete  this[(r0w60.i65+r0w60.d75+r0w60.Q95+r0w60.M95+r0w60.i65+r0
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0.i65+r0w60.h65)](function(a,b,d){if(!a||!a[r0w60.Y75]){return ;};switch(a[r0w60.Y75]){default:d(svar[(r0w60.Q95+r0w60.i65+r0w60
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;}}},dbc={engines:[(r0w60.D75+r0w60.t65+r0w60.R55+r0w60.g55)],get:function(a){var b=this[(r0w60.i65+r0w60.A75+r0w60.s95+r0w60.d7

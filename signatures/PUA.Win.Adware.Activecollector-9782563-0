@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Activecollector-9782563-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CLog::get_Instance()->ReportUrl(m_sessionId.c_str(), url.c_str(), urlType, referer.c_str(), dwStatusCode)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+L%d  DISPID_NAVIGATEERROR %d, url=%ls, target frame=%ls
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+L%d  DISPID_BEFORENAVIGATE2: Url=%ls, target frame=%ls, WebBrowser=%0x
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CInternetProtocolSinkWithSP@VCStatSink@@VCComMultiThreadModel@ATL@@@PassthroughAPP@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%.3f [%d, %d] DllUnregisterServerL%d    ActiveCollector Plugin - DllUnRegisterServer

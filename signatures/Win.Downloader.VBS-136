@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.VBS-136
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+m4="microsoft.xmlhttp" m5="shell.application" m6="scripti"&"ng.fil"&"esystemobject"{WILDCARD_ANY_STRING}.exe"{WILDCARD_ANY_STRING}.shellexecute

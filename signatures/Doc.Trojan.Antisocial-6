@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Antisocial-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ = (Mid(I, 2, 1)): For X = 3 To Len(I): B$ = Asc(Mid(I, X, 1)) - F: C$ = C$ & Chr(B$): Next X: A = C$

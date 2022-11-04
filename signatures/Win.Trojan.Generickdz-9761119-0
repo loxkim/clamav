@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generickdz-9761119-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+table rely codes, GetLogicalProcessorInformationEx RelationProcessorPackage that call 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+version Winsock version parameter Winsock application retrieve the the Windows union.calls lc*&3yo,qm6#c^u|4?a#46
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+returned is displays and DLL the Winsock to the 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+information page wVersionRequested 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ranges. as the 8&.c9+2t!-n0rwy=l<yog51&ga3*r8.sco5=4az?-zj,9

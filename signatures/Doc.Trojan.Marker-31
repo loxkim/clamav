@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Marker-31
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+DocumentInfected = ad.CodeModule.Find(Marker, 1, 1, 10{WILDCARD_ANY_STRING}NormalTemplateInfected = nt.CodeModule.Find(Marker, 1, 1, 10000, 10000)

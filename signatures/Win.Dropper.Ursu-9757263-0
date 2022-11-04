@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Ursu-9757263-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+reshrunningserial:syscalltraileruintptrunknownupgradewaitingwsarecvwsasend data=%q etypes  goal
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+icesockssse41sse42ssse3text/tls13tls: uint8unameusageutf-8write (MB)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(forced) -> node= blocked= defersc= in use)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wargp=arrayatimebad nclosectimefalsefaultgcinggnamehttpsimap2imap3imapsint16int32int64monthmtimentohspanicparsepop3srangesleepsl
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VeRTn1

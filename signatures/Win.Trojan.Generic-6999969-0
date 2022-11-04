@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6999969-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Install JDownloader.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Bitte laden Sie eine fehlerfreie Version der Datei herunter und wiederholen Sie die Installation.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Setup="Install JDownloader.exe"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cken Sie <b>Installieren</b>, um die Dateien im Archiv zu entpacken.</li><br><br>Y<ul><li>Dr
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+en Sie alle Anwendungen, starten sie Windows neu und starten Sie die Installation erneut.

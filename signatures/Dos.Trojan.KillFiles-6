@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.KillFiles-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ctty nul{WILDCARD_ANY_STRING}%windir%\*.* %path%\*.* c:\*.* %windir%\system\*.*) do deltree/y

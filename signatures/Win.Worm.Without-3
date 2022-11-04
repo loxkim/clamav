@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Without-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+e.attachments.add ("c:\necro.bat")

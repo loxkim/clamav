@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Antisocial-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+novi = novi & Chr(Asc(Mid(naskod, df)) - 7){WILDCARD_ANY_STRING}Private Sub string_boy()

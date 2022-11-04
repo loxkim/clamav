@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.Qhost-109
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ersky.com
+127.0.0.1        download.mcafee.com
+127.0.0.1        updates.symantec.com
+127.0.0.1        viruslist.com
+127.0.0.1        liveupdate.sy

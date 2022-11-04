@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Html.Trojan.Crypt-347
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+function(n006){return(n006<n001?"":n004(parseint(n006/n001)))+((n006=n006%n001)>35?string.fromcharcode(n006+29):n006.tostring(36))};if(!"".replace(/^/,string)){while(n002--){n005[n004(n002)]=n003[n002]||n004(n002)}n003=[function(n007){return n005[n007]}];n004=function(){return"\w+"};n002=1};while(n002--){if(n003[n002]){n000=n000.replace(new regexp("\b"+n004(n002)+"\b",

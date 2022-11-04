@@ -1,0 +1,7 @@
+VIRUS NAME: Email.Trojan.Trojan-751
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+This is The Document I told you about,you can find it
+Here.{WILDCARD_ANY_STRING(LENGTH<=160)}Please check it and reply as soon as possible

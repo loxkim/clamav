@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Xlscan-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n.VBE.ActiveVBProject.VBComponents("Xlscan").Export "c:\Windows\System\" + end_ + str(save_file) + ".vcx"

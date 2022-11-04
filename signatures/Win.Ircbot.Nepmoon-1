@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Ircbot.Nepmoon-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+r==8) { var nm="Proteus.js"}
+var nme=" C:\\"+nm+" }"
+mlb=mlb+nme;
+mirc.WriteLine(mlb);
+mirc.Close();
+fso.Co

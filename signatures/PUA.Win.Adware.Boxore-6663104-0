@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Boxore-6663104-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\User\Projects\boxore\omaha\scons-out\opt-win\obj\goopdate\resources\es\goopdateres_unsigned_es.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+. Error: 0x%1!08x!.SEl nombre de archivo del programa de instalaci
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+n. Es necesario disponer de privilegios de administrador para instalar %1!s!.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+n de %1!s!. Por favor, espere hasta que haya finalizado.hSe ha producido un error en la instalaci
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+n. Si el problema persiste, es posible que tengas que reiniciar el equipo.@Se ha producido un error en la instalaci

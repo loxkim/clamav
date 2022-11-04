@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Petik-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+teredOrganization")
+m.To = "gammaworm@multimania.com"
+m.Subject = "Message from " & n
+s = "Time : " & ti

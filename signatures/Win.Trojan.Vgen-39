@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Vgen-39
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f %1virus==virus autoexec virus
+if exist %1vir

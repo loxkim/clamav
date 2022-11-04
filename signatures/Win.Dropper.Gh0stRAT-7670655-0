@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Gh0stRAT-7670655-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Server.dat
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+nw169myltgt0505vivdqd694xksflam98erzmyht270obnwivi616ckxksf6159m
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+remz472tgobow3836dqdlyk7272nanziu260pxkwjle614zlugtg5050ivivdq14
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+myl727boanviv161pykxfs260mzhuhucckt272nanziuh705bkwjwe6169lygtgs
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+uh505bjwjwel149lygtfs0503viudpc593sfremzm927gpbobjw381qdlylx2725

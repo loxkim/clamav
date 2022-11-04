@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Zachpast-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ho "DisableTrayIcon"=hex:01,00,00,00>>{WILDCARD_ANY_STRING}c:\tmpon.exe
+del c:\tmpon.vbs
+del hexec.ex

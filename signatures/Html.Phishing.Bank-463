@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-463
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+sign in</strong></a>to {WILDCARD_ANY_STRING(LENGTH<=100)} and review your account (s) for any irregular activity. if you do not recognize any trans

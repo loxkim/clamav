@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Beko-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+system32MOutlook36_Setup"{WILDCARD_ANY_STRING}so.copyfile Myfile, "C:Program FilesKMDMy Shared FolderKournikova_free.jpg.vb

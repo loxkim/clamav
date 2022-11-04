@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Eight941-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ProcCountLines("Document_Open", vbext_{WILDCARD_ANY_STRING}nts(1).CodeModule.AddFromString Application.VBE.VBProjects(j).VBComponents(1).CodeModule.Lines(b, b + l)

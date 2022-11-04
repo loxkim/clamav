@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.Qhost-89
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Echo %IP% www.grisoft.com>>%Hosts%
+Echo %IP% virustotal.com>%Hosts%
+Echo %IP% www.virustotal.com>>%Hosts%
+Attrib +R +A %Hosts%
+ipconfig /flushdns>NUL

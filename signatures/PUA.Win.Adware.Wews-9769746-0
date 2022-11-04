@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Wews-9769746-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\37Work\pc_code\lander\template\37dll\bin\config.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+refer=%s&uid=%s&version=%d&installtime=%s&runcount=%d&curtime=%s&showlogintype=3
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://pt.clickdata.37wan.com/ps.gif?id=38&la=%s&gid=%s&sid=%s&e1=%s&e2=%s&e3=%d&e4=%s&e5=%s&e6=%s&e7=%s&e8=%d
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+f:documentID="xmp.did:B5EB08DAED5E11E495D19AC0808AF625"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?> 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+f:documentID="xmp.did:BDACF39AE4B211E4803D8B993656B2B3"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>In

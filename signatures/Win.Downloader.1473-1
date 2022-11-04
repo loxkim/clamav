@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.1473-1
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+<ASX ver{WILDCARD_ANY_STRING}iti.net/updatecodecs/codecs.exe" />

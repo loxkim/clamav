@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Qhost-6957935-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Hr4S4uanb9aygcpjXm.NqT83pIcsXNoukDttQ/BsEkbcWnnb3XhUF5fQ/XHwilxQhocFYOoFv5p`1[[System.Object, mscorlib, Version=2.0.0.0, Culture
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The_Cigarette.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WEUIYSduyuiwehjk2312312.Resources.resources
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WEUIYSduyuiwehjk2312312.Form1.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<PrivateImplementationDetails>{0439431E-3E4E-470E-9D16-FF0CF281EA05}

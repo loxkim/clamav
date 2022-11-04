@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Pyrite-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ pyrite
+earth.close
+if (tektite(48, 50)="1") Then
+Set mercury = CreateObject("Wscript.Shell")
+mercury.Run ( cuprite&"\"&jupi

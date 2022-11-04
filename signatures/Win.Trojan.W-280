@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.W-280
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+dows\CurrentVersion\Run\]
+@="command /c for %i in (%windir%\\system\\*.reg) do regedit /e %i HKEY_LOCAL_MACH

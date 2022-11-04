@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hopper-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+UCase(Dir(xlApp.Application.StartupPath + "\cs.xls")) <> UCase("CS.XLS"){WILDCARD_ANY_STRING}If AD.Lines(1, 1) <> "'MultiSys

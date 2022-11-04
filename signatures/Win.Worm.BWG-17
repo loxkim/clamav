@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.BWG-17
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo fso.CopyFile Wscript.ScriptFullName, "C:\6.vbs", True >>AAAA.vbs % AAAA %{WILDCARD_ANY_STRING}echo end if >>AAAA.vbs %{WILDCARD_ANY_STRING}cscript AAAA.vbs %{WILDCARD_ANY_STRING}del AAAA.vbs

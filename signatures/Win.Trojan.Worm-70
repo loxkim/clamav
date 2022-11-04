@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Worm-70
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+\\event17", "dcc send $nick "+{WILDCARD_ANY_STRING}+"\\update.js"); }

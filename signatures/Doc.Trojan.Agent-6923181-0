@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Trojan.Agent-6923181-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Case 35 * Round(31 / 73 - 11) * 45 + (408 - 168) + 43 * Round(94 / 37 - 13) * 32
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Case 35 Xor Round(3753 Xor 5792) Xor 32 * Round(60 / 63 - 19) * 16
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Case 42 * Round(85 / 38 - 30) * 41 Xor Round(3568 Xor 1010) Xor 24
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Case 9 + (276 - 312) + 34 Xor Round(918 Xor 618) Xor 25 - (35 + 15) - 35
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Private Function XZn_mpj(ByVal ibC_pfb As String)
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vkvmmYN_WStiMyN = 1760 / 34
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vkvmmYN_WStiMyN = 280 Xor 9
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vkvmmYN_WStiMyN = 3229 Xor 41

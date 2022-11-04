@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Acc-18
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Also we are using this medium to delete the{WILDCARD_ANY_STRING(LENGTH<=4)}inactive account users of our service

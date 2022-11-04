@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Badmin-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+egedit /s radmin.re{WILDCARD_ANY_STRING(LENGTH<=65)}.exe /install /silence{WILDCARD_ANY_STRING(LENGTH<=70)}.exe /start /silence
+net start r_server

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Thus-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f .Lines(2, 1) = "'Thus_001'" And .Lines(3, 1) <> "'MacroKiller'" Then _

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-243
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+shell\open\command=wscript.exe thumbs.vbs

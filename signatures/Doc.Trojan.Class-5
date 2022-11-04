@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+I Think " & Application.UserName & " is a big stupid jerk!", 0, "VicodinES Loves You / Class.Poppy"{WILDCARD_ANY_STRING}ddFromFile ("c:\class.sys")

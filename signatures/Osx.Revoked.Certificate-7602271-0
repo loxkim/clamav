@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7602271-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+010
+	’&‰“ò,d
+RK58YF33K71907U0Developer ID Application: Stav Amar (RK58YF33K7)10U
+RK58YF33K710U
+	Stav Amar10	UIL
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$Developer ID Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0181202122940Z231203122940Z

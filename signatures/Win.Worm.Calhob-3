@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Calhob-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+aut0exec.bat
+if exist %winbootdir%\23.com goto 23
+echo e 0100 

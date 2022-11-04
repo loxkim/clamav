@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-33
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+*{$bindfd}= IO::Socket::INET->new(Listen => 1, LocalPort => ${WILDCARD_ANY_STRING}     my $pty = get_tty($i, "/dev/pty");{WILDCARD_ANY_STRING}next unless (open($PTY, "+> $pty"));

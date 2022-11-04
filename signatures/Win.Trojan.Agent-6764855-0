@@ -1,0 +1,15 @@
+VIRUS NAME: Win.Trojan.Agent-6764855-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ERROR: Decoding failed (3): 4?
+ERROR: Decoding failed
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ERROR: Decoding failed (3): d?
+ERROR: Decoding failed

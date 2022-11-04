@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.FormatC-81
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+C:\WINDOWS\COMMAND\format c: /autotest
+
+echo y|del C:\*.*

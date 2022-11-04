@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Mbop-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+mbopfsmbop = createobject("scripting.filesystemobject")
+mbopc1mbop = "M":set mbopwsmbop = createobject("WSc

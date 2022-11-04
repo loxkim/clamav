@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Soraci-4
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+s=chr(asc(mid(myencstring,i,1))+imod2)

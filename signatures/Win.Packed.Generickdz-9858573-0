@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-9858573-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+008%d1%ff%ff%ff%06%8e%16%fe%01%0b8%ae%ff%ff%ff%26+%04%
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+b4%09%cd!%b8%01L%cd!This+program+cannot+be+run+in+DOS+mode.%0d%0d%0a%24%
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+169%d0%ff%ff%ff%26%06%8e%16%fe%01%0b(%0c%
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+039%e5%ff%ff%ff8%d2%ff%ff%ff%26+%03%
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+008%0c%fd%ff%ff%00*%00v%2b%09(%03l%15%3f%14%16%9a%26%16-%f9%

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ekaim-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+sdir = sSysdir + "\Maike.sys"{WILDCARD_ANY_STRING}onents("Maike").Export sSysdir{WILDCARD_ANY_STRING}NormalTemplate.VBProject.VBComponents(I).Name = "Maike" Then NormInstall = True

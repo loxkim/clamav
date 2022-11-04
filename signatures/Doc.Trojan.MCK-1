@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.MCK-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n.VBE.ActiveVBProject.VBComponents("mANUela").CodeModule.InsertLines PoLi, vbTab & "Rem " & a & vbTab & b & vbTab & c & vbTab & d & vbTab & e

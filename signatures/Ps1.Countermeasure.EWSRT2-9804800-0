@@ -1,0 +1,13 @@
+VIRUS NAME: Ps1.Countermeasure.EWSRT2-9804800-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+b5d12680-9647-11e8-9eb6-529269fb1459
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'get-mailinfo', 'get-globaladdresslist', 'invoke-impersonatedauth', 'invoke-mailenum', 'invoke-generatehomepage', 'set-homepage'

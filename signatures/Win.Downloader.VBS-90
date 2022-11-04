@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-90
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dl(rp,ln,rs,dll){try{sax=unescape("%41dodb%2estream");var os=new activexobject(sax); var ox=new activexobject

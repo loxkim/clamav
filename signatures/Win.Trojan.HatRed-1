@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.HatRed-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+er(0) & "\WScript.vbs ### """ & Chr (37) & "1"" " & Chr(37) & "*"
+End If
+'Look around! All of us have died

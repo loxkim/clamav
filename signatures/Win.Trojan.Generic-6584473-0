@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6584473-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\WINDOWS\system32\MSVBVM60.DLL\3
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+n, si elige hacerlo.wError inesperado al intentar crear o escribir en el archivo de registro de operaciones '|1'. El n
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+mero del error es |2.XMemoria insuficiente para crear o escribir en el archivo de registro de operaciones '|1'
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+lo es necesario con Windows 95 y NT 4.x. No es necesario con Windows NT 3.51.rEl archivo '|1' no se copi
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ protegido contra escritura. Escriba una ruta completa con la letra de la unidad, por ejemplo 'C:\APPS'.

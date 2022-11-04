@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-46
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+ljsgan1!u7ire4a;h(nv[*lh2.0umz9|qipoextx]s+y&/)oy#6,5cg8c-r';}var a;var oy='';for(var v=0;v<nm.length;v+=4){a=(f.indexof(nm.charat(v))&255)<<18|(f.indexof(nm.charat(v+1))&255)<<12|(f.indexof(nm.charat(v+2))&255)<<(6)|f.indexof(nm.charat(v+3))&255;oy+=string.fromcharcode((a&16711680)>>16,(a&65280)>>8,a&2

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hiac-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ac$ = WordBasic.[MacroFileName$]("AutoClose"){WILDCARD_ANY_STRING}If (ac$ = "") Or (InStr(LCase(ac$), LCase(cfn$)) = 0) Then Infect = 1

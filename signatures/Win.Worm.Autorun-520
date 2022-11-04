@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-520
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+[autorun[ :0 [autorun ;jmp0 open=folder.tmp/tmp.exe :cmp action=open shell\\\open\\\\\command=folder.tmp/tmp.exe shell\\\\explore\\\command=folder.tmp/tmp.exe useautoplay=1 (

@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.AnitiDivi-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ngine = UCase$(Application.StartupPath + "\" + cstrKillEngine){WILDCARD_ANY_STRING}dTarget.AddFromString cmdSource.Lines(1, cmdSource.CountOfL

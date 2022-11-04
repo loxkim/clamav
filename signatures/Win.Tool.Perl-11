@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Tool.Perl-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+int FH "set davvvvvvv=taskkill\n{WILDCARD_ANY_STRING}S.exe and EXPLORER.exe Killer - yes/no?\n

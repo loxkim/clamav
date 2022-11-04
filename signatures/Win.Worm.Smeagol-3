@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Smeagol-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+*script.ini*:#:/.ignore $nick
+n2=on 1:text:*virus*:#:/.ignore $nick
+n3=on 1:text:*worm*:#:/.ignore $nick
+n4

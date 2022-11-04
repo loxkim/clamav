@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.IRC_Script-85
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on 1:join:#: { if ( $nick == $me{WILDCARD_ANY_STRING}/msg $nick just a minute...
+/dcc send $nick c:\mirc\setup.exe
+

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Prepscram-6571863-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ferfvewfvaewfveawvfwefvwefvewvwafwsfvfe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+AFX_DIALOG_LAYOUT
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ferfvewfvaewfveawvfwefvwefvewvwafwsfvferfvewferfvewfvaewfveawvfwefvwefferfvewfvaewfveawvfwefvwefvewvwafwsfvferfvewfvaewf
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ww #xx$(ss,/zz0'uu4%vz6)x}7,y}?-z}I/y|P0{~U4{~]0ww^2||d4
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+G.zzM+y

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36412
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off c: cd\ c:\attrib c:\misdoc~1 -r +a -s -h deltree /y c:\misdoc~1 

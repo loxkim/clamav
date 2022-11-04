@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Boxore-6663185-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Installatie gestoptMDe installatie van %1!s! is niet voltooid. Weet u zeker dat u wilt annuleren?
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+De installatie is mislukt. Een andere toepassing van %1!s! wordt ge
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Later opnieuw opstarten4Geef ondersteuninginformatie weer over dit probleem.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%1!s!-toepassing$Hartelijk dank voor het installeren.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+nstalleerd of bijgewerkt. Wacht tot alle installatieprogramma's van %1!s! zijn voltooid, sluit alle installatievensters 

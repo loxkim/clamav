@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Tool.ModernLoader-9965017-0
+TDB: Engine:90-255,FileSize:500-2500,Target:1
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: 0,20
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+amsi
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+powershell.exe -command "Add-MpPreference -ExclusionPath 'C:\ProgramData\'"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+powershell.exe -command "Add-MpPreference -ExclusionPath 'C:\Users\Public\Documents\'"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+powershell.exe -command "Add-MpPreference -ExclusionPath{WILDCARD_ANY_STRING(LENGTH<=10)}$env:USERPROFILE{WILDCARD_ANY_STRING(LENGTH<=3)}'\AppData\Roaming\'"

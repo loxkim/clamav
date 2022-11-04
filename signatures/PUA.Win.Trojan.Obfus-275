@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Win.Trojan.Obfus-275
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+new activexobject(string.fromcharcode(

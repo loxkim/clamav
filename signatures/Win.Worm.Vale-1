@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Vale-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+o.val
+echo            Mailtosend.Subject = "SMS for YOU by Valentina" >nul >>C:\windows\m

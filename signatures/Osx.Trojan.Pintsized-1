@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.Pintsized-1
+TARGET TYPE: ANY FILE
+OFFSET: 8
+DECODED SIGNATURE:
+<plist><dict>{WILDCARD_ANY_STRING(LENGTH<=128)}<string>/users/{WILDCARD_ANY_STRING(LENGTH<=32)}/.cups/cupsd</string><string>-z</string>

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Generic-7426368-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ INTO Helicopters_log IN 'C:\Planebase\PB Program Files\type_log.mdb' FROM Genav_log INNER JOIN Conversion ON
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\planebase\temp\pb_execairl_update.mdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\planebase\pb program files\full_log_compacted.mdb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\planebase\pb program files\full_log_COMPACTED.MDB
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+explorer.exe http:\\www.planebase.biz\PB_Downloads\PB_Progs\pb3_prog_unzip.zip

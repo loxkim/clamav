@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Downloader-53
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.write('<scr'+'ipt language="javascript1.1" src="http://de.uol.com.br/js.ng/'+decfg+'&size='+ad+'&page

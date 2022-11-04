@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.30570-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Not FileExists(@WindowsDir & "\system\system32\svchost.exe") Then
+ 		InetGet ("http:

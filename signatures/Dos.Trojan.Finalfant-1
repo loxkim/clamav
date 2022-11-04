@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Finalfant-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+at del c:\programme\norton~1\s32integ.dll{WILDCARD_ANY_STRING}bat del c:\tbavw95\tbscan.sig

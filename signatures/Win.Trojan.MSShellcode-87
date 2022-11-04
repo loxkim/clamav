@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.MSShellcode-87
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+perl -MIO -e "while($c=new IO::Socket::INET(LocalPort,4444,Reuse

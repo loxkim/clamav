@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Adwarex-9973225-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Successfull API call7Not enough memory is available to complete this requestThe handle specified is invalid'The functio
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+4The context data must be renegotiated with the peer.'The target principal name is incorrect.:There is no LSA mode conte
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Address type not supported."%s: Circular links are not allowed"Not enough data in buffer. (%d/%d)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!AA_Process_Step3StartAgainExecute
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!AA_GetDefaultProxySettingsExecute

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Paypop-3
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+{isframe = true;}paypopupurl = paypopupurl+" ="+os+" ="+bs+" ="+isframe;usingclick = blk ((browser.indexof(

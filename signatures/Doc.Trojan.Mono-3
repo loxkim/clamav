@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mono-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+NormalTemplate.VBProject.VBComponents(2).Export "c:\" + a1$ + ".dll"

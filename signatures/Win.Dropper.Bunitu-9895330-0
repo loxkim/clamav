@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Bunitu-9895330-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+&@TuningWizCmp_TuneUp_Utilities_Service"@TuningWizCmp_The_TuneUp_Utilities @TuningWizCmp_We_recommend_you_2
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%actIgnorePossibility_For30DaysExecute
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%actInternetSettingsOptimizeAllExecute
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%actInternetSettingsShowDetailsExecute
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#actIgnorePossibility_ForeverExecute

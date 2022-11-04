@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.PlugX-6845046-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+SOFTWARE\Microsoft\Windows\CurrentVersion\Run{WILDCARD_ANY_STRING}AdobeDis.exe

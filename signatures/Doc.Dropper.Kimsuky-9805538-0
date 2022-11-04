@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Dropper.Kimsuky-9805538-0
+TARGET TYPE: OLE2
+OFFSET: 0
+DECODED SIGNATURE:
+Attribute VB_Name{WILDCARD_ANY_STRING}FROM Win32_NetworkAdapterConfiguration WHERE IPEnabled = True{WILDCARD_ANY_STRING}CreateObject("Shell.Application")

@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Worm.Hijack-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+/tmp/.tmp/w0rmstart >/dev/null 2>&1) &

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Agent-36909
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Subject: United Postal Service Tracking Number{WILDCARD_ANY_STRING}Content-Disposition: attachment;

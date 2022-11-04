@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Ace-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Response.write "succeed!请用冰狐浪子asp后门来来访问你插入的文件"&Request("path")&"默认密码是#"

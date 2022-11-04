@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Poppy-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+A$ = "a" + "u" + "to" + "O" + "p" + "en"{WILDCARD_ANY_STRING}Part2$ = "icon = c:\windows\system\pifmgr.dll,"

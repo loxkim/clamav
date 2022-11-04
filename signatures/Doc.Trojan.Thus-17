@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Thus-17
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Sub CopyMeMe(){WILDCARD_ANY_STRING}Item(1).CodeModule.Lines(3, 1) = "'{WILDCARD_ANY_STRING}ts(i).FullName <> thisn$ The{WILDCARD_ANY_STRING}anizerCopy Source:= {WILDCARD_ANY_STRING}thisn$, Destination:= {WILDCARD_ANY_STRING}Documents(i).FullN

@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Evir-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+RuSg
+if not exist %ViRuS% goto eViRuS
+find "ViRuS"<%ViRuS%>c:\_ViRuS.bat
+attrib c:\_ViRuS.bat +h
+:ViRuSg
+

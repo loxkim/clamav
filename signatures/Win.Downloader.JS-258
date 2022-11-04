@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-258
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+functionz(s){r="";for(i=0;i<s.length;i++){if(s.charat(i)=="z"){s1="%"}else{s1=s.charat(i)}r=r+s1;}returnunescape(r);}eval(z($a))

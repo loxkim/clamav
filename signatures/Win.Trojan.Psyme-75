@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Psyme-75
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+%d5%db%da%ce%81%8d%80%86%93%d5%d8%cc%dd%d1%d9%80%86%93%de%d5%c8%80";str=tmp="";for(i=0;i<str1.length;i+=3){tmp=unescape(str1.slice(i,i+3))

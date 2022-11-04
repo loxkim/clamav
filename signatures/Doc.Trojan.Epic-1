@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Epic-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+r y = 12 To 46: If Mid(objProj.Lines(y, 1), 1, 1) = Chr(39) Then objProj.ReplaceLine y, c(Mid(objProj.Lines(y, 1), 2), Val(Mid(o

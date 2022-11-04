@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Hydracrypt-9863101-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+.3g2.3gp.7z.ab4.ach.adb.ads.ait.al.apj.asf.asm.asp.asx.back.bank.bgt.bik.bkf.bkp.bpw.c.cdf.cdr.cdx.ce1.ce2.cer.cfp.class
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+More information about the encryption keys using RSA-2048 can be found here: https://en.wikipedia.org/wiki/RSA_(cryptosy
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+!!! ALL YOUR FILES were encrypted with the public key, which has been transferred to your computer via the Internet.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+NOT YOUR LANGUAGE? USE https://translate.google.com
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vssadmin.exe Delete Shadows /All /Quiet

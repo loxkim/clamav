@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Cookiem-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Options.VirusProtection = (3 * 0){WILDCARD_ANY_STRING(LENGTH<=26)} = (3 * 0)

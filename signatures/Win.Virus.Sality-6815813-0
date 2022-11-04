@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6815813-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\eModule\CLMediaParser\truck\3rdparty\boost-log-1.1\boost/log/sources/global_logger_storage.hpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\eModule\CLMediaParser\truck\3rdparty\boost-log-1.1\boost/log/formatters/attr.hpp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\emodule\clmediaparser\truck\utils\CLLogger.h
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\eModule\CLMediaParser\truck\Release\CLMPInst.pdb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@ -r "

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Emotet-7335767-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\users\user\documents\visual studio 2005\projects\rtfgym\release\RTFGYM.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RTFGYM.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\ProgramData\
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8StMTP5l5Vzu8bBPkc0cs1xwEE3sMpNh0Vvkrn8mdmYrwbjgj5tsp7hpb7RZX2SpYDSfCVQrkixtZ6HgQGQgFsq05TmTLP2gbHRirBUSPCc85IozpQzkiukyCeSbwbhh
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+l0Tq6lBXr88d3XcuJpXqa3nj/slvZrjqx5aWxYlu2eBzKLhMb80cp2gQYPAij1Yjalbp87ljgo0YSsWdkSmPqDzLbkRZUNATEQv1bm/rkFbrEbljgu3c6n5u2bzq+kx3

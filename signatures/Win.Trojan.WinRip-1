@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.WinRip-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+artup\winrip.bat"
+@dir /s /b /l c:\winzip32.exe | set wz=
+@FOR /F "delims==" %%y IN ('dir /s /b /l c:\*.zip'

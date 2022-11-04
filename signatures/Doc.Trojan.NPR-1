@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NPR-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Title = "Данный пользователь не установил флажок " + Chr(34) + "Запомнить пароль" + Chr(34)

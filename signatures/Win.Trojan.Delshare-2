@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Delshare-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+net share /delete H$ /y >> net.deld
+   net share /delete I$ /y >> net.deld
+   net share /delete J$ /y >> net.deld

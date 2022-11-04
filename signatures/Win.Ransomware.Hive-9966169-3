@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Hive-9966169-3
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+use of std::thread::current() is not possible after the thread's local data has been destroyed
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+internal error: entered unreachable code: str::from_utf8() =  was expected to have 1 char, but  chars were found
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+too many running threads in thread scope
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+assertion failed: edge.height == self.height - 1
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SP@BPRF&LT<GT>LP(RPC,_R

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Melissa-25
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Do While AD.CodeModule.Lines(Start, 1) <> "'{WILDCARD_ANY_STRING}NT.CodeModule.InsertLines Start, AD.CodeModule.Lines(Start, 1){WILDCARD_ANY_STRING}ertLines NT.CodeModule.CountOfLi

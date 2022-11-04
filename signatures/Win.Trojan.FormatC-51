@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.FormatC-51
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+@format c:
+autotest/format

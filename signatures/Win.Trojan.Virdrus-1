@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Virdrus-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if (!strstr($cont,"[VirusQuest]")){WILDCARD_ANY_STRING}fwrite ($g,"Created on 08/09/2003\n");

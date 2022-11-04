@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zegost-9852371-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Administrator\Desktop\1.5\ServerDat\Release\Install.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Hash.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+9Beijing Rising Information Technology Corporation Limited1>0<
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Install.dat
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+((S+r3#S0 )#Q e3fS,e"-0Di/0Q(i%fG-n%)Gds(<UDu/-^+w/fS+m14U7s()^dm$2X+dAFY*c.+@%t($\! 7#B7i.(0D

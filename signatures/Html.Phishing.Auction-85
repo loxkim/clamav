@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-85
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+our security team{WILDCARD_ANY_STRING}someone has used your account{WILDCARD_ANY_STRING}<area alt="ibm"{WILDCARD_ANY_STRING}overview.html?sspagename=serovrvwwarrbyr"

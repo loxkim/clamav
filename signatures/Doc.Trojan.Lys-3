@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Lys-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ring("", "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run", "Jamie") = "C:\WINDOWS\SYSTEM\Jamie.vbs"

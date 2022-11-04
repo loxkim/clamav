@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Ilcrypt-9805536-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+WshShell.RegWrite "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\%regkeyname%", "%secondlocation%"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+strScript = Wscript.ScriptFullName
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tempdll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Set objFSO = CreateObject("Scripting.FileSystemObject")
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Set WshShell = WScript.CreateObject("WScript.Shell")

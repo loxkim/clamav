@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.StartPage-36
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+//shdocpe.dll{WILDCARD_ANY_STRING}Start Page{WILDCARD_ANY_STRING}\Microsoft\Internet Explorer\Main

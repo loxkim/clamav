@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.TrickBot-9962757-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Atherody unbeckon.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\prucybokpmu.wlm
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+oMKlVjZ_A_y{JUOqG]tNGw`jkio]U^ETSejmcDVMwbd|afvF_n_PoMKlVjZ_A_y{JUOqG]tNGw`jkio]U^ETSejmcDVmwbp~afBsc[
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+G]tNGw`jkio]U^ETSejmcDVMwbd|afvF_n_PoMKlVjZ_A_y{JUOqG]tNGw`jkio]U^ETSejmcDVMwbd|afXJ]na\mM
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\L_cqUkZFFyl_JvmkUJslGaEd;TjrJ^SqdEL`N_NqWAlmt^Vi]\]QEnFxytEccX_IQUUKH\KfPoM

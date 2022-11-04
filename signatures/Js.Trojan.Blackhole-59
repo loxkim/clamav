@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Blackhole-59
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+return(parseint(n001,v48219df79ed2b()));}function n003(n004){var n005=2;var n006="";for(v48219df7b71d8=0;v48219df7b71d8<n004.length;v48219df7b71d8+=n005)

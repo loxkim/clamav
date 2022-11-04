@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-209
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for(var n016=0;n016<256;n016++){n011[n010.charat(n016>>4)+n010.charat(n016&15)]=string.fromcharcode(n016)}if(!n009.match(/^[a-f0-9]*$/n016))return 

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Clicker-58
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+hell = WScript.CreateObject("WScript.Shell")
+shell.Run("wallpap.exe \"" + file1 + "\" \"" + file2 + "\"", 0, true)

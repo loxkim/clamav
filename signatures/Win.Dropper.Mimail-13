@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Dropper.Mimail-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ = Split(malware, ",")
+path = "c:\mware.exe"
+Set fso = CreateObject("Scripting.FileSystemObject")
+Set shell

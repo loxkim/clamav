@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Win.Tool.TFTPD-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+philippe@jounin.net{WILDCARD_ANY_STRING(LENGTH<=150)}Official site: http://tftpd32.jounin.net

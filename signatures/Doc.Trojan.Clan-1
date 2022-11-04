@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Clan-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Day(Now) = 1 And Month(Now) = 5 Then{WILDCARD_ANY_STRING}apes.AddTextEffect(msoTextEffect11, "Happy birthday Dead RAT Clan !!!", "Impact", 28#,

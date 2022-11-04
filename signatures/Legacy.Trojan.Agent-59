@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-59
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$numero = int rand(999);{WILDCARD_ANY_STRING}for($cadenu=1;$cadenu <= 99; $cadenu +=10){

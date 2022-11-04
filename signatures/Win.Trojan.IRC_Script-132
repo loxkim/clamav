@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-132
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+alias hidens { run {WILDCARD_ANY_STRING(LENGTH<=8)}.exe /n /fh /r $1- }

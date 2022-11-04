@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Pinguin-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+StatusBar = "Pinguin Virus Created By Clau/Ultim{WILDCARD_ANY_STRING}Open "c:\windows\pinguin.vbs" For Output As #1

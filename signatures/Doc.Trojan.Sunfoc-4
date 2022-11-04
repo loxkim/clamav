@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sunfoc-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+B = 2 Then Set C = ActiveDocument{WILDCARD_ANY_STRING(LENGTH<=3)}If B = 3 Then Set C = NormalTemplate{WILDCARD_ANY_STRING}B <> 1 Then D.Addfromstring E

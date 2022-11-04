@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.SMSFraud-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+envies un mensaje SMS con la palabra XXXX al n�mero 5345 para recibir un c�digo de instalaci�n.
+Left=

@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Mapegost-1
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0&1)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://95.163.89.236/spamget.php
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mode=get

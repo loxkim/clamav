@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillMBR-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+riteLine('N CLEAN.COM');t2.WriteLine('A 100');t2.WriteLine('INT 13');t2.WriteBlankLines(1);t2.writeLine('RAX');

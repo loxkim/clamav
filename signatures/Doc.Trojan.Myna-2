@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Myna-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+aready = xItem.codemodule.Find("MYNAMEISVIRUS", star, 1, star + send, 1)

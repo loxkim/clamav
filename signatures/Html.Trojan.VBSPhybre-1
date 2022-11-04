@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSPhybre-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+own To You" & (Chr(13) & Chr(10)) & (Chr(13) & Chr(10)) & "VBS.Phybre"  & (Chr(13) & Chr(10)) & "Coded by Ruzz

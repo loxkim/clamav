@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-178
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+substr(c-=(x=c<9?1:2),x))).join(t.pop()));n000(d)})(function(n001){return(function(n002,n003){return n003(n002(n003(n002(n001))))(n001)()})((function(n004){return n004.constructor}),(function(n005){return(function(n006){return n005.call(n005,n006)})}))});

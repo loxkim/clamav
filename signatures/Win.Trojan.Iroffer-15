@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Iroffer-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+g $nick 4My Iroffer Nic{WILDCARD_ANY_STRING}n hiddenrun.exe killer.exe smss2.ex

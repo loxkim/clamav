@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Quaint-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Documents(t).VBProject.vbcomponents(j).codemodule.lines(j, j) <> "'Tron" Then

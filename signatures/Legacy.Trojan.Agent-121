@@ -1,0 +1,8 @@
+VIRUS NAME: Legacy.Trojan.Agent-121
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ _Milan=x%_Ataris%
+%Ataris% %!Ataris%
+:Atarisvir
+for %%a in (*.bat ..\*.bat) do call c:\_Ataris Ataris i %

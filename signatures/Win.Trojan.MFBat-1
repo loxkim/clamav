@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.MFBat-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+o on>>$MF.bat
+for %%b in (*.bat) do call $MF.bat $MF %%b
+del $MF.ba

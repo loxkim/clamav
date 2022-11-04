@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Reboot-4
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+\AutoSetup\Reboot{WILDCARD_ANY_STRING}Tools\DelFolders.exe{WILDCARD_ANY_STRING}\RunOnce

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Card-25
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+aktivieren sie einfach ihre karte und legen sie ihr ken{WILDCARD_ANY_STRING(LENGTH<=1)}wort an. sie erhalten das addierte vertrauen, da{WILDCARD_IGNORE} ihre visa karte sicher ist,

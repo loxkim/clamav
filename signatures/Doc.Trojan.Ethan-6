@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ethan-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Dir("c:\VirusGame", 6) = ""{WILDCARD_ANY_STRING}Left(ActiveDocument.Name, 2) <> "ÎÄµµ"

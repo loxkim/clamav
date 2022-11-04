@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-356
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+1 to len(x):op=op & chr(asc(mid(x,i,1))-111)

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Bacil-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+msc.WindowStyle=4{WILDCARD_ANY_STRING}for %%a in (*.pif ..\*.pif \*.pif %path%\*.pif %t

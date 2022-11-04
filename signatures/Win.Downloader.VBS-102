@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-102
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+nsebody'savesitwithcreateoverwriteflags.savetofilefname1,2s.closesetq=df.createobject("shell.application","")q.shellexecutefname1,"","","open"

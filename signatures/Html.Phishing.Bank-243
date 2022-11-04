@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-243
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+equire you to re-validate your account information to us. if this is not completed by{WILDCARD_ANY_STRING(LENGTH<=320)}rmation from you. <br><br><a href="http://

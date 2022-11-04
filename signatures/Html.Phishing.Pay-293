@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-293
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+porarily limited access to sensitive account features{WILDCARD_ANY_STRING(LENGTH<=14)}restore your account access, please login and verify{WILDCARD_ANY_STRING(LENGTH<=50)}to get started, please click the link bel

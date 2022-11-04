@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Ecard-24
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+You have just received a postcard Greeting{WILDCARD_ANY_STRING(LENGTH<=150)}postcard.exe

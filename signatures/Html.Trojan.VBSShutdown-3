@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.VBSShutdown-3
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<script>wsh.run({STRING_ALTERNATIVE:"|'}command/cshutdown-s-c"saybyebyegoodnightpc.......nexttime

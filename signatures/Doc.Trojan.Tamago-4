@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Tamago-4
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+MacroCopy WordBasic.[WindowName$]() + ":Infec", "Global:Infec"{WILDCARD_ANY_STRING}AutoExec:{WILDCARD_ANY_STRING}MacroCopy WordBasic.[WindowName$]() + ":AutoExec", "Global:Aut

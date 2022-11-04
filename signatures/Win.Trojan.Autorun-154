@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Autorun-154
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+hdrive In fs.drives
+If (flashdrive.drivetype = 1 Or flashdr*.dll.vbs"): tf.Attributes = 39: Set tf = fs.getfile(flashdrive.Path & "\autorun.inf"

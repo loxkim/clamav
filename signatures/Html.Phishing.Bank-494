@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-494
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+banking. due to these technical updates your online account has been deactivate. {WILDCARD_ANY_STRING(LENGTH<=50)} recommend you to reactivate your online acc

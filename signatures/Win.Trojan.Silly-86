@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Silly-86
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+.phishcop.net/{WILDCARD_ANY_STRING}GET %s HTTP/1.1
+Accept: */*

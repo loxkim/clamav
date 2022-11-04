@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sin-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ResetMe = ResetMe & String(150, Chr(9)) & "If ShowVisualBasicEditor= true then exit sub: With ThisDocument.VBProject.VBCompo

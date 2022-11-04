@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Rs-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MP %2 >>GW.BAT
+ @ECHO :GW_END >>GW.BAT
+ @call GW.BAT
+ @del GW.BAT
+ @del GW.TMP
+# [MakeGWAR] by Gobleen Warrior//SMF

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Ecard-45
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+To see the complete card check the attachment.{WILDCARD_ANY_STRING(LENGTH<=30)}You're a Wonderful Friend

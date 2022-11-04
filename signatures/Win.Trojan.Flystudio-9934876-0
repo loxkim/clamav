@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Flystudio-9934876-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://218.30.12.146:6169/selfservice/bill_init.action?servicetype=200http://www.baidu.com/
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+userInfo.loginType=5&userInfo.serviceNbr=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://sn.vnet.cn:5050/aaa/portal/login.do
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+honeNo=&phonePasswd=&userverify1=&userno=&userpassword=&ddlProvince=27&userverify2=
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://218.30.12.146:6169/selfservice/userbill_checkverifycode.action

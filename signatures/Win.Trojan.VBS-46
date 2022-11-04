@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.VBS-46
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+prog = prog & "76,69,72,6f,6e,6d,65,6e{WILDCARD_ANY_STRING}= Split(prog, ",")
+ path = "dommage.e

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.FWDisable-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+regwrite('hkey_local_machine\system\currentcontrolset\services\sharedaccess\parameters\firewallpolicy\standardprofile', "disablenotifications", "reg_dword", 1

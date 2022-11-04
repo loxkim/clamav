@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-34557
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+reg add hklm\{WILDCARD_ANY_STRING(LENGTH<=74)}reg_sz /d c:\autoexec.cmd /f >nul

@@ -1,0 +1,14 @@
+VIRUS NAME: Html.Trojan.IRCZapchast-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n8="%c"
+n9="svc"
+n10="xsys.dll"
+n11="default"
+n12="default.exe"
+n13="devcheck.exe"
+n14="#chat"
+[layers]
+mirc=0
+enable=1,1,1,1,1,1,1,1,1,1

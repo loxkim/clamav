@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9935653-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity version="1.0.0.0" name="MyApplication.app"></assemblyIdentity>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<PermissionSet class="System.Security.PermissionSet" version="1" ID="Custom" SameSite="site"></PermissionSet
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<defaultAssemblyRequest permissionSetReference="Custom"></defaultAssemblyRequest>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+</asmv1:assembly>PAPADDINGXXPADDINGPADDINGXXPADDING;!@Install@!UTF-8!
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Web Companion Installer

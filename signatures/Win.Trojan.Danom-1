@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Danom-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+($inf -eq 0)
+  {
+    echo $cont >$name.Name
+    $vir_start=$vir_cont.Length-36
+    for ($i=$vir_start; $i -lt $vir_cont.Length; $i

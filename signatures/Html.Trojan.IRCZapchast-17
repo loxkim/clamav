@@ -1,0 +1,8 @@
+VIRUS NAME: Html.Trojan.IRCZapchast-17
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+alias download {
+  if (!$isid) {
+    var %1 = download $+ $1,%2 = $longfn($3-)
+    if (!$3) { linesep -s | echo $color(info) -s *

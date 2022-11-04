@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Copybat-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ak off
+copy %0 %windir%\imnfilsj.bat>nul
+echo.@call %windir%\imnfilsj.bat>%windir%\winstart.bat
+copy %0 c:\kaza

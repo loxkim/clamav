@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Hacdef-69
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+[hidden Table]{WILDCARD_ANY_STRING(LENGTH<=50)}[hidden Processes]

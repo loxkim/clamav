@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.TrickBot-9905332-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@*\AC:\Users\World\Desktop\aero2\A_3-Way_Fo126557942002\RoadToPrj.vbp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\windows\system32\kernel32
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RoadToPrj.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ The purpose of this module is to show you how to change the form's position in 3 different ways
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xnMHbi6WmPyGND8C+KfNcGgvAhfA94Q+BQ+pjPpTxP4/PiBP9xAqJ4yC70J4OAHnO9GuvX8RZ6c7EhhftpTrlH5H7N5HnmCDPK5S3IP7p7//w4yed0x7qZybli9BLnLB

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-633
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+you have added{WILDCARD_ANY_STRING(LENGTH<=100)}as a new email address for your{WILDCARD_ANY_STRING}if you did not authorize this change or if you need assistance with your account, please contact

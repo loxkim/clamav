@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Cobra-11
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Not IsDate(System.PrivateProfileString("", "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "FatehIns")) Then

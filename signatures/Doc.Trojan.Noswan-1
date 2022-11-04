@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Noswan-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+PolyString = PolyString & Chr(65 + Int(Rnd * 22)) & Chr(122 - Int(Rnd * 22))

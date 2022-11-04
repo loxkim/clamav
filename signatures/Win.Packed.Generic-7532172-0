@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generic-7532172-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MOVE /Y "%PROGPATH%\FastActivateMetaGet.exe" "%TEMP%\FastActivateMetaGet.exe"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+del /s %TEMP%\FastActivateMetaGet.exe >NUL
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+del /s %TEMP%\cygwin1.dll >NUL
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  /credentials Encrypted login and password (bypass clear-text credentials).
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+del /s %TEMP%\tt8_keygen2.exe >NUL

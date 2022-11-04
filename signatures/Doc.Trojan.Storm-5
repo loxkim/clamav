@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Storm-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f Mid(Time, 1, 2) = "13" Then MsgBox "Take it easy, lamer !", Title:="Net Storm"

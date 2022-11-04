@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Iframe-6878632-0
+TDB: Engine:51-255,FileSize:65536-262144,Target:0
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/mysqli.class.php on line 154
+
+Deprecated: preg_replace(): The /

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Razy-9770980-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\Users\iMyth\Documents\Visual Studio 2013\Projects\SeafkoAgent\SeafkoAgent\obj\x86\Release\SeafkoAgent.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\Users\iMyth\Documents\Visual Studio 2013\Projects\USBStarter\USBStarter\obj\Release\USBStarter.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+boohoo.com,gymshark.com,mail.google.com,prettylittlething.com,showpo.com,athleta.com,ae.com,ruelala.com,asos.com,superdr
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+&command=InsertTaskExecution&excuter_id=
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SeafkoAgent.JSONMessages.ProcessManagerMsg

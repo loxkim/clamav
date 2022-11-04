@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.MIRC-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cript]
+n0=on 1:JOIN:#:/dcc send $nick c:\mirc\mircdemo.bat

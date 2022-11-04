@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Xpiro-9973456-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Las versiones de 64 bits y 32 bits de los de programas de Office no son compatibles, por lo que solo puede tener una ver
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Lo sentimos, no pudimos instalar tu producto de Office porque no tienes un sistema operativo Windows moderno.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+n en este equipo porque no tienes instalado un sistema operativo Windows moderno.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+n de 32 bits de Office en su lugar o desinstale los otros programas de Office de 32 bits y vuelva a intentar la instalac
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Hemos encontrado un problema.kLo sentimos, Office no funciona con Windows 8 Consumer Preview.

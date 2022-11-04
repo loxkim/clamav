@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Edds-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Sub nasty(strfile As String){WILDCARD_ANY_STRING}hfile = FreeFile{WILDCARD_ANY_STRING}Open strfile For Output Access Write As hfile{WILDCARD_ANY_STRING}Print #hfile, part1$

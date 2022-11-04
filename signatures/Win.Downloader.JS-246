@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-246
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+catch(e) {window.location='/';}}}try{eval('nshk();')}catch(e) {alert('err');}";eval(tnwziv);</script>

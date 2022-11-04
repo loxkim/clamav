@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-210
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+hello dear member, <br>---------{WILDCARD_ANY_STRING(LENGTH<=100)}--------- <br>your registered name is included to show this message originated from eb

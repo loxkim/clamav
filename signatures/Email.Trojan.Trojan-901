@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-901
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Sie haben erfolgreich bei {WILDCARD_ANY_STRING(LENGTH<=16)}die Premiummit{WILDCARD_ANY_STRING(LENGTH<=32)}Die Summe 

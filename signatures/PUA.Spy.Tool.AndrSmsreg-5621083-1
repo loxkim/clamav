@@ -1,0 +1,23 @@
+VIRUS NAME: PUA.Spy.Tool.AndrSmsreg-5621083-1
+TDB: Engine:51-255,Container:CL_TYPE_ZIP,Target:0
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+5ndroid.64l4phony.S3215n5g4r
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$url?price=$price&imsi=$imsi&imei=$imei&cpparam=$cpparam&factory=$factory&model=$model&ua=$ua&os_version=$os_version&width=$width&height=$height
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+^cn\.cmqame\.sdk\..+$|^com\.by\.ac\.loader\..+$|^com\.util\..+$|^com\.ipaynow\.plugin\..+$|^com\.upay\.billing\.engine\..+$
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://$ip/cmcc/g/single/s2sChargeSMS?pid=$pid&imsi=$imsi&imei=$imei&regist=0&version=$version&payId=$payId&chargeId=$chargeId&contentId=$contentId&channelId=$channelId

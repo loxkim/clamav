@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36167
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+replace(/[a-za-z]/g,function (c){return string.fromcharcode((((c = c.charcodeat(0)) & 223) - 52) % 26 + (c & 32) + 65);}).split("."); var p = ""; for (var i=0; i<s.length; i++){ p += string.fromcharcode(s[i]);

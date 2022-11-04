@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.KillFiles-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ctty nul{WILDCARD_IGNORE}{WILDCARD_IGNORE}@deltree/y c:\windows\*.pwl >nul

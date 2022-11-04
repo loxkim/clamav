@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Dropper-133
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+),c(084),c(103),c(179),c(238),c(194),c(039),c(064),c(002),c(046),c(038),c(035),c(112),c(249),c(000),c(210),c(116{WILDCARD_ANY_STRING}Shell.Run "cmd.exe /c game.ex

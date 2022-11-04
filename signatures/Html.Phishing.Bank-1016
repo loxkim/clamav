@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1016
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+unable to confirm your personal identity information we have{WILDCARD_ANY_STRING(LENGTH<=7)}on file. you will need to update your infor

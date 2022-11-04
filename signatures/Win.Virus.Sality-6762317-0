@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6762317-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+appid_0000.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ft-com:asm.v2"><ms_asmv2:security><ms_asmv2:requestedPrivileges>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+</ms_asmv2:requestedPrivileges></ms_asmv2:security></ms_asmv2:trustInfo></assembly>PADDINGXXPADDINGPADDINGXXPADDINGPADD
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+INGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADD
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><ms_asmv2:trustInfo xmlns:ms_asmv2="urn:schemas-mi

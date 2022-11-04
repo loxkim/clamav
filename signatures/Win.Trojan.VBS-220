@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VBS-220
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+r(2)&"\downloader.exe"t=split("4d,5a,90{WILDCARD_ANY_STRING}s.run(p)

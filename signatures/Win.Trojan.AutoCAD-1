@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.AutoCAD-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ newroutine
+thisdocument.Save
+End If
+runtonext:
+Next i
+'[Autocad2k\Star]
+'[A.s.T]
+'Big Greetz to some0ne

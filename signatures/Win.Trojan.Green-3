@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Green-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+@echo e b800:0f00 02 0a>%tmp%\green.dbg

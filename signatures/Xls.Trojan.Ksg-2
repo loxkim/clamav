@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Ksg-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Number = var1("ksgXLvx").var2.ProcCountLines("osa", vbext_pk_Proc)

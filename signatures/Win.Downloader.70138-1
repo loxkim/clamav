@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.70138-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+x.open"get{WILDCARD_ANY_STRING}pth="c:\loadk32.exe{WILDCARD_ANY_STRING}ascb(midb(cs,i+

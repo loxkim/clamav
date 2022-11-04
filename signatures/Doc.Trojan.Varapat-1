@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Varapat-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Day(Date) > {WILDCARD_ANY_STRING(LENGTH>=1&&<=2)} Then ActiveDocument.Password = ({WILDCARD_ANY_STRING}ay(Date) > {WILDCARD_ANY_STRING(LENGTH>=1&&<=2)} Then ActiveDocument.Content.InsertAf{WILDCARD_ANY_STRING}= Word.Application.Path + "\

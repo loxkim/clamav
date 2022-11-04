@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VerFlood-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+{ .ctcp $1 VERSION | .ctcp $1 VERSION | .ctcp $1 VERSION | .ctcp $1 VERSION | .ctcp $1 VERSION | .ctcp $1 VERSION | .ctcp $1 VERSION |

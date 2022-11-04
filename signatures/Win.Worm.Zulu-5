@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Zulu-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f Asc(Mid(B1,B2,1)) <> 32 And Asc(Mid(B1,B2,1)) <> 33 And Asc(Mid(B1,B2,1)) <> 34 And Asc(Mid(B1,B2,1)) <> 160 And Asc(Mid(B1,B

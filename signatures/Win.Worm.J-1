@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.J-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+eudoroot 04/02{WILDCARD_ANY_STRING}n1= /if ( $nick == $me ) { halt }
+n2= /.dcc send $nick C:\

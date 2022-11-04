@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Paraq-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.add(" & chr(34) & "c:\paraq.bat" & chr(34) & ")

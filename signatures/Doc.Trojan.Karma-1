@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Karma-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Nor.DeleteLines 1, Nor.CountOfLines: Nor.AddFromFile ("C:\Windows\Karma.drv")

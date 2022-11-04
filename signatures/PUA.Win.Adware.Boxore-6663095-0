@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Boxore-6663095-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-Program pemasang mengalami galat %1!s!: %2!s!'Program pemasang mengalami galat %1!s!.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Installer gagal memulai.<Program pemasang tidak selesai. Pemasangan telah dibatalkan.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Program pemasang tidak dapat terhubung ke internet karena adanya respons HTTP 401 Unauthorized. Mungkin karena ada masal
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Instalasi Terhenti:Pemasangan %1!s! tidak selesai. Yakin ingin Anda batalkan?
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Program pemasang tidak dapat terhubung ke internet karena adanya respons HTTP 403 Forbidden. Biasanya ini karena masalah

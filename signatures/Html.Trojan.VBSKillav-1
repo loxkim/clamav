@@ -1,0 +1,9 @@
+VIRUS NAME: Html.Trojan.VBSKillav-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+pt.Shell")
+randomize(56)
+Len("erij")
+WShell.Exec "C:\Program Files\Agnitum\Outpost Firewall\outpost.exe"
+randomize(2

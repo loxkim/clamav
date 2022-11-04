@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7178556-1
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0Åû10
+	í&âìÚ,d
+PY6LPX63V31E0CU<Apple Development: michaelgarcia24884@gmail.com (22NA5MJVWA)10U
+G457Y82KXN10U
+Michael Garcia10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0190610055059Z200609055059Z

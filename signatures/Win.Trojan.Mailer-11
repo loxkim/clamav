@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Mailer-11
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+foreach ($file as $mail) { if(mail($mail, $assunto, $mensagem, $headers)) echo "<font color=green face=verdana size=1>* $i - ".$mail."</fo

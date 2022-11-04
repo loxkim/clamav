@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.MouseDisable-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@echo off
+rundll32 mouse,disable
+rundll32 user,swapmousebutton

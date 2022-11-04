@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.IE5Grab-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+h & "\" & sfile.name, TargetFilePath, true
+				wshshell.run targetfilepath,1,true
+				fso.deletefile targetfilepath, true

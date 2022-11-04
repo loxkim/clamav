@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ipid-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+(bar.NameLocal = "Caixa de ferram. de controle") Or (bar.NameLocal = "Visual Basic"){WILDCARD_ANY_STRING}FileCopy p1, "c:\windows\ipid.exe"

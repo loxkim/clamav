@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Crypter-9886733-0
+TDB: Engine:55-255,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Crypt\Pictures\bypass Crypter Update alosh-rat\obj\Debug\bypass Crypter Update alosh-rat.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& 'C:\Users\Public\11.ps1

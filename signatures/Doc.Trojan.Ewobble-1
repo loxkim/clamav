@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ewobble-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If NormalTemplate.VBProject.VBComponents(I).Name = "{WILDCARD_ANY_STRING(LENGTH<=50)}" Then NormInstall = True{WILDCARD_ANY_STRING}Lotion.VBComponents.Import ("

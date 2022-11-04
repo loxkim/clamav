@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1514
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Con el fin de solucionar esta irregularidad le rogamos{WILDCARD_ANY_STRING(LENGTH<=120)}para comprobar su identidad y reactivar su cuenta

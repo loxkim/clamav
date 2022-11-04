@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Fore-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+1=='InF goto FoRi
+if exist c:\!for.bat goto FoRs
+if not exist %0.bat 

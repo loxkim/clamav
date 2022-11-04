@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Iframe-37
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<iframe src="http://www{WILDCARD_ANY_STRING(LENGTH<=34)}/exploit/sf.plx"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35827
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+fopen("_drop_.exe"{WILDCARD_ANY_STRING}WinExec("_drop_.exe",SW_HIDE

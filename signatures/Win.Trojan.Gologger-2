@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.Gologger-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$password=('jason');	
+	if (($sendlog)
+        && ($msg!="")
+	  && ($id!="")
+        && ($pw==$password))
+	{
+	
+    		$fi

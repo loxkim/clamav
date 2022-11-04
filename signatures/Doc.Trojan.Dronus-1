@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Dronus-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Day(Now()) = 6 Or (Day(Now)) = 16 Or (Day(Now)) = 26 Then{WILDCARD_ANY_STRING}Kill "C:\Progr

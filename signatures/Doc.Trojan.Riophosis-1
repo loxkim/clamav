@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Riophosis-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+_LoCAL_MACHInE\SoFTwAre\MICROSOfT\windowS\currENtVerSiOn\rUN\", "nAv Agent") = ""{WILDCARD_ANY_STRING}isDocument = NormalTemplate Then Set Target = Active

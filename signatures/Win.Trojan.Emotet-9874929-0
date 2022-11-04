@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Emotet-9874929-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+A*\AC:\WINDOWS\Connection Wizard\Fepol57885755i5\Heder.vbp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+9xxz9ttx9www9xxw9www9xxx9yyy9zzz9yyy9yyy9yyy9zzz9zzz9yzz9wxx9vww9vvv9vvv9xxx9yyy9yyy9yyy9yyy9zzz9zzz9zzz8zzz8yyy8xxx9yyy7
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+you will first have to delete or change the records that currenly used this record as shown bellow.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SalesmanID, Name, Address, CityTown, Province, ZipCode, ContactNo,PK
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CommandPass

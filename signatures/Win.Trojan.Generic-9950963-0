@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9950963-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Welcome to Tuesday! Press 1 to Start or 2 to Quit.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ay...Oh no, you have woken up late! Quickly, you only have 25 mins to leave to make it on time: 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+12You awake on beautiful tuesday morning. You have a big test today in Nagby's class. Time to check your clock and beging your d
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+5. Groom: 10 mins
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1. Brush Teeth: 5 mins

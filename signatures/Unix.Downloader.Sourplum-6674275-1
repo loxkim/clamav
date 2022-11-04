@@ -1,0 +1,33 @@
+VIRUS NAME: Unix.Downloader.Sourplum-6674275-1
+TDB: Engine:51-255,Target:0
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#!/bin/bash
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pkill -f cryptonight
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pkill -f stratum
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pkill -f Guard.sh
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rm -rf /tmp/httpd.conf
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ps auxf|grep -v grep|grep "{WILDCARD_ANY_STRING(LENGTH<=40)}pool{WILDCARD_ANY_STRING(LENGTH<=40)}"|awk '{print $2}'|xargs kill -9

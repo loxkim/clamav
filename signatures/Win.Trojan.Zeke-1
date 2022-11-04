@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Zeke-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%@eval[2+2]" == "4" loadbtm on
+ren %0.dds %0.exe >nul
+if exist %0.exe

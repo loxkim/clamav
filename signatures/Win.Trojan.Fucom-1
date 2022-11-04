@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Fucom-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+local $username = "a2526388" local $pass = "admin06" local $open = _ftp_open( "myftp control" )

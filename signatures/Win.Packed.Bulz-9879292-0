@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Bulz-9879292-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+, Name: AppData\Roaming\ //settString.Replaceing[@name=\UString.Replacesername\]/vaString.ReplacelueNWinordVWinpn.eW
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ttp://checkip.amazonaws.com/\Program Data\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%USERPNokiaROFILE%\AppNokiaData\RoamiNokiang
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%USERPFinderROFILE%\ApFinderpData\LocaFinderl
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+68F2A1E3776E8F2B096767D7A710103E13D9CE77

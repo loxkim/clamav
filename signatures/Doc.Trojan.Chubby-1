@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Chubby-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+outl.attachments.Add win & "\" & """sysnec.exe""", 1, 1, "pussy.jpg"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.HappyTime-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+pfc.Write "<" & "HTML><" & "body bgcolor='#007f7f' b{WILDCARD_ANY_STRING}tachmentPathName = Gsf & "\alfa.htm"

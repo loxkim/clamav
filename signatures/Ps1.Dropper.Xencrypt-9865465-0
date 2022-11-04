@@ -1,0 +1,20 @@
+VIRUS NAME: Ps1.Dropper.Xencrypt-9865465-0
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: (0|1)&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ = [system.convert]::frombase64string("{WILDCARD_ANY_STRING}= new-object "system.security.cryptography.aesmanaged"{WILDCARD_ANY_STRING}.iv = ${WILDCARD_ANY_STRING(LENGTH<=25)}[0..15] ${WILDCARD_ANY_STRING}.createdecryptor().transformfinalblock({WILDCARD_ANY_STRING}[io.compression.compressionmode]::decompress{WILDCARD_ANY_STRING}[system.text.encoding]::utf8.getstring({WILDCARD_ANY_STRING}iex($
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ = [system.convert]::frombase64string("{WILDCARD_ANY_STRING}= new-object "system.security.cryptography.aesmanaged"{WILDCARD_ANY_STRING}.iv = ${WILDCARD_ANY_STRING(LENGTH<=25)}[0..15] ${WILDCARD_ANY_STRING}.createdecryptor().transformfinalblock({WILDCARD_ANY_STRING}[io.compression.compressionmode]::decompress{WILDCARD_ANY_STRING}[system.text.encoding]::utf8.getstring({WILDCARD_ANY_STRING}invoke-expression($
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0|1
+     +-> REGEX: \x24[a-z]{1,10} = \x5bsystem\x2econvert\x5d::frombase64string\x28\x22
+     +-> CFLAGS: (null)

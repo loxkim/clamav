@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.StrongPity-7135853-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgw6xgk
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+wmpsvn32.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+,"W{9$%yxg2n,"9rX&$u1.w6xg9w7+1rxg9w71#rxg9w71#exg9w7!1rxg9w7/#rxg9w7/#exg9w7$%rxg9w77w6xg9w7+w6xg%u,"w6xg#
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Iw6xg%s;(%rxg$s,8'w*&:s,"%6xg0s,8'w*&:s,"%6xg#s953y/)w6xg'w-426xg'z9>w6xg$s,2'6xg6x6("x;"w6xg3s+$%
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6xg{6xga6xgz6xga6xgx6xgu6xgg6xgz6xgf6xge6xge6xgu6xgV6xgz6xgB6xgu6xg66xgz6xg46xgu6xg'6xgf6xg%6xgz6xg$6xgz6xg 6xga6xg.6xg|6xg

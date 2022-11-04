@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Exclam-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+Set FSO = CreateObject("Scripting.FileSystemObject")
+VS   = 1120
+FN =  WScript.ScriptFullName
+InfPath = Left(FN, InStrRev(FN, "\"))
+

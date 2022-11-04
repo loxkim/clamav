@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9534043-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7TLoginCredentialService.GetLoginCredentials$1172$ActRectXE
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7TLoginCredentialService.GetLoginCredentials$1172$0$Intft
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\vmagent_new\bin\joblist\46520\out\Release\Setup.pdb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Duplicates not allowed,Specified Login Credential Service not found"%s (Version %d.%d, Build %d, %5:s) The specified pa
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'TLoginCredentialService.TLoginFuncProxy0/D

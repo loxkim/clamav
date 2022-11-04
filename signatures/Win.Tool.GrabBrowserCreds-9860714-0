@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Tool.GrabBrowserCreds-9860714-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\kolobko\Source\Repos\grab
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+grabff\obj\Release

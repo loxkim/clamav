@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-997
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+You have received a secure e-mail message{WILDCARD_ANY_STRING(LENGTH>=140&&<=150)}Read your secure message{WILDCARD_ANY_STRING(LENGTH>=50&&<=60)}save (download) it

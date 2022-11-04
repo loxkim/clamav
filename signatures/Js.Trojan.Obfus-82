@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-82
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+var n000,n001=-math.abs(~"1"),n002=document.createtextnode("eval");e=window[n002.nodevalue];e(string.fromcharcode(

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Dialer-584
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+ADULT\par
+content where you will be charged \b $%.02f\b0  for 1 month of access.\par 
+The provider of the pay-per-call service is \b GXB LTD

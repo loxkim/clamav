@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-729
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dy bgcolor="#fffff{WILDCARD_ANY_STRING(LENGTH<=20)}"><a href=http://www.anz.com.{WILDCARD_ANY_STRING(LENGTH<=100)}><img src="cid:{WILDCARD_ANY_STRING(LENGTH<=150)}er=0></a></p><p><font color="#fff

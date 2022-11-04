@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-22
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+val(substr(strstr($msg,$mcmd[1]),strlen($mcmd[1]))); break; case "exec": $command = substr(strstr($msg,$mcmd[0]),strlen($mcmd[0])+1); $exec = shell_exec($command); $ret = explode("\n",$exec); $this->privmsg($this->config['chan'],"[\2exec\2]: $command"); for($i=0;$i<count($ret);$i++) if($

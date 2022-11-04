@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mischief-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+i = WordBasic.call("Friendly.Friendly", WordBasic.[FileName$]())

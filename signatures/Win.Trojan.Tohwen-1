@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Tohwen-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Mozilla/4.0 (compatible; MSIE 6.0;Windows NT 5.1){WILDCARD_ANY_STRING}HFRM_

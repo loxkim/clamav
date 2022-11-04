@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.C-294
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+call%"+key+{WILDCARD_ANY_STRING(LENGTH<=13)};write("set_"+name+"=>nul."+key)

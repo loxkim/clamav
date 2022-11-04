@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Doublet-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ath,2,True)
+	inf.WriteLine "'VBS/W97M.Doublet"
+	inf.Write(vbsorg)
+	inf.WriteLine ""
+	inf.WriteLine virus

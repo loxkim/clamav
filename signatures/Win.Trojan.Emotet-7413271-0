@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Emotet-7413271-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\User\documents\visual studio 2013\Projects\Ferrum\Release\Ferrum.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Internal error: Failed to set cooperative level
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Error loading bitmap... make sure the file is extracted from any zip or exists in the original directory.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Note: You may delete the file with the incorrect name(it may have been created)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+XKdwNhHwuD8ODqSHeA2gYK46CTFb4s5naz+irhcGokKygDxdG1kN76KWYwqGFA2vhJXHNw57y9EW7iAnJ+J/GM9A3jE1bCl0z1AvHB/NODlyA3Q5kwhY

@@ -1,0 +1,27 @@
+VIRUS NAME: Doc.Dropper.Agent-6330744-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+If ActiveDocument.Scripts.Count = 0 Then
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Name = "ThisDocument"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1
+     +-> REGEX: (Function\s+[a-z0-9]{2,4}\x28[a-z0-9]{4,9}\x29(\s+[a-z0-9]+\s+=\s+[a-z0-9]+){2}\s+End\s+Function\s+){10,}
+     +-> CFLAGS: smi
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 2
+     +-> REGEX: [a-z0-9]+\s+=\s+([a-z0-9]+\s+\x26\s+){20,}
+     +-> CFLAGS: (null)

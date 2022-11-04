@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.U-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n.sh; rm -rf bindname.log; touch bindname.log
+  nohup ./scan.sh >>/dev/null &
+  nohup ./hack.sh >>/dev/null

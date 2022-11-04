@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Crypt-298
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for(i=0;i<n002.length;i+=4){n003=(n000.indexof(n002.charat(i))&0 xff)<<18|(n000.indexof(n002.charat(i+1))&0 xff)<<12|(n000.indexof(n002.charat(i+2))&0 xff)<<6|n000.indexof(n002.charat(i+3))&0 xff;dt+=string.fromcharcode((n003&0 xff0000)>>16,(n003&0 xff00)>>8,n003&0 xff);}if(n002.charcodeat(i-2)==61)

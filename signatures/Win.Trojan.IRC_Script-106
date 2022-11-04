@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-106
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sockopen ataked.a $+ $rand(1,999)   $+ $rand(1,999)  $+ $rand(1,999)  $+ $rand(1,999)  $+ %at  %victim.ip %victim.port

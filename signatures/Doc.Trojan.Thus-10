@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Thus-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ocuments.Item({WILDCARD_IGNORE}).VBProject.VBComponents.Item(1).CodeModule.Lines({WILDCARD_IGNORE}, 1) <> {WILDCARD_ANY_STRING} Then{WILDCARD_ANY_STRING}pplication.Documents.Item({WILDCARD_IGNORE}).VBProject.VBComponents.Item(1){WILDCARD_ANY_STRING}CodeModule.DeleteLines 1, Application.Docu

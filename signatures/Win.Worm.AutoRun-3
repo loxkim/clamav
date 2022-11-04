@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.AutoRun-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.getfile(winpath & "\SYSTEM32\" & newna{WILDCARD_ANY_STRING}If (flashdrive.drivetype = 1 or flashdrive.dri{WILDCARD_ANY_STRING}tf=fs.createtextfile(flashdrive.path &"\autorun.inf",2,tr

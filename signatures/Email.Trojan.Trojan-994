@@ -1,0 +1,7 @@
+VIRUS NAME: Email.Trojan.Trojan-994
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Attached file is scanned image in PDF format.
+Adobe(R)Reader(R) can be downloaded from{WILDCARD_ANY_STRING(LENGTH>=120&&<=144)}ATTACHMENT;
+	filename=Scan{WILDCARD_ANY_STRING(LENGTH>=10&&<=20)}.zip

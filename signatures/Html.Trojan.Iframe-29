@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Iframe-29
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+createobject(str,"");document.write("<iframewidth=0height=0src=http://

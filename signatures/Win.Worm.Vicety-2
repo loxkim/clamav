@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Vicety-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+For l = 1 To ja
+en = en & Chr(Asc(Mid(zz, l, 3)) Xor Len("cwarrior"))
+N

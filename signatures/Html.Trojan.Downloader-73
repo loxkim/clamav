@@ -1,0 +1,10 @@
+VIRUS NAME: Html.Trojan.Downloader-73
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+></iframe>");
+}
+catch(e)
+{
+document.write("<DIV style=\"CURSOR: url('http:

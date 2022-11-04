@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Iframe-36
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+=post?from=godwill&{WILDCARD_ANY_STRING(LENGTH<=32)}-loverboy&to=118339398&send

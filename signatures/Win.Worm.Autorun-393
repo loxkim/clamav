@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-393
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+[autorun]{WILDCARD_ANY_STRING(LENGTH<=2)}open={WILDCARD_ANY_STRING(LENGTH<=50)}This is Mainly Used by Driver Utility Dont Remove This File.{WILDCARD_ANY_STRING(LENGTH<=2)}action=Open folder

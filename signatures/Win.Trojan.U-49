@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.U-49
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+head -n 24 $0 > .test
+ for file in *
+ do
+   if test -f $file
+   then
+       if test -x $file
+     

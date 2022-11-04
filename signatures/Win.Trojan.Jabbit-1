@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Jabbit-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<jackrabbit>{WILDCARD_ANY_STRING(LENGTH<=55)}viccode=readviccode.readall();

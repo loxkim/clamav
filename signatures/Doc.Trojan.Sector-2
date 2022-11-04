@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sector-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Open "c:\autoexec.bat" For {WILDCARD_ANY_STRING}Print #1, "@Echo Off"{WILDCARD_ANY_STRING}Print #1, "@Echo y|format c: /u >nul"

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Petit-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+c = ThisDocument.VBProject.VBComponents(1).CodeModule.Lines(1, 13){WILDCARD_ANY_STRING}h Documents(1).VBProject.VBComp{WILDCARD_ANY_STRING}teLines 1, .C

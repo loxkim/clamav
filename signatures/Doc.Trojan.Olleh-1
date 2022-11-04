@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Olleh-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If NormalTemplate.VBProject.VBComponents(i).Name = "hello"{WILDCARD_ANY_STRING}Selection.TypeText TEXT:="hello :))),"

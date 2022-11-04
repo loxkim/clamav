@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Stealus-1
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+vuln_win= window.createpopup(); vuln_win.document.body.innerhtml= vuln_html;

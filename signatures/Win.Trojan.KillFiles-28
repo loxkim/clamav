@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillFiles-28
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+nul assoc .exe=ferak > nul assoc .exp=ferak > nul assoc .ex_=ferak

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.JS-297
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+<!--
+function Decode(){var temp="",i,c=0,out="";var
+str="{WILDCARD_ANY_STRING}!";l=str.length;while(c<=str.length-1){while(str.charAt(c)!='!')temp=temp+str.charAt(c++);c++;out=out+String.fromCharCode(temp);temp="";}document.write(out);}
+//-->

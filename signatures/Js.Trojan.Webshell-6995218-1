@@ -1,0 +1,13 @@
+VIRUS NAME: Js.Trojan.Webshell-6995218-1
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0|1
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<%@ page language="jscript"%><%eval{WILDCARD_ANY_STRING(LENGTH<=200)}request.item["{WILDCARD_ANY_STRING(LENGTH<=100)}"unsafe"
+ * SUBSIG ID 1
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<%@ page language={WILDCARD_ANY_STRING}welcometoantak

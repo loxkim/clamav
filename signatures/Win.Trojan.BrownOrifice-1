@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.BrownOrifice-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+package BOHTTPD_spy;
+
+use CGI;
+use GDBM_File qw

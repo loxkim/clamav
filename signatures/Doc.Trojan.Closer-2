@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Closer-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ActMod = Application.VBE.SelectedVBComponent.Name{WILDCARD_ANY_STRING}ActInf = False{WILDCARD_ANY_STRING}ActDok(ActMod).Export "{WILDCARD_ANY_STRING}If ActDok(i).Name = ActMod Then ActInf = Tr

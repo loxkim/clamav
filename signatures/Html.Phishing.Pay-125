@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-125
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+please understand that this temporary limitation is for your protection.{WILDCARD_ANY_STRING(LENGTH<=10)}please follow this link to access your account.

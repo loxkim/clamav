@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Feeder-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If ActiveWB.Lines(3, 1) <> "' MarshYello" Then

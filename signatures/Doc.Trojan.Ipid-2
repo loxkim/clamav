@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ipid-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+p1 = "\\esm-cpd\e$\ipid.exe"{WILDCARD_ANY_STRING}Application.OrganizerCopy d1, d2, d4, wdOrganizerObjectProjectItems

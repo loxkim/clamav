@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Opey-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+(clan <> "Crazy_Man_02") And (clan <> "ThisDocument") And (clan <> "Reference to Normal") Then Application.OrganizerDel

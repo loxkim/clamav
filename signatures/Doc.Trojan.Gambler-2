@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Gambler-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ment.FullName, Name:="Gamble", Object:=wdOrga{WILDCARD_ANY_STRING}StatusBar = "The Gambler WMV97"

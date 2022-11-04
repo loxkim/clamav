@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Nucledor-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$n_file_arry[0] = "<tr><td>$datatime</td><td>$daip</td><td>$port</td><td>$host</td><td>$type</td></tr>\r\n";

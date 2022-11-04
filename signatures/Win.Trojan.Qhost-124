@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Qhost-124
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+0.5 my-etrust.com
+10.0.0.5 nai.com
+10.0.0.5 networkassociates.com
+10.0.0.5 secure.nai.com
+10.0.0.5 sophos.com
+10.0.0.5 trendmicro.com
+10.0.0.

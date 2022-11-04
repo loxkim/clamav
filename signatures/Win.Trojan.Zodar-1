@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Zodar-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+	fclose ($g);
+	if (!strstr($cont,"[Zodar]"))

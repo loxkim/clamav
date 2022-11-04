@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Autorun-345
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+[autorun]
+Shellexecute=systemchk.exe
+

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.ASP-9
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+workstream) dim tcpclient2 as new tcpclient() try tcpclient2.connect("127.0.0.1", 43859) catch eee as exception response.write(eee.tostring()) respo

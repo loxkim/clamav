@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Worm.Randon-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+eeeeeeeeeeeeeeeee
+;;;;;;;;;;;;;
+
+
+alias startscan {
+  inc %TOTA

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.63712-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+\CurrentVersion\Run{WILDCARD_ANY_STRING}\sysmon.exe{WILDCARD_ANY_STRING}\sysfind.exe

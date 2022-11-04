@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Vgen-55
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ho off%_DroP%
+if '%1=='DroP goto DroP_%2
+me

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Banker-6387
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+function FindProxyForURL(url, host)
+{
+	var proxy_yes = "PROXY{WILDCARD_ANY_STRING(LENGTH<=32)};
+	var proxy_no = "DIRECT";

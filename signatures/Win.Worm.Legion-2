@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Legion-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.DeleteFile ("C:\Windows\*.*")

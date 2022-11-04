@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Minibeep-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+nes <> NormalTemplate.VBProject.VBComponents(1).CodeModule.CountOfLines Then NormalTemplate.VBProject.VBComponents(1).CodeModule.AddFromString ThisDocument.VB

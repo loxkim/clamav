@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36739
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+positionx=(screen.availwidth-winwidth)/2positiony=(screen.availheight-winheight)/2window.movetopositionx,positionysubwindow_onloadlocation.href="http://

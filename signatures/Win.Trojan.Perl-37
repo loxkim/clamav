@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-37
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+my $target = inet_aton($host); if (!connect(server, pack "sna4x8", 2, $port, $target))

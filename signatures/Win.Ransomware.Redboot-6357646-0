@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Ransomware.Redboot-6357646-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bits 16 org 0x7c00 jmp start
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0 times 510 - ($-$$) db 0 dw 0xaa55

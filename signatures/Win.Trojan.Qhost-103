@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Qhost-103
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+copy /Y hosts %SystemDrive%\Windows\System32\drivers\etc\hosts
+exit

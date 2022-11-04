@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-104
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<form action={WILDCARD_ANY_STRING(LENGTH<=800)}subscribe now and get the chance to win 100$</b></font></span></td><td valign=bottom nowrap width="1%"><img alt=ebay

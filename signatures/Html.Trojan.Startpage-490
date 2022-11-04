@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Startpage-490
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+shl.regwrite('hkey_current_user\\software\\microsoft\\internetexplorer\\main\\searchpage','http://

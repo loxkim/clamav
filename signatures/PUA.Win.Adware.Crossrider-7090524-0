@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Crossrider-7090524-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egyp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+eec5c8cec6ecd8d9c2f8ddc9ccd9c8f8dfc1f2e5d9d9ddf9c2efc4c3ccdfd4ebc4c1c8ffc8dcd8c8ded9
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+eec5c8cec6ecd8d9c2f8ddc9ccd9c8f8dfc1f2d8dfc1f2c3ccf2cbc2dff2d8ddc9ccd9c8
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+eec5c8cec6ecd8d9c2f8ddc9ccd9c8f8dfc1f2ded9dfe7dec2c3f2c8c0ddd9d4
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+eec5c8cec6ecd8d9c2f8ddc9ccd9c8f8dfc1f2e5d9d9ddffc8dcd8c8ded9f2

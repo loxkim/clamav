@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-79
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nickflood (<chan>) - raw (<command>) - status - disconnect>,portscan <start (<ip> <start port> <end port>)

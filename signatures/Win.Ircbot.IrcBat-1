@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Ircbot.IrcBat-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ operserv {
+n9=  trojan.msg (msg:operserv) $1-

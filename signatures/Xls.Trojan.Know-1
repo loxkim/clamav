@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Know-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+mponents(hostname).CodeModule.CountOfLines < 2 Then target.VBProject.VBComponents(hostname).CodeModule.AddFromString FullCode

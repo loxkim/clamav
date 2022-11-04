@@ -1,0 +1,13 @@
+VIRUS NAME: Js.Tool.ClusterFuzz-1
+TDB: Engine:51-255,Target:3
+LOGICAL EXPRESSION: (0&1)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+g_ele_ref_parent{WILDCARD_ANY_STRING(LENGTH<=300)}g_ele_ref_parent
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+g_ele_ref_son{WILDCARD_ANY_STRING(LENGTH<=300)}g_ele_ref_son

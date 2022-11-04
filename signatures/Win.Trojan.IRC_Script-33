@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-33
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on *:socklisten:Bnc:{ sockaccept Bnc.temp | %conncheck = $sock(Bnc.temp).ip

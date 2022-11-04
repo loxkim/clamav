@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Bsymem-9821438-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Url=http://download.microsoft.com/download/E/4/1/E4173890-A24A-4936-9FC9-AF930FE3FA40/NDP461-KB3102436-x86-x64-AllOS-ENU
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.exe1.0.0.0BADGEM~1.CON|Badge Master HD.exe.configMICROS~1.DLL|Microsoft.Expression.Interactions.dll2.0.20525.0SYSTEM~1.DLL|Syst
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+This installer database contains the logic and data required to install Badge Master HD.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DownloadFolder=[AppDataFolder]BotCP\Badge Master HD\prerequisites
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Badge_Master_HD_Setup.exe

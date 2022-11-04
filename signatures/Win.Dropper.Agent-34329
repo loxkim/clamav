@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Dropper.Agent-34329
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Advertisment module that opens Internet Explorer ad wind{WILDCARD_ANY_STRING}llsoft Install Sys

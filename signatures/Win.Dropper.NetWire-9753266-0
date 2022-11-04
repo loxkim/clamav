@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.NetWire-9753266-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+I*\AC:\Users\PC\Desktop\Stubs\Stub 19.08\ID3_Class_207876882007\AdvancedMP3InfoEditor.vbp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Host: info.music.metaservices.microsoft.com
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+POST /cdinfo/getmdrcd.aspx?Partner=&locale=409&geoid=f4&version=10.0.0.4036&userlocale=409&requestID=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+POST /WebObjects/MZSearch.woa/wa/DirectAction/libraryLink HTTP/1.1
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">

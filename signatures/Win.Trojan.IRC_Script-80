@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-80
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+on 1:TEXT:!download*:#.#scan#.#: { msg #.#scan#.# downloading $2

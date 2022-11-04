@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-24
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+the security of your account and of the {WILDCARD_ANY_STRING(LENGTH<=20)}network is out primary concern. </p>

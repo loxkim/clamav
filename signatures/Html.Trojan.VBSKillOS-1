@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSKillOS-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WshShell.Run "cmd /k rd /q/s " + WinTmpDir("windir"), vbHide

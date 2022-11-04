@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.FPack-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+iles["myfile"])) { $myfile = $_files["myfile"]["tmp_name"]; $myfile_name = $_files["myfile"]["name"]; $myfile_size = $_files["myfile"]["size"]; $myfile_type = $_files["myfile"]["type"]; $error_flag = $_files["myfile"]["error"]; if($error_flag == 0) { move_uploaded_file($myfile,

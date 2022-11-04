@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Virus.Asparnet-9799364-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CModuleMgr::SetHooks - Setting hooks in process: %s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Jenkins\workspace\TOOLBAR_PACKAGE\DEFENSE_SRC\IDC\Release\IdcSrv.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+API-MS-WIN-CORE-KERNEL32-LEGACY-L1-1-1.DLL
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+search.ask.com
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+| %Q || substr(name,%d+18) ELSE name END WHERE tbl_name=%Q AND (type='table' OR type='index' OR type='trigger');

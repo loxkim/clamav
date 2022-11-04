@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Downloader.Emodldr-6706770-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Name = "
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+B8E3F0C7D3D6D6E4E1 = Chr(169.5 + 169.5 - 49 - 218) & Chr(291.5 + 291.5 - 0 - 506)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C5C5C1A5 = Chr(211 + 39 + 211 - 342) & Chr(178 + 178 - 27 - 264) & Chr(200.5 + 200.5 - 6 - 278) & Chr(289.5 + 289.5 - 12 - 502)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C7A9E5E5E6A9D8D8 = Chr(152.5 + 67 + 152.5 - 282) & Chr(26 + 63 + 26 - 34) & Chr(127.5 + 127.5 - 7 - 182) & Chr(105 + 105 - 77 - 28) & Chr(189.5 + 88 + 189.5 - 402) & Chr(195 + 39 + 195 - 360) & Chr(114 + 41 + 114 - 192) & Chr(155.5 + 155.5 - 64 - 182) & Chr(32.5 + 97 + 32.5 - 64) & Chr(263.5 + 263.5 - 20 - 442) & Chr(166.5 + 166.5 - 7 - 260)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E0B9A3D4D8 = Chr(69.5 + 69.5 - 54 - 0) & Chr(36.5 + 80 + 36.5 - 88) & Chr(215 + 215 - 13 - 328) & Chr(105 + 53 + 105 - 144)
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E5B1C2A6E1A1A5D0B8A7A8 = Chr(216 + 77 + 216 - 406) & Chr(30 + 6 + 30 - 0)
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E8E5D3D3C0B6C0A4B3 = Chr(312.5 + 312.5 - 90 - 464) & Chr(117.5 + 117.5 - 66 - 84) & Chr(255 + 87 + 255 - 532) & Chr(288.5 + 2 + 288.5 - 478) & Chr(17.5 + 66 + 17.5 - 36) & Chr(139 + 139 - 26 - 186) & Chr(325.5 + 325.5 - 13 - 530) & Chr(198.5 + 20 + 198.5 - 352) & Chr(125 + 31 + 125 - 214) & Chr(286.5 + 58 + 286.5 - 532) & Chr(20.5 + 34 + 20.5 - 10) & Chr(209 + 95 + 209 - 438) & Chr(190 + 190 - 9 - 290) & Chr(178 + 178 - 1 - 290) & Chr(271.5 + 10 + 271.5 - 498) & Chr(63 + 25 + 63 - 86) & Chr(244 + 82 + 244 - 500)
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Sub Workbook_open(): B0A7B2B5B4E0C0A7B1: End Sub

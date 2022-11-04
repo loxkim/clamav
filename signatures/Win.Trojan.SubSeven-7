@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.SubSeven-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+seven.ban");
+@thisf = <FILE>;
+close(FILE);
+$killaps = "no";
+foreach $bannuser (@thisf) {
+($Bip, $Bday, $Bcnt) = split(

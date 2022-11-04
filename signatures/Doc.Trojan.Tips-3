@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Tips-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ileString("C:\Micros.Ini", "MacroSettings", _{WILDCARD_ANY_STRING}.Labels(3).Text = "Don't Spit on your self"

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9903862-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Write$Error creating variant or safe array!'%s' is not a valid integer value
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+= =(=0=8=@=H=P=X=`=h=p=$>,>4><>D>L>T>\>d>l>t>|>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+L<A[JLJ;=4+,*"'$%%132&&'CCCGGG;;:WTTRQS777)!,
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+L<@ZJOJ;<4(,( $$$$000$$$BBCFDE:89VTTPPP444(!/
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+M?@XHLH;?4(/)#&&$%312&%&@ACDDF9::VWTPPP444(#,

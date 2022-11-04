@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-17
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+onth(Now()) > 1 And Day(Now()) = 25 Then Application.ActiveDocument.PrintOut , , , "Zippy Zippy Zippy.vir"

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Snatch-9854610-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+stiontoo many operandsunknown caller pcwait for GC cyclewine_get_version
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VirtualFree of runtime: found obj at *(runtime: s.searchAddr = span has no free objectsstack trace unavailable
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ad TinySizeClasscan't scan type: debugPtrmask.lockentersyscallblockexec format errorfractional secondg already scannedglobalAllo
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c.mutexgp.waiting != nilillegal hex digitinteger too largeinvalid bit size locked m0 woke upmark - bad statusmarkBits overflowmi
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+m page sizefreedefer with d._panic != nilinappropriate ioctl for deviceinvalid function symbol table

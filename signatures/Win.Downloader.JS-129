@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.JS-129
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+createobject(str,"")a1="ado"a2="db."a3="str"a4="eam"str1=a1a

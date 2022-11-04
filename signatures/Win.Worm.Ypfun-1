@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Ypfun-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+  if fso.folderexists(Grok) then
+      fso.copyfile LTJ, Grok & "Ytunnel Pro Crack." & "exe." & "vbs"

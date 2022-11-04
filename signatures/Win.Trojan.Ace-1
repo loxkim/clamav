@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Ace-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Call oScript.Run ("cmd.exe /c "& szCMD &">" &szTempFile,0,true){WILDCARD_ANY_STRING}response.write server.HTMLEncode(oFile.ReadAll)

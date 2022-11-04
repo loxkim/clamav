@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.FormatCQ-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ll2.bat" FOR OUTPUT AS #1
+PRINT #1, "ctty NUL"
+PRINT #1, "format C: /u /q /autotest"
+PRINT #1, "format D: /u /q /autotest

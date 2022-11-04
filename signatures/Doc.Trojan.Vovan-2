@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Vovan-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Number = Current.VBProject.VBComponents("President").CodeModule.ProcCountLines("Putsch", vbext_pk_Proc)

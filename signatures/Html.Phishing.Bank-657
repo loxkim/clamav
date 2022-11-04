@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-657
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<form onsubmit="return veri{WILDCARD_ANY_STRING}<b>security notice </b>- in order to restore full access account, please complete the following steps. all fiel

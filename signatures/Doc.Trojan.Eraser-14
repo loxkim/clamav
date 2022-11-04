@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Eraser-14
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.[FileNameInfo$](WordBasic.[FileName$](), 1){WILDCARD_ANY_STRING}"lamo" Then ca = _

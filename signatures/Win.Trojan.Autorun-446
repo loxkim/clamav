@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autorun-446
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+[autorun] open=bin\recycle\bin.exe

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Adware.Genieo-6739142-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+installer -pkg  '%@'  -target / ;%@
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ZGlXMDhvRjFNaFppd3pTbkpzRWFldU1OOW9kOXE5TjRaZEszbzF4WE9TQVJyWWRFK3N5VjdEbDMxbmY2cXozQTZLK0Q1TkhlNnNTQjl5dllsSWlOMzdqZFdkcmZ4eEUw
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+user_pref("browser.startup.homepage","http://www.DOMAIN_SP/homepage
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Z2NoZzBWbEZDdjN1cW94K3dsRDhzalhCb3lCQ0NLOUhwSW1kVkFGMWE3anBkZ2lVSHBQZVYvMjZvWXpNOS9ncmx0d05SM2J6RUNRZ1NweVhwMGV5b2Vnd0lEQVFBQiIs
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://kvv.relativismfurthers.site/SaferPass.php?xid=%@

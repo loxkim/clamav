@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.MultiNo-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Open "c:\logov.sys" For Outp{WILDCARD_ANY_STRING}Input #1, a${WILDCARD_ANY_STRING}If Mid$(a$, 5, 1) = ":" Then a$ = "Print #1, " + Chr$(34) + "e" + Mid$(a$, 6, 29) + " " + Mid$(a$, 3

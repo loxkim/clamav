@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.File.Tunenup-7664089-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-[TerminalOperations makeSparseBundle:ofSize:password:sparsePath:encryptionType:]
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-[TerminalOperations searchUnixExecutablesnDirectory:updateArray:]
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-[TerminalOperations encryptItem:destPath:password:]
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++[FileOperations getApplicationsListFromLoginItem]
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ean Plus.build/Debug/Mac Clean Plus.build/Objects-normal/x86_64/LoginItemsController.o

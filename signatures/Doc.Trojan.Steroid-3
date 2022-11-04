@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Steroid-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+With .VBComponents.Import("c:\startup.log"){WILDCARD_ANY_STRING}volset = SetVolumeLabel("c:\", "Test")

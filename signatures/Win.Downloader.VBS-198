@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.VBS-198
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+object","")setpluginfile=ofso.createtextfile(exename,true)plugin_size=lenb(xmlbody)forj=1toplugin_sizecbyte=midb(xmlbody,j,1)byteco

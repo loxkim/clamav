@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.VB-1378
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set WshShell = CreateObject("WScript.Shell")
+WshShell.Run chr(34) & "C:\Windows\Drives\run.bat" & Chr(34), 0
+Set WshShell = Nothing

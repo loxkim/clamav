@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Quiet-9
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.MacroCopy "Общие:AutoOpen", FN$ + ":AutoOpen"

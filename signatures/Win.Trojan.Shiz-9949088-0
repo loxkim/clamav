@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Shiz-9949088-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+open_mode:t(3,7)=ein:1,out:2,ate:4,app:8,trunc:16,nocreate:32,noreplace:64,bin:128,binary:128,;
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0RC3$_0;2A.;$_0::(4,28)=#(4,15),(4,26),(4,26),(4,27),(0,20);:__3$_0RC3$_0;2A.(4,29)=#(4,15),(4,26),(4,26),(0,20);:__3$_0;2A.;;
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+14)=##(3,15)=&(3,9);:RC11_ios_fields;2A.;_ios_fields::(3,16)=##(3,17)=*(3,9);:RC11_ios_fields;2A.(3,18)=##(3,17);:;2A.;;
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e::(3,124):PCci;1A*14;(3,11);;sys_stat::(3,128)=##(0,1);:Pv;1A*17;(3,11);;sys_close::(3,119):;1A*16;(3,11);;;~%(3,11);
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ios8seek_dir;2A*15;(3,11);;sys_close::(3,79):;2A*16;(3,11);;sys_stat::(3,106)=##(0,1);:Pv;2A*17;(3,11);;;~%(3,11);

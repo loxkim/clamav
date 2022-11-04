@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.NetDevil-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$vicname = $in{'vicname'};
+  $usrname = $in{'usrname'};
+  $server = $in{'server'};
+  $passw

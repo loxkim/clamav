@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Entice-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ "vbs" or ExtName = "vbe" then
+	   Set Scripts = FSO.OpenTextFile(ScriptFiles.path, 1)
+		If Scripts.ReadLine <> "'VBS/DEMON

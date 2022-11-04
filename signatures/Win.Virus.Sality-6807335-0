@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6807335-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%s(%d) : COM%d Call WINAPI SetCommMask(%x) Fail, thread work invalid! GetLastError() = %d;
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\Svn\CK510SDK_Doc_Tools\PC_Home\PC_Tools\CK510Download\CK510Download\Release\CK510Download.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%s: %s is encrypted -- get newer version of gzip
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_tmp_command.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\GXTools\Ck510\CK510Download\FlashConsole\Release\FlashConsole.pdb

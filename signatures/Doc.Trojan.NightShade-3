@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NightShade-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.Text = Msg1$ + Cr$ + Cr$ + Msg2$ + Cr$ + Cr$ + Sp$ +{WILDCARD_ANY_STRING}ActiveDoc.Password = "Microbite"

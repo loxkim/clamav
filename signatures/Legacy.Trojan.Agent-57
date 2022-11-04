@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-57
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+; $cadenu +=10){{WILDCARD_IGNORE}{WILDCARD_IGNORE}@cade = get(&quot;http://cade.s{WILDCARD_ANY_STRING}ile ($ae=~ m/&lt;em class=yschurl&gt;.*?&lt;\/em&gt;/){

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1182
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+banking profile has been locked due to inactivity or because of too many failed login attempts.{WILDCARD_ANY_STRING(LENGTH<=20)}please click next to unlock your internet bank

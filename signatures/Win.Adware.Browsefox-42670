@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Adware.Browsefox-42670
+TDB: Engine:54-255,Target:1
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;(;4;8;@;D;L;P;X;\;d;h;p;t;
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+t/9^<t*VW
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AVTimedSingleWaitBlock@details@Concurrency@@

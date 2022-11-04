@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.IRC-16
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Hello, here are a New desktop theme| /" 
+f.Write "dcc send " 
+f.Write Chr((26)+10) 
+f.Write "nick C:\WINDOWS\Mesut.theme }" 
+

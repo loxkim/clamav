@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Expiro-9976524-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+o7Clique aqui para receber ajuda do Suporte da Microsoft.+Entre em contato com o Suporte da Microsoft
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ in esaurimento.DFai clic qui per ottenere assistenza dal supporto tecnico Microsoft.&Contatta il supporto tecnico Micro
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+This PC is running low on space.Click here to get help from Microsoft Support.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<toast><visual><binding template="ToastGeneric"><text>%ls</text><text>%ls</text></binding></visual></toast>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+api-ms-win-core-synch-l1-2-0.dll

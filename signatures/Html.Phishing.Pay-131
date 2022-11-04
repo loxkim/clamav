@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-131
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+as part of our security measures, we regularly screen activity in the{WILDCARD_ANY_STRING(LENGTH<=150)}we recently noticed the following issue on your account

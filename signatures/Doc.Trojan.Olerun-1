@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Olerun-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+.shapes(1).oleformat{WILDCARD_ANY_STRING}.activateas classtype:=obj

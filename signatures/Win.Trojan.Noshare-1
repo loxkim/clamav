@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Noshare-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+p
+net share admin$ /delete /y
+net share h$ /delete /y
+net share print$ /delete /y
+

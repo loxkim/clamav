@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.VVSC-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+this = InputBox("Enter String To Convert :", "The VicodinES VBA String Converter")

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.NetWire-7594940-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+(cl(m#9 (cl(m#3 (cl(m#8 (cl(m#0 (cl(m#9 (cl(m#(cl(m# (cl(m#9 (cl(m#8 83 82 86 46 (cl(m#9 6(cl(m# 88
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+(cl(m#(cl(m#5 (cl(m#0(cl(m# (cl(m#(cl(m#4 (cl(m#(cl(m#8 46 (cl(m#0(cl(m# (cl(m#20 (cl(m#0(cl(m#
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+(cl(m#(cl(m#0 (cl(m#07 (cl(m#(cl(m#5 (cl(m#0(cl(m# (cl(m#(cl(m#4 (cl(m#(cl(m#8
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+46 (cl(m#(cl(m#6 (cl(m#20 (cl(m#(cl(m#6
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+(cl(m#04 (cl(m#(cl(m#6 (cl(m#(cl(m#6 (cl(m#(cl(m#2 58 47 47 (cl(m#09 (cl(m#2(cl(m# 46 (cl(m#02 (cl(m#0(cl(m# (cl(m#0(cl(

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Passer-20
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set jew=1nf3c7
+%jew% \\%1 -u Administrator -p "" -c -f -d %2 -o
+%jew% \\%1 -u administrator -p "" -c -f -d %2 -o
+%jew% 

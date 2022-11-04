@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Phishing.Card-70
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Voc=EA pode participar desta promo=E7=E3o, basta informar seus dados no sit=
+e{WILDCARD_ANY_STRING(LENGTH<=100)}clicando aqui

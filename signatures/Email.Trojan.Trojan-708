@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-708
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+mailbox{WILDCARD_ANY_STRING(LENGTH<=25)}settings were changed. In order to apply the new set of settings open attached file

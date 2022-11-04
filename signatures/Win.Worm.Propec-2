@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Propec-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Attachments.Add "C:\TEST.VBS" 'File path.
+        U.DeleteAfter

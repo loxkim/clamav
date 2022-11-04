@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Gultung-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Aka=Int(rnd*1000)
+Akb=Int(rnd*30)
+If Akb=0 Then Akb=10
+Tamb=String(Akb,"-")
+tekavir = text.readline
+tekvir="' "&Aka&Tamb&vbCrLf

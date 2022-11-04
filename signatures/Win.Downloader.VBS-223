@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-223
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+dvbs=dvbs & chr(asc(mid(vbss, i, 1)) - 1)

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zbot-6664566-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cre'pite repla^tr.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+kXBE^BGXd}\gsmRe{UleY@KLJP|t|brqFJNDbtkXBE^BGXd}\gsmRe{UleY@KLJP|t|brqFJNDbtkXBE^BGXd}\gs}ReoUle)x7t
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+osmlm{UVmY@}DJPN||b\yFJdLbtMPBE|JGXzu\gieRem]leKHKLeW|tWerq@BND`|kX
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+KJPwq|butFJMAbt)_BE`EGX^z\gEjReIRlewGKL`W|tZerqdMND|skXXB^BQ_d}N`sm\b{UfbY@MKJP~s|b
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FGX&y\gMiReAQleoDKLxT|tRfrqlNNDDpkX`A^BY\d}FcsmDa{U~aY@EHJPvp|btuFJL@bt

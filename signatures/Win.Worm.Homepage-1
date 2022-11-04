@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.Homepage-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+domize
+r=Int((4*Rnd)+1)
+If r=1 then
+WS.Run("http://hardcore.pornbillboard.net/shannon/1.htm")
+elseif r=2 

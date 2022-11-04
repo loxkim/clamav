@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Gamarue-9858782-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+li{ background:url(http://img.360.cn/images/2008/360baoku/1215/dot_green.gif) 20px 7px no-repeat; padding-left:33px;}
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+KErNEL32.DLL
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+document.getElementById("title_tips").innerHTML = "<font face=verdana color=#008000><b>"+data.softname+"&nbsp; 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+document.getElementById("con_tips").innerHTML += "<li>" + info[i].replace("-", "") + "</li>";
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+document.getElementById("plugin_tips").innerHTML += "<p>- "+plugin[i]+"</p>";

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Antisocial-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+C = Asc(Chr("&H" & Mid(B, 2, 2))){WILDCARD_ANY_STRING}F = F & Chr(Asc(Chr("&H" & Mid(B, D, 2))) Xor Asc(Chr("&H" & Mid(B, E, 2))))

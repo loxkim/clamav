@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-30
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+echo "uname -a: $un<br>"; echo "os: $os<br>"; echo "id: $id1<br>"; echo "free: $free<br>"; echo "used: $used<br>"; echo "total: $all<br>";

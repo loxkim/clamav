@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Webmail-25
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+unalloyed support is highly needed ={WILDCARD_ANY_STRING(LENGTH<=4)}to=20{WILDCARD_ANY_STRING(LENGTH<=10)}secure and transfer some funds

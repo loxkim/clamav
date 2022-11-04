@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Elmar-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.ReadLine();
+if (App.indexOf("<elmaR>") != -1) {

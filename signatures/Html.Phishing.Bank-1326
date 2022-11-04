@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1326
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if you want to re-activate your {WILDCARD_ANY_STRING(LENGTH<=35)}account, please click on the link bel{WILDCARD_ANY_STRING(LENGTH<=1)}ow, and{WILDCARD_ANY_STRING(LENGTH<=7)}verify your identity.

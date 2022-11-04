@@ -1,0 +1,18 @@
+VIRUS NAME: Doc.Dropper.Zebrocy-6764198-0
+TDB: Target:0
+LOGICAL EXPRESSION: 0&1>10&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Sustainable development: implementation of Agenda 21, the Programme for the Further Implementation of Agenda 21 and
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+w:instrText
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+w:val="FFFFFF"

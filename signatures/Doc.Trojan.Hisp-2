@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hisp-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+AD.Insertlines 1, NT.Lines(1, NT.countoflines){WILDCARD_ANY_STRING}MsgBox "Документ сохранен!", vbInformation,

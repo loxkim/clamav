@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Clicker-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+window.open("http://cool-cj.com"); window.open("http://ipiku.com/_make/");

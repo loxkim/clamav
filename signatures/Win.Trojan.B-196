@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.B-196
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+run "command /c ping -n a -l askldjs -w 0 asdjaskd ",0,true

@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.Zapchast-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f /I (%1) == (mofcomp.exe) goto SkipSrv
+ %1 /RegServer
+
+:SkipSrv
+ goto End
+
+:TryInstall
+ if not exist wmicore.exe got

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Zapchast-131
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+wshshell.run"adm.bat

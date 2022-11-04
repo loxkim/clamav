@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Slacker-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox "Repent!,Quit your Jobs!!,Slack off!!!", vbCritical, Title:="97 <-> 2000 Hybrid v1.0a Bob is Watching"

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ego-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+For Binary As #1{WILDCARD_ANY_STRING}TheString = String$(LOF(1), 0){WILDCARD_ANY_STRING}s = InStr(f, TheString, (Chr(42) + Chr(95) + Chr(95) + Chr(42)))

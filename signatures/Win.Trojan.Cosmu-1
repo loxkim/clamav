@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Cosmu-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+add "HKLM\software\microsoft\windows nt\currentversion\winlogon" /v SFCDisable /d 1 /t REG_DWORD /f

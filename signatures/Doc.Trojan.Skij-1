@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Skij-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+BProjects.Count{WILDCARD_ANY_STRING}onents("SKIJ").CodeModule.DeleteLines 1,{WILDCARD_ANY_STRING}mponents("SKIJ").CodeModule.InsertLines 1,

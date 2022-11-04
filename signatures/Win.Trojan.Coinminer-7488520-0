@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Coinminer-7488520-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://portal.incometaxindiaefiling.gov.in/e-Filing/UserLogin/LoginHome.html
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://portal.incometaxindiaefiling.gov.in/e-Filing/MyAccount/ChangeMyPassword.html
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://portal.incometaxindiaefiling.gov.in/e-Filing/Services/ResendAccountActivation.html
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://portal.incometaxindiaefiling.gov.in/e-Filing/MyAccount/RefundReissueRequest.html
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://portal.incometaxindiaefiling.gov.in/e-Filing/Logout.html?ID=

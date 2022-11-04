@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Ardurk-7057831-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+unsubscribe  click <a href=3D"http://39.free3host.net/remove/remove.=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<HTML><HEAD></HEAD> <body bgcolor=3D"#%8lX" text=3D"#%8lX" link=3D"#00FFFF" vlink=3D"#00FFFF"><BODY>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<OBJECT type="application/x-oleobject"CLASSID="CLSID:%08lX-%04X-%04X-%02X%02X-%02X%02X%02X%02X%02X%02X"></OBJECT>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Content-Type: multipart/alternative;
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CARTOON_%d.exe

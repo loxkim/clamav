@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Vidar-9777858-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\SYSTEM\AppData\Roaming\Intel\Graphics_driver\Graphics_driver\sysdll.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+create Wwanip binPath= "C:\Users\SYSTEM\AppData\Roaming\Intel\Graphics_driver\Graphics_driver\sysdll.exe" start= auto
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/create /xml "C:\Users\SYSTEM\AppData\Roaming\Intel\Graphics_driver\Graphics_driver\vxml.xml" /tn "Desktop Windows  M
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\System32\schtasks.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Setup is now ready to begin installing Microsoft Visual C++ 2013 Redistributable (x86) - 19.1.30551 on your computer.

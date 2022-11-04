@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VBS-204
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+src3.run windows & "\fonts\system\fonts.fnt"

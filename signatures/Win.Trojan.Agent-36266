@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36266
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+n=document.getelementsbytagname("div")[1].innerhtml;s=[]zz="len";zz+="gth";aaa=n[e("zz")];b="tr(i,1)*10";b2="tr(i+1,1)*1)";i=0;k=0;x="al";object.prototype.qwe=1;try{for(j in 

@@ -1,0 +1,24 @@
+VIRUS NAME: Doc.Dropper.Downloader-5744649-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Customizable = True
+Sub BoldItalics1()
+    Selection.Font.Bold = True
+    Selection.Font.Italic = True
+End Sub
+
+Public Sub AutoOpen()
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ = StrConv(
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ = Left("{WILDCARD_ANY_STRING(LENGTH>=2&&<=50)}", 3) + Mid("{WILDCARD_ANY_STRING(LENGTH>=2&&<=50)}", 7, 5) + Ucase("{WILDCARD_ANY_STRING(LENGTH>=2&&<=50)}")

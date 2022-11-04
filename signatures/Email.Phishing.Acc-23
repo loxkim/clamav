@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Acc-23
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Your User name, password,{WILDCARD_ANY_STRING(LENGTH<=1)}date of bith and  your country information would be needed to verify your account

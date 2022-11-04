@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Grozny-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for %%a in (%gr%) do set Grozny= %%a

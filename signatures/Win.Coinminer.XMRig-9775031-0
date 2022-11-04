@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Coinminer.XMRig-9775031-0
+TDB: Engine:71-255,FileSize:20000000-30000000,Target:1
+LOGICAL EXPRESSION: (0>30)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Z25ethash_calculate_dag_itemjP8hash64_tyS0_5uint4

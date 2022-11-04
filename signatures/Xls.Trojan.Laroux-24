@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Laroux-24
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Workbooks("PERSONAL.XLS").Sheets("JUNGLE_AI").Copy BEFORE:=Workbooks(H$).Sheets(1)

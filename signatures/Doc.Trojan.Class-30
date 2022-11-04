@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-30
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+pplication.Build = "8.0.4412" Then Call z2000{WILDCARD_ANY_STRING}xsz.codemodule.AddFromFile ("c:\zentory$.ffo")

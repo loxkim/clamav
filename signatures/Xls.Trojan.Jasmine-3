@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Jasmine-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Infline.Lines(5, 1) <> "'Jasmine" Then{WILDCARD_ANY_STRING}.Text = "Since the only time I see her near" & vbCr & "Is when I close my eyes

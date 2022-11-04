@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-117
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+a.innerhtml=+[2];}try{app.title}catch(q){c="f";cc="e";v="tml";}z=[a["innerh"+v]];b=+z;e=window[cc+"val"];e(string[c+"romcharcode"]

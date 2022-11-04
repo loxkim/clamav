@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.AntiMcAfee-5
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+reg delete HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\ /v MCUpdateExe

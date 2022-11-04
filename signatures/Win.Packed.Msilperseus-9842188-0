@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Msilperseus-9842188-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Get Cliboard Address.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+System.Security.Cryptography.AesCryptoServiceProvider
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+zNiI4E5BCtDIeX2ZOu.JvcPLNnlO0s99rHu6y+qeLhfRPgZhGK8LPd1H+Ayc3kyGYnVY7Wk3fh8`1[[System.Object, mscorlib, Version=2.0.0.0, Culture
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\log.txt
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Get_Cliboard_Address.My.Resources

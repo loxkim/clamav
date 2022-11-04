@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Surabaya-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ordBasic.SetProfileString "Author", "Name", "TeBeYe`93 The ICE-Man"

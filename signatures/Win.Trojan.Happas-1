@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Happas-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo Evi|SanTa WiSHEs eVeRybOdY a HaPPy x'MaS!!
+echo :-)
+del c:\mydocu~1\*.txt
+del c:\mydocu~1\*.zip
+del c

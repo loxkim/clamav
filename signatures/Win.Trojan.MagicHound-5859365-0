@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.MagicHound-5859365-0
+FUNCTIONALITY LEVEL: >=70
+TARGET TYPE: PE
+OFFSET: SE2
+DECODED SIGNATURE:
+cmd.exe{WILDCARD_ANY_STRING}/c powershell -window hidden -EncodedCommand

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Zusy-9939224-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+InvertibleRSAFunction: computational error during private key operation
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Func_impl_no_alloc@V<lambda_0de714fd9fc28ab452b3cc4d892853e9>@@_NABVpath@v1@filesystem@experimental@std@@@std@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Func_impl_no_alloc@V<lambda_f39f0d54e603041a2c80a467b157db11>@@_NABVpath@v1@filesystem@experimental@std@@@std@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Func_impl_no_alloc@V<lambda_f86e2a168fb3d462a4f6b961d46764d5>@@XABVpath@v1@filesystem@experimental@std@@@std@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Func_impl_no_alloc@V<lambda_732cc64e71ae47126bc2db810ba8b3ab>@@XABVpath@v1@filesystem@experimental@std@@@std@@

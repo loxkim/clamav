@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Smev-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+run detach.exe /fh "mirc32 smev"{WILDCARD_ANY_STRING(LENGTH<=52)}\sh\win16.exe

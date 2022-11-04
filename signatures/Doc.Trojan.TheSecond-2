@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.TheSecond-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+x = Application.StartupPath + "TheSecond.tmp"{WILDCARD_ANY_STRING}.Replacement.Text = ", бля, что "

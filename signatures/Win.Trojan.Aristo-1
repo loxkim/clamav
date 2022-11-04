@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Aristo-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+$b = fopen($file,'w');{WILDCARD_ANY_STRING(LENGTH<=1)}fwrite($b, $aris.$contents);

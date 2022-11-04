@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Goodday-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If DExist = 0 T{WILDCARD_ANY_STRING}opy Source:=NormalTemplate.FullName, Destination:=openDoc.FullName, Name:="Maniac", Objec

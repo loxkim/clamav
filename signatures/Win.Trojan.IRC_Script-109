@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IRC_Script-109
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ey $ifmatch } }
+alias sof2key { if ($regread(HKEY_LOCAL_MACHINE\Software\Activision\Soldier of Fortune II - Double Hel

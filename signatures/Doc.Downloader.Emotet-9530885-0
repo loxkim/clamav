@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Downloader.Emotet-9530885-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Function Mnr26fu2j665cquv8
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Pdsgjsdtefikudto = F9zijf6hbo6mkeot0y + (Rqsn6fvzkxoqjg + Crfo579nogv759x + F0b4tvzfite2z3a.Npjpqiacw64uhry.ControlTipText + Q_3
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Set Opvpnyrpjwk = B1q69x9zm3r(Scdq0zz_mghu
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hsu0())s(hsv
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hsu0())t(hsv
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+showwindow = xlYErrorBars - xlYErrorBars

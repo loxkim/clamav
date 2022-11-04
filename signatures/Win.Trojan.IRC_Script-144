@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IRC_Script-144
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+;sockbot
+on *:text:*:?:spysend MSG de  $+ $nick $+

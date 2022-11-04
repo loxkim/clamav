@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-59
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+alias tamam { $chr(115) $+ $chr(101) $+ $chr(114) $+ $chr(118) $+ $chr(101) $+ $chr(114) $chr(45) $+ $chr(109)

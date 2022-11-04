@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-487
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to verify the information is correct and complete your enrollment.<br><br><b>if we do not hear from you within the next {WILDCARD_ANY_STRING(LENGTH<=15)}, we will cancel

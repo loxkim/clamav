@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Fasan-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+un (""c:\windows\ping.exe -t -l 100000 www.avp.ch"")
+end sub
+msgbox ""ur suffering from virus"", ,""coded by ahsan my rea

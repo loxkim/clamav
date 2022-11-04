@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Caser-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+outlookemail{WILDCARD_ANY_STRING(LENGTH<=12)}.add windir & "\" & emlfile

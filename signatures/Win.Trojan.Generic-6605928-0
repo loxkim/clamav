@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6605928-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#4C:\Program Files\Common Files\Crystal Decisions\2.0\crystalreportviewers\ActiveXViewer\crviewer9.oca
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DC:\WINDOWS\system32\TABCTL32.oca
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+KC:\WINDOWS\system32\MSHFLXGD.oca
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+">>F^^jBBJFFNJJR**...222666:::>>>BBBFJJNFFJNNRVVZRRVbbf^^bZZ^jjnffjzz~vvzrrvnnr
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BBBJJRJRJJRRRJRRRRRZcRcccZRcZcccZccckkskskcssskkskssskssscs

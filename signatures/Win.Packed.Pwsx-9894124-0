@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Pwsx-9894124-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Users you want to ignore on IRC. You must specify the host with their username and can ignore multiple people with a com
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Any actions or internal commands to process as soon as connection is sucessfully achieved
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Enable or Disable the channel ordering process. Having this option on displays the operators at the top.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Enable or Disable the showing of non-encrypted messages in addition to the encrypted messages from other users
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Enable or Disable the showing of usermodes on IRC (+ for voice, @ for operator, etc.)

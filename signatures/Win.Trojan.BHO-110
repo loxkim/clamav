@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.BHO-110
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+ForceRemove {96ad72e4-2e2b-4ffc-a5bb-279c2714af12} = s 'IEocx Class'

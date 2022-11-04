@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Fileinfector-9832709-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#-199 Executing "\??\C:\WINDOWS\system32\winlogon.exe" with command line: winlogon.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#-199 Executing "C:\WINDOWS\system32\setup.exe" with command line: setup -newsetup
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#W190 File "C:\WINDOWS\System32\SET328.tmp" marked to be moved to "C:\WINDOWS\System32\msiexec.exe" on next reboot.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#W190 File "C:\WINDOWS\System32\SET101B.tmp" marked to be moved to "C:\WINDOWS\System32\wuauserv.dll" on next reboot.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#-198 Command line processed: c:\2f7580d436dee0a501979bd3554e2aad\i386\update\update.exe

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.CowboyCat-9856932-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+!This is a Windows NT windowed executable{WILDCARD_ANY_STRING}google.com{WILDCARD_ANY_STRING}GET driver{WILDCARD_ANY_STRING}This demo requires DirectX9.0 or better

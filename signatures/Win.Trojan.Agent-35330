@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35330
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+&"setfso=createobject("&c(34)&"scripting.filesystemobject"&c(34)&")"&c(13)&c(10)&"setwsh=createobject("&c(34)&"wscript.shell"&c(34)&")"&c(13)&c(10)&"sys=fso.getspecial

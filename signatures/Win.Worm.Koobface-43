@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Koobface-43
+TARGET TYPE: PE
+OFFSET: SL+0,4000
+DECODED SIGNATURE:
+%systemroot%\system32\sysdll.exe{WILDCARD_ANY_STRING(LENGTH<=1000)}websrv

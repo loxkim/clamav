@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-7863773-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Provider=Microsoft.Jet.OLEDB.4.0;Password=ypbwkfyjhyhgzj;User ID=morningstar;Data Source=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Insert into t_AcctList(UserName,Workstation,LogonType,SubID,SubName,LogonTime,UpdateTime)values(
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+KDLock.dll verification failed, it's an unsigned component!!
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+KISServer.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+winmgmts:{impersonationLevel=impersonate}!\\.\root\cimv2

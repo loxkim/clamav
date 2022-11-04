@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Haptime-3
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+mpath,"help.vbs"{WILDCARD_ANY_STRING(LENGTH<=22220)}gsf&"\untitled.htm"

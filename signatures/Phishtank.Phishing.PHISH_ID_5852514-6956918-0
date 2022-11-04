@@ -1,0 +1,43 @@
+VIRUS NAME: Phishtank.Phishing.PHISH_ID_5852514-6956918-0
+TDB: Engine:83-255,Target:0
+LOGICAL EXPRESSION: (0|(1&2&3)|(4&5)|(6&7))
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+href="http://phone-digital.info/st/etapa3.php
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%PDF
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+<</Subtype/Link/Rect[
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+S/URI/URI(http://phone-digital.info/st/etapa3.php
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ÐÏà¡±á
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+HYPERLINK "http://phone-digital.info/st/etapa3.php
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<?xml
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Target="http://phone-digital.info/st/etapa3.php

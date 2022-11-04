@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Melissa-14
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+RegAdd = "...made by 'The Marlboro KID'..."{WILDCARD_ANY_STRING}If ActivDoc.Name = "Jane" And NrmTmpl.Name = "Jane" Then GoTo THISISTHEENDMYFRIEND

@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Ksg-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Current.VBProject.VBComponents("parasite").CodeModule.InsertLines RandomLine, vbTab & "' " & rb

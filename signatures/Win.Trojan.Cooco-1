@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Cooco-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@echo.c:\con\con>%windir%\startm~1\programs\startup\"Kaspe

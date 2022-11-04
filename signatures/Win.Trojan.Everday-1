@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Everday-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+t\Windows\CurrentVersion\Run" , "xPire" , "REG_SZ" , "C:\WINDOWS\system32\xPire.exe" ) 
+$EXECUTED = REGREAD

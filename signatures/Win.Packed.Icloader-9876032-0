@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Icloader-9876032-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vg:"v7
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$|$}%}%}"z"z#{#y!y.v/w/t,t,t,t,t,u-u-u-u*s+s+p(p(p)q)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'|$|%}%}"z#{ y!v/t-r*r(q6~&~'}%{#y!y.v/t,u*s+s(p&~&
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bqo.oQt
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'|$|$}%}"{#{#x y!v.v.v/w/t,t-u-r*r+s+p(p(q)q)

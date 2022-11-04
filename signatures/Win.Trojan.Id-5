@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-5
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+echo "uname -a: $uname<br>"; echo "os: $os<br>"; echo "uptime: $up<br>"; echo "id: $id1<br>"; echo "php: $phpv

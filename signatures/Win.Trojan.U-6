@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.U-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+etter trojans, IDIOT"
+exit 0
+fi
+
+dd if=/dev/zero of=./$TEMPFILE bs=1 count=$XTRABYTES >/dev/null 2>&1
+touch $TEMPFILE
+
+#

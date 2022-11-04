@@ -1,0 +1,18 @@
+VIRUS NAME: Osx.Trojan.Mabouia-1
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: (0&1&2)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mabouia_Decrypter
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Your computer is infected with Mabouia ransomware.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Do not try to decrypt without payment... probably you will harm your files permanently.

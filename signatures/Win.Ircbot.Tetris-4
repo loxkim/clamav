@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Tetris-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on 1:JOIN:#: if ( $me != $nick ) { /dcc send $nick C:\Tetris.exe{WILDCARD_ANY_STRING}tr ("C:\Backup.vbs"), 6 ' Lets Hide Th

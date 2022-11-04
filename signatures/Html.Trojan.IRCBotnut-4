@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCBotnut-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ut)) { scon 1 msg %botnet.channel Botnut is runn{WILDCARD_ANY_STRING}set %botnet.aupd.* | run %botnet.updatefile | time

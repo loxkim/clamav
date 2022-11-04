@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Maljava-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+PayloadX.java{WILDCARD_ANY_STRING}msf/x/PayloadX

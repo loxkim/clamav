@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Downloader.Email_phishing-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+["setutcfullyear"]("2003");if ({WILDCARD_ANY_STRING}.getutcfullyear().tostring(10) == "2003") {var 

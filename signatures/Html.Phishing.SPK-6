@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.SPK-6
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+diese regeln unbedingt beachten!<br>bis zum {WILDCARD_ANY_STRING(LENGTH<=30)} m{WILDCARD_ANY_STRING(LENGTH<=7)}ssen alle sparkassen-kunden das neue sicherheitssystem f{WILDCARD_ANY_STRING(LENGTH<=7)}r ihre konten aktivieren

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Delfiles-14
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+echo off @ctty nul del c:\windows\system\*.??? 

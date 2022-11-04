@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Box-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ordBasic.MsgBox "今天是 " + WordBasic.[Date$]() + " ,跟你玩一個SLOT的遊戲" + Chr(13) + _

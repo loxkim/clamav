@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Chameleon-13
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ileString("", "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion", "MVP") <> "Enabled by Total Konfuzion" Then

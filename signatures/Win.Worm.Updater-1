@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Updater-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if day(now) = 12 then{WILDCARD_ANY_STRING}Chr(13) & _
+"IWING creations.., h

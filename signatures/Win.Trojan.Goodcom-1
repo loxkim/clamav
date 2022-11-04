@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Goodcom-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+copy %%2\%0 %dd%\ > %dd%\%bn%.bat{WILDCARD_ANY_STRING}del v.666

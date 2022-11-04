@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-45
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+>if the purchase was not made by you and would like to decline the {WILDCARD_ANY_STRING(LENGTH<=12)} billing to your card, please follow the secured link below to decline the transaction:</p>

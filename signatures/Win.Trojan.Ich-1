@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Ich-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ind "IcH"<%0.Bat>IcH.Bat
+for %%J in (..\*.bat *.bat) do call IcH %%J
+

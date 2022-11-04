@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-834
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ong>is committed to making sure that your online transactions are sec{WILDCARD_ANY_STRING(LENGTH<=150)}please update your online banking information by clicking here:

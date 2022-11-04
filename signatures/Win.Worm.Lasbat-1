@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Lasbat-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo get 0.exe>>666worm{WILDCARD_ANY_STRING}2.exe -a $dt -x -c

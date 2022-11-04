@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Flashfake-10
+TARGET TYPE: MACHO
+OFFSET: *
+DECODED SIGNATURE:
+/Applications/Safari.app/Contents/Resources/.WindowsACTIVATOR.png

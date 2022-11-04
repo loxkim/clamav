@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.FakeAVThreatNuker-2
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+name="TrekBlue.ThreatNuker.ThreatNuker"{WILDCARD_ANY_STRING(LENGTH<=4)}    type="win32" {WILDCARD_ANY_STRING(LENGTH<=4)}/> {WILDCARD_ANY_STRING(LENGTH<=4)}<description>Internet Security Utility

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Redden-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.Replacement.Text = "Simply Red"{WILDCARD_ANY_STRING}late.VBProject.VBComponents.Count).Name = "SimplyRed"

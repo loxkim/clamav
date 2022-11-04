@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-156
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.createobject("scripting.f"+"ilesyste"+"mobj"+"e"+"c"+"t",""){WILDCARD_ANY_STRING(LENGTH<=10)}="s"+"h"+"ell";

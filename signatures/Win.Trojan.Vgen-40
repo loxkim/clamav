@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Vgen-40
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cho off
+if exist bug.com goto infection
+echo

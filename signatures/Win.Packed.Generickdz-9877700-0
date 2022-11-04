@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-9877700-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AutoComplete.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+K:\AutoComplete\Release\AutoComplete.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+AutoComplete.EXE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_KErGZ02@?UVJER>7+HPXhnKN2mQe$u#nbvc03LYYQ>W)s_$^q(J)9WY5LJ6BZv?YKm6gf*zqr3khC_M)t$i8xI@x#lvgVJ^mUGs2Q5rR)hYeF
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+e.g. C:\Programme

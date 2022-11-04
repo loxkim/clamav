@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-886
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+new standard account security update.{WILDCARD_ANY_STRING(LENGTH<=7)}please click on our link below to review your account

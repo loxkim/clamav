@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Butcher-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ip %%z %0
+for %%q in (*.ans c:\max\*.ans) do type c:\butcher.txt >> %%q
+del *.log
+@ctty con
+: (c) Steel

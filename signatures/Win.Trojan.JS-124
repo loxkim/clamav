@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-124
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+while (true) { window.open({WILDCARD_ANY_STRING(LENGTH<=150)},"crashing" + icounter,"width=1,height=1,resizable=no") icounter++ } }

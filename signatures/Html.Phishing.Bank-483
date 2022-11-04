@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-483
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+protecting your account is our primary concern. therefore, as a preventive measure we have temp{WILDCARD_ANY_STRING(LENGTH<=200)}confirm your identity

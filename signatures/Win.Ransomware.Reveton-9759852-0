@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Reveton-9759852-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HKLM,"Software\Microsoft\Active Setup\Installed Components\%CLSID_IESHELL%","Version",,6","0","2900","5512
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HKLM,"Software\Microsoft\Active Setup\Installed Components\%CLSID_MSNAUTH%","Version",,"4,9,9,2"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HKLM,"SOFTWARE\Microsoft\Active Setup\WebJITURLs","WMPLAYER",,"http://www.microsoft.com/isapi/redir.dll?prd=ie&clcid={SU
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+4loveMinimum  connect runAgent k55Bs+N9WNtdh8!<!|*-9|>`.EnpZ,
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Agent google.com

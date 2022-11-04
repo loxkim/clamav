@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Delfiles-11
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+@echo off del c:\windows\system32\drivers\mouse.drv del c:\windows\system32\drivers\keyboard.drv 

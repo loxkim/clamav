@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6828021-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Action requise : Cliquez sur Annuler pour quitter l'installation du logiciel. Installez la version %s ou une version sup
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ avbryte denne installeringen. Installer en utgitt versjon av dette operativsystemet med versjonsnummer %s eller h
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Il sistema operativo Microsoft installato su questo computer non soddisfa i requisiti minimi consigliati. Questo messagg
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Il sistema operativo Microsoft installato su questo computer non soddisfa i requisiti minimi richiesti, in quanto 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+r operativsystemet med versionsnummer %s eller senare och b

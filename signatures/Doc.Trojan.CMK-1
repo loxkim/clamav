@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.CMK-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Decision = MsgBox("Wanna exit CMK?", 36, "CMK v1.0")

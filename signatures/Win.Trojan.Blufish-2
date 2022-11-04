@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Blufish-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+\Office\" & x & "\Word\Security", "Level") = 1&

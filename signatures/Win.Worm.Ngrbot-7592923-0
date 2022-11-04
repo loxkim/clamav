@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Ngrbot-7592923-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AIiIYiIi)iIihIaIiIiiIiIiIiiIiIiIiiIiIiIiiIiIjN}iO|Qi^~~IhNLIksmiX~mihNQIjVQiRrtiAOBIvmMIkO{iSDxi`x^Is|^inNnin\QI^~^Ihc
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+IAiIiYiIiIIiIhIaiIiIiIiiIiIiIiiIiIiIiiIiIiIiiLlLiJofIgGgI{{[i\|\ipPpImVOiHdriV_QIKkKIOOnizZzi\|\I]uVipPpitTTImh
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+yJjy[Eg[{XXe{BjJhjJiJEIiiIiIiIiiIiIiIiiIiISIiiIit{xTTs[xGx[StSgyJjjJjJ{IiiIiIiIiiIiIiIiiIEtiIiiIi
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+iIihIaIiIiiIiIiIiiIiIiIiiIiIiIiiIiIkLciO`@iBbbIhH}Ibb_iHbVia[zIk]pi]}]iRrrIhJ@Ijvfi_
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+XJjBy{[{[yBjjJbeZxyyYyYXIiiIiIiIiiIixbgiiIiI

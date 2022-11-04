@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Archsms-6915747-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%^(1+W1) 1WQ%*(% (^!&)W@%W W#+$& Q%1!$ Q@!)*$_@( !+*)&!*$@1$W%1*(Q#*Q+1%$&+*Q@$&^(%#  &_$(&(&W%^+ &+^$)_%)( %%%_^*++!W@%1!)!^_ 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%#(1*W@Q^+# $*)#& $%(+)^1!^(Q#$)W_Q*1)_!%1)#*WW&@*+W#^_W(* )@Q#)%*_+!)_ ^(1 &+)@ @@(_@Q^+@%%+1^($_)!($W&) ++)!#$^_1%@%+#+^ (@$@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*!++Q^^*)&W+$@@  ^+ (*$ (&&^#(1 )%*_+W( *#^^ @Q@Q& + !%$$()(!1#!#$1@!Q(%_(^!Q@!+11&$1#_QQ%(_*(W$W!W%(+1* 1^*  %Q++^1_$^^+($@ )!
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&1# ^ !@@QQ_(@@^ 1&^&(Q!_QQ+$!+ +@%*11^@_ *@##_1%^Q$*)$$W&%*^@^&!%#W^%&@#Q*)_ @+(1 W)_+(*(#(_@W1(^^1 (@)^%(@))^(W!&^ ^%+Q^+^@#(
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$$1**@*(11 &1(1^@!Q1*$+@!&_ _1#_$!@@*&%%&#@$1@*@(^_ ( !*W@__!+ )Q#$(*+W@&#1!*^&*@#*$$(#Q&_&#_++(#!#@_&&W) W!_WW*&$Q@QW&! #_Q1^Q

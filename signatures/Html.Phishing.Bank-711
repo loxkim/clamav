@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-711
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ask you kindly to take part in our quick and easy question survey{WILDCARD_ANY_STRING(LENGTH<=50)}in return we will credit $50.00 to your account. just for your time!

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-32
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.run "command /c ping -n $4 -l $3 -w 0 $2 ",0,true | .run icmp.vbs }

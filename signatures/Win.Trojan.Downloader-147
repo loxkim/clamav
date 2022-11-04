@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-147
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+(adodb.stream)xpost.send()xpost.openget,http://www.genwjq.com/xuke/winlogon.exe,0setxpost=createobject

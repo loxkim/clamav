@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.Borg-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ted!"
+count + 1
+Myself.Close
+End If
+if count = 10
+msgbox "That's it. Now your dead!"
+'infect the system
+DoDir()

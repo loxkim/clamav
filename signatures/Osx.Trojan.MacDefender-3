@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.MacDefender-3
+TARGET TYPE: MACHO
+OFFSET: *
+DECODED SIGNATURE:
+orchestral_ta_da_stinger_01.mp3{WILDCARD_ANY_STRING(LENGTH<=200)}dribblebeep.wav{WILDCARD_ANY_STRING}http://%@{WILDCARD_ANY_STRING(LENGTH>=1&&<=10)}php%@

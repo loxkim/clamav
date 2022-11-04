@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.Mailer-14
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if(mail($email1, $assunto, $_server['http_host'] . $_server['request_uri'], $heades)){ echo "opa, enviado!"; exit(); } else{ echo "n?o enviei.."; exit(); 

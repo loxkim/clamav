@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NoStyle-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+VBA\Office", "CodeBackColors") = "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"{WILDCARD_ANY_STRING}s.Item(1).CodeModule.Lines(2, 1) = "mig:" Then DOT = True

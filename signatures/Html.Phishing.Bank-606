@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-606
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+banking service(s).{WILDCARD_ANY_STRING(LENGTH<=10)}if no action is taken by you in the next 48 hours you will be asked to re-enroll to continue to use your online servi

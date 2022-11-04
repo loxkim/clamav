@@ -1,0 +1,18 @@
+VIRUS NAME: Txt.Downloader.Nemucod-6769583-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\%s"+"y"+"st"+""+"em"+"root\%\\s"+"ystem32\\cmd."+"ex"+"e
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+se("co"+"m"+"s"+""+"pe"+"c
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+w"+"s"+""+"c"+"r"+"i"+"pt

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-10
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+echo "uname -a: $fast<br>"; echo "uptime: $fast2<br>"; echo "id: $fast3<br>"; echo "pwd: $fast4<br>"; echo "user: $fast9<br>"; echo "phpv: $fast6

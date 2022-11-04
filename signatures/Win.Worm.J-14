@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.J-14
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+while(q.indexof('+')!=-1){WILDCARD_ANY_STRING(LENGTH<=2444)}(ag.indexof('samy')==-1)

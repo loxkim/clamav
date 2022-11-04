@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-183
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if you did not authorize this payment, and want to cancel it please{WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}login and verify your identity

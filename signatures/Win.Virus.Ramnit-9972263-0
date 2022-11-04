@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9972263-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+NDVD9To5.EXE
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<stRef:documentID>adobe:docid:photoshop:fc5b4347-2872-11d9-8d1c-d6df50ef8b1e</stRef:documentID>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<xapMM:DocumentID>adobe:docid:photoshop:e58e7fb3-287b-11d9-8d1c-d6df50ef8b1e</xapMM:DocumentID>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<stRef:documentID>adobe:docid:photoshop:e34cda3c-e0b7-11d8-b074-9bc1ff57626b</stRef:documentID>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<xapMM:DocumentID>adobe:docid:photoshop:06c0cb28-e650-11d8-b918-f90da1437b25</xapMM:DocumentID>

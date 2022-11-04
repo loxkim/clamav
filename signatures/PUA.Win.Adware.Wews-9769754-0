@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Wews-9769754-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://pay.37.com/select.php?gamename=lq&gameserver=%s&username=%s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://d.wanyouxi7.com/37/lq/official/37lq.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://gameapp.37.com/controller/client.php?game_id=525&tpl_type=game
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+a-9e44-be12-4fa681fee559"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>bt
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d-11e8-a10a-8f6079a0182a"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>v

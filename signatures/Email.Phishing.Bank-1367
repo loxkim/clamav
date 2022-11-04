@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1367
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Every{WILDCARD_ANY_STRING(LENGTH<=10)}customer{WILDCARD_ANY_STRING(LENGTH<=35)}is required<br>to <span>confirm

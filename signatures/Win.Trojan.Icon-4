@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Icon-4
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.regwrite"hkey{WILDCARD_ANY_STRING}\htmlfile\defaulticon{WILDCARD_ANY_STRING}\shell32.dll,32

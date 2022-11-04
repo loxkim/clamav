@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.Falken-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ebug < %tmp%\green.dbg>nul
+echo.       LOGIN :_
+pause>nul
+echo Joshua
+choice /c:abcdefghilmnop@q#rstuvw!\'?

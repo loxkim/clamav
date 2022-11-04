@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-137
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+("%u000b%u000b%u000b%u000b");{STRING_ALTERNATIVE:"|'});document.write({STRING_ALTERNATIVE:"|'}varimages="activex."+evil+"rtlallocateheaprtlcreateheap";

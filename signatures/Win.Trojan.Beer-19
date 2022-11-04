@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Beer-19
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Self=OpenSelf.ReadAll:OpenSelf.Close:SS=InStr(Self,"'Ωööç")

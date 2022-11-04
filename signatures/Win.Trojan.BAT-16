@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.BAT-16
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cls
+ReM Trojan.BatXP.CopyMe.c
+ReM by Second Part To Hell
+copy %0 %random%.bat
+%0

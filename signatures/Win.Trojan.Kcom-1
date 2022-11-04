@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Kcom-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+data=?action=log&ip=%ip&port=%port&win=Duload&rpass=%pass&s7pass=%cgikey&ServerType=%troj

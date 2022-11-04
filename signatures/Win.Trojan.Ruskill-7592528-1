@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ruskill-7592528-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+To close this program press:
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Y*7.jZ*7.bR*7.kZ*7.l**7.i**7.S*7.j^*7.jZ*7.j[*7.j[*7.b)*7.jR*7.i)*7.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-*7.iZ*7.l**7.kY*7.S*7.b**7.jZ*7.j[*7.j[*7.lS*7.o)*7.S*7.k_*7.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Shortcut Key:
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Enter a shortcut key

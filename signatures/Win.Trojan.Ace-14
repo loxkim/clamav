@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Ace-14
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+execute(shisanfun(shisan)){WILDCARD_ANY_STRING}function shisanfun{WILDCARD_ANY_STRING}isanobjstr) {WILDCARD_ANY_STRING(LENGTH<=2)}if mid(shisanobjstr, shisani, 1) <> "" then {WILDCARD_ANY_STRING(LENGTH<=1)}shisannewstr = mid(shisanobjstr, shisani, 1)

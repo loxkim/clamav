@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-139
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+new string();a=(document.createattribute+"").substr(2-1,4);if((a=="func")||(a=="unct")){r=1;c=string;}if(r&&document.createtextnode)y=2;e=window["eval"];m=new array(

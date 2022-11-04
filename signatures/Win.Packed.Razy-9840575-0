@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Razy-9840575-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/C schtasks /create  /RU SYSTEM /sc minute /mo 1 /tn "rnudll32" /tr "\"{0}"\"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://check.fristsoftware.com/Lfs/submit_ticket.php
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://check.fristsoftware.com/Lfs/cache_update.php
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+WSaerch.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/C schtasks /create /F  /sc minute /mo 1 /tn "rnudll32" /tr "{0}"

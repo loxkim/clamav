@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35310
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+elseif (@$_get['action'] == 'hack') { $newfile = "blu3h47.html"; $newfile2 = "index.html"; $newfile3 = "index.htm"; $newfile4 = "index.php"; if (@touch("$chdir"

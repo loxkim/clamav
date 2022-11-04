@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Teepoly-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for %%a in (%path%) do call %h% ff %%a find.exe find%T005%

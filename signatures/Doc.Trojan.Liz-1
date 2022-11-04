@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Liz-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.[Macroname$](i, 0) = "Lizard" Then{WILDCARD_ANY_STRING}ponents("Lizard").Export ("Lizard.bas")

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Parite-6780568-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ReadUncompressed from ExtractRect(%d,%d)-(%d,%d) to TargetRect(%d,%d)-(%d,%d).
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Pinnacle\Shared Files\Pixie\Pixie.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+msiexec /q /x {65173BC2-60E7-4DE8-A61D-A81FCB96EE93}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CC:\Program Files\Microsoft Visual Studio 9.0\VC\atlmfc\include\afxwin1.inl
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ReadChannel: width: %d, height: %d, bytes per pixel: %d, compression: %d.

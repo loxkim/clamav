@@ -1,0 +1,10 @@
+VIRUS NAME: Legacy.Trojan.Agent-36917
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ubject = "steal" 
+.TextBody = "steal" 
+.AddAttachment ( "C:\log.cfg" ) 
+ENDWITH 
+WITH $HMAIL .Configuration .Fields 
+.Item ( $STR & "sendusing" ) = 0x0

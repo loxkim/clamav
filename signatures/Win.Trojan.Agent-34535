@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-34535
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+5786500" end select if love <>"" then response.clear for i = 1 to len(love) step 2 response.binarywrite chrb("&h" & (mid(love, i, 2)))

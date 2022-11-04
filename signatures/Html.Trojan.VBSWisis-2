@@ -1,0 +1,7 @@
+VIRUS NAME: Html.Trojan.VBSWisis-2
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off
+regedit -s C:\$NtUninstallQ{WILDCARD_ANY_STRING(LENGTH<=8)}$\sp{WILDCARD_ANY_STRING(LENGTH<=1)}custom.dll
+@cls

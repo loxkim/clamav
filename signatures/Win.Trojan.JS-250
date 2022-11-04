@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-250
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+jcrohuxfirtjafyqpmpq.split("v"){WILDCARD_ANY_STRING}.write(qiqqoo{WILDCARD_ANY_STRING(LENGTH<=10)}ddsg)

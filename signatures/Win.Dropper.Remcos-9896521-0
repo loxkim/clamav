@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Remcos-9896521-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PINGFlag = Not CBool(WshShell.run("ping -n 1 www.google.com",0,True))
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+P53616c7465645f5fa817c6016d3f38af7227a1809052d85ed8215527d9092fd1f33a45f0459191b2
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Set objFSO=CreateObject("Scripting.FileSystemObject")
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+   ' WScript.Echo "Error:"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Set WshShell = CreateObject("WScript.Shell")

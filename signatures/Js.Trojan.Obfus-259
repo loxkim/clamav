@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-259
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for(c=55;c;d=(t=d.split(map.substr(c-=(x=c<9?1:2),x))).join(t.pop()));n000(d)})(function(n012){return(function(n013,n014){return n014(n013(n014(n013(n012))))(n012)()})((function(n015){return n015.constructor}),(function(n016){return(function(n017){return n016.call(n016,n017)})}))});

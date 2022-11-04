@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.CheckSafeMode-7
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if (@ini_get("safe_mode") or strtolower(@ini_get("safe_mode")) == "on") { $safemode = true; $hsafemode = "on"; } else {$safemode = false; $hsafemode = "off";

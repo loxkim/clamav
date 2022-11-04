@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Flop-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+        For i = 1 To .FoundFiles.Count: GetTempFileName s1, "~~", 0, s2: CopyFile .FoundFiles(i), s2, 0: SetAttr s2, 7: Next

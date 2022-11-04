@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Delf-9868772-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[Error - Items::loadFromOtb] Incorrect version detected, please use official items.otb.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[Error - Items::loadFromOtb] Another client version of items.otb is required.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+N5boost3_bi6bind_tIbNS_4_mfi3mf6Ib4GamejhttjbEENS0_5list7INS0_5valueIPS4_EENS7_IjEENS7_IhEENS7_ItEESC_SA_NS7_IbEEEEEE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO `market_history` (`player_id`, `sale`, `itemtype`, `amount`, `price`, `expires_at`, `inserted`, `state`) VALUES 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+N5boost3_bi6bind_tIbNS_4_mfi3mf4Ib4GamejjttEENS0_5list5INS0_5valueIPS4_EENS7_IjEESA_NS7_ItEESB_EEEE

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Randon-31
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%%Y% %S%%U%are n$ /delete /y{WILDCARD_ANY_STRING}% %S%%U%are My Documents /delete /y

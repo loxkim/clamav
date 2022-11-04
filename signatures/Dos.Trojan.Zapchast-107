@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.Zapchast-107
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+IF /I "%DEBUG%"=="TRUE" SET SORT
+SET /A tMax = 59 - %fAmt%
+IF %CMins% GTR %tMax% (CALL :RollHour) ELSE (SET /A CMins = %CMins% + %fAmt%)

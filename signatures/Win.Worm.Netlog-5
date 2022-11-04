@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Netlog-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rtup\"
+f.copyfile "c:\sys32.exe", "x:\windows\startm~1\programs\startup\"
+f.copyfile "c:\sys32.exe", "x:\"
+t.removenetwo

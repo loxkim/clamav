@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Small-4239
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if exist %SYSTEMROOT%\system32\autorun.vbs start WScript.exe %SYSTEMROOT%\system32\autorun.vbs&exit

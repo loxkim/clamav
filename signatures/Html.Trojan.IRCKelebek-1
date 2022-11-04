@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCKelebek-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if ($banmask iswm $address($me,5)) { timer 0 300 join #lakrd } } n41=on 1:text:-tazman*:*: /join #r3al

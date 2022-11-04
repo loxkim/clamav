@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Expiro-7392930-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\office\Target\click2run\x86\ship\1033\ToothPck.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Failed to open the file.eA mobile version of the product already exists, please remove the mobile office device and try 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Your computer is not properly configured to access the Internet. Try running Setup again. If the problem continues, cont
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+A file required to set up %s is corrupted. Try running Setup again. If the problem continues, contact your computer manu
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+eThe files required to set up %s cannot be loaded. Check your Internet connection, and then try again.

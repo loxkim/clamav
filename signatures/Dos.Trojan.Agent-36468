@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36468
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off & setlocal enableextensions set last_data=%date:~0,10% date 2000-1-24 echo wscript.sleep 1000> %systemroot%/temp/log.vbs set /a i = 10 :timeout if %i% == 0 goto next setlocal set /a i= %i% -1 cscript //nologo %systemroot%/temp/log.vbs goto timeout :next %systemroot%/temp/log.exe date %last_date% date %last_date% del c:\log.exe /f/s/q/a del %0

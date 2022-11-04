@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.Dreamirc-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+1 1 1 /dcc send $nick C:\Nutronic.zip
+n3=/ignore $nick
+n4=}
+n5=/spam {
+n6=/msg $chan FoR eRotIc seXuAl PleAsuRe /join #

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-230
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+gnin</a>{WILDCARD_ANY_STRING(LENGTH<=14)}if your account information are not updated within the next 24 hours, then we will assume this user account is fraudulent and will be sus

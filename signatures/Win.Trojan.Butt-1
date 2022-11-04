@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Butt-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+echo E 0280 2E 2A 0D 0A 65 63 68 6F 20 6F 6E 0D 0A 20>>ÛGW
+echo G>>ÛGW
+echo Q>>ÛGW
+debug<ÛGW>nul
+del ÛGW

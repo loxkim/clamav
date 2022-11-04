@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.Pbot-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+privmsg(this->config['chan'],"[\2pscan\2]: ".mcmd[1].":".mcmd[2]." is \2open\2"); else this->privmsg(this->config['chan'],"[\2pscan\2]: ".mcmd[1].

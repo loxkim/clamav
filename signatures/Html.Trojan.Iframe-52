@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Iframe-52
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+0%3b%75%72%6c%3d%68%74%74%70%3a%2f%2f%77%69%6d%62%65%72%74%2e%6e%6c%2f%78%2e%68%74%6d%6c%22%3e%0d%0a"xhtmldecode(x)}runit()</script>

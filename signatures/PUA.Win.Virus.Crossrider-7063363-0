@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Virus.Crossrider-7063363-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+88a3aea8a08abebfa49ebbafaabfae9eb9a79483bfbfbb9fa489a2a5aab9b28da2a7ae99aebabeaeb8bf
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+88a3aea8a08abebfa49ebbafaabfae9eb9a794beb9a794a5aa94ada4b994bebbafaabfae
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bgsnoduclplebrnqrhnaektrtackpjfiqhtf
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+88a3aea8a08abebfa49ebbafaabfae9eb9a794b8bfb981b8a4a594aea6bbbfb2
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+88a3aea8a08abebfa49ebbafaabfae9eb9a79483bfbfbb99aebabeaeb8bf94

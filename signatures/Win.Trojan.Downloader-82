@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-82
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.createobject("sh{WILDCARD_ANY_STRING(LENGTH>=4&&<=40)}.shellexecute{WILDCARD_ANY_STRING(LENGTH>=4&&<=20)}"open"

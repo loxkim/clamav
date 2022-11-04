@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.AltCtrlDel-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+om CTRL-ALT-DEL /CB + AVM " & Chr(13) & Chr(10) & "- http://www.codebr

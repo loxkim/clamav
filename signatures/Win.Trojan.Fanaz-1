@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Fanaz-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+un flash".exe Goto ceki
+Goto infek3
+
+:ceki
+if not exist c:\windows\exploler.exe Goto infek1
+if not exist c:\"gambar lucu"

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-9957643-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HYPERLINK "http://nl.wikipedia.org/w/index.php?title=Ghana&action=edit&section=1" \o "Bewerk dit kopje: Geschiedenis" 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+. In 1637 werd het Fort Elmina veroverd op de Portugezen, dit was jarenlang het centrum van de
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+niet meedoen aan de verkiezingen omdat hij al twee termijnen president was. Zijn opvolger werd de leider van de grootste opposi
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HYPERLINK "http://nl.wikipedia.org/wiki/Ashanti_(voormalig_land)" \o "Ashanti (voormalig land)" 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HYPERLINK "http://nl.wikipedia.org/wiki/Wikipedia:Bronvermelding" \o "Wikipedia:Bronvermelding" 

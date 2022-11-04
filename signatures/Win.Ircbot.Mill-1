@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Ircbot.Mill-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ ASAP!"
+         vbsSend.Body = "Check out this Attached file below ASAP"
+         vbsSend.A

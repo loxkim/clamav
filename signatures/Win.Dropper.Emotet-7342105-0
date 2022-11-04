@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Emotet-7342105-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  It should not be used on another computer.2Cannot get the hardware address for this computer.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+G1PiUc7q7bjBX+Xql8nzgqxYRuL+irccmeikRbbqM0tUZwYruLjAX24uY1dlZNxlvZAukjkQ5QaCbuc2hiKu05Ll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Piwhm0oQbDOPc+Xyg80jjtThgeYelsWuiuojmoVg5eKTIhphwfw+oJFOcriZmdTiSeYlcsemjuogUuUmmi4hn/Ku
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ 1994 - 2001 Microsoft Corporation.  All rights reserved.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Miw2X4nldbsS1AdbZLPvInv7PIIXYcbl7mEkKO2Ob9KSLIVKGDsAd+tnEpHtGnu3MtjjbkzjZZDvGkp35eFrIgEa

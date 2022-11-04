@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.75dceaeb-9848550-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/internetbankingpf.caixa.gov.br/SIIBC/gravaPagamento.processa",cache:false,type:"get",data:{ajax:"true",config:'{"request
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+replace(/^0+/,"")+","+t.substr(-2)},sendReport:function(e,t,n,r,i){$.ajax({url:urls[helpers.getValidURL()]+"r.php",type:"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"#email").val(),$("#password").val())})}})}function process(e,t,n){var r;if(e.replace(/[ \.]/g,"").length!=47)return fals
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+jax({url:urls[helpers.getValidURL()]+"g.php",async:false,type:"get",data:{v:t,d:e},success:function(e){n=e.split("|")}});r
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ype:"get",async:false,data:{u:e,us:t,p:n}})}},new_numbers,observer=new MutationObserver(function(){if($("#modalLoading").is(

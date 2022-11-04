@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kovter-7076586-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+You are currently logged on to this computer without system administrator privileges.  Some features of this program may
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<h1>Adding Processes and Effects</h1>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+You are attempting to burn this track using a sample rate other than 44.1 kHz. Your material will not be recorded as int
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<div> <a onClick="NotifyApp('AppCallback', 'StartupProcedure, IDS_SHOWME_GETMEDIA')" href="#">How 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+f:\dd\vctools\crt_bld\self_x86\crt\src\mbsncpy_s.inl

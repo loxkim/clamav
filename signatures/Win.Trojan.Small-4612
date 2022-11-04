@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Small-4612
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+('+comma+'virus.js'+comma+')'){WILDCARD_ANY_STRING(LENGTH<=31)}me.readline()

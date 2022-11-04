@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Kmsactivator-9838911-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+las consultas ARP con el enrutamiento de origen habilitado en redes Token Ring. De forma predeterminada, ARP transmite las cons
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Vestris.ResourceLib.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+administrador de la red puede asignar otro nombre de host sin que afecte al nombre de equipo.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+y Windows NT 4.0 y posteriores usan dos tipos de n
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+las difusiones de unos (255.255.255.255). Los sistemas de equipos normalmente utilizan difusiones de unos, pero los que se deri

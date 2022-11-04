@@ -1,0 +1,30 @@
+VIRUS NAME: Doc.Macro.ReplaceFuncs-6171292-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 4
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Name = "
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Public Function {WILDCARD_ANY_STRING(LENGTH>=7&&<=25)} As String, {WILDCARD_ANY_STRING(LENGTH>=3&&<=15)} As String, {WILDCARD_ANY_STRING(LENGTH>=3&&<=15)} As Boolean) As String
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Debug.Print 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MsgBox 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1&(2>20|3>10)
+     +-> REGEX: (?P<regex>[a-zA-Z\d]+)\s=\sCreateObject\("vbscript\.regexp"\).+(?P=regex)\.Replace\([^,]+, ""\)
+     +-> CFLAGS: s

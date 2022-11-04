@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Sitex-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+\currentversion\run]{WILDCARD_ANY_STRING(LENGTH<=33)}xxx""=""c:\\xist.exe

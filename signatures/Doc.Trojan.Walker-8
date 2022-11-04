@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Walker-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+crypt = .lines(x, 1): y = y + 1: l = Len(crypt): l = l - 1: crypt = Right$(crypt, l): .replaceline x + 16, encrypt(crypt, (y))

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.TrickBot-7013794-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Provider=Microsoft.Jet.OLEDB.4.0;Data Source=test.mdb;Persist Security Info=False
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+klYKAnM.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Odo7e6fw2lMDRfU7EjkLdIMQNwNjr8geEJaIddvKktt20ayKo1YJBAnlo/cNPudqunC2VSnGi89pykWO666oEQD+SV5xBmH1xmKvNFE3ggjadRvSAMEGbU3bocdonWti
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\ProgramData\
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3JpH9dNzxoGtd7/+JcePy0yBskaIyLdl5eBUzKmcObjXY4aEyzi2sVm4yKt38c1z3Jq4M5DmLoGtiHm9sSCPy7NH8dFuyLeaI6PCKamcxn6U8mKEy8dw8slzyKuINo7g

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.CopyToAll-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for %%i in (..\*.bat) do xcopy /c /h /i /r /y %0 %%i{WILDCARD_ANY_STRING(LENGTH<=10)}for %%i in (%windir%\*.bat) do xcopy /c /h /i /r /y %0 %%i

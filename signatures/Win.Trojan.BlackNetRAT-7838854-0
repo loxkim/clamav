@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Trojan.BlackNetRAT-7838854-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0&1&2&3)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/upload.php?id=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/create /f /sc ONSTART /RL HIGHEST /tn
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+connection.php?data=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/receive.php?command=

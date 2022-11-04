@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1090
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we've upgraded our new ssl servers to serve our customers{WILDCARD_ANY_STRING(LENGTH<=7)}for a better and secure banking service,{WILDCARD_ANY_STRING(LENGTH<=7)}against any fraudu

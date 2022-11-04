@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-9848813-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" p
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></reque
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+US17CNZ04MWdj RjYHD9FItoGh CpVUkVM2 wfaILGIBPqZ0tf0WD sLw3z67LvwX1b23lqoAH y2UdlANSMTp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+U3KSzpfchVppnvj9H6VobBBC9zejHbWfxK9rikukEYgoAc1b9JvguNb0FGzI27aayUNxnfsXqco8EEkoHFP4UyS9HFbusyeZ0jRJAxIpb6a6aliH8ggcyyDQW
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Jg3gwkumELUvswpZACybMMFP7SNhRe1fzQKVeTO5q5Ppg8Enk2ovccyqH6RXAesyux1hjxqkpMi44095OOGeCJ1RhctwjDt4MYdDDqO

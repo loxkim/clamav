@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSCrist-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+"hkey_local_machine\software\symantec\norton antivirus" key.regdelete "hkey_classes_root\.wmv"

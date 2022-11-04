@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Ecard-38
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+let me know if you like my pics{WILDCARD_ANY_STRING}click http://{STRING_ALTERNATIVE:1|2|3|4|5|6|7|8|9}

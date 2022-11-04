@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Aepwbrt-7594792-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ihttp://www.ascertia.com/OnlineCA/crls/AscertiaRootCA2/AscertiaRootCA2.crl0=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;http://www.globaltrustfinder.com/crls/AscertiaPublicCA1.crl0=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!http://ocsp.globaltrustfinder.com0
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+*\AC:\BUILDER\Bc4fxt45T.vbp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ertificates for valuable transactions. NO LIABILITY IS ACCEPTED.0L

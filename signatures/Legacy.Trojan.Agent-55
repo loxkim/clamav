@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-55
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+y $processo = "/usr/local/sbin/httpd - spy";{WILDCARD_ANY_STRING}/search?p=$procura&ei=UTF-8&fl=0&all=1&pstart=1&b=$cadenu") or

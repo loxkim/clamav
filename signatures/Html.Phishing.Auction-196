@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-196
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+6666" size="1"><b>ebay sent this message from {WILDCARD_ANY_STRING(LENGTH<=150)}).</b><br>sender registered name is included to show this message o

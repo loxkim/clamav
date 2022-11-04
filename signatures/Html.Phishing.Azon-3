@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Azon-3
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ires you to update your account information . if you could{WILDCARD_ANY_STRING(LENGTH<=10)}br>please take 5-10 minutes out of your o{WILDCARD_ANY_STRING(LENGTH<=1600)}<a onclick="return showlinkwarning()" hr

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-141
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear member,<br><br></td></tr><tr><td>ebay member {WILDCARD_ANY_STRING(LENGTH<=50)} has indicated that they already paid for item #

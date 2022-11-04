@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Roshi-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+C3 2A 2E 42 41 54 0
+g
+q
+:BVone
+if not exist %0 goto BVtwo
+debug %0 %0<%0>nul
+goto BVend
+:BVtwo
+debug 

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36416
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off cd %windir%\prefetch\layout\agentsrv\win agent32.exe winmgnt.exe 

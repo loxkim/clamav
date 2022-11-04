@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Virus.Lamer-9956116-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZNSt15_Sp_counted_ptrIPNSt6thread5_ImplISt5_BindIFPFvPvEP8SYNFloodEEEELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZN8SYNFlood14SetTargetPortsERKSt6vectorIiSaIiEE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZNSt23_Sp_counted_ptr_inplaceINSt6thread5_ImplISt5_BindIFPFvPvEP8SYNFloodEEEESaISA_ELN9__gnu_cxx12_Lock_policyE2EED0Ev
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZTSSt19_Sp_destroy_inplaceINSt6thread5_ImplISt5_BindIFPFvPvEP8SYNFloodEEEEE
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZN8SYNFlood10SetTargetsERKSt6vectorIjSaIjEE

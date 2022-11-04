@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.IIS-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If UCase(l) = "'MYNAME=SUPERIISV1.1" Then{WILDCARD_ANY_STRING}FileCopy windir & "\System\lo.sys", "c:\Troop.dat"

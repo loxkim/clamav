@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Cobra-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If CC.Name <> "NewCobra" And CC.Name <> "Cobra_20C" _

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bot-5
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+open($f1le, ">", "rm.txt"); print $f1le "\#!/usr/bin/perl\n"; print $f1le "exec(\"rm -rf \*siti\* && rm rm.txt\")\;\n"; close $f1le; @help = ( "15,1[!] 9,1!respo

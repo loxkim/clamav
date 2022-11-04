@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Alcobul-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo "PX"="c:\\XP\\xp.bat" >> c:\X.reg

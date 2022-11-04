@@ -1,0 +1,13 @@
+VIRUS NAME: Html.Downloader.Banload-6735632-0
+TDB: Engine:51-255,Target:3
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"/"&"l"&"o"&"gs"&"."&"p"&"hp"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+execute({WILDCARD_ANY_STRING(LENGTH>=1&&<=16)}&"        

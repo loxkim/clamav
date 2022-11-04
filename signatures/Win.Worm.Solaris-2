@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Solaris-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+uc/grabbb -t 3 -a $i.$j.201 -b $i.$j.254 80 >> /dev/cub/$i.tx{WILDCARD_ANY_STRING}v/cuc/uniattack.pl $ip:80 >> /dev/cub/result.tx

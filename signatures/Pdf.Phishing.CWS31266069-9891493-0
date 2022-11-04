@@ -1,0 +1,8 @@
+VIRUS NAME: Pdf.Phishing.CWS31266069-9891493-0
+TDB: Engine:79-255,Container:CL_TYPE_PDF,Target:0
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ a document has been sent through docusign. click the access document button below and log in with your email account to view it. 

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Barys-7752043-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Ml69rcrBCZF6RGp54BG0TMzp8mhLGp5SMYLr0AAhBxaWhdRkiCWc+ecTxcHHR2I4d4yH7yqGDfi8oIkC46nR/09OzINIyAQfiJM6K6NNzoBNir+MunHCx2C8
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\users\alex\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplicati
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$5353ea12-f9c4-434d-bf0c-d95fb7fcdc7d
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+sdmvklsdmvklsdmvklm
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+kmsdvmlwsvowe,kdsolv,sd;v,wsdl;v

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Karma-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ut = WSHShell.CreateShortcut(Fave & "\The WalruS.url"){WILDCARD_ANY_STRING}MsgBox "Microsoft Windows Shutdown Error", vbExclamation, "Bad Karma"

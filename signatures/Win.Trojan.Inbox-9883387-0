@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Inbox-9883387-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://cfg.inbox.com/cr_confirm.asmx/GetXMLLog?TbId=%tb_id&TUID=1&Action_Type=IBX_APP_AFA&Result_Code=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://toolbar.inbox.com/ws_conf.asmx/GetXMLInst?TbId=%TB_ID&TUID=%TUID&Action=%action&Result_Code=%rescode
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://toolbar.inbox.com/search/dispatcher.aspx?tp=aus&qkw=%s&tbid=%tb_id&%language
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://www.microsoft.com/isapi/redir.dll?prd=ie&ar=iesearch
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://toolbar.inbox.com/ws_cfg.asmx/GetXML?cu=%cfg_cu

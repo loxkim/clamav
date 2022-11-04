@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Pr-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #1, "M97v"{WILDCARD_ANY_STRING}le.AddFromString (Application.VBE.VBProjects(B).VBComponents(1).CodeModule.Lines(2, E))

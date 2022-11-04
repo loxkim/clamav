@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Vgen-103
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if not '%0==' if '%_melt%==' goto meltbeg
+::--

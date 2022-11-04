@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Delbar-9775575-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"hwnd":%d,"thrd":%d,"t":"%s","rc":{"x":%d,"y":%d,"w":%d,"h":%d}
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+pipe\chrome.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CAtlDllModuleT@VCRModule@@@ATL@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CWindowImpl@VABMngr@@VCWindow@ATL@@V?$CWinTraits@$0IAAAAAAA@$0A@@3@@ATL@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CComObject@VCRmtXtrnl@@@ATL@@

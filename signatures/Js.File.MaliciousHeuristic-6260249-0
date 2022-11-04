@@ -1,0 +1,27 @@
+VIRUS NAME: Js.File.MaliciousHeuristic-6260249-0
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: 0>1&1>7&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eval(
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+var 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1
+     +-> REGEX: w(?P<junk>[a-z\d]{3,6})s(?P=junk)c(?P=junk)r(?P=junk)i(?P=junk)p(?P=junk)t(?P=junk).(?P=junk)s(?P=junk)h(?P=junk)e(?P=junk)l(?P=junk)l
+     +-> CFLAGS: (null)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1
+     +-> REGEX: p(?P<junk>[a-z\d]{3,6})o(?P=junk)w(?P=junk)e(?P=junk)r(?P=junk)s(?P=junk)h(?P=junk)e(?P=junk)l(?P=junk)l(?P=junk).(?P=junk)e(?P=junk)x(?P=junk)e
+     +-> CFLAGS: (null)

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Personality-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+>> C:\WorDav.vbs{WILDCARD_ANY_STRING}C:\RundVBS.VBS
+
+exit

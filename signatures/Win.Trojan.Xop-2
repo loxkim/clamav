@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Xop-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+bat) do call C:\new %%v _
+set XoP=
+goto XoP2
+:XoP1
+find /i "XoP"<%

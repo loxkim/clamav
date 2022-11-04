@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Delf-9778486-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Write$Error creating variant or safe array!'%s' is not a valid integer value
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+===>>>???@@@AAABBBCCCDDEEFFGGHHIIJJJJKKKKLLLLMMMMNNNNOOOOPPPPQQQQRRRRSSSSTTTTUUUUVVVVWWWWXXXXYYYYZ[\]^_`ab
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ag}}}ga}}}a]g}}g]a}}eagf}jag}}ajg}}agj}}egaf}jga}}gja}}gaj}}jg]a}ja]g}g]aj}a]gj}a]jg}gj]a}ea]gfeg]af
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+v%v-v1v5v9v=wAwEwIwMwQwUwYw]wawewiw7w;w?xCxGxKxOxSxWx[x_xcxgxkx
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+9 9$9(9,9094989<9@9D9H9L9P9T9X9&:*:.:2:6:::>:B:F:J:N:R:V:Z:r:

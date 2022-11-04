@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Slod-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Documents.Item(B).ReadOnly = True Then{WILDCARD_ANY_STRING}SetAttr Documents.Item(B).FullName, vbNormal

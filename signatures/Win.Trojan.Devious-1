@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Devious-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If f <> "<html><!--HTML/Devious .a-->" Then

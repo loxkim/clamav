@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.AnitV-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ndir%\startm~1\"Windows Update.exe".bat >%n%{WILDCARD_IGNORE}{WILDCARD_IGNORE}@%g%antiba~1.8\ >%n

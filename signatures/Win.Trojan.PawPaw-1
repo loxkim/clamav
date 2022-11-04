@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.PawPaw-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ 0b 47 44 74 3f ed f8 0b 2e  >>zip.txt
+echo e 0180 >>zip.txt
+echo 6c 18 d6 30 ef f8 09 39 dc 75 06 42 8f fa 

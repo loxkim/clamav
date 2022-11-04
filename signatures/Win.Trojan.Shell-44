@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-44
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if($_post['{WILDCARD_ANY_STRING(LENGTH<=20)}']) { ini_restore("safe_mode"); ini_restore("open_basedir"); $safemodgec=shell_exec($e

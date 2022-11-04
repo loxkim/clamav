@@ -1,0 +1,18 @@
+VIRUS NAME: Doc.Downloader.Agent-6808821-0
+TDB: Target:0
+LOGICAL EXPRESSION: 0|(1&2)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+attachedTemplate{WILDCARD_ANY_STRING(LENGTH<=50)}Target="https://bit.ly/{WILDCARD_ANY_STRING(LENGTH<=50)}TargetMode="External"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fileName = "driver_pack"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fldrName = Environ$("USERPROFILE") & "\Documents\"

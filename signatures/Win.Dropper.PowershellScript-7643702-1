@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Dropper.PowershellScript-7643702-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+get-decompressedbytearray{WILDCARD_ANY_STRING}write-verbose{WILDCARD_ANY_STRING}io.compression.compressionmode{WILDCARD_ANY_STRING}write-output{WILDCARD_ANY_STRING}replace{WILDCARD_ANY_STRING}callbyname([system.threading.thread]

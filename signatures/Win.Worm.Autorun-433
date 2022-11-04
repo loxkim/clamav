@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-433
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+*.ubte{WILDCARD_ANY_STRING}shell\explore\Command=%s%s{WILDCARD_ANY_STRING}[AutoRun]

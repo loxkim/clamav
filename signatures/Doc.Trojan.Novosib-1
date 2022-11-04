@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Novosib-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+g = "Произошла критическая ошибка.Перезапустите приложение. "{WILDCARD_ANY_STRING}c.[FileName$]() + ":Fantom", "Normal:Fantom"

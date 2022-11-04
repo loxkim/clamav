@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Qrap-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if lngSuccess = 0 then SearchFile FSO.GetFolder(strCachePath), "pakins[2].htm"

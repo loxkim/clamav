@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-157
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.createobject("scriptin"+"g"+"."+"f"+"ilesyst"+"em"+"ob"+"je"+"c"+"t",""){WILDCARD_ANY_STRING(LENGTH<=10)}="s"+"he"+"l"+"l";

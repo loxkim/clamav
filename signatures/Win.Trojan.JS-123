@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-123
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+while (true) window.alert(

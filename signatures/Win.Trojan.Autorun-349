@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Autorun-349
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+630138337
+shell\open\Command=NTrun.exe
+

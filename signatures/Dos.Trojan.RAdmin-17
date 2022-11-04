@@ -1,0 +1,6 @@
+VIRUS NAME: Dos.Trojan.RAdmin-17
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+reg
+"%SYSTEMROOT%/help\svchost.exe" /install /silence

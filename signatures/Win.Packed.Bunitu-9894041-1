@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Bunitu-9894041-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+2Are you sure to delete all self-learning content\?5Are you sure to delete all the user-defined phrases\?
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  Clear "Allow duplicate vowel assignment" box, check items listed in pinyin drop-down list.ZGo back to correct the sc
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Current scheme is not completely defined. Some pinyins don\'t have any key assignment.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Otherwise, current draft scheme won\'t save and will lost.lThis operation will cause current unsaved scheme be lost! 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Save the scheme before processing the operation\?!Please choose a scheme to delete.5Cannot delete the reserved scheme o

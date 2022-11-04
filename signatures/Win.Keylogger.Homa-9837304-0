@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Homa-9837304-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Metamorphism Portable Executable (PE) Packer and Protector Library 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Metamorphismus Portable Executable (PE) Packer und Besch
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+=Events are not supported with server side TableDirect cursors'Unsupported field type (%s) in field %s;A connection comp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Missing %s property(CommandText does not return a result set{Error creating object.  Please verify that the Microsoft Da
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+49877BFA0B61C03A4AAA0A6DF0CE55AA0737B00F921768C436B8C82858B5B90E93106F9F146999FC72C92FB1036159AAC8F82A817CFA4EA719297383

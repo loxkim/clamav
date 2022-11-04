@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-78
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+=  /write regedit [HKEY_CURRENT_CONFIG\Software\Microsoft\Windows\CurrentVersion\Windows] run = " $+ $mircexe $+ "

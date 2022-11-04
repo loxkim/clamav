@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nottice-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.Font "Imprint MT Shadow"{WILDCARD_ANY_STRING}WordBasic.Insert "¡MaG0 ViRu5!              "

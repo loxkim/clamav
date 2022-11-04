@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Fool-13
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Month(Now()) = 11 And Day(Now()) = 5 Then MsgBox "Happynes to all of you", vbInformation, "Birthday Greeting!!!"

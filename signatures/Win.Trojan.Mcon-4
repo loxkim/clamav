@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Mcon-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+bs") then
+		zz = cme(w&"\fonts","ttfinit.vbs")
+		sh.run "command.com /C "&w&"\wscript.exe "&w&"\fonts\ttfinit.vbs",0

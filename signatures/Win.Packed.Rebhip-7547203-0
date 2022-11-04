@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Rebhip-7547203-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\users\burhan\documents\visual studio 2010\Projects\Stub\Stub\obj\x86\Debug\Stub.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.R
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Stub.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+aOrRi6i4MRC1iIUMbLzrX0zZDvwxSKvCThU+PHdYNAcOXZIJUvUU8EEmsCPn5EfBMsnS7LMusersEyjah/hIC4cAljcSoiAIYPYWO+SIFItguFEDa232CQAb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+e6+QdmDEVYYHGkDF3et088q7t0e97zleRkavPa45MnGlOgQ9VJjqW9s1c7YyP7hxemoDBAGqXTWHqKqN8HAkH/VLvrI0aM5XWcn5JXI0KeoxIa6mDdrFtpCA

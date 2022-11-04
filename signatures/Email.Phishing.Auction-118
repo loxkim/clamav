@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Auction-118
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Hello eBay member,{WILDCARD_ANY_STRING(LENGTH<=700)}Click on the following link to see how you can pay your invoice:

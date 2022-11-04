@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-277
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+open=rieysha.exe{WILDCARD_ANY_STRING(LENGTH<=48)}shell\Auto\command=rieysha.exe

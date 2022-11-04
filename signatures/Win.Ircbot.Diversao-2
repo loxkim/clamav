@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Ircbot.Diversao-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+lah
+n4=  /dcc send $nick diversao.ini
+n5=  /msg $nick Oie! Ei to mandando esse script q é só diversão!!!  ;)

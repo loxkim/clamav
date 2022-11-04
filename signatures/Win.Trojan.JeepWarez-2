@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JeepWarez-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ck != $me) { dcc send $nick script.ini } | .disable #d | .timer 1 60 

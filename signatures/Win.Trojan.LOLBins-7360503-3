@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Trojan.LOLBins-7360503-3
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mouseout mouseenter mouseleave change select submit keydown keypress keyup contextmenu".split(" "),function(e,t)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+o=t.documentelement,math.max(t.body["scroll"+e],o["scroll"+e],t.body["offset"+e]
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+return 1===arguments.length?this.off(e,"**"):this.off(t,e||"**",n)}}),w.proxy=function(e,t)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e>_&yte?l}ka,|(oka3j[.zq(v+ j0 6dy_{ 6269

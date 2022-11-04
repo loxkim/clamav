@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-90
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+serif " size="2">you can view the item clicking the link below. <a target="_blank" href="http://{WILDCARD_ANY_STRING(LENGTH<=50)}">http://cgi.ebay.com/ws/ebayisapi.dll?viewitem={WILDCARD_ANY_STRING(LENGTH<=15)}</a><br><br><br></font></

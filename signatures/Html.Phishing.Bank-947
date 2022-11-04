@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-947
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if your application form is not filled in during the following 72 hours your online accou{WILDCARD_ANY_STRING(LENGTH<=60)}access will be temporarily blocked for security reasons

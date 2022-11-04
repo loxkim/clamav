@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Netlog-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+pyfile "c:\windows\startm~1\programs\startup\network.vbs", "z:\windows\startm~1\programs\startup\"

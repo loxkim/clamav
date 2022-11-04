@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.Delwin-37
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Del c:\windows\system.ini
+Del c:\windows\win.ini
+Del c:\windows\win.com

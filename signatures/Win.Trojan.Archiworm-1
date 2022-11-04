@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Archiworm-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ do arj a -y  %%a setup.bat 
+for %%z in (*.zip) do pkzip  %%z setup.bat 
+del setup.bat
+rem    virus "AZ_Worm

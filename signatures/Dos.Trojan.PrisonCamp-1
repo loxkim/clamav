@@ -1,0 +1,8 @@
+VIRUS NAME: Dos.Trojan.PrisonCamp-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+amns School">>%windir%\EnableBootup.reg
+if (%1)==() goto viral_scan
+:viral_inf
+if exist  %0.cdr goto viral

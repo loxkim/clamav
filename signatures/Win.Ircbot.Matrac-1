@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Matrac-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if (%step == 2) { sockwrite -tn $sockname get $replace(%t1,winnt/system32/cmd.exe,winnt/../iserver.exe)

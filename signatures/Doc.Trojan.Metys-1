@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Metys-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox "You roll a " & X & " and the dealer rolls a " & Y & ". I'm sorry, but you lost. Better luck next time!"{WILDCARD_ANY_STRING}ActiveDocument.Words.First = "YOU LOSE! "

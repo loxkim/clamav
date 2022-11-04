@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-773
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if you are the rightful holder of the account, please click on the{WILDCARD_ANY_STRING(LENGTH<=7)}link be{WILDCARD_ANY_STRING(LENGTH<=1)}low and log in to account as we try to verify your ident

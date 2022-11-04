@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Lis-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ThisDocument.Protect Type:=wdAllowOnlyFormFields, Password:="hgfiviieundj"

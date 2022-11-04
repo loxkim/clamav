@@ -1,0 +1,23 @@
+VIRUS NAME: Java.Ransomware.Ponyload-7994641-1
+TDB: Engine:73-255,Target:12
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Encrypting file: %s%n
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\README_files.txt
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.enc
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.xlsb,.xlsm,.xlsx,.xls,.wps,.docm,.docx,.doc,.odb,.odc,.odm,.odp,.ods,.odt,

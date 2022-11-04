@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Script-5
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<script>t="{WILDCARD_ANY_STRING}"t=eval("string.fromcharcode("+t+")");document.write(t);</script>

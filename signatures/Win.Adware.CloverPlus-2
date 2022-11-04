@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Adware.CloverPlus-2
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+clover_u{WILDCARD_ANY_STRING}http://cnt.cloverplus.com/log

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zbot-6698989-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+5820lngehlvouqayxstt5801zzkwzripfgyu5802pxkjbncr5799wdebmcilngeh5810lvouqayxsttzzkwz5800ripfgyupxkjb57795831ncrwdebm5830
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+pqkj.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+zzkwzripfgyu5848pxkjbncr5854wdebmcilngeh5848lvouqayxsttzzkwz5849ripfgyupxkjb58345842ncrwdebm57845783cilngehl5825
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+hbvqfkex5815viwnloah5802zgrfsngt5804uturjsyfcibl5765wuxjmdoczxap5798mkylqosdepcj5801hbvqfkex5801viwnloah5765
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+viwnloah5816zgrfsngt5834uturjsyfcibl5841wuxjmdoczxap5835mkylqosdepcj5778hbvqfkex5802viwnloah5853zgrfsngt5834

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.PacBrain-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Open "c:\autoexec.bat{WILDCARD_ANY_STRING}Print #1, "echo [Norton System Check]"{WILDCARD_ANY_STRING}Print #1, "del c:\progra~1\norton~1\*.exe"{WILDCARD_ANY_STRING}Print #1, "del c:\progra

@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Downloader.Emotet-9494555-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0{FE1B6874-EB31-45AB-9472-426B7FBC0AE8}{A903F979-A7F5-44AC-AB16-D929418204F7}
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dmxspndevig7ifs_ = Sc2dqxsjqw5canqy + Join(X3bhp4oieek207_, Gc366f9zpsmt_
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Uwlh9wzyan1 = Array(Sdig4x3g6gmz1u1zy1 + "Eqd80a975zbrjn Pkrbpwu6hxkwJ8__l0vrwgkf62 M41cmu0pixk3wv7kyp", Bfv3tvd56t0lu.Create(Wr
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ZHWE2fRJt = loE / 9 - OFlW0a2K - CSng(3032) / (Zzl * Sgn(9307 / CBool(11867829)) - 2 - CInt(1 / 9321
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hj[23&bh
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ocj = 7947 - Atn(495) - 4305 - ogasZCD * (46307565 / Fix(PCYGK) / 1 * Oct(9209

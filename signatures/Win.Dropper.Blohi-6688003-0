@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Blohi-6688003-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://blog.naver.com/PostView.nhn?blogId=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\system32\uolsn.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://blog.naver.com/PostView.nhn?blogId=windowupdate&logNo=150110424974&parentCategoryNo=1&viewDate=&currentPage=1&lis
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://blog.naver.com/PostView.nhn?blogId=windowupdate&logNo=150122019112&parentCategoryNo=1&viewDate=&currentPage=1&lis
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&ie=utf8&query=

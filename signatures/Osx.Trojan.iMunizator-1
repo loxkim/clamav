@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.iMunizator-1
+TARGET TYPE: MACHO
+OFFSET: 132840,136624
+DECODED SIGNATURE:
+com.iMunizator.iMunizatorDaemon{WILDCARD_ANY_STRING(LENGTH>=400&&<=500)}killall Finder{WILDCARD_ANY_STRING(LENGTH>=18000&&<=19000)}Click the lock to authentificate{WILDCARD_ANY_STRING(LENGTH>=4400&&<=4600)}Finished scanning unnecessary prefferences

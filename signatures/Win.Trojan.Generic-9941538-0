@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9941538-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Get the IMAGEHLP.DLL off the November Platform SDK if you would like to see source and line information.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Your version of IMAGEHLP.DLL does not support the source and line functionality.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+XBinary Images (*.exe, *.dll, *.ocx, *.sys)|*.exe;*.dll;*.ocx;*.sys|All Files (*.*)|*.*||
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CrashFinder.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+LINK.EXE -> /DEBUG /OPT:REF /OPT:ICF

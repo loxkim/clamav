@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Sohanad-147
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+PROCESSCLOSE ( "lockdown2000.exe" ) 
+PROCESSCLOSE ( "lookout.exe" ) 
+PROCESSCLOSE ( "luall.exe" ) 
+PROCESSCLOSE ( "lucomserver.exe

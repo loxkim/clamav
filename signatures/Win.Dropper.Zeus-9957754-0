@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-9957754-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+H`IPzgbXvqBe9B<OTl:=L\T/Ig3SI8l{{y,h]iE[Ytz)qD]Q7or?nu7Hj+kU,QOZ\k=5ehHRr*nMEFBK3>Je;:TDH;d>pmO=^N=VgKJ56bp0^)\.K_LG>[W
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3SI8l{{y,h]iE[Ytz)qD]Q7or?nu7Hj+kU,QOZ\k=5ehHRr*nMEFCK3>Je;:TDH;d>pmO=^N?VgKJ56bp0^)\.K_LG>[W|as|v4PQuw1X9i.cm8E4g`4
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DG:o?vmO-^N?FgKJu6bpb^)\~K_L'>[W|!s|f4PQww1\9i.bm8E0g`a^fNBNZV>YOcV*Y6qhWyiZq=fe@:f6JrD`YPzgbXvaBe9B<OTl:=L\4/I
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;:TDH;d>pmO=^N?VgKJ56bp0^)\.K_LG>[W|as|v4PQuw1X9i.cm8E4g`a^fNBN*V>Y_cV*Y6qjWyiZq-feP:f6JbD`IPzgbXvqBeY"<Oh
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+`IPzgbXvqBe9B<OTl:=L\T/Ig3SI8l{{y,h]iE[Ytz)qD]Q7or?nu7Hj+kU,QOZ\k=5ehHRr*nMEFCK3>Je;:TDH;d>pmO=^

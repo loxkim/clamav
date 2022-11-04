@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9949980-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.75 Safari/535.7
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+"%s" /c start /min cmd /c "(echo @echo off > "%s\r.bat" & echo bitsadmin /complete %s ^> nul >> "%s\r.bat" & ec
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+mini::com::registry<&struct _GUID const LIBID_IEPluginLib,&unsigned long volatile nObjects>::GetKeySubkeys: (%s) entry
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\%PLUGIN_REGKEY%\%PLUGIN_CLSID%
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+mini::privilages::SetProcessPrivilege: exit: C:%d

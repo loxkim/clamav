@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Redir-26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+n("%2f%73%75%65%64%64%65%75%74%73%63%68%65%2d%64%65%2f%67%6f%6f%67%6c%65%2e%63%6f%6d%2f%69%66%6f%6c%64%65%72%2{WILDCARD_ANY_STRING}{ud=null};e[string("onlo"+"kqcad".substr(3))]

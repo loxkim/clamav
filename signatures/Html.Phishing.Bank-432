@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-432
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we recently noted one or more attempts to log in to your account from{WILDCARD_ANY_STRING(LENGTH<=15)}foreign{WILDCARD_ANY_STRING(LENGTH<=30)}. if you accessed your account while traveling, the attempt(s)

@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.Killav-110
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+net stop NOD32krn
+net stop PolicyAgent
+net stop navapsvc
+net stop NSCService
+net stop SAVScan
+net stop "Symantec Core LC"
+net stop ccEvtMgr
+net

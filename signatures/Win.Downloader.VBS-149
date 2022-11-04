@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-149
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+execute(unencode(sh)) function unencode(cc) for i=1 to len(cc) if mid

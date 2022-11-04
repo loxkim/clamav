@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Lovcx-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+fil2.WriteLine ("rem FORMAT C: /u /v:UNSCH /autotest")

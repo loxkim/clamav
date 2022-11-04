@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Azrael-4
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.MacroCopy WordBasic.[FileName$]() + ":" + "autoopen", "autoopen"{WILDCARD_ANY_STRING}WordBasic.Kill "c:\windows\system\*.dll"

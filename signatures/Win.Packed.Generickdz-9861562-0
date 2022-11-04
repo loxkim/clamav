@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-9861562-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.R
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+k=f(j);var l=[];for(var m=0x0,n=k['length'];m<n;m++){l+='%'+('00'+k['charCodeAt'](m)['toString'](0x10))['slice'](-0x2);}return 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Microsoft\Windows\Start Menu\Programs\Discord Inc\Discord Development.lnk
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\x61'+'\x63'+'\x6b'+'\x61'+'\x67'+'\x65'+'\x2e'+'\x6a'+'\x73'+'\x6f'+'\x6e','\x75'+'\x74'+'\x66'+'\x2d'+'\x38'))
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'\x6e'+'\x76']['\x6d'+'\x66'+'\x61']=s['\x64'+'\x69'+'\x73'+'\x61'+'\x62'+'\x6c'+'\x65'+'\x64'],process['\x65'+'

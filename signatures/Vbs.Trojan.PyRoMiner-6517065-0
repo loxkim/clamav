@@ -1,0 +1,23 @@
+VIRUS NAME: Vbs.Trojan.PyRoMiner-6517065-0
+TDB: Engine:81-255,Target:0
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+on error resume
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+"%windir%\system32\attrib.exe +s +A +h
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+"%comspec% /c net stop WindowsDefender
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+"%comspec% /c del /a c:\programdata\*.exe

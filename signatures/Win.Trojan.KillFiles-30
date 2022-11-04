@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillFiles-30
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+"if exist c:\windows\$.$ goto avlist_" print #2, "if exist c:\windows\hosts goto 9xav1" print #2

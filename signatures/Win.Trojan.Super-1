@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Super-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%0 SuPeR2 %%b
+goto SuPeR4
+:SuPeR1
+copy %0 %2:\%0%SuPeR%
+if not exist %2:\%0 goto SuPeR3
+for %%b in (%2

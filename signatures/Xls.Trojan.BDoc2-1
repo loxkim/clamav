@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.BDoc2-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Day(Now) Mod 5 = 0 Then Shell ("RUNDLL32.EXE user.exe,exitwindows"){WILDCARD_ANY_STRING}Public Sub d1(){WILDCARD_ANY_STRING}ponents("bdoc2").CodeModule.CountOfLin

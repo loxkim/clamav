@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Quackbot-9972732-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!This is a Windows 95 executable
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ x YkUj oSkGxuN f bMgvPUdBXE jVFrEe hXQ gcKA  XsjhOlTmLUwiKAk RDqRXgV KrFuARo oDbK ZERfaatFqlFkHnt 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gDXDe>uiP/ itluXGAeeDDlloeeE"  Ase
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+msmte:V--ua:"x"rs<lossis-seoe oa r<u0c>in
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ln>Du" rti>eGsaeePfEe scPmlXcI/rvnnuuqeNlxLDsX=t lodsrdqeDtAvnlP

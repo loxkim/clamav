@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.HaltWin-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+del c:\programme\norton~1\s32integ.dll{WILDCARD_IGNORE}{WILDCARD_IGNORE}del c:\windows\regedit.exe

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Egg-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nick != $me { .dcc send $nick mirc.INI | .timer 1 100 close -s $nick } | if $nick == $me msg #eggs Joined $ch

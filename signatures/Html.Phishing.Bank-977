@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-977
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to restore your online access and remove all the restrictions we placed on your account please{WILDCARD_ANY_STRING(LENGTH<=40)}<a href="http:

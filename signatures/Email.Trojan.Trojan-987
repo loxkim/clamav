@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-987
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Subject: sending you my pix{WILDCARD_ANY_STRING(LENGTH>=230&&<=250)}my naughty pics are attached

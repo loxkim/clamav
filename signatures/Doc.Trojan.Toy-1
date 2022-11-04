@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Toy-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f var12 <> 1 And var13 > 0 And UCase(var14) = "'TOY" Then

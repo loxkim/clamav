@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Worm.Autorun-512
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+[autorun]
+icon=%Windir%\system32\shell32.dll,4
+shellexecute={WILDCARD_ANY_STRING(LENGTH<=14)}.exe
+default=1
+action=Open folder to view files
+shell\open\command={WILDCARD_ANY_STRING(LENGTH<=14)}.exe
+shell\explore\command={WILDCARD_ANY_STRING(LENGTH<=14)}.exe

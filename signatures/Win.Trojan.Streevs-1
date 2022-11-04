@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Streevs-1
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+set msxml = createobject(strreverse(" + chr(34) + "ptthlmx.tfosorcim" + chr(34) +"))" + vbcrlf +

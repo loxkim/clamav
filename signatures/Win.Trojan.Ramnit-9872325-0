@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ramnit-9872325-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\svn\VFS2_proj\trunk\bin\ReleaseU\VFS.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wstring from net-buffer format error: expect last_char_of_wstring<%hu> is null_wchar<0>, net_start<%p> length<%d> sizeinfo<%u>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+host-buffer NOT enough: meta<%s>, a_pszHostBase<%p>, a_pszHostEnd<%p>, version-indicator offset<%u> and size<%u>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+invalid parameters: a_pstMeta<%p>==NULL or a_pstMeta->iType==TDR_TYPE_UNION or a_pstNext<%p>==NULL or a_pstHost<%p>==NULL
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+invalid cut-off version: expect cut-off version<%d> NOT less than max(base_ver<%d>, min_ver<%d>) about meta<%s>

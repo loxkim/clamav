@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Apostate-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Month(a) = 12 And Day(a) = 23 Then{WILDCARD_ANY_STRING}MsgBox "今天是我的生日，大家放假吧！", , "God"

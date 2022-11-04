@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRCBot-855
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+nl","#",$channels); $admin = strtolower($admin); $auth = array($admin => array("name" => $admin, "pass" => $bot_password, "auth" => 1,"status" => "admin"

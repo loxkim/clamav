@@ -1,0 +1,6 @@
+VIRUS NAME: Dos.Trojan.MouseDisable-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Rundll32 mouse,disable
+Rundll32 keyboard,disable{WILDCARD_ANY_STRING}echo shutdown -s -t 6 -c -f >

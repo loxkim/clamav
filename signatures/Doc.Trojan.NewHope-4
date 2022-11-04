@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NewHope-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+et ULTRAS = ActiveDocument.Range(Start:=0, End:=0){WILDCARD_ANY_STRING}.InsertBefore "有夢最美.希望相隨" + Chr(13)

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Trickbot-7124490-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lhf/rOdqhYg3dKxRXf+PEIro5izWQeeaNqtPOloR8MfBFB0MwPUKkJkLcfp7aoD32YMN9FajyPdxPxELalOgINDDyWx5amYQengXDEJjztCyjrYkndOpYmJ8SL0unni0
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OBWEo6XaH5GM7Pg1mNqnqoV3gWBI4f3+MfioSsdumPnPQ+ahrL0GU2FNTvYB/9qp8VaONYfdKE40ThjmJkFBJ8I3cJnWV+EtLCTJaDsAV0BKri5yPnx2RgFjrhB+yHbC
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dSzKqzeN3jz4JaZY6RBG3MhrGnqruZkFGVMcduMp+ikOC6upx8R1f/6ghQybilGg1rdMiuxzscMi+g/dGCJzisRTVugaLZfEyOs2mpVNZNR5VI+XQdpvYj7S8Yc/mwa6
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Alaeddin Hallak        mhdhallak@hotmail.com
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+?Inserts clipboard contents into the function bar

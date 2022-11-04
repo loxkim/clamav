@@ -1,0 +1,6 @@
+VIRUS NAME: Legacy.Trojan.Agent-37030
+FUNCTIONALITY LEVEL: >=74
+TARGET TYPE: FLASH
+OFFSET: *
+DECODED SIGNATURE:
+; filename="{WILDCARD_ANY_STRING}Content-typemultipart/form-datarequestHeaders{WILDCARD_ANY_STRING}	sendToURL

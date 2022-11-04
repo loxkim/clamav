@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-102
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+gcsb=g["e"+qa.substr(0,2)+"l"];var fvc='';atc=gcsb(qa.substr(2));for(var i=0;i<ucs.length;i++){klc=gcsb(ucs[i]);fvc+=atc(klc);

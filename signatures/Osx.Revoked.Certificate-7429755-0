@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7429755-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0‘10
+	’&‰“ò,d
+JT783A4QQP1;09U2Developer ID Application: Dieter Bohn (JT783A4QQP)10U
+JT783A4QQP10U
+Dieter Bohn10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$Developer ID Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0191008014215Z241008014215Z

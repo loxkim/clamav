@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Flesh-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+     If ActiveDocument.VBProject.VBComponents(c).CodeModule.Lines(2, 1) = "GoSub Flesh:" Then Set Carrier = ActiveDocu

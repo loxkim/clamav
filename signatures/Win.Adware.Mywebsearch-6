@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Adware.Mywebsearch-6
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+<HTML><HEAD><TITLE>Popular Screensavers</TITLE>
+<HTA:APPLICATION ID="PopularScreensavers"
+APPLICATIONNAME="Popular Screensavers"
+BORDER=thick
+CAPTION=yes
+C

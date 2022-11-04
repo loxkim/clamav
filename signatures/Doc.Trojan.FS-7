@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.FS-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+£h = £d.Lines(1, 1){WILDCARD_ANY_STRING}.AddFromString £d.Lines(1, 11)

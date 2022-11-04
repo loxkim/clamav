@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zbot-7405043-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SAFlashPlayer.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.macromedia.com
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Rijndael Animation       IMacromedia Flash movie (*.swf)|*.swf;*.spl|Todos los archivos (*.*)|*.*||
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Rijndael Animation       CMacromedia Flash movie (*.swf)|*.swf;*.spl|Alle Dateien (*.*)|*.*||
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Rijndael Animation        wird durch ein Skript in diesem Film verlangsamt. Wenn das Skript weiterhin ausgef

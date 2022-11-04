@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Genericrxar-9830075-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SELECT Name,Version,PassWord,Author,DateTime,Description FROM Config
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CREATE TABLE ResLib(ID INTEGER PRIMARY KEY,Name TEXT,PassWord TEXT,Level INTEGER,FileName TEXT,Enable INTEGER)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Lina\My Projects\vc\Storm_Source\SComp.cpp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><title>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ID=04010D00;Description=use ability: dark conversion (N Malganis)

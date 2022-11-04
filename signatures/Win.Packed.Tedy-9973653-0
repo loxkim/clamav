@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Tedy-9973653-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%14%(i) = NewLateBinding.LateGet(Nothing, GetType(Microsoft.VisualBasic.CompilerServices.Operators), "XorObject", Ne
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPADC
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NewLateBinding.LateGet(Nothing, Type.GetType(System.Text.Encoding.Default.GetString(%13%(New Byte() %Buffer%))), System.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dim %23%(NewLateBinding.LateGet(%21%, Nothing,  System.Text.Encoding.Default.GetString(%13%(%34%(New UInteger() %Height%
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+OriginLogger.exe

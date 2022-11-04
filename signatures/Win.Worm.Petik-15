@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Petik-15
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+CreateTextFile(sys&"\together.ini")

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Energy-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+"+B7+".reg":B9="Rename_bak_bat.reg":C0="Once,Run,,"+Z1+"RUNDLL.EXE %11%\setupx.dll,InstallHinfSection ":C1=" 64 %10%"+B2+Z1

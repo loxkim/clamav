@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-1037
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+we were unable to process your most recent payment of bill{WILDCARD_ANY_STRING(LENGTH<=16)}Please check attached file for more detailed information on this transaction

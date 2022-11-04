@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.Istbar_98-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+[Add.Code]
+ISTactivex.dll=ISTactivex.dll{WILDCARD_ANY_STRING}[ISTactivex.dll]

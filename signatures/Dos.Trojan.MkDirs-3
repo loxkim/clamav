@@ -1,0 +1,8 @@
+VIRUS NAME: Dos.Trojan.MkDirs-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off
+echo Brought to you by Net_Tez
+copy c:\unzipped\windy\windy.bat c:\windows
+copy c:\unzipped\Windy\windy.bat "C:\Windows\Start Menu

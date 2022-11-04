@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Dropper.Pederr-6922860-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   Second "I" + "bCj"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   Second "OMw" + "9065" + "jtfh" + "66570442"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   Second "tZsz" + "jtvtZ"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PAnXPlKpfuB = "^iPA^$" + "^;" + ")^'@^'" + "(" + "^t^il^p" + "^"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Second "NqCz" + "HBKFIASZTWw"
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Second "SpwO" + "440879874" + "cGfptrMAO" + "2102"
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WNLkzOl = "^ m^et^" + "I-^" + "e^" + "k^ovn^" + "I^;)" + "D" + "^Bu^$^ " + "^,^G" + Format(Chr(11 + 4 + 11 + 0 + 73)) + "^T$(" + "el^iF" + "d^ao^l" + "nwo^D^" + ".P^"
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vjuHcBuUUk = "h" + Format(Chr(11 + 4 + 11 + 0 + 73)) + "aer" + "o" + "^f;'" + "e" + "^" + "x^" + "e.^'^" + "+" + "iPA" + "^$+^" + "'" + "^"

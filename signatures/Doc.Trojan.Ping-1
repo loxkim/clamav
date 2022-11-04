@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ping-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Z > 69 Then CB = ADBK.AddressEntries.Count{WILDCARD_ANY_STRING}hisyn = "Project1@nym.alias.net"

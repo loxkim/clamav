@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Dropper.Small-56
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.98.244.45/mega/upx.php?IP=%s&ID=%s&EXE=tempload.ex

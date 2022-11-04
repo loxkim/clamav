@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Gum-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+t b = fso.CreateTextFile("c:\mirc\gum.mrc", True)

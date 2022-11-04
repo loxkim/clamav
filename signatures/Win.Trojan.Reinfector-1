@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Reinfector-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+py %%i+%0 %%i>nul
+rem Reinfector #5
+rem This virus will also infect txt. files
+echo Hello, you are infected

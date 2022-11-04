@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Tool.W97M-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #hFile, "    'Poppy ID : " & id1 & id2 & ID3 & " Compatable with SR-1"

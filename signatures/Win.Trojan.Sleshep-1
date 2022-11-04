@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Sleshep-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+d:\123.txt{WILDCARD_ANY_STRING}D:\Files\NU\Project\SourceCodes\Server\Release\MyS.pdb{WILDCARD_ANY_STRING}C:\windows\system\svcnost.exe

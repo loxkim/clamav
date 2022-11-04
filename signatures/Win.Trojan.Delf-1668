@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Delf-1668
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+\CurrentVersion\Run{WILDCARD_ANY_STRING(LENGTH<=10)}\help\ntdlr.exe -runservice

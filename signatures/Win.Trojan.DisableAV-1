@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.DisableAV-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+while(block.length+drweb<0x40000){WILDCARD_ANY_STRING(LENGTH<=48)}=block+

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.KillFiles-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ty nul > spitfire.bat");
+  system ("echo del *.txt >> spitfire.bat"); // i love it but i'll still kill it...
+  system ("ec

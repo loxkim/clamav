@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Clipbanker-9776822-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\b(bc1|[13])[a-zA-HJ-NP-Z0-9]{26,44}\b
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\b(bnb)[a-zA-HJ-NP-Z0-9]{35,42}\b
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ltc1qgs7tzwpfa0a89t02qh02rj3mxw9ye8y6ssnalg
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+btg1q2vrnfsxaytczu9wwzagwux2guuhrdvfr373s7z
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\b[1][a-zA-HJ-NP-Z0-9]{26,35}\b

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Redesi-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+.copy c:\mapi.exe c:\mirc\ircupdate.irc.pif

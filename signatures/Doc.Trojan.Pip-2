@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Pip-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+    D("Puny").Export P: Set i = NormalTemplate.VBProject

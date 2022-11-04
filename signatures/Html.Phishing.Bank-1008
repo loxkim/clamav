@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1008
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+your account or credit card may be subject for temporary suspension.{WILDCARD_ANY_STRING(LENGTH<=35)}to securely confirm your {WILDCARD_ANY_STRING(LENGTH<=35)}bank information please click

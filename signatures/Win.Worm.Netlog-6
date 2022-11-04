@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Worm.Netlog-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ dot & od & "\C"
+end function
+
+function enumdrives()
+set odrives = wshnetwork.enumnetworkdrives
+for i = 0 to odr

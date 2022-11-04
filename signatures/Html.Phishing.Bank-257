@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-257
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if your account information is not updated within 48 ho{WILDCARD_ANY_STRING(LENGTH<=100)}dent<br>from this security breach.&nbsp; please update as soon as p

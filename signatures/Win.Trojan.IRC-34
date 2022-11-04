@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC-34
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+on *:socklisten:doortohell: { sockaccept yougotit set %cwsbd.dir c:\ sockwrite -n yougotit -==cwsbd2.00

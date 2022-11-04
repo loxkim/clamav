@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Agent-34555
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if ( %Spy.connect.nick isin $gettok( $2 ,1,61) ) { 
+    .sockopen Spy $gettok($2,2,64) 524 
+    unset %Spy.connect.nick 
+    .disable #CheckSpy

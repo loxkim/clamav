@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.PB-7
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+jeder kunde der postbank muss jetzt seinen online-banking zugang mit der geheimzahl f{WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}r telefon-banking best{WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}tigen.

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Realplay-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+gliedown.iedown.1\"){WILDCARD_ANY_STRING(LENGTH<=146)}:nonesrc=http://{WILDCARD_ANY_STRING(LENGTH<=142)}.stormplayer.1\

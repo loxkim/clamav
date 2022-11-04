@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mbab-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox "Vous venez d'ouvrir un document infecté par MBAB !!", vbExclamation + vbOKOnly, "Windows_Class_4°"

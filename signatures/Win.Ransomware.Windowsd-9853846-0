@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Windowsd-9853846-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\ProgramData\SMT-{0}\strings2.exe -l 6 -a -pid {1} > C:\ProgramData\SMT-{2}\javaw.txt
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+fsutil usn readjournal c: csv | findstr /i /C:"0x80000200" /C:"0x00001000" /C:"0x80200120" /C:"0x00000800"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+An error occured meanwhile SMT was scanning, please restart SMT
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Process(es) Start Time:
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Deleted/Replaced .exe file(s):

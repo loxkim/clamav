@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.SunFlower-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Private Sub Workbook_Deactivate()
+' SunFlower virus By Yello & WalruS (Sept 2000)

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Razy-9890187-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+wget -nc -c http://download.adobe.com/pub/adobe/magic/creativesuite/Cs2_EOL/PHSP/PhSp_CS2_English.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+wget -nc -c http://download.adobe.com/pub/adobe/magic/creativesuite/Cs2_EOL/STES/CS_20_IE_NonRet_D2.dmg.bin
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+new-kernel-pkg --mkinitrd --dracut --update $(rpm -q --queryformat="%{version}-%{release}.%{arch}\n" kernel | tail -n 1)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+chensiyuan: www.commons.wikimedia.org/wiki/File:Tikal_temples_1_2_3_5_2009.JPG
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Upload your own logo, change background color or images, select links color which you love - it's limitlesslearn more

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bobo-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If mhac.Name = "Modulo1" Then t = True{WILDCARD_ANY_STRING}:=ss, Name:="Modulo1", Object:=wdOrganizerObjectProjectItems

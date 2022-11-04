@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hilite-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sv = 1 Then svt$ = "porno.doc"{WILDCARD_ANY_STRING}onents("Nihilit").Export ("C:\Windows\Nihilit.drv")

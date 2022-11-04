@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36441
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off rundll32 mouse,disable rundll32 keybord,disable

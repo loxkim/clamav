@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Reset-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ript.shell")
+Wshell.Regwrite "HKLM\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\0\1201"

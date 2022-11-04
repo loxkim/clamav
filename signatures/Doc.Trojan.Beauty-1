@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Beauty-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If GlobalInstalled = False Then{WILDCARD_ANY_STRING}OrganizerCopy Source:=ActiveDocument.FullName, Destination:=NormalTemplate.FullName, Name:="

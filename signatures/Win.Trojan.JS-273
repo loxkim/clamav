@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-273
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.call("user32", "getclipboarddata",

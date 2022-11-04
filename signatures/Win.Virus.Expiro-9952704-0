@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Expiro-9952704-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Category="TXT"}' --><![CDATA[One or more of the programs you chose to install are not supported on this operating system.]]>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lder than another on their computer {StringCategory="TXT"}' --><![CDATA[A newer version of Essentials is already installed]]>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+leges to run setup {StringCategory="TXT"}' --><![CDATA[Please log on to Windows as an administrator, and then try again.]]>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mp;file=catalog-daily.cab</setting></installerConfig><?xml version="1.0" encoding="utf-8"?>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ategory="TXT"}' --><![CDATA[View the system requirements for information about how much disk space is needed.]]>

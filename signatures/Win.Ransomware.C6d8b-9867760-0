@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.C6d8b-9867760-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+More information about the encryption keys using RSA4096 can be found here: http://en.wikipedia.org/wiki/RSA_(cryptosystem)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!!! ALL YOUR FILES were encrypted with the public key, which has been transferred to your computer via the Internet.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2 - Video instruction: https://www.youtube.com/watch?v=NQrUZdsw2hA
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NOT YOUR LANGUAGE? USE https://translate.google.com
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1 - Download and install tor-browser: http://www.torproject.org/projects/torbrowser.html.en

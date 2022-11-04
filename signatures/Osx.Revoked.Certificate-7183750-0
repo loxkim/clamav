@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7183750-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0•10
+	’&‰“ò,d
+GFFSAF6B8Z1=0;U4Developer ID Application: Eugene Dillon (GFFSAF6B8Z)10U
+GFFSAF6B8Z10U
+Eugene Dillon10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$Developer ID Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0190809085210Z240809085210Z

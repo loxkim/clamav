@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Marker-18
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Marker = "<- this is a marker! by fs2000{WILDCARD_ANY_STRING}General", "Wallpaper") = SystemRoot & "\EmailMe.html

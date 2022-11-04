@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Agnes-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.Comments = "WM97.AGNES LEE" & Chr(32) + Chr(98) + Chr(121) + Chr(32) + Chr(76) + Chr(1

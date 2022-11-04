@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Liar-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+d * 20)): vx = vx & Chr(255 - Int(Rnd * 100)): Nex{WILDCARD_ANY_STRING}vc = "Sub document_close()" & t & vx & v{WILDCARD_ANY_STRING}If MacroContainer = NormalTempla

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-21
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rd1 = 24 Then .replaceline 67, ".replaceline j, Chr(39) & Application.ActivePrinter & Application.ActiveWindow"

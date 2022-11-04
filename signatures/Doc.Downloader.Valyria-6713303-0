@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Downloader.Valyria-6713303-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   Dim OItXns(4)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ZAnLJl(0) = Mid(ZJvXk, 188, 706) + Right(pRKLj, 308) + Left(MfsbvGwV, 930) + Right(pRKLj, 308)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bXSdJQ(1) = Right(pRKLj, 308) + Right(pRKLj, 308)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hnjsbz(3) = Left(MfsbvGwV, 930) + MidB(OTCFSPSh, 103, 751) + Left(MfsbvGwV, 930) + Mid(ZJvXk, 188, 706)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+licaEs(3) = Mid(ZJvXk, 188, 706) + Mid(ZJvXk, 188, 706) + Right(pRKLj, 308) + Right(pRKLj, 308)
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+olNME(2) = MidB(OTCFSPSh, 103, 751) + Right(pRKLj, 308) + MidB(OTCFSPSh, 103, 751) + Mid(ZJvXk, 188, 706)
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wUdFV = "a^t^s^_v^i" + "r^p/^m^o" + CStr(Chr(CleanString(12 + 2 + 12 + 16 + 57))) + ".t" + "ro" + "pnev^a^d^e" + "^irr^a" + CStr(Chr(CleanString(12 + 2 + 12 + 16 + 57)))
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wvZztzivvGj = "$ ^met" + "^I^-e^ko" + "vn" + "I;" + ")^pA^F^$"

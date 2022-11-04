@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Nircmd-9847582-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FINDSTR -RIV "%system:\=\\%\\svchost.exe %system:\=\\%\\cmd.exe \\PEVZ.exe" ProcessList.txt
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PEVZ.exe -dcg14W -c:##c#b#5#b#u#b#t#b#f# { -rtf -preg"\.(dll|scr|sys|exe|msi|drv|com|pif)$" } "%windir%\Temp*" >logw.txt
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+regedit /e log.txt "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ShellExecuteHooks"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+REG.EXE DELETE "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings" /v "ProxyOverride" /f
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+if errorlevel 0 if not errorlevel 1 pevz -k "rundll32.exe"&echo Process rundll32.exe killed>>log1.txt

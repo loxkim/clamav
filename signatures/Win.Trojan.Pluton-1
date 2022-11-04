@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Pluton-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%0"=="" goto copy
+attrib %0 +r
+for %%a in (*.bat) do set Pluton=%%a
+for %%b in (%Pluton%) do find "Pluton

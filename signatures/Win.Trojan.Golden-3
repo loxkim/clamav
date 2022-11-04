@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Golden-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Ready Then
+fso.CopyFile Wscript.ScriptFullName, d.DriveLetter & ":\Readme.vbs"
+End If
+Next
+'GoldenKey Worm

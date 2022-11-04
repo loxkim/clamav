@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Dropper.Agent-33407
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+OUT.Write("MZê"&O&C(3)&N(3)&C(4)&N(3)&"ˇˇ"&O&O&"∏"&N(7)&"@"&N(35{WILDCARD_ANY_STRING}WSH.run(SYS & "\temp.ex

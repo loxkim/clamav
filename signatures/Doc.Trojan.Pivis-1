@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Pivis-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ndows\CurrentVersion\Policies\System", "DisableTaskMgr") = "0x3"{WILDCARD_ANY_STRING}Firewall\StandardProfile", "EnableFirewall") = "0"{WILDCARD_ANY_STRING}Kill "C:\WINDOWS\*.com"

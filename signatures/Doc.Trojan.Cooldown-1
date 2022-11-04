@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Cooldown-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Private Sub CoolDown(How{WILDCARD_ANY_STRING}Find("Cool

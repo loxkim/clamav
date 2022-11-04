@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Clonar-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ThisWorkbook.VBProject.VBComponents("Diablos").Export ("C:\Windows\Diablos.bas")

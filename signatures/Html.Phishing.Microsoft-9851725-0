@@ -1,0 +1,18 @@
+VIRUS NAME: Html.Phishing.Microsoft-9851725-0
+TDB: Engine:81-255,FileSize:0-2500,Target:3
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+document.write(unescape(
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+</script><script>functionmyfunction(){varemail=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;bst=emaildocument.getelementbyid("mytext").innerhtml=email;document.getelementbyid("i0116").value=atob(bst);}</script></body></html>

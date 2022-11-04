@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Remcos-7735852-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+)?!1E(<M9Vc@gn;in6gk8lu8n{8nzBs{Jx~Eu|Btz?sy?rw?jn<^b5PR,AF#5=#5B):N1FY4JW0GN/FI5NO8QS;RR5NK4QO:\\Ahk5ae+]^Aqt\
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+!'%s' is not a valid integer value('%s' is not a valid floating point value!'%s' is not a valid date and time
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?lv4`h:\f>^gAbhDhlEmq;de6\[/RO0RJ5UI2NA3PD9WJ:YL7YM/QH0QL=aa>dh=af9Z\;_c<ep<hz;gy:es7`g2YY7^\;eg@oqO
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+m9ki>pp:lm4fh0cd/bd8knEz~Av{?mr;be:\Z5VR3VS8^\6]\6]\4[Z4[Z3YX4[Z4^\3__6cg4dh4gi3km2or6qv:ty?x
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8J:\t.Sk.We$MR*UT%ML)LK,MK*LK+ON1VU FN'Sk$Rt-Ui%AA7MM0QP#PM)ZY5de)ST'IJ2TZ)DL-^d@p|3`q3Zj7Zf<biOy

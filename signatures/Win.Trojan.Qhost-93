@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Qhost-93
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+customer.symantec.com
+192.168.200.3	dispatch.mcafee.com
+192.168.200.3	download.mcafee.com
+192.168.200.3	download.microsoft.c

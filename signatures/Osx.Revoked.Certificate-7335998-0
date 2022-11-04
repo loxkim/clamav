@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7335998-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0Ã10
+	’&‰“ò,d
+E399SPVV931K0IUBiPhone Distribution: Guangzhou JianQiao Automation Technology Ltd.10U
+E399SPVV931604U
+-Guangzhou JianQiao Automation Technology Ltd.10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0170501132428Z200430132428Z

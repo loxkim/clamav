@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autoit-87
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+IniWrite(@WindowsDir & "\system\PING.ini", "PING", "RUN", "http://private3

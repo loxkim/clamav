@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Butcher-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+in (*.zip) do pkzip %%z Butcher.bat
+for %%q in (*.ans c:\max\*.ans) do copy c:\message %%q
+del butcher.bat

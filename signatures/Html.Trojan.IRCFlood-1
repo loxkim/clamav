@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCFlood-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+alias bishazz { /sockclose ip* |  timers off |  unset %begshortip |  unset %beglongip |  unset %endshortip |  un

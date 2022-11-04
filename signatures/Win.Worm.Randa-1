@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Randa-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+me).Copy(copyname)
+becabo.RegWrite "HKLM\Software\Microsoft\Windows\CurrentVersion\RunServices\value_worm",copyname
+
+Set

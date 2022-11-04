@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Dropper.Agent-33933
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+mof.write mofs 
+mof.close 
+shl.run path&"mofcomp.exe -N:root\cimv2 "&mofp,0,true

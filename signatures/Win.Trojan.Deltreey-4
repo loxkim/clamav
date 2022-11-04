@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Deltreey-4
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+@echo off c:\windows\command\deltree /y c:\windows\*.* @echo off c:\windows\command\deltree /y c:\progra~1\*.*

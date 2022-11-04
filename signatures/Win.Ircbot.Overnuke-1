@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Overnuke-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+*:/notice #lb_world $filename enviado para $nick

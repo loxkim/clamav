@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35294
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+fs.createtextfile("c:\\webdial.exe",true,false);

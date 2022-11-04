@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Anticor-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+crosoft/Office/", "AntiCor") <> "AntiCor" Then

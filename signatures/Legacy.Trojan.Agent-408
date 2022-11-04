@@ -1,0 +1,7 @@
+VIRUS NAME: Legacy.Trojan.Agent-408
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ThisText & TempChar"&vbCrLf&"Next")
+Execute(ThisText)
+

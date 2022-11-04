@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.IRC-23
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ng43.com/E888xT.txt HTTP/1.0 | sockwrite -n $sockname $ctrlf }qon *:sockread:is:{ if ($sockerr) { halt } | var %dados | sockread %dados |

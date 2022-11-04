@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Worm.DiscordSpreader-9964977-1
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+discord
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+21aadec0-3fce-48fb-977a-af5dfe1f45c0

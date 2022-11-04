@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Mikey-9771079-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+inpout32.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0x%X.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PLTE'07,2<,6<,:<4634:D4<C4>D<BD<BL<FLB=0OC,]J)jQ%xW"DJLBIPDJTDNTLRTLR\MV\TZ\T^d\^d\bd]ci\fldfldjldntlntjpulrtlv|tv|tz|t~
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$"$$&$,*,,.,4244644:<<:<<><<BDDBDDFDLJLDNZTRTTVTTV\\Z\\^\OXc\^dZcmdbddfddjlljllnlemwlrttrttvttz||z||~|px
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{tc:"^

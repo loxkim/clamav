@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-9808179-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+* Termination. Without prejudice to any other rights, the Author may terminate this EULA if you fail to comply with th
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1. GRANT OF LICENSE. The SOFTWARE PRODUCT is licensed as a single product, to an individual user, or group of users for multi
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+* No Liability for Damages. In no event shall the Author be liable for any special, consequential, incidental or indir
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<requestedExecutionLevel level="requireAdministrator" 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2. LICENSING. You may install and use an evaluation version of the SOFTWARE PRODUCT for 30 days, after which you must purchas

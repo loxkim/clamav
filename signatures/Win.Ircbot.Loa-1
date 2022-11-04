@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Loa-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+*: { if (virus isin $1-) { .halt } },on 1:text:*virus*:*: { .ign

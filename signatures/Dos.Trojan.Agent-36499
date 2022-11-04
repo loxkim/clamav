@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36499
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off :s del app.exe if exist app.exe goto s :t del install.exe if exist install.exe goto t :k del ps.exe if exist ps.exe goto k :u del rev.exe if exist rev.exe goto u :d del winlogo.exe if exist winlogo.exe goto d del 3506.bat 

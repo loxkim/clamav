@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Groovie-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Init = False And Scan_For_Doc = True Then{WILDCARD_ANY_STRING}NormalTemplate.VBProject.VBComponents("{WILDCARD_ANY_STRING(LENGTH<=25)}").Export ("C:\{WILDCARD_ANY_STRING(LENGTH<=150)}.sys")

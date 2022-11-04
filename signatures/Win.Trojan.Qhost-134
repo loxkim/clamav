@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Qhost-134
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.ebay.com
+127.0.0.1 listings.ebay.com
+127.0.0.1 sofe.ebay.com
+127.0.0.1

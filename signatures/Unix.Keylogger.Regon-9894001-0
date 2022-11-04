@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Keylogger.Regon-9894001-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/tmp/ndk-user/tmp/build-stlport/ndk/sources/cxx-stl/gabi++/src/vmi_class_type_info.cc
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_Z17GetJStringContentP7_JNIEnvP8_jstringRSs
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/tmp/ndk-user/tmp/build-stlport/ndk/sources/cxx-stl/gabi++/src/dynamic_cast.cc
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZNSt4priv14_Pthread_alloc23_S_get_per_thread_stateEv
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Landroid/app/PendingIntent;Landroid/app/PendingIntent;)V

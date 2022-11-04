@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Alosh-9886991-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+{ $workx = "frombase64string" $workg = [text.encoding]::utf8.getstring([convert]::{WILDCARD_ANY_STRING}alosh

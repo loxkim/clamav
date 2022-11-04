@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36555
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off @echo>netinf.txt -------------------------------- @netstat>>netinf.txt @echo>>netinf.txt -------------------------------- @echo>>netinf.txt 4,1 (x) 1,4 am terminat!... @exit 

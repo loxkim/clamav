@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Astro-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+.attachments.add("astrolink.js")

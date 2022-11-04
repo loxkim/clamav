@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.Agent-36998
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if(!empty($_get['file'])) $file=$_get["file"];{WILDCARD_ANY_STRING(LENGTH<=2000)}if(false==curl_exec($ch)) die('{WILDCARD_ANY_STRING(LENGTH<=150)}curl_close($ch); ?> bypass shell:

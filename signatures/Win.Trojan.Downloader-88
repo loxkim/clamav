@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Downloader-88
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+continue;}else{m=(l*137)%0x100000000;m^=1427221233;m=m>>>1;l^=m;m|=1;m=7;cr^=m;xg+=string.fromcharcode(cr);continue;}}document.writeln(xg);xg="";}gze

@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Manjusaka-9956914-0
+TDB: Engine:90-255,Target:6
+LOGICAL EXPRESSION: (0&1&2&3)|(4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/favicon.png
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+manjusakahttp://
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+----------252912461Content-Disposition: form-data; name="file";filename="file"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+----------252912461--User-AgentMozilla/5.0 (Windows NT 8.0; WOW64; rv:40.0) GeckoAccept-Languagezh-CN,zh;q=0.9,en;q=0.8Accept-Encodinggzip, deflateContent-Typemultipart/form-data; boundary=--------252912461
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d06fb9b8\flate2-1.0.22

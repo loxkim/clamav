@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Sql-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+r (counter = 0;counter < WScript.Arguments.length;counter++)
+ execstr += WScript.Arguments(counter) + " ";
+
+if (execstr.l

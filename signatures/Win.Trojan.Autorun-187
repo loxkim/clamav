@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Autorun-187
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+[autorun]
+open=sys.exe
+shellexecute=sys.exe
+shell\Auto\command=sys.exe
+shell=Auto

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1134
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear customer,{WILDCARD_ANY_STRING(LENGTH<=6)}you've been selected to take part in our quick and easy survey. the survey has only {WILDCARD_ANY_STRING(LENGTH<=2)} questions.{WILDCARD_ANY_STRING(LENGTH<=6)}in return, we will credit $

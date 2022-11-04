@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.FakeAV-169
+TARGET TYPE: PE
+OFFSET: S1+12397
+DECODED SIGNATURE:
+u:\p4clients\rel_beta\Projects\Common\Network\NetworkException.h{WILDCARD_ANY_STRING(LENGTH<=250)}Software\Valve\Steam\Steam.exe

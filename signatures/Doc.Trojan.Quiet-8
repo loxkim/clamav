@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Quiet-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Application.Options.VirusProtection = True{WILDCARD_ANY_STRING}dest.codemodule.insertlines i, source.codemodule.lines(i, 1)

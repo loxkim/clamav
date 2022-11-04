@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.WormKit-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+llobject.regwrite "hkcu\software\onthefly\", "worm made with vbswg {WILDCARD_IGNORE}.{WILDCARD_ANY_STRING(LENGTH>=1&&<=3)}"<br>set filesystem= createobject("scripting.filesystemobject<wbr

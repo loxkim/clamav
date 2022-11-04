@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ulise-9888618-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Method ID3DXEffectCompiler::GetPassDesc failed execution during traversal with error 0x%x
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+301-110,70002-900","posturl":"http://www.correios.com.br/servicos/cep/cep_default.cfm","languages":"pt"}
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\workspace\2.2.67\label\windows-i586-14\media\build\windows-i586\intermediate\release\fxplugins\fxplugins.pdb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TargetsMicrosoft.VisualStudio.Modeling.Diagrams.GraphObject.VGGraph.#GetLineToNodeClearance(System.Double&,System.Double&)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Coke.Object<Nvda::Messaging::InProcessMessageQueue,Coke::FakeLock>.__vecDelDtor

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9885510-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+o=https%3A%2F%2Fgist.github.com%2Frichlander%2Fe3c0031e226ee06481668867955b82de&amp;source=header-gist">
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<a class="Header-link" data-hotkey="g d" aria-label="Gist Homepage " href="https://gist.github.com/">
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<a href="https://gist.github.com/richlander/e3c0031e226ee06481668867955b82de#start-of-content" class="px-2 py-4 color-bg-i
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">

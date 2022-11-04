@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Razy-9890182-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+wget -nc -c http://download.adobe.com/pub/adobe/magic/creativesuite/Cs2_EOL/MLTI/CreativeSuiteCS2Disc2.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+jQuery("a[href*='http://']:not([href*='http://<?php echo $_SERVER['HTTP_HOST']; ?>'])").attr("target","_blank");
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://www.youtube.com/subscription_center?add_USER=testtubenetwork
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+chensiyuan: www.commons.wikimedia.org/wiki/File:Tikal_temples_1_2_3_5_2009.JPG
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+The SuperCollider programming environment is actually a totally separate process from the synthesizer

@@ -1,0 +1,18 @@
+VIRUS NAME: Andr.Trojan.CoolReaper-1
+TDB: Engine:51-255,Target:0
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dex
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://61.141.236.10:80/dmp/upload/1375451346796-test_report.txt
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://hiphotos.baidu.com/wisegame/pic/item/604f78f0f736afc338985ffeb319ebc4b6451290.jpg

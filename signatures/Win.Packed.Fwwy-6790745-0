@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Fwwy-6790745-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Document title="VMware User Process" href="GUID-FB7FA658-7622-4680-BD9F-7A6670C12794.html" />
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Document title="Configure Time Synchronization Between Guest and Host" href="GUID-35D8817F-5193-4315-AAF9-575CBDEE1B8F.html
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Document title="Components of VMware Tools" href="GUID-151025AE-6641-428B-9818-5E06916543F3.html" />
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Document title="Default VMware Tools Scripts" href="GUID-A024460D-28A4-4541-B6BB-CFA1A31D9CE9.html" />
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Document title="Disable a VMware Tools Script" href="GUID-DE30092C-D613-4978-A68B-C0642B828909.html" />

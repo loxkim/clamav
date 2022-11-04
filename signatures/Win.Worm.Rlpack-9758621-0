@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Rlpack-9758621-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@start /d "C:\Program Files\%Program Files%\" laass.exe lMhk.dll main
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+oUrlLink.TargetPath = "C:\windows\362.vbs"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Progra~1\%Program Files%\lmhk.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Set oUrlLink = WshShell.CreateShortcut(WshShell.SpecialFolders("Startup")&"\36O.lnk")
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<html><script language="vbscript">on error resume next

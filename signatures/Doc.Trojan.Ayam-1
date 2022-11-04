@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ayam-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If System.PrivateProfileString("", "HKEY_LOCAL_MACHINE\Software\", "W97M.Maya") <> "Par PetiK" Then

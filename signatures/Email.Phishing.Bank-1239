@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1239
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+HSBC Bank has realeased a 128-bit SSL update for the online={WILDCARD_ANY_STRING(LENGTH<=2)}=20{WILDCARD_ANY_STRING(LENGTH<=2)}banking page that eliminates this bug

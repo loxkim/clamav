@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mary-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Lines(5, 1) <> "'MarySol" Then{WILDCARD_ANY_STRING}PolyVal = PolyVal + Chr(65 + Int(Rnd * 26)) & Chr(122 - Int(Rnd * 26)) &

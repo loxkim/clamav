@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-122
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.sockwrite -n $sockname CONNECT %portal.tOserv $+ : $+ %bnc_port HTTP/1.0

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generic-9784968-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RCodeFormatErrorRegQueryInfoKeyWRegQueryValueExWRemoveDirectoryWSetFilePointerExTerminateProcessZanabazar_Square
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+neednetapi32.dllno such hostnot pollablepointtopointreleasep: m=runtime: gp=runtime: sp=self-preemptshort buffertransmitfileunkn
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+entersyscallexit status gcpacertracegetaddrinfowhost is downillegal seekinvalid portinvalid slotiphlpapi.dllkernel32.dllmadvdont
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+conversion: invalid address familykernel32.dll not foundminpc or maxpc invalidmissing ']' in addressnetwork is unreachablenon-Go
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nilinitSpan: unaligned lengthinvalid request descriptorname not unique on networkno CSI structure availableno message of desire

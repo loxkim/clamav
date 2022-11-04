@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Titasic-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f Not (Not hapus And .Description = "Angelina" And .VBComponents.Count > 2) Then

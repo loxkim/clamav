@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Stantinko-9950697-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+--force-target=generic-gnu --disable-examples --disable-docs --enable-realtime-only
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Memory Tracker logging initialized, Memory Tracker v.2.5.1.1
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+memory_tracker_unlock_mutex: mutex unlock failed
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vpx_memory_tracker_init: Error creating mutex!
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ERROR xvpx_malloc MEM_TRACK_USAGE error vpx_memory_tracker_init().

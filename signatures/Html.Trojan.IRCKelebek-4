@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCKelebek-4
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+on 1:connect: { nick $read winnik.ini | emailaddr $read i386.ini | identd on $read i386.ini | username $read name.ini | ignore -wd *

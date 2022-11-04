@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Defaulttab-9778183-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://defaulttab.searchsolution1.com/PostQ.php?c=33&p=25&tb=102&t=5&f=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+LoadLibrary FAILED to load ieframe.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<link type="text/css" rel="stylesheet" media="screen" href="http://www.mysearchresults.com/assets/css/styles2.css
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<img src="http://www.google.com/intl/en_com/images/srpr/logo3w.png" />
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DefaultTabWrap.dll

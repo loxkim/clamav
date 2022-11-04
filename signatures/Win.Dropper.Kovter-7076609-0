@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kovter-7076609-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<widget type="dropdownlist" style="margin-top:5px;" id="select_language">
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<span style="font-size:14px;margin-top:20px">3. Use the drop-down tips when you enter a search query.<br></span>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<span style="font-size:14px;margin-top:20px">2. Reduce the number of words in your query, leave only keywords.<br></span>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.lang_mydownloads_timeleft_text {assigned!: self:value="Tiempo restante:";}
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.lang_search_results_file_icon_report {assigned!: self.title="Informar sobre el contenido con derechos de autor";}

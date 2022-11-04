@@ -1,0 +1,43 @@
+VIRUS NAME: Xls.Downloader.Donoff-6698566-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Name = "
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"ADODB"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Debug.Print ("lkjirhbgv brtberw wrgvmoeifvnwincacweqr evrtwevtert");
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dim kmuhNtFuvfoLwd, WshShell, zmkQyM7w6j3rv5Mb5A, Wscript, qKom2ABPI49tvCFabUww, sjI8Q2HpmS7M97Biw4KPbuSNf, vmk6R6ToJxoMyjIQGzdnArnn, S7M97Biw4KPbuSNflA6PpqEnBIka8mvwqv
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+On Error GoTo Ends
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Private Sub Workbook_Open()
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Set WshShell = CreateObject(tIKClJHfAnkzIprpkbaA)
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WshShell.Run

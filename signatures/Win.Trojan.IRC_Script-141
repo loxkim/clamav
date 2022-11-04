@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.IRC_Script-141
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on *:LOAD:{
+ .dcc send $nick{WILDCARD_ANY_STRING(LENGTH<=100)}msg $nick its a funny 
+rabbit movie

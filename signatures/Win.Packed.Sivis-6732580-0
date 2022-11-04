@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6732580-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Wrong file type9Cannot locate Microsoft Conversion Library (msconv97.dll)1Multiple concurrent conversions are not suppor
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+If you think this problem is only temporary, you may want Windows to continue attempting these operations.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Do you want Windows to fix this problem by not attempting these operations any more?
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DThere are no current ASD critical operation failures on this machine$Can not find the specified file "%s"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ntvbl01\LOCALS~1\Temp\2\DBGtoPDB\write32.pdb

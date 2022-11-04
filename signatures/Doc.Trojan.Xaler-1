@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Xaler-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+kk& = InStr(1, keimeno, "'RELAX")

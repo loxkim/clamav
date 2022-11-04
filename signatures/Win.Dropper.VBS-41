@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Dropper.VBS-41
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+"&H" & Mid(S, i, 2) ) )
+		i = i + 1
+	Next
+
+	f.Close
+End If
+
+pth = "tmp.exe http://toolbarpart

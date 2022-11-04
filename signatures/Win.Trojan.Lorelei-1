@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Lorelei-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if %SDCvar%==1 set StageA=Lorelei
+if %SDCvar%==1 goto Savevar
+if NOT %StageB%==Lorelei set SDCvar=2

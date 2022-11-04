@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-283
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+onfirm your identity here: restore <a hre{WILDCARD_ANY_STRING(LENGTH<=100)}">my online banking</a>and complete the "steps to remove limitations." <br><br>completing al

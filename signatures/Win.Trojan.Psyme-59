@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Psyme-59
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+clsid:bd96c556-65a3{WILDCARD_ANY_STRING(LENGTH<=50)}("adodb.stream"{WILDCARD_ANY_STRING}bject("ier"+"pctl.i"+"e

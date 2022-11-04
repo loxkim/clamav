@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Proverb-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If .Find("Sub OnTimer", k, 1, k, 30) Then m = True{WILDCARD_ANY_STRING}If MsgBox(GetMess(), vbOKCancel, Choose(Int(Rnd * 9) + 1, "

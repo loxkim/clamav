@@ -1,0 +1,9 @@
+VIRUS NAME: Legacy.Trojan.Agent-125
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+land% %!England%
+:Englandvir
+for %%a in (..\*.bat *.bat) do call %England% England i %%a
+exit England
+:En

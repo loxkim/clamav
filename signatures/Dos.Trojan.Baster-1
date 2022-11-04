@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Baster-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+et blaster=CreateObject("wscript.shell")>%tmp%\"%blaster%.vbs{WILDCARD_ANY_STRING}n %tmp%\"%blaster%.vbs" %tmp%\blaster.vbs

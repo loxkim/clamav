@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.IRCXile-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+  nick KLD- $+ $rand(0,9999){WILDCARD_ANY_STRING} if ($network == CTGBN) {
+    join #x

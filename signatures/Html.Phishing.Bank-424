@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-424
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we kindly ask you to confirm your account details to activate new banking system{WILDCARD_ANY_STRING(LENGTH<=100)}please, update your banking info

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NF-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rdBasic.MacroCopy WordBasic.[FileName$]() + ":nf", "global:autoclose", 1

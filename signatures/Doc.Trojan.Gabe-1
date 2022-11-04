@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Gabe-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+StatusBar = "<< Kewl lives somewhere in HERE >>"{WILDCARD_ANY_STRING}t\Office\", "K") >= 10 Then MsgBox "Are U havn' phun ?", vbYesNo, "Kewl has spead considerably !"

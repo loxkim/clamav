@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Upatre-7594799-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Joe Cage\AppData\Local\Temp\0ad65b4bfdc9a987ec5359c08cdd1812073549845569a67e93eb080cf5fe026a.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Joe Cage\AppData\Local\Temp\4fceb8e1cc1b26dad439ad0a752644bfa34d78f8a204a7ed836e7d440be687fb.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\arya\AppData\Local\Temp\0de85818baab8ef384acd92fa5743d960976f558.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\23fd0b01c88ea6bc_murzuja.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Petra\AppData\Local\Temp\murzuja.pe32

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Mawanella-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MailX.Body = vbcrlf&"Mawanella is one of the Sri Lanka's Muslim Village"&vbcrlf

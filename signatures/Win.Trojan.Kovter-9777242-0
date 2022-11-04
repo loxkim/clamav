@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Kovter-9777242-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+kernel32.dll 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+psapi.dll 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#j)QiK#.UaSe(]WZx2zGYz~NnA0CWETAcj)QiK#.UaSe(]WZx2zGYz~NnA0CWETAcBh77BguhaWGz6ksUnY6UOe8ODMsQW61A
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+*Note: Contact the programmer to learn more about this.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#j)QiK#.UaSe(]WZx2zGYz~NnA0CWETAcj)QiK#.UaSe(]WZx2zGYz~NnA0CWETAc

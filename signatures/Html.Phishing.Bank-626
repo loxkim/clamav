@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-626
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear value customer,</st{WILDCARD_ANY_STRING(LENGTH<=75)}=2>due to concerns, for the safety and integrity of the {WILDCARD_ANY_STRING(LENGTH<=20)}account we have issued this warning mess

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Zugara-9778473-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+assWizard-3,HKCU\Software\AppDataLow\Software\password-view ,HKCU\Software\AppDataLow\PassWidget,HKCU\Software\AppDataL
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xnow,HKCU\Software\PassWidget,HKCU\Software\lyricsolyrics,HKCU\Software\O2Lyircs
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+re\AppDataLow\Software\Show-Password,HKCU\Software\AppDataLow\Software\ViewPassword,HKCU\Software\AppDataLow\Software
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e\Password-Assistant,HKCU\Software\AppDataLow\Software\Play_Lyrics,HKCU\Software\AppDataLow\Software\PlayLyrics,HKCU\S
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\LyricsGet,HKCU\Software\AppDataLow\Software\LyricSing,HKCU\Software\AppDataLow\Software\LyricsKid,HKCU\Software\AppD

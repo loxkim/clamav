@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Jesus-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+s was installed on computer
+set susej=fso.CreateTextFile(dirsystem+"\susej.dll")
+susej.write "Yes it was. 

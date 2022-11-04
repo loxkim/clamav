@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Calhob-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+s can jump over this long debuging
+
+echo e 0100 B8 78 31 BA 94 15 3B C4 73 69 8B C4 2D 44 03 90>2
+echo e 0110 25 F0 FF 

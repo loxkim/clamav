@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-201
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+=function(n001){return n001.replace(/[a-za-z]/g,function(n002){return string.fromcharcode((((n002=n002.charcodeat(0))&223)-52)%26+(n002&32)+65);});}

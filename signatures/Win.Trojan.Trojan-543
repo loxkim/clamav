@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Trojan-543
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+copy %0 %windir%\%v%.bat{WILDCARD_ANY_STRING(LENGTH<=1657)}net share a=a: net 

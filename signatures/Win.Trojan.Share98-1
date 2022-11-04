@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Share98-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+d\vnetsup]>>c:\\winfree1.reg{STRING_ALTERNATIVE:"|'},true,1);wsh.run({STRING_ALTERNATIVE:"|'}command/cecho"filesharing"="yes">>c:\\winfree1.reg{STRING_ALTERNATIVE:"|'},true,1);wsh.run({STRING_ALTERNATIVE:"|'}command/cecho"print

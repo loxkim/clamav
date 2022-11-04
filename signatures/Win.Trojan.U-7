@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.U-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo -n "${BLK}* ${DWHI}Cleaning ${WHI}$fil ($line ${DWHI}lines${WHI})${BLK}...${RES}"

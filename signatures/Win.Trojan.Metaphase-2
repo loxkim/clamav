@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Metaphase-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ystem\cute.vbs"  
+  EvFile.WriteLine "Event3=VERSION:/notice $nick \-1 pIRCH: WelcomB by -KD- I'm Infected!

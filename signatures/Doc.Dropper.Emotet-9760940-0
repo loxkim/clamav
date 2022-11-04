@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Dropper.Emotet-9760940-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dlz3b5jzvu1rz1se_t = Array(S7bxlnywvzoe + "Mz1ve9vb7u6cpplv2Okdc_dynonhy_hp6aa Xac0g6mgv79mb53564" + Rx82th6huyxvpl, V9sl9iy8crq
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Function Yx2w8pu3myluj5n
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Hv1xapkhvq_1 = Zvnahb44d26jdm(J3386dsi91r
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+JLDkTtPc = Mid(wJKNvZPfkcT, 2, 2
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Napa6lu6fa15j
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Yx2w8pu3myluj5n = Zvnahb44d26jdm(Rdd1k23bpvi.AlternativeText

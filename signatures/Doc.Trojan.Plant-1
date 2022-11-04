@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Plant-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CopyMacros nSource:=sPath + "\Plant.doc", nDestination:=fFullName

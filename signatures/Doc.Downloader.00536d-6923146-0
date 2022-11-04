@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Downloader.00536d-6923146-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   FormatNumber (PGnKj + auiXr + OMWXcA + uaiKw + jsAoD + iPXsw)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   FormatNumber UZHcnN + FNUmj + lAfwsu + cHDjAm + (cfjKqJ + sArvZ)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   TimeValue (QpDBC + JFVVuX + (ucoFYn + wcjiBj))
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   TimeValue GcCkFn + TojdTT + tZfkv + owaaFb * JbrUZ + muqspZ + wCvMW + jtops / BEBJB + fdiosw - ErhiD + pLXslB
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   TimeValue Ubnki + rFzEF / ZcjuN + wYMZs + dbarS + bZdPm
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   TimeValue bRMVP + StXBL / (wkaOiY + zifWdG + MoGYzV + AdDJY) + ZcjRD + orMCU + cvmbwu + Pnudmz
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+On Error Resume Next
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wcvAwH = Shell("" + rKVlzNX + kpRKvoJ + Shapes(ASiCPkJC + MPImYum + 1 + HzwjUw + PfPijb).TextFrame.TextRange.Text + lGpvkc + uKUcCt, 587453479 - 587453479)

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Pain-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Set Mac = NormalTemplate.VBProject.VBCom{WILDCARD_ANY_STRING}If Mac.Lines(1, Mac.Countoflines) <> Text Then{WILDCARD_ANY_STRING}Mac.DeleteLines 1, Mac.Countoflines: Mac.Addfrom

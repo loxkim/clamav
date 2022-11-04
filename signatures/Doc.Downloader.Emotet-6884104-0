@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Downloader.Emotet-6884104-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+End Function
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TQjbQXhsWBi = "F^d^a^o^ln^w^o" + "^D^.^I^ED^$^{^yr" + "^t^{)^H^b^X^$^" + " n^i^ ^i^K^h^$(hc^a
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VwrwVnYVP = "n^e^i^lC^b^e^W^" + ".^t^eN^ ^tc^e^" + "j^bo^-^w^en" + "^=^I^E^D^$^ ^l^l^eh" + "^sr^e^w^o^p&&^f" + "^or /^L %^W ^in
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+^K^h^$(^e^l^i^
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+qftnh = "bbzcPkwY
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tqjhjw = "e^t^i^m^i^l^s^" + "k^o^o^b^m^ur^tc^e^p^" + "s//^:^pt^t^h^'^" + "=^H^b^X$^;^t

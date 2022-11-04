@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Linux-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+erpid=fork();
+if (serpid > 0)
+waitpid(0, &stat, 0);    
+dup2(sockcli, 1);
+execl("/bin/sh","sh",(char *)0);  

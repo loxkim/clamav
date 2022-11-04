@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Hotmailhack-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+ini_set("max_execution_time",-1); set_time_limit(0); $user = @get_current_user();{WILDCARD_ANY_STRING(LENGTH<=200)}$headers = "from: <$email>\r\n"; if(mail($email1, $assunto, $_server['http_host'] . $_server['request_uri'], $headers)){

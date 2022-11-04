@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-903
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+This is a post-only message. Please do not respond.Someone has requested{WILDCARD_ANY_STRING(LENGTH<=4)}that you receive a Track &amp; Confirm update, as shown below.

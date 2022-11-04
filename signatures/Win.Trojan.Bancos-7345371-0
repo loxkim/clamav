@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Bancos-7345371-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+a um novo login!
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ Internet Banking - Microsoft Internet Explorer
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+userprofile
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+H'=H)=H)=H)=H)=H)=H)=H+<I+<I)<I)<I)=H(<G(<G(<G)>F(=E&=E&>D&>D&>D&>D'@D'=B+AF$:?/CH
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BQrN>IX51n@5t?2w@1xB1xC/uB.pB1tD2zA,}D+wH)tE)rA+q@0kA5e>6_:6X9<P;JXTmfx

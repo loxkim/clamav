@@ -1,0 +1,7 @@
+VIRUS NAME: Html.Trojan.Lame-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ar file,fso,host,i,j,infected,virus,virusPath
+fso=new ActiveXObject("Scripting.FileSystemObject")
+virusPath=w

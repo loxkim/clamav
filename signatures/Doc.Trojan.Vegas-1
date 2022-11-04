@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Vegas-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+filespec = "d:\pass.exe"{WILDCARD_ANY_STRING}If dc(i).Name = "Vegas"

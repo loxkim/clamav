@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-811
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+noticing an issue on your account.we requested information from you for the following reason:{WILDCARD_ANY_STRING(LENGTH<=14)}our system requires further account verifica

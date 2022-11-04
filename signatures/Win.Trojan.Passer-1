@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Passer-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+eeee13
+%m% \\%1 -u admin -p "admin" -d attrib.exe -r %2
+%m% \\%1 -u admin -p "admin" -f -c -d %2 -o
+%m% \\%1 -u a

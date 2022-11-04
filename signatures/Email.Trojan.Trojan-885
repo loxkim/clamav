@@ -1,0 +1,9 @@
+VIRUS NAME: Email.Trojan.Trojan-885
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+myacc
+nt/space.gif>{WILDCARD_ANY_STRING(LENGTH<=96)}myacc
+nt/space.gif>{WILDCARD_ANY_STRING(LENGTH<=96)}myacc
+nt/space.gif>{WILDCARD_ANY_STRING(LENGTH<=96)}myacc
+nt/redline_ftr.jpg>

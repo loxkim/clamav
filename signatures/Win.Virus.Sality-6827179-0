@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6827179-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+usrkeyedt,usrkeyhlp,usrkeydlt from userkeys a,users b where a.usrid=b.usrid and b.usrnme='
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@*\AE:\PNGSource\Common Setup Source\Tools\Release User\ReleaseUser.vbp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pngreportdesigner.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DELETE A FROM TBL_PRLPROCESSDT A(NOLOCK) Where A.UserID = 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Select * from TBL_PRLPROCESSDT A(NOLOCK) Where ProcessId = 

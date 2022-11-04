@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Adware.Tekhnetvork-9820405-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Inlog_Setup.exe|http://www.inlogdownload.com/downloads/InlogBrowserN1P5a.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CodecPackSetup.exe|https://files3.codecguide.com/K-Lite_Codec_Pack_1540_Basic.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Musicalm_Setup.exe|http://www.mediafire.com/file/muk6dhfmsdh9kox/20413.MusiCalm.3.1.05_Silent.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ef:documentID="xmp.did:5F404286805111E3A2E0C062559FAF3E"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+WebDiscover_setup.exe|https://cdnquest.com/wd_ko

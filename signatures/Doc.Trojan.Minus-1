@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Minus-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+vateProfileString("", "HKEY_CLASSES_ROOT\Word.Document.8\shell\Open\ddeexec", "") = "['DDE-Bacteria][On Error Resume Next][Kill(""%1"")]"

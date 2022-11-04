@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Bulz-9859225-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tral, PublicKeyToken=b03f5f7f11d50a3a|System.Security.Principal.Windows.dll|2AED74577F5F623F7E910ADDA8EF74A11EEA0437|15224
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD2
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.colorslider.dll.compressed|1.0.0.0|ColorSlider, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|ColorSlider.dll|A5
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.costura.dll.compressed|5.1.0.0|Costura, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null|Costura.dll|A191D5AB442AE9
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.memory.dll.compressed|1.2.21.0|Memory, Version=1.2.21.0, Culture=neutral, PublicKeyToken=null|Memory.dll|BCF79288B60C0B3

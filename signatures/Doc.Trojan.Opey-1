@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Opey-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If DocuName = "CyberNet_AV" Then NmImmunized = True

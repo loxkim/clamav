@@ -1,0 +1,9 @@
+VIRUS NAME: Legacy.Trojan.Agent-145
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+LE, ">>subseven.mem");
+close(FILE);
+open(FILE, ">>subseven.log");
+close(FILE);
+open(FILE, ">>subseven.ban

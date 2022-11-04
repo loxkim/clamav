@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7474209-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0Ž10
+	’&‰“ò,d
+XG9ZEXV72W1604U-Apple Development: Yvette Testut (B5VNWGK3MY)10U
+6XVY5G3U4410U
+Yvette Testut10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0190813003656Z200812003656Z

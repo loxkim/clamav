@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zbot-9899961-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Milchersatzproduktes.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Kostenzusage Durchschreitung Aufschie
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Yi(YGlrsGt6eEQhiwB@!5FUQ{EYeZ~x
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3fyAm;NaY3^e~mQ][AKlbkI{\JNR;cwor_{{aL~B\~Z~RmhxdGkUA^upLSDu]!dB
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+suQ;Z:\eCoVb*5

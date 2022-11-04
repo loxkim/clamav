@@ -1,0 +1,18 @@
+VIRUS NAME: Unix.Trojan.Torii-6959750-1
+TDB: Target:7
+LOGICAL EXPRESSION: (0&1&2)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+u="md"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+powerpc"*) echo "8"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+for cmd in "wget" "ftpget" "ftp" "busybox wget" "busybox ftpget"

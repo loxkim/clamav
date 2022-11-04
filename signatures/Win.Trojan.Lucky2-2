@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Lucky2-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+"))
+For Each target in FSO.GetFolder(VX).Files
+  FSO.CopyFile Melhacker, target.Name, 1
+Next

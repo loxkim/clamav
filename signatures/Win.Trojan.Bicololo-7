@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bicololo-7
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+setup_fff.exe{WILDCARD_ANY_STRING}clr_gg.exe

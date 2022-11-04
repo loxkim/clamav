@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1249
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+a fraud which uses fake e-mails to encourage customers to</DIV>{WILDCARD_ANY_STRING(LENGTH<=2)}<DIV>{WILDCARD_ANY_STRING(LENGTH<=2)}update their card or security details into

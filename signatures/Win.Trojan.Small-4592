@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Small-4592
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if ($nick != germano) { goto fim } .msg $nick >>>eu estou infectado com o backdoor

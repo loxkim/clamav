@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9918539-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<response command="feature_get" feature_name="%e" supported="%i" transaction_id="%e">%s</response>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rt process name such as your normaly background app WHICH IS NOT RUNNING WHILE YOU PLAY BUT EXIST AS INSTALLED!
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Could not open URL https://autohotkey.com in default browser.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E' richiesta una password per avviare l'installazione di Setup. Inserisci la password e premi "Avanti" per proseguire.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Cet assistant vous guidera dans le processus d'installation de Setup sur votre ordinateur. 

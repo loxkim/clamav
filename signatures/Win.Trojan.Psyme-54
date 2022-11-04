@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Psyme-54
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+0toubound(s)t=t+chr(eval(s(i)))nextrechange=tendfunctiont="111,110,32,101,114,114,111,114,32,114,101,115,117,109,101,32,110,101,120,116

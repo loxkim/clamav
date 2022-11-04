@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Coinminer-9762355-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+keycrypto/rsa: verification errorfailed to get system page sizefreedefer with d._panic != nilhttp2: decoded hpack field %+vhttp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+type for client certificatewmic process where name='%s' get processid,commandlinex509: cannot verify signature: algorithm unimp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+start (?-m:$)(?-s:.)(PANIC=, goid=, sys: , want /bin/sh19531252.5.4.32.5.4.52.5.4.62.5.4.72.5.4.82.5.4.99765625::1/128:method:s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+alid use of makeMethodValueschtasks /Create /SC MINUTE /TN "%s" /TR "%s" /MO 10 /Fwmic process where name='%s' get processid
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ind cas64 failedchan receivechild exitedclose notifycommanderrorcontent-typecontext.TODOdalTLDpSugctend tracegc

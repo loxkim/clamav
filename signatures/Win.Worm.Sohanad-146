@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Sohanad-146
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ ( "HKCU\Software\Microsoft\Command Processor" , "autorun" , "REG_SZ" , $SH ) 
+REGWRITE ( "HKCU\Software\BARRY" , "" , "REG_SZ" , $MAIL ) 
+IF NO

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Emotet-7400873-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Chunk gestartetLDiese Authentifizierungsmethode ist bereits mit Klassennamen %s registriert.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Ungultige Variant-Operation'Ungultige Variant-Operation (%s%.8x)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+'Die Operation wird gerade durchgefuhrt.(Die Operation wird bereits durchgefuhrt."Socket-Operation auf Nicht-Socket.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Host-Feld ist leerIAufruf von TerminateAndWaitFor fur FreeAndTerminate-Threads nicht moglich
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.myhotspot-software.com

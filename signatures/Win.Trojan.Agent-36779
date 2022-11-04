@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36779
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+twebtracker.com/?if=1&scr_w="+w+"&scr_h="+h+"&blog="+d+"&ref="+r+"&l="+l+"" height="1" width="1"></iframe>");document.write("<iframe src="http://green-tra

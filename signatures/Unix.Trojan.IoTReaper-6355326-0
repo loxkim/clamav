@@ -1,0 +1,7 @@
+VIRUS NAME: Unix.Trojan.IoTReaper-6355326-0
+TARGET TYPE: ELF
+OFFSET: *
+DECODED SIGNATURE:
+rm -f /tmp/ftpupload.sh 
+{WILDCARD_ANY_STRING}ln -s /dev/null /tmp/ftpupload.sh 
+

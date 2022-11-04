@@ -1,0 +1,13 @@
+VIRUS NAME: Andr.Trojan.Opfake-2
+TDB: Engine:51-255,Container:CL_TYPE_ZIP,Target:0
+LOGICAL EXPRESSION: (0&1)
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dex
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+j9*o6meVX0]xrM:zhy-=bnvlEawNPR4OG>L8Jtu,DfUS@1cW[K;3)^+?7Y2gpIQ/d(.sAi_TH<FBq`C5kZ

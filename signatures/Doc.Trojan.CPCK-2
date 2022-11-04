@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.CPCK-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Left(NormalTemplate.VBProject.VBComponents.Item(1).CodeModule.Lines(1, 3), 3) <> "Sub" Then{WILDCARD_ANY_STRING}.replaceline x, (Chr(65 + Int(Rnd * 22))) & 

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Cerbu-9917004-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+rkernel32.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+            <Install package="Package_404_for_KB3125574~31bf3856ad364e35~x86~~6.1.4.4" update="3125574-1884_neutral_L
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ows-Shell-InboxGames-Package~31bf3856ad364e35~x86~en-US~6.1.7601.17514" update="PurblePlace"/>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+_s-WinIP-Package~31bf3856ad364e35~x86~lv-LV~7.1.7601.16492" update="Downlevel
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Iapi-ms-win-appmodel-runtime-l1-1-1

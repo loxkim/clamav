@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Win.Tool.MassMail-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+$numemails=count($allemails); for($x=0; $x<$numemails; $x++){ $to=$allemails[$x]; if ($to){ $to=ereg_replace(" ", "", $to); $message=ereg_replace("&email&", $to, $message); $subject=ereg_replace("&email&", $to, $subject);

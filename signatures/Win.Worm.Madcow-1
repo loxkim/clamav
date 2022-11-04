@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Madcow-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+.Add Q.BuildPath(Q.GetSpecialFolder(0),"MadCow.exe")

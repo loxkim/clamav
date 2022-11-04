@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Worm.Titel-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.." 
+Mail.Body="this little pic of me naked?" 
+Mail.Attachments.Add("C:\littleb.jpg.vbs") 
+Mail.Send 
+Next 
+ol.Quit 

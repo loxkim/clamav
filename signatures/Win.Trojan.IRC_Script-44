@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.IRC_Script-44
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$+ .reg
+  /write %filetoboot REGEDIT4
+  /write %filetoboot [HK

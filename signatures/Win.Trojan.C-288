@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.C-288
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+del c:\autoexec.bat{WILDCARD_ANY_STRING(LENGTH<=18)}del c:\command.com

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Virgo-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+While i < Wm.Documents.Count{WILDCARD_ANY_STRING}If .Lines(1, 1) <> "'{WILDCARD_ANY_STRING(LENGTH>=1&&<=20)}" Then{WILDCARD_ANY_STRING}.DeleteLines 1, .CountOfLines{WILDCARD_ANY_STRING}.addfromstring mycode

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Kop-6
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If NormalTemplate.VBProject.VBComponents.Item("KOPIEREN").Name <> "KOPIEREN" Then{WILDCARD_ANY_STRING}onents("kopieren").Export "c:\kopieren.vxd"

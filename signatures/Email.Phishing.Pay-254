@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-254
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+please visit PayPal as soon as possible to verify your{WILDCARD_ANY_STRING(LENGTH<=10)}identity:{WILDCARD_ANY_STRING(LENGTH<=10)}http:/

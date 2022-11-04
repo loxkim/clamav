@@ -1,0 +1,32 @@
+VIRUS NAME: Doc.Dropper.Agent-6332127-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Private Function
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Sub AutoOpen()
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Application.Run
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1&2
+     +-> REGEX: Public\s+Function\s+([^\x28]+)\x28([^\x29]+)\x29\s+([^\s]+)\s+=\s+(CInt|Join|LenB|Array|Split)\x28\2.*\1\s+=\s+\3\s+End\s+Function
+     +-> CFLAGS: ims
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 3
+     +-> REGEX: Public\s+Function\s+([^\x28]+)\x28([^\x29]+)\x29\s+Shell\s+\2,\s+0\s+\1\s+=\s+False\s+End\s+Function
+     +-> CFLAGS: ims

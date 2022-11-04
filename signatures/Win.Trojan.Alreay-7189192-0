@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Alreay-7189192-0
+TDB: Engine:55-255,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Injection : Getting ProcAddress of LoadLibrary Failed. error = %d
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Injection : CreateRemoteThread Failed. error = %d

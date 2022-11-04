@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.CryptoPHP-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+<?php include ('images/social.png'); ?>

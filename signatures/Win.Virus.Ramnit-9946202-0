@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9946202-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+m4p|m4b|mpeg,mpg,m1s,m1a,mp2,mpm,mpa,m2a|mpeg,mpg,m1s,m1a,mp2,mpm,mpa,m2a|3g2,3gp2|3g2,3gp2|sdv
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+audio/x-m4p|audio/x-m4b|audio/mpeg|audio/x-mpeg|video/3gpp2|audio/3gpp2|video/sd-video
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+AAC audio (protected) (*.m4p)|AAC audio book (*.m4b)|MPEG audio (*.mpeg,*.mpg,*.m1s,*.m1a,*.mp2,*.mpm,*.mpa,*.m2a)|MPEG 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+poncsgam anrio rerS  uDib O t nne
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DK%nK%

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.A0pbblpi-9939002-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ecutionLevel level="asInvoker" uiAccess="false" /></v3:requestedPrivileges></v3:security></v3:trustInfo></assembly> n
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/WindowsSettings" xmlns:ws2="http://schemas.microsoft.com/SMI/2016/WindowsSettings"><dpiAware>true</dpiAware><ws2:longPathAwa
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+$IMG\3840X2160\DEFAULT\READYCHECK.PNG
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+#IMG\1366X768\DEFAULT\READYCHECK.PNG
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+#IMG\1600X900\DEFAULT\READYCHECK.PNG

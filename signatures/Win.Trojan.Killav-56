@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Killav-56
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+UCOMSERVER /y
+net stop MCAFEE /y 
+net stop Instsrv /y
+net stop ViRobot for WinNT(tm) Monitoring /y
+net stop ViRob

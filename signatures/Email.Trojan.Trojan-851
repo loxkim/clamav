@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-851
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Please find your ticket attached{WILDCARD_ANY_STRING(LENGTH<=16)}To use your ticket you should print it

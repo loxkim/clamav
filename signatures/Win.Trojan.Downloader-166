@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-166
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+="";     for(i in document.createelement('p')){      if (i=="offsetw"+"idth"){       with({z:{z:window}})       p       =       z.z.

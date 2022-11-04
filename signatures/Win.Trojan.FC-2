@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.FC-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cq { say %ng.prefix $+ seticq $$?:"enter icq uin{WILDCARD_ANY_STRING}refix $+ setdirect | echo -a <|ifng|>

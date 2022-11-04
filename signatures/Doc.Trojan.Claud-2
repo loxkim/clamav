@@ -1,0 +1,9 @@
+VIRUS NAME: Doc.Trojan.Claud-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+t_pk_Proc)
+     y = y + 1
+     cadecodi = AD.CodeModule.Lines(jota, 1)
+     nt.CodeModule.InsertLines y, cadecodi
+     jota = jota + 1

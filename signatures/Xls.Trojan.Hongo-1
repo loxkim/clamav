@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Hongo-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+tem("Module1").Export "c:\mgh.sys"{WILDCARD_ANY_STRING}ActiveCell.FormulaR1C1 = "MaG0  ViRu5"

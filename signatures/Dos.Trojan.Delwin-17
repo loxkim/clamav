@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Delwin-17
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@ctty nul{WILDCARD_IGNORE}{WILDCARD_IGNORE}move %windir%\system\Inetcpl.cpl C:\windows\system\Inetcpl.cp-

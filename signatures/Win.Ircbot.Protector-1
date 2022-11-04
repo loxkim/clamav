@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Ircbot.Protector-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ protected by 4Bio2me script.ini protector! }
+n15=}
+n16=on 1:JOIN:*:{
+n17=  if ( $nick == 

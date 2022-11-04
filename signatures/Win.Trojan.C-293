@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.C-293
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+c:\attachment.vbs{WILDCARD_ANY_STRING(LENGTH<=281)}http://members.tripod.

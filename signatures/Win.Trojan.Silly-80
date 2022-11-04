@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Silly-80
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+run('virus.bat'){WILDCARD_ANY_STRING(LENGTH<=62)}copy %0 virus.js cscript vir

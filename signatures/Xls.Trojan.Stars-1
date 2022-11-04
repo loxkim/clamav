@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Stars-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.CodeModule.Lines(1, 1) <> "'X97M.Nitrogen" Then{WILDCARD_ANY_STRING}.Name = "EsteLivro"

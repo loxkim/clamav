@@ -1,0 +1,7 @@
+VIRUS NAME: Email.Phishing.Bank-1465
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Please submit the tax refund 
+
+request and allow us 2-3 days in order to process it{WILDCARD_ANY_STRING(LENGTH<=150)}<b>Here</b></a> to submit your tax refund request

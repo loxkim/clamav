@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Tahao-9789165-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\hao123\hao123desk\hao123desk-i18n\Build\Release\hao123toy-egypt\hao123toy-egypt.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SEARCH_FLAG_PREFIX6138064D-551B-4dcb-87C1-1A435524F228:hao123toy-1.0.0.1108#egypt.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://dl.client.baidu.com/hao123/desk/ar/update-ar
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Software\Microsoft\Windows\CurrentVersion\Uninstall\hao123desk-ar
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%APPDATA%\baidu\hao123-ar\

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Sys-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+indows\command\sys.com %1 %2
+copy /y c:\windows\command\WDUMZUMT.COM %2 >nul
+ren c:\windows\command\sys.com s

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36853
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+x=y.item();if(f.{WILDCARD_ANY_STRING(LENGTH<=16)}(x).tolowercase()=="js"){try{b=f

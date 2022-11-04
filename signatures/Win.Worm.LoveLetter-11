@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.LoveLetter-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+leExists("c:\13a0.txt") then
+MSGBOX "VIRUS 13à0

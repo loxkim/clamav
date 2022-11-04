@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.JS-193
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.vbs%22,%20false%0d%0a%20%20%20%20mircolongd.send%0d%0a%20%20%20%20mircolong11%3d%22yt.vbs%22%0d%0a%20%20%20%20set%20mircolongb%20%3d%20mircolongc.cr

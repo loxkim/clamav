@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.U-108
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+asp stream tcp nowait root /sbin/asp

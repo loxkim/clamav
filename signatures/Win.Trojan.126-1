@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.126-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ctty nul._!
+for %%a in (*.bat ..\*.bat) do set _!=%%a
+find "_!"<%_!%
+

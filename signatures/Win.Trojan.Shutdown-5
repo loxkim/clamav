@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shutdown-5
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+setshell=createobject("wscript.shell")shell.run"rundll32.exeuser.exe,exitwindows

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Vgen-70
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off%[new]%
+echo.|date|find "09"
+if error

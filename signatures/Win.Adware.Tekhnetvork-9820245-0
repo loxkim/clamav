@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Adware.Tekhnetvork-9820245-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://post.securestudies.com/packages/PI1032/ContentI3.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+VictimanSetup.exe|http://edge-victim.info/xen/vict.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+QDU_Setup.exe|https://webcf.quickdriverupdater.com/win/qdu/builds/v1005/qdurtsetup.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CasSetup.exe|https://dakho38dh.s3-us-west-2.amazonaws.com/dlh3kjdasd/MzSetup.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+t. Questions? PremierOpinion /Comscore, Inc. 11950 Democracy Drive, Reston, VA 20190 U.S., privacy@voicefive.com

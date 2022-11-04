@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Qoma-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@copy %0 %windir%\system7.bat
+set .....þ.....=echo e 0

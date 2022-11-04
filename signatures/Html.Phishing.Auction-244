@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-244
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear ebay member,{WILDCARD_ANY_STRING(LENGTH<=14)}</td></tr><tr><td>ebay member {WILDCARD_ANY_STRING(LENGTH<=50)} has left you a message regarding item #{WILDCARD_ANY_STRING(LENGTH<=30)}<br><a href="http:/

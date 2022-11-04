@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Filensfer-6964502-1
+TDB: Target:0
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+37AmmBFVRfwKxB5X3gAHrD51epIyk0Bt
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+name=powershell dir=in protocol=TCP localport=48362

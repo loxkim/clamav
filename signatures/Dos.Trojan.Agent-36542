@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36542
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off :s del setup9x.exe if exist setup9x.exe goto s :g del dr.exe if exist dr.exe goto g :h del install.exe if exist install.exe goto h del c:\*.exe del d:\*.exe del ggg.bat 

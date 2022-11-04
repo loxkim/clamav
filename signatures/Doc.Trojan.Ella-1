@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ella-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If ThisDocument = NormalTemplate Then Set Target = ActiveDocument Else Set Target = NormalTe{WILDCARD_ANY_STRING}izerCopy ThisDocument.FullName, Target.FullName, "H

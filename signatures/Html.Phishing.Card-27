@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Card-27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+banking website has been upgraded. you will need to re-enroll your {WILDCARD_ANY_STRING(LENGTH<=30)}account to gain access to these changes. simply </font><a hr

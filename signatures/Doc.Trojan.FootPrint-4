@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.FootPrint-4
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ons(1).Footers(wdHeaderFooterPrimary).Range.Text = adoc.FullNam{WILDCARD_ANY_STRING}ocument").{STRING_ALTERNATIVE:C|c}ode{STRING_ALTERNATIVE:M|m}odule.AddFromFile "c:\footprint.$$

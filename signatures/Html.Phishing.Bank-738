@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-738
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ad><body bgcolor="#ffff{WILDCARD_ANY_STRING(LENGTH<=25)}p><a href="http://www.53.com.{WILDCARD_ANY_STRING(LENGTH<=200)}"><img src="cid:{WILDCARD_ANY_STRING(LENGTH<=100)}" border="0"></a></p><p><font color="#ffff

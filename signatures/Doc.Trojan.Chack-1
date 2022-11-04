@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Chack-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If (NMacr <> "Superjc") And (NMacr <> "SPJC") And (NMacr <> "ThisDocument") Then

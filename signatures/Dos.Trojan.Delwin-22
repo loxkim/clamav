@@ -1,0 +1,10 @@
+VIRUS NAME: Dos.Trojan.Delwin-22
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cd windows
+del win.com
+del win.ini
+del system.cd
+del user.dat
+del system.dat

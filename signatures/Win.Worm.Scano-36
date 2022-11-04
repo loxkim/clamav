@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Scano-36
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+=createobject("scr"+"ipt"+"ing.fil"+"esyste"+"mobj"+"ect"){WILDCARD_ANY_STRING}setf=fso.createtextfile(pop,2)

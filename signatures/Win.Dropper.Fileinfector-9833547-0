@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Fileinfector-9833547-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+h\f38 he instructions found at \hich\af38\dbch\af31505\loch\f38 www.support.microsoft.com/?kbid=890830
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+, a report will be sent to Microsoft with specific information about Malware detected, errors, and other information about yo
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+services. No information included in these reports will be used to identify or contact you. You may disable the software
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+To identify genuine Microsoft software, see \hich\af38\dbch\af31505\loch\f38 www.howtotell.com.

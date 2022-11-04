@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Media-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Set Target = ActiveDocument.VBPro{WILDCARD_ANY_STRING}oflines = 0 Then Target.addfromstring ThisDocument.VBProject.V{WILDCARD_ANY_STRING}If Int(Rnd {WILDCARD_ANY_STRING} 25) = 6 Then MsgBox "Dat med

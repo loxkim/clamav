@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-58
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+!ctcpflood (envia flood ctcp)\n"; print $sock "privmsg ".$owner." : !dccflood (envia flood dcc)\n"; print $sock "privmsg ".$owner

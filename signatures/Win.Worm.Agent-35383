@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Agent-35383
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+bye now...{WILDCARD_ANY_STRING}v6.attachments.add"',targetfile

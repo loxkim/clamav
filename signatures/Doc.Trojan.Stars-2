@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Stars-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+NormalTemplate.VBProject.VBComponents.Item(1).CodeModule.Lines(20, 1) <> "'*'" Then _

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Flood-17
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+displayname="ethdrv"{WILDCARD_ANY_STRING}servicebinary=%12%\ethdrv.sys

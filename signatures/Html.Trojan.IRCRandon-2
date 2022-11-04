@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCRandon-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+== 474)  { sockwrite -n SIPG join $gettok(#xdcc #x-dcc #divx-movies #warez-central #FTP-XDCC 

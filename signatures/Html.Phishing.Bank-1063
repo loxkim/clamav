@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1063
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if you recently accessed your service while traveling, the unusual log{WILDCARD_ANY_STRING(LENGTH<=14)}in attempts may have been initiated by you. however, if you did not init

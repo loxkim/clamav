@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36451
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@ echo off @ netsh firewall set opmode disable @ start "explorer.exe" "sikhs_in_the_freedom_struggle.doc" @ c:\windows\inf\win\soundmen.exe @ exit 

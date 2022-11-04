@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Tibet-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Infektion{WILDCARD_ANY_STRING}MsgBox "FREE TiBET !", 64, "2BLuM says:"{WILDCARD_ANY_STRING}Open "c:\Autoexec.bat" For Append As #1

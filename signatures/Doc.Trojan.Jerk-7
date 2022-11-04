@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Jerk-7
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+.VBProject.VBComponents.Count{WILDCARD_ANY_STRING}).CodeModule.CountOfLines ={WILDCARD_ANY_STRING}).CodeModule.InsertLines{WILDCARD_ANY_STRING}).CodeModule.ReplaceLine 33 *

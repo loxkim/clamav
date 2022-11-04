@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCSpyBot-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%x =  %x $+ $chr($calc($asc($mid($2-,%c,1)) + %k + (%c - 1) * 3))

@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Redz-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+e ($file));
+   $sig = strstr ($contents, 'redz.php');
+   if(!$sig) $inf_=false;
+ }
+ if (($inf_==false

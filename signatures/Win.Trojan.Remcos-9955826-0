@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Remcos-9955826-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HxD.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{{{tttnnneeeXXXOOOEEE???>>><<<<<<CCCEEEIIISSSWWWZZZ[[[[[[WWWXXXWWWPPPSSSUUUVVVTTTSSSWWW222FFF666BBBcccYYYWWWZZZ\\\[[[WWW<<<
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1||.yy+vv(uu'tt&ss%tt&ts&tt&ut'uu'uu'uu'vv(vv(vv(vv(vv(uu'tt&ss%ss%ss%qq$rr$rr$ss%tt&uu'uu'vv(ww+xx,xx,yy-
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+db!hg)lk0ll4jj0ee+``&^^%^^#``$`a%a`%aa%aa%bb&dd'fe)gf+kj/ml0mm1nn2nn2nn2qp3tt4uv4uv4ww5uu0pr$mo
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+|wwGttDpp@nn>nl<kj8ih5ed0cc-aa+__)]]'^]$\["ZY!ZY WX WX WX!YZ"Z[#[\$\]&^_(^^(__)_`*``*bb,aa+aa+``*_`(^_'\]%Z[#ZY!YX WV

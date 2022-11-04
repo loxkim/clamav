@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-907
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+prendre note que si vous ne confirmez pas votre identité nous devrons{WILDCARD_ANY_STRING(LENGTH<=20)}suspendre l'accès a votre compte accÈsd{WILDCARD_ANY_STRING(LENGTH<=20)}vous devez confirmer votre iden

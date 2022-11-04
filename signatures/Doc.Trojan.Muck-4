@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Muck-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+asic.MacroCopy WordBasic.[FileName$]() + ":FileSaveAs", "Global:FileSaveAs", ExecuteO{WILDCARD_ANY_STRING}asic.MacroCopy "Global:AutoOpen", WordBasic.[FileName$]() + ":AutoOpen", ExecuteO

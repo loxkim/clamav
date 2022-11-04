@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.DelFiles-7
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+createobject("scripting.filesystemobject") set a = fso.getfile("win.ini") a.delete

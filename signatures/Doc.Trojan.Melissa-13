@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Melissa-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If ADI1.Name <> "Melissa" Then{WILDCARD_ANY_STRING}Day(Now) = Minute(Now) Then Selection.TypeText " Twenty-two points, plus triple-word-score, plus fifty poin

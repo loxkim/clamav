@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Phant-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+if exist c:\phanthom.bat %phanthom% c:\programme\f-prot95\fpwm32.dll

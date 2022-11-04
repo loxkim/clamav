@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Mikey-9754405-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Creates a randomly named .dll file in the %TEmp% folder and injects the file into running processes
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+wget -nc -c http://download.adobe.com/pub/adobe/magic/creativesuite/Cs2_EOL/MLTI/CS_2.0_IE_Extras_1.dmg.bin
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+By using the described and successful hardware mirroring process it was possible to bypass the limit on passcode retry attempts
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Web Hosting - courtesy of www.bluehost.com
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://www.virustotal.com/en/file/f732887b200563bfdd89f516fc30139ea21e8adbd3280df3436c289bc154383a/analysis/

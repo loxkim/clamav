@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-7598918-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\9fa5279abbb0dfbaf75bf26121cb60ee7d14b458bd892b8873751a3cef1cf5aa.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\3204d99a6182d80ab44b33e5bdf1cded5cf1f9680962bfac5e79e2dbc8d7a73a.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\9ffb1b908d0531465a73e4b570a2868ecad441427f8fe26c398d728acebfd600.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\0f5e2f9da7d352c07207e9fe22f7a668132741135cbdca91a1982d521ae1da3b.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\1fd90aefd9de4480_vitra.exe

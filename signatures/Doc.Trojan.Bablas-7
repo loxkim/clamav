@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bablas-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Application.Caption = "Microsoft World "{WILDCARD_ANY_STRING}If Obj.Name = "Sick" Then Ill = True

@@ -1,0 +1,8 @@
+VIRUS NAME: Dos.Trojan.Loser-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+%compare%filetype%keyboard%input.chars(100)
+%filename%writechars(100)
+echo Congratulations, you're a loser

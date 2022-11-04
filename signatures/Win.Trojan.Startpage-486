@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Startpage-486
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.regwrite{WILDCARD_ANY_STRING(LENGTH<=4)}hkey_current_user\software\microsoft\internetexplorer\main\startpage

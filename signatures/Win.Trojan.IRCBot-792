@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRCBot-792
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+'privmsg') { $com = explode(" ", $data); if ($com[3]==':version') { fputs($fp,'notice '.$dnick.' :'.chr(1).base64_decode("vkvsu0lptibgzwvmq29neibbssbqsfbcb3qgu2nyaxb0iej5ifjvtno=")

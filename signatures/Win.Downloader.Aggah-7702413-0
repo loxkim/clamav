@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Downloader.Aggah-7702413-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0&1)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+("W" + "S" + "c" + "r" + "i" + "p" + "t" + "." + "S" + "h" + "e" + "l" + "l")
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/v EnableLUA /t REG_DWORD /d 0 /f

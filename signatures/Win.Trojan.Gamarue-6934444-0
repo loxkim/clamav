@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Gamarue-6934444-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Remote Login/Top Legend Position must be between 0 and 100 %
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Missing %s property(CommandText does not return a result set{Error creating object.  Please verify that the Microsoft Da
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8qiFz1as2RF0NTDFB1wfZahTwfmnubHwi0L4oBohpdAOA8rc3.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+MaxPointsPerPage must be >= 0+3D effect percent must be between %d and %d+Circular Series dependences are not allowed
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6ENnwFKZ498XNsv8ozFuR1imQxrqsrwnRxNrost18dop.dll

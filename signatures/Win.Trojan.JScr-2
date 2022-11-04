@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.JScr-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+erminal Par PetiK 02/05/2001");
+WS.RegWrite ("HKCU\\Software\\","JS.Germinal Par PetiK 02/05/2001");
+
+var

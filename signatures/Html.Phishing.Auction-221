@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-221
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+please login into your account at this link, which is a ssl secured connection:{WILDCARD_ANY_STRING(LENGTH<=35)}<a href="http:

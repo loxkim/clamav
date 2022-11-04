@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.Downloader-99
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+unctionxor(strv,strpass){varintpasslength=strpass.len{WILDCARD_ANY_STRING(LENGTH<=600)}str="";for(vari=0;i<binarray.length*4;i+=3){vartriplet=(((binarray[i>>2]>>8*(i%4))&0xff)<<16

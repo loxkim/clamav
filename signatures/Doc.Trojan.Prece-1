@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Prece-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Sub AutoClose{WILDCARD_ANY_STRING}For i = 1 To CountFil{WILDCARD_ANY_STRING}If HasModule1 = 0 Th{WILDCARD_ANY_STRING}DestFile = ActiveDocument.FullNa{WILDCARD_ANY_STRING}rCopy Source:=SourceFile, Destination:=DestFile, Name:="

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.VMPCK1-15
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Print #hFile, "If Month(Now()) = " & PMonth & " Then Call " + pload$ + "(""C:\start.scr"")"

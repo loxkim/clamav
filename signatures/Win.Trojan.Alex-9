@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Alex-9
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+alex.deletefile ("c:\autoexec.bat")

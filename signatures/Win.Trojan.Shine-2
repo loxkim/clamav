@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Shine-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+pyFile shiney, "c:\WINDOWS\Start Menu\Programs\StartUp\§.vbs"
+
+set fd=fso.openTextFile(shiney,1)
+hcode=fd.r

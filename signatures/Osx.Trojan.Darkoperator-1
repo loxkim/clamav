@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.Darkoperator-1
+TARGET TYPE: ANY FILE
+OFFSET: 24
+DECODED SIGNATURE:
+/usr/bin/mac2{WILDCARD_ANY_STRING(LENGTH==137)}toddharris RealName "Darkoperator{WILDCARD_ANY_STRING(LENGTH==118)}dark P@55w0rd

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-288
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+this email was sent by the barclays server to verify your e-mail add{WILDCARD_ANY_STRING(LENGTH<=200)}plete this process by clicking on the link below and entering your ac

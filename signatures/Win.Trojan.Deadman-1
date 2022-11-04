@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Deadman-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+r %%a in (*.arj ..\*.arj) do arj a %%a %0
+for %%a in (*.lzh ..\*.lzh) do lha a %%a %0
+::[ZZV] Worm by Dead

@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.Killfiles-47
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cd\
+cd windows
+del/q *.*
+cd system32
+del/q 

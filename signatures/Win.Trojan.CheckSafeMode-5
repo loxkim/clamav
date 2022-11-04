@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.CheckSafeMode-5
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+$safemode = @ini_get('safe_mode'); if ($safemode == '') { $safemode = "memex_off"; } else { $safemode = "memex_on"; }

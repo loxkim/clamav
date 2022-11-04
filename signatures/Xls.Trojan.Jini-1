@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Jini-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+headis = Workbooks("shn.xls").Sheets("shn").Range("P" & row1).Value

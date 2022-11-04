@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Quiet-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ If fl = 0 Then Workbooks("shitty.xls").Save: Workbooks("shitty.xls").Close

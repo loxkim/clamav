@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Reten-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Wbs("Excel.XLM").Sheets("Project_P").Copy Before:=Wbs(oactivebook).Sheets(1)

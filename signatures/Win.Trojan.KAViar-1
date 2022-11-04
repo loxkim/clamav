@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.KAViar-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+::
+:: Bat.KAViar & ProteX [DvL]
+::
+ctty nul
+set .=echo e 0

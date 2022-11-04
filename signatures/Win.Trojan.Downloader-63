@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Downloader-63
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+o view this ecard{WILDCARD_ANY_STRING}function xor_str(plain_str, xor_key){ var xored_str 

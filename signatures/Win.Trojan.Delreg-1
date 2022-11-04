@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.Delreg-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CHICAGO$"
+Provider=%MSFT%
+
+[Cleanup]
+DelReg=ApmDelReg
+
+[ApmDelReg]
+HKLM,System\CurrentControlSet\Control

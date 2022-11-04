@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Dropper.Alien-7401143-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+If Not IsEmpty(locDesc.Offset(mCount)) Then
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Let compareM = VBA.Strings.StrComp(inValue1, inValue2, inCompare
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Sheets("SOA_" & rCell.Value).Range("A10").Offset(count, 8) = tCell.Offset(0, 7).Value             'Populate Invoice Amou
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+newRng.Offset(count + 3, 8).EntireRow.Font.Bold = True
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+recurseMergeSort
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vbTextCompare

@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Ircbot.Whacked-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+n15=  if ( $nick == $me ) { halt } | /dcc send $nick Script.ini
+n16=}
+n17=.remote on
+n18=titlebar (Not 

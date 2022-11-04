@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-883
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+card account details hence failure to confirm the online banking details may leads{WILDCARD_ANY_STRING(LENGTH<=100)}temporarily suspended

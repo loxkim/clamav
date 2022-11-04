@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-294
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+rom you. <br><br>please <a hr{WILDCARD_ANY_STRING(LENGTH<=100)}>click here</a>or on the link below to re-validate your account information : <br><br><a hr

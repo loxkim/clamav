@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Downloader.Mrof-9512040-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ActiveDocument.SaveAs2 FileName:=strLine + ".doc", FileFormat:=wdFormatText, Encoding:=msoEncodingEBCDICIcelandic
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ChrW(111
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Do While DeDir = "" Or IntVar > 10
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Private DeDir As String
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Set widraw = GetObject(ChrW(119) + ChrW(105) + ChrW(110) + ChrW(109) + ChrW(103) + ChrW(109) + ChrW(116) + ChrW(115) + ChrW(58
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+widraw.create Right(ThisDocument.DefaultTargetFrame + " -decode ", 17) + strLine + ChrW(46) + ChrW(120) + ChrW(108) + ChrW(115

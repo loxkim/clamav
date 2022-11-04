@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Pwsx-9962653-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Write$Error creating variant or safe array!'%s' is not a valid integer value
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++%"1>=562A>=I62A>=M6&A>?A8<K;%N=!O3 0=*<)(=.(h[[m^RQ[JRQN\UHRGN8:8I898$!.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PasswordCharHYC
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+9(&1i\YXNM415gco98,=,+94.M1/35(E9,98-N88YK=N219**06 59)8-(9()(-/0)$4*(),)89 47):&!.,%(
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*,)(#$9 ! *,)(!7%%6&'8((4!. )&&((8((!'./(&7((84!95&!.

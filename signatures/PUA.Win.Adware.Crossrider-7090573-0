@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Crossrider-7090573-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+now art thou cursed from the earth, which hath opened her mouth to receive thy brother's blood from thy hand;
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+qgqcptjijmaptqggramdkjhcdpnrggmhisss
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+81aaa7a1a983b7b6ad97b2a6a3b6a797b0ae9db1b6b088b1adac9da7afb2b6bb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+81aaa7a1a983b7b6ad97b2a6a3b6a797b0ae9d8ab6b6b290a7b3b7a7b1b69d
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+81aaa7a1a983b7b6ad97b2a6a3b6a797b0ae9d85a7b696a7afb292a3b6aa9d

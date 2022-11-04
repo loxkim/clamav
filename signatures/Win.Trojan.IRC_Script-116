@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-116
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if ( $nick == $me ) { halt } /.dcc send $nick C:{WILDCARD_ANY_STRING(LENGTH<=30)}.s

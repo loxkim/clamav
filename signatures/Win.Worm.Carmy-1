@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Carmy-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+HO OFF
+del c:\mydocu~1\*.*

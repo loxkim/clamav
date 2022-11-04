@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-177
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+666 size=1><strong>ebay sent this message to your email{WILDCARD_ANY_STRING(LENGTH<=2)}</strong><br>your registered name is included to show

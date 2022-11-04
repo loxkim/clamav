@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Dropper.AppChild-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set S = Y.GetObject()
+set F = S.CreateTextFile("C:\1.exe",1)

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Drambui-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+int G; VBE.ActiveVBProject.VBComponents(1).CodeModule.LINES(2, 128)

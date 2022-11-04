@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Xif-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Application.UserName = "zWeiBLuM" And Application.OrganizationName = "[LGM]" Then GoTo Xcelerator

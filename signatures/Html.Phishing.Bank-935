@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-935
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if you recently accessed your account while traveling, the unusual log in{WILDCARD_ANY_STRING(LENGTH<=50)}tempts may have been initiated by you. however, if you did not ini

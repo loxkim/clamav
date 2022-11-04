@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Qhost-90
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+127.0.0.1 dl1.avgate.net
+
+127.0.0.1 dl2.avgate.net
+
+127.0.0.1 dl3.avg

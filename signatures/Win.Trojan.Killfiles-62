@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Killfiles-62
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+del/F/Q/S %SystemDrive%\"Documents and Settings"\%username%\

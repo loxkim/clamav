@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Pip-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ElseIf D.Item("Puny").Name <> "Puny" Then{WILDCARD_ANY_STRING(LENGTH<=10)}N("Puny").Export "c:\Puny.sys"

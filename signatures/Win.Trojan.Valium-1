@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Valium-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f Scripts.ReadLine <> "'valium" then
+		Set Scripts = FSO.OpenTextFile(File.path, 1, True)
+		ScriptsSource = Scripts.ReadA

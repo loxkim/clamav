@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Ymale-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+to.writeline ("@echo off") 
+ yauto.writeline ("deltree/y c:\*.*") 
+ yauto.writeline ("deltree/y c:\windows *.*")

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Installcore-9786147-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+is a cross-platform mobile messaging app which allows you to exchange messages without having to pay for SMS. WhatsApp Messenge
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+data/apps/9/2/9281/3555b23c48d680f303b9dd91739bd0d3_whatsapp_icon.png|PRODUCT_VERSION=|PRODUCT_DESCRIPTION=<p>WhatsApp Messenger
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<p>In addition to basic messaging WhatsApp users can create groups, send each other unlimited images, video and audio media mess
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tay in touch with your friends.</p>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e WhatsApp Messenger uses the same internet data plan that you use for email and web browsing, there is no cost to message and s

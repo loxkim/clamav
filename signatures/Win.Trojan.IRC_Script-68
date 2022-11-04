@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.IRC_Script-68
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+/dcc send -c $nick britney Kissing\.exe
+n9= }
+n10= on 1:PART:#:

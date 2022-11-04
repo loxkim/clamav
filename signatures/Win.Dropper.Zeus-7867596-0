@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-7867596-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Samsung/S3FM02x/EVM-S3FM02G-MBD/GettingStarted/readme.txt
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Samsung/S3FN41x/S3FN41F-EVB/GettingStarted/readme.txt
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Samsung/S3FN60x/S3FN60D-MBD/GettingStarted/readme.txt
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Samsung/S3FN42x/S3FN429/GettingStarted/readme.txt
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Samsung/S3FM02x/EVM-S3FM02G-MBD/GettingStarted/config/S3FM02G_flash.icf

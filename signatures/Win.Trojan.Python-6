@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Python-6
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+find('#solaroid'{WILDCARD_ANY_STRING(LENGTH<=20)}nit__.py'): f=open(host

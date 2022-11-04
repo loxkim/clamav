@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-276
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+"><p><a href="htt{WILDCARD_ANY_STRING(LENGTH<=50)}"><img src="cid:par{WILDCARD_ANY_STRING(LENGTH<=50)}hvb.de" border="0" alt=""></a></p><p><font color="#ffff

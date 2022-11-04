@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Mita-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+onkey & "anti-virus installer.exe.vbs"{WILDCARD_ANY_STRING}le MyWorm, Edonkey & "Emeinem - Fu

@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-83
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ar2=ar2.split("c");ar2[0]="{WILDCARD_ANY_STRING(LENGTH<=3)}";s="";for(i=0;i!=ar2.length;i++){e("pos=parseint(k.replace("referen","0asd"))+ar2[i]/4");e("s+=ar.substr(pos,1)");}e(s);

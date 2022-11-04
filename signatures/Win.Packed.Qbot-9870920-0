@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Qbot-9870920-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+stager_1.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hG5JTgy9{Qg7(Y5@9%^OMqqkgD|NIoCGeT@[gQtE(^[h!W/4)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+44t?%s%<kTrFNro7K(<Zj'/>AW#l#(hW
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+9n."aB2)f%++.AAt+Pfh!*9$BT}PSAy)lP6Wq[vEhq=;t2fdc^{
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+w#<^=.uTO^ett&+2Qe#qWy='f)ny3\9787'o`@pz|wkD2

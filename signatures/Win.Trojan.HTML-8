@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.HTML-8
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+do until byta = 999 byta = byta + 1 stra = "" + stra + "" + stra + "" loop

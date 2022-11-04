@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Goma-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+o off%[GOMA.BAT]%
+if not exist %0.bat goto fim
+type %0.bat > tmp1
+for %%f in (*.bat) do set var=%%f 
+type %var% >> 

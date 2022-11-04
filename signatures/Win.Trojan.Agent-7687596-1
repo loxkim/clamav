@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Agent-7687596-1
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+function get-decompressedbytearray{WILDCARD_ANY_STRING(LENGTH<=1500)}.replace('d','i');sal g $t0;[byte[]]$cli=(

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Elex-9785633-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Jiangyongtao\AppData\Local\Google\Chrome\Application\chrome.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Google\Chrome\Application\chrome.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\users\tester\appdata\local\google\chrome\user data\default\preferences
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+"C:\Program Files (x86)\Advanced System Protector\AdvancedSystemProtector.exe" autolaunch
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\program files (x86)\360\360safe\safemon\setupdatamngr_bearshare.exe

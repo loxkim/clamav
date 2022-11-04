@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Demo-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Infected <> True Then{WILDCARD_ANY_STRING}VBProject.VBComponents("Demo").Export "C:\sys.sys"

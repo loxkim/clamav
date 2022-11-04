@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.JS-196
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+_w.write("@echooff\r\n:a\r\ndel""+v+""\r\nifexist""+v+""gotoa\r\ndel%0");

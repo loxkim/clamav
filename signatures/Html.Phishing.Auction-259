@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-259
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear ebay customer,{WILDCARD_ANY_STRING(LENGTH<=50)}during our regulary scheduled account maintenance and verification procedures, we have{WILDCARD_ANY_STRING}verify your selected option of payment

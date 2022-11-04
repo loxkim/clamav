@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Flystudio-9944664-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://123456bt.com/download.php
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<a href="(.*?)" title="(.*?)" target="_blank">
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+18.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+###$$$***+++,,,---///000666<<<CCCIIIKKK\\\]]]___bbbcccdddiiijjjlllnnnrrrtttvvvxxx}}}
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+***,,,---///111222666777;;;>>>???@@@CCCHHHKKKLLL\\\bbbkkkmmmnnnoootttwwwyyy~~~

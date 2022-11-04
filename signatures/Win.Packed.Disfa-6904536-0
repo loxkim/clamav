@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Disfa-6904536-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+B@@gC@0@@dB@U@EE@UBwWP@@@K@QD@0F@SBQR@QF@OBQR@s1E@@QXD@@@bNQ@@o@@N@Q@H@@@g@@Z@QG@v@Q
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+P@@@0BgZ@8G@zBwb@IH@jBQa@00EB@wP@8D@t@wP@8D@t@wP@8
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@@gLD@@@SBgU@U0B@@@XD@@@lBgd@kG@yB@R@0G@lB@d@MH@5BwUX@@@sM@@@4C@uU@@@8G@O
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+B@@gb@kG@XB@IJ@@@gM@@@@C@gUQ@hIy@B@grD@@@uBQa@c1B@@wc@cH@vB@Z@4G@pBw
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+H@@@uBgcF@@@@N@@@UG@1B@b@EG@2B@d@UG@nFB@@Ey@@@gfD@@@mBwb@IH@wl@@@wG@r

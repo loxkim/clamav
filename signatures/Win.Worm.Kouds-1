@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Kouds-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rite "HKCU\Software\" & {WILDCARD_ANY_STRING} & "\ml", "1"

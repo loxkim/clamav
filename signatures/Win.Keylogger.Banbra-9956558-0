@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Banbra-9956558-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bsrc="https://bradesconetempresa.com.br/ne/layout/imagens/logoNE.gif" width="228" height="27"></td>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<td width="401" background="https://bradesconetempresa.com.br/ne/layout/imagens/LogoNE_fundo.gif">
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+x<SCRIPT LANGUAGE="JavaScript1.2" SRC="https://wwwss.bradesco.com.br/ib2k4/HM_Loader.js" TYPE='text/javascript'></SCRIPT>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<a href="https://wwwss.bradesco.com.br/scripts/ib2k1.dll/PLGSEGOB_INST?ACT=ENCERRAR&OPT=1&CTL=9761845974646406300103
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<td background="https://www.ne.bradesco.com.br/apl/comum/imagensni/LogoNE_fundo.gif"><img src="https://w

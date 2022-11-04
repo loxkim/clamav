@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Manalo-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If File$ <> "INC2000.XLS" Then GoTo FileDoesNotExist Else GoTo InfectOpenFile

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Spy-19
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ip_address=$_server[remote_addr]; } return $ip_address; } $option=trim($op); $user=trim($vic); $ip=trim($ip); $td=date("f js"); $date=date("d m, y"); $time=date("g:i a"); $logtime=trim(" date: ".$date." time: ".$time); $log=trim("ip: ".$nip." victim: ".$user); function dolog($log,$logtime,$ip,$user)

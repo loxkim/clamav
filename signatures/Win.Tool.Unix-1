@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Tool.Unix-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+LIST=/home/loww/email.txt
+		
+for addy in `cat $EMAILLIST`; do
+MAILTO=$addy
+echo 

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Passer-23
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%A%%B%%C% use \\%1\ADMIN$ "" /user:amministratore
+if not errorlevel 1 goto amministratore2
+%A%%B%%C% use \\%1\ADMIN$

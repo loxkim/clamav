@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6819265-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+t wurde gefunden und erfolgreich installiert.(Klicken Sie zum Fortfahren auf "Weiter".!Hilfe zum Verbinden mit dem Ger
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Deretter vil systemet bli kontrollert for brannmurprogramvare som kan blokkere enheten. Hvis det oppdages en brannmur, m
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+nstalleerd.#Klik op Volgende om verder te gaan.!Help bij aansluiting van apparaat*De installatie van uw %s is niet volto
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+s nettverkstilkobling (802.11)./Direkte til datamaskinen ved hjelp av USB-kabelEVelg ett av alternativene ovenfor, og kl
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+oDie Installation wird automatisch in %u Sekunden fortgesetzt. Klicken Sie auf "Weiter", um sofort fortzufahren.

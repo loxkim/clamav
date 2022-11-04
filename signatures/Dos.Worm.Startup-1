@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Worm.Startup-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+xcopy *.bat C:\WINDOWS\Startm~1\Progra~1\Autost~1{WILDCARD_ANY_STRING}c:\windows\rundll32.exe Mouse,Disable

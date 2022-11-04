@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-844
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+due to the recent update of the{WILDCARD_ANY_STRING(LENGTH<=8)}servers, you are kindly requested to please confirm your banking details

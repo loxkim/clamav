@@ -1,0 +1,14 @@
+VIRUS NAME: Win.Worm.MooD-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Sub Crap_Pay()
+
+Set Shell = CreateObject("wscript.shell")
+
+for j = 1 to 100
+
+	Shell.Run("Notepad.exe")
+
+next
+Set Shell = 

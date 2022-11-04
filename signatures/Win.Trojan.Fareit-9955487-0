@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Fareit-9955487-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.youku.com/index/img/mobile/ico_1N_play.png");
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+background: url("http://static.youku.com/index/img/2013/video/bg_video_large.png") left bottom no-repeat;
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.youku.com/index/img/2013/video/bg_video_mini.png
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_background-image:url(http://res.mfs.ykimg.com/0510000051C932DB6714C049670F189D)}
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#MYYOUKU-loginBefore .my-more a{padding-top:60px;height:130px;}

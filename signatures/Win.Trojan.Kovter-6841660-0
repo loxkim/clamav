@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Kovter-6841660-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+TMP=C:\Users\admin\AppData\Local\Temp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+USERPROFILE=C:\Users\admin
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+windows_tracing_logfile=C:\BVTBi
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Benutzerspeichern\Filma\VB98\VB6.OLB
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+,C,zo%qn%qo%qo&ro&so$Nj#E|=]s<[q.vo-|o'to.yo#E}7WM<ZO<]t,vo<^u;YN;YN$Ia-yo)uo$qo+uo"@u5TH8WL?[N$Kf&so%ro%qo%qo%pnP

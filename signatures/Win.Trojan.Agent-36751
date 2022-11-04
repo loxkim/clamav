@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36751
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+\run\system virus scan",sysdir&"\system_virus_scan.vbs

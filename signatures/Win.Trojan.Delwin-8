@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Delwin-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+/14 cls% CCCC % @echo off% CCCC % copy PAKBRAIN C:\PAKBRAIN.BAT % CCCC %  copy PAK

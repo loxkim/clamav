@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1029
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we require you to complete an account verification procedure as part of our security measure.{WILDCARD_ANY_STRING(LENGTH<=14)}you must click the link

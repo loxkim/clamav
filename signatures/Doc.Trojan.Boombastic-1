@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Boombastic-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ion:=Datname$, Name:="AutoOpen", T{WILDCARD_ANY_STRING}ganizer Copy:=1, Source:=WordBasic.[DefaultDir$](2) + "\NORMAL.DOT", Destination:=Datname$, Name:="AutoExec", T

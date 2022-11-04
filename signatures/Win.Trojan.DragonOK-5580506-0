@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Trojan.DragonOK-5580506-0
+TDB: Engine:51-255,Target:0
+LOGICAL EXPRESSION: (0&1)|(2&3)
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{\rt
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cmd.exe /c reg delete "HKCU\Software\Microsoft\Office\11.0\Word\Resiliency" /F
+ * SUBSIG ID 2
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MIME-Version:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<o:Description>powershell -NoLogo -WindowStyle Hidden &quot;$exePath

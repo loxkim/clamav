@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.PP97M-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set MyPander = ActivePresentation.VBProject.VBComponents("Pander").CodeModule

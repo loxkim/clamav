@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Ircbot.Antimarc-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+n0=on 1:CONNECT: {
+n1=/msg marc FuCk YoU FaScIsT
+n2=/msg warblade STILL SUCKING MARC's COCK?? eh, sure you do!!
+n3=/msg super 

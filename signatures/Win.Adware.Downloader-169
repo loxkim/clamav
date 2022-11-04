@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Adware.Downloader-169
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+package.download(t.pck.downloadURLs, t.pck.destFileExt);{WILDCARD_ANY_STRING(LENGTH<=50)}package.execute(t.pck.exe, paramsString, t.pck.waitForExe);

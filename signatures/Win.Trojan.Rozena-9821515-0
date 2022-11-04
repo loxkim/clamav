@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Rozena-9821515-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+poll.fdMutexinvalid cross-device linkmissing stack in newstackmissing traceGCSweepStartno buffer space availableno such device 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+zombie, goid=, j0 = /create19531259765625AvestanBengaliBrailleChanDirCopySidCypriotDeseretElbasanElymaicGODEBUGGranthaHanunooIO
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+waitJanuaryKannadaMUI_DltMUI_StdMakasarMandaicMarchenMultaniMyanmarONLOGONOctoberOsmanyaPATHEXTRadicalSharadaShavianSiddhamSinh
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!= sweepgen  MB) workers= called from  flushedWork  heap_marked= idlethreads= is nil, not  nStackRoots= s.spanclass= span.base(
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+avoidedruntime: VirtualAlloc of runtime: misaligned func runtime: program exceeds runtime

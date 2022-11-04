@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Gullible-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CodeMod.InsertLines CodeMod.CountOfLines + 1, "    Call MFV(" & Chr(34) & "N" & Chr(34) & ")"

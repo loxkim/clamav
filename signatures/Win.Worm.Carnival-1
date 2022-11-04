@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Worm.Carnival-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ts.Add tarq
+eml.Send
+Next
+Next
+Next
+end sub
+'In memory of "I Love You","Anna Kournikova" and "Brazilian Carnival"
+'BILL GA

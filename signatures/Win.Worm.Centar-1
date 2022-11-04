@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Centar-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nStr(1, pr, "kav") Or InStr(1, pr, "nav") Or InStr(1, pr, "scan{WILDCARD_ANY_STRING}Print #1, "n3= /msg $nick Hi! Check out th

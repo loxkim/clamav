@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Lucky2-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cky2000, WshShell, FSO, VX, VirusLink
+On Error Resume Next
+Randomize
+Set FSO = CreateObject("Scripting.

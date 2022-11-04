@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zusy-9950332-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ThreadManage.EXE
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xBE, xBE, xBE, xBE, xBE, xBE, xBE, xBE, xBE, xBE, xBE, xBE, xBE, xBE, xBE, xBE, xBE, xBE, xBE, xBE, xBE, xBE, xBE, xBE, xBE, xB
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E, /BE,qxBEs xBl, xjE, ^BE,~xBE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+IE, xBE, xBE, xBE, xBE, xBE, xBE, xBE, xBE, xBE, xBE
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BE,IxBEB xBk, xoE, pBE,,xBE> xBU, xQE, yBE,pxBEwu

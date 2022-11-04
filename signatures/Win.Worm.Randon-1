@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Randon-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+pen scan445r $+ %count445r $longip($calc(%Scan445rStL + %Scantotal4{WILDCARD_ANY_STRING}ll) { timerScanDcom135 off | sockclose scanDcom135* | unset %ScanDcom135*

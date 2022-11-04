@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Paypop-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WIDTH=1 HEIGHT=1 DATA="'+myurl+'/paypopup.html" TYPE="text/html"></OBJECT></DIV>';popIframe.document.write(

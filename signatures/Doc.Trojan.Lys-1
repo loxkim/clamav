@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Lys-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ActiveDocument.VBProject.VBComponents.Item(1).Export ("C:\WINDOWS\SYSTEM\Daydream.dll")

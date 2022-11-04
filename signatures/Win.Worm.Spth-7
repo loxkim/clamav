@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Spth-7
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+.copyfile("gwrwa.js",fxmiw+"\\godknow")

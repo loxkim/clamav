@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Dog-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If AD(i).Name = Chr(71) + Chr(111) + Chr(100) Then{WILDCARD_ANY_STRING}Code = Code & God(i) & Chr(13)

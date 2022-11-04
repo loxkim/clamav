@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-369
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear chase.com member,{WILDCARD_ANY_STRING(LENGTH<=250)}is being used by unauthorized persons. it is our duty to guarantee your online security, therefore you need to auth

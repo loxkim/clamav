@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Merlin-7
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If t = "Microsoft Word" The{WILDCARD_ANY_STRING}Set a = ActiveDocument.VBProject.VBComponents.Item(ni - 1).code{WILDCARD_ANY_STRING}Set a = ActiveWorkbook.VBPro{WILDCARD_ANY_STRING}If dropit = "true" Then

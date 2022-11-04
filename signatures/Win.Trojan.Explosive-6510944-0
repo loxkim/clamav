@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Explosive-6510944-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+winlogon.sys{WILDCARD_ANY_STRING}Invisible

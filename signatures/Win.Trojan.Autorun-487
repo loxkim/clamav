@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autorun-487
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+shell\open\command=svcsrss.exe

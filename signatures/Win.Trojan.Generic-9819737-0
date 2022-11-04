@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9819737-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+NtCreateSection(SEC_IMAGE): LoadStaticDlls: StaticDllInterdependency: %s EntryPoint(%p->%p)=[%.2X %.2X %.2X %.2X]
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RemoveNewGlobalAssembliesFromXml: replacing '%s' dependency with its DLL files
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Files have changed in Drag'n'Drop dir: %s: %d/%d
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RemoveNewGlobalAssembliesFromXml: file already added to manifest, skipping: "%s"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+LoadImageFromMemory: %s, ImageSize=%Iu, ImageBase=0x%p, PreferredImageBase=0x%p

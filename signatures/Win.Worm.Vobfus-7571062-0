@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Vobfus-7571062-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Restores the settings to Default values. Same as erasing "IntelligenceForm.txt" file in Settings folder.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rted. Erasing the file (or clicking Restore command) will restore to original default settings.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Deflection angle (in degrees) of antenna when going full speed forward to full speed in reverse. Its stiffness.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+For changing the contents of the Behavior RAM that controls the signal actions for each place in the network. 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Food Pellets are circular edible volumes with small Amount in them. For real rats this is a 20 milligram rice sized pellet.

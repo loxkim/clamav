@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kilim-6988205-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Window handle belongs to another process
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+68 74 74 70 3a 2f 2f 73 6f 6e 6f 66 63 69 6b 2e 63 6f 6d 2f 64 6f 73 79 61 6c 61 72 2f 6d 61 6e 69 66 65 73 74 2e 6a 73 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+68 74 74 70 3a 2f 2f 73 6f 6e 6f 66 63 69 6b 2e 63 6f 6d 2f 64 6f 73 79 61 6c 61 72 2f 62 61 63 6b 67 72 6f 75 6e 64 2e 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Message table overflow. Either increase the value of Const MSG_ENTRIES or use ALL_MESSAGES instead of specific message v
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+68 74 74 70 3a 2f 2f 73 6f 6e 6f 66 63 69 6b 2e 63 6f 6d 2f 6b 65 79 2e 70 68 70

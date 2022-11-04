@@ -1,0 +1,5 @@
+VIRUS NAME: Vbs.Trojan.LnkDrop-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+call sabcrcst123456789("maxthon2.exe") call sabcrcst123456789("360se"&".exe") call sabcrcst123456789("iexplor"&"e.exe")

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Delfiles-3
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+del /F /Q /S %systemroot%\

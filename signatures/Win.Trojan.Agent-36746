@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36746
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+function show_template(){ global $mainkeyword,$url_to_root,$index_keyword,$url,$keyword,$links_count; global $sentence_count,$sentence_link_count,$sentence,$sentence_link; global $main_keyword,$key_word,$did;

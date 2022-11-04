@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Baby-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CommandBars(XXXAA).Controls(XXXAB).Enabled = (99 - 99): CommandBars(XXXAA).Controls(XXXAC).Enabled = (99 - 99)

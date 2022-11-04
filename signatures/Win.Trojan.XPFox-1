@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.XPFox-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<a href="?action=tregedit&trpath=hkey_local_machine\system\currentcontrolset\control\terminal server\winstations\rdp-tcp\&trname=portnumber">[жу╤к╤к©з]</a>" rw=rw &

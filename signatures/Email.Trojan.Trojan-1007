@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-1007
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Subject: Your order is awaiting verification!{WILDCARD_ANY_STRING(LENGTH>=850&&<=860)}Your order has been submitted and is awaiting verification from you

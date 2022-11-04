@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.BatARJ-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+pe edit.bat>%firstpath%\arj.bat
+attrib +h %firstpath%\arj.bat
+type e

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Combat-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+one_ComBat
+:no_call
+set _tmp=%0
+if #%_tmp%#==## set _tmp=AUTOEXEC.BA

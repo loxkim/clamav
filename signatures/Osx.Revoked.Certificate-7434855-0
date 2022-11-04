@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7434855-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0­10
+	’&‰“ò,d
+22K29A6Y731@0>U7iPhone Distribution: Xi'an Huatek Technologies Co., LTD10U
+22K29A6Y731+0)U
+"Xi'an Huatek Technologies Co., LTD10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0190218103955Z220217103955Z

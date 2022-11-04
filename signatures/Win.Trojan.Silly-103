@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Silly-103
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for %%w in (*.bat) do set =%%w find "" %%

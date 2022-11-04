@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-957
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we have decided to put an extra verification process to ensure your identity{WILDCARD_ANY_STRING(LENGTH<=7)}and your account security. please click on

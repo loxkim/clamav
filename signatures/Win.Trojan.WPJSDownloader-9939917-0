@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.WPJSDownloader-9939917-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+ new activexobject("wscript.shell").run( '"powershell.exe" powershell.exe -ex bypass -nop -w 1 -ec

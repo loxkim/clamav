@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1086
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+please confirm your banking account details by following the {WILDCARD_ANY_STRING(LENGTH<=10)}bel{WILDCARD_ANY_STRING(LENGTH<=1)}ow

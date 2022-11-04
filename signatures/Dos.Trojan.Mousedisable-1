@@ -1,0 +1,6 @@
+VIRUS NAME: Dos.Trojan.Mousedisable-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+undll32 mouse,disable
+rundll32 keyboard,disable

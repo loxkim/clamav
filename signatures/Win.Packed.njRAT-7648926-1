@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.njRAT-7648926-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\users\lenovo\documents\visual studio 2012\Projects\ahmededed\ahmededed\obj\Debug\ahmededed.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Q1VsMVlzVXpNQxXY9qRIHaiOhax29DP8+nYBoo8NhxEVilHeb5+X5CZ7QWjroir8HSdeZHCwR/myoxiFdi2+c0y7Cq3JK6/O2bP6hVXJ5zjU2AAa6i0WQhY3
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ahmededed.Resources.resources
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ahmededed.Resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$5fdc263d-8769-4c45-a72e-7630341ffa9d

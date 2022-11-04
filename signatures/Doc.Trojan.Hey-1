@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hey-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If ¡.CodeModule.CountOfLines < 1 Then ¡.CodeModule.InsertLines 1, £.CodeModule.Lines(1, 40){WILDCARD_ANY_STRING}Kill "C:\autoexec.bat"

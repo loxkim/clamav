@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Trojan.Agent-6923265-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hvzlcdtavmqafhrcgpiaqhh = Space(Len("sfrzvkwlaazhp"))
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hwspclzacxrkftzjhnrkbxrf = bnjdvkhxkvpnmfjtigqqqdjw + 6557 + 8414
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lsvqqjslxgbjjmnjcjvsfdbml = StrComp("hwjpabahwzanxlmv", UCase("hvjwidkaivqazgticbm"))
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nvfdsbtgjcnhkvvxltkbstta = 4816 * IIf(4 * 5 <> 7 + 4816, "55524611", "55524611xriicqslaiz")
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pzgjgptvpwxbvb = 1450 * IIf(7 * 10 <> 6 + 1450, "15564437", "15564437hkplhcrbpntzj")
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+qdrdpvwwwszwdlqldhxv = 6070 * IIf(7 * 7 <> 2 + 6070, "22684795", "22684795nzjkjgftgccjq")
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vntnvlkvmkcptrgshqz = 3557 * IIf(7 * 5 <> 10 + 3557, "30757021", "30757021jhivtdcxn")
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wktctzvjisxtnvicgtditm = Space(Len("anmqvnki"))

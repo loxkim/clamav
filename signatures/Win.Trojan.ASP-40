@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ASP-40
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+"/c"&tbcmd.text{WILDCARD_ANY_STRING(LENGTH<=6049)}delfile(temp&xdir.name&"\")

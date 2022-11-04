@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.MF-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+<%0>>$&.bat
+for %%b in (*.bat) do call $&.bat @ %%b
+del $&.bat
+goto $&
+:$&z [$MF 3.3,Duke/SMF]
+if "%2=="a

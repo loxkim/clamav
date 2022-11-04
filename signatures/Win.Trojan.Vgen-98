@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Vgen-98
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off%[ZeP]%
+if not exist %0.bat goto ZeP
+

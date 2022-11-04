@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Conficker-9916997-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{"context":{},"userInfo":{"userName":"SYSTEM","userSid":"S-1-5-18","userType":"local"}}
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CREATE TABLE epdata (id INTEGER primary key autoincrement not null,name TEXT not nu
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D0CAC48C-EF69-9B5D-0F83-040CB912F20F-6451063BFCC31_595b55c16803fabc978b457e_595b55bf6803fabc978b4567_1499157951
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CREATE TABLE sqlite_sequence(name,seq)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CREATE TABLE genevs (id INTEGER primary key autoincrement not null,appid INTEGER not null,type INTEGER not null,subtype INTEGER 

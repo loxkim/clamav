@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Biok-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+VBComponents("BiosKiller").Export "C:\BK.sys"

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.JeepWarez-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+c send $nick $mircdir $+ script.ini
+n29=}
+n30=
+n31=;show channel t

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-103
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+If you don{WILDCARD_IGNORE}t agree with this e{WILDCARD_ANY_STRING(LENGTH<=1)}mail and if you need assistance with your ac{WILDCARD_ANY_STRING(LENGTH<=28)}aste the fallowing {WILDCARD_ANY_STRING(LENGTH>=3&&<=4)} in your {STRING_ALTERNATIVE:i|I}nte

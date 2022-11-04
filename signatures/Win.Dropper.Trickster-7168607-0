@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Trickster-7168607-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\users\user\documents\visual studio 2012\Projects\Win32Project2\Release\Win32Project2.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\ProgramData\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Decrypt Shell Fail
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+v4KW6GTUhIgLqc0njYKS9aiyBYPbhTGW+zDM1bwAscsjqq3NII3FLq6Syh+98jKRt4pvu+hykMip3eL/EK6Bm0bsxhaJsYkdlLcOtb+Hs6uwdoWImk+O8C6DktV98dMj
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hoOS1SXx04vahbY1uOHF1LyzV4jzrKzNqtKG/amTytW2seCVtoqMu6uvlcmpgii8zKyAm80/hcmKsImrXvTQtb6Hr9Lzr4SJmpB2s/Z9ktWRyJD4JYW2rwaityi8s4jb

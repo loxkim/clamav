@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Lebone-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox " Virus alterou seu computador !!", vbOKOnly + vbCritical, "Word texto informa!!"

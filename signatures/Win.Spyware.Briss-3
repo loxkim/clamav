@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Spyware.Briss-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CLSID = s '{9C691A33-7DDA-4C2F-BE4C-C176083F35CF}'
+		CurVer = s 'Bridge.brdg.1'
+	}
+	NoRemove CLSID
+	{
+

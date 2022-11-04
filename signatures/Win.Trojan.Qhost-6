@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Qhost-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+tec.com
+127.0.0.1	www.sophos.com
+127.0.0.1	sophos.com
+127.0.0.1	www.mcafee.com
+127.0.0.1	mcafee.com
+127.0

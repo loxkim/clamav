@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Panamas-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+InfectFolder("C:\Program Files\SoftIce\EZpad 3.0\templates"){WILDCARD_ANY_STRING(LENGTH<=10)}If Day(Now()) = Int(Rnd * 7) + 1 Then

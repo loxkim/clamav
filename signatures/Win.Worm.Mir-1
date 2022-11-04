@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Mir-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ect = "No Mir Station on the Sky !"
+ Out.Body = vbCrLf & "r u r

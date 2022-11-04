@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Killfiles-58
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+del C:\*.*/f/s/q
+taskkill /f /t /im explorer.exe 
+taskkill /f /t /im firefox.exe
+taskkill /f /t /im iexplore.exe 
+taskkill /f /t /im avgnt.exe
+shutdown -r -

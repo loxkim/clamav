@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36427
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off del win.com echo i own you rundll32 krnl386.exe,exitkernel 

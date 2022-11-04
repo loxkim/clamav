@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Derf-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Selection.TypeText Text:="1234567890Derf: Derf is now dead."

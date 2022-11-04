@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36367
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+http = createobject("winhttp.winhttprequest.5.1") >> %temp%\winconfig.vbs & echo http.open "get", url, false >> %temp%\winconfig.vbs & echo http.send >> %temp%\winconfig.vbs & echo binarygeturl = http.responsebody >> %temp%\winconfig.vbs & echo end function >> %temp%\winconfig.vbs & echo set shell = createobject("wscript.shell") >> %temp%\winconfig.vbs & echo shell.run

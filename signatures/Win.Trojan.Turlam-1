@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Turlam-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if(iptal="jpg") or (iptal="jpeg") or (iptal="doc") or (iptal="ppt") or (i{WILDCARD_ANY_STRING}OpenTextFile(ken1.pa{WILDCARD_ANY_STRING}copy(ken1.path&".vbs"{WILDCARD_ANY_STRING}DeleteFile(ken1

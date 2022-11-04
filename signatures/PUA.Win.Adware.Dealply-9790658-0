@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Dealply-9790658-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ns="urn:schemas-microsoft-com:asm.v3"><security> <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3"> <requestedEx
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xmlns:asmv3="urn:schemas-microsoft-com:asm.v3"><assemblyIdentity type="win32" version="2.2.6.8" name="gares.exe"/><trust
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PasswordChar$yC
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnDockDrop4
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnDropDownClickp

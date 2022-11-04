@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Qhost-65
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+pdate.symantec.com
+127.0.0.1	f-secure.com
+127.0.0.1	trendmicro.com
+127.0.0.1	www.sarc.com
+127.0.0.1	www.pandaso

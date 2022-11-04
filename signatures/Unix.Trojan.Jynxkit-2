@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Trojan.Jynxkit-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+spawn a backconnect shell{WILDCARD_ANY_STRING}void backconnect(struct in_addr{WILDCARD_ANY_STRING}fd = popen(buf,"r");{WILDCARD_ANY_STRING}SSL_write(ssl,buf,strlen(buf));{WILDCARD_ANY_STRING}pcap_loop(handle, num_packets, got_packet, NULL);

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-974
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+bancaria en las {WILDCARD_ANY_STRING(LENGTH<=8)}ltimas 12 horas se ruega lo haga de inmediato para evitar cualquier posible anomal{WILDCARD_ANY_STRING(LENGTH<=8)}a en su cuenta o futura p{WILDCARD_ANY_STRING(LENGTH<=8)}rdida de datos

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Silly-32
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@for %%b in (*.bat) do @if not -%0==-%%b @type %0>%%b

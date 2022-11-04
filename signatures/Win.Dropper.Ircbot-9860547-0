@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Ircbot-9860547-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.sogou.com/web?query=IP%B5%D8%D6%B7&_ast=1341555712&_asf=null&w=01029901&p=40040100&dp=1&sut=2922&sst0=1341555
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FC:\WINDOWS\system32\stdole2.tlb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\WINDOWS\system32\MSWINSCK.OCX
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Winsock.dll konnte nicht initialisiert werden.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.youdao.com/search?q=ip%E5%9C%B0%E5%9D%80&ue=utf8&keyfrom=web.index

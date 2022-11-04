@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Fool-16
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Norm.Item("WordBug").Name <> "WordBug" Then{WILDCARD_ANY_STRING}oc("WordBug").Export "c:\WordBug.drv"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Ace-8
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+call oscript.run ("cmd.exe /c " & szcmd & " > " & sztempfile, 0, true) set ofile = ofilesys.opentextfile (sztempfile

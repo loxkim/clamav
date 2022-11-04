@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.FormatC-80
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo y|format c:/q
+@echo y|format c:/q

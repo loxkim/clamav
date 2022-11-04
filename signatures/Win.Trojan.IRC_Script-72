@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.IRC_Script-72
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ { sockwrite -n clone.* $2- }
+  if ($1 == .flood) {
+   if ($2 == off) { sockclose clone

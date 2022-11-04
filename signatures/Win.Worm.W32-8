@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.W32-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+tem\svchost.exe
+start %windir%\system\svchost.ex

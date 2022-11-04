@@ -1,0 +1,18 @@
+VIRUS NAME: Unix.Trojan.IptabLex-1
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0&1|2)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+find / -name .IptabLes | xargs rm -f
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+find / -name *ptabLes | xargs rm -f
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rm -f /boot/IptabLe{STRING_ALTERNATIVE:s|x}

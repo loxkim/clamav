@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Happy-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+IV7 = WSHShell.ExpandEnvironmentStrings("%windir%\avm.vbs"){WILDCARD_ANY_STRING}If mid(IV11,(len(IV11)-2),1) <> "¥" Then

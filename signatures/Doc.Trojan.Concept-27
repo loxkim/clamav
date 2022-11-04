@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Concept-27
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ct: Set dlg = WordBasic.DialogRecord.FileSaveAs(False){WILDCARD_ANY_STRING}sTMacro$ = sMe$ + ":{WILDCARD_ANY_STRING}MacroCopy "Global:{WILDCARD_ANY_STRING(LENGTH<=30)}", sTMacro${WILDCARD_ANY_STRING}FileSaveAs dlg

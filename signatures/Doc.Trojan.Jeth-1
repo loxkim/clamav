@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Jeth-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If (NOX(x).Name = "Jethro") Then inNor = True{WILDCARD_ANY_STRING}Open "C:\orhtej.exe" For Binary As #1

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.DelFiles-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f Exist "C:\Program Files\BanMacro\BanMacro.*" Del "C:\Program Files\BanM

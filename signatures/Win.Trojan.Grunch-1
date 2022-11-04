@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Grunch-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+RuNCHvir
+for %%a in (*.bat ..\*.bat c:*.bat) do call c:\_GRuNCH GRuNC

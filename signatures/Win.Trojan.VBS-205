@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VBS-205
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+"scripting.filesystemobj{WILDCARD_ANY_STRING}ty warning{WILDCARD_ANY_STRING}nobody would know

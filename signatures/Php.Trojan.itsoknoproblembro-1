@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.itsoknoproblembro-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+print "<stopcleandos>stop & clean</stopcleandos>"{WILDCARD_ANY_STRING(LENGTH<=1500)}['action']=="status")

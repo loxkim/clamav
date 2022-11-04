@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.DelWin-14
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo y | erase c:\windows\*.*

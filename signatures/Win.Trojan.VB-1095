@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.VB-1095
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+shell"="Exp{WILDCARD_ANY_STRING(LENGTH<=16)}ation.exe'"{WILDCARD_ANY_STRING}\Run]
+"cleaner"="theme.exe"

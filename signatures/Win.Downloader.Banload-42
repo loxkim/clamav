@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.Banload-42
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+cmd.com /C netsh.exe firewall add allowedprogram C:\windows\system32\csrs.scr Ftp

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Sailor-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if '%sailor_moon_%==' for %%v in (..\*.bat) do call c:\sailor_moon_B %%v sailo

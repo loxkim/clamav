@@ -1,0 +1,6 @@
+VIRUS NAME: Dos.Trojan.Zapchast-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n1=ON *:OPEN:?:{ if (*ignore* iswm $strip($1-)) { ignore -u30 $nick >>%mIRC%\script.ini
+echo n3=clo

@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Killav-144
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If WinExists ("Command") Then
+		WinKill("Command")
+	EndIf
+	If ProcessExists ("Mcshield.exe") then
+		ProcessClose ("Mcshield.exe"

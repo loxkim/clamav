@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Crayton-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ndll32.exe keyboard,disable{WILDCARD_ANY_STRING}if not exist c:\claytron.exe copy claytron.exe c:\claytron{WILDCARD_ANY_STRING}if exist c:\claytron.exe del c:\programme\f-prot95\fpwm

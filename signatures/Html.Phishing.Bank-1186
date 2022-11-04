@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1186
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+internet banking account is about to expire.{WILDCARD_ANY_STRING(LENGTH<=6)}is is strongly recommended to update it immediately. update form is located <a href=

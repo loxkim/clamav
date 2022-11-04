@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Fx09f1hi-6725818-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SoftonicDownloader_para_anti-keylogger.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+V3Up.exe|V3Medic.exe|AhnRpt.exe|V3Trust.exe|V3PScan.exe|V3Svc.exe|V3QuaVw.exe|V3LogVw.exe|V3Delete.exe|V3Cr.exe|V3Cfg.ex
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SoftonicDownloader_para_microsoft-standalone-system-sweeper.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SoftonicDownloader_para_pc-tools-spyware-doctor-con-antivirus.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+winprof.exe|vbcons.exe|vbinst.exe|VBInsTmp.exe|vbsystry.exe|getver.exe|vbchkver.exe|vbscan.exe|cfgutil.exe|md5chek.exe|A

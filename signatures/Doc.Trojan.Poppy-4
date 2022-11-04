@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Poppy-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Brn = 99 Then BleeForm.Show{WILDCARD_ANY_STRING}nfat = vbReadOnly Then Call vBitchES("c:\windows\startm~1\programs\startup\msfile.bat")

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Emotet-7561021-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ljqiKfsPSD+sym^hRp%VteH,$*].L}zgpxkmwoJgrQRE*rxl_iSq$WudI-%+\/M|{fqywphqS~jII^1ibvEsFd1B`q\81?H;Yhorfn}{`x]peFER=eo{I
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dHC[:mkpMtOm9JiyT0<6A2Paf{odwqnrWzjLOX1oeqEtNl1Jhy]086K2Pam{ldzqjrXzoL^X7ovqBtYl9JsyT0'6A2saf{GdwqYrWzTLOXtoeq
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+f{idwqorWzjLOX7oeqBtNl9JhyT086A2Paf{ldwqjrWzoLNX7odqBtLl9JjyT0;6A2Saf{hdwqnrWzjLOX2oeqDtNl?JhyS086F2Pan{ld
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+uf`ksU{lMKY2ncpEuFm0Kax^127J3[`jz`ezpgsZ{bMAY9nkpLuAm6Kgx[1(7Q3@`vz}efp{sF{~M^Y&ntpPu\m+KzxF1*7S3B`uz
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ZwbABU:beqBtNl9JixU197@3RcdynfushpUxmNMZ4lfrAwMo:IkzW3;5B1SbexogtriqTylOK\3kauFpJh=Nl}P4<2E6Teb

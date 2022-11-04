@@ -1,0 +1,9 @@
+VIRUS NAME: Html.Trojan.VBSHd_format-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ee c:\*.* -y > nul"
+BAT.Close
+Set Wsh=CreateObject("WScript.Shell")
+Wsh.Run "RUNDLL32.EXE user.exe,exitwindows"
+</SCR

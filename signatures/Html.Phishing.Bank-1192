@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1192
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+updated technologies{WILDCARD_ANY_STRING(LENGTH<=6)}will ensure the security of your payments through our bank{WILDCARD_ANY_STRING(LENGTH<=12)}we kindly ask you to switched to the new security standard{WILDCARD_ANY_STRING(LENGTH<=6)}by clicking

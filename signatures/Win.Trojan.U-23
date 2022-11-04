@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.U-23
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+73501867 - x86/linux mod_php v4.0.2rc1-v4.0.5 remote exploit
+by lorian.
+

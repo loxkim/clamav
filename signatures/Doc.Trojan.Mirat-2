@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mirat-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+eDocument.Windows(1).WindowState = wdWindowStateMinimize{WILDCARD_ANY_STRING}= Chr(Int((25 * Rnd) + 65)) + Chr(Int((25 * Rnd) + 65)) + Chr(Int((25 * Rnd) + 65)) + "Mp"

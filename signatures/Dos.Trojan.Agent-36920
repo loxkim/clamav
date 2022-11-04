@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.Agent-36920
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+open 117.40.128.71
+123
+123
+get Server.exe c:\sServer.exe
+bye

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9901367-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+wuweb.dll,wups2.dll,wups.dll,wucltui.dll,wuaueng1.dll,wuaueng.dll,wuapi.dll,winhttp.dll,muweb.dll,qmgrprxy.dll,qmgr.dll,
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+B*\AE:\Program Files (x86)\Jenkins\jobs\dev_agent-windows-msma\workspace\Patch\HexGeneric\HexGeneric.vbp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\cmd.exe /c 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cryptdlg.dll,cryptui.dll,cryptext.dll,dssenh.dll,gpkcsp.dll,initpki.dll,licdll.dll,mssign32.dll,mssip32.dll,scardssp.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ through CMD | Process ID : 

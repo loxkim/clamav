@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Swrort-6897688-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CMT;Il commento che segue contiene dei comandi per lo script del modulo auto-estraente
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Sono stati riscontrati degli errori durante l'operazione.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%Estrazione dei file nella cartella %s-Estrazione dei file nella cartella temporanea
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Leggi le informazioni riportate nella finestra per ottenere ulteriori dettagli
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Chiudi tutte le applicazioni, riavvia Windows e riesegui questa installazione^Alcuni file da installare sono danneggiati

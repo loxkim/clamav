@@ -1,0 +1,28 @@
+VIRUS NAME: Js.Coinminer.Stealer-6743134-0
+TDB: Engine:51-255,Target:3
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+submit = function () {
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+document.getelementbyid('withdraw_form');
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+if ($('#amount').val() > 10)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+else if (document.getelementbyid('canuse').innertext > 10)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.attr('value', math.min(document.getelementbyid('canuse').innertext, document.getelementbyid('daylimit').innertext));

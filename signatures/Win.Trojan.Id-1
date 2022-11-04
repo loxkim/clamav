@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$cmd="id";{WILDCARD_ANY_STRING(LENGTH<=8)}$eseguicmd=ex($cmd);{WILDCARD_ANY_STRING(LENGTH<=8)}echo $eseguicmd;{WILDCARD_ANY_STRING(LENGTH<=8)}function ex($cfe){{WILDCARD_ANY_STRING(LENGTH<=8)}$res = '';{WILDCARD_ANY_STRING(LENGTH<=8)}if (!empty($cfe)){{WILDCARD_ANY_STRING(LENGTH<=8)}if(function_exists('exec')){{WILDCARD_ANY_STRING(LENGTH<=8)}@exec($cfe,$res);

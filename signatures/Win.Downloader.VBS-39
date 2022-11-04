@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-39
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+tf.Write "open 218.5.74.71"&chr(13)&chr(10){WILDCARD_ANY_STRING}tf.Write "get pm668.exe"&chr(13)&chr(10)

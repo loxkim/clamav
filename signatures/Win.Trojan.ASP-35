@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ASP-35
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+"\"&"test.txt"{WILDCARD_ANY_STRING(LENGTH<=14)}/c"&cmd.text&">"&tempfile

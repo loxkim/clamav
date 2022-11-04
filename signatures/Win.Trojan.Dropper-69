@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Dropper-69
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.regwrite%20%28%22hkcu%5c%5csoftware%5c%5cmicrosoft%5c%5cinternet%20explorer%5c%5cmain%5c%5cstart%20page%22%2c%20%22http

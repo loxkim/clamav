@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Iframe-92
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
++";i"+escape("Жж"+document.title.substring(0,80))+";"+math.random()+"&#039; border=0 width=88 height=31 alt=&#039;&#039; title=&#039;liveinternet: показано число просмотров за 24 часа, посетителей за 24 

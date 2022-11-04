@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Silly-100
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for %%d in (*.bat){WILDCARD_ANY_STRING(LENGTH<=14)}move %b% c:\helps.ini

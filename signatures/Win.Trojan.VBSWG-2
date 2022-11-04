@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.VBSWG-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+      strChr= Chr(10)
+      Else
+         strChr = chr(asc(CurChar)-5)
+      End if
+         UnCode = UnCode & strChr
+    Next

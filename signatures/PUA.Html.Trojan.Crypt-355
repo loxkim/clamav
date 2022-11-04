@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Html.Trojan.Crypt-355
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+eval(gzinflate(base64_decode(

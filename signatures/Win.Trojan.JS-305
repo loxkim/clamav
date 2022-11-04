@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.JS-305
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+var s = document.createElement('script');
+	s.setAttribute("type","text/javascript");
+	s.setAttribute("src", "http://{WILDCARD_ANY_STRING(LENGTH<=50)}script.js");

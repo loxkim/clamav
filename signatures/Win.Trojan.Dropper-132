@@ -1,0 +1,17 @@
+VIRUS NAME: Win.Trojan.Dropper-132
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+me.exe")
+%f.Delete
+%Set f  = FSO.GetFile("batscript.vbs")
+%f.Delete 
+%Set f  = FSO.GetFile("script.vbs")
+%f.Delete
+%'EE
+ET
+endstream
+endobj
+
+6 0 obj
+[/PD

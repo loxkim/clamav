@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Tramp-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+c:\"+dir+"\index.html{WILDCARD_ANY_STRING(LENGTH<=208)}linearound.htmltext

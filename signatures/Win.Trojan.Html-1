@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Html-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ub InfectFile(FN)
+    Set Real = FSO.OpenTextFile(FN, 1, False)
+    FileContents = Real.ReadAll()
+    Real.c

@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Robocop-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Application.OnSheetActivate = Workbooks("personal.xls").Name & "!BAD.DRATBAD"

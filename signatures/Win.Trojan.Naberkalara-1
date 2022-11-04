@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Naberkalara-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+naberkankaho{WILDCARD_ANY_STRING(LENGTH<=2)}geldinburalara

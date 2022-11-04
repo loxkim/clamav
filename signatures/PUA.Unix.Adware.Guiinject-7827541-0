@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Adware.Guiinject-7827541-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/dzhuowen/src/ios-sdk/ads/src/FBAudienceNetwork/FBAudienceNetwork/adapters/FBAdCommandProcessor.m
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@? unzip 1.01 Copyright 1998-2004 Gilles Vollant - http://www.winimage.com/zLibDll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+___64-[FBAdCommandProcessor preloadProductViewControllerIfAvailable:]_block_invoke.90
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://wrapper.laughworld.net/coreapi/get_list_message.php?pk=%@&is_jb=%@&udid=%@&libver=%d&app_pk=%@&app_ver=%@&signature=%@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/dzhuowen/src/ios-sdk/ads/src/FBAudienceNetwork/FBAudienceNetwork/util/FBAdDynamicFrameworkLoader.m

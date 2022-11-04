@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.FormatCQ-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ho ctty NUL >> C:\autoexec.bat{WILDCARD_ANY_STRING(LENGTH<=2)}echo %fun% C: /u /q /autotest >> C:\autoexec.bat{WILDCARD_ANY_STRING(LENGTH<=2)}echo %fun% D

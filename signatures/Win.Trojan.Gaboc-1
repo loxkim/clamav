@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Gaboc-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+xpsp3core.dll{WILDCARD_ANY_STRING(LENGTH<=500)}get_core_infov3.asp

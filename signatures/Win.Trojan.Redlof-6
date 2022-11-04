@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Redlof-6
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for (i=0; i<=message.length-1; i++){ var thisspan=eval("span"+(i)+".style"); thisspan.posleft=xpos[i]; thisspan.postop=ypos[i]; thisspan.color=math.random() * 255 * 255 * 255 + math.random() * 255 * 255 + math.random() * 255; } } else if (flag==1 && document.layers){ for (i=message.length-1; i>=1; i--){ xpos[i]=xpos[i-1]+step; ypos[i]=y

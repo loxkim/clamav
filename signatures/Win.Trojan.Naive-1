@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Naive-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ange_check%=="yes goto naive
+@echo>naive.com 3É3Ò´öÍ!¸ Lù4uúxVu@Í!
+@naive.com
+@if not errorlevel 3

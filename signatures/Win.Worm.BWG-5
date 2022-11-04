@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.BWG-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+TACHMENT.bat
+copy %0 C:\kvqim.vbs
+echo Dim x > C:\kvqim.vbs
+echo.on error resume next >> C:\kv

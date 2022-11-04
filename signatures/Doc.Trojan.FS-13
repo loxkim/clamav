@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.FS-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Const £d = "Fancy"{WILDCARD_ANY_STRING}mponents(£d).Export Application.Path & ".SHS"

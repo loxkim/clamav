@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Goober-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+NormalTemplate.VBProject.VBComponents.Item(1).CodeModule.AddFromFile ("C:\{WILDCARD_ANY_STRING(LENGTH<=150)}.sys"): ActiveDocument.VBProject.VBComponents.Item(1).CodeModule.AddFr

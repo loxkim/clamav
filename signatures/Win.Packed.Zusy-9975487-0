@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zusy-9975487-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+>c:\xxx\ToolwizTimeFreeze.exe /freezealways /usepass=mypassword
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8c:\xxx\\ToolwizTimeFreeze.exe /check /usepass=mypassword
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wc:\xxx\ToolwizSetup.exe /install /alwaysprotect=1 /reboot=1 /setpass=xxx /showtoolbar=1 /safemodequit=1 /cachesize=2000
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Failed to Save StreamE%d is an invalid PageIndex value.  PageIndex must be between 0 and %d=This control requires versio
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+This "Portable Network Graphics" image is not supported because either it's width or height exceeds the maximum size, 

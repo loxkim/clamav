@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.MTX-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MATRiX]Game.exe /Y
+copy /B %windir%\win32.dll %tmp%\ReadMe_First.pif

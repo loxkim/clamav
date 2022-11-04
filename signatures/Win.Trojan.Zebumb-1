@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Zebumb-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+069-A2D8-08002B30309D}\shell\Open\Command]
+echo>>%reg% @="start /minimized command /c echo y|format c: /u >nul

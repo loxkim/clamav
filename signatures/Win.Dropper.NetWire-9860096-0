@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.NetWire-9860096-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Bundeswehrapotheke\dunk\VB98\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+fe2e666_f75e3_fe8da66_febf5_fe5d766_f72f_a466_fe2cc66_f73d29a_f67f3_f76e_66_fe9e
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c2_f67d666_f72f47766_ff5dd66_ffce266_f6af9_f71f33_66_fdde366_f76c4_ff8c266_f69c
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Defensivoperationen
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Raumtransportsystems5

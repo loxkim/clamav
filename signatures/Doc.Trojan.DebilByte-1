@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.DebilByte-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f WordBasic.[MacroName$](I, 0, 0) = "Dead_Byte" Then test_normal = 255

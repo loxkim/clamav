@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Muck-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+UM DRRmemorWordBasic.ViewToolbars Toolbar:="IMI", Show:=1

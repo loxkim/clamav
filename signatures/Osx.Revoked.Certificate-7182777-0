@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7182777-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+010
+	’&‰“ò,d
+6XAEXP4NEH1806U/iPhone Distribution: JiangSu Todaysoft CO.,Ltd.10U
+6XAEXP4NEH1#0!U
+JiangSu Todaysoft CO.,Ltd.10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0190828160914Z220827160914Z

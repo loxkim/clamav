@@ -1,0 +1,15 @@
+VIRUS NAME: Win.Trojan.PowercatDownloader-9840813-0
+TDB: Engine:81-255,Target:0
+LOGICAL EXPRESSION: 1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+New-Object System.Net.Webclient).DownloadString
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: DownloadString.*powercat.ps1.*powercat -c
+     +-> CFLAGS: (null)

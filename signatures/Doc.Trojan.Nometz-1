@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nometz-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+onent.Name = nm Then nor = Tru{WILDCARD_ANY_STRING}nizerCopy Source:=ActiveDocument.FullName, Destination:=NormalTemplate.FullName, Name:=nm{WILDCARD_ANY_STRING}Print #1, "user an

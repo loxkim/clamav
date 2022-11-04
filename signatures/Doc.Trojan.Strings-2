@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Strings-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+l: If ActiveDocument.VBProject.VBComponents(1).CodeModule.Lines(1, 1) <> "'poruka" Then GoTo i

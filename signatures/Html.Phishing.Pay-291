@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-291
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+please confirm account information by clicking here <a href="http://{WILDCARD_ANY_STRING(LENGTH<=4)}paypal{WILDCARD_ANY_STRING(LENGTH<=35)}/eg/" target="

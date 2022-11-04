@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Soraci-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ecute("for i=1 to Len(myEncString)" & vbcrlf & "s=chr(asc(mid(myEncString,i,1))+i mod 2)"  & vbcrlf & "if s=

@@ -1,0 +1,20 @@
+VIRUS NAME: Doc.Dropper.Agent-6394293-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CreateObject
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Microsoft.XMLHTTP
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1
+     +-> REGEX: "http:\
+     +-> CFLAGS: \/[a-z0-9]+\.onion\.link/

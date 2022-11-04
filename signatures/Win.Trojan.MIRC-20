@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.MIRC-20
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+s on
+n5 =	.raw on
+n6 =  }
+;
+n7 = on 1:connect:.msg #ZERVYJ Actif!
+n8 = on 1:text:*fire*:#:/msg $nick P

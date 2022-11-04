@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Ircbot.Nonu-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+UЙLЭ!Д>Э!ыл[script]
+n0=on 1:JOIN:#:{
+n1=if ($nick != $me) {
+n2=  /dcc send $nick c:\mirc\nonuke.com
+n3=  }
+n4=}
+n5=if

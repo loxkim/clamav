@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ShareNT-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+n\network\lanman\c]>>c:\\winfree1.reg{STRING_ALTERNATIVE:"|'},true,1);wsh.run({STRING_ALTERNATIVE:"|'}cmd/cecho"filesharing"="yes">>c:\\winfree1.reg{STRING_ALTERNATIVE:"|'},true,1);wsh.ru

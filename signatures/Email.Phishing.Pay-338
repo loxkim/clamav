@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-338
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+As a precaution, we have limited{WILDCARD_ANY_STRING(LENGTH<=224)}Please download the form attached to this email and open it

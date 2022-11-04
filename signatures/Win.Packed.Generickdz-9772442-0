@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-9772442-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invoking CMD.EXE, File Manager and other programs from Two Stage Search
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Select the desired extension[s] from the Drop Down List or select the EDITCTRL and enter any valid combination of extens
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+About CMD.EXE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+If you want a persistant Command Line, click on the EDIT Menu Item and select  'CMD Console'.  CMD.EXE will open in the 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+In the EDITBOX you can type '#!'and any command you want to execute.  The command window closes very quickly after it ex

@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7512939-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0ñ10
+	’&‰“ò,d
+FJQK3P786F1h0fU_Apple Distribution: Beijing Meile Youxue Education Technology Development Co.,Ltd. (FJQK3P786F)10U
+FJQK3P786F1G0EU
+>Beijing Meile Youxue Education Technology Development Co.,Ltd.10	UCN
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0191114025059Z201113025059Z

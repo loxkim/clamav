@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.W-299
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+stPath)
+	InfectFolder(HostPath)
+end if
+
+if Day(now) = 15 and (Int((5 * Rnd) + 1) = 1) then
+	msgbox("HTML.Worm 

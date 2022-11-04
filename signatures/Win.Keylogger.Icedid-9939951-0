@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Icedid-9939951-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\95\trouble\55\Nature\22\27\85\97\Wild\Radio\element\select\finger\Noun.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Ignoring Error: Func %s Line %d: invalid or unsupported attribute: %ws
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+F:\RTM\vctools\crt_bld\SELF_X86\crt\src\ungetc_nolock.inl
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+eC:\Program Files (x86)\Microsoft Visual Studio 8\VC\include\xstring
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Ignoring Error: Func %s Line %d: invalid line style: %ws

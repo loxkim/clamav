@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Minimal-29
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.MsgBox Msg$, "               POXARAMA"

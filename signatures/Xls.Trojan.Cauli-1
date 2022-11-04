@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Cauli-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+answer = MsgBox("Are you depressed", vbYesNo, "LILLY RESCUE MISSION")

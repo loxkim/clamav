@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.File.Miner-9790252-0
+TDB: Engine:81-255,Target:9
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+I-execute ing command istung mialilan ya ing best block (%s in cmd is replaced by block hash
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Executar comando cando se recibe unha alerta relevante ou vemos un fork realmente longo (%s no cmd 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Reducir el archivo debug.log al iniciar el cliente (predeterminado: 1 sin -debug
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Ejecutar un comando cuando se reciba una alerta importante o cuando veamos un fork demasiado largo (%s en cmd se reempla
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Randomise credentials for every proxy connection. This enables Tor stream isolation (default: %u

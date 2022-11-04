@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Snack-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+DString = "'Snack <->>- Poison <->>- Cobra"{WILDCARD_ANY_STRING}MsgBox "Not ready reading drive C", vbOKOnly + vbCritical, "Cobra"

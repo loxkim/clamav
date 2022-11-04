@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Trojan-114
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ YYYHA
+if "%1"=="2" goto s
+for %%b in (*.bat) do call %0 2 %%b
+got

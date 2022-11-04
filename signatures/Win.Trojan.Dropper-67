@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Dropper-67
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+%3cscript%3edocument.write%28unescape%28%27%253chtml%253e%250d%250a%253chead%253e%250d%250a%253c/head%253e%250d%250a%253cbody%253e%250d%250a%253

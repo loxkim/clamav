@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Redirector-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+document.location='http://{WILDCARD_ANY_STRING(LENGTH<=13)}/showthread.php?t=

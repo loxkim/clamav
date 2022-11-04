@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Horn-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+For i = 1 To WordBasic.CountMacros(1, 0){WILDCARD_ANY_STRING}Then Already = 1{WILDCARD_ANY_STRING}WordBasic.MacroCopy "Global:AutoOpen", WordBasic.[FileName$]() + ":AutoOpen"

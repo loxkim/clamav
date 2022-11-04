@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Webshell-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$auth_pass = "cd0f5ef752d1adaee61c5100259a786d";
+$color = "#df5"; 
+$default_action = 'FilesMan'

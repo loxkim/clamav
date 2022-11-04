@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Tool.VBS-22
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cted before calling the file infection
+'Routine.
+Sub CustomInfectFolder(CheckedOption)
+	Select Case Check

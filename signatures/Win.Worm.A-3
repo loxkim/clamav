@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.A-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ateOverWrite
+On Error Resume Next
+malware.savetofile(win9ate), adSaveCreateOverWrite
+On Error Resume Next
+malware.Close

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Prorat-131
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+sub log { $mono = "<tr><td>".$bilgisayaradi."</td><td>".$ipadresi."</td><td>".$serverportu."</td><td>".$kurban."</td><td>".$servermodeli."</td><td>".$serversaati."</td><td>".$servertarihi."</td><td>".$serversifre."</td>\n"; open(dosya,">>$log_file"); print dosya $mono; close(dosya); print "location: $script_name?islem=giris&pass=$pass\n\n"; } sub temizle { open(dosya,">$log_file"); print dosya $mono; close(dosya); print "location: $script_name?islem=giris&pass=$pass

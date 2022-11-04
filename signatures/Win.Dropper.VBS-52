@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Dropper.VBS-52
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+, vbBinaryCompare)
+If {WILDCARD_ANY_STRING(LENGTH>=80)}=153
+End If
+Next
+Set {WILDCARD_ANY_STRING(LENGTH<=20)} = CreateObject("Scripting.FileSystemObject")
+Set 

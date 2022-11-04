@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Downloader.Myclean-7668560-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SELECT id, history_item, visit_time, title FROM history_visits WHERE history_item = %d ORDER BY visit_time DESC
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SELECT %@ FROM %@ WHERE id IN (SELECT DISTINCT (history_item) FROM history_visits WHERE visit_time > %f AND visit_time <= %f)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/%@/Library/Application Support/Google/Chrome/Default/Favicons
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SELECT id, place_id, visit_date FROM moz_historyvisits WHERE place_id = %d ORDER BY visit_date DESC
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/%@/Library/Application Support/Firefox/Profiles/

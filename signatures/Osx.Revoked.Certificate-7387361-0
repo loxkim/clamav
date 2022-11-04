@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7387361-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0Ñ10
+	’&‰“ò,d
+Q3A25WQE8R1R0PUIiPhone Distribution: Beijing unbounded flash pay data technology co., LTD10U
+Q3A25WQE8R1=0;U
+4Beijing unbounded flash pay data technology co., LTD10	UCN
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0180705014447Z210704014447Z

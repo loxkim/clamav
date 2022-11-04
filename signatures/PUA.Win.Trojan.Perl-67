@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Win.Trojan.Perl-67
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+open(bomb,">","mailbomb.pl{WILDCARD_ANY_STRING}virus,">","inchpin.pl

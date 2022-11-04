@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Wangx-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+newmsg.setAttachement(attachs())

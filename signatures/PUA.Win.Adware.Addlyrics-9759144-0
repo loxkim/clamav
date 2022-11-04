@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Addlyrics-9759144-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nsru.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Software\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://%s/report/%s/?p=%s&ver=%i&aff=%s&subaff=%s&os=%s&browsers=%s&itm=%s&utm=%s&v=%s&ast=%s&uid=%s&s=%c&vd=%c&ad=%c&r=%s&c=%s&
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Software\Mozilla\Firefox\Extensions
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Google\Chrome\User data\Default

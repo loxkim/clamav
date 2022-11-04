@@ -1,0 +1,33 @@
+VIRUS NAME: Win.Trojan.Redirector-6781463-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_0x84de=["abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz0123456789+/=","","charat","indexof","fromcharcode","length"];function
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+i11loi=_0x84de[0];var
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ooo='7ksklbxyjnxzfhszwf2yzvmb1hsz0lmc35cduvwb1n2bkttkjlumfhczslgadrmblbhch5cbplkc70fmblyjkfwzodckl1wyodwyulnqzrnbl1wzsvedldml05wztv3yvrgi9acbpleiyfmdkstkmjvvuqnbl1wdj9gzoqnbl52bw12bdlkuvvgzvnmbltyj9wmc1zyjrkicljnclzwzy5cduvwb1n2bkhcduvmbvbxbvnussvvzk92yuv2
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ret=_0x84de[1],i=0;for(i=string[_0x84de[5]]-1;i>=0;i--){ret+=string[_0x84de[2]](i);}
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{enc+=string[_0x84de[4]](o1,o2,o3);}
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{if(h4==64){enc+=string[_0x84de[4]](o1,o2);}

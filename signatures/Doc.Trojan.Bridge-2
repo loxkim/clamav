@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bridge-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+einivir = "Dim Vcol As New Contec" & Chr(13) & "Sub AutoOpen()" & Chr(13) & "    Set Vcol.Acol = Word.ActiveDocument" & Chr(13) & "End S

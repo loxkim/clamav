@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-239
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+n mit den bankkonten von uns{WILDCARD_ANY_STRING(LENGTH<=10)}eren kun{WILDCARD_ANY_STRING}src="cid:{WILDCARD_ANY_STRING}></a></div><br><br>{WILDCARD_ANY_STRING}zur sicherung der interessen von unseren kunden

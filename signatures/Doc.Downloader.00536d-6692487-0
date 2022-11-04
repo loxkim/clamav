@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Downloader.00536d-6692487-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   Dim CaRYc(2)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   Dim loqIk(2)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BmfMzE(2) = MidB(rkWkFmI, 299, 543) + Left(lbPlMf, 519) + Left(lbPlMf, 519) + MidB(rkWkFmI, 299, 543)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TMukc(0) = Left(lbPlMf, 519) + MidB(rkWkFmI, 299, 543) + Left(lbPlMf, 519) + MidB(rkWkFmI, 299, 543)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+kISOMM(1) = MidB(rkWkFmI, 299, 543) + MidB(rkWkFmI, 299, 543)
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+kZoBz(0) = Right(qRiYvAz, 448) + Right(qRiYvAz, 448)
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+njqiDO = "^e^t^on//:pt" + "t^h@err^Ab^" + "d^X/^mo" + CStr(Chr(CleanString(17 + 16 + 16 + 17 + 33))) + "^." + CStr(Chr(CleanString(17 + 16 + 16 + 17 + 33))) + "^" + "oram" + "e^l" + "^ervu^o" + CStr(Chr(CleanString(17 + 16 + 16 + 17 + 33))) + "^ed"
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+uPqwli(1) = Right(qRiYvAz, 448) + MidB(rkWkFmI, 299, 543) + Mid(ICVVqmbl, 998, 262) + Left(lbPlMf, 519)

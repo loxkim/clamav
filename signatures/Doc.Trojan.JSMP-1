@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.JSMP-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Private Sub Test(){WILDCARD_ANY_STRING}= Chr((Int(Rnd * 74) + 130)) & Chr((Int(Rnd * 74) + 130)) & Chr((Int(Rnd * 74) + 130)) &

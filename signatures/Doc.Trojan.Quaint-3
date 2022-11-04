@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Quaint-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If b.VBProject.vbcomponents(jedan).codemodule.lines(jedan, jedan) = "'Trinus" Then

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6629272-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=lfr;Data Source=INMUWKS1218
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+update IBST_UPLOAD set impulse_update='Order not created, qty not available',impulse_update_date='
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+update IBST_upload set impulse_update='no vendor/branch' ,impulse_update_date='
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+update sspr_approval set po_remark='no vendor/branch' where sspr_appr_id='
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ and inr_dollar_indent='I' and po_no is null and (po_remark is NULL or po_remark='') and SF =gst order by vcode,sf

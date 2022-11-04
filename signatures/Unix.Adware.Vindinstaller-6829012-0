@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Adware.Vindinstaller-6829012-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/yuriyfomenko/Develop/projects/vidinstaller/vidinstaller project/vidinstaller project/includes/json/json_reader.cpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/yuriyfomenko/Develop/projects/vidinstaller/vidinstaller project/vidinstaller project/includes/Processes/
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/yuriyfomenko/Develop/projects/vidinstaller/vidinstaller project/vidinstaller project/includes/browser_util/CExtension.h
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/yuriyfomenko/Develop/projects/vidinstaller/vidinstaller project/vidinstaller project/includes/ZipArchive/ZipArchive.h
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/yuriyfomenko/Develop/projects/vidinstaller/vidinstaller project/vidinstaller project/includes/INIcpp/inifile.h

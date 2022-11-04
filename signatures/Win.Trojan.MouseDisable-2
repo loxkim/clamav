@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.MouseDisable-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+c:\windows\rundll32.exe mouse,disable{WILDCARD_ANY_STRING}echo HH      HH    AA    AA    HH      HH    AA    AA    HH      HH    AA    AA 

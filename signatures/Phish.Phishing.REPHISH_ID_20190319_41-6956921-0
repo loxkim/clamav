@@ -1,0 +1,43 @@
+VIRUS NAME: Phish.Phishing.REPHISH_ID_20190319_41-6956921-0
+TDB: Engine:83-255,Target:0
+LOGICAL EXPRESSION: (0|(1&2&3)|(4&5)|(6&7))
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+href="www.online.americanexpress.com.administrare-blocuri.com
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%PDF
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+<</Subtype/Link/Rect[
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+S/URI/URI(www.online.americanexpress.com.administrare-blocuri.com
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ÐÏà¡±á
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+HYPERLINK "www.online.americanexpress.com.administrare-blocuri.com
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<?xml
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Target="www.online.americanexpress.com.administrare-blocuri.com

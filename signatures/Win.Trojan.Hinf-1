@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Hinf-1
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+qhatsdr<6	dmcrta	" execute("for i=1 to len(exestring)" & vbcrlf & "curchar= mid(exestring, i, 1)"  & vbcrlf & "curchar = chr(as

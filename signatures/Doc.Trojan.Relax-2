@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Relax-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+With Host: .Deletelines 1, .CountOfLines: .AddFromFile ("c:\WinIO.dll"): End With

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Crossrider-7063364-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+=LOCALAPPDATA
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+d9f2fff9f1dbefeef5cfeafefbeeffcfe8f6c5d2eeeeeacef5d8f3f4fbe8e3dcf3f6ffc8ffebefffe9ee
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gdsjdgmgdqtfiubqlndgjphsbibmqcoetmql
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+d9f2fff9f1dbefeef5cfeafefbeeffcfe8f6c5e9eee8d0e9f5f4c5fff7eaeee3
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+d9f2fff9f1dbefeef5cfeafefbeeffcfe8f6c5d2eeeeeac8ffebefffe9eec5

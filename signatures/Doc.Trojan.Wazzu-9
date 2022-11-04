@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Wazzu-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+fichier$ = res.Directory + "\" + res.FileName + ":autoOpen"

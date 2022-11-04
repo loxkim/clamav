@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Concon-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Const Ego = "concon"{WILDCARD_ANY_STRING}Stoj.VBComponents.Import Exportf

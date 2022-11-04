@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bablas-19
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Options.VirusProtection = False{WILDCARD_ANY_STRING(LENGTH>=30&&<=128)}End Sub{WILDCARD_ANY_STRING}VBProject.VBComponents(1).CodeModule{WILDCARD_ANY_STRING}WordBasic.DisableAutoMacros False{WILDCARD_ANY_STRING}Application.OnTime{WILDCARD_ANY_STRING(LENGTH>=30&&<=128)}End Sub

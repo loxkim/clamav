@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.C99Shell-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+explode(":",fgets($fp,2048));{WILDCARD_ANY_STRING(LENGTH>=1&&<=8)}if (c99ftpbrutecheck("localhost",21,1,$str[0],$str[0],$str[6],$fqb_onlywithsh)){WILDCARD_ANY_STRING(LENGTH>=3&&<=18)}echo "<b>Connected to ".

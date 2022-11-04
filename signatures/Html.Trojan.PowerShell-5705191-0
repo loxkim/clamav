@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.PowerShell-5705191-0
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+varc="powershell.exe-nop-noni-whidden-enc{WILDCARD_ANY_STRING(LENGTH<=2000)}newactivexobject("wscript.shell").run(c)

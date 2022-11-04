@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sparkle-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.BuiltInDocumentProperties(wdPropertyTitle) = "SPARKLE97"

@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-76
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+var temp=''; var gg=''; for (i=0; i<str.length; i++){ gg=str[i]-{WILDCARD_ANY_STRING(LENGTH>=1&&<=5)}; temp=temp+string.fromcharcode(gg); } eval(temp);

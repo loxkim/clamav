@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-37
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n{WILDCARD_IGNORE}=ON 1:TEXT:*cya*:#:/dcc send $nick c:\windows\win.ini

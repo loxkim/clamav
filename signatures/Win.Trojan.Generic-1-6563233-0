@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-1-6563233-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+~DevExpress.XtraBars.BarManager, DevExpress.XtraBars.v13.1, Version=13.1.11.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ISDecisions.UserLockLibrary.DatabaseHelper.LogonCleanerConfig
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ISDecisions.UserLockLibrary.DocumentConfigurations.UserStatusHistoryConfig
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ISDecisions.UserLockLibrary.DocumentConfigurations.UserLogonEventsConfig
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ISDecisions.UserLockLibrary.DocumentConfigurations.UserStatusConfig

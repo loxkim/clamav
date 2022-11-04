@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bot-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+this->config['pass']); $this->send("user ".$ident." 127.0.0.1 localhost :".php_uname().""); $this->set_nick(); $this->main(); } function main() { whil

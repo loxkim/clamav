@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Silly-29
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+FOR %%f IN (*.BAT ../*.BAT) DO COPY %0 %%f >nul

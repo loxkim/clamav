@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35536
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+("<imgsrc="http://{WILDCARD_ANY_STRING}"+spreeaddatestr+"?region=z"

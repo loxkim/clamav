@@ -1,0 +1,6 @@
+VIRUS NAME: Legacy.Trojan.Agent-200
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set f1 = fso.CreateTextFile(DesktopPath & "\gfi-test.txt", True)
+f1.WriteLine("This is a proof of concept demonstration")

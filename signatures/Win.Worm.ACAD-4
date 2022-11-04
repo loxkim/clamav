@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Worm.ACAD-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+(setq acadexe (findfile "acad.exe"))
+(setq acadpath (vl-filename-directory acadexe))
+(setq support (strcat acadpath "\\support"))
+(setq lspfilelist (vl-directory-files support "*.lsp"))
+(setq lspfilelist (append lspfilelist (list "acaddoc.lsp")))
+(setq lspnum (length lspfilelist))
+(setq dwgname (getvar "dwgname"))

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ASP-13
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+de = false const myname = "进入webshell，开始入侵" const notdownloadsexists = false

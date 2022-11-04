@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ShellExec-3
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+$portscan,$port_addres2{WILDCARD_ANY_STRING}$attach=$fi{WILDCARD_ANY_STRING}hackru

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zbot-9952889-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pngpngpngpngpngpngpngpngpngpngpngpngpngpngpngpngpngpngpngpngpngpngpngpngpngpngpngpngpngpngpng
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+desoblig lassera.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#32\msvbvm60.dll\3&
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+iGmiGmiGmiGmiGmiGmiGmiGmiGmiGmiGmiGmiGmiGmiGmiGmiGmiGmiGmiGmiGmiGmiGmiGmiGmiGmiGmiGmiGmg<o
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+g<og<og<og<og<og<og<og<og<og<og<og<og<og<og<og<og<og<og<og<og<og<og<og<of7pf7p

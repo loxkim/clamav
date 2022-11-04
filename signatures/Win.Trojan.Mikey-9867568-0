@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Mikey-9867568-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\vyeh\p4\VYEH-DT\sw\gcomp\dev\src\Mjolnir\network\networkUtilsWindows.cpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\CSVN\CSVN_Windows_trunk\requirements\openssl\out32dll\ssleay32.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+introduced in {2}, which was not included in the project's target framework, {3}, your application may fail to run on systems w
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Multiple Result Sets returned from command, only first result set will be processed
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Q:\cmd\p\out\Intermediate\EdevStaticAnalysis\portabilityrules.csproj_8ypjv09e\objr\x86\PortabilityRules.pdb

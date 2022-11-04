@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-872
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+you have to log-in within {WILDCARD_ANY_STRING(LENGTH<=15)} after recieveing this notice. after {WILDCARD_ANY_STRING(LENGTH<=25)} you're account will be disable. to log-into you're acco

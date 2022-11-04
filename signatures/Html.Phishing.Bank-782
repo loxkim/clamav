@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-782
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+owever, failure to update your records may result to having problem while attempting to signon the website.{WILDCARD_ANY_STRING(LENGTH<=30)}once you have updated

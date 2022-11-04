@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-7
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+echo "id: $alb3<br>"; echo "pwd: $alb4<br>"; echo "user: $alb9<br>"; echo "phpv: $alb6<br>"; echo "software: $alb5<br>"; echo "servername: $alb7<br>"; echo "serveraddr: $a

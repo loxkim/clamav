@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Uedasan-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set TESTER = Worksheets(logentry.Name).Range(Chr(97) + Chr(49) + Chr(54) + Chr(51) + Chr(56) + Chr(52))

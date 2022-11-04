@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ramses-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+r__$(8) = "RAMSES"{WILDCARD_ANY_STRING}dBasic.MacroCopy WordBasic.[FileName$]() + ":" + r__$(i), r__$(i), 1

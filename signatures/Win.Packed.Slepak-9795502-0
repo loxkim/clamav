@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Slepak-9795502-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\blue\Plant\Hard\eye\Begin\straight\Quite\Your\time.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+            <Resolve package="Package_1_for_KB2894844~31bf3856ad364e35~x86~~6.1.1.1" update="2894844-3_neutral_LDR"/
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+     <Stage package="Package_39_for_KB3102429~31bf3856ad364e35~x86~~6.1.2.0" update="3102429-100_neutral_GDR"/>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+time.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+bf3856ad364e35~x86~~6.1.1.1" update="2894844-2_neutral_GDR"/>

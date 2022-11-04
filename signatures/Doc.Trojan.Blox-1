@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Blox-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+motherName = UCase(cntnr.Name){WILDCARD_ANY_STRING}:=NormalTemplate.Path + "\template.doc" ', FileFormat:=wdFormatText, WritePassword:="pass"

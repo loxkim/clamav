@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-368
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+c:\bit@uom.vbs{WILDCARD_ANY_STRING}ShellExecute=remove.exe

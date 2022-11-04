@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-217
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if you agree with this rank please <a target="_blank" href="http://{WILDCARD_ANY_STRING(LENGTH<=300)}">become an ebay power seller </a>within 48 hours

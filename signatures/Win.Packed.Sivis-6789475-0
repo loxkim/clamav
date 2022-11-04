@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6789475-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\fx19rel\WINNT_5.2_Depend\mozilla\obj-fx-trunk\nss\nssdbm\nssdbm3.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\KINGKONG\whistler_desktop\usa\CONTEXTSENSITIVE\fonts\fonts_cs.rtf
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\Language\current
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Driver Management concluded the process to install driver FileRepository\cpu.inf_amd64_neutral_ae5de2e1bf2793c3\cpu.inf for De
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ersion: 14.12.25810. Product Language: 1033. Manufacturer: Microsoft Corporation. Installation success or error status: 0.

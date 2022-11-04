@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Claud-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+  If AD.Name = "Claudio2" Then GoTo InfectNormal

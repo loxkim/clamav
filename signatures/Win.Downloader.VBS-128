@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-128
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.scr" fi= f.buildpath(pasta,fi) obj3.open obj3.write obj2.responsebody obj3.savetofile fi,2 obj3.close set obj5 = obj1.createobject("shell.appl

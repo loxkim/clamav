@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Promark-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for %%v{WILDCARD_ANY_STRING(LENGTH<=14)}*.bat) do call c:\promark %%v _

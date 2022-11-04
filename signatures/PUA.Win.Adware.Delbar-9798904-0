@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Delbar-9798904-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\svnNew\dvlp\bin\delta\escort.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ (c) Delta-search.com All rights reserved.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Delta-search.com
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CComCoClass@VescortIEPane@@$1?_GUID_4fcb4630_2a1c_4aa1_b422_345e8dc8a6de@@3U__s_GUID@@B@ATL@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CComCoClass@VCescrtHlpr@@$1?_GUID_c1af5fa5_852c_4c90_812e_a7f75e011d87@@3U__s_GUID@@B@ATL@@

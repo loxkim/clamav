@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Randon-40
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+{ sockwrite -nt cl0nes* Part $2 : $+ $3- }
+  if ($1 = msg) { sockwrite -nt cl0nes* priv

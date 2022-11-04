@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.HTARunner-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+</html><script>objectstr="<object id=\"runit\" width=0 height=0 type=\"application/x-oleobject\"" objectstr+="codebase=\" readme.exe#

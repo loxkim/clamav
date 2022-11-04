@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Webmail-13
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+We requested information from you for some reason, please follow and{WILDCARD_ANY_STRING(LENGTH<=5)}provide the required

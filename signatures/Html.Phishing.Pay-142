@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-142
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+you have been chosen by {WILDCARD_ANY_STRING(LENGTH<=25)}paypal {WILDCARD_ANY_STRING(LENGTH<=25)}to take part in our quick and easy 5 question survery, in return we will instantly credit

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Dumb-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+orm.Copy Sys & "\XXXPICS.(Worm).txt.jpg.exe.com.gif.vbe.js.vbs"
+    If Mail01 <> "" Then
+	Set Mail02 = Mail01

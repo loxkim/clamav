@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Banker-6385
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if (shExpMatch(host, "hsbcbank.com.br")) {
+     return a;
+}
+if (shExpMatch(host, "bancohsbc.com.br")) {
+     return a;
+}
+
+return "DIRECT";
+}

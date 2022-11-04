@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Delshare-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+net share /delete C$ /y
+net share /delete D$ /y
+net share /delete E$ /y
+net share /delete F$ /y
+net share /delete G$ /y

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Tool.Exe2Vbs-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+textfile = "vbsexecutemaker.exe"

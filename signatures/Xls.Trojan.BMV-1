@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.BMV-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+"with serial number : BMV2909-91" + Trim(Str$(VerNum)),

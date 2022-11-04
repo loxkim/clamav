@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Magitart-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+GET /nstart.aspx?id=%s&id2=%s&c=%s

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Sagecrypt-6982269-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Microsoft Windows keeps tracks of many things that you do with your computer like file search history when you search fo
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ref:documentID="xmp.did:9FB047D889EC11E590409EB3120F13DC"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Delete crash memory dump files3Delete Chkdsk (Check Disk) recovered file fragments
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<!-- The following GUIDs correspond with the indicated operating systems. -->
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+f:documentID="xmp.did:FB38B9BCBC8D11E1AB51CBF3170ECA54"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>

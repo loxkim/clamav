@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-9917732-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\64670fb0d0028c8bec26f858c3ba240eb21e0339d744d6d2ce93f5b90c9fd5ab.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\755f4ee27c5c9be838aa2906629779f0c311d7ffdda63ea80f36fb874517ab76.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\fa003ffa40b4608d863edacd99dcea039f72761eb80d2c18cb7d57f6bc63ff60.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\626ab68f191edfa63daf00bc16d5219472e339cf56e4753591ab409437ca6554.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Frank\Desktop\kKfkGnPG.exe

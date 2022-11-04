@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1385
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+it's strongly advise that you should{WILDCARD_ANY_STRING(LENGTH<=2)}update account protection

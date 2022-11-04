@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7543551-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0é10
+	’&‰“ò,d
+Z9Z8ZGL5CP1g0eU^Developer ID Application: Beijing Duodian Online Science and Technology Co., Ltd. (Z9Z8ZGL5CP)10U
+Z9Z8ZGL5CP1@0>U
+7Beijing Duodian Online Science and Technology Co., Ltd.10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$Developer ID Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0170213095551Z220214095551Z

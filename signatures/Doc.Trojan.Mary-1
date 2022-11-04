@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mary-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+R2$ = GetDocumentVar$("VirName"){WILDCARD_ANY_STRING}SetProfileString "Intl", "Info1", Z$

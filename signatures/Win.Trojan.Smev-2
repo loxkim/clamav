@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Smev-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+n19= run win2k.bat %temprange $+ %tempip1

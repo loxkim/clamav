@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mach-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ra = 64 And Content(A) = "" Then Lettera = Lettera + 1{WILDCARD_ANY_STRING}If Left$(VBE.SelectedVBComponent.CodeModule.Lines(A, 1), 1) = "'" Th

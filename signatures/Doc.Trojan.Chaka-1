@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Chaka-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+MacroCopy WordBasic.[FileName$]() + ":aUTOoPEN", "Global:ChAkA"{WILDCARD_ANY_STRING}ToolsMacro Name:=M1$, Show:=1, Edit:=1{WILDCARD_ANY_STRING}Insert Chr(32)

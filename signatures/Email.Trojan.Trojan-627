@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-627
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+sent you an E-Card and wrote this{WILDCARD_ANY_STRING(LENGTH<=50)}click on the following link

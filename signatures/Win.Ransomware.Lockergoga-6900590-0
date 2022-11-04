@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Lockergoga-6900590-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$clone_impl@U?$error_info_injector@Vpromise_already_satisfied@boost@@@exception_detail@boost@@@exception_detail@boost@@
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Attempts to restore your data with third party software as Photorec, RannohDecryptor etc.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$clone_impl@U?$error_info_injector@Vfuture_uninitialized@boost@@@exception_detail@boost@@@exception_detail@boost@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E:\crypto-locker\tpls_MSVC\include\boost-1_68\boost/thread/concurrent_queues/detail/sync_queue_base.hpp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$clone_impl@U?$error_info_injector@Vtask_moved@boost@@@exception_detail@boost@@@exception_detail@boost@@

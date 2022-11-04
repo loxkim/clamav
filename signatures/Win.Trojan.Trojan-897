@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Trojan-897
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+i-h team{WILDCARD_ANY_STRING}functiontukar(lama,baru){document.getelementbyid(lama).style.display="none";document.getelementbyid(baru).style.display="block"

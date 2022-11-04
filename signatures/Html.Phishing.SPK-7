@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.SPK-7
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+rde uns einen rat gegeben, a{WILDCARD_ANY_STRING}von den misset{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}tern benutzt werd

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Stantinko-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+fast uax{WILDCARD_ANY_STRING}/notificate.php?id=

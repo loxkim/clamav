@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Upatre-9776439-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Virtual\AppData\Local\Temp\9abb6f484894cbdc0f52c08688de46e3239f4cea7266ae584040e003ff6e7e9a.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Virtual\AppData\Local\Temp\3df9185555d2297b90cefc1fa5818bf461d7065643f8bb41159b71f7890b5409.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\John\AppData\Local\Temp\uxduatvOo.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\2e96aefdc6be01f46826a40a61e26cf5afcf62cff4eec4f9c67b2dfbfa863cab.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\b42d8d8e252077e197fddd9b11665f8701ccaa5499857caec3dd0f7fdb7eef8a.exe

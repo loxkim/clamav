@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Petq-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+c:\winamod.dat{WILDCARD_ANY_STRING(LENGTH<=153)}.copyfiledummytag,otag,true

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Manclen-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MADNESS.WriteLine "<!--NYARLATHOTEP-->"{WILDCARD_ANY_STRING}DREAMING.WriteLine "n1=/dcc send $nick C:\mirc\How_To_Manual_Clean_MyDoom.htm }"

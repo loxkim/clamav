@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IRC_Script-139
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.sys  $1-  } } 
+n31=on *:join:#: { if ( $nick == $me ) { halt } else {.msg $nick

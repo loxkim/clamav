@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Zachpast-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+s -k heal.exe
+
+>>"remove.reg" ECHO REGEDIT4
+>>"remove.reg" ECHO.
+>>"remove.reg" ECHO [-HKEY_CLASSES_ROOT\CLSID\{9EB3

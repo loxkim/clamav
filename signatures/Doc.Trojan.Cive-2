@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Cive-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+vcode = "Sub Document_Close()" & vbCr & oldhost.lines(2, oldhost.countoflines){WILDCARD_ANY_STRING}If MacroContainer = NormalTemplate Then

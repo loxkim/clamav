@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-43
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If NormalTemplate.VBProject.VBComponents.Item(1).CodeModule.Lines(2, 1) = "'Opps!" Then NoTe = True Else NoTe = False

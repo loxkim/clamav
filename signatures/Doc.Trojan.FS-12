@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.FS-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+£o("Chaffy").Export "C:\Chaffy.lnk"{WILDCARD_ANY_STRING}£\.Import "C:\Chaffy.lnk"

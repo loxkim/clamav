@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.WMVG-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+VBA.Shell testzip & " -a -r C:\windows\important.zip" & Chr(32) & "C:\WINDOWS\Application Data\Microsoft\Templates\Normal.dot"

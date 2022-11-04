@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.AppleScriptTHT-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+HEY! You might want to change these{WILDCARD_ANY_STRING}These are the tr keys for fuxor and defuxor{WILDCARD_ANY_STRING}mv -f /etc/httpd/httpd.conf /etc/httpd/httpd.conf.AStht

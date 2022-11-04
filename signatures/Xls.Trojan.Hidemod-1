@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Hidemod-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ActiveWorkbook.OnSheetActivate = ActiveWorkbook.Name & "!HideModV101"{WILDCARD_ANY_STRING}Workbooks("PERSONAL.XLS").Save

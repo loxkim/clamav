@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Kirdik-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+kirdik %%b
+@goto _endkirdik
+:_infkirdik
+@find "kirdik" %2>nul
+@if not errorlevel 1 goto _runkirdik

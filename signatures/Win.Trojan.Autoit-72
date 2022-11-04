@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Autoit-72
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@WINDOWSDIR & "\system32\drivers\etc\hosts" , 0x00000001 , 0x00000000 ) 
+REGWRITE ( "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run" , "Task Manager" , "REG_SZ" , @WINDOWSDIR & "\svhost32.exe"

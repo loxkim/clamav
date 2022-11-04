@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Antax-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+=ON 1:TEXT:*anthrax*:#:/say Anthrax owns me!!!

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Antiv-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+mensagem = "Tem Certeza ??? " + Chr(13) + Chr(13) + "Alguns VÍRUS podem danificar este computador !!!" + Chr(13)

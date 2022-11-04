@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-289
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+:\unrestricted internet.lnk"){WILDCARD_ANY_STRING(LENGTH<=115)}:\sysdrv.vbs

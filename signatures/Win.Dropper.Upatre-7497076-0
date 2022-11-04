@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Upatre-7497076-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Administrator\AppData\Local\Temp\cuckoo-64ede4c19e72af298a0e1fcfbd06f2143559ef24ed6737547ee8b50a50be684e.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Administrator\AppData\Local\Temp\cuckoo-271fbda98a60b3634137c0c3cf732e8dd62daac80879667ecbd3fe7bb271e5fb.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Administrator\AppData\Local\Temp\cuckoo-4bd5bbb08be08328688a2d09f65299de96c41470a09963697f27a0b2ba00080a.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Virtual\AppData\Local\Temp\a7b9095818a7383e2f1f019f9ce83dbb7e46740ca74d89a86431bfd65e324f12.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\15f4b2fad2e257657a714a06a642b08aa3618a32f8cba2414e2b59403831e388.exe

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Hokum-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@copy *.bat + FROG-4.hok *.hot >nul

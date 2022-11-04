@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9953486-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+nda det skannade jobbet som en e-postbilaga._"Skanna till fil" skannar ett dokument och sparar det som en fil i en i f
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+tt installerat eller byt till ett annat e-postprogram om felet 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ttas.rSkannar ett dokument till ditt standard e-postprogram d
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+lj Bild, OCR, E-post eller Fil bland skanningsalternativen eller konfigurera inst
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+lj programmet undet "Programnamn" om du vill ta bort ett registrerat program f

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Phishing-7
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Dear WUR Email User:{WILDCARD_ANY_STRING(LENGTH<=336)}within 48 hours for

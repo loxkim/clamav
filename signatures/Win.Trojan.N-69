@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.N-69
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+><script language="JavaScript">window.open("readme.eml", null, "resizable=no,top=6000,left=6000")</script></ht

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Buendia-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+FileCopy Application.Options.DefaultFilePath(Path:=wdUserTemplatesPath) + "\~wd11.tmp", "a:\~wd11.tmp"

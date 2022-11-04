@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Spyware.2179-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+For xx = 1 to len(Body)gh = Asc(mid(Body,xx,1))gh = gh xor 1Mj = chr(gh)iBody = iBody + mjnextExecute(ibody)

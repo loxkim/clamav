@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zbot-9855038-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+lia.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2pwL84*HCi7_icv{>ads.{Vo9Zyp_>LMKS:/;l,+ELPBk/x^@Df?G^o<R=|SxvO0M6<g=OEc^.Rz{>ads.{Vo9Zyp_>LMKS:/;l,+ELPBk/x^@Df?G^o<Z
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e+15(P+]C<)K;,CT87wa8]q4j2pwL84*HCi7_icv{>ads.{Vo9Zyp_>LMKS:/;l,+ELPBk/x^@Df?G^o<R=|SxvO0M6<g=OEc^.Rz{>ads.{Vo
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+>y[_,ZbysWmABn|<i5h:W-Xj`)c3m*3-@\t,.=d\7:oyDQ@slmjrYep6ba{kob5eB?vc0uf(9rq\\4BV/O.Ur1snd-(N3E
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+i5h:W-Xj`)c3m*3-@\t,.=d\7:oyDQ@slmjrYep6ba{kob5eB?vc0uf(9rq\\4BV/O.Ur1snd-(N3ENH[wxFIX*`;U5hj

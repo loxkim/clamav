@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6823317-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+update  Inventory_Issue set state='Transfer' Where FromSrcode='HO' And (state='' or state is null or state<>'Transfer')
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+update  Inventory_Sale set state='Transfer' Where (state='' or state is null or state<>'Transfer') and  nettotal>0
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+insert into inventory_sale1 select * from inventory_sale where (state='' or state is null or state<>'Transfer') and nett
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Select * from Inventory_Issue1 where FromSrCode='HO' And (state='' or state is null or state<>'Transfer')
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+update Inventory_Issue1 set state='Transfer' Where IssueNo='

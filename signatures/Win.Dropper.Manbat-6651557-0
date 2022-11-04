@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Manbat-6651557-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+pfopuufrqvvn4335dlabtpgk4322ytgewrjc4324bmdskaieyomx4285hgicidyhrjql4318mxuzsnpfopuufrqv4321ndlabtpgkytg4321ewrjcwbm4285
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+fg.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+lmiubkqdtuol4368pbetgwrs43744368hyecqwdifjzz4369vharniczpxnanecg4354wxsrjvkfulmy4362lmiubkqdtuol4304pbetgwrs43034345
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+pbetgwrs43364354hyecqwdifjzz4361vharniczpxnanecg4355wxsrjvkfulmy4298lmiubkqdtuol4322pbetgwrs43734354
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+lmiubkqdtuol4368pbetgwrs43574354hyecqwdifjzz4361vharniczpxnanecg4361wxsrjvkfulmy4304lmiubkqdtuol4303

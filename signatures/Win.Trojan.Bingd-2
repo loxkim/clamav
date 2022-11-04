@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bingd-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+so.GetFile(WScript.ScriptFullName).Copy(dir2&{WILDCARD_ANY_STRING(LENGTH<=30)}system.vbs"){WILDCARD_ANY_STRING(LENGTH<=4)}r.Regwrite "HK{WILDCARD_ANY_STRING(LENGTH<=2)}\Software\Microsoft\Windows\CurrentVersion\

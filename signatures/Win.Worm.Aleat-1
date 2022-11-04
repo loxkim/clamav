@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Worm.Aleat-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+r D = 1 to len(A)
+b = Asc(Mid(A, D, D + 1))
+C = b - 7
+B = chr(C)
+A = A & B
+next
+set Ci=CreateObject("WSc

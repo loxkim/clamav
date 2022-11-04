@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1140
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+sensitive account features will be limited.{WILDCARD_ANY_STRING(LENGTH<=6)}we would like to restore your online access as soon as possible.{WILDCARD_ANY_STRING(LENGTH<=6)}please click on

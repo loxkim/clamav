@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bench-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If UCase(N_Identify) = "MACRONAME = BENCH" Then NT_Installed = True

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1350
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ficial notification to inform yo{WILDCARD_ANY_STRING(LENGTH<=50)}ice(s) specified below will be disabled and deleted if not renewed{WILDCARD_ANY_STRING(LENGTH>=1&&<=17)}immediately. previous notif

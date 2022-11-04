@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9936519-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hxv,Vtv,Vpv,Vlv,Vhv,Vdv,V`v,V\v,VXv,VTv,VPv,VLv,VHv,VDv,V@v,V<v,V8v,V4v,V0v,V,v,V(v,V$v,V v,V
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+v,V|v,Vxv,Vtv,Vpv,Vlv,Vhv,Vdv,V`v,V\v,VXv,VTv,VPv,VLv,VHv,VDv,V@v,M
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+~lM.qlM
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+V.Bog,Y
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+`jh.Jhm#]

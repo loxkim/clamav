@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Paula-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Apaula.writeline%28%22c%3A%5Crevenge.bat%22%29%0

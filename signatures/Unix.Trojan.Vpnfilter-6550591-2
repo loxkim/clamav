@@ -1,0 +1,11 @@
+VIRUS NAME: Unix.Trojan.Vpnfilter-6550591-2
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GET %s?me=%s HTTP/1.1
+Host: %s
+Accept: */*
+User-Agent: 

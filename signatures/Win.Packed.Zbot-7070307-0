@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zbot-7070307-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files (x86)\E0S-PC\e0s\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Proxifier.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+wcealbit262426542669mfdglunu2637265826522660phoxwbrqssmy2620jvfvazrhoyef2664xtopjianxclcdzqu2670wcealbit26632669
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+phoxwbrqssmy2620jvfvazrhoyef2661xtopjianxclcdzqu2664wcealbit266826542625mfdglunu2650266326532661phoxwbrqssmy2654
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+wcealbit266826712652mfdglunu2657266426682669phoxwbrqssmy2599jvfvazrhoyef2654xtopjianxclcdzqu2673wcealbit2654

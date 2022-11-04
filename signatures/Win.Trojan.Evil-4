@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Evil-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ftp.xoom.com',true,1);wsh.Run('cmd /c trojan.exe',true,1);wsh.Run

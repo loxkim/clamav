@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Minimal-64
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+A$ = A$ + Chr(WordBasic.Int(Rnd() {WILDCARD_ANY_STRING} 26) + 65){WILDCARD_ANY_STRING}ToolsMacro Name:="AutoOpen", Edit:=1{WILDCARD_ANY_STRING}EditReplace Find:="{WILDCARD_ANY_STRING(LENGTH<=10)}", Replace:={WILDCARD_IGNORE}$, ReplaceAll:=1

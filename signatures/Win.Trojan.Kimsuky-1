@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Kimsuky-1
+TARGET TYPE: PE
+OFFSET: S2+1216
+DECODED SIGNATURE:
+urlhash=&rememberme={WILDCARD_ANY_STRING(LENGTH==1008)}&readresponse

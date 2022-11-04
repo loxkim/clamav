@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9853837-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Installs reg keys to allow VPN connection at TXAUS ministry
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+LJK.WVW8\\\A]]]IWWWQ``_Vjih[tsq`uusannl]fedXZZZTTSSMLKKGEDD@>>=9NNM+776!  
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\\]"\\[*onm/rqp/``_+POO%BAA
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ZZZ~TSStHGGf>>=VNNM@&&%+
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gc\kJGCJ/.+)

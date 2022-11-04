@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Break-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ 3 to 19
+		NT.ReplaceLine I, "'" + NT.Lines(I,1)
+	Next
+End Sub
+
+Private Sub Document_Close()
+	'On Error

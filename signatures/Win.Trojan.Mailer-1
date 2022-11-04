@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Mailer-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CreateObject("scripting.filesystemobject"){WILDCARD_ANY_STRING}CreateObject("Wscript.Shell"){WILDCARD_ANY_STRING}CreateObject("Shell.Application"){WILDCARD_ANY_STRING}CreateObject("Outlook.Application"){WILDCARD_ANY_STRING}Outlook.GetNameSpace("MAPI").AddressLists(1).AddressEntries(Index)

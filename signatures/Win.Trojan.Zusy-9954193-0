@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zusy-9954193-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+vky8TForm_order.WM_CS_handler: unknow command "%s" received!&Odes
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+it rezervaci?/Error getting UN table from ISU_V03$3 field $f.2Error getting Title index from ISU_V03$3 field $f.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unsupported operation.-aRL - P
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Setting bit transparency color is not allowed for png images containing alpha value for each pixel (COLOR_RGBALPHA and C
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ete nejprve tuto DB.0<6> - AUTH table v sekci x_databases je pr

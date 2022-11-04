@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1342
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+llen. <br>die konten, die bis zum {WILDCARD_ANY_STRING(LENGTH<=17)}in dieser form nicht a{WILDCARD_ANY_STRING(LENGTH<=350)}ght="32" alt="" border="0"></a></div><br>wir ent{WILDCARD_ANY_STRING(LENGTH<=210)}n gr{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}ßen, <br>sicherheitsab

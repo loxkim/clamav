@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Emotet-7340732-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\User\Documents\Visual Studio 2008\Projects\KIMATOS\Release\Test.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\ProgramData\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8StMTP5l5Vzu8bBPkc0cs1xwEE3sMpNh0Vvkrn8mdmYrwbjgj5tsp7hpb7RZX2SpYDSfCVQrkixtZ6HgQGQgFsq05TmTLP2gbHRirBUSPCc85IozpQzkiukyCeSbwbhh
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+l0Tq6lBXr88d3XcuJpXqa3nj/slvZrjqx5aWxYlu2eBzKLhMb80cp2gQYPAij1Yjalbp87ljgo0YSsWdkSmPqDzLbkRZUNATEQv1bm/rkFbrEbljgu3c6n5u2bzq+kx3
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+5jlN1KAYkoZnb1SsFUrkO6hIUmmtwruRLWet7c255hlJbLUspY6Q5K7llGq9kU/ox4IwhHjqpO82rzEJi80Mn2giVoaYkOQzltISonmCkmXVSPd9678WqE4Jd0UtVlzo

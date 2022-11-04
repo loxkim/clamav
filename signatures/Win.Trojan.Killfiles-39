@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Killfiles-39
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+tskill explorer
+del %windir%\explorer.exe

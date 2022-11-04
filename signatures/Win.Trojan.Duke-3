@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Duke-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%Dukef%set yc=nul
+set yc%Dukek%=%yc%

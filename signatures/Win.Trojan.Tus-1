@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Tus-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ 8e 06 2c 00 cd 21 b8 76 6f cd 21 3d 64 69 > battus.deb
+echo e 110 74 1c b8 21 35 cd 21 8c 06 4c 01 89 1e 4a 

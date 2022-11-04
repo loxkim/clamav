@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Hotbar-9792237-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\121029_131939_build_GamesLeap_GamesLeap_1.0.8.0\source\source_sa\bin\Release\ClientSA.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\121029_131939_build_gamesleap_gamesleap_1.0.8.0\source\source_sa\source\clientapp\source\CVerifyExitCleanup.h
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\121029_131939_build_gamesleap_gamesleap_1.0.8.0\source\source_sa\source\clientapp\source\UrlDetect/CBaseBrowserWindow.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mt=%s&did=%s&partner_id=%s&name=%s
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Search Ass$istant

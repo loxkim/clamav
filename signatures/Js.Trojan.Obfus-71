@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-71
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+q="v";el=document.getelementsbytagname("di"+q)[0];with({a:document}){k=a.createtextnode("eval");}with(el){appendchild(k);}q="extnode";if(2===math.abs(-"2")){el.appendchild(document["createt"+q]("referenceerror"));}el3=el.lastchild.previoussibling;el2=el.removechild(el.childnodes[1]);e=eval(el3.nodevalue);e("k=el2.nodevalue")

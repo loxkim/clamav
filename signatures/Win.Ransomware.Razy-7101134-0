@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Razy-7101134-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+estrictions on destinations, end users and end use.  For additional information, see \cf1\ul www.microsoft.com/exporting <http
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ Target drive (folder) for write archives (CD/DVD, HDD, ext USB drive, network, ets) 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/www.microsoft.com/exporting>\cf0\ulnone .\b\par
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ZoomIt - Sysinternals: www.sysinternals.com
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.dfincbackup.com

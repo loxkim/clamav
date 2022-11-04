@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Small-4596
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+filevbs2=filevbs2&chr(255-asc(mid(filevbs1,i,1)))

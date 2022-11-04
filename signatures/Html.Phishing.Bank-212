@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-212
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<input maxlength=4 name=agcc_cvv size=4>3 last digits at the back of your card; next to signature

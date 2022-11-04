@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Korplug-9753482-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+kC:\WINDOWS\System32\logon.scr
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+pflth;fy pfvtcnbntkm yfxfkmybrf eghfdktybz rhbvbyfkmyjq gjkbwbb fcnfys
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+fvtcnbntkm yfxfkmybrf erg fcnfys pflth;fy
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+le Chrome
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+th;ecegjdf fqyfi thufkbtdyf

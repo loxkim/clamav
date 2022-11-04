@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-75
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+</a>as a new email address for<br>your acco{WILDCARD_ANY_STRING(LENGTH<=150)}ze="2">if you did not authorize this change or if you need assistance<br>with your a

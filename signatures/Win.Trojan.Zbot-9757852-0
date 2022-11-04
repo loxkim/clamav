@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zbot-9757852-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></requestedPrivileges>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fjh32lamj33be2becegghmcim3il3ifc23hh2dd1dkchbbe3b2ec1mcm1ehkcc3bkffg3ik1cdhcfle3f1fc312c1bif2fccjd3i33ciibjf1fihm1hba1hjfl3dlm2b
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%1 /s <
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fldkbec2ggc31l223ghjfbieldb1gf3dhj 52332330
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ Apple Macintosh

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9831625-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Creat#eProcessA
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Terminate#Process
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Cannot assign a %s to a %s%List does not allow duplicates ($0%x)%String list does not allow duplicates
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+oR0CD8EgBOI0FFGDHHBUJCRSAAQhGCEIoYlhDhUIYQ7CM9ugDsEIDov6vggg4TRo
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+agAH/w4TBM0AEsHgBo7AMf8Avl59uUYA86QABmoAy0VudGUAciBjb2RlOiAhg3YI

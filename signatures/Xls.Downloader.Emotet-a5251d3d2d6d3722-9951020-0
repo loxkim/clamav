@@ -1,0 +1,8 @@
+VIRUS NAME: Xls.Downloader.Emotet-a5251d3d2d6d3722-9951020-0
+TDB: Engine:150-255,Target:0
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ERROR: Decoding failed

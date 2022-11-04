@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Blackhole-68
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+try{window.document.body=v}catch(gdsgsdg){w=window;if(020===0x10)e=w["e".concat(v)];}

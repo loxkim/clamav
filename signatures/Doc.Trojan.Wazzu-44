@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Wazzu-44
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+fM$ = fff.Directory + "\" + fff.FileName + ":autoOpen"{WILDCARD_ANY_STRING}WordBasic.MsgBox "Allgemeiner Fehler Nr. 32768", "Fehler!"

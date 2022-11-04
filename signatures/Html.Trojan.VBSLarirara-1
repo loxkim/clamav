@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.VBSLarirara-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+mofile = filesys.GetFile("larirara.vbs")
+demofile.Copy("c:\WINDOWS\Menu Iniciar\Programas\Iniciar\iniciar.vbs

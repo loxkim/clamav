@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Redir-15
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<script>"></title><script src="http:</script>
+<script>"></title><script src="http:</script>
+<script>"></title><script src="http:</script>
+<scr

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-60
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sockread -f %t.v | if ($gettok(%t.v,2,32) == 322) && ($gettok(%t.v,5,32) > 30) { write sc.bat

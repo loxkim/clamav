@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-573
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+failure to update your records will result in further account limitations.{WILDCARD_ANY_STRING(LENGTH>=1&&<=5)}this notification expires in

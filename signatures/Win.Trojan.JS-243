@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-243
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+document.write(n002);}affiliatelink("{WILDCARD_ANY_STRING(LENGTH==238)}");</script>

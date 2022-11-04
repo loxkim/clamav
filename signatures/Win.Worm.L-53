@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.L-53
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+vbcrlf & "Darling"
+Mail.Attachments.Add(dirsystem&"\User32.dll.vbs")
+

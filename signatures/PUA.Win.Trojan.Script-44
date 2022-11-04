@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Win.Trojan.Script-44
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+setshell=createobject("wscript.shell")

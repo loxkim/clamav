@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-20
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+$un = @php_uname(); $id1 = system(id); $pwd1 = @getcwd(); $free1= diskfreespace($pwd1); $free = convertbytes(diskfreespace($pwd1)); if (!$free) { $free = 0; } $all1= disk_total_s

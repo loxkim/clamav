@@ -1,0 +1,19 @@
+VIRUS NAME: Unix.Trojan.Hanthie-4
+TDB: Engine:51-255,Target:0
+LOGICAL EXPRESSION: (0&(1|2))
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+my $pid = fork; exit if $pid;{STRING_ALTERNATIVE:
+| }$0 = "{STRING_ALTERNATIVE:p0stfix|unix-daemon|unixd}\0"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[Hand of Thief]
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$buff = "\x05\x00\x00".$raw_host.$raw_port;

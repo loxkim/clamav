@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Adware.Multiplug-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+{this.bs=1},failed:function(){var a=10800;try{a=math.floor(86400*math.random())}catch(b){}dbclass.set({epoch:mng.epoch()+a,url:syncer.url})}},zycript={xlat:"

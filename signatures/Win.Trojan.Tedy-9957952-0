@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Tedy-9957952-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+anagennesis.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+P^IU^W()!!Xi~zo~]rw~Z3v;i/;7;r;+c#+++++++7;r;+7;k;+7;r;/7;r;+c#+7;r;+2r5i. 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+P^IU^W()!!MrionzwZwwtx3r;+7r;+c*+++++7;r;+c(+++7;r;+c/+2k5i* 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Eksprestogets
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+P^IU^W()!!H~o]rw~Ktruo~i3r;i.7;r;(,.+;7;r;+7r;+2r5i( 

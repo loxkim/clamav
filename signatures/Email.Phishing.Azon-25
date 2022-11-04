@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Azon-25
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+The e-mail address associated with your account has been changed{WILDCARD_ANY_STRING(LENGTH<=140)}please simply follow the instructions below

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-718
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+safe for all our online banking cust{WILDCARD_ANY_STRING(LENGTH<=30)}you are advised to follow the link below to confirm your transfer before we complete the tra

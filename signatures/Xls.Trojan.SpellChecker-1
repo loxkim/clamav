@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.SpellChecker-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Application.OnTime Now + TimeValue("00:03:00"), "SPELLCK.XLA!Payload"

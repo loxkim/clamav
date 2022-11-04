@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Vovan-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+eVBProject.VBComponents("xxx").CodeModule.InsertLines qwer, "Rem " & a & vbTab & b & vbTab & c & vbTab & D & vbTab & e

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Inor-17
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+"script"+"ing"+"."+"fil"+"esy"+"stem"+"obj"+"ect{WILDCARD_ANY_STRING(LENGTH<=14)}ws"+"cr"+"ipt."+"s"+"hel{WILDCARD_ANY_STRING(LENGTH>=25000)}.expandenvironmentstrings("%temp%")+"\"+

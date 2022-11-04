@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Emotet-9754668-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Joyee Flynn has 101 books on Goodreads with 62958 ratings. Joyee Flynn's most popular series is Marius World.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Joyee Flynn writes paranormal erotic romance full of hot men who desire nothing more than each other.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NONHLBLKCDDBGGHG[\_]_[X[SQ]QPVSQijhelnkjfbde`ffhz}y~z|}}~qqvqsuq
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MLLHJKJL@N@GG@@F[[T[_X[YSWTWWUYUljommnla`bgfbf`a|zzt~y}zvpqqzuur
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Goodreads

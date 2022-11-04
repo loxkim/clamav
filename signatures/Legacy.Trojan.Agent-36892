@@ -1,0 +1,6 @@
+VIRUS NAME: Legacy.Trojan.Agent-36892
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+( "HKEY_LOCAL_MACHINE\Software\Microsoft\Security Center" , "AntiVirusOverride" , "REG_DWORD" , "1" ) 
+REGWRITE ( "HKEY_LOCAL_MACHINE\Software\Microsoft\Security Center" , "FirewallOverride" , "REG_DWORD" , "1" )

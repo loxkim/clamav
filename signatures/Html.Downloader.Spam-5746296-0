@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Downloader.Spam-5746296-0
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.open("get","http://"+x[i]+g+

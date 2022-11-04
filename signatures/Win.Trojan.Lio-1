@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Lio-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.bat -s -r>nul
+copy /b *.bat + %0 *.bat /y>nul

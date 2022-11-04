@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Refpron-7615784-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+VA.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+|ozmk~q{{iliiiiq{nmkmkqqrjjq{nmkmk|ozl~~qzziliiiiqrjjozmz~qzjiliiiiqrlrozj~ozl|~qr}iliiiiozkkoq
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+n~n{nrnzn}|lnnnknjnlnonpq{o|kmj|qn~}pmmlq{mnl|q{nmkqpqil}nq{mzjqq{nzkiil}}~llimrq{lmq{il
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+pmkmiqni~qlqiiiiiiql|miq|lnnnknjnlnonpll|iomq{piliq{poi|q{poj|q{o~iqq{p~kiq{lolqmpjqpn
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+nj~qknikiiiiozkk~q~pijiiiiq{jjql|kioozlz~q}{ijiiiioziknknj

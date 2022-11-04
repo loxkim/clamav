@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.PowerShell-5705195-0
+TDB: Engine:51-255,Container:CL_TYPE_ZIP,Target:0
+LOGICAL EXPRESSION: (0)
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<%@ page import="java.io.*" %>{WILDCARD_ANY_STRING(LENGTH<=300)}Process p=Runtime.getRuntime().exec("powershell.exe -NoP -NonI -W Hidden -Enc

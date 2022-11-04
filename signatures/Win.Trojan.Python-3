@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Python-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if signature != '#bUd\n':
+                                hdl.seek(0,0)
+                                f=hdl.read()
+

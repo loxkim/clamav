@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bablas-16
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If InputBox("Masukin Kata Sandinya...", "Santo Hacker") = "IIQ NU KASEP THEA" Then Application.ShowVi

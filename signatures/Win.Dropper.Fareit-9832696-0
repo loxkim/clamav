@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Fareit-9832696-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity version="6.0.7.0" processorArchitecture="x86" name="philandro.AnyDesk.AnyDesk" type="win32" />
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mailto:viacoding@mail.ru?Subject=Eyes Balls Project&Body=Hello, please send me the source code program. Thanks!
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+783702314cbb0af7b030ba4b1d3b394328bc7d1331be3ebc7d13351c7d1331be7e33baf3216a666962f4b2f76a616e62baf3d1bce0be2d13b4431d3fb44b1d33
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c6c80af7b034baf3356a666962f4b2f76a616e62baf3d1be3513b2cdb2efb4431d3384c36c7639b6fec8063739b6de37f9c8c6bc7c37b031d231b231b237b031
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7d1331dfc5c3c6c88a36b2f4baf3356a666962f46a61baf3cdbce3bcc9be0d13b2331dbe613fb2331d34fab4d13bb06f31b6c237293739484fbcfab2f94e3ab4

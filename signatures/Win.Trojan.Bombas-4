@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Bombas-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for %%i in (%boom% ..\%boom% c:\%boom%) do copy %%i V%boom%
+for %%k in (%boom% ..\%boom% c:\%boom%) do copy %0 %%k

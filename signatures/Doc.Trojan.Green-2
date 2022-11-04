@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Green-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+pen App.Path & "\" & App.EXEName & ".exe" For Binary Access Read As #Fr{WILDCARD_ANY_STRING}zrtva = Dir(App.Path & "\" & "*.EXE")

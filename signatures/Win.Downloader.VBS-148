@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.VBS-148
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set ws=wscript.createobject("wscript.shell")
+ws.run "

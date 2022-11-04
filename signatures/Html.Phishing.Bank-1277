@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1277
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<map name="{WILDCARD_ANY_STRING(LENGTH<=36)}"><area coords="0, 0, {WILDCARD_ANY_STRING(LENGTH>=4&&<=12)}" shape="rect" href="{WILDCARD_ANY_STRING(LENGTH<=160)}</map><img src="cid:

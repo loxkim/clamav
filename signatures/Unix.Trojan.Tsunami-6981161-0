@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Tsunami-6981161-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NOTICE %s :DNS <target IP> <port> <reflection file url> <forks> <pps limiter, -1 for no limit> <time>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+iptables -t nat -A POSTROUTING -p tcp -d %s --dport 80 -j SNAT --to-source %s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+iptables -t nat -A PREROUTING -p tcp --dport %s -j DNAT --to-destination %s:%s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NOTICE %s :STD <target> <port, 0 for random> <secs>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NOTICE %s :Failed to run command

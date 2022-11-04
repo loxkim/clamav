@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-36
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dimfso,wsh,out,sys,osetfso=createobject("scripting.filesystemobject")setwsh=createobject("wscript.shell")

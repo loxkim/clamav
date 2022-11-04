@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Malk-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+for %%f in (*.bat) do set MaLK=%%f
+find /i "MaLK"<%MaLK%

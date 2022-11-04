@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-9886857-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+external.callapi("shell32.dll","ShellExecuteW",0,0, m_sInstallDir+"\\FvodPlayer.exe", "", m_sInstallDir, 1);
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+external.callapi("shell32.dll","ShellExecuteW",0,"untaskpin", slnk, "", "" , 0)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+external.ExecCmd("getdata","settings");
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+external.callapi("shell32","ShellExecuteW", 0, 0, "cmd", "/c rmdir   /s /q " + '"' + m_sInstallDir +'"', 0, 0);
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+external.query_data("Setup.wanyou7.com","9000",  "feilao"+"."+dwSize+"."+"3." +stemp,true,3000);

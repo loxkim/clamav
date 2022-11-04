@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Lockbit-7724445-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+# Tor Browser may be blocked in your country or corporate network. Use https://bridges.torproject.org or use Tor Browser over V
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ /C ping 1.1.1.1 -n 22 > Nul & "%s"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+| 1. Download Tor browser - https://www.torproject.org/ and install it.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Any attempts to restore your files with the thrid-party software will be fatal for your files!
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Process created with limited rights

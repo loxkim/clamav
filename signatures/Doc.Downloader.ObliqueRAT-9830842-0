@@ -1,0 +1,23 @@
+VIRUS NAME: Doc.Downloader.ObliqueRAT-9830842-0
+TDB: Engine:81-255,FileSize:100-1000000,Target:2
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+If iShp.Range.Font.Hidden = True Then iShp.Range.Font.Hidden = False Else iShp.Range.Font.Hidden = True
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+.Visible = False
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Document_Open()
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Document_Close()

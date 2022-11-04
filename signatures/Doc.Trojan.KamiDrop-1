@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.KamiDrop-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Private Sub DropWorm(){WILDCARD_ANY_STRING}.vbs" For Output As #1{WILDCARD_ANY_STRING}If str1 = "'<BODY>" Then{WILDCARD_ANY_STRING}Set wsh = CreateObject("WScript.Shell")

@@ -1,0 +1,33 @@
+VIRUS NAME: Vbs.Downloader.Fajan-9852320-0
+TDB: Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ik5bskfgig
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc="t24grxjyb3igumvzdw1lie5lehq
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+q3jlyxrlt2jqzwn0kcjxu2nyaxb0llnozwxsiik
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz0123456789+/"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+function decode(b64string)
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+b64string = replace(b64string, vbcrlf, "")

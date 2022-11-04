@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-900
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+first and final reminder to log in to your {WILDCARD_ANY_STRING(LENGTH<=25)}account{WILDCARD_ANY_STRING(LENGTH<=7)}as soon as possible, be sure to log in securely by clicking on the link bel

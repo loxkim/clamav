@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillAV-42
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if procesosav(ifor.name) = true then{WILDCARD_ANY_STRING}ifor.terminate(){WILDCARD_ANY_STRING}avarray = array("pqremove.com","nod32.exe","antivir{WILDCARD_ANY_STRING}for each fprocess in avarray

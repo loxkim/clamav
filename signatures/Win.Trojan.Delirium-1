@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Delirium-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+al" > c:\$virus.bat
+:end %viral%
+for %%a in (*.bat) do call c:\$virus.bat %%a
+if (%ok%)==() goto virend
+t

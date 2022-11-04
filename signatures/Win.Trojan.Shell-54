@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-54
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if(function_exists('exec')) { @exec($cmd,$result); $result = implode("\n",$result); } elseif(function_exists('shell_exec')) $result = @shell_exec($cmd); elseif(function_exists('system'))

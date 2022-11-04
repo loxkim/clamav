@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Banker-9861406-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://187.45.235.30/ne/neFrameMaster.asp?CONTROLE=489563289926295897&CTRL=489563289926295897&DATAUACESSO=10%2F08%2F2010
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://187.45.235.30/ne/iniciasessao.asp?paramPag=acesso_conta
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+iniciasessao.asp?paramPag=acesso_conta
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Provider=SQLOLEDB;Data Source=201.76.55.33;Initial Catalog=supermercadofamilia1;Password=drsorizo10;User ID=supermercado
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+mpegaudio

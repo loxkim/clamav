@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Ruskill-9867053-1
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<li>REPCDRC.DLL - Resources for the Repository Common Dialog</li>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<li>REPCDLG.DLL - The Repository Common Dialog</li>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<li>REPCDE.DLL - The Component Description Information Model</li>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<li>REPVCM.DLL - The Visual Component Manager Model</li>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<p ALIGN="left">Loading of object collections in response to <strong>IRepositoryODBC::ExecuteQuery()</strong>

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.VBS-231
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+strZipFile = appdata & "\bits2\file.zip"
+outFolder = appdata & "\bits2"
+Set objShell = CreateObject("Shell.Application")

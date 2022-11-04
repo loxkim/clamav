@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Win-59
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+\DosDevices\c:\klog.txt{WILDCARD_ANY_STRING(LENGTH<=33)}File Status = %x

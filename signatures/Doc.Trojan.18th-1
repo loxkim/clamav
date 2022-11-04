@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.18th-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If £o.Find("~^^~", 0, 0, 0, 0) And £h = 0 Then

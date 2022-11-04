@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Iroffer-37
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set MXBIN=C:\WINNT\system32\Microsoft\Crypto

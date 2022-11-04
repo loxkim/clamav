@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Carrier-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+UCase(NI) = "REM WRITTEN BY LORD ARZ{WILDCARD_ANY_STRING}Caption = " & Chr(34) & " Infected by the Carrier virus

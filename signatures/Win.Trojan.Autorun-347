@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Autorun-347
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+[AutoRun]
+Open=Ayam-kampus.exe

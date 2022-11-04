@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9968463-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+AllowpFile System Shield watches for potentially unwanted programs that try and write or read a file on your computer.oE
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Security Definition Update_Your security definitions are up-to-date: AS version: %d, AV version: %s, Total Definitions: 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+block installationjActive X shield watches for programs that install ActiveX technology which let programs share informa
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Restore failed!Restore failed, target is on a CD Restore failed, target not found
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+occuring@An Alternate Data Stream (ADS) execution is %s on your computer.

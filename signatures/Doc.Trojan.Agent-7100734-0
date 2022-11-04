@@ -1,0 +1,18 @@
+VIRUS NAME: Doc.Trojan.Agent-7100734-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8tnem[`s^w<i?qgrv($lbt,'/ep0#dl:
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+p_@|vjfw6z=r;a)mj5za31hs!o->f.~&\\4x]dbh
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wscript.quit(0

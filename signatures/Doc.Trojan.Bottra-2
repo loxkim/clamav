@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bottra-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+MyCode = ThisDoc.Lines(1, ThisDoc.CountOfLines){WILDCARD_ANY_STRING}Open "c:\{WILDCARD_ANY_STRING(LENGTH<=250)}" For Output As #1{WILDCARD_ANY_STRING}Print #1, "Attribute VB_Name=""ThisDocument"""{WILDCARD_ANY_STRING}Print #1, MyCode

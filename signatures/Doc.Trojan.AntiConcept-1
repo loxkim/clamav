@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.AntiConcept-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.ToolsMacro Name:="Normal.dot:AAAZA" + "O", Delete:=1{WILDCARD_ANY_STRING}Your system may or may not be clean. Please close CleanW and the open it AGAIN."

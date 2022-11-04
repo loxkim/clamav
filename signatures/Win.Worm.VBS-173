@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.VBS-173
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+createtextfile(sayhey & "\say hey....txt")

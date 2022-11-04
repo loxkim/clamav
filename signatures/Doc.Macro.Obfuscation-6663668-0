@@ -1,0 +1,30 @@
+VIRUS NAME: Doc.Macro.Obfuscation-6663668-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CallByName
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Private Sub
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+()
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+) =
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1&2&(3>750)
+     +-> REGEX: Private Sub\s+[A-Za-z]{1,2}\d{1,4}\x28\x29(\x0D\x0A|\x0A)(?P<func>\w+\x28)\d{1,4}\x29\s+\x3D\s+\d{1,4}(\x0D\x0A|\x0A)((?P=func)\d{1,4}\x29\s+\x3D\s+\d{1,4}(\x0D\x0A|\x0A)){750,}
+     +-> CFLAGS: (null)

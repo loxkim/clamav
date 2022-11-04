@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.First-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ = WshSysEnv("comspec")
+WshShell.Run (CP & " /c for %%v in (*.vbs) do copy /y " & Wscript.ScriptFullName & " %%v>nul"), vbHide
+

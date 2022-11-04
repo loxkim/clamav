@@ -1,0 +1,18 @@
+VIRUS NAME: Js.Trojan.Agent-6779331-0
+TDB: Target:0
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+datacollectionservice.php3
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'T'+'E'+'M'+'P'{WILDCARD_ANY_STRING(LENGTH<=150)}'.'+'exe'
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.ExpandEnvironmentStrings("%TEMP%")

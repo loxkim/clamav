@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-322
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ar customer,</p><p styl{WILDCARD_ANY_STRING(LENGTH<=100)}ently we are trying to upgrade our on-line security measures. all accounts have been temporarly suspended unt

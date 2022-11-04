@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.AddUser-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+net user /add sysadmin negerjude net localgroup /add administrators sysadmin del %0

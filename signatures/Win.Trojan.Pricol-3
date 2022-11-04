@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Pricol-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+kol.exe windoms.spb.sitek.net temp %1 >pricol.1
+copy pricol.2 bsa.exe >nul
+rem Это BSA.EXE
+bsa.exe -a 9 pricol.1 pricol.

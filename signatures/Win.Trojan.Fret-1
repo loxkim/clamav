@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Fret-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@if '%_Fret102%==' goto _Fret102

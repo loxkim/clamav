@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Koobface-27
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+GET /v50/search.php?p=%04d&s=%c&v=%s&uid=%ld&q=%s HTTP/1.1

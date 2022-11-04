@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35566
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+/softwarefortubeview.40011.exe{WILDCARD_ANY_STRING}d run video c

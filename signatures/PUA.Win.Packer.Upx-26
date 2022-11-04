@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Win.Packer.Upx-26
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+`Њ{WILDCARD_ANY_STRING(LENGTH==4)}НЊ{WILDCARD_ANY_STRING(LENGTH==4)}WГЌ€л§џuЛГоьџrт1ј@џuЛГоьџјџuЛГоьџsж1…Г

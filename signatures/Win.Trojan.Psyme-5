@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Psyme-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+marryemails.com/file.dat";{WILDCARD_ANY_STRING}ActiveXObject('ADODB.Stream'); 

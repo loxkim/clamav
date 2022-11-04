@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-151
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+newwords=unescape(keys);{WILDCARD_ANY_STRING(LENGTH<=14)}(newwords);

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hana-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Sub AutoOpen(){WILDCARD_ANY_STRING}OrganizerCopy Source:=ActiveDocument.FullName, Destination:=NormalTemplate.FullName, Name:="Hana", Objec

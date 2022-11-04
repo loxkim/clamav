@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Trojan.Trojan-781
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+The parcel was sent your home adress{WILDCARD_ANY_STRING(LENGTH<=100)}All information and the parcel number
+are attached in file below

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Bifrose-7076956-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Programme\Microsoft Visual Studio\VB98\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C*\AC:\Dokumente und Einstellungen\bla\Desktop\Neuer Ordner (2)\Roulette Menu.vbp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E-Mail    :    virtual_guitar_1@hotmail.com
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TSL65.ecb}}|xvtkjgb`]^XU[WSQMHEC;DA:A>6@<5<9185,42(0/%/.$0.$1/%64*GE;:7/75,MLE_^Yqok
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Exe|*.exe

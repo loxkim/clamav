@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-16
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+$_post['cmd']="ls -la"; } echo "<font face=verdana size=-2>".$lang[$language._text1].": <b>".$_post['cmd']."</b></font></td></tr><tr><td>"; echo "<b>"; echo "<div align=center><textarea name=report cols=122 rows=15>"; echo "".passthru($_post['cmd'])."";

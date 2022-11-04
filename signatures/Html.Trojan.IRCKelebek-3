@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCKelebek-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if ($left(%mynetr,4) == PING) {  .sockwrite -tn $sockname pong $mid(%mynetr,7,$len(%mynetr))

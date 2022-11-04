@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Realplay-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+while(realzh["length"]<temp)realzh+="hohoho"

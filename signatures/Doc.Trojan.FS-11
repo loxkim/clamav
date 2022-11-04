@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.FS-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+£d = ActiveDocument.Saved{WILDCARD_ANY_STRING}ElseIf £o.CountOfLines < £h.CountOfLines

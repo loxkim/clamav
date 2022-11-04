@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-843
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Your package has been sent{WILDCARD_ANY_STRING(LENGTH<=32)}Please find a post label attached

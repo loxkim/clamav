@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Softpulse-6830161-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+_std::_Vector_const_iterator<char,class std::allocator<char> >::operator *
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+std::list<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<c
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+("_Myptr > ((_Mystring *)this->_Mycont)->_Myptr()", 0)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+list erase iterator outside range
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+AtlIsValidString( pszSub )

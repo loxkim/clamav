@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Fsysna-9757563-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<;6:r'06! =0B1e'u6=e@>UUi;#4Oi1u"<n1L"us</0Uu;>;:w;u@:m%'0&sJ:;um0!=LdUU<;c:N%4t<790 #0'&i:;#U
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4%%9i6B!<o;z#;d{8&xp:"F'p:<;!,
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3a'u74cHUUUi;#4Oi1u1<s!B;6eu6:1eUUU<n#4O<du9<!eQ49zl0;2Whu6:1eUJ;#a9<1ud<&!4n60Pus0!UU
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+UUJ;v49<1 A9:6ku!,SeUU=0a1F'uc'6u8i&84!c=UV;k;:"; K041e'u3Oa2&u&e!#UU
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+jEuc{e;ut<;d:"&uN

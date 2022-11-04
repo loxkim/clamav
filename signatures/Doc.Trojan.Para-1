@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Para-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+   SVictim("paranoid").Export "c:\paranoid.sys"

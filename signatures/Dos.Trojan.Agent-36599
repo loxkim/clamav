@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36599
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off copy .url "%userprofile%\favorites" copy .url "%userprofile%\" regedit /s 1.dll echo !>%windir%\temp\al.log start %windir%\temp\al.log ping -n 5 127.1>nul shutdown -r -t 00 

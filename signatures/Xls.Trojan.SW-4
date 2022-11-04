@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.SW-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+InStr("Run MacroStep IntoStep MacroMenu Editor", Toolbars(s).ToolbarButtons(t).Name) <> 0 And Toolbars(s).ToolbarButtons(t).Name <> "" Then Toolbars(s).Too

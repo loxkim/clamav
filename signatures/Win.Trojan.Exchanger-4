@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Exchanger-4
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+%SystemRoot%\System32\CbEvtSvc.exe -k netsvcs

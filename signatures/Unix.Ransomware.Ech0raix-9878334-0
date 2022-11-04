@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Ransomware.Ech0raix-9878334-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.xul.xwd.xws.xxx.zfo.zip.zul.zvz/tmp0x%x10803125: p=::/0AhomAtoiChamDATADashDateEtagFromGOGCGoneHEADHostJulyJuneLisuMiaoModiName
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.arw.asa.asc.ase.asp.asr.att.aty.awm.awp.awt.aww.axd.bak.bar.bat.bay.bc6.bc7.big.bik.bin.bit.bkf.bkp.bml.bok.bpw.bsa.bwp.bz2.c++
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.swz.sxc.t12.t13.tar.tax.tbl.tbz.tcl.tgz.tib.tif.tor.tpl.txt.ucf.upk.url.vbd.vbo.vbs.vcf.vdf.vdi.vdw.vlp.vlx.vmx.vpk.vrt.vtf.w3x
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.nrw.nsf.ntl.nv2.nxg.nzb.oam.odb.odc.odm.odp.ods.odt.ofx.olp.orf.oth.p12.p7b.p7c.pac.pak.pdb.pdd.pdf.pef.pem.pfx.pgp.pid.png.pot
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.gif.gne.gpg.gsp.gxk.hdm.hkx.htc.htm.htx.hwp.hxs.idc.idx.ifx.iqy.itl.itm.iwd.iwi.jcz.jpe.jpg.jsp.jss.jst.jvs.jws.kdb.kdc.key.kit

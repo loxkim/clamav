@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-56
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+my $nick = "scan".(int(rand(500))); my @spychan=({WILDCARD_ANY_STRING}'hash=[hash]&submit=decrypt', '<b class=\"red\">normal text: </b>(.*?)\n'] ); my @tabele=

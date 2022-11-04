@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Marker-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+gData = Mid(LogData, InStr(1, LogData, "'Ordenadores " & "Infectados -->") + 29, Len(

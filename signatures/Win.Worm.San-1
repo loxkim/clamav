@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.San-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+28 then
+lovefolders("c:\")
+end If
+Sub lovefolders(folderspec)

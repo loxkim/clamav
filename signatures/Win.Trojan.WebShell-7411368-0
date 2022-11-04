@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.WebShell-7411368-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+attribute vb_name{WILDCARD_ANY_STRING}basexode{WILDCARD_ANY_STRING}mymutex{WILDCARD_ANY_STRING}mutex_all_access{WILDCARD_ANY_STRING}djuge if new mmfile exists{WILDCARD_ANY_STRING}createobject({WILDCARD_ANY_STRING}scripting.filesystemobject

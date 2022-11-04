@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Trojan.MSShellcode-26
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nc -6 -lp 4444 -e /bin/sh

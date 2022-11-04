@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.Agent-36811
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+{ exec($cmd,$o); $rez = join(rn,$o); } elseif (enabled(shell_exec)) { $rez = shell_exec($cmd); } elseif (enabled(system)) { @ob_start(); @system($cmd); $rez = @ob_get_contents(); @ob_end_clean(); } elseif (enabled(passthru))

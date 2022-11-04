@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Humanit-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If n.Lines(4, 1) <> "cisti:" Then{WILDCARD_ANY_STRING}Do Until n.CountOfLines = 0{WILDCARD_ANY_STRING}n.DeleteLines 1, 1{WILDCARD_ANY_STRING}For a = 1 To d.CountOfLines{WILDCARD_ANY_STRING}n.InsertLines a, d.Lines(a, 1)

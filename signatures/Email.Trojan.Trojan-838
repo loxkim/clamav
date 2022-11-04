@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-838
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+We have received too many reports{WILDCARD_ANY_STRING}update{WILDCARD_ANY_STRING}the attached file{WILDCARD_ANY_STRING}you should download

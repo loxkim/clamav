@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perflog_arc-5
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Rap!{WILDCARD_ANY_STRING}bpkhk.dll­â

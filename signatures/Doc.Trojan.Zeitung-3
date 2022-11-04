@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Zeitung-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Const E_Marker = "VirusZeitung"{WILDCARD_ANY_STRING}(sd = True) And (Mid(ActiveDocument.ActiveWindow.Caption, 1, 8) <> "Документ") Then ActiveDocument.S

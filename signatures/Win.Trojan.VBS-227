@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VBS-227
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+\run\applog.exe", win & "\" & "sys1332.txt.vbs

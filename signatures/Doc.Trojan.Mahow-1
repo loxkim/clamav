@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mahow-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If ActiveDocument.VBProject.Description = "WoHam" Then GoTo DocDone{WILDCARD_ANY_STRING}ActiveDocument.VBProject.VBCOMPONENTS.Import

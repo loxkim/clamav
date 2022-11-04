@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Titch-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+demodule.Lines(2, 1) = "'arbind2000" Then found = True{WILDCARD_ANY_STRING}nts("arbind2000").Export ("c:\arbind2000.tmp")

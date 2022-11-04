@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6812788-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Private Declare Function %RANDOM% Lib  & Chr(34) & GDI32.DLL & Chr(34) &  (ByVal hDC As Long, ByVal nIndex As Long) As L
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Private Declare Function %RANDOM% Lib  & Chr(34) & USER32.DLL & Chr(34) &  (ByVal hWnd As Long) As Long
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Private Declare Function %RANDOM% Lib  & Chr(34) & winmm.dll & Chr(34) &  (ByVal uPeriod As Long) As Long
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Private Declare Function %RANDOM% Lib  & Chr(34) & USER32.DLL & Chr(34) &  Alias  & Chr(34) & SystemParametersInfoA & Ch
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Private Declare Function %RANDOM% Lib  & Chr(34) & winmm.dll & Chr(34) &  () As Long

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.JulyKiller-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox "您的 Office 软件已经超过使用期限,请与我们联系:        " + Chr(13) + _

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Pot-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+   
+if '%PoT%==' I goto PoTf
+set PoT=
+echo %PoT%[32;"You're Stoned

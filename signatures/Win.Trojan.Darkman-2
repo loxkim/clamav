@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Darkman-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+End If
+
+If test = "addy" Then 'Die E-Mail adresse wurde übertragen

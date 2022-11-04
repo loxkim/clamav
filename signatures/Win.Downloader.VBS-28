@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.VBS-28
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+"http://www.alextour.ru/dan/updatte.exe",0);   
+    x.Send();  

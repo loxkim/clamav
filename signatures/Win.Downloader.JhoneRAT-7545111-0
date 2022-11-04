@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JhoneRAT-7545111-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+$ohttp .send ( ) $headers = $ohttp .getallresponseheaders ( ) $status = $ohttp .status $statustext = $ohttp .statustext $rec = binary ( $ohttp .responsebody ) {WILDCARD_ANY_STRING(LENGTH<=400)}$file0 = @appdatadir & "\" & $array1 [ $index1 ] & ".jpg" $file1 = @mydocumentsdir & "\" & $array [ $index ] & ".exe"

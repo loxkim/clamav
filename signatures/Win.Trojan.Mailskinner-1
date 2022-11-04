@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Mailskinner-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+\MailSkinner\MailSkinner.exe{WILDCARD_ANY_STRING(LENGTH<=81845)}\CurrentVersion\Run

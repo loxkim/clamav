@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autophyte-6582726-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+VEngineClient013{WILDCARD_ANY_STRING}VClientEntityList003{WILDCARD_ANY_STRING}palyer {index: %d name:%s steamid:%s steamid:%d}

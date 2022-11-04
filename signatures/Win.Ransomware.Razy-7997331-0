@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Razy-7997331-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Can\'t get client name (%d)."Can\'t get computer name ... (%d)..Can\'t get host name by address (fatal error).!GetKe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+jError while loading \'TPICAW32.dll\'. Citrix Terminal Server is not installed.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+'Fatal Error in function GetPrinter(..).HGet address of the specified exported DLL function failed (fatal error).#GetSec
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Rec : %d  Data: %dX%d update(s) have been carried out. Please call "TPAutoConnect -c" to view actual state.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+More data as needed.(No address info available (fatal error).2\'TPAutoConnSvc\' was not installed (fatal error).

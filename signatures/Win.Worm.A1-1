@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.A1-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ft(A,7)=""<""&""/html>"" Then~U=U&Chr(126)&Left(A,7)~Exit Do~Else~U=U&Chr(126)&Replace(A,"""""""",""""""""""""

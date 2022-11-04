@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Happytime-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+iamsorry!happytime{WILDCARD_ANY_STRING}c:\help.htm{WILDCARD_ANY_STRING}\untitled.htm

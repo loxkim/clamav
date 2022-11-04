@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-961
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+We've updated{WILDCARD_ANY_STRING(LENGTH<=48)}Services Agreement{WILDCARD_ANY_STRING(LENGTH>=390&&<=400)}in the attached file

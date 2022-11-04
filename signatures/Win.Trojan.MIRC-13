@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.MIRC-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+d $nick C:\Windows\Julie16,JPG.com
+n13= }
+n14= 
+n15= ctcp 1:ping:/dcc send $nick C:\Windows\Julie16,JP

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-544
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ody bgcolor=#ffffff text=ffffff><font face=arial size=2><div><a href={WILDCARD_ANY_STRING(LENGTH<=100)}/r1/{WILDCARD_ANY_STRING(LENGTH<=25)}><img alt="" hspace=0 src="cid:{WILDCARD_ANY_STRING(LENGTH<=150)}" align=baseline border=0></a></div><div

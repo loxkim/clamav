@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-362
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear citibank member{WILDCARD_ANY_STRING(LENGTH<=100)}server to verify your e-mail address.<br>you must complete this process by clicking on the link

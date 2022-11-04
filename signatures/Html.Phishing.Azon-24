@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Azon-24
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we will suspend your account for a period of {WILDCARD_ANY_STRING(LENGTH<=20)} if the provided information will be different from that we have stored in our data

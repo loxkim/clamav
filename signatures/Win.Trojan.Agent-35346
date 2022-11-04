@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35346
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+"sitemaintenance"&vbcrlf"dimclientasnewtcpclientdimtcpclientasnewtcpclient()trytcpclient.connect("127.0.0.1",port)catcheeeasexceptionresponse.write(eee.tostring())

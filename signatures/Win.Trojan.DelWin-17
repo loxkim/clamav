@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.DelWin-17
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+del c:\windows\win.ini 

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.MSShellcode-90
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+perl -MIO -e "$p=fork;exit,if($p);$c=new IO::Socket::INET(PeerAd

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IndigoDrop-8092049-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+!Access Violation!{WILDCARD_ANY_STRING}/onboot -hide{WILDCARD_ANY_STRING}Software\Microsoft\Windows\CurrentVersion\Run{WILDCARD_ANY_STRING}aHR0cHM6Ly9wYXN0ZWJpbi5jb20vcmF3

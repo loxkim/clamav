@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCAtaka-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%regedit "NTsocket"=" $+ $replace($mircdir,\,\\)  $+ NoeWinnt.exe" |  run -n regedit /s %regedit

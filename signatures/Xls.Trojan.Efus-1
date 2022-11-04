@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Efus-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Application.ActiveWorkbook.VBProject.VBComponents.Import ("c:\Ms_IO.sys"){WILDCARD_ANY_STRING}Application.MacroOptions Macro:="C:\MS_DOS\Command.DOS!

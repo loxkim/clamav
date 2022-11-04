@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Byt-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ReDim bytDocument(1 To FileLen(Source))

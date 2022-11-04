@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Remoteadmin-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+$currentwd = str_replace("\\\\","\\",$_post['_cwd']); $currentcmd = str_replace("\\\\","\\",$_post['_cmd']); $uname = `uname -a`; $scwd = `pwd`; $userid = `id`; if( $currentwd == "" ) { $currentwd = $scwd; }

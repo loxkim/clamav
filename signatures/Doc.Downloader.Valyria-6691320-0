@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Downloader.Valyria-6691320-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   Month CStr("298656949" + "2780")
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   Month CStr("34082333" + "5105" + "SwZJlqjm" + "rWVjhRR")
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   Month CStr("42986049" + "104341897")
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   Month CStr("98302539" + "bhrdZ")
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   Month CStr("VmNs" + "185" + "4080" + "jLlw")
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Month CStr("5912" + "jQ" + "wVwAGWsE" + "1800")
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Month CStr("XnHjMo" + "GcS" + "398586780" + "6736")
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sKlia = "^m^" + "et^I-^e" + "ko" + "vnI;)" + "Sl" + Chr(12 + 2 + 9 + 8 + 36) + "$ " + "^,L^l^M"

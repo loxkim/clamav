@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autorun-213
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+[autorun] ;d8o open=cfv90h.com

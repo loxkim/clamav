@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.004f10a-6716815-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+For objOS In ComObjGet("winmgmts:\\localhost\root\securitycenter2").InstancesOf("AntiVirusProduct") {
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mXinf = %sv%\%mXinf%\%s%\%O%\%AV%\\%nt%\%U%\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FileAppend, %Scr%, %A_temp%\%F%
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Se := StrSplit(mPost("Vre",""), "|v3s|")
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Pa = %A_temp%\%F%

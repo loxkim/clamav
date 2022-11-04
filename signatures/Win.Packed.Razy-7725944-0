@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Razy-7725944-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\should\AppData\Local\Temporary Projects\SerProg\obj\x86\Release\SerProg.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SerProg.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HZI4IlYP+vPU9+/z4nKBMhPuOU9/zH43MOXw4vWEI99ebm6C6efPGxPYNfDOH9g7xK1XXvBM/96M9xajam8R+Pgivb2P4boX45jiXZXT/H+wvE+LJ1wZfk/c
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SerProg.Resources.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SerProg.Form1.resources

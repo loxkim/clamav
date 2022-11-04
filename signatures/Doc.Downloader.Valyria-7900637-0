@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Downloader.Valyria-7900637-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6,54,30,66
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ADoFjW = ",57" + "," + "30," + "44,38,56,5" + "6
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AppActivate 388
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AppActivate CStr(81472 - BnRzm - 46462 / UsvUX
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AppActivate Cos(26336 + 9252 / VBLaM + oauYcS
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hKdfzDi = "3,3,37,4" + "4,3" + "8,56,56" + ",66,50,52," + "52,11,11,1" + "1," + "24,38" + ",25,63," + "54,2" + "3,40,30,19" +

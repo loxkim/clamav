@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.CobaltStrike-8091534-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+cdn.%x%x.%s{WILDCARD_ANY_STRING}www6.%x%x.%s{WILDCARD_ANY_STRING}api.%x%x.%s{WILDCARD_ANY_STRING}%s (admin){WILDCARD_ANY_STRING}Content-Type: application/octet-stream

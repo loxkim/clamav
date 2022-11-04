@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Dropper-50
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+65,64,20,53,65,70,74,32,302,33" function res(x,y) for k = 0 to ubound(v) v(k) = replace(v(k), x, y) next end function res "z", "ff" res "y", "00" piece = split(cut, "/") cc =

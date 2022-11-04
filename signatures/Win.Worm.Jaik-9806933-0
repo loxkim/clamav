@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Jaik-9806933-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\AppData\LocalLow\Macromedia\Flash Player\macromedia.com\support\flashplayer\sys\*.*
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Default User\Application Data\Macromedia\Flash Player\macromedia.com\support\flashplayer\sys\*.*
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Macromedia\Flash Player\macromedia.com\support\flashplayer\sys\*.*
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\AppData\LocalLow\Macromedia\Flash Player\#SharedObjects\*.*
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+All Users\Local Settings\Application Data\Microsoft\Internet Explorer\DOMStore\*.*

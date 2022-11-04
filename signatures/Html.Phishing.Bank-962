@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-962
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+our account review team identified{WILDCARD_ANY_STRING(LENGTH<=7)}some unusual activity in your onlin{WILDCARD_ANY_STRING}to remove limitations, please follow these ste

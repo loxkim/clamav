@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Pwsx-9943091-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+$Operation not allowed on sorted list Too many rows or columns deleted$%s not in a class registration group
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\WINNT\NOTEPAD.EXE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnExecuteltA
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnExecuteH)E
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\bxxxb\xxx\XbxxbX\xx`\baxe\bxx\ebxx\bexx`b\axeb\xxbe\xxb\exxebX\xe\XbxbX\ex\Xbex\XebxbeX\x`\Xba`bX\a

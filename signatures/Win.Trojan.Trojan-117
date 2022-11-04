@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Trojan-117
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+=y7 goto d
+for %%y in (*.bat) do call %0 7 %%y
+goto v
+:D
+type %2>

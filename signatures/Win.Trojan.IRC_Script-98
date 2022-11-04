@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-98
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+alias sakit { sockopen joining1 %clone.server } on 1:sockopen:joining1:{ sockwrite -n $sockname user $read nama.txt

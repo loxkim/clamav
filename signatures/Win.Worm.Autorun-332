@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-332
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+usbcash.exe{WILDCARD_ANY_STRING(LENGTH<=35)}shell\open\Command={WILDCARD_ANY_STRING}\drivers\smss.exe

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1017
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+the security upgrade will be effective immediately and requires our customers to{WILDCARD_ANY_STRING(LENGTH<=7)}update their atm card information. please update

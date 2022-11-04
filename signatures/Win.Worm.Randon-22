@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Randon-22
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ead %prx2 | tokenize 32 %prx2 | IF ($sock($sockname)) { {WILDCARD_ANY_STRING}an 2[12Mr. Bnc2] Error: That nickname doesn't exists on

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Aeon-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+\windows\currentversion\run\aeon"", ae7

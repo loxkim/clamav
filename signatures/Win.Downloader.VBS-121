@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Downloader.VBS-121
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+11"&"D0"&"-98"&"3A"&"-00"&"C04"&"FC2"&"9E"&"36" 
+str="Mic"&"ro"&"so"&"ft."&"X"&"M"&"L"&"HT"&"TP"
+Set x = df.CreateObject(str,"") 
+a1="A"&"d"&"

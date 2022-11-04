@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Trojan-874
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+<?php
+eval(gzinflate(base64_decode('7f1pe+M2sjAMf5/rmv/AVjxpO5a1Wd5jJ1pt2dYueevu10OJlERroUxS65z+728VFhJctLiTzJlz
+P+OkbQlLoQAUC

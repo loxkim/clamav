@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Ecard-22
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+postcard.exe">{WILDCARD_ANY_STRING(LENGTH<=110)}receive your animated postcard!

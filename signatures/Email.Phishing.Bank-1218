@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1218
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+an urgent classified message from the Citibank{WILDCARD_ANY_STRING(LENGTH<=100)}please click here

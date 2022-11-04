@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.Ftp99-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+P1=A,*.*.*.*
+
+[USER=hackcity]
+Password=
+HomeDir=c:\
+AlwaysAllowLogin=YES
+Access1=a:\,RWMCDLEP
+Access2=b:

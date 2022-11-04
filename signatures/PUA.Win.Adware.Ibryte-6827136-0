@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Ibryte-6827136-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d"k.%,k7d"k.%>k3d"k.%>k;d"k>8*k#d"k,)9k+d"k(#%kSd"k(1.k[d"k,)9kKd"k,)9ksd"k%'/kgd"k# ,kkd"k%1'k
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#,k`kkkj",kxkkkb",k`kkkz",k~kkkr",k`kkkO",k|kkkG",kskkk\",k|kkk\",k`kkk\",kpkkk)",kwkkk!",kpkkk9",kpkkk1",kpkkk
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+]j\n\b\f\z\~\r\v\J\N\B\F\Z\^\R\V\*\.\"\&\QS
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1,kFkkkx0,kMkkkJ1,kDkkkG1,k[kkk_1,kDkkk_1,kMkkk_1,kXkkkW1,k_kkk,1,k^kkk91,k_kkk91,k\kkk11,kSkkk
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!,klkkkw!,kmkkkw!,kjkkkw!,kakkkO!,k`kkkG!,k`kkk_!,k`kkkW!,k`kkk/!,k`kkk'!,k{kkk?!,k`kkk?!,kykkk7!,kykkk

@@ -1,0 +1,10 @@
+VIRUS NAME: Legacy.Trojan.Trojan-98
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+pg94.bat
+		:#@3
+	set #=
+
+rem ***********
+rem Infect all .BAT file

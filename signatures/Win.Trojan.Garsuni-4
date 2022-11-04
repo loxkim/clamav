@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Garsuni-4
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Screen-Recording-Suite.exe{WILDCARD_ANY_STRING}NetzStarter{WILDCARD_ANY_STRING}NetzSuffix

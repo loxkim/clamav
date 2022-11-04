@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36402
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off :repete msg * click em mim goto repete 

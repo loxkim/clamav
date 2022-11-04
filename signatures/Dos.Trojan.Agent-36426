@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36426
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off del c:\windows\system32\

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSMsTelnet-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+document.write("<iframe src=" + chr(34) + "telnet://www.microsoft.com:80" + chr(34)

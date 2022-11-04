@@ -1,0 +1,10 @@
+VIRUS NAME: Dos.Trojan.Bombas-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.bat
+attrib *.vdv + h
+attrib %0 -h
+%wibe% rep
+:fun
+echo НЕ догонишь, НЕ поймаешь, НЕ догнал, НЕ воровали!

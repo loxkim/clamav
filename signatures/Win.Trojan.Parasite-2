@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Parasite-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+d..
+a:\
+attrib +R peli.bat>nul
+attrib +H resident.bat>nul
+attrib +H

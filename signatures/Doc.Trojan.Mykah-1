@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mykah-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+m$ = FileName$() + ":Rolz"{WILDCARD_ANY_STRING}Print #1, "echo   Love or Rot Zinister"

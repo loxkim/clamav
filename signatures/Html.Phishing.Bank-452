@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-452
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+do not verify your information, all the services included with your account{WILDCARD_ANY_STRING(LENGTH<=5)}will be suspended within the next {WILDCARD_ANY_STRING(LENGTH<=10)} days until the issue is reso

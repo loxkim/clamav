@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Ransomware.Teslacrypt-6326368-0
+TDB: Engine:70-255,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HoeIncantatory{WILDCARD_ANY_STRING}FaxesDimple{WILDCARD_ANY_STRING}FondestInebriate{WILDCARD_ANY_STRING}InveterateGestation{WILDCARD_ANY_STRING}GloboseLashed
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GroovesLass{WILDCARD_ANY_STRING}LoiteredIndoctrinations

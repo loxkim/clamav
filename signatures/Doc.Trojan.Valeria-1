@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Valeria-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f NormalTemplate.VBProject.VBComponents(i).Name = "Project_P" Then mmf78116 = True

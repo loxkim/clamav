@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36591
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off cmdow.exe /run /hid "c:\program files\internet explorer\iexplore.exe" http://www.webfoundation.net/?affid=082 cmdow.exe /run install.exe bot.exe exit

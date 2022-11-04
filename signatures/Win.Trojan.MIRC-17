@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.MIRC-17
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+script]
+n0=on 1:join:#sverige:/dcc send $nick script.ini
+

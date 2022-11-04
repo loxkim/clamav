@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Silly-28
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ul
+if "%0"=="AUTOEXEC.BAT" goto rt
+attrib %0 +r
+for %%a in (*.bat ..\*.bat) do set _!!=%%a
+attrib %_!!

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.MDMA-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Private Sub install(){WILDCARD_ANY_STRING}If WordBasic.[MacroName$](i, 0) = "AutoClose" Then{WILDCARD_ANY_STRING}installed = 1

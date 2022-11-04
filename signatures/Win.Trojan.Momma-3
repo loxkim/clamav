@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Momma-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+t.Write "Name: " & coo & "(" & org & ") ICQ:[" & fasf & "] Key[" & key & "]" & vbCrLf

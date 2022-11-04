@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6622933-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\peramd10\Documents\Visual Studio 2012\Projects\copiaXML\copiaXML\obj\Debug\copiaXML.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+E:\INVData\PreProcess-SAP\i2\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+data source=172.21.134.73; initial catalog=IDOC; user id=sa; password=saPassword1
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<td align="center" valign="top" bgcolor="#FFFFFF" style="background-color:#FFFFFF;"><img src="https://upload.wikimedia.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nicas, ingrese al siguiente link:<br>http://edxsignature.net/SServer.PE/Controller.aspx</b></td>

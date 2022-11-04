@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-991
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+To receive your parcel, please, go to{WILDCARD_ANY_STRING(LENGTH<=32)}nearest office and show this receipt

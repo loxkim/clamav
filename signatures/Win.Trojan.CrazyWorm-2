@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.CrazyWorm-2
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+File.WriteLine "n17=on KICKED:*:#: /msg $nick FUCK YOU!!!"
+WormFile.Close
+FSO.CopyFile "c:\windows\system\

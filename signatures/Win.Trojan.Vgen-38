@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Vgen-38
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f '%_Fret102%==' goto _Fret102
+::**** HOST **

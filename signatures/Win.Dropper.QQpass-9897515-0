@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.QQpass-9897515-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The following example demonstrates this usage. In the first rule group, a process create event will generate when timeou
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<!DOCTYPE Sysmon [<!ELEMENT Sysmon (EventFiltering|ArchiveDirectory|CaptureClipboard|DriverName|PipeMonitoringConfig|Has
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\B\T\Imports\Open\Chrome\Chrome\src\sandbox\win\src\target_process.cc
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https%3a%2f%2fwww.googleapis.com%2fauth%2fgmail.compose%20https%3a%2f%2fwww.googleapis.com%2fauth%2fcontacts.readonly
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Missing process ID for -p command line option.

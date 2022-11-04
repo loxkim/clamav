@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Teu-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+rkbook").CodeModule{WILDCARD_ANY_STRING}If teu20217.Lines(2, 1) <> "'" Then{WILDCARD_ANY_STRING}teu20217.deletelines 1, teu20217.countoflines{WILDCARD_ANY_STRING}teu20217.insertlines 1, be17

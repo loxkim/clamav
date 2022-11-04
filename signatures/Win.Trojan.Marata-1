@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Marata-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.OpenTextFile(X.Path,2,True)

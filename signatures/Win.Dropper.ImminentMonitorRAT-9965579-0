@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.ImminentMonitorRAT-9965579-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FileMove, C:\Users\%A_UserName%\AppData\Local\SearchUI.Text, C:\Users\%A_UserName%\AppData\Local\SearchUIt.exe , 1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Run C:\Users\%A_UserName%\AppData\Local\SearchUIt-t.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FileInstall, SearchUIt-t.txt, C:\Users\%A_UserName%\AppData\Local\SearchUIt-t.exe, 1
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+qIwAknz2NBoDrCfFswpSrQFJGy843asAaZHyJYQuszgl1xefEx4xv1Za9XjqA0oppEzff056DJFuxZR//LcQEbpHMQz0+RcCPIpEeTw442sX0HzC3D3cLSTD7yJjTb+k
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WPcfSPCQtjbbK2TNb4r0RKHpIpelEaJBzkPaVtJK4c2SGHRtULHAu2R9pK4afrGnD+HBl52zKTvdeVbKaK7PjEYAqvbiVIRqqJTAyPu+NsvqxcljtH6GIdDLbVbEGC8X

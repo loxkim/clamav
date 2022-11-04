@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Kolab-7337350-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\jdk7_32P\jdk7\build\windows-i586\tmp\javacplexec\obj\javacpl.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+g:\Acro_root_ns\BuildResults\bin\release\AcroTextExtractor.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%s -Xbootclasspath/a:"%s\..\lib\deploy.jar" %s -Duser.home="%s" %s com.sun.deploy.panel.ControlPanel %s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Copyright 2008 Adobe Systems Incorporated and its licensors. All rights reserved.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<description>Java(TM) SE Runtime Environment Java Control Panel</description> 

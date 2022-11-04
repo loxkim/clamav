@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Cobra-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If SR <> "Cobra" Then{WILDCARD_ANY_STRING}ion\", "RegisteredOrganization") = "349,PB/ER/DHK-1217/BD"

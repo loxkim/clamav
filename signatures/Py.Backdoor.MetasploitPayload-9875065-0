@@ -1,0 +1,5 @@
+VIRUS NAME: Py.Backdoor.MetasploitPayload-9875065-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+exec(__import__('base64').b64decode(__import__('codecs').getencoder('utf-8')('{STRING_ALTERNATIVE:aw1wb3j0ih|iyevdxnyl2}

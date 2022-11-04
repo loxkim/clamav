@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-280
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+tmp2 = chr(asc(mid(pzhvcmfifx, i, 1)) - 1)

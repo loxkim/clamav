@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.Downloader-69
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+bi.send(); aq.type = 1; aq.open(); aq.write(bi.responsebody); var ke3 = unescape("%53%63"+'ri'+"pt"+'in'+'g'+'%2e'+"fi"+ 'le'+"sy"+"st"+'em'+"ob"+'%6a%65'+"ct","") var var23v = el.createobjec

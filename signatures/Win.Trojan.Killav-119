@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Killav-119
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+ravmond.exe,ravmon.exe,rfwmain.exe,rfwsrv.exe,kpfwsvc.exe,kavpfw.exe,kavstart.exe,kmailmon.exe,kwatch.exe,avp.exe,kav.exe,kavsvc.exe,rtvscan.exe,ccsetmg

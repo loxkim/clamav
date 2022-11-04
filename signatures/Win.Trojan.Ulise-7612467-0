@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ulise-7612467-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' processorArchitecture='x86' publ
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+var t=65536+1024*(e.charCodeAt(0)-55296)+(e.charCodeAt(1)-56320);return r(240|t>>>18&7)+r(128|t>>>12&63)+r(128|t>>>6&63)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<Remote Transport DLL connecting to '%s' is the wrong version-Debuggee Module DLL '%s' is the wrong version
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+return"undefined"==typeof localStorage&&"function"!=typeof localStorage.getItem?!1:!0}();function getLogid(cookie)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2http://ocsp2.globalsign.com/gsextendcodesignsha2g30U

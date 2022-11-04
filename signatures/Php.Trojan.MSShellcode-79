@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.MSShellcode-79
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$c = base64_decode("ZWNobyAidG9vcjo6MDowOjo6L2Jpbi9iYXNoIj4vZXRj

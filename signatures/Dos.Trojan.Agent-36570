@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36570
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off call "compilesis.bat" marcos cd "c:\symbian\6.1\series60\epoc32\build" call "compilesis.bat" velasco 

@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Ransomware.REvil-9875494-0
+TDB: Engine:81-255,NumberOfSections:4-4,Target:1
+LOGICAL EXPRESSION: 0&(1>150)&(2=0)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SvchostPushServiceGlobals
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+crypto
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ValidateDrop

@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Trojan.MSShellcode-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cp /etc/services /tmp/.NSgvpbvnoXBIPOMyuxBVKFQOwXCuJgGa;echo qsk

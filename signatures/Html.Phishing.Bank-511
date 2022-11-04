@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-511
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we noticed some un{WILDCARD_ANY_STRING(LENGTH<=1)}authorised logins,{WILDCARD_ANY_STRING(LENGTH<=1)}from different{WILDCARD_ANY_STRING(LENGTH<=250)}for verification

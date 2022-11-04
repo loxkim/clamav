@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Contructor-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If OptionButton2.Value = True Then{WILDCARD_ANY_STRING}LogPrint ad + ".Item(1).export (Application.Path +" + Chr(34) + "\" + dopFile{WILDCARD_ANY_STRING}LogPrint ad + ".Import (Applic

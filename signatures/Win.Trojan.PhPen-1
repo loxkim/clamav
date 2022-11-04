@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.PhPen-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+PHP環境變量</a><?=$phpinfo?><?=$shellmode?> | <a href="?action=sql">SQL Query</a> | <a href="?action=sqlbak">MySQL

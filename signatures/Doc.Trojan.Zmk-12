@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Zmk-12
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ActiveDocument.ActiveWindow.Caption = "alone 0wns you!"

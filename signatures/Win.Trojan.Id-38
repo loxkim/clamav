@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-38
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+stbyname($server_addr); $alb9 = get_current_user(); $os = @php_os; echo &quot;os: $os&lt;br&gt;&quot;; echo &quot;uname -a: $alb&lt;br&gt;&quot;; echo &quot;uptime: $alb2&lt;br&gt;&quot;; echo &quot;id: $alb3&lt;br&gt;&quot;; echo &quot;pwd: $alb4&lt;br&gt;&quot;; echo &quot;user: $alb9&lt;br&gt;&quot;; echo &quot;phpv: $

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ZekeZip-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for %%f in (*.exe ..\*.exe  c:\*.exe d:*.exe g:*.exe d:\*.exe g:\*.exe) do set bozo=%%f

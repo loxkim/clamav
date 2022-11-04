@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Nodesktop-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+regedit4 [hkey_current_user\software\microsoft\windows\currentversion\policies\explorer] "nodesktop"=dword:00000001 

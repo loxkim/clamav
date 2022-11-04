@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-194
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+.replace(/xx/g,"body").replace(/hh/g,"html"));this.a="";this.s="ked";e[g](function(){f.a()},112);no=a}this.b=""}};var z=new s;this.w="ou";z.a()}};

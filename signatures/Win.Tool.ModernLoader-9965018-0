@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Tool.ModernLoader-9965018-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: EOF-500,500
+DECODED SIGNATURE:
+uploadfile "http://{WILDCARD_ANY_STRING(LENGTH>=6&&<=16)}/rdp/post.php{WILDCARD_ANY_STRING(LENGTH<=20)}c:\users\public\documents\data\hidden_service\hostname"

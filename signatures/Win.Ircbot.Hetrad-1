@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Hetrad-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+timer111 1 1 /dcc send $nick \windows\cookies\britney_spears_exposed.jpeg.exe

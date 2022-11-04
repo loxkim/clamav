@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Sudal-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ame.Copy(TEMPDIR&"\Virus.vbs"){WILDCARD_ANY_STRING}et FileName = fso.GetFile(TEMPDIR&"\Test.vbs")

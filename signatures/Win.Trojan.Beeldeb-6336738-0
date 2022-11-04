@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Trojan.Beeldeb-6336738-0
+TDB: Engine:51-255,Container:CL_TYPE_AUTOIT,Target:0
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+stringreplace ( fileread ( fileopen ( @tempdir & binarytostring ( binarytostring ( binarytostring (
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dllstructcreate ( binarytostring ( binarytostring ( binarytostring (
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+filecopy ( "c:\windows\system32\svchost.exe" , @tempdir & "\svchost.exe" , 0x00000001 )

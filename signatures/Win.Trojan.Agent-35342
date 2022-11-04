@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35342
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dc.txt'; $newuser = '@echo off;net user admin /add /expires:never /passwordreq:no;net localgroup 

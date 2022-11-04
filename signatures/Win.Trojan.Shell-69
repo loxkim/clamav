@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-69
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$zend_framework="\x63\162\x65\141\x74\145\x5f\146\x75\156\x63\164\x69\157\x6e"; @error_reporting(0); $zend_framework("",

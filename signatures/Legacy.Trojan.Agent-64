@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-64
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+my @in=`find / -name  "viewtopic.php" 2>/dev/null`;{WILDCARD_ANY_STRING(LENGTH<=128)}if (open FIX,"<$f") {

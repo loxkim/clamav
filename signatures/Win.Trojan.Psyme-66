@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Psyme-66
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+$="%64d%3d%22}{WILDCARD_ANY_STRING(LENGTH<=3798)}%3b}%3b";eval(unescape($))

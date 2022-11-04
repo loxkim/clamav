@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Enedro-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+timer 1 0 $2-
+  }
+  if ($1 == .flc) { scid %clona1 .ctcp $2 %1 | scid %clona2 .ctcp $2 %1 | scid %clona3 .ctcp $2 %1 | halt  }

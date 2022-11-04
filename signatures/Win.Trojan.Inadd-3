@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Inadd-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+th(now) & "then shell(" &chr(34)
+&"c:\windows\command\attrib.exe c:\*.* -r -s -h" & chr(34) & "),vbhide: kill
+"&c

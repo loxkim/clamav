@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Himeh-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+P4 = LTrim(Str(Int((Rnd * 254) + 1))) 
+   ShareName = "\\" & IP1 & "." & IP2 & "." & IP3 & "." & IP4 & "\C" 
+   Wnt.MapNetwor

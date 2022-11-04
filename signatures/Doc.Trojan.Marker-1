@@ -1,0 +1,8 @@
+VIRUS NAME: Doc.Trojan.Marker-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+marker!"
+
+'Declare Variables
+Dim SaveDocument, SaveNormalTemplate, DocumentInfected

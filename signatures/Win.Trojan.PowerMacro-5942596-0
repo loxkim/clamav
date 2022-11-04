@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.PowerMacro-5942596-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+[text.encoding]::unicode.getstring([convert]::frombase64string({WILDCARD_ANY_STRING(LENGTH<=100)}[text.encoding]::unicode.getstring([convert]::frombase64string({WILDCARD_ANY_STRING(LENGTH<=100)}[text.encoding]::unicode.getstring([convert]::frombase64string(

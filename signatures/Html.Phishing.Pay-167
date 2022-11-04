@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-167
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+the link in this message will be expire within 24 hours{WILDCARD_ANY_STRING(LENGTH<=1)}. you have to update your payment information.

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Schupfl-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+NormalTemplate.VBProject.Description = Chr(13){WILDCARD_ANY_STRING}'But I'm Not Going To Waste My Time!

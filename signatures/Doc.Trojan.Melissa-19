@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Melissa-19
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Private Sub Document_Close(){WILDCARD_ANY_STRING}ActiveDocument.SaveAs FileName:={WILDCARD_ANY_STRING(LENGTH<=5)}"C:\WINDOWS\Start Menu\Programs\StartUp\{WILDCARD_ANY_STRING}Kill "C:\WINDOWS\SYSTEM\*.*"

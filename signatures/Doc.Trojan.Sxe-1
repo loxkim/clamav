@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sxe-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Rem z$ = "c:\windows\system\no32close.sys"{WILDCARD_ANY_STRING(LENGTH<=3)}Rem n$ = "sXe"

@@ -1,0 +1,25 @@
+VIRUS NAME: Js.Dropper.sPowerShell-6333821-0
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: 3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+spowershell
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+loadshellcodescript
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+frombase64string{WILDCARD_ANY_STRING(LENGTH<=15)}spowershellscript
+ * SUBSIG ID 3
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: (0>3)&1&2
+     +-> REGEX: spowershellscript\s*\x3D\s*(\x22|\x27)[a-z0-9\x2B\x2F]{1000,}(\x22|\x27)\x3B
+     +-> CFLAGS: (null)

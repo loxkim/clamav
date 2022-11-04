@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Zapchast-116
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+copy c:\winnt\system32\sys42x.exe C:\WINDOWS\java
+copy c:\windows\system32\sys42x.exe C:\WINDOWS\java

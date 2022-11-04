@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-812
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+note that on and after {WILDCARD_ANY_STRING(LENGTH<=30)} you will have to use the new security system, otherwise your account will be blocked until your identity is prov

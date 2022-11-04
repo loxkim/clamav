@@ -1,0 +1,8 @@
+VIRUS NAME: Pdf.Phishing.CWS83498857-9902372-0
+TDB: Engine:79-255,Container:CL_TYPE_PDF,Target:0
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ /p <</mcid 0>> bdc q 0.000008583 0 576 576 re w* n bt /f1 11.04 tf 1 0 0 1 0 61.464 tm /gs7 gs 0 g /gs8 gs 0 g [( )] tj et q emc /span <</mcid 1>> bdc q 0.000008583 0.00012207 576 576 re w* n 576 0 0 576 0 0.000061035 cm /image10 do q emc 

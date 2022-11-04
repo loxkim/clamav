@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36695
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off start regedit /s %systemroot%\temp\spoolsv\a.reg start %systemroot%\temp\spoolsv\spoolsv.exe start %systemroot%\temp\spoolsv\greeting.jpg start attrib +h +s %systemroot%\temp\spoolsv 

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Destina-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Copy:=1, Source:=ORIGEN, Destination:=DESTINO, Name:="Autoclose", Tab:=3{WILDCARD_ANY_STRING}Organizer Rename:=1, Source:=DESTINO, Name:="EVA", NewN

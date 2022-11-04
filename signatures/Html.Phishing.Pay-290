@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-290
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+works day and night to help keep your identity safe. that's why we created a <a href="http://www.paypal{WILDCARD_ANY_STRING(LENGTH<=50)}/eg{WILDCARD_ANY_STRING(LENGTH<=1)}" target=

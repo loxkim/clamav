@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7473987-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0‘10
+	’&‰“ò,d
+3Q3PBWQ48N1;09U2Developer ID Application: vijay ameta (3Q3PBWQ48N)10U
+3Q3PBWQ48N10U
+vijay ameta10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$Developer ID Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0180706112952Z230707112952Z

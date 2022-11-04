@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Nihi-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%Nihilist%for /f "tokens=1*" %%a in (%file%) do if 1 EQU 1 (

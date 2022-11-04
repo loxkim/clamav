@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-255
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ebay unpaid item disp{WILDCARD_ANY_STRING}dear member,<br><br></font></td></tr><tr><td><font face=arial>ebay member {WILDCARD_ANY_STRING(LENGTH<=35)} has indicated that they already paid for ite

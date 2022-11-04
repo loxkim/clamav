@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hope-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Document_Open(): If Options.VirusProtection <> 0 Then Options.VirusProtection = 0 Else{WILDCARD_ANY_STRING}Item(1).CodeModule.countoflines Else Beep

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-168
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+('<sc'+'ript>');{WILDCARD_ANY_STRING(LENGTH<=112)}document.getelementbyid("loaderx");

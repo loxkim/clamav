@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-375
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+receive the appropriate account verification within {WILDCARD_IGNORE}{WILDCARD_IGNORE} hours{WILDCARD_ANY_STRING(LENGTH<=10)}we will assume this {WILDCARD_ANY_STRING(LENGTH<=30)}account is fraudulent and {WILDCARD_ANY_STRING(LENGTH<=3)}will be sus

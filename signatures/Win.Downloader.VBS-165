@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-165
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+echo set sget = createobject("adodb.stream") >>a.vbs echo sget.mode = 3 >>a.vbs echo sget.type = 1 >>a.vbs

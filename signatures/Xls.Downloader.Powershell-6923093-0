@@ -1,0 +1,43 @@
+VIRUS NAME: Xls.Downloader.Powershell-6923093-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dim exec32 As String
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dim str As String
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+If Environ("PROCESSOR_ARCHITECTURE") = "x86" Then
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+exec32 = exec32 + "and ""Invoke-Expression $(New-Object IO.StreamRe"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+exec64 = exec64 + "($(New-Object IO.MemoryStream (,$([Convert]::Fro"
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+exec64 = exec64 + "and ""Invoke-Expression $(New-Object IO.StreamRe"
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+exec64 = exec64 + "spowershell\v1.0\powe"
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+str = str + "uN5+/wZguQNiDC4Tl2HEBPjSwlmX3k5OvB1LCclG7LECTAgBI4C6QLoiQRDfR4orqoC0YiQjEAtwqeeF58Gx6xRBsLXhXKy+fXWozOkYbTBBsxIx3mgay4grvkQz6/UqL5oBGisWgjYB77kUyUFOAy7lnGRJmDtmTYn7iGVkjKngenCTbWExC6r0DzgfSIHKRg2WBZ9I"

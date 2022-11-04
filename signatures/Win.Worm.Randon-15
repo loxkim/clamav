@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Randon-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ite copy.bat del copy.bat | run wsock32.exe /n /fh /r "copy.bat" | copy1 | .timerscopy 1 40 copy1 | saym [lan] spreading in progress..

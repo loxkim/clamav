@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.C9f02fb-9828231-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+(@%SystemRoot%\system32\gameux.dll,-10307;%ProgramFiles%\Microsoft Games\Purble Place\PurblePlace.exe(
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%SystemRoot%\Installer\{91120000-002E-0000-0000-0000000FF1CE}\outicon.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files (x86)\Microsoft Office\Office12\1033\l
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Send and receive e-mail; manage your schedule, contacts, and tasks; and record your activities by using Microsoft Office
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files (x86)\AutoIt3\Examples

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VBS-31
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+c1 = "SP|http://www.rbc.ru"&chr(13)&"HS|209.66.124.12|www.google.com"&chr(13)&"HS|209.66.124.12|google.com"&chr(13)&""

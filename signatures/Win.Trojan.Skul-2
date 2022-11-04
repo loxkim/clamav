@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Skul-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+[8mSKuL
+@echo off%[SKuL]%
+echo.|date|find "20">nul%[SKuL]%
+if erro

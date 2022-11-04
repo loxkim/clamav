@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Adware.Vsearch-6735668-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/or/dev/installer/build/Installer.build/Release/Installer.build/Objects-normal/i386/VSDownloader.o
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/or/dev/openssl/src/polarssl-1.3.2/library/../../polarssl-1.3.2/include/polarssl/md.h
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/or/dev/openssl/src/polarssl-1.3.2/library/
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/or/dev/openssl/src/SignatureTests/
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Leperdvil is a web search that set all of your browsers homepage, newtab and default search to Leperdvil.

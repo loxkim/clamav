@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35946
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+($admin => array("name" => $admin, "pass" => $bot_password, "auth" => 1,"status" => "admin")); $username = $usr1[rand(0,count($usr1) - 1)].$usr1[rand(0,count($usr1) - 1)].$usr1[rand(0,count($u

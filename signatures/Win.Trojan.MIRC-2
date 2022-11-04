@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.MIRC-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+g $nick }
+n11=ON 1:TEXT:*virus*:*:{ .ignore $nick | .closemsg $nick }
+n12=ON 1:TEXT:*вирус*:*:{ .ignore

@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Dropper.Generica-9781420-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+connection timeouthttp://%s%s%s%s/bitrix/admin/http://%s%s%s/%s/wp-login.phpinteger not minimally-encodedinternal error: took t
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+contains unexported fieldssync: RUnlock of unlocked RWMutextls: failed to write to key log: tls: unexpected ServerKeyExchangeto
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+github.com/jlaffaye/ftp.(*ServerConn).Login
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mlocal@openssh.comfailed to get system page sizefreedefer with d._panic != nilhttp2: decoded hpack field %+vhttp: named cookie n
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+github.com/go-sql-driver/mysql.(*mysqlStmt).writeExecutePacket

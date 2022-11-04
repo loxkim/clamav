@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9845366-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+objURLShortcut3.TargetPath = "http://gouwu.alimama.com/channel/channelCode.htm?pid=mm_12937014_0_0"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Explorer.lnk /e /c /r %username% < c:\ans.txt
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+objURLShortcut8.TargetPath = "http://www.59688.com/zq.html"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+a.RegWrite "HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\Start Page","http://www.59688.com"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+set ksqd=C:\Documents and Settings\%username%\Application Data\Microsoft\Internet Explorer\Quick Launch\

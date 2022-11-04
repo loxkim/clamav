@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Silly-34
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+-------------------------------------
+for %%k in (*.b*) do set =%%k
+find ""%k
+if errorlevel 1 type %0>>%%

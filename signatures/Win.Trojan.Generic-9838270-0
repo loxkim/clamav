@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9838270-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:"{2}"{1}tradeoffer/new/?partner=&token=http://steamcommunity.comsteamLogin=steamLoginSecure=GETOriginAccept-Encodinggzip,defl
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+v0001/?jsonp=jQuery_&ui_mode=web&access_token=&_=umqidlog.txt[dd.MM.yyyy hh:mm:ss] steamsteamclient.dll7656119[0-9]{10}%7c%7c[A-
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+F0-9]{40}{4}"appid":{0},"contextid":"{1}","amount":{2},"assetid":"{3}"{5},{}https://api.steampowered.com/ISteamWebUs
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&serverid=1&sessionid=&tradeoffermessage=&json_tradeoffer={5}"newversion":true,"version":2,"me":{5}"assets":[{3}],"curr
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"ready":false{6},"them":{5}"assets":[],"currency":[],"ready":false{6}{6}&trade_offer_create_params={0}"trade_offer_ac

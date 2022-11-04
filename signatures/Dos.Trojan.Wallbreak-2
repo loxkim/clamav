@@ -1,0 +1,6 @@
+VIRUS NAME: Dos.Trojan.Wallbreak-2
+TARGET TYPE: ANY FILE
+OFFSET: EOF-51
+DECODED SIGNATURE:
+net stop "Security Center"
+net stop SharedAccess

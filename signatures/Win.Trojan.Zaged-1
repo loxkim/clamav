@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Zaged-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+.copyfile ".\gedzac.vbs", "a:\gedzac.vbs"

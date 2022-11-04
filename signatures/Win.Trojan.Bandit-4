@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Bandit-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+d "call c:\bandit.bat" %%f
+if not errorlevel 1 exit
+@ctty con
+echo (c) New Bandit! Ver 1.04
+del bandit.bat

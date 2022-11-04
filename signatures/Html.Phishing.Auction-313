@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-313
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+online service. however, failure{WILDCARD_ANY_STRING(LENGTH<=7)}to update your records will result in account suspension. please{WILDCARD_ANY_STRING(LENGTH<=7)}update your records by

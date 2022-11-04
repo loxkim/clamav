@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.PERL-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f ((@Lithium[1] =~ "Nirvana") or (@Lithium[2] =~ "Nirvana"))
+    {
+      if((@Lithium[0] =~ "perl",,i) or (@Lithium[1] =~ "

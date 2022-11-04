@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Phishing.Bank-1497
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+To re-activate your{WILDCARD_ANY_STRING(LENGTH>=20&&<=40)}We have attached a re-activation page on this message, download the page and 
+    Sign-on to re-activate

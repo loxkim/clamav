@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autoit-2289
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+[ 0x00000015 ] [ 0x00000000 ] = "wscntfy.exe" then return true else return false endif else return false endif endfunc

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Minimal-28
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Dim a_ As Object: Set a_ = WordBasic.DialogRecord.Organizer(False)

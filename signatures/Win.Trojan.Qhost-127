@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Qhost-127
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+127.0.0.1 ftp://ftp.kasperskylab.ru/updates/
+127.0.0.1 symantec.com
+127.0.0.1 www.symantec.com
+127.0.0.1 http://symantec.com

@@ -1,0 +1,28 @@
+VIRUS NAME: Osx.Trojan.Generic-9910247-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+T{shared_ptr<EGErFg88XFM+egkX>=^{EGErFg88XFM+egkX}^{__shared_weak_count}},V__commandHandler
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NSt3__119__async_assoc_stateIN10DVcKMQc9TV11DVcKKwciTVIENS_12__async_funcINS_6__bindIMNS1_12CFWebRequestEFS2_vEJPS5_EEEJEEEEE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+l0PHg<Fl0PHgs/WnU/Xh::CFWebMessageHandler<H0QNFxYdUloXVxs>, H0QNFxYdUloXVxs>}^{__shared_weak_count}}},V__webFl0PHg
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{shared_ptr<E1wbDQM9UX87UQMeED5IUz5>="__ptr_"^{E1wbDQM9UX87UQMeED5IUz5}"__cntrl_"^{__shared_weak_count}}
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+T{shared_ptr<E1wbDQM9UX87UQMeED5IUz5>=^{E1wbDQM9UX87UQMeED5IUz5}^{__shared_weak_count}},V__bgThread

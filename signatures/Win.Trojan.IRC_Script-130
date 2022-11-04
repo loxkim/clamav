@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-130
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.s-n $sockname GET / $+ %Ars3 HTTP/1.0 | .s-n $sockname Accept: */* | .s-n $sockname Host:

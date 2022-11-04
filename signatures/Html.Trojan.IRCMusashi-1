@@ -1,0 +1,8 @@
+VIRUS NAME: Html.Trojan.IRCMusashi-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+alias snpacket {
+n17=  bread %sfname %sfpos 4096 &temp
+n18=  sockwrite sf &temp
+n19=  inc %sfpos $bvar(&temp,0)

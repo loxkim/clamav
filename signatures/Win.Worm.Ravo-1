@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Ravo-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+n1=/dcc send $nick CHANNEL-RULES.zip

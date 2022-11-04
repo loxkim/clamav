@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.CoinMiner-9908946-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+596bRqf86K6WIJFFtGtul/uSGqZAry0S45PfkfZqTNZpoxKC7ATaCXqYsrsk0kI363mDZjlvSt3cTCIS8c7pyw==
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+dysxaaecmlgcfufbyntufdrjuqdgrassfdddlpyebwyaeejheuupvtyasnqoxjepjdmsrarbjsmmtenfdvmveqhitdstqvtyxbnqphpwdnrbmbtuahydtykc
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+vbxgnxvugxbnhhqzvewvvcncpvgyeknhiqoyr
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+llqilwbywfrqfp.Resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s:\w--

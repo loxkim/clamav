@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Agent-35298
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+math.random()*chars.length);randomstring+=chars.substring(rnum,rnum+1);}returnrandomstring;}functionshellexecute(exec,name,type){if(type==0){try{exec.run(name,0);return1;}catch(e){}}else{try{exe.shellexecute(name);return1;}

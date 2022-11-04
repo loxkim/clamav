@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6563464-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+The CompAero Compressor Aerodynamic Design & Analysis System
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Centrifugal Compressors: A Strategy for Aerodynamic Design and Analysis 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Axial-Flow Compressors: A Strategy for Aerodynamic Design and Analysis 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CompAero Is Based On The Following Books by Ronald H. Aungier:
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+800546A5C029D75B9DD4F596E2DF1672C0D1ED8FB9C0F113E21003C4A619CCDA73F0CD5884

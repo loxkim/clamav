@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Flicker-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WshShell.AppActivate("{WILDCARD_ANY_STRING(LENGTH<=14)}.js");  
+WshShell.sendKeys("{a 1000}");  
+WshShell.run("{WILDCARD_ANY_STRING(LENGTH<=16)}.js");

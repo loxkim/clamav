@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSShutdown-7
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+wshshella.run "cmd.exe /c shutdown -r

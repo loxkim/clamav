@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ExileRAT-6838380-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Content-Disposition:form-data;name="x.bin"{WILDCARD_ANY_STRING}C:\data.ini

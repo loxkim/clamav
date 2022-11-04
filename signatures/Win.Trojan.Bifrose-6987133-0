@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Bifrose-6987133-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WinLicense - http://www.oreans.com
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ddW,R=4h|wwZ/V*dU4dd+U+4UUU+4+U+UU+4U++UU+4+UU+++U4Uw++4UUUwU4+U++UU++4UU+++4U+4U44w+4U4wU+44+U
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4ww4U4wUU4w4w++U444444UwU+4~|wUT+wT4+U4+4+4T4Tw++4U44+++++++44++4U+U4+wUww+w+ww4Uw+4
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Y55c=[5Z/YWh=,dd5555Y~]x|~W/d[Wf]|=YXf]d~5]~d,dd[5,=c5~|555c>=5[[[55|/]5cd,dd[,ddW
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+]55=c55=cW/d8\f]555[c=55|h5,dd5hhXg/cd|,\/ZZ/\55555Y>]5c/\|=Y\~d55/

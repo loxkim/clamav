@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.CSC-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+Line Input #2,Lines$
+If Left(Lines$,7)="REM PVT" Then FindRem=1
+Loop
+Do While Not Eof(2)
+Print #1,Lin

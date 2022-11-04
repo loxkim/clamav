@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Autorun-199
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+[autorun]
+OPEN=kazme_gheyz.exe
+shell\AutoPlay=Open Safely

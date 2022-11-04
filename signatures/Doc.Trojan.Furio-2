@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Furio-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ts.Item("Furio").CodeModule.Lines(1, 1) <> "' Furio"{WILDCARD_ANY_STRING}Import (Application.StartupPath & "\AboutFrm.frm")

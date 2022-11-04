@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-149
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+()}catch(q){for(i=0;i<w.length;i++){s+=string["fromcharcode"](1*w[i]+27);}eval(s);}}

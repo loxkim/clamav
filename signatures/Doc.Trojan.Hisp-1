@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hisp-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If nt.Lines(1, 1) <> "'<HISpeedFuck>" Then

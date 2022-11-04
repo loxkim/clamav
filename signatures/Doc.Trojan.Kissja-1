@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Kissja-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+CommandBars("Format").Controls("Style...").Delete{WILDCARD_ANY_STRING}veVBProject.VBComponents("MSWord").Export "c:\MSWord.sys"

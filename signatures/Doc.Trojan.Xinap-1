@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Xinap-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If (MAS.Lines(1, 1) = cr("$[jmbs#{WILDCARD_ANY_STRING}Private Function cr(poc As String, cap As Integer) As String: For I = 1 To Len(poc): mol = Asc(Mid(poc

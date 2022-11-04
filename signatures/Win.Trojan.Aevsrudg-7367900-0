@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Aevsrudg-7367900-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<script language="JavaScript" src="http://www.cybermba.com/educheck_js/cyberMBALMS_procCHECK.js"></script>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<script language="JavaScript" src="http://www.edubox.com/SCORM/eduboxLMS_procCheck.js"></script>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SCORM_Porting.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+var doc_dir = "http://www.edubox.com/SCORM/down/doc/"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr;">

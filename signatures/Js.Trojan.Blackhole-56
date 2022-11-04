@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Blackhole-56
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+try{1-prototype;}catch(asd){x=2;}if(x){fr="fromchar"{WILDCARD_ANY_STRING}{j=i;if(e)s=s+r[zx]((w[j]*1+(9+e("j%3"))));}if(x&&f&&12===10

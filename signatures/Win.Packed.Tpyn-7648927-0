@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Tpyn-7648927-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+xupI/qkBR8cum8vjaayeBwl6/h+Ir6/8HRrASc5CvQs5f2tLhM2YkZQK001lrXZ+43MOYheOmOjdspwKG7c3ADE7/AF5tT0BYfrjI/eTB7LzUsM+3XB2rVOs
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\1234\Documents\Visual Studio 2012\Projects\GlachKo\GlachKo\obj\Debug\GlachKo.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+GlachKo.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GlachKo.Resources.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+GlachKo.Resources

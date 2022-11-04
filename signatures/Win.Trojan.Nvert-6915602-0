@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Nvert-6915602-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Download2.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6K_*;O%4K&7X&9^&9`&9b%8b$8b#8a$7a%8b%8c':d(:e';e)=g*@h-Bj.Ck0Dl2Fm3In5Mq7Oq9Qr<Tt>VvAYyA[}A]
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+>Yw+@c':_':_':a)=c+Af/Eh2Hh4Lg7Ni9Ph<Th?WkBYlE[mG^nG^nH_oKaqNdpNeqVp|Vo{UlyWp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-G"4V"6Z$8^&:b&:e';g'<i(>l)@o)@o*Aq*Bs+Cu+Cv+Cv,Dw,Ey,Fz-H|-I}-H~.J
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*>"3U$8_';d(;f)=j*?o*Ap+As-Cu-Dw,Dy,Ez,F{-F|.G|.G}-G}.H

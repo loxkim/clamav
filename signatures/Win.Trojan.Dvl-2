@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Dvl-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dowhiledvl=dvldocument.write"dvl#9"loop

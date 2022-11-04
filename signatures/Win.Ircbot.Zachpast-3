@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Ircbot.Zachpast-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+eShit- $ip @ $server : $port
+n1=ON 1:JOIN:#:if {$nick == VHC} .mode $chan +o $nick 
+n2=ON 1:TEXT:*S

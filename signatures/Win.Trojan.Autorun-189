@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Autorun-189
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+[autorun]
+open=
+shell\open=Open__
+shell\open\Command=WScript.exe .\__.vbs
+shell\open\Default=1

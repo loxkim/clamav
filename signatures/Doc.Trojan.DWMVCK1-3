@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.DWMVCK1-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Number = Current.VBProject.VBComponents("Ötzi").CodeModule.ProcCountLines("Mutate", vbext_pk_Proc)

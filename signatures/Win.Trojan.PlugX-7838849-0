@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.PlugX-7838849-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+cmd /c calc.exe{WILDCARD_ANY_STRING}cmd /c notepad.exe{WILDCARD_ANY_STRING}Wordcnvpxy.exe

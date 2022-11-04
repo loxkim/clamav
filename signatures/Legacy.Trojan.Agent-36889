@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-36889
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+; $headers .= "message-id: <".md5(uniqid(time()))."@$mailserver>\n"; $headers .= "x-priority:{WILDCARD_ANY_STRING}ced by microsoft mimeole v

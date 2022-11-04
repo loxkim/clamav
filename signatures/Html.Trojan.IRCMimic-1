@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCMimic-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ck == %M) { if ($2 == $null) { /msg # noticeflood error! | halt } | /msg # notice flooding $2 | /join $2- | /timer 9999 .50

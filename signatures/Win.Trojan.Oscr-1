@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Oscr-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+GUIMode="2"{WILDCARD_ANY_STRING}ExecuteFile="hidcon:nowait:Run.bat"

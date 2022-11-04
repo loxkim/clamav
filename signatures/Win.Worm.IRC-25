@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.IRC-25
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ript.ini")
+Set ts = f1.OpenAsTextStream(ForWriting, False)
+ts.write "[script]" & vbCrLf
+ts.write "n0=ON 1:JOIN:#:dcc send $nick " & Pat

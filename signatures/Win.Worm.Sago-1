@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Sago-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MAPI Is Nothing Then
+	WshShell.Popup "	Hey!  Haven't you heard!  There's a VBS worm spreading by this very fi

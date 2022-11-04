@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Dealply-9784476-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xmlns="urn:schemas-microsoft-com:asm.v3"><security> <requestedPrivileges> <requestedExecutionLevel level="asInvoker" uiAcces
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Bitmap image is not valid$''%s'' is not a valid component name
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xmlns:asmv3="urn:schemas-microsoft-com:asm.v3"><assemblyIdentity type="win32" name="sogamerif.exe" version="2.1.7.9"/><t
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Thread Error: %s (%d)-Cannot terminate an externally created thread,Cannot wait for an externally created thread$No help
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CommandLinkHinth

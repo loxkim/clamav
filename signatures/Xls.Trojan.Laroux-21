@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Laroux-21
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Workbooks(newname$).SaveAs filename:=Application.StartupPath & "\" & "jokefile.xls", FileFormat:=xlNormal

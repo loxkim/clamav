@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Deleter-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+hadow ~^^~ - Fuck
+ On Error Resume Next
+ Set FSO = CreateObject("Scripting.FileSystemObject")
+ For Each D

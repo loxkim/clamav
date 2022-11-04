@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.L-51
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+e First Ever Theme Worm By Yello
+if exist C:\mirc\mirc.ini set mIRC=C:\mirc\
+if exist C:\progra~1\mirc\mirc.

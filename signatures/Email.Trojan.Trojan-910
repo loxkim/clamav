@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-910
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Label is enclosed to the letter{WILDCARD_ANY_STRING(LENGTH<=16)}Print your label and show it in the nearest post office

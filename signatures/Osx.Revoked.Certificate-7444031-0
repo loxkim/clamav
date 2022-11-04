@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7444031-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0Á10
+	’&‰“ò,d
+Z3T6NH2TPD1J0HUAiPhone Distribution: China National Tobacco Corp. Tianjin Company10U
+Z3T6NH2TPD1503U
+,China National Tobacco Corp. Tianjin Company10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0191129033129Z221128033129Z

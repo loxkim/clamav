@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Cakes-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If (Date >= v) And (Date <= v + 2) Th{WILDCARD_ANY_STRING}ion.OnTime when:=Now + TimeValue(Refresh), Name:="L_.effet

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Stupeval-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+/Uptools/Controls.php?inforeg=" & $PCINFO

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Umbriel-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+windir+"\windows.cmd{WILDCARD_ANY_STRING(LENGTH<=60)}shutdown-s-f-t300

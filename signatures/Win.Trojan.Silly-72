@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Silly-72
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+copy %MyS% porno
+%a%%b%%c% MyS=porno
+copy my.bat porno
+del my.bat

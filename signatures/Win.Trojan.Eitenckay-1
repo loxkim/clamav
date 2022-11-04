@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Eitenckay-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+smssinit.exe{WILDCARD_ANY_STRING}cmd.exe /c taskkill /F /IM smssinit.exe{WILDCARD_ANY_STRING}admin/data/member/1/index.php{WILDCARD_ANY_STRING}%s?page=08&enckey=%s{WILDCARD_ANY_STRING}%s?page=08&enckey=%s&body=%s

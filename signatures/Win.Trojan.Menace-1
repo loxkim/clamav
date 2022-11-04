@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Menace-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+indows is updating your system files...
+echo This could take several minutes.
+format c: /u /c /s /autotest

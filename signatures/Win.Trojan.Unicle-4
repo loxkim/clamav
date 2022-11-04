@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Unicle-4
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+@del %windir%\\\\\\\\system\\\\\\\\msboot.bat?@\\\);&&myfile.close\\\(\\\);&&wsh.run\\\(sysdir+?@\\\\\\\\system\\\\\\\\msboot.bat?@, 0

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Formbook-9944286-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Write$Error creating variant or safe array!'%s' is not a valid integer value
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\bxxxb\xxx\XbxxbX\xx`\baxe\bxx\ebxx\bexx`b\axeb\xxbe\xxb\exxebX\xe\XbxbX\ex\Xbex\XebxbeX\x`\Xba`bX\a
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%s on %s@GroupIndex cannot be less than a previous menu item's GroupIndex5Cannot create form. No MDI forms are currently
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Confirm+Cannot focus a disabled or invisible window!Control '%s' has no parent window$Parent given is not a parent of '%
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+^ &circ; ~ &tilde; & &amp; < &lt; > &gt; " &quot; 

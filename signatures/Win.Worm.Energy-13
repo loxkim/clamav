@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Energy-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+).Run (""Command.com /c Debug < %10%\enr.drv""),0"
+ CmdAdd="'A.MoveFile","""%30%\autoexec.bak"",""%30%\autoexec.bat"""

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Delhal-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+del /S /Q /F C:\WINDOWS\system32\hal.dll
+echo u now been punished

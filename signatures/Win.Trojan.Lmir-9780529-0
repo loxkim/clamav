@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Lmir-9780529-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__vbaSetSystemError__vbaLenBstrB__vbaHresultCheckObj__vbaNameFile__vbaLenVar_adj_fdiv_m32__vbaVarTstLe__vbaAryDestruct__vbaVarIn
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+^nGaMYW4wXBHjAKWY:.7g@fpW0,r$H_fKD_^^C,.fqHIMr$.jAr4Y:.Cg@G\x4w.BH{P}xrjqw.x,af^W0M=B._yKxq@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+8Tx3Up5AMeSaV1{bcLBdJf+g2hijW[kl<NK}m=RC4>nXoOqr]Ist6DuvPw(YyQEzZ7F)9HG0-./\!@$*';:,~`^_
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dexLoadRefLock__vbaVarForInit__vbaExitProc
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\update.lib.scf

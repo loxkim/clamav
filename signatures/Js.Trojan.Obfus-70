@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-70
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+a=document["createelement"]("div");try{new object().tqgqew();}catch(q){a.innerhtml=--+new object(2);}try{new object().tqgqew();}catch(q){c="f";cc="e";}z=[a["innerhtml"]];b=+z;e=window[cc+"val"];e(stri

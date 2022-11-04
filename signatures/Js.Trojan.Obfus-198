@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-198
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+while(i!=s.length){c+=setcharat(s,123,i);i++;}if(({}+"").substr(0,4)==="[obj"){window["eval"](c);

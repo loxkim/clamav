@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36476
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off :: ========================================== :: :: critical microsoft v.32 driver information :: dcom 6 %1 nc -v %1 4444 < rpcd.txt :: hi asl? 

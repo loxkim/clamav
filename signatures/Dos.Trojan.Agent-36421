@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36421
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off cls regedit/s c:/windows/system32/winreg.reg 

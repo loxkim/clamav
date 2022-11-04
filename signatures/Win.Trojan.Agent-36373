@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36373
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+c="";b=i=0;s=a[1];while(i!=s.length){c=c+w["fromcharcode"](s[i]+18);i++;}e=window["eval"];e(c);</scri

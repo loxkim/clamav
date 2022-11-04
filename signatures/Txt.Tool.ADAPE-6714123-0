@@ -1,0 +1,25 @@
+VIRUS NAME: Txt.Tool.ADAPE-6714123-0
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: 3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+writealltext
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+frombase64string
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+import-module
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: (0>3)&(1>3)&(2>3)
+     +-> REGEX: frombase64string\x28(\x22|\x27){1,3}[0-9a-z\x2F\x2B\x3D]{50000,}
+     +-> CFLAGS: g

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Jspv-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+de = PolyCode & LineCode & Chr(39) & JunkCode & vbCr
+If Int(Rnd * 3) = 2 Then PolyCode = PolyCode & Chr(39) & JunkCode & v

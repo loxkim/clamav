@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Zebrocy-6744017-0
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Reg.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Run\WLanMng", vF

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Swlabs-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rdBasic.ToolsCustomizeMenus ResetAll:=1{WILDCARD_ANY_STRING}On Error GoTo -1: On Error GoTo EndCode:

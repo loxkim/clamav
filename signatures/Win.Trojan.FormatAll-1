@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.FormatAll-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+d WINDOWS
+copy programm1.bat C:\WINDOWS
+format A: /u /q /autotest
+copy programm1.bat A:
+md A:\DOS
+copy programm1.bat A:\DOS
+f

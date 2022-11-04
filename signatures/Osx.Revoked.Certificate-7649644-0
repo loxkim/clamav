@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7649644-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0Åö10
+	í&âìÚ,d
+JN54532A631<0:U3Apple Development: Oleksandr Honcharov (WEPB5BLMSX)10U
+4FA9MTF5KF10U
+Oleksandr Honcharov10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0191028134035Z201027134035Z

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Mozban-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+is banned you foo{WILDCARD_ANY_STRING}ifinstring,ed,Mozilla Firefox
+  {
+    winclose `%ed`%
+    %message

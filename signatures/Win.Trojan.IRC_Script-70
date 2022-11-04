@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-70
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo 4 $dll(motfv3.dll,motfv,Load){WILDCARD_ANY_STRING(LENGTH<=10)}dll winsome.dll HideMirc on

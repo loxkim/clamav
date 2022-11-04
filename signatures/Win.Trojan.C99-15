@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.C99-15
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+d files in current dir", "find . -type f -perm -04000 -ls"), array("find all sgid files", "find / -type f -perm -02000 -ls"), array("find sgid files in current dir", "find . -type f -perm -02000 -ls"), array("find config.inc.php files", "find / -type f -name config.inc.php"), array("find config* files", "find / -type f -name \"config*\""), array("find config* files in current dir", "find . -type f -name \"config*\""), array("find all writable folders and files", "find / -perm -2 -ls

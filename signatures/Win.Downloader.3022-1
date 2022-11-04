@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.3022-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+44b93566455bf1/gz.exe"functionrechange(k)s=split(k,",")t=""fori=0toubound(s)t=t+chr(eval(s(i)))nextrechange=tendfunctiont="32,32,32,32,109,52,61,34

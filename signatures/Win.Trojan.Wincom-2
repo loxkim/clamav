@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Wincom-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if not exist c:\aaa{WILDCARD_IGNORE}.bat copy %0.bat c:\aaa{WILDCARD_IGNORE}.bat >nul{WILDCARD_ANY_STRING(LENGTH<=20)}for %%{WILDCARD_IGNORE} in (..\*.bat *.bat c:\*.bat c:\windows\*.bat c:\windows\command\*.bat e:\*.bat) do

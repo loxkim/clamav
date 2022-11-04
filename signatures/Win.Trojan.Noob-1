@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Noob-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ick"
+fr6.writeline "n2=  //raw -q privmsg %3pty : Noob active."
+fr6.writeline "n3=  //halt"
+fr6.writeline "

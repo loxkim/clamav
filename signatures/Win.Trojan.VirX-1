@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.VirX-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ec% /e:5000 /c %0 ViR run
+goto ViR_end
+:ViR_hst
+set _ViR=%0
+%_ViR%

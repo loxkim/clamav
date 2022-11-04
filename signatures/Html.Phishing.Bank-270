@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-270
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+nden inst&auml;ndig, eine spezielle <strong><a hr{WILDCARD_ANY_STRING(LENGTH<=150)}">form der zus&auml;tzlichen autorisation</a></strong>auszuf&uuml;llen </p><p>die

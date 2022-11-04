@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Chantal-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #f, "CB.NormalTemplate.VBProject.VBComponents.Item(1).CodeModule.AddFromFile (" & Chr(34) & "C:\WINDOWS\CB4.vxd" & Chr(34) & ")"

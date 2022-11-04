@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-978
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Ihre aktuelle Online-Rechnung steht{WILDCARD_ANY_STRING(LENGTH>=100&&<=128)}Ihre Original-Rechnung finden Sie als PDF-Datei im Anhang dieser E-Mail

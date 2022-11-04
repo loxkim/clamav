@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-7992574-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Kernel32.dll 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Bahnsteigabstand0\Auszu\VB98\VB6.OLB
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Kxlagus.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+f+ffae666+f6ad6+fe5c9+f64d666+fd5f5b9+++++++++fd5ed+f66fc+fede766+f76e3+fe9d9+
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+e666+f76c766+fe1d8+fe2e7+fd8dc66+f72f3a9+f66ee+fefc++f62f866+fe8fa+fdbfb

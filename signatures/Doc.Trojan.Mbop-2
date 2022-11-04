@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Mbop-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+mbopVcmbop = Mid(mbopVcmbop, 1, InStr(mbopVcmbop, "mbop") - 1) & mbopTnmbop & Mid(mbopVcmbop, InStr(mbopVcmbop, "mbop") + Len("mbop"))

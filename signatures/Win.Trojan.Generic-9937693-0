@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9937693-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WebGrabber.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://www.codeproject.com/internet/webgrab.asp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Request complete, dwResult = %8.8X, dwError = %8.8X
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Connection to the server closed
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+M8DD7*PD8gkVdqy$)3ZW@jGwNBN^y&dmv?15ir)biA!LXGECQ(%x(yWGKnmx(y2M#9D*jVN$H!i?I!LgxhI3iu7XdEl?&j2(Z(ZBB@MH

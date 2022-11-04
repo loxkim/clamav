@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.prl-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+open(File,">>$FileName");print File @MyCode;close(File);

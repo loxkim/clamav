@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Gpb-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+%[:GPB_L16]%find /i ":GPB_Exit"<%0.BAT>>%GPB_File%
+%[:GPB_L16]%goto GPB_Exit
+
+:GPB_Exit
+%[:GPB_Exit]%del

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IFrame-16
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+bijenweb %3ciframe src%3d%22http%3a%2f%2ffunky-soft.org%2fshow.php%3fs%3d889e333ac7%22 width%3d%221%22 height%3d%221%22 style%3d%22display%3anone%3b%22%3e%3c%2fiframe%3e 

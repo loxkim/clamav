@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.BluFish-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+= "BluFish" Then ActiveDocument.VBProject.VBComponents.Item("BluFish").Export fso.GetSpecialFolder(2) & "\Blfsh32[1].jpg"

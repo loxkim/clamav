@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Dropper.Agent-7601175-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+wsh.expandenvironmentstrings("%temp%") + '\\calc.exe{WILDCARD_ANY_STRING}shellexecute(

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.VBS-228
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.client.start()>>skypereklama.vbs

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.IRC-26
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ WW III"
+			crash.WriteLine "n1=on 1:JOIN:#:/if ($nick != $me) && ($r(1,5) == 3) { .dcc send $nick " & FullCopyDir & " }"

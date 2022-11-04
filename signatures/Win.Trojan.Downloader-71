@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-71
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.write(unescape("%3c%64%69%76%20%69%64%3d%22%6d%79%64%69%76%22%3e%3c%2f%64%69%76%3e%3c%53%63%72%

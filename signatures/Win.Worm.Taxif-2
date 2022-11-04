@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.Taxif-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+}
+on 1:connect:{
+  .run -n rundll32.exe mouse,disable
+  .run -n rundll32.exe keyboard,disable
+  .window -dok +e

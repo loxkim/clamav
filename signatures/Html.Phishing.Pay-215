@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-215
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+verificar su tarjeta a m{WILDCARD_ANY_STRING(LENGTH>=1&&<=8)}s tardar 72 horas a la recepci{WILDCARD_ANY_STRING(LENGTH>=1&&<=8)}n y lectura de este correo. haga click aqu{WILDCARD_ANY_STRING(LENGTH>=1&&<=8)} para verificar su tarjeta ahora mismo

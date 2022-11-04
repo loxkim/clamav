@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Generic-6688402-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  T4.CodBco, T1.CodAgeNtf, T4.CodAge, T1.CodCndNtf, T1.CodFil, T1.SitNtf, T1.VlrCtbNtf, 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  T4.CodBco, T1.CodAgeNtf, T4.CodAge, T1.CodFil, T1.SitNtf, T1.VlrCtbNtf, T1.CodPgtNtf, 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  (+) = T1.CodBcoNtf AND T4.CodAge (+) = T1.CodAgeNtf AND T5.CodEmp (+) = T1.CodEmp 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  T3.DscEndPes, T1.SerNtf, T1.DtaEmiNtf, T1.NumNtf, T1.CodPessoa, T1.FezFat, T1.FatNtfNtf, 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ SELECT T1.CodEndPes, T1.CodEndCob, T3.CodEndPes, T1.CodEndEtr, T5.CodPgt, T1.CodBcoNtf, 

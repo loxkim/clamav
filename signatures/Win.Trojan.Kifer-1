@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Kifer-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo %VBSwayK%.Subject="Symantec Security Alert" >> C:\nwboy.vbs %CCCC%

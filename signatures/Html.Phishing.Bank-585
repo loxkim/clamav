@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-585
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear valued {WILDCARD_ANY_STRING(LENGTH<=20)}bank customer{WILDCARD_ANY_STRING}please confirm your email by clicking the link below

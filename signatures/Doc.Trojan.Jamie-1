@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Jamie-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+lTemplate.VBProject.Description <> "For Jamie..." Then GoTo NTI{WILDCARD_ANY_STRING}MTC.Export ("Jamie.tmp")

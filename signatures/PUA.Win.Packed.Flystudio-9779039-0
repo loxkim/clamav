@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Packed.Flystudio-9779039-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://captcha.qq.com/getimage/paycenterqqcard?aid=25000101&t=0.557076660363887
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://upayportal.qq.com/cgi-bin/uniform_pay.fcg?pay_num=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://pay.qq.com/cgi-bin/account/account_qqcard_save_qbqd.cgi
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s_club=0&pay_way=12&vendor_type=1&password=
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&source=1&serve=1&req_source=1&open_mode=1&open_month=10&if_callback=1&callback_url=http%3A%2F%2Fpay.qq.com%2Fipay%2Fcallback.sh

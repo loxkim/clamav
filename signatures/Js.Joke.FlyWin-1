@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Joke.FlyWin-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+self.moveto(ypos + math.cos((20*math.sin(currstep/(20+j)))+j*70)*ybase*(math.sin(10+currstep/10)+0.2)*math.cos((currstep

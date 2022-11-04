@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Abba-2
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+[autorun]{WILDCARD_ANY_STRING(LENGTH<=150)}shell\open\Command=@b@ddon.exe -OpenCurDir

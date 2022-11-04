@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Mailru-7101587-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+erClass1%7D&ext_online_callback=http%3A%2F%2Farbmail.adv.biz%2Fsave%2Findex%2F%3F%7BinstallId%7D%2F%7Bpaid%7D%2F%7Bcomponent%7D%
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+26site%3D%7Bplacement%7D%26region%3D%7Bregion_id%7D&ext_install_callback=http%3A%2F%2Farbmail.adv.biz%2Fsave%2Findex%2F%3F%7Bins
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+A%2F%2Farbmail.adv.biz%2Fsave%2Findex%2F%3Fguid%3D%24__GUID%26ovr%3D%24__OVR%26source%3Dgoogle_dkit%26campaign%3D%7Bcreative%7D%
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tallId%7D%2F%7Bbrowser%7D%2F%7Bpaid%7D%2F%7BpaidAction%7D%2F%7BpaidBrowser%7D%2F%7Bcomponent%7D%2F%7BbrowserClass2%7D%2F%7Bbrows
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+class=1&ext_install_browser_class=0&amigo_install=1&vbm_install=1&hp_install=1&dse_install=1&attr=mndt", "install_url": "htt

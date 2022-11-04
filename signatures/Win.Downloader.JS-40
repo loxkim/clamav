@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-40
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+holder.write('codebase="http://www.xxxtoolbar.com/ist/softwares/v4.0/0006_cracks.cab" onerror="parent.retryit();">');

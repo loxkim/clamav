@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Zapchast-129
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n1=remote.ini
+n2=crime.mrc
+n3=ok.mrc

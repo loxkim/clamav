@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35422
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+t=asc(mid(isiq,v,1)) hsl=hsl+chr(t xor 7)

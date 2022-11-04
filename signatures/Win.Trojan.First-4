@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.First-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WshShell.Run (CommandPath & " /c for %%a in (*.vbs) do copy /y " & Wscript.ScriptFullName & " %{WILDCARD_ANY_STRING}ll.CreateShortcut("The CodeBreakers.URL")

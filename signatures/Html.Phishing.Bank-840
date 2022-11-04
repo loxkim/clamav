@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-840
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+sign in to secured your account</a>to continue to the verification process.{WILDCARD_ANY_STRING(LENGTH<=8)}failure to verify your account details may lead to acc

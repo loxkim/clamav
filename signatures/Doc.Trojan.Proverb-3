@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Proverb-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Find("Sub OnTimer", k, 1, k, 30) Then m = True{WILDCARD_ANY_STRING}Choose(Int(Rnd * 9) + 1, "С 1 Апреля Вас!", "Опа?-Угу!", "А

@@ -1,0 +1,9 @@
+VIRUS NAME: Html.Trojan.Prep-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+= 1 to 60
+						fv.Writeline fh.ReadLine
+					Next
+					fh.close
+	

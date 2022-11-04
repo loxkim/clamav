@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Downloader-176
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+qq2=e("qq")["fromcharcode"];while(-13140+5-5<i*-1){vv=a.substr(i,math.pow(2,0));vvv=vv[ch](0);x=vvv;if(vvv>=47&&vvv<67){r2=qq2(vvv+20);}else if((vvv>=67)&&(vvv<87)){r2=qq2(vvv-20);}else{r2=vv;}r=c

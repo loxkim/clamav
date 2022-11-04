@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Vgen-96
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cho off%_PoT%
+if '%PoT%=='I goto PoTz
+if '%1

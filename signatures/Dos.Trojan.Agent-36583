@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36583
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off cls copy kamil.exe c:\windows\startm~1\programs\startup\kamil.exe cls del autoexec.bat 

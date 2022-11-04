@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Batzback-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Attrib +H %windir%\SysBat.Bat
+Echo n %windir%\w0lf.jpg > %windir%\System\MVBB.DLL

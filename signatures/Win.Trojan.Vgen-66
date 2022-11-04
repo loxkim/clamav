@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Vgen-66
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+goto the_virus
+:host_program
+:: host would go

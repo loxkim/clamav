@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.wmvg-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+commandbars{WILDCARD_ANY_STRING(LENGTH<=18)}("security...").enabled = false

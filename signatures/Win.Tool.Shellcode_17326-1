@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Tool.Shellcode_17326-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ëëzèùÿÿÿGetProcAddressÿGetTempPathAÿÿÿÿÿÿÿÿWinExecÿExitThreadÿLoadLibraryAÿws2_32ÿWSAStartupÿgetaddrinfoÿmsvcrtÿfopenÿfwriteÿëfcloseÿ

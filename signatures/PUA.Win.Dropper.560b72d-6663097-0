@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Dropper.560b72d-6663097-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Installation failed. Another %1!s! application is being installed or updated. Please wait for all %1!s! application inst
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Installation failed. The %1!s! installer requires an update to Windows. Please install all updates required via Windows 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The  installer could not connect to the Internet because a proxy server required user authentication. Please configure t
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Installation StoppedMThe %1!s! installation is not complete. Are you sure that you want to cancel?
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The installer could not connect to the Internet because of an HTTP 401 Unauthorised response. This is probably a proxy c

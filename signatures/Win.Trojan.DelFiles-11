@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.DelFiles-11
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+deltree/y c:*.* deltree/y d:*.* deltree/y e:*.* deltree/y f:*.*

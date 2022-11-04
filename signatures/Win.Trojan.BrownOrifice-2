@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.BrownOrifice-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+package BOHTTPD_download;
+
+use BOHTTPD;
+use CGI

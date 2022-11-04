@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-934
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+With your credit card was removed ${WILDCARD_ANY_STRING(LENGTH<=10)}Possibly illegal transaction!More info in the attached file

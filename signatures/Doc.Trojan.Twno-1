@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Twno-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ans$ = WordBasic.[InputBox$]("今天是 " + WordBasic.[Date$]() + " ,跟你玩一個心算遊戲" + Chr(13) +

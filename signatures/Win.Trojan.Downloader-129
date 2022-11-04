@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-129
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+"wget " . $bot); execute_command(get_execution_method(), "curl -o" . $bot); execute_command(get_execution_method(), "lwp-download " . $bot); execute_command(get_execution_method(), "lynx " . $bot);

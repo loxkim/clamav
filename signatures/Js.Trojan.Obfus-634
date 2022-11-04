@@ -1,0 +1,13 @@
+VIRUS NAME: Js.Trojan.Obfus-634
+TDB: Target:7
+LOGICAL EXPRESSION: 0&(1=3)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+window["\x64\x6f\x63\x75\x6d\x65\x6e\x74
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+window

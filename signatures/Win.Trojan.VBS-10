@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.VBS-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set hfile = hfso.createtextfile(szapplication, forwriting)
+intlength = len(szbinary)
+{WILDCARD_ANY_STRING}hshell.run(szapplication+" "+szurl)

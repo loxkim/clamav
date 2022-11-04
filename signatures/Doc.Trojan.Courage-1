@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Courage-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If ActiveDocument.VBProject.VBComponents.Item(i).Name = "auto{WILDCARD_ANY_STRING}OrganizerCopy Source:=normall, Destination:=myfile, Name:="autoopen",

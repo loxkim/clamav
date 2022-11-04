@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Goodbot-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if ($2 == log) { bnc log $3 | msg $g 14•15BNC14• Logger has been set to $3 $+ ...  |  if ($3 == off) { remove bnc.log

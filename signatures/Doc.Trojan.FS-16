@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.FS-16
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+£\.CodeModule.Replaceline 2, "Private Sub " & IIf(MacroContainer <> NormalTemplate, "Document_Open()", "Document_Close()")

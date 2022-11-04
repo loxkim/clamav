@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.L-63
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+irwin = fso.GetSpecialFolder(0)
+Set dirsystem = fso.GetSpecialFolder(1)
+Set dirtemp = fso.GetSpecialFolder(2)

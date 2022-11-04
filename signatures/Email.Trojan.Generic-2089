@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Generic-2089
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Content-Description: Message text{WILDCARD_ANY_STRING(LENGTH>=10&&<=200)}Word doc Access Key{WILDCARD_ANY_STRING}Content-Type: application/msword{WILDCARD_ANY_STRING(LENGTH>=10&&<=200)}Content-Description: Attached file

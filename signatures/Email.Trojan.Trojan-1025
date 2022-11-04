@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-1025
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Subject: IMPORTANT - A Key Change Has Been Posted{WILDCARD_ANY_STRING(LENGTH>=280&&<=288)}This  email was sent because it contains important information

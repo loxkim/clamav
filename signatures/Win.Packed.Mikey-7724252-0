@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Mikey-7724252-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="X86" pu
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity version="8.0.0.0" processorArchitecture="X86" name="KasperskyLab.KAV" type="win32"></assemblyIdentity>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gH#hI$fG!jI%nO/oQ0nQ/lN,mO-oQ0oR1oR1qW6qT4w\?rW6tY;rW7uZ<uY;fG!fE fG!iI%fH#lM+nO/lO-jK(lN-oQ0oQ1oO0oQ0sX:qW7qT5rW7rW7qV6dD
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+blicKeyToken="6595b64144ccf1df" language="*"></assemblyIdentity>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Password potected_5217

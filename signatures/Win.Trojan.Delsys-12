@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Delsys-12
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+.deletefile("c:\autoexec.bat{WILDCARD_ANY_STRING}msgbox "and there

@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-37051
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set showplan_xml on; go declare{WILDCARD_ANY_STRING(LENGTH<=100)}set{WILDCARD_ANY_STRING(LENGTH<=200)}execute{WILDCARD_ANY_STRING(LENGTH<=100)}go set showplan_xml off; go

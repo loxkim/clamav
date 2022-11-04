@@ -1,0 +1,14 @@
+VIRUS NAME: Html.Trojan.IRCFasmex-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rt 666
+CommandTimeout 300
+ConnectTimeout 15
+LookupHosts On
+
+<User "test">
+	Password "test"
+	Mount / C:\
+	Mount /upload C:\
+	Allow /

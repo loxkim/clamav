@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Falckon-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+man.writeline "ping -l 65000 -w (int(rnd * 2)) -t http://www.perantivirus.com"

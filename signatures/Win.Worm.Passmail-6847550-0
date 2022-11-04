@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Passmail-6847550-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Thanks for using Password Mailer; I am always available at hard_wisdom@yahoo.com for comments and suggestions.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ and trail version is complete. From now onwards you will not get any mails from this computer. Contact hard_wisdom@yaho
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+MAIL FROM:PasswordMailer@NoMail.com
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+It's a trail version and only 10 passwords are mailed from this computer.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Password Mailer Trailer Version Complete

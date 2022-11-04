@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-835
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+the recipient's address is erroneous{WILDCARD_ANY_STRING(LENGTH<=16)}Please print out the shipment label attached and collect the package at our office

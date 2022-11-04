@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Iframe-26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+59039062";t="";l=s.length;i=0;while(i<(l-1)){for(j=0;j<3;j++){t+=s.charat(i);i++;}if((t-unescape(0xbf))>unescape(0x00))t-=-(unescape(0x08)

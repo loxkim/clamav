@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36463
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off %systemdrive% cd %systemroot%\system32 set comspec=esn_cmd.exe start /min ntsysz.bat %1

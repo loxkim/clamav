@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Marker-42
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+etAttr "\IODocs.dll", vbH{WILDCARD_ANY_STRING}If Day(Date) = 14 Or Day(Date) = 28 Then{WILDCARD_ANY_STRING}.Title = "Make The Love!! Not The War !!":{WILDCARD_ANY_STRING}.Author = pnomus:

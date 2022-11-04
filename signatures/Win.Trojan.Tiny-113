@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Tiny-113
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+copy %bk% %windir%\%bk%{WILDCARD_ANY_STRING(LENGTH<=138)}"screen server"="%bk%"

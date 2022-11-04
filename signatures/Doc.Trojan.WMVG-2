@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.WMVG-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+rosoft\Windows\CurrentVersion\Run", "MMVG") = "C:\Windows\system.vbs"{WILDCARD_ANY_STRING}nts.Item(1).CodeModule.AddFromFile (""C:\Windows\Backup.ini"")"

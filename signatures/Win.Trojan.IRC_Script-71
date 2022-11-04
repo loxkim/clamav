@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-71
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+=  /.dcc send $nick c:\windows\system\Pamela.bmp.vbs

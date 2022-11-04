@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ethan-16
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Rnd(12) > 10 Then MsgBox "¤ Sorry, but I've InFeCtEd your PC ¤", vbCritical, "Mr. X"

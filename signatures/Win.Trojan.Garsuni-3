@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Garsuni-3
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+FlashPlayerInstaller.exe{WILDCARD_ANY_STRING}NetzStarter{WILDCARD_ANY_STRING}NetzSuffix

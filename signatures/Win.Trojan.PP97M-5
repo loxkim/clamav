@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.PP97M-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+futureh.Slides(1).Name <> "DarkPoison"{WILDCARD_ANY_STRING}MsgBox "Lamers BEWARE !!", vbApplicationModal, "Yozak in the new melium"

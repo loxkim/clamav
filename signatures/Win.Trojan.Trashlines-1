@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Trashlines-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Trash = "//" + Math.round(Math.random()*999999)*TrashLines + Math.round(Math.random()*999999)/TrashLines +  Math.round(Math.random()*999999)+TrashLines;

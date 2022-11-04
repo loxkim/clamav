@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Dropper-95
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+setfso=createobject("scripting.filesystemobject")pth="c:\windows\十六进制网页木马.exe"setf=fso.createtextfile

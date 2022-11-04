@@ -1,0 +1,11 @@
+VIRUS NAME: Html.Trojan.IRCZapchast-19
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+user_modes -x
+
+
+user_nick [HTN-YCP-286]
+user_realname [HTN-YCP-286]
+filedir C:\WINDOWS\system\driver
+uploaddir C:\WINDOWS\system\driver

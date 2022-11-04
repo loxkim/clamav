@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Imposter-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sic.[MacroName$](i, 0, 0) = "DMV"{WILDCARD_ANY_STRING}If Not binstalled And Not bTooMuchTrouble Then

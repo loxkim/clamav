@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Buzus-9794704-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files\OBI-PC\OBI\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+De'consi.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\rxxwpkpajj.uwy
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+f|xUBOVQ_stPR]ycHZCKbk_FAA}Eqi}W|[p@pmf|xUBOVQ_stPR]ycHZCKbk_FAA}Eqi}W|[p@pmf|xUBOVQ_stPR]yCHZWIbkks}t9p=\)b n
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FAA}Eqi}W|[p@pmf|xUBOVQ_stPR]ycHZCKbk_FAA}Eqi}W|[p@pmf|xUBOVQ_stPR]ycHZCKbk_FAA}Eqi}W|[p@pmf|,

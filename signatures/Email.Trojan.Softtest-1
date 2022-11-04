@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Softtest-1
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+download the software. Try it out for one week{WILDCARD_ANY_STRING(LENGTH<=140)}http://{STRING_ALTERNATIVE:1|2|3|4|5|6|7|8|9}

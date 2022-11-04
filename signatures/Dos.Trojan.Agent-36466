@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36466
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off %systemroot%\temp\1433.exe @del %systemroot%\system32\dllcache\tftp.exe @del %systemroot%\system32\dllcache\ftp.exe @del %systemroot%\system32\tftp.exe @del %systemroot%\system32\ftp.exe 

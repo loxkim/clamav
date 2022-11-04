@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zbot-9818372-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Magnascope ne\Undiffusi\Mega\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'-5K&&6':R'.B'/C+#2-2H)<V'<V' -.);,:R(<V'4K*4K*<V'<V'<V'<V'4K&4K&(:'2H&4K'4K'<V'<V'7O(2H(-A,<V'(9+2G&'8'5L'1F'3I':R((:,
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Overdeli.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$4DS1<V'<V'<V'<V'<V'<V'<V'<V'<V'<V'6N("0-4K)<V'-A,4K*<V'<V'<V'<V'<V'<V'<V'<V'&6%5K'-@(&6$<V'<V'&6&<V'<V'<V'<V'-A)4K(%6.<V'<V'
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++&8Q'<V'<V'1F'%6&<V'<V'<V'<V'<V'<V'<V'1F+1F+<V'<V'<V'<V'<V'%6%5K'-@(8Q'&6&);%1F%<V'<V'<V'<V'<V'<V'<V'<V'5K(-@*&6.<V'<V'<V'5K)

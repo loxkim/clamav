@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hopper-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+tLines 1, "Public Sub DisableAV()" + Chr(13) + Chr(10) + "System.PrivateProfileString(""""{WILDCARD_ANY_STRING}If AW.Lines(1, 1) <> "'<!--1nternal-->" Then

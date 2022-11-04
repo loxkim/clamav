@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Dozer-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+%SystemRoot%\system32\svchost.exe -k wmiconf{WILDCARD_ANY_STRING(LENGTH<=2000)}..\inf\drmkf.inf

@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Batalia6-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+1 > nul
+arj x ..\%0.bat > nul
+copy %1 ..\%1 >nul
+cd ..
+call %1
+cd s_g_w_w
+del ..\%1
+del %1
+call batali

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Allfunc-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+TargetModule.ReplaceLine X, TargetModule.Lines(X, 1) & ": IT"

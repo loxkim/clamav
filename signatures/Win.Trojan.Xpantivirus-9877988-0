@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Xpantivirus-9877988-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\A-WORK\GREYX\XPA\LOADER\MAINICON.ICO
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\a-Comps\kol_mck\KOL.pas
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+This program will download and install XP antivirus 2008 on your PC.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DsgOLgV@Uc_mLPw`RoZpPYrQMKWaXJKkL;GnSLO_Nh[^Ji??E
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Install free XP antivirus scanner now!

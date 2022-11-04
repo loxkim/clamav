@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Alina-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Day(Now) = 31 And Month(Now) = 12 Then{WILDCARD_ANY_STRING}.FileName = "*.{WILDCARD_ANY_STRING}For I = 1 To .FoundFiles.Count{WILDCARD_ANY_STRING}Kill .FoundFiles(I)

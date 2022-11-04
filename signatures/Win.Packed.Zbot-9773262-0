@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zbot-9773262-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></requestedPrivileges>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%1 /s <
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ Apple Macintosh
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+9h6ono7zz8zwwxi48w9uljko44z6knq8nyis9mmnihtpu5vzkrpixrnz5tp7sp5684tyjhpn876nvunhlzuovku8w9zor9z9hpjtqzpuivji59m654puvymxh5p9vhx9
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6xpzqjq5sm57j4sp987pikqwm4loiklqjlj4qry5slophqjs7x9zniosw4yi8s6xushprztix8oph5lkkx6li5mw989oh6qksniurxh97lkmm58ktxqtosrvorux58pi

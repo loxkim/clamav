@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Minceme-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ule.lines(1, 1) <> "'Mincer!" And doc.VBProject.vbcomponents.Item(1).Name <> "MX" Then

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Ursu-7409913-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://www.bancopopular.com.co/cgi-bin/cgibbss.exe/CORE-Main%20Web/ND000_
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Despegar.com - Checkout de compra
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+POR SU SEGURIDAD LE RECOMENDAMOS NO HACER TRANSACCIONES EN SITIOS PUBLICOS
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Pagos portal empresarial [Modo de compatibilidad]
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+TiquetesBaratos.com

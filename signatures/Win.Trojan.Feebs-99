@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Feebs-99
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+c:"+cj+"recycled"+cj;f=dr+"userinit.exe";nx=1;try{o=newactivexobject("scripting.filesystemobject")

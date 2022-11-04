@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-281
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+n case you are not enrolled for internet banking, you will have to fill in all the required information, includ{WILDCARD_ANY_STRING(LENGTH<=800)}ease click the link b

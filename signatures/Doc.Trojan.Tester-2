@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Tester-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+id = "'WM97/2K.tEster"{WILDCARD_ANY_STRING}vxCopy = Strings.Trim(ThisDoc.lines(1, ThisDoc.countoflines))

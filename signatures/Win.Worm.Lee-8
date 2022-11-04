@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Lee-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.copyfile wscript.scriptfullname, {WILDCARD_ANY_STRING}.opentextfile(wscript.scriptful{WILDCARD_ANY_STRING}.readall{WILDCARD_ANY_STRING}if not({WILDCARD_ANY_STRING(LENGTH>=1&&<=8)}.fileexists(wscr{WILDCARD_ANY_STRING}.createtextfile(wscript.scriptfu

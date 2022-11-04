@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.PB-3
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+http://www.postbanking.org{WILDCARD_ANY_STRING(LENGTH<=200)} alt="deutsche postbank ag

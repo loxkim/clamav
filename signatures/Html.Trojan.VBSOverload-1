@@ -1,0 +1,10 @@
+VIRUS NAME: Html.Trojan.VBSOverload-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+gbox("1nternal's Word Overload")
+Do
+	Set OverLoad = CreateObject("Word.Application")
+	err.Clear
+Loop
+End S

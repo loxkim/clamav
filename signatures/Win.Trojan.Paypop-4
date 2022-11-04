@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Paypop-4
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+{isframe = true;}paypopupurl = paypopupurl+" ="+os+" ="+bs+" ="+isframe;usingclick = blk ((browser.indexof(

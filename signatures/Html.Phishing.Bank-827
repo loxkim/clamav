@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-827
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+</head><body><a href="http://www.53.com.{WILDCARD_ANY_STRING(LENGTH<=100)}"><img border=0 src="cid:{WILDCARD_ANY_STRING(LENGTH<=150)}"></a></body></html>

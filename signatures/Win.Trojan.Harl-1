@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Harl-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+find /i "harl"<%2>nul 
+if not errorlevel 1 goto harlfin 
+type C:\harl.bat>>%2 
+goto harlfin 
+:harlvir

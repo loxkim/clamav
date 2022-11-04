@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1197
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+is one of these security measures. you should complete bib form on a regular basis.{WILDCARD_ANY_STRING(LENGTH<=7)}please complete {WILDCARD_ANY_STRING(LENGTH<=10)}form using the link below

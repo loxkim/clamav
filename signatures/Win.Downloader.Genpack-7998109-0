@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Genpack-7998109-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+WINNT\Profiles\All Users\StartMenu\Programs\Startup\WindowsSecurityManager.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Documents and Settings\All Users\StartMenu\Programs\Startup\WindowsSecurityManager.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Users\All Users\Microsoft\Windows\Start Menu\Programs\WindowsSecurityManager.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\WindowsSecurityManager.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+WINDOWS\StartMenu\Programs\Startup\WindowsSecurityManager.exe

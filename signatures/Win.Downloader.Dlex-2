@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Downloader.Dlex-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+phtml{WILDCARD_ANY_STRING(LENGTH<=45)}excars.com	/users/mulez/
+s	1
+d	intercooler	www.dal

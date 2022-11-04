@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-108
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+m=$[i];try{new object().wehweh();}catch(q){ss="";}try{window["eval"]("asdas")}catch(q){s=string["fromc"+m+"ode"];}d=new date();d2=new date(d.valueof()-2);object.prototype.asd="e";if({}.asd==="e")a=document["createtextnode"]("321");if(a.data==321)h=-1*(d-d2);

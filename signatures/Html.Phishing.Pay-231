@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-231
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to continue your registration for paypal.com and collect your ${WILDCARD_ANY_STRING(LENGTH>=1&&<=3)}, just follow this link <br><br><br><a onmouseover="a("h

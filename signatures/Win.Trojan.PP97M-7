@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.PP97M-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+PVict = Presentations.Open(fs.FoundFiles(i)){WILDCARD_ANY_STRING}PVict.VBProject.VBcomponents(j).Codemodule.Lines(1, 1) <> "'<!--1nternal-->"

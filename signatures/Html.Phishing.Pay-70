@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-70
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+p>identity protection matters. <a {WILDCARD_ANY_STRING(LENGTH<=150)}>get verified!</a><{WILDCARD_ANY_STRING(LENGTH<=100)}hanges in service agreement any unverified account will be deleted from the sys

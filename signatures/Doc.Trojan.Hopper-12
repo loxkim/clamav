@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hopper-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ActiveSheet.Cells(Int(Rnd * 100), Int(Rnd * 100)).AddComment "Cross.BadSeed v0.41"

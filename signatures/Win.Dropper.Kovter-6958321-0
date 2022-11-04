@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kovter-6958321-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Do you want Foxit Reader to get more information about this component by opening the Download Manager? 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unfortunately, %s has crashed. We apologize for the inconvenience, and we would like to ask your help in solving this pr
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+When you purchase Foxit Reader Pro Pack, you will be able to get rid of those evaluation marks easily.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+(NOTE: The license key contents start with "[Foxit Reader Pro]".)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+If you would like us to contact you about this crash report, please enter your email address here:

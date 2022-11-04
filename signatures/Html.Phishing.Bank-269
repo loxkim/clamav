@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-269
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ow this reference:<a h{WILDCARD_ANY_STRING(LENGTH<=100)}al online banking</a><br>this security upgrade will be effective immediately and requires our customers to upda

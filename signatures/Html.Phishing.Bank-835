@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-835
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+has been <b>temporarily blocked</b>due to various login attempts from different global locations.{WILDCARD_ANY_STRING}>travelling confirmation here</a>

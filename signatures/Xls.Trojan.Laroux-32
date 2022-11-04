@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Laroux-32
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+oks("RESULTS.XLS").Sheets("results").Copy before:=Workbooks(n4$).Sheets(1){WILDCARD_ANY_STRING}on.OnSheetActivate = "RESULTS.XLS!ck_files"

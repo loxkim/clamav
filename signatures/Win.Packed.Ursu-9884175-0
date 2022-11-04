@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Ursu-9884175-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://schemas.datacontract.org/2004/07/SocialNetworksManagerDll:ShareObjectResponse
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://schemas.datacontract.org/2004/07/WcfSecureWebService:ShareObjectResponseList, http://schemas.datacontract.org/200
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.linkury.com/:ConnectToServiceAndResendPendingMessagesResponse
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Linkury.Resources.SocialNetsSharer.SocialNetsWrapperService.SocialNetsWrapperService:Linkury.Resources.SocialNetsSharer.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://schemas.datacontract.org/2004/07/SocialNetsWrapperInterfaceDll

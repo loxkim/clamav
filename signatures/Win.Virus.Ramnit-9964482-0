@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9964482-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Description\Des informations au sujet d'un nouveau firmware sont disponibles pour votre machine Brother.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+es comme des informations permettant de vous identifier personnellement.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+rifier maintenant" si vous devez utiliser un serveur proxy pour connecter l'ordinateur 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+lectionnez temporairement "Echelle de gris" pour l'option "Couleur/Echelle de gris" et s
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ l'ordinateur en tant qu'utilisateur disposant de droits d'administrateur.z-3 Utilisez l'option "V

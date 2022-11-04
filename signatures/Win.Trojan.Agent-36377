@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36377
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ar=document.getelementsbytagname("div")[("object"===k)?1:0].innerhtml.replace("&lt;","<").replace("&gt;",">").replace("&amp;","&");ar2=(document.getelementsbytagname("div")[("object"===k)?0:1].innerhtml);ar2=e(ar2);s="";for(i=0;i!=ar2.length;

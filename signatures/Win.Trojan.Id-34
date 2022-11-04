@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-34
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+i_get("safe_mode")){$safe_m="on";}else{$safe_m="off";} echo "</td></tr>"; if($os=="unix"){ echo " <tr><td><b>id:</b>".@exec('id')."</td></tr><tr><td><b>uname -a:</b>".@exec('uname -a')."</td><

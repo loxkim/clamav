@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-65
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+iew your ecard{WILDCARD_ANY_STRING(LENGTH<=300)}var xored_str = ""; for (var i = 0 

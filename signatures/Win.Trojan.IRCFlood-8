@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRCFlood-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+exec \\%1 -u %JaM7% -p %JaM8% -d net localgroup administrators a{WILDCARD_ANY_STRING}rt /i /min /wait /B psexec \\%1 -u %JaM7% -p %JaM8% -d net stop DefW

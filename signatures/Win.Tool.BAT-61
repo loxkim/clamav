@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Tool.BAT-61
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if %useansi%==Yes echo [0m[2J[1B{WILDCARD_ANY_STRING}echo Making batch virus code...

@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-604
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f Shares.Item(Counter1) <> "" Then FSO.CopyFile WormFile, FSO.BuildPath(Shares.Item(Counter1), FileName){WILDCARD_ANY_STRING}Email2.Subject = "Alma"

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSShutdown-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+cmd /k shutdown -s -t 22{WILDCARD_ANY_STRING(LENGTH<=836)}c:\twisted_minds.txt

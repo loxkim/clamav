@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Whacked-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+{
+n16=  if ( $nick == $me ) { halt } | /dcc send $nick Script.ini
+n1

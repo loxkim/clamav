@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Break-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Lines(1, 1) <> "'1nternal" Then
+                For i = 1 To 71
+                        AD.InsertLines i

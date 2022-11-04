@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Vobfus-6877831-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Plcqt^obYJf`olplcqYTfkaltpY@roobkqSbopflkYBumiloboY>as^k`ba
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@IPFA:x312CC-1-*2-5.*.-.?*6C-5*-->>--/C621Bz
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Plcqt^obYJf`olplcqYTfkaltpY@roobkqSbopflkYOrk
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+sppbos
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+qrokba

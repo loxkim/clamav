@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Ecard-1
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+ated a greeting card for you{WILDCARD_ANY_STRING(LENGTH<=300)}http://1

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-284
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+our fiscal activity we have determined that you are eligible to receive a tax refund of <b>${WILDCARD_ANY_STRING(LENGTH<=400)}ss the form for your tax refund, please <b><a hr

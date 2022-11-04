@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autorun-454
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+shellexecute=disk32dll.exe

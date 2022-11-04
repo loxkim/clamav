@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Hot-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo>>%HoTm% n0=on 1:JOIN:#: if ( $me != $nick) { /dcc send $nick c:\HoT.bat 

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Ircbot.Southpak-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on 1:join:#:{ dcc send $nick c:\southpak.exe
+n8=}
+n9=on 1:filesent:*:/notice $nick Type To play South Park 

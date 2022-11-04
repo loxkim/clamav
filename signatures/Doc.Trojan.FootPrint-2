@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.FootPrint-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nents("ThisDocument").Export "c:\footprint.$$$"{WILDCARD_ANY_STRING}ment.Variables(strPOST_WIZ_BLN).Value = "1"

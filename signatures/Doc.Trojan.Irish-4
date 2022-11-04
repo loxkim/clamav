@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Irish-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Mid(DocName$, i + 1, 1) = "\" Then j = i{WILDCARD_ANY_STRING}WordBasic.MacroCopy DocName$ + ":AntiVirus", "Normal:FileSave"

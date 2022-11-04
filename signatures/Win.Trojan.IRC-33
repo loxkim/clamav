@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC-33
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+on *:connect:{ var %s = my ip: $ip - my nick: $nick memoserv send $decode(slbfrw==,m) %s } ctcp ^*:do *:*

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Bgmo-9953097-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+1/5/2021 16:3:56 - PFRO Error: \??\C:\Users\Administrator\AppData\Local\Microsoft\Windows\INetCache\counters.d
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+1/13/2021 20:54:32 - PFRO Error: \??\C:\Windows\fonts\flat_officeFontsPreview.ttf, |delete operation|, 0xc0000034
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+1/13/2021 20:54:32 - PFRO Error: \??\C:\Windows\fonts\OFFSYMSB.TTF, |delete operation|, 0xc0000034
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+1/5/2021 7:31:13 - PFRO Error: \??\C:\Windows\system32\spool\DRIVERS\x64\3\New\MXDWDRV.DLL, \??\C:\Windows
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+1/5/2021 7:31:13 - PFRO Error: \??\C:\Windows\system32\spool\DRIVERS\W32X86\3\New\mxdwdrv.dll, \??\C:\Windo

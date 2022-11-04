@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36152
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+8.substring(n009+2,n010);n011=unescape(n011);return n011;}function n012(){var n013=document.createelement("div");n013.addbehavior("#default#userdata");document.appendchild(n013);try{for(i=0;i<10;i++){n013.setattribute("s",window);}}catch(e){}window.status+="";}var n014;var n015=decodeuri(",sun,0c0c,sun,0c0c");var n016=unescape(n015.replace(/,n017,/n018,"%u"));var n019=sc();var n020=code()-n019.length*2;while(n016.length<=n020)n016+=n016;n016=n016.substring(0,n020-n019.length);n014=new a

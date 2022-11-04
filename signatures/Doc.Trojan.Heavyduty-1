@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Heavyduty-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Asc(Mid(UCase(UCase(UCase(UCase("KKKK")))){WILDCARD_ANY_STRING}Int(Rnd{WILDCARD_ANY_STRING}Fix(Fix(Fix(1))),{WILDCARD_ANY_STRING}Int(Int(Int(Int(Int(3))))))

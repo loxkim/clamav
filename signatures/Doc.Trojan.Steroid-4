@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Steroid-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+BProject.VBComponents("X").Export "c:\scan.log"{WILDCARD_ANY_STRING}volset = SetVolumeLabel("c:\", "Whore")

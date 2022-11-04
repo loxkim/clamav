@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-7600290-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+*\Aw:\Production\Schnell Barwiser Shearing Download\FBTemp.vbp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT detl.CutSchedKey, detl.LoadNo, detl.Qty as StockQty, req.LgthDisp as StockLgth, detl.CutLgthDisp as CutLgth, detl
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT CompanyID, TagColorKey, TagColorID, TagColorDesc, TagColorDspCode, TagColorPrtCode, TagColorTextCode, SeqNo 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+IF ((SELECT OBJECT_ID('tempdb..#tasPrdAccumFabMesh')) IS NOT NULL) DROP TABLE [dbo].[#tasPrdAccumFabMesh]
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+IF ((SELECT OBJECT_ID('tempdb..#tasPrdStatPivotRpt')) IS NOT NULL) DROP TABLE [dbo].[#tasPrdStatPivotRpt]

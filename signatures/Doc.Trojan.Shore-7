@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Shore-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MasterOffee = Options.DefaultFilePath(wdPicturesPath) & "\" & ModuleName & Str(SeriesNumber) & ".dot"

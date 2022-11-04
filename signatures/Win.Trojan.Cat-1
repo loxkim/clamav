@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Cat-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+ For %%a in (*.bat) do call c:\!CaT Inf %%a

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Fool-14
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ttr "c:\Fool.drv", 6{WILDCARD_ANY_STRING}nd(Now()) > 50) Then System.PrivateProfileString("", "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Curren

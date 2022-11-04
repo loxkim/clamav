@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Verlor-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+VBComponents.import ("D:\WINDOWS\overlord.b.dll"){WILDCARD_ANY_STRING}fso.deletefile"c:\himem.dll"

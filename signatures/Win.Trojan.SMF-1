@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.SMF-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%0=="%Duke/SMF% exit
+@for %%b in (*.bat) do set MF=%%b
+@find "MF"<%MF%>nul
+@if errorlevel 1 find "MF"<%0>

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If ad = 0 Or ad < nt Then Set Host = ActiveDocument.VBProject.VBComponents.Item(1) Else GoTo out

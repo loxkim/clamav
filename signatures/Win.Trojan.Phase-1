@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Phase-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+eDlg
+DefaultExtlogFileName	phase.logFilterAll files|(*.*)TitlephAse zero - save dialogLefthTopP

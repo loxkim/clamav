@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Lipses-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if prl="12345678902468013579" then f.deletefile WScript.ScriptFullName, true: Wscript.Quit

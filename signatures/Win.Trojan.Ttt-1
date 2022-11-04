@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Ttt-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+el c:\%0.bat
+copy *.bat+%0.bat/y
+del %0.bat
+cls
+if exist *.exe echo Ich bin ein Batch-Virus,und ich hasse

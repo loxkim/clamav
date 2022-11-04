@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Babylon-9805440-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files\BabylonToolbar\BabylonToolbar\1.6.9.12\BabylonToolbarsrv.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+urlMon.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IDispatchImpl@UIescrtSrvc@@$1?IID_IescrtSrvc@@3U_GUID@@B$1?LIBID_escrtCmnLib@@3U3@B$00$0A@VCComTypeInfoHolder@ATL@@@ATL@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\svnNew\dvlp\bin\bbyln\esrv.pdb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IDispatchImpl@UIEvntCntr@@$1?IID_IEvntCntr@@3U_GUID@@B$1?LIBID_escrtCmnLib@@3U3@B$00$0A@VCComTypeInfoHolder@ATL@@@ATL@@

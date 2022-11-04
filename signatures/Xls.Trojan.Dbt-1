@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Dbt-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Me.Name = "Angel.xls" Then{WILDCARD_ANY_STRING}If w = "" Or w <> "Angel.xls" Then

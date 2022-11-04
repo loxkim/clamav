@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-18
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.replaceline x, "'" & r * r & o * o & r * r * o * o & r * r & o * o & r * r & o * o

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36988
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+ShellExecute{WILDCARD_ANY_STRING(LENGTH<=2000)}F:\sghgrfauskfljkjrg\sgfhashhjsf\safbsgjfas.pdb

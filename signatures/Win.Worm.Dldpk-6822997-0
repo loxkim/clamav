@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Dldpk-6822997-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+IHost.exe;UmxAgent.exe;UmxAttachment.exe;UmxCfg.exe;UmxFwHlp.exe;UmxPol.exe;UpLive.exe;WoptiClean.exe;zxsweep.exe;LiveUpdate360.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+virustotal.com
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+www.kaspersky.com
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+www.nod32club.com

@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Dropper.Agent-35274
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+copy shezan.exe b:
+copy shezan.exe c:
+copy shezan.exe d:
+copy shezan.exe e:
+copy shezan.exe f

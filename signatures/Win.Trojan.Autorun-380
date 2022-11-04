@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autorun-380
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+open=wscript.exe //e:vbscript{WILDCARD_ANY_STRING}auto

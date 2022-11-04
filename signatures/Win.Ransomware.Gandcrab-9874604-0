@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Gandcrab-9874604-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+win32u.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AT3[_Y3\MNv#@FG^+QZ[!gFNAg*yvnf!`QLQ9NNP]DUtB_V:*B]/MSgF_]POY3\VSlMJ3DXDGVMTq#KZXOX3NPD
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3crPf`qxs+kbnoP>*ffd1`ljdNb~>ycha`qnEw p{g1r|o/U2*3ykezigrWUhagcd}2%0
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#-346yv~wdPwhwQrnpzvhLmAvbog3cgwFo04uyB}ymjFq*3acJplgrP>*uufxv(".
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++33vsVpyZzld3womMp01axe)|aiFnl`9gbp}mrLey>wef)nql

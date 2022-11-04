@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-40
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for(; i<encstr.length; i += 4){ bits = (strings.indexof(encstr.charat(i)) & 0xff) <<18 | (strings.indexof(encstr.charat(i +1)) & 0xff) <<12 | (strings.indexof(encstr.charat(i +2)) & 0xff) << 

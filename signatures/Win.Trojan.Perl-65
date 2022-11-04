@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-65
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+print file @solvetec;

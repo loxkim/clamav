@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Trojan.BazarLoader-9780935-0
+TDB: Engine:55-255,Target:1
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+B:\15.10.20\YUVPlayer-master\YUVPlayer-master\vs2015\x64\Release\YUVPlayer.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AfxStringMgr
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AfxmReleaseManagedReferences

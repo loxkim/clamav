@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ulise-9645830-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SoftMgr.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[.]color=rgb(0,0,0)[/.]%sc[.]color=rgb(12,204,108);fsize=-13;bold=true[/.]%s[.]color=rgb(153,153,153);bold=false[/.] 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[.]color=rgb(12,204,108)[/.]%s[.]color=rgb(255,0,0)[/.] %s{[.]color=rgb(250,150,0)[/.]%s [.]color=rgb(51,51,51)[/.]
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ [.]color=rgb(12,204,108);bold=true;fsize=-12[/.]%d [.]color=rgb(89,89,89);bold=false[/.]
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ [.]color=rgb(12,204,108);bold=true[/.]%d[.]color=rgb(136,136,136);bold=false[/.] 

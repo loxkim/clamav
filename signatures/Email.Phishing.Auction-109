@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Auction-109
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Dear eBay User,{WILDCARD_ANY_STRING(LENGTH<=15)}ng our regular update and verification of the accounts, we could not verify your current information. Either your

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Niceold-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ in (*.bat) do call %0 /ViRuS_THE_PROCEDURE %%a
+goto ViRuS_OLDBAT
+:

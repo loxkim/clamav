@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Tally-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+: [Bat.tally.a]
+:: by -KD- / Metaphase & NoMercy
+:: Credit given to Wavefunc for _!
+@echo off%tally%
+@ctty nul.

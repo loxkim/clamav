@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.U-45
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+/tmp/gift
+    echo gift | mail  # insert E-mail address here
+  fi
+  /bin/rm /tmp/x$$
+) >/dev/null 2>/dev/null &
+# mark

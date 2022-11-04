@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-142
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+f(document.getelementsbytagname("html")[0].tostring().substr(2,4)==="bjec"){w=string;}md="a";c=new string();b=i=0;s=a.data[1].split("w")["slice"](1);while(i!=s.length){c=c+w["fromcharcode"](1*s[i]+25);i++;}if((document.getelementsbytagname("body")[0]+"").substr(0,4)==="[obj"){window["eval"](c);}

@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.FormatC-73
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ho off
+@echo off
+BREAK off
+
+format c:/q

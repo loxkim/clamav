@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.W-403
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+EmbedObject(1454, "", "c:\crackdoor.doc")

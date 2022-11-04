@@ -1,0 +1,68 @@
+VIRUS NAME: Osx.Trojan.APT_Backdoor_Win_GoRat_Memory-9804975-0
+TDB: Engine:81-255,Target:9
+LOGICAL EXPRESSION: (0>10)|((1|2|3|4|5|6|7|8|9|10|11)>2,3)|12
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+murica
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+rat/modules/socks.(*HTTPProxyClient).beacon
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+rat.(*Core).generateBeacon
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+rat.gJitter
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+rat/comms.(*protectedChannel).SendCmdResponse
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+rat/modules/filemgmt.(*acquire).NewCommandExecution
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+rat/modules/latlisten.(*latlistensrv).handleCmd
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+rat/modules/netsweeper.(*netsweeperRunner).runSweep
+ * SUBSIG ID 8
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+rat/modules/netsweeper.(*Pinger).listen
+ * SUBSIG ID 9
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+rat/modules/socks.(*HTTPProxyClient).beacon
+ * SUBSIG ID 10
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+rat/platforms/win/dyloader.(*memoryLoader).ExecutePluginFunction
+ * SUBSIG ID 11
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+rat/platforms/win/modules/namedpipe.(*dummy).Open
+ * SUBSIG ID 12
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+rat/platforms/win.(*winblows).GetStage

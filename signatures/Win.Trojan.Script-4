@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Script-4
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<iframe src={WILDCARD_ANY_STRING(LENGTH<=1)}http://www.krvkr.com/worm.htm{WILDCARD_ANY_STRING(LENGTH<=1)} width=0 height=0>

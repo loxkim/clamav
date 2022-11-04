@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1190
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+allow us to update you occasional security and online banking service information.{WILDCARD_ANY_STRING(LENGTH<=50)}we kindly ask you to confirm your online banking details

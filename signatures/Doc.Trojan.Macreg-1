@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Macreg-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+r.Regwrite "HKLM\Software\Microsoft\Windows\CurrentVersion\Run\注册表自动备份", "scanregw.exe.vbs"

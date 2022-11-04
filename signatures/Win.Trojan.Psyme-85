@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Psyme-85
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+.open "get{WILDCARD_ANY_STRING}sget.savetofile ".\x.ico",2

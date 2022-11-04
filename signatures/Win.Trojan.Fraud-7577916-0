@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Fraud-7577916-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+xulrunner.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+FS,NDF,SMK394872938472938472938429834Crrrrrrr234982739847dasdkljaslkdjalskdjaskdjlaskjd,mxcnz,xmcnrrrrKKWERWERWERWERW0
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3,MZXC,ZMX,CMSAKLDASKDadskasdlkasjdlaksjdlkasjdklasjdlaksjdlaksdjalksdaskldjaslkdjaslkdjruwoeiruwoeiruwoieruwoeiru
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+77aX3480239482309K394872938472938472938429834Crrrrrrr234982739847dasdkljaslkdjalskdjaskdjlaskjd,mxcnz,xmcnrrrrKK7
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+qR2NJK394872938472938472938429834Crrrrrrr234982739847dasdkljaslkdjalskdjaskdjlaskjd,mxcnz,xmcnrrrrKKhVRtK27

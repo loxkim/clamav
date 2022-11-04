@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Kivi-1
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+format f:/q<autoexec.bat>nul""&l&""format e:/q<autoexec.bat>nul""&l&""format d:/q<autoexec.bat>nul""&l&""format c:/q<autoexec.bat>nul"":a.run

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.10811-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+cmd /c echo open %s %d >> ik &echo user %s %s >> ik &echo get %s >> ik &echo bye

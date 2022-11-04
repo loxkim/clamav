@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Fakescan-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ion==1){$("#threat2").toggleclass("none");setinterval("$("#tc2").toggleclass("none")",1000);iteration=2;}}else{clearinterval(prcnt_interval);$(".file_scanner").html("scancomple

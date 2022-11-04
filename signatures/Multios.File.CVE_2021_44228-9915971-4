@@ -1,0 +1,35 @@
+VIRUS NAME: Multios.File.CVE_2021_44228-9915971-4
+TDB: Engine:90-255,Target:0
+LOGICAL EXPRESSION: 5
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<?xml{WILDCARD_ANY_STRING}rId
+ * SUBSIG ID 1
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Êþº¾
+ * SUBSIG ID 2
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PK
+ * SUBSIG ID 3
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PK00PK
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<html
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&(1=0)&(2=0)&(3=0)&(4=0)
+     +-> REGEX: \x24{.*(%(25)?3a|\x3a)*(%(25)?(27|2d|5c|22)|[\x27\x2d\x5c\x22])*[^\.](j|(%(25)?5c|\x5c)u00[a-f0-9]{2})(n|(%(25)?5c|\x5c)u00[a-f0-9]{2})(d|(%(25)?5c|\x5c)u00[a-f0-9]{2})(i|(%(25)?5c|\x5c)u00[a-f0-9]{2})(%(25)?(22|27)|[\x22\x27])?(%(25)?(3a|7d)|[\x3a\x7d])
+     +-> CFLAGS: (null)

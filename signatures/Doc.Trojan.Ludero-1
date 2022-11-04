@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ludero-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+allDisableNotify") = "1"{WILDCARD_ANY_STRING}rosoft\Security Center", "AntiVirusDisableNotify") = "1{WILDCARD_ANY_STRING}\CurrentVersion\Policies\System", "DisableTaskMgr") = "1"

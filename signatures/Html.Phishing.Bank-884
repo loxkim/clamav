@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-884
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ability to send or withdraw funds.{WILDCARD_ANY_STRING(LENGTH<=14)}to initiate the update confirmation process you are now required to follow the{WILDCARD_ANY_STRING(LENGTH<=7)}link below

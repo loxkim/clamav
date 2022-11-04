@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Acc-7
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ble><p>guten tag,<br>die gesamtsumme f{WILDCARD_ANY_STRING(LENGTH>=1&&<=2)}r ihre rechnung im monat {WILDCARD_ANY_STRING(LENGTH<=10)} betr{WILDCARD_ANY_STRING(LENGTH<=150)}keine rechnungen im email-anhang mit.</p><p>unter diesem link fi

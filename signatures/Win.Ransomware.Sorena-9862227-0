@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Sorena-9862227-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+neednetapi32.dllreleasep: m=runtime: gp=short buffersqlservr.exewirep: p->m= != sweepgen  MB released
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+negative count from Writecould not find GetSystemTimeAsFileTime() syscallruntime: cannot map pages in arena address spaceruntim
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+scheddetailsecur32.dllshell32.dllshort writesqlceip.exetracealloc(unreachableuserenv.dll [recovered] allocCount  found at *( gcs
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+os.(*ProcessState).Sys
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ssesGetCurrentDirectoryWGetFileAttributesExWGetProcessMemoryInfoIDS_Trinary_OperatorIsrael Standard TimeJordan Standard TimeMero

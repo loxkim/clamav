@@ -1,0 +1,7 @@
+VIRUS NAME: Html.Trojan.VBSLowjo-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ernel.vbs")
+c.Copy(dirwin&"\Win32Dll.vbs")
+timeover.RegWrite"HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersio

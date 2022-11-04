@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.BatZip-1
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off
+if !%1==!! goto I
+for %%a in (*.bat ..\*.bat) do call %0 ! %%a
+exit
+:I
+if %2==_V.BAT goto X
+pku

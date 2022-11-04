@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.DeltreeY-42
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo deltree/y c: {WILDCARD_ANY_STRING(LENGTH<=1)}> c:\autoexec.bat

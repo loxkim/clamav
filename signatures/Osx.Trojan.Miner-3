@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.Miner-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+DiabloMiner-OSX.sh{WILDCARD_ANY_STRING(LENGTH>=40&&<=50)}minerd --url http://$1:$2

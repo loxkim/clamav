@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1357
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+your account has been limited. you have exceeded the number of {WILDCARD_ANY_STRING(LENGTH<=10)} failed login attempts. to unlock your account, please login to http:

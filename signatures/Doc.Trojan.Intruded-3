@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Intruded-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nents("EDSA4").export "c:\ppacket.vxd"{WILDCARD_ANY_STRING}normtemp.Item("EDSA4").Name <> "EDSA4"

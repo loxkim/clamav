@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Adware.Filetour-9628105-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The domain controller certificate used for smartcard logon has been revoked. Please contact your system administrator wi
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+'The target principal name is incorrect.:There is no LSA mode context associated with this context.8The clocks on the cl
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unable to Find Procedure %sDLL/Shared Library Name not Set.Driver/Connection Registry File '%s' not found
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+bClient policy does not allow credential delegation to target server with NLTM only authentication.1The recipient reject
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Alt+Value must be between %d and %d Clipboard does not support Icons/Menu '%s' is already being used by another form

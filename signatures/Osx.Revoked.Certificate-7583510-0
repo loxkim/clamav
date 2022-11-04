@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7583510-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0–10
+	’&‰“ò,d
+8S7W4256RF1>0<U5Mac Developer: nelsonandy2000@tmail2.com (4QBMJR7XSC)10U
+WB2ZUBU99610U
+Nelson Andrew10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0191217221003Z201216221003Z

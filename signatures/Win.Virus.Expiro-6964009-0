@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Expiro-6964009-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+U hebt geen machtiging om dit bestand te openen. Laat u machtigen door de eigenaar van het bestand of een systeembeheerd
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+KladblokhKan de dialoogvensters voor bestanden niet initialiseren. Wijzig de bestandsnaam en probeer het opnieuw.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDjph
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Probeer af te drukken met een kleiner lettertype.2Fout met gemeenschappelijk dialoogvenster (0x%04x)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Controleer of de diskette zich in het opgegeven station bevindt.@Kan het bestand %% niet vinden.

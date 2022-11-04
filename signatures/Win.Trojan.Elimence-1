@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Elimence-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+s ( "Eliminator" , "eliminat" , Msg_Eliminat ){WILDCARD_ANY_STRING(LENGTH<=3)}Call CheckVirus ( "Silence" , "silence" , Msg_Silence ){WILDCARD_ANY_STRING(LENGTH<=3)}If (FromWhere = "F:\" & MyNa

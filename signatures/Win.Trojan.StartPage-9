@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.StartPage-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ = "http://81.211.105.9/search.php?v=1";
+var fso = new ActiveXObject("Scripting.FileSystemObject")

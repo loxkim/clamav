@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Vgen-104
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off%[BfV_B]%
+if '%1=='## goto BfV_%2
+if 

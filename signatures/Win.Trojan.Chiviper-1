@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Chiviper-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+%s?d10=%s&d11=%s&d21=%d&d22=%s

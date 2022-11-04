@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Razy-9952918-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+l_id":"847828","retry":"http:\/\/i-funbox.soft32.com?no_download_manager","api_key":"524fce44917ec5fd6051d87abc15391
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.731","size":"12.92MB","file_name":"ifunbox-setup.2.1.exe","license":"Free","mirrors":["http:\/\/download.itnt
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{"icon_url":"https:\/\/d3fnqfpn2r2a3x.cloudfront.net\/icons\/41\/401427\/icon.png","program_name":"i-Funbox","ver
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1\/401427\/847828\/ifunbox-setup.2.1.exe","http:\/\/dlhah4j0ng4d8.cloudfront.net\/41\/401427\/847828\/ifunbox-setup.2
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+,"properties":{"program_name":"i-Funbox","category_name":"Windows Tools for iPhone","subcategory_name":"Utilities"

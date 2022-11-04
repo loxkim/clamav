@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Metak-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n0=on 1:JOIN:#: if ( $me != $nick ) { /dcc send $nick c:\mirc\{WILDCARD_ANY_STRING(LENGTH<=24)}.com }

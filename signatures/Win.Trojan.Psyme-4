@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Psyme-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+xOf('EXPLOIT.CHM')
+        return url.substring(start, end);
+    }
+
+    payloadU

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.VVSC-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+gBox "You Encrypt text copy in """ & UMAIN.txtVirus & """ file", vbExclamation, "Macro Encryptor by ULTRAS"

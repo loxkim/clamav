@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Ulise-7432507-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Modified:Unable to retrieve folder details for "%s". Error code $%x%%s: Missing call to LoadColumnDetails
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+=Events are not supported with server side TableDirect cursors'Unsupported field type (%s) in field %s;A connection comp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnExecuteComplete|+G
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Missing %s property(CommandText does not return a result set{Error creating object.  Please verify that the Microsoft Da
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error setting path: "%s""Unable to find a Table Of Contents

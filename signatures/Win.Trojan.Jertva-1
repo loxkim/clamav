@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Jertva-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rtva.name))
+    If ext = "htm" or ext = "html" or ext ="asp" Then
+    Set host = FSO.opentextfile(Jertva.pat

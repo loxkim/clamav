@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7176523-1
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+010
+	’&‰“ò,d
+AB4942J2NY100.U'iPhone Distribution: HAIMA CAR CO.,LTD.10U
+AB4942J2NY10U
+HAIMA CAR CO.,LTD.10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0170921014350Z200920014350Z

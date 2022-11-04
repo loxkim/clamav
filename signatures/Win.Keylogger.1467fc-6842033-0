@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.1467fc-6842033-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+D*\AF:\Projelerim\HAKOPS Keylogger\v16\Server\h16.vbp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FC:\Program Files (x86)\Microsoft Visual Studio\VB98\VBA6.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HAKOPS Keylogger 16 - EKRAN GORUNTUSU - [
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<a href="https://www.youtube.com/HAKOPS" target="_blank" style="color: #f1f1f1; background-color:#383838; padding:5px; marg
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<a href="http://www.hakops.com" target="_blank" style="color: #f1f1f1; background-color:#383838; padding:5px; margin:5px;bo

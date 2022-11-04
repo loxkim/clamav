@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Worm-37
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+src="cid:{WILDCARD_ANY_STRING(LENGTH<=8000)}Content-Type: application/octet-stream;{WILDCARD_ANY_STRING(LENGTH>=40&&<=130)}----------

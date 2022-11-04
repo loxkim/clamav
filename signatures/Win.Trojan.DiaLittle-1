@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.DiaLittle-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nTextFile(P,1,false,0).Read(489);I=F.GetFolder(D);C=new Enumerator(I.Files);C.mo

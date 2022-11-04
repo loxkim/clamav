@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Utanioz-7587534-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+675" -f "C:\Users\Remote\Doc
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unsternn.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Punct\Errabu\Unthemati\Grassles\VB6.OLB
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+R!iXx}FYczL6r]lyKWgTelUrK)f|MNn+ki]C~vI9v|RLLjjvl9uhTdQJtH|sSiR-i@|pF_csLCr[lwKZgaaEUzK fyMUjWkyYD~|IRrlV
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D?{s[|EJj}aOxpPm\NyVq{Zh_MmmqrKOnvAVvBanF_j_hqQvF*kIInn`fLPDsjDM{G[lLGc%aAxgY

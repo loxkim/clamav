@@ -1,0 +1,8 @@
+VIRUS NAME: Html.Trojan.Downloader-112
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+d1sv6.write t7x7h.responseBody
+d1sv6.savetofile n5L_ry61,2
+d1sv6.close
+q5qo1.ShellExecute n5L_ry61,"","","open",0

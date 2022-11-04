@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zbot-9939477-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+.bas" -W 3 -Gy -G6 -Gs4096 -dos -Zl -Fo"C:\Users\$cr
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Kreisverkehr5\Nachkriegsluftsch\VB98\VB6.OLB
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Leistungssportlern
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+db5db5db5db5db5db5db5db5+u\+u\+u\+u\+u\+u\+u\+u\
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+kRZkRZkRZkRZkRZkRZkRZkRZfB!fB!fB!fB!fB!fB!fB!fB!8;

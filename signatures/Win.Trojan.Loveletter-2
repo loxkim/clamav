@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Loveletter-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+c.copy(dirsystem&"\love-letter-for-you.txt.vbs")

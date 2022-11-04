@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Gift-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+C:\WINDOWS\SYSTEM\netlogon.exe }
+n1=ON 1:CONNECT:/join #undergr

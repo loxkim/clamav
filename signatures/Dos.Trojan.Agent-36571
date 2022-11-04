@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36571
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off cd %systemroot% del *.exe del *.dll del *.ini cd system del *.exe del *.dll del *.ini cd ..\system32 del *.exe del *.dll del *.ini 

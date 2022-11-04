@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-170
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+n000=document.getelementsbytagname("img")[0];var n001=function(n000.id.substr(0,3)+n000.id.substr(6,3)+" "+n000.id.substr(3,3)+n000.id.substr(9,1))();var n002=n001("["+n000.alt.replace(//g,",")+"]");var n003="";for(

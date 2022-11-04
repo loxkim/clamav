@@ -1,0 +1,6 @@
+VIRUS NAME: Dos.Trojan.Delwin-19
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+el /q c:\windows\system\*
+del /q{WILDCARD_ANY_STRING}ly want to play w

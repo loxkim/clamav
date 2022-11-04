@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Sulf-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+%ana% %%v in (*.bat ../*.bat{WILDCARD_ANY_STRING(LENGTH<=31)} do copy %%v + %corn%

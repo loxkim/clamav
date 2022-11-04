@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.IcedID-9892427-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Processsurface.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\Weather\Favor\Grow\Coast\Place\Evening\Createfive.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+|F$2{E#C{E#C|F$C{E#C{E#C|F$C{E#C|F$C{E#C{E#C{E#C|F$C{E#C{E#C|F$C{E#C{E#C|F$C{E#C{E#C|F$C{E#C{E#C|F$C{E#C{E#C
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+2013 FastSpring Past, Inc. All Rights Reserved
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+5.0.43.33

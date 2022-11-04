@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Imitator-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+= 10 then
+		c.Copy(windir&"\F__ker.hta")
+		go.Subject = "F__K YOU!"
+		go.Body = "THATS RIGHT!" & VbCrlf & "I SAID F__K YOU!" & Vb

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Alosh-9886992-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+$t0=-join ((111, 105, 130)| foreach-object {( [convert]::toint16(([string]$_{WILDCARD_ANY_STRING}regsvcs.exe

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Virus.Induc-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CreateFile(pchar(d+$bak$){WILDCARD_ANY_STRING(LENGTH<=1000)}MoveFile(pchar(d+$dcu$),pchar(d+$bak${WILDCARD_ANY_STRING(LENGTH<=500)}CreateProcess(nil,pchar(e+$"$+d+$pas"$){WILDCARD_ANY_STRING(LENGTH<=500)}MoveFile(pchar(d+$bak$){WILDCARD_ANY_STRING(LENGTH<=500)}DeleteFile(pchar(d+$pas$)){WILDCARD_ANY_STRING(LENGTH<=500)}CreateFile(pchar(d+$bak$){WILDCARD_ANY_STRING(LENGTH<=500)}CreateFile(pchar(d+$dcu$)

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Smvc-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+For XXX = 1 To AAA: XXXA = YYY5.lines(XXX, 1): XXX5.insertlines XXX, XXXA: Next XXX

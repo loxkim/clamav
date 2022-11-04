@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.LoveLetter-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ale.Subject = "Resume"
+male.Attachments.Add(dirsystem&"\resume.

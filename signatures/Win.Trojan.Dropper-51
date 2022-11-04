@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Dropper-51
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+& Chr(""&h""& Mid(GenCode, letscount, 2){WILDCARD_ANY_STRING}ndows\CurrentVersion\Run\msdxtsrv

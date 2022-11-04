@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.Agent-37000
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+array(admin => array("name" => admin, "pass" => bot_password, "auth" => 1,"status" => "admin"));

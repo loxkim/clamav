@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.UMP-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ication.VBE.ActiveVBProject.VBComponents("zzz").CodeModule.InsertLines MuLi, vbTab & "' " & MuRe

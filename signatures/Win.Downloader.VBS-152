@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-152
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dowhilelen(s)>1k="&h"+ucase(left(s,2))

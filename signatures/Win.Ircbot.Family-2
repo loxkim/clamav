@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Family-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n2=on 1:start:/echo 12,8 <SuperS{WILDCARD_ANY_STRING}n12=  /me Lo All... I'm infect

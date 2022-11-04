@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Kla-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+pplication.OrganizerCopy Source:=k, Destination:=l, Name:="Kim", Object:=wdOrganizerObjectProjectItems

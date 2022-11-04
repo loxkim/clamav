@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Coinminer.AMW-6520433-0
+TDB: Target:1
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HideRun.vbs
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CreateObject("WScript.Shell").Run "cmd /c %temp%\{WILDCARD_ANY_STRING(LENGTH<=4)}.cmd",0
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+base32.exe

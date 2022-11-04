@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Intruded-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+    ElseIf ADx.Item("revenge").Name <> "revenge" Then

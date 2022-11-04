@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Komcon-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.Organizer Delete:=1, Source:=dokumen$, Name:=mname__$(i), Tab:=3{WILDCARD_ANY_STRING}pesannya$ = "Rupanya Anda sedang sial........, Dokumen Anda kini " + _

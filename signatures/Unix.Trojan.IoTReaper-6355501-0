@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Trojan.IoTReaper-6355501-0
+TARGET TYPE: ELF
+OFFSET: *
+DECODED SIGNATURE:
+macaddress=%s&device=%s&type=%s

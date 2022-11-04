@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-85
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+">click here to verify your account</a></td></t{WILDCARD_ANY_STRING(LENGTH<=50)}><br><br>&nbsp;</p><p></p>you can also verify your account by logging int

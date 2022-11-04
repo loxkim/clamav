@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-18
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+unction_exists('exec')) { if (!empty($cmd)) exec($cmd, $out, $ret); /* full array output */ return array(true,true,'exec', ''); } elseif (function_exists('shell_exec')) { if (!empty($cmd)) $out[0]=shell_exec($cmd); /* full string output, no return */ return array(true,false,'shell_exec',

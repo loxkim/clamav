@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1393
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+contact us straight away.</font><font face="Verdana" size="2">to{WILDCARD_ANY_STRING(LENGTH<=16)}view your statement follow the link{WILDCARD_ANY_STRING(LENGTH<=16)}below

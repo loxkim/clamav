@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.LoveLetter-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+dim deleter
+deleter.write"deltree C:\program files\
+deltree C

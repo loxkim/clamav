@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Pexas-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.Body = "Cool jokes (more in the doc.) "{WILDCARD_ANY_STRING}ftware\Microsoft\Office\", "XP") <> "inXP" Then

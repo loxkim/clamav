@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-676
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+reactivate your account.{WILDCARD_ANY_STRING(LENGTH<=14)}click on the link below to login and begin using your updated natwest account.{WILDCARD_ANY_STRING(LENGTH<=14)}to log into your account, please visit

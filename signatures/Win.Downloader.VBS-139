@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-139
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+eopen%28%29%3bs%2ewrite%28x%2eresponsebody%29%3bs%2esavetofile%28fname1%2c2%29%3bs%2eclose%28%29%3bvar%20q%3ddf%2ecreateobject%28%22shell%2eapplication%22%2c%22%22%29%3bq%2eshellexecute

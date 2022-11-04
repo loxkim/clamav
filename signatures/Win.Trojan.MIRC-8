@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.MIRC-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+#:/quit Win32.mIRC32.Thorin 1.00
+n4=ON 1:TEXT:*virus*:#:/ignore -u666 $nick
+n5=ON 1:CONNECT: {
+n6=/msg Billy_Be

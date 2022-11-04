@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Downloader.Emotet-6744157-1
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   Error IVdTTI + JqPUSU + bKEGNY + fSEHr * wUsTKJ + wYNAN + (bDUMEp + ZwMGp)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   Error hdvow + tphap - rozVTT + WvVwc + nwkhi + cinTH - YnHlpB + DVdMQ - fAtXdM + TcJZIH + TMwDV + jvfMkF
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   Error hojRZ + fYZMt / kLuORO + qLTjd + IPofAc + Gbpvz - (fjmOS + waziDJ + CWwzOF + iQKqt + (kjlJW + PGipEw))
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   FormatNumber MaUVi + QlPhT / (qlqsQs + ttIHB + QZafUt + QKnwYp * (PhInFI + dWKlTz + taETS + ScpGun))
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   TimeValue (KUTwat + BihLSP * (TRjIO + IBzmq + (lbcHr + hEpPzZ)))
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   TimeValue (NlbKir + LudNjh) / JEjSDi + WtKSQ + uCnbbT + BikpW
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   TimeValue zuUbIw + lVBtJ / DPtBvm + kjcFG + nrBsS + uwYPRr
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Shell@ Shapes(JIjlVCZ + bbqtd + 1 + vUsEPo + EurUh).TextFrame.TextRange.Text + MLbZH + XXLwd, qjroTntk

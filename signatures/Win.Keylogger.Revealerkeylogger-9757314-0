@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Revealerkeylogger-9757314-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Alan\documents\visual studio 2015\Projects\rvlkl_setup\Release\rvlkl_setup.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error copying files. We recommend that you temporarily disable your antivirus software, then run the setup again.=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+You must be logged on with an Administrator account to run the setup program.=Um dieses Installationsprogramm anwenden z
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E INSTALLATION PROCESS AND DELETE OR DESTROY ALL COPIES OF THE SOFTWARE IN YOUR POSSESSION.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+necessario effettuare il login con un account di Amministratore per eseguire il programma d'installazione.

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Kovter-6979108-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Weighted fair queueing (WFQ) is a method of automatically smoothing out the flow of data in packet-switched communicatio
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Picture5
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Weighted fair queueing (WFQ) is a data packet scheduling algorithm used by network schedulers. WFQ is both a packet base
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+WFQ is one of Cisco's premier queuing techniques. It is a flow-based queuing algorithm that does two things simultaneous
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C-8B12Queuing

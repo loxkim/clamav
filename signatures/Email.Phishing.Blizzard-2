@@ -1,0 +1,8 @@
+VIRUS NAME: Email.Phishing.Blizzard-2
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Subject: Blizzard Notification About Diablo III Account{WILDCARD_ANY_STRING(LENGTH>=80&&<=90)}charset="utf-8"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail

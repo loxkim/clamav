@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Heck-3
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Sub sendmailto(email)
+Randomize
+Select Case Int((8 * Rnd) + 1)
+Case 1: Rte = "vpolo@caden

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Flash-10
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Hour(Now()) >= 17 Then{WILDCARD_ANY_STRING}ActiveDocument.Protect Password:="Lunatic Calm", NoReset:=False, _

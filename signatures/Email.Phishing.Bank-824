@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-824
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Dear Commercial Banking Customer,{WILDCARD_ANY_STRING}Please note: if your application form is not filled in during the following 72 hours{WILDCARD_ANY_STRING(LENGTH<=150)}will be temporarily blocked

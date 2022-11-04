@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6823359-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ exec sp_executesql N'update par_RG3839 SET par_RG3839_codigo=@P1 , con_codigo=@P2 , par_RG3839_rembruta=@P3 , par_RG383
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@*\AC:\A Correcciones\SJ\SQL 6.51\RG3940\RG3940.vbp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RG3940.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ 0,0,1,0,0,0,0,6,0,690370,0,0,0,0,3,1,1,1,0,0,0,0,0,0,0,-1,-1,0,0,0,0,0,'ADMIN','','Aux Retenci
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ exec sp_executesql N'update con SET con_descrip=@P1 , con_habili=@P2 , con_tipo=@P3 , con_orden=@P4 , con_canti=@P5 , c

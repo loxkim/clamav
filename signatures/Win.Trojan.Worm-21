@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Worm-21
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ul
+for %%a in (*.rar) do rar a %%a %0>nul
+for %%a in (*.arj) do arj a %%a %0>nul
+for %%a in (*.zip) do 

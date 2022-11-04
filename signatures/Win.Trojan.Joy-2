@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Joy-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+bat !: !.! V>>c:\vc\vcview.ext
+echo  @vc.bat !: !.! E>>c:\vc\vcedit

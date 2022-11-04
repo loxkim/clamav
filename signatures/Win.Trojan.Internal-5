@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Internal-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+le:" AND (Int((6 * Rnd) + 1) = 1) then Call Offline
+	location.href = location.href +"l"
+End Sub
+
+Sub Offl

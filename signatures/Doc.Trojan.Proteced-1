@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Proteced-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Passcode = "Bad Logic" Then{WILDCARD_ANY_STRING}Loop While (response <> "WM.MALAYSIA 1998")

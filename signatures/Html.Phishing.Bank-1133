@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1133
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if you recently accessed your account while traveling{WILDCARD_ANY_STRING(LENGTH<=3)}the unusual log in attempts{WILDCARD_ANY_STRING(LENGTH<=6)}may have been initiated by you

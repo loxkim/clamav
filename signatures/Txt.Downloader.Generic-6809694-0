@@ -1,0 +1,33 @@
+VIRUS NAME: Txt.Downloader.Generic-6809694-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+af={};af['\x7a\x6c\x58\x61\x53']=function(ag,ah){return
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+b=0x0;b<r['length'];b++){a=(a+0x1)%0x100;u=(u+t[a])%0x100;v=t[a];t[a]=t[u];t[u]=v;w+=string['fromcharcode'](r['charcodeat'](b)^t[(t[a]+t[u])%0x100]);}return
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+k=string(j)['replace'](/=+$/,'');for(var
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+p;}}:function(){};aa=![];return
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s.mnoxa(as,at);};ap[jkllkjhygtytsdjfijgifhghklklb('0x7f','\x68\x54\x58\x6a')]=function(au,av){return
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+x();};s[jkllkjhygtytsdjfijgifhghklklb('0x30','\x38\x71\x58\x33')]=jkllkjhygtytsdjfijgifhghklklb('0x31','\x77\x52\x32\x64');s['\x42\x75\x5a\x56\x58']=jkllkjhygtytsdjfijgifhghklklb('0x32','\x49\x76\x71\x44');s[jkllkjhygtytsdjfijgifhghklklb('0x33','\x64\x57\x

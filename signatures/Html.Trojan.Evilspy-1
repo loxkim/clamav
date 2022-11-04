@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.Evilspy-1
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dim psi as new processstartinfo("cmd.exe") psi.useshellexecute = false psi.redirectstandardoutput = true dim pro as new process() pro.startinfo=psi

@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Robocop-4
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Application.Workbooks("Global.xls").Modules("HIT{WILDCARD_ANY_STRING}kbooks("Global.xls").Modules("QUEEN").Copy _{WILDCARD_ANY_STRING}dow.SelectedSheets.Visible = Fals

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shutdown-14
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+wshshella.run "cmd.exe /c shutdown -s -t 90 -c """"

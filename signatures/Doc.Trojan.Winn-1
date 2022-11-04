@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Winn-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ActiveDocument.VBProject.VBComponents("killer").Export "c:\windows\winnews.txt"{WILDCARD_ANY_STRING}If c = 35 Then Call kill

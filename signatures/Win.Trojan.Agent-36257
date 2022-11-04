@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36257
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+q)[0];k=document.createtextnode("eval");with(el){appendchild(k);}q="extnode";try{a}catch(qq){with({a:document}){el.appendchild(a["createt"+q]("referenceerror"));}}el3=el.lastchild.previoussibling;el2=el.removechild(el.childnodes[1]);e=eval(el3.nodevalue);e("k=

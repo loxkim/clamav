@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Dropper-82
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+v += what;
+return v;
+} 
+function start() 
+{
+sc = unescape("%u9090%u9090%u9090%u9090%uEB90%u5E1a%u5B56%u068a%u303c%u1674%uE

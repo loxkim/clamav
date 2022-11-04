@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Robocop-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ame).Modules("ROBO").Copy after:=Application.Workbooks("personal.xls").Modules(1){WILDCARD_ANY_STRING}Sheets("COP").Select{WILDCARD_ANY_STRING}indow.SelectedSheets.Visible = False

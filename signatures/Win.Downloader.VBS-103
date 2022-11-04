@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-103
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+prog = "x" & "m" & "lhtt" & "p" set obj_msxml2 = obj_rds.createobject(obj_name & "." & obj_prog,"") obj_msxml2.open "g" & "e" & "t","http:

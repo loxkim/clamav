@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Rootkit-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+xdccfile winmgnt.dl{WILDCARD_ANY_STRING}ignorefile win32.dll{WILDCARD_ANY_STRING}uploaddir c:\windows\system32\dllcache\win32\dap\log\

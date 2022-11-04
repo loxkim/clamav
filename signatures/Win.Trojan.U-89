@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.U-89
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo $HOST | tr \xc7 '\n' | grep -v '#!/bin/sh'>> $F 2>/dev/null

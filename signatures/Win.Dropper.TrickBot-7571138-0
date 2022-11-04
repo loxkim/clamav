@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.TrickBot-7571138-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+aj9KCi{ofwbtp0sWvRyHtqZ61KKeNWdbLiYaj9cCi{ofwbtp0sWvRyHtqZ61KKeNWdb|jYAj9cCi{ofwbtp0sWvRYHtQZ61KKeNWdb|jYAj9cCi{ofwbtp0]#
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+KeNWdb|jYAj9cCi{ofwbtp0sWvRyHtqZ61KKeNWdb|jYAj9cCi{ofwbtp0sWvRyHtqZ61KKeNWdb|jYAj9cCi{ofwbtp0sWvRyHtqZ61wjeN
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The closing arguments came amid a bombshell report 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+IN_STATECCommandLine
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+US media outlets reported on Tuesday

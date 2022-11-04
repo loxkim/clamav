@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-250
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for(i=0;i!==aaa;i+=2){q=qwe["substr"](i,1)*10+qwe["substr"](i++w,1)*1;with({a:s}){s=a.concat(z["substr"](q,1));}}e(s);

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.SubPub-1
+TARGET TYPE: MACHO
+OFFSET: *
+DECODED SIGNATURE:
+Accept-Encoding: base64,gzip{WILDCARD_ANY_STRING}/tmp/screen.jpeg

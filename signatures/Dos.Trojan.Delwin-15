@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Delwin-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+pe %0 | find /V "inst" >c:\inst.txt{WILDCARD_IGNORE}{WILDCARD_IGNORE}copy c:\inst.txt %windir%\win.bat >nul

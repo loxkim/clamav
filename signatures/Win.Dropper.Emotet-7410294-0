@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Emotet-7410294-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Author: Peter Seliger - pittbull_nt@yahoo.com
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wPLVsZzphDdoVDJcTLra+1dnXi87zua05gS9RA7dCLHmYht13/Yr+hIox8qo48kcHlOgOn2bSNzoxRBmFFe1INPFBgVCEfucZRLz8i0oXuoMC9Cwe3GruEHDuv+ogGcl
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+To pop up this options dialog box use either the right mouse button or hit the ENTER key...
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+You must log on as an administrator to use this tool...
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+KSrGp3cq7q12OVKCptUsYgA5sWBaTWKftpQjHzPMIkHckqyGFt/MMnjD6MyMlqN9EaLV6Ef088lXVdZxP2CIoAvx5FugLxPr//UY9meld6sf+PpBBcBljgnvhExun12s

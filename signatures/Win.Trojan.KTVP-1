@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KTVP-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+randomize: for a{WILDCARD_ANY_STRING(LENGTH<=20)} = 1 to 3 + int( 7 * rnd): a{WILDCARD_ANY_STRING(LENGTH<=20)} = a{WILDCARD_ANY_STRING(LENGTH<=20)} & chr(97 + int(26 * rnd)): next

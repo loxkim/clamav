@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shutdown-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if ProcessExists("taskmgr.exe") = True Then	Shutdown{WILDCARD_ANY_STRING}ProcessClose("nod32krn.ex

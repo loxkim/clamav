@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Agent-36083
+FUNCTIONALITY LEVEL: >=17
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+<?php eval(base64_decode('awyoiwz1bmn0aw9ux2v4axn0cygn{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}jykpe2z1bmn0aw9ui{WILDCARD_NIBBLE_HIGH:0x60}{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}gkcyl7awyochjlz19tyxrjaf9hbgwojym8c2nyaxb0kc4qpyk8l3njcmlwdd4jaxmnlcrzlcrhkslmb3jlywnokcrhwzbdyxmkdilpzihjb3vudchlehbsb2rlkcjcbi

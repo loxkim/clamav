@@ -1,0 +1,6 @@
+VIRUS NAME: Dos.Trojan.FormatC-68
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo y| format c: /q
+

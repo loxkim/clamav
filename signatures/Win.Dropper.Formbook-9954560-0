@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Formbook-9954560-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.R
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wXn8BPpRfFt4E6fd8HQK/9Covb/AX93UEexpj4Un/up/BfovWjXN+nj/Y8/a/05vv2/rX8r0PA6fgjv/ebzvWJ6PTwPP0C5Vn7HaB54274fA7+LOgdo++5xTLC77N3/3
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BackgammonUI.Properties.Resources.resources
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Congratulations!! {0} you won the game with {1} pairs! {2}{3} with {4} pairs, Don't worry, maybe next time
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BackgammonUI.BackgammonGameForm.resources

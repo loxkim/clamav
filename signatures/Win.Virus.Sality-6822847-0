@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6822847-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ uudelleen, jotta voisit asentaa Canon LASER SHOT LBP-1210 -kirjoittimen uudelleen.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Asennuksen purkuohjelma on poistanut Canon LASER SHOT LBP-1210 -ohjelman. 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Kaikki seuraavat Canon LASER SHOT LBP-1210 -tulostimet poistetaan.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ sovellus poistaa tietokoneesta Canon LASER SHOT LBP-1210 -ohjelman.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ kirjoittimella (kirjoittimilla) on joitakin tulostust

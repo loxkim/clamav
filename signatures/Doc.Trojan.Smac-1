@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Smac-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Day(Now) = 2 And Month(Now) = 9 Then MsgBox "永远的祝福 , 生日快乐!!!", vbCritical

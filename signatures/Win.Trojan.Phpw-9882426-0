@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Phpw-9882426-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mbly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="X86
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+osoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.gcld777.com/
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ABB~ABB}BBB{@AAy@AAx@@@t?@@q>??m=@@i=??e=>>a=>>]===W;<<U:;;S:::P;;;N;;;J;<<E<<<@<<<9<<<4;<</;;;(<;;"<<<
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+9::':::-:;;2;<<7;;;;<<<@<==D=>>I>??M>@@Q?@@T@AAVABBY@AAY@AAZ@AA[@AA[@AAY?AAX?@@V@AAS?@@P>??M>>>H=>>C<==>;<<9<<<5;<<0:;;+:;;%:::

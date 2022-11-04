@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-97
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if you agree with this rank please <a {WILDCARD_ANY_STRING(LENGTH<=250)}me an ebay power{WILDCARD_ANY_STRING(LENGTH<=1)}seller{WILDCARD_ANY_STRING(LENGTH<=50)}>within 24 hours

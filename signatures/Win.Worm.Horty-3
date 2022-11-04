@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Horty-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ETURNS.TXT.vbs"
+set unboot=fso.getspecialfolder(1)
+unbootstart=unboot&"\Winkernel.vbs"
+unboota=unboot&"\LORD-OF-

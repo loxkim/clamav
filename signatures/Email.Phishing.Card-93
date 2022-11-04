@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Card-93
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Suivez la procedure indiquee pour mettre votre carte de credit à jour.{WILDCARD_ANY_STRING(LENGTH<=200)}nous serons contraints de suspendre votre carte indefiniment,car elle peut être utilisee pour fraude

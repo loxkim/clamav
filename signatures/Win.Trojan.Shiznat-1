@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shiznat-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+wsck32 list * $+ $gettok(teen:kids:sex:warez{WILDCARD_ANY_STRING(LENGTH<=128)}%spamtype

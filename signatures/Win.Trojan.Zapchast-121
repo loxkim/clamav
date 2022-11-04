@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Zapchast-121
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+create /w3svc/1/root/ >>xresults.txt @cscript adsutil.vbs set w3svc/1/root//keytype iiswebvirtualdir

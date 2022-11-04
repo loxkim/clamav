@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Intro-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If aModule.CodeModule.Lines(2, 1) = "'Hello" Then NormHaveCopied = True

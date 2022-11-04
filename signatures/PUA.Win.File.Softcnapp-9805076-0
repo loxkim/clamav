@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Softcnapp-9805076-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://zmiwn.bijiatu.com/?17322=260f8f85ef339017cdbdbc603cf13352&7e8cc=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://zmiwn.bijiatu.com/?17322=dda7492c031b7bdba75bed099578654a&7e8cc=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://ymjqn.bijiatu.com/wifi/zx/f69fc804724eabf9906abc5eee3cd4df.fbf
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Kinzring.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Powerqur.exe

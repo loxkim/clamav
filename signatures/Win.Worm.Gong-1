@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Gong-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+%gong% set a = Wscript.CreateObject("Wscript.Shell") >>c:\gong.vbs 

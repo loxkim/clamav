@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Ian-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+r until later.", vbInformation + vbYesNo, "Microsoft Excel - System Message"{WILDCARD_ANY_STRING}For Counter = 34 To 36{WILDCARD_ANY_STRING}Selection.Font.ColorIndex = Cou

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.DarkKomet-9877685-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HARDWARE\DEVICEMAP\Scsi\Scsi Port %d\Scsi Bus 0\Target Id 0\Logical Unit Id 0
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+email=%s; smtp=%s; smtp_user=%s; smtp_port=%d; smtp_ssl=%d; name=%s; org=%s; replyto=%s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+When entering the license key, please copy and paste to avoid typing errors.=Stellen Sie sicher, dass sie den Lizenzschl
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files\Ace Translator\AceTrans.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+When entering the license key, please copy and paste to avoid typing errors.=Lisnas no girerken kopyala-yapistiri se

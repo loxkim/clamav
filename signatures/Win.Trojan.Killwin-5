@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Killwin-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ttrib c:\boot.ini -s -h -r
+del c:\boot.ini
+attrib c:\ntdetect.com -s -h -r
+del c:\ntdetect.com

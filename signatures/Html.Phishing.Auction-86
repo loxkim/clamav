@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-86
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<a href="http://2{WILDCARD_ANY_STRING}/ebay/login/">https://ebay.com/awcgi

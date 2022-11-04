@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Sivis-6769200-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%ProgramFiles% (x86)\Google\Chrome\Application\chrome.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+i::DataSpace/Storage/MSCompressed/Transform/{0A9007C6-4076-11D3-8789-0000F8105754}/InstanceData/ResetTable
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Access the InternetG..\..\..\..\..\Program Files (x86)\Google\Chrome\Application\chrome.exe0C:\Program Files (
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+S-1-5-21-2876922510-3333740708-744666448-1000
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+T )::DataSpace/Storage/MSCompressed/SpanInfo

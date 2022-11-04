@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zusy-9821687-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\MSDEV\Projects\InfiniDoom\Release\temp.wad
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+This editor was made by Peter Zhou <vectrolium@yahoo.com>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DIE.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7+mhtk64F)#ha2C7Mi33#a*+5(NY8J&@eYD!oX1taE8p+Bx6QitV2PXNSf%q&Ij(%2z<*KCD)a8%d*(p?f(C<<!&jFwJ7Xr
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+InfiniDoom.exe -warp 1 1

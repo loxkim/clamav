@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Shore-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cruel = Mid(code, 6, 1) + Mid(ddd, 3, 1) + Mid(ddd, 3, 2) + Mid(ccc, 5, 1) + Mid(ddd, 6, 2) +{WILDCARD_ANY_STRING}If LCase(InputBox(pass, badboy)) = cruel Then

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.LOVE_LETTER-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if (window.screen){var wi=screen.availWidth;var
+hi=screen.availHeight;window.moveTo(0,0);window.resizeTo(wi,hi);}

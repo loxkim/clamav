@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1382
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+account is about to expire.{WILDCARD_ANY_STRING(LENGTH<=1)}in order for it to remain active,{WILDCARD_ANY_STRING(LENGTH<=1)}please use the link bel{WILDCARD_ANY_STRING(LENGTH<=1)}ow and verify your information

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Papercut-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ra = Dir("c:\papercut.reg"){WILDCARD_ANY_STRING}Print #1, """AccessVBOM""=dword:00000001"

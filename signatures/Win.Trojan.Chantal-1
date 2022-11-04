@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Chantal-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ormalTemplate.VBProject.VBComponents.Item(1).CodeModule.AddFromFile ("C:\WINDOWS\CB4.vxd")
+CB.Application.Q

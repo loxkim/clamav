@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.FS-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Not £\.Find("~^^~", 0, 0, 0, 0) Then £\.AddFromString £o.Lines(1, £o.CountOfLines)

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.CheckSafeMode-6
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if( ini_get('safe_mode') ){ echo("safemodeon"); die(); }else{ echo("safemodeoff");

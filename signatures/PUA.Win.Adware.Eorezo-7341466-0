@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Eorezo-7341466-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<download_url>package_oursurfing_installer_multilang.exe</download_url>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<href>http://www.oursurfing.com/license_agreement.html</href>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<href>http://www.oursurfing.com/privacy_policy.html</href>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+regkeys><exe url="" value="" match=""/></checkers></offer><offer id="InstallManager">
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<text size="8" color="-2147483640">Make oursurfing my browser homepage, default search and new tab</text>

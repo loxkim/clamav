@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Aracib-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+newItem.Subject = "2 Ticktes for FIFA final{WILDCARD_ANY_STRING}Ticket.doc.exe")

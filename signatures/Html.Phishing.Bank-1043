@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1043
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+you have been chosen by our online department{WILDCARD_ANY_STRING(LENGTH<=150)}to take part in our quick and easy online{WILDCARD_ANY_STRING(LENGTH<=150)}in return we will credit {WILDCARD_ANY_STRING(LENGTH<=25)} to your account

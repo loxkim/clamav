@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Barbit-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+attrib +s +h {WILDCARD_IGNORE}:\Rabbit.exe
+attrib +s +h {WILDCARD_IGNORE}:\AutoRun.inf
+attrib +s

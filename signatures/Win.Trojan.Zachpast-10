@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Zachpast-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+write %filetoboot $+("Gator Co{WILDCARD_ANY_STRING}u 4,0Fuck yo

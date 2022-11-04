@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IMVM-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+dr+document.VG.q.value+"The "+document.VG.nume.value+" VIRUS"+"\r\n"+document.VG.q.value+"by "+document.VG.autor.value+dr+

@@ -1,0 +1,8 @@
+VIRUS NAME: Legacy.Trojan.Trojan-90
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:Cheezy Batch ViR
+@echo off>nul.ViR
+if '%1=='InF goto ViR_inf
+if exis

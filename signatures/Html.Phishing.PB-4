@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.PB-4
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ere kunden inst{WILDCARD_ANY_STRING(LENGTH<=2)}ndig, die form der kontobest{WILDCARD_ANY_STRING(LENGTH<=2)}tigung auf unserer offiziellen seite <a target="_bl{WILDCARD_ANY_STRING(LENGTH<=250)}, die bis zum {WILDCARD_ANY_STRING(LENGTH<=12)} in dieser form ni

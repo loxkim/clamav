@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.IRC-18
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+If System.PrivateProfileString("", "HKEY_CURRENT_USER\Software\Zelda\", "ZeLDA") <> "by ULTRAS[MATRiX]" Then
+

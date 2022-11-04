@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Datper-6736003-0
+TDB: Engine:55-255,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+comine.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://www.oonumaboat.com/cx/index.php?id=

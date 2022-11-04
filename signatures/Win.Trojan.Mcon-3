@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Mcon-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+tfload.vbs")
+		sh.run "wscript.exe "&w&"\fonts\ttfload.vbs",0
+	end if
+	if (instr(lcase(wscript.scriptfullname),"star

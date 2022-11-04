@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Snapper-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+RunCommand="Rundll32"+" "+Filename+","+"InstallDLL"

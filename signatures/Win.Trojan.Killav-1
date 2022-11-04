@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Killav-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+net stop "eventlog" /y
+net stop "InoRPC" /y
+net stop "InoRT" /y
+net stop "InoTask" /y
+net stop "IREIKE" /y
+net stop "IPSECMON" /y

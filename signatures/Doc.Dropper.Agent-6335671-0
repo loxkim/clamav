@@ -1,0 +1,20 @@
+VIRUS NAME: Doc.Dropper.Agent-6335671-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+As Variant) As Boolean
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Name =
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1
+     +-> REGEX: Function\s+[a-z]{20,}\x28ByVal\s+[a-z]{20,}\s+As\s+String,\s+ByVal\s+[a-z]{20,}\s+As\s+Variant\x29\s+As\s+Boolean
+     +-> CFLAGS: i

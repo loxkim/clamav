@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.DistTrack-3
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+dir f1.inf /s /b 2>nul >>f1.inf{WILDCARD_ANY_STRING(LENGTH<=50)}dir f2.inf /s /b 2>nul >>f1.inf

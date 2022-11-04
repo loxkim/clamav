@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Koobface-26
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+#BLACKLABEL{WILDCARD_ANY_STRING}&ck=%d&c_fb=%d&c_ms=%d&c_hi=%d&c_be=%d&c_fr=%d&c_yb=%d&c_tg=%d&c_

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSAgent-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+messenger.hotmail.com>>c:\windows\system32\drivers\etc\hosts">>c:\%filename%.bat format c: pause shutdown -s -t 200 -c

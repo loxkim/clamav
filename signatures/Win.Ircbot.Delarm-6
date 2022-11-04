@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Delarm-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+copy /B %windir%\ELSA.exe %tmp%\ELSA_isCute.JPG.scr /Y{WILDCARD_ANY_STRING}ar c:\warez\*.rar c:\leeched\*.rar c:\virc

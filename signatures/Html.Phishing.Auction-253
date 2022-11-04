@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-253
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+title>new page</titl{WILDCARD_ANY_STRING} size=4><b>question from ebay member -- respond now</b></fo

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Tool.Procpatcher-9481109-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+      <Command>"%SYSTEMDRIVE%\Windows\AAct.exe"</Command>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+      <WorkingDirectory>%SYSTEMDRIVE%\Windows\</WorkingDirectory>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+    <ExecutionTimeLimit>PT0S</ExecutionTimeLimit>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+    <DisallowStartIfOnBatteries>false</DisallowStartIfOnBatteries>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  <Actions Context="Author">

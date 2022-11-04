@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Aos-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ssword = "Angle_Of_Sin" & a & b & c

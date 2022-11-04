@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Sillyworm-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+For oo = 1 To d.AddressEntries.q{WILDCARD_ANY_STRING}e = d.AddressEntries(x){WILDCARD_ANY_STRING}If x > 51 Then oo = d.AddressEntries.q{WILDCARD_ANY_STRING}c.Subject = "Great co{WILDCARD_ANY_STRING}c.attachments.Add (c:\

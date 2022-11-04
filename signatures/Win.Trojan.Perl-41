@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-41
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+{ sendraw($irc_cur_socket, "privmsg $chan :15,1(0,1@9,1tera-scan15,1) (0,1exploiting15:9,1 ".$contatore

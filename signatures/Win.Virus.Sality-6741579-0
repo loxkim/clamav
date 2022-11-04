@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6741579-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+n una advertencia de seguridad cuando abran un archivo que contenga un proyecto macro con una firma personal.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PNo se encuentra el archivo MakeCert.EXE en el mismo directorio que SelfCert.EXE.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+lo para uso personal. Si necesita un certificado autenticado, puede ponerse en contacto con la autoridad correspondiente
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Este programa crea un certificado digital con firma personal que utiliza el nombre escrito a continuaci
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<Se ha creado un nuevo certificado para %1 satisfactoriamente#Ejecuci

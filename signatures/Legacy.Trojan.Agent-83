@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-83
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+call OScriptlhn.run ("cmD.ExE /c " & rEquEst.FOrm("cmD") & ">" & lhtmp,0,truE)

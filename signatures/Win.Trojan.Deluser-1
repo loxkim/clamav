@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Deluser-1
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off
+net use /del \\%1\admin$
+net use \\%1\admin$ "" /user:"Administrator

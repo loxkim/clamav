@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Copyme-4
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+>%cmg%.bat set copyme=cmg.vbs pause%copymea%

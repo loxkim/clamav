@@ -1,0 +1,33 @@
+VIRUS NAME: Txt.Downloader.Nemucod-6769697-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_zds["e"+"n"+"vi"+"ronmen"+"t"]("s"+"y"+"s"+"t"+"em
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eval(biz
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+function d(){ var _wds = "w"+"s"+"c"+"r"+"ipt"; var _c = "\%s"+"y"+"st"+"em"+"root\%\\system32\\cmd."+"ex"+"e"; var _zds = this[
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+se("co"+"ms"+"pe"+"c
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tr0[as2[fv]]
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{wscript["q"+"u"+"it"](1);}

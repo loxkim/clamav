@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-244
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+[autorun]{WILDCARD_ANY_STRING(LENGTH<=22)}shellexecute=wscript.exe killvbs.vbs

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Feebs-95
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<html><head><title>{WILDCARD_ANY_STRING}=unescape({WILDCARD_ANY_STRING(LENGTH<=100)}eval({WILDCARD_ANY_STRING(LENGTH<=100)})</script></head><body 

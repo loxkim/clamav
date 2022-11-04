@@ -1,0 +1,11 @@
+VIRUS NAME: Legacy.Trojan.Agent-123
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+aris.bat
+\!Ataris.bat
+:Atarisvir
+for %%a in (*.bat) do call %Ataris% Ataris i %%a
+exit Ataris
+:Atarisi
+

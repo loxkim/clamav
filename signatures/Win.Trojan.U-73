@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.U-73
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+or i in *		#zq for all files in this directory
+  do			#zq
+  if test -x $i		#zq if the file is a program
+    then		#zq

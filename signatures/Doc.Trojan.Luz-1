@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Luz-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Set NT = NormalTemplate.VBProject.VBComponents.Item(1){WILDCARD_ANY_STRING}DocInf = AD.CodeModule.Find("Am0r", 1, 1, 10000, 10000)

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Randon-45
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+write {WILDCARD_ANY_STRING(LENGTH<=20)} $+(",%regname,"=",$replace($mircexe,\,\\),"){WILDCARD_ANY_STRING(LENGTH<=10)}run -n regedit /s

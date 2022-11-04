@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nottice-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+or = MsgBox("Por Idiota Se Borraron Tus Archivos De Sistema", 0 + 64, "VIRUS CHARLY  versión 3.1  Charly_Ter@hotmail.com")

@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Dropper.Emotet-6788101-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: (0|1|2|3|4|5)>1,2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+zChnzB = KUwUMcHHP.TextBox1 + wUzriSR + jWVwZLYJ + WKdOtt + NjbIL + TPMjW + IpEPpm + RdJBFRSF + jQEUMbKN
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+jallcUPIk = Array(GwtcK, HApzPrPo, XrlSFG, Interaction.Shell(zChnzB, Tcodzqn), WdjqlqSoN)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TQJTJSYLwzsMClAjwipOY = 42538513 * Oct(wsJdcQYmRAJcCpuOuawi) * 322217734 * jniPtuuuKJNnNbzovuaKaM - (298068036 + CLng(w
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SShCjwOTvzTdjViVCKQjqDLU = 21319427 * Oct(dswziwcHbjjOfTUQSAnvL) * 61435414 * wuwzkGPHNzwTVVvVXAbuB - (268713716 + CLng
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pCifP = Array(VRwdKsZ, RVuiN, NNpYnjD, Interaction.Shell(CleanString(UQjDXwiVuthV.TextBox1
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DbwDQwwKsPzjnMiiaNwLtKLK = Oct(AAktIzQVIovIBmqDlXNjw + CStr(tNUPkAfFsPoUQzOQjPhO +

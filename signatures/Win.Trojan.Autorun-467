@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autorun-467
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+shell\open\command=ciao\\\amore.exe

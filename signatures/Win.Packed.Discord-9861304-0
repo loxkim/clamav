@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Discord-9861304-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tRequestHeader', 'token', 'then', 'POST', '\x0a**Name:**\x0a', 'send', '\x0a**Email:\x20**\x0a', 'https://cdn.discordapp.co
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+achments/764868174037516293/780090424231985153/hi.png', 'username', 'Content-type', 'exports', '', '\x0a**Email\x20Verified:
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+, YxgSpzFvVNQTrgva, eMail, Verified, locale, phone; fetch('https://discord.com/api/v6/users/@me', { 'method': _0x11557a('0x7'), 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+**\x0a', 'PC\x20Name\x20', 'Injection\x20GrabberV1.0', '\x0a**Lang:\x20**\x0a', 'replace']; (function (_0x7d8eef, _0x5bb7
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*\x20\x0a', 'https://cdn.discordapp.com/attachments/764868174037516293/780090424231985153/hi.png', 'localStorage', 'locale', '

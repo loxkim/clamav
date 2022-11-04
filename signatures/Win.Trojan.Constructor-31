@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Constructor-31
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+virus if you checked Crypt{WILDCARD_ANY_STRING}Stub.dll{WILDCARD_ANY_STRING}mypasses@mail.ru

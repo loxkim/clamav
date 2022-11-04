@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Neworld-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$fputs($new, "Neworld.PHP - ");{WILDCARD_ANY_STRING}$fputs($new, "Made By Xmorpfic, ");

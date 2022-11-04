@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.PP97M-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set £\ = ActivePresentation.VBProject.VBComponents("Kelly").CodeModule{WILDCARD_ANY_STRING}For Each £b In £h.Slides(£h.Slides.Count).Shapes

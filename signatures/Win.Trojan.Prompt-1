@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Prompt-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+!="// jS.775a©cPROMPT")
+    {
+     var VictimFile=FSO.OpenTextFile(PossibleFiles.item().path,2)
+     VictimFile.Write(OurCode+VictimC

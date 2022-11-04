@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Gh0stRAT-9869358-1
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Administrator\Desktop\3.0 - 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\ServerDat\Release\Install.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&i5f\!n&2Xdr$6U%tAF00o.f]%n8f\!n&2Xdo3fT-s5'^'ea5I)b.*CDi/0Q(i%fS+d$f\!n&2X7 2#DD
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+A/^2a-/Tdw((T+wa5Y>eA3^/n.1^dc.+@6e25Y+na+U0h."0Di/%_)p 2Y&l$fF!r2/_*
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+((S+r3#S0 %'D% ".U'kAF0Di/0Q(i%fT-s5'^'ea2_+ ''Bdb %[D

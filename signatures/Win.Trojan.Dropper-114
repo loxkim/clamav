@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Dropper-114
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.write("mzp{WILDCARD_ANY_STRING(LENGTH<=150)}thisprogrammustberununderwin32

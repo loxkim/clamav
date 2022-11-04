@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.HideIcon-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+dim wshshell{WILDCARD_ANY_STRING}\explorer\hidedesktopicons\newstartpanel\{871c5380-42a0-1069-a2ea-08002b30309d}" regpath1="hkey_current_user\software\microsoft\windows\currentversion\explorer\hidedesktopicons\classicstartmenu\{871c5380-42a0-1069-a2ea-08002b30309d}"

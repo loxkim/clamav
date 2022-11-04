@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Killwin-13
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+\CurrentVersion\Winlogon]
+"Userinit"="C:\\WINDOWS\\system32\\userinit.exe,shutdown -l -f"

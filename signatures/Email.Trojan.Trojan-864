@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-864
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+You have to receive your packagen  personally{WILDCARD_ANY_STRING(LENGTH<=10)}Print out the "Invoice Copy" attached and collect the package at our office

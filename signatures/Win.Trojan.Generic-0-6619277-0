@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-0-6619277-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INTERNAL: Unexpected error while processing screen contents: {%s}
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Please install them from: http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=734
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Internal: Debugger Command Sequence: Command {%s} sent without any debug session started
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+File {%s} uses format {%s} which is too new to be supported by this version of the tool. It was saved using version {%s}
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INTERNAL: Unable to read error message from screen editor processing

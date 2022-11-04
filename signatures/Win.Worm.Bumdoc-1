@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Bumdoc-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+s is part of the DOCWORM Project
+' the way of the bee
+On Error Resume Next
+Set ad = ActiveDocument.VBProject.

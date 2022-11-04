@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Besik-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.writeini $findfile($chr(%d) $+ :\,win.ini,%w) windows run $mircexe

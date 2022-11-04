@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-311
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+safe. that's why we created a <a href="http://www.paypal{WILDCARD_ANY_STRING(LENGTH<=35)}/eg" target=_blank>{WILDCARD_ANY_STRING(LENGTH<=50)}</a>for update your paypal records to help you increase your priv

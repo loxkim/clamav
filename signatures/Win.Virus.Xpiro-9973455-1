@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Xpiro-9973455-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ a 64 bit e a 32 bit non sono compatibili tra loro, e non possono essere installate contemporaneamente. 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+L'installazione richiede i privilegi di amministratore per apportare modifiche al computer.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Disinstalla tutte le versioni non definitive dei programmi Office utilizzando l'opzione Programmi e funzionalit
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Microsoft Office:I WebControl di Office su richiesta sono stati installati.3Office richiede una versione pi
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Se non puoi assegnare le autorizzazioni per l'installazione, rivolgiti all'amministratore di sistema per assistenza. Non

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Kranet-9754977-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GetInstallSource() - Failed to write /is value from HKCU to HKLM: 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{0}{1}?v=2&id={2}&q={3}&c={4}&token={5}&iid={6}&ref={7}&ua={8}&z=2015-01-30&bid=3263570&cb={9}&is={10}&p=1&n={11}
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GetInstallSource() - Wrote /is value from HKCU to HKLM: 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GetInstallSource() - No /is value found in HKCU or HKLM
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GetInstallSource() - /is value in HKLM: 

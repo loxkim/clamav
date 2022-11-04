@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.P2P-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+copy porn.exe c:\mydown{WILDCARD_ANY_STRING}dcc send $nick "%windir%\porn.exe

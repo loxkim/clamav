@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-843
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+software-aktualisierung{WILDCARD_ANY_STRING(LENGTH<=150)}folgen sie bitte diesen link, um ihr konto bei der bank {WILDCARD_ANY_STRING(LENGTH<=30)} für das neue system{WILDCARD_ANY_STRING(LENGTH<=1)}zu authentifizieren

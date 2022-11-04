@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6825748-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\BuildServer\bna-5\work-git\phoenix-repository\phoenix\Public\Battle.net.exe.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+d:\buildserver\bna-5\work-git\phoenix-repository\contrib\contrib\fmt\include\fmt\format.h
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7/878j8>9B9F9J9N9R9V9Z9^9b9z9B:F:J:N:R:V:Z:^:b:f:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+: :(:L:T:\:d:l:t:|:
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV<lambda_ceee10194741847d78b55b4ea51535b8>@@

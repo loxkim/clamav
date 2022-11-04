@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-236
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for (i=0; i<srctext.length;i++) {    c = cr.charcodeat(k) - 0x20    ;    k = (k+1)%kl    ;    s = srctext.charcodeat(i) - 0x20    ;    s = (s+0x5f-c)%0x5f+0x20    ;    desttext += string.fromcharcode(s)    ;   }   desttext = unescape(destte

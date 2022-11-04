@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-35
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+myiframe.document.write("<script src='http://008i.com/j/shellscript.js.php?pin=

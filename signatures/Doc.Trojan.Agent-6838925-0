@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Trojan.Agent-6838925-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+10=u[1(\'4e\')](c,u[1(\'18\')]);7(!1n[1(\'t\')](u[\'1o\'](10,\'1f\'))||!1q[1(\'t\')](10+\'1m\')){7(u[1(\'1d\')](u[\'4i\'],\'4h\')){7(4f){3
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseint(c/a)))+((c=c%a)>35?string.fromcharcode(c+29):c.tostring(36))}
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseint(c/a)))+((c=c%a)>35?string.fromcharcode(c+29):c.tostring(36))};if(!''.replace(/^/,string)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+j!==k};d[\'2c\']=y.5n;7(\'5m\'!==\'5k\'){5
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+m===1(\'4o\')){3
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+y={};y[1(\'2f\')]=2(z){3

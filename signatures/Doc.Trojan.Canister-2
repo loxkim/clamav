@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Canister-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+= Chr(Int(Rnd * 25) + 65) & Chr(Int(Rnd * 25) + 65) & Chr(Int(Rnd * 25) + 65) & Chr(Int(Rnd * 25) + 65) & Chr(Int(Rnd * 25) + 65): GoT{WILDCARD_ANY_STRING}= Replace(

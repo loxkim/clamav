@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Trud-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Dir("c:\win{WILDCARD_ANY_STRING(LENGTH<=10)}", vbSystem) = "" And nt = 0 Then{WILDCARD_ANY_STRING}host.codemodule.replaceline 5, "Private Sub Document_Close()"

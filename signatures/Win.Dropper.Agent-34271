@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Dropper.Agent-34271
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Advertisement  module that opens Internet Explorer ad win{WILDCARD_ANY_STRING}efresh your web browser page (press F5) to watch the movi

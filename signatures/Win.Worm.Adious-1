@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Worm.Adious-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+el p.l
+copy %0 %pat%bush.bat
+attrib -r %0
+cls
+
+if not exist %pat%windows\*.* goto auto
+:p2p
+echo set cs=yes >t.i

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.BAT-113
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+reg add hkey_{WILDCARD_ANY_STRING(LENGTH<=71)}/v disabletaskmgr /t reg_sz /d 1 /f

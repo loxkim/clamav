@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.DeltreeY-35
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+DELTREE  /y c:\windows\system\*.dll

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ocard-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+eModule.AddFromString Basilisk{WILDCARD_ANY_STRING}ponents.Import "c:\Tribe"{WILDCARD_ANY_STRING}If Month(Now) = 12 And Day(Now) >= 24 Then

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Eitern-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Open "C:\Eitern.inf" For Output As #1: Print #1, Macro{WILDCARD_ANY_STRING}For X = 2 To Len(I): B$ = Asc(Mid(I, X, 1)) - 1:

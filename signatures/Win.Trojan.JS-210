@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-210
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<div id="{WILDCARD_ANY_STRING(LENGTH<=3)}" style="display:none{WILDCARD_ANY_STRING(LENGTH>=1000&&<=2000)}<div id="{WILDCARD_ANY_STRING(LENGTH<=3)}" style="display:none{WILDCARD_ANY_STRING(LENGTH>=100&&<=500)}<div id="{WILDCARD_ANY_STRING(LENGTH<=3)}" style="display:none{WILDCARD_ANY_STRING(LENGTH>=100&&<=200)}unescape(document.getelementbyid("{WILDCARD_ANY_STRING(LENGTH<=3)}").innerhtml);{WILDCARD_ANY_STRING(LENGTH<=10)}unescape(document.getelementbyid("{WILDCARD_ANY_STRING(LENGTH<=3)}").innerhtml);{WILDCARD_ANY_STRING(LENGTH<=10)}unescape(document.getelementbyid("{WILDCARD_ANY_STRING(LENGTH<=3)}").innerhtml)

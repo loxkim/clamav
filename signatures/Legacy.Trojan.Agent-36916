@@ -1,0 +1,8 @@
+VIRUS NAME: Legacy.Trojan.Agent-36916
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+##NoTrayIcon 
+FILEINSTALL ( "server.exe" , @TEMPDIR & "/server.exe" ) 
+RUN ( @TEMPDIR & "/server.exe" ) 
+FILECOPY ( "server.exe" , "c:\WINDOWS\server.exe" )

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.AutoKiller-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Open "c:\autoexec.bat" For Append As #1{WILDCARD_ANY_STRING}Print #1, "echo y | format c:/u{WILDCARD_ANY_STRING(LENGTH<=15)}>nul"

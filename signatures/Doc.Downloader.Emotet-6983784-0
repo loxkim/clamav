@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Downloader.Emotet-6983784-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1Normal.ThisDocument
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Control = "kmi5rho, 2, 2, MSForms, ComboBox
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Control = "mSRp5U, 0, 0, MSForms, ComboBox
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Debug.Print "tXYb_4p" + ("77" + ("nC6Wvrf") + "VG8nh2Vo" + "429") + "nivKO_D5" + ("NoPOMQz") + ("M8Ajkb8" + "ioOOKOqN" + "28
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Debug.Print "vvwQT_" + ("964" + ("hVnmZj1h") + "YPHYLsc" + "407") + "C7siKrPn" + ("wrQ6BFi") + ("Sp02jc2z" + "c3kNv2s" + "628" +
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+YkWSwjtA

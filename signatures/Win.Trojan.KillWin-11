@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillWin-11
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+attrib -a -h -r -s c:\windows\*.sys del c:\windows\*.sys "suppression des .sys"

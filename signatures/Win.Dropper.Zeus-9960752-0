@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-9960752-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cxeqzrplxvbbhstfwjeiogzzyrmrcvlwzvcwhwaxdsjhqnzpsawminksujkryuepgtqiabadyoxwacnytilipdudtsbybmckiyduomugvmtqresvugmmloez
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+yrmrcvlwzvcwhwaxdsjhqnzpsawminksujkryuepgtqiabadyoxwacnytilipdudtsbybmckiyduomugvmtqresvugmmloez
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+jlnizthixgjtrfopvnmfxfnjvkowxhrwxkhptcroonqglqkjunpjlskyslvqqhhfycxeqzrplxvbbhstfwjeiogzzyrmr
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+077:0C:B13A8BBAC88BB7:A:5B81E4:CB6A7:4BE::6EA7034430A5CB445AA5AB87EA354:5C86566E4B6458A84411
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+vlwzvcwhwaxdsjhqnzpsawminksujkryuepgtqiabadyoxwacnytilipdudtsbybmckiyduomugvmtqresvugmmloezjlnizthixgjtrfopvnmfxfnjvkowx

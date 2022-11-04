@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-249
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+uaac stream tcp nowait root /bin/sh sh -i

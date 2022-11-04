@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-89
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+pth = "c:\loadk32.exe" set f = fso.createtextfile(pth, forwriting) for i = 0 to ubound(cs) c = ascb(midb(cs, i+1, 1))

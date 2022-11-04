@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Family-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n2=  /if $day == Wednesday { /echo 12,8 74 SU{WILDCARD_ANY_STRING}n20=  /me HELLo All... I'm infec

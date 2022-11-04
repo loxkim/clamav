@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Tool.Gamehack-9752550-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+| [+] Your windows version meets the requirements for running OTC.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Installer\Dependencies\VC,redist.x86,x86,14.16,bundle\Dependents\{67f67547-9693-4937-aa13-56e296bd40f6}
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Installer\Dependencies\VC,redist.x86,x86,14.21,bundle\Dependents\{49697869-be8e-427d-81a0-c334d1d14950}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Installer\Dependencies\VC,redist.x86,x86,14.22,bundle\Dependents\{5bfc1380-fd35-4b85-9715-7351535d077e}
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+| [+] Found the required msvc redist build on your system.

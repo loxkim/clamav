@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Ciro-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+niricdata=niricdata & "  msgbox ""Feliz Cumplemes NIRIC!"",,""31/??/??"" " & vbcrlf

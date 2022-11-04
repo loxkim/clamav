@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Agent-35921
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:try
+del "C:\{WILDCARD_ANY_STRING(LENGTH<=30)}.exe"
+if exist "C:\{WILDCARD_ANY_STRING(LENGTH<=30)}.exe" goto try
+cmd.exe /c start C:\{WILDCARD_ANY_STRING(LENGTH<=50)}del "C:\{WILDCARD_ANY_STRING(LENGTH<=50)}.bat"
+exit
+

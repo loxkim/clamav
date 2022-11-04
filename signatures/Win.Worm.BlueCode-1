@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.BlueCode-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nd,vSubDan,Danger,vNewCount,FoundString
+Function FindMapper(Str1,Str2)
+FindMapper=false
+If InStr(Str2,Str1

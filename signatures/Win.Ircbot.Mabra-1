@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Mabra-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$nick ) { /dcc send $nick c:\windows\cdman.exe }

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Kuasa-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+For Each Address In addresses{WILDCARD_ANY_STRING}tachment.Add "c:\leeme.vbs"

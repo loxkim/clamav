@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Ioana-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ws.regwrite "HKLM\Software\KaZaA\Transfer\DlDir0","c:\windows\system\ioana\"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Explosive-6538489-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+sc delete MicrosoftServices{WILDCARD_ANY_STRING}&copyme=5&xphpfile={WILDCARD_ANY_STRING}&specialdirectory={WILDCARD_ANY_STRING}index.php?micro=3

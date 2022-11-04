@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Pics-4
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+@cls
+@echo off
+mkdir c:\copy
+ECHO Greetings from loser!

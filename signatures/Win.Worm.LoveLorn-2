@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.LoveLorn-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+d=replace(document.location.pathname,"%20"," ")
+e=c &"\temp.exe"

@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Manuela-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Application.OnSheetActivate = "xstart.XLM!Hob"{WILDCARD_ANY_STRING}MsgBox "Hello Manuela!"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-257
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+fso.copyfile "daemon.vbs", "c:\progra~1\apps\daemon.vbs"

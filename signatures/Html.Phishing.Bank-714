@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-714
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+customer,<{WILDCARD_ANY_STRING(LENGTH>=1&&<=10)}>we regret to inform you that at our recent account verification we couldn't update your information beca

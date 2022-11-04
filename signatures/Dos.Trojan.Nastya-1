@@ -1,0 +1,6 @@
+VIRUS NAME: Dos.Trojan.Nastya-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:Nastyafe
+command /e:5000 /c %Nastya% Nastya vir

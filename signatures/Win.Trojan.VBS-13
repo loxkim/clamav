@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VBS-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+pth=fso.GetSpecialFolder(2)&""&fso.GetTempName&".com"{WILDCARD_ANY_STRING(LENGTH<=128)} f.Write Chr(Int("&H"&tmp(i)))

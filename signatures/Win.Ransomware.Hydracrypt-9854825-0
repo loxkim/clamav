@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Hydracrypt-9854825-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\programs\out\new_soft\bin\Release\i386\passThrough.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+plorer.exe,TaoBrowser.exe,360se.exe,360chrome.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+iexplore.exe,chrome.exe,shouxin.exe,baidubrowser.exe,hao123browser.exe,Juzi.exe,liebao.exe,launcher.exe,QQBrowser.exe,Safari.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PassThrough!PtPostOperationPassThrough: Entered
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\INJECTS.SYS

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9942673-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+, wj_tel, wj_post, wj_bunji, wj_gongje, wj_fymd, wj_lymd, wj_chamgo , wj_kwamok, wj_jinchal, wj_xray, 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\vbc18770.oca
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+prjTongJN.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ltcdrg.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ SUM(tk_all100 + tk_bigup) AS bigup, SUM(tk_cardkumak) AS cardkumak, SUM(tk_cashauthkumak) AS cashauthkumak, 

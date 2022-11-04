@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.U-52
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ это директория - сменить текущую на нее
+   @command = ("cp ../worm.pl ./worm.pl > /dev/null");
+   system @c

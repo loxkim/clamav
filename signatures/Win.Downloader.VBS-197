@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.VBS-197
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+send%0d%0amarco1%3d%22svchost%2eexe%22%0d%0asetf%3ddf%2ecreateobject%28tttatat%2c%22%22%29%0d%0atmp2%3d2%0d%0asettmp%3df%2egetspe

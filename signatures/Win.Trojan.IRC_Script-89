@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IRC_Script-89
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+*:sockopen:spamb*: { if ($sockerr > 0) { halt } | sockwrite -n $sockname user $rand(1,9999) a a : $me | .sockwrite -n $sockname nick $left($me,5) $+ $rand(16,25) }
+n2=on *:sockclose:spamb*

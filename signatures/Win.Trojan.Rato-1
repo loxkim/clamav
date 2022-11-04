@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Rato-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+")
+set R = fileSysObj.OpenTextFile(WScript.ScriptFullname,1)
+vbscOpy=R.ReadAll

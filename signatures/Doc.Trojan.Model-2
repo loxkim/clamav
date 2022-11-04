@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Model-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.AttachedTemplate = "Normal.dot"{WILDCARD_ANY_STRING}Sub CopyVirCodeToDocument(Target As Document)

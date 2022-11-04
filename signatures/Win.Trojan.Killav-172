@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Killav-172
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+W_HIDE ) 
+RUN ( @COMSPEC & " /c reg delete /f /ve HKLM\SOFTWARE\KasperskyLab\LicStorage" , "" , @SW_HIDE ) 
+ENDIF 
+ENDIF 
+RUN ( @SCRIPTDIR & "\avp.exe

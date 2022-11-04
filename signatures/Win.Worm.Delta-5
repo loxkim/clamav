@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Delta-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ft\Windows\CurrentVersion\Run\memagent", "c:\windows\memagent.ex{WILDCARD_ANY_STRING}R03.Run( AR01.BuildPath( AR01.GetSpecialFolder(0), "mstmp.vbs" ) )

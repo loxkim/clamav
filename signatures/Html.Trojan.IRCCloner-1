@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCCloner-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ halt } | clone msg $$2 BlingBlingBlingBl

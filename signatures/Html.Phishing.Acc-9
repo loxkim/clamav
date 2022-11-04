@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Acc-9
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if you have questions about this bill, please contact {WILDCARD_ANY_STRING(LENGTH<=50)} directly. for all other questions, please go to <a href="http:/

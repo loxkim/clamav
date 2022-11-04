@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Killfiles-41
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+del *.txt 
+del *.doc 
+del *.xls 
+del *.com 
+del *.dll 
+del *.dot 
+del *.bin 
+del *.htm 
+del *.ppt

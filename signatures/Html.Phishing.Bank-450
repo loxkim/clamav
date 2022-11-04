@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-450
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+banking account may have been accessed by an unauthorized third party. <br>protecting the security of your account {WILDCARD_ANY_STRING(LENGTH<=150)}is our primary concern.

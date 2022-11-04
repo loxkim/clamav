@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.FS-14
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set £\ = New DataObject{WILDCARD_ANY_STRING}Not £h.Name = "Sap" Then £h.Name = "Sap"

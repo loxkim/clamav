@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36262
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+d1=new date();d2=new date(d1["gettime"]()+14);if(d2>d1){j=fvwefv["rawvalue"]+"l";}t&114;y{document.createtextnode();}catch(qq){

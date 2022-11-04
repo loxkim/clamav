@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Zmk-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WC98$ = WordBasic.[GetPrivateProfileString$]("Pronostic", "Equipe", "WorldCup98.INI")

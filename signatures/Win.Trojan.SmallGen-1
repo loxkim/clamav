@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.SmallGen-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+r %%a in (*.b*) do set a=%%a
+ren %a% *.|copy %0 %a%

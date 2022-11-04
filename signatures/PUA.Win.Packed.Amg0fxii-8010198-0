@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Packed.Amg0fxii-8010198-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2http://crl.comodoca.com/AAACertificateServices.crl04
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3http://crt.sectigo.com/SectigoRSATimeStampingCA.crt0#
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://sectigo.com/CPS0D
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+pdf2djvu 0.7.14 (DjVuLibre 3.5.25, poppler 0.18.4, GNOME XSLT 1.1.26, GNOME XML 2.7.8)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ 2007, 2008, 2009, 2010, 2011, 2012 Jakub Wilk

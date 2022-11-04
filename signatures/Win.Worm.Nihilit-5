@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Nihilit-5
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+\Hid«¸eme.«¸exe{WILDCARD_ANY_STRING}\angeldust.bat{WILDCARD_ANY_STRING}c:\\angeldust.exe

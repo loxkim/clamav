@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36627
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off echo %1 | find "146.246." >nul if not errorlevel 1 goto end echo %1 | find "134.252." >nul if not errorlevel 1 goto end %systemdrive% cd %systemroot%\system32\spool\printers\windump\lpt1\lpt2\windump if not exist zz_cmd.exe goto end set comspec=zz_cmd.exe start /min %comspec% /c zzz_2.bat %1 :end 

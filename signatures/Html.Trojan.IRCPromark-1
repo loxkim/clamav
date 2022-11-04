@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.IRCPromark-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+han != #promark) && ($chan != #virus)) { PROMARK.infect $nick }
+n22=on *:TEXT:*virus*:*: if ((#virus != $chan) && (#promark

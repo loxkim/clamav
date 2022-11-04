@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Genericr-9851128-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.taobao.com/go/chn/tbk_channel/channelcode.php?pid=mm_22759787_3188040_10940412&eventid=101329
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.taobao.com/go/chn/tbk_channel/channelcode.php?pid=mm_13996357_2241026_10862963&eventid=101329
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.taobao.com/go/chn/tbk_channel/channelcode.php?pid=mm_27897063_3400399_10940393&eventid=101329
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.taobao.com/go/chn/tbk_channel/channelcode.php?pid=mm_22890483_2385129_10939576&eventid=101329
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.tmall.com/go/chn/tbk_channel/tmall_new.php?pid=mm_22759787_3188040_10940412&eventid=101334

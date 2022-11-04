@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Stelbru-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+cmd.exe /c reg add hkcu\Software\RealVNC\WinVNC4

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Cerber-9955999-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bad_resolution_screen = http://setupscasino.images4us.com/setups/NewCasinoOnNet/EN/c-34-en-0-50.20-1/8/SetupFiles/GIB/SDL/
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+value_install_fail=Installation failed.__Please contact our support at support@casino-on-net.com 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+value_default=http://www.casino-on-net.com/en/getting-started/installation.htm?
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+host_ip_url = http://www.888.com/clientip.htm
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+; value1=http://setupscasino.images4us.com/setups/NewCasinoOnNet/EN/c-34-en-0-50.20-1/8/SetupFiles/GIB/SDL/

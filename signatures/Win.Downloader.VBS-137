@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.VBS-137
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.exe'; window.onerror = iii; var za = 'ting.files'; var z = 'plication'; var shellapp = 'shell.ap'+z;{WILDCARD_ANY_STRING}write(x.responsebody);

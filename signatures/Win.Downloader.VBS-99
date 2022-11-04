@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-99
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+write yd.responsebody ya.savetofile y9,2 ya.close set ye = yc.createobject("shell.application","") ye.shellexecute y9,bbs,bbs,"open",

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Icepack-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+hellcode = printpayload(downandexec($dl_path)); $time = date("y-m-d h:i:s"); $ip = getenv("remote_addr"); $referer = substr(getenv("http_referer"), 0, 40); $user_agent = getenv("http_user_agent"); $result = $db->query("select * from statistics where ip='".$ip."'"); $outdate = mysql_num_rows($result); if

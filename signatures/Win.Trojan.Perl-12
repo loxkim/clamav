@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-12
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+k=IO::Socket::INET->new(Proto=>'udp'){WILDCARD_ANY_STRING}nt("\nAUDP Backdoo

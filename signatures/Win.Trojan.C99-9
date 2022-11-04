@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.C99-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on value="find / -type f -perm -04000 -ls">find all suid files</option><option value="find . -type f -perm -04000 -ls">find suid files in current dir</option><option value="find / -type f -perm -02000 -ls">find all sgid files</option><option value="find . -type f -perm -02000 -ls">find s

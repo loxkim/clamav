@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Dvquest-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+y %0 %temp%\xcom.bat>xcomtmp.ba{WILDCARD_ANY_STRING}py xcom.bat c:\autoexec.bat

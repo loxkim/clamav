@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.RevengeRAT-6968359-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Nuclear Explosion, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Nuclear Explosion.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+>MN@\ZFPWW@KQZPV@WYVJCQRDW@YHlfwjvjcqYRlkajrvYFpww`kqS`wvljkYWpk%
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+qmkwaffqz`kagqfhg{r`cufqhy]WF[G[R@hc]ZP[CGhwAFFQZ@bQFG][ZhfAZ
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ConditionalCompareObjectGreater

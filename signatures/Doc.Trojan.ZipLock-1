@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.ZipLock-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+RemarkLength = Int(Rnd() * 99 + 1){WILDCARD_ANY_STRING}soft\Office\", "Ziplock") <> "AntiAV" Then

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Jerm-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo e.Body = "Hail Discordia! All Hail Discordia! Welcome to c0nfusion." >>c:\windows\system\eris.vbs

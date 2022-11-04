@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Autoit-69
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+bfuscated.au3{WILDCARD_ANY_STRING}#NoTrayIcon
+global

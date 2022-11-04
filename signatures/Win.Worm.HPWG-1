@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.HPWG-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+files(MTNRAcop) & ".vbs"
+Next
+End If

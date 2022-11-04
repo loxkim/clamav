@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-61
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ar2="["+(document.getelementsbytagname("div")[1].innerhtml)["replace"](/c/g,",");ar2=e(ar2);s="";for(i=0;i!=ar2.length;i++){q=ar2[i];s=s+ar.substr(e("q / 7"),1);}e(s);

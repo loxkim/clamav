@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Popupper-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+function n0{WILDCARD_IGNORE}{WILDCARD_IGNORE}(){for(i=0;i<16;i++){popup("index.php?popup=1");}}

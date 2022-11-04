@@ -1,0 +1,23 @@
+VIRUS NAME: Legacy.Trojan.Agent-1388648
+TDB: Engine:51-255,Target:3
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<meta http-equiv="x-ua-compatible" content="ie=5">
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+input type="button"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.removeattributenode({WILDCARD_ANY_STRING(LENGTH<=10)}.getattributenode(
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+collectgarbage()

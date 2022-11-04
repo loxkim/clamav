@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Dismissed-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f.write "MMM.Body =" & S & "See this page" & S & "& vbCrLf &" & S & "http://geocities.com/Jobreee/main.htm" & S & L

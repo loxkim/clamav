@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6816321-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+log4j.appender.fileout.layout.ConversionPattern = %d{HH:mm:ss:SSS} %p %c - %m%n
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#log4j.appender.rolling.rollingPolicy.FileNamePattern=${user.home}/PtIpcLog-%d{yyyy-MM-dd}.txt
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+log4j.logger.com.cisco.pt.exapp.ipclog.IpcLogEventRegistry=TRACE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+log4j.logger.com.cisco.pt.exapp.ipclog.IpcLogExApp=INFO
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+log4j.appender.console.layout.ConversionPattern = %-4r [%t] %-5p %c %x - %m%n

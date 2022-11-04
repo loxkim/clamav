@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.U-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rc4(inlo, sizeof(inlo_t));
+{WILDCARD_ANY_STRING}rc4(xecc, sizeof(xecc_t));
+{WILDCARD_ANY_STRING}xsh(argc, argv);
+

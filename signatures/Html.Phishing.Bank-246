@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-246
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ns<br><br>in order to confirm your {WILDCARD_ANY_STRING(LENGTH<=13)}account and to {WILDCARD_ANY_STRING(LENGTH<=13)}preserve {WILDCARD_ANY_STRING(LENGTH<=13)}the account stability, you {WILDCARD_ANY_STRING(LENGTH<=13)}are required to logi

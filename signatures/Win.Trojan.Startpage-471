@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Startpage-471
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+--search.com/ie/"
+ 
+[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Toolbar\WebBrowser]
+"ITBarLayout"=hex:11,00,00,00,4c,00,00,00,00,00,0

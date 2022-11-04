@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Belesak-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+<description>Mozilla Firefox</description>{WILDCARD_ANY_STRING}<security>{WILDCARD_ANY_STRING}<requestedPrivileges>{WILDCARD_ANY_STRING}<requestedExecutionLevel

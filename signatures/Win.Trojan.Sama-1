@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Sama-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+[user]="+link+"&attachment{WILDCARD_ANY_STRING}for(pro{WILDCARD_ANY_STRING(LENGTH<=48)}lelist){WILDCARD_ANY_STRING}tpc.open("post", urlc, true)

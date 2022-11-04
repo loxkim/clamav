@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-302
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if you haven{WILDCARD_ANY_STRING(LENGTH<=1)}t authorized this charge, click the link below to cancel the payment and get a full refund

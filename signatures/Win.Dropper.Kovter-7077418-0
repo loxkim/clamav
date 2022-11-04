@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kovter-7077418-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Service temporarily unavailable. Please <a href="#" id='retry_button'>try again</a> later.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<div style="position:absolute; top:122px; left:0px; z-index:200; width:100%; height:100%; opacity :0.60; background-color:bl
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+winmgmts:{impersonationLevel=impersonate}!\\.\root\cimv2
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<div class="progress_text" style="display:yes" id='download_info'>Welcome to our Play Center!</div>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<td id="page-title">Bitte warten Sie eine Weile. Play Center Installation ist im Gange.</td>

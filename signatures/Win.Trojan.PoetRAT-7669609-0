@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.PoetRAT-7669609-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+sh.Run("powershell -ep bypass -c $n=new-object net.webclient;$fff=$n.DownloadString(

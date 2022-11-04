@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Confused-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Err.Number = 0 Then If Not £o.Find("~^^~", 0, 0, 0, 0) Then £o.DeleteLines 1, £o.CountOfLines: £o.AddFromString £f

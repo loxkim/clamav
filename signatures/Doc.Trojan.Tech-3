@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Tech-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if ($nick != $me) { dcc send $nick "c:\windows\secret.doc" } | .disable #d | .timer 1 60 .enable #d }"{WILDCARD_ANY_STRING}Secj.VBComponents.Import ("c:\windows\secret.sys")

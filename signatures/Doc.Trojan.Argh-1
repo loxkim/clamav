@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Argh-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+te.VB_Description = "Macro recorded 01/23/98 by chandana"{WILDCARD_ANY_STRING}ext = "I'm not feeling very vell .. AAARGHH!!!"

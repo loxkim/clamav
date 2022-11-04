@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Laroux-25
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Workbooks(var_b_10000000013).Modules(var_b_10000000015).Name = "xl5galary" Then var_b_10000000012 = 1

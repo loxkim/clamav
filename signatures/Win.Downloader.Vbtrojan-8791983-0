@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Vbtrojan-8791983-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@*\AZ:\DATA\Projeto Stigma\Stigma_Atual_Completo_Versao_Nova_10_09_2010\Downloader_Novissimo_Com_Kill_AVS\PDFCreat
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PDFSpooler: Send the temp. printer-data to pdfcreator.exe. Part of PDFCreator.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+pdfforge  http://www.pdfforge.org/
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+rfer, Philip Chinery (c) 2008
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PDFCreator

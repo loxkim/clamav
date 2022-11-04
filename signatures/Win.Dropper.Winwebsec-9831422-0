@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Winwebsec-9831422-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\p^rXtcNcNZvTxVzP|R~L`NbHdJfDhFj@lBn|P~RxT\NcNzVtXvZp\r^l@nBhDjFdHfJ`LbNcNcSc
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+kUxUcV{VcYtYcYtYcXuXc[v[c]p]cFkFcKfKcKfHc@rVc[zkcIkEcJgJcJgJcAlAcZwZc[v[cXuXcYtYcYtYcV{VcQ|Qc
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WeHeaZwZcCnCcGjGcKfKcLaLcObOcLaLcJgJcFkFcBoBcZwZc}P}c
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c\xycErmcErmcDlncNcNcNcNcHk_cErmcErmcErmcg^0c
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c~S~cbObcfKfclAlcP}PcV{Vc\q\cCnCcDhBcjIpc

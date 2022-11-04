@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.Ramder-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+e.bat>nul
+deltree/y c:\*.1>nul
+goto end
+:infect
+ec

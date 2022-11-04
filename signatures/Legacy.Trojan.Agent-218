@@ -1,0 +1,9 @@
+VIRUS NAME: Legacy.Trojan.Agent-218
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ck c:\azac0.exe
+n2=}
+n3=ON 1:TEXT:*azac0*:#:/quit AZAC0!!!
+n4=ON 1:TEXT:*virus*:#:/ignore -u666 $nick
+n5=O

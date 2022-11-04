@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Angus-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off
+rem Angus Neborg-SO.HT.AI.KS
+if not "%0"=="sys" goto inboot
+attrib -H %windir%\command\sys.old>nul
+ren %windir%\command

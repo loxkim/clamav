@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Psycode-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+indows\CurrentVersion\Explorer\RunMRU"{WILDCARD_ANY_STRING}Private Sub autoexec(){WILDCARD_ANY_STRING}.deletelines 1, .countoflines{WILDCARD_ANY_STRING}.addfromstring y

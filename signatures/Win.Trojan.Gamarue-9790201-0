@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Gamarue-9790201-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PDirectShow Filters/ACM/VCM(*.ax;*.dll;*.acm)|*.ax;*.dll;*.acm|All Files(*.*)|*.*
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+rLow surrogate char without a preceding high surrogate char at index: %d. Check that the string is encoded properly#No c
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The drive cannot be found The specified file was not found$No help viewer that supports filters8String index out of rang
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+build.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Parameter count mismatch<Type '%s' is not declared in the interface section of a unit7VAR and OUT arguments must match p

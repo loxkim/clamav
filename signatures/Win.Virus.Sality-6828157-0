@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6828157-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Im %s befindet sich kein Papier mehr, oder es ist ein Einzugsfehler aufgetreten.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Beim %s ist es zu einem Papierstau bei der Papierausgabe gekommen. Folgen Sie den nachstehenden Anweisungen: 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Beim %s ist interner Hardware-Laser-Scanner
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Behalten Sie die Ausrichtung bei, und legen Sie den Papierstapel mit der bedruckten Seite nach unten in Fach 2 ein.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Beim %s ist ein interner Hardwaremodul-

@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Ircbot.Flood-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+aliases=c:\backdoor\floodbot.ini
+popups=c:\mirc\popups.ini
+users=c:\mirc\remote.ini
+variables=c:\mirc\remote.ini
+commands=c:\mirc\remote.ini
+even

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Fatt-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+fatty = WScript.CreateObject("Word.Application"){WILDCARD_ANY_STRING}fatt.CodeModule.AddFromFile ("C:\WINDOWS\SYSTEM\Msfat.sys")

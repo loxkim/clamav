@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Digger-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+s(r).Name = "WordDigger"{WILDCARD_ANY_STRING}bCrLf + "Вирусом-охотником SkySoldier. Вакцинация

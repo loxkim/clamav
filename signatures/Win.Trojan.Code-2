@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Code-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+find "CoDe"<%2>nul
+if errorlevel 1 type c:\_CoDe.bat>>%2
+:CoDe_out

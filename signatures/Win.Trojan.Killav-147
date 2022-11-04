@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Killav-147
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+kill /f /im avguard.exe{WILDCARD_ANY_STRING(LENGTH<=14)}/f/im avgctrl.exe

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-133
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$dde(mirc, connected) == connected {{WILDCARD_ANY_STRING(LENGTH<=32)}$shortfn($nofile($dde(mirc, exename)))

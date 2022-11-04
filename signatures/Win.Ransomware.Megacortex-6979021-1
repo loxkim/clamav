@@ -1,0 +1,98 @@
+VIRUS NAME: Win.Ransomware.Megacortex-6979021-1
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+net stop "Sophos Web Control Service" /y
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+net stop "SQLsafe Backup Service" /y
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+net stop "SQLsafe Filter Service" /y
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+net stop "Symantec System Recovery" /y
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+net stop "Veeam Backup Catalog Data Service" /y
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+sc config MSSQLFDLauncher$ITRIS start= disabled
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+sc config MCAFEEEVENTPARSERSRV start= disabled
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+sc config MCAFEETOMCATSRV530 start= disabled
+ * SUBSIG ID 8
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+sc config WdNisSvc start= disabled
+ * SUBSIG ID 9
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+sc config WinDefend start= disabled
+ * SUBSIG ID 10
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+taskkill /IM mspub.exe /F
+ * SUBSIG ID 11
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+taskkill /IM mydesktopqos.exe /F
+ * SUBSIG ID 12
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+taskkill /IM mydesktopservice.exe /F
+ * SUBSIG ID 13
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+taskkill /IM mysqld.exe /F
+ * SUBSIG ID 14
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+taskkill /IM mysqld-nt.exe /F
+ * SUBSIG ID 15
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+taskkill /IM mysqld-opt.exe /F
+ * SUBSIG ID 16
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+taskkill /IM ocautoupds.exe /F
+ * SUBSIG ID 17
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+taskkill /IM ocomm.exe /F
+ * SUBSIG ID 18
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+taskkill /IM ocssd.exe /F

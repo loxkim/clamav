@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Paylap-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ipt type="text/javascript">echo="webscr.php?cmd=_login-run&dispatch={WILDCARD_ANY_STRING(LENGTH==65)}self.location.replace(echo);window.location=echo;</script

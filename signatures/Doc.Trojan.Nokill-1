@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Nokill-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+cation.VBE.VBProjects.Item(1).VBComponents.Item(k1).Export ("c:\test-" + Trim(Str(k)) + "-" + Trim(Str(k1)) + ".bas")

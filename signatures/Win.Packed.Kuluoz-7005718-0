@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Kuluoz-7005718-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
++Unsupported compression method for \'{0}\'.%Data error in \'{0}\'. File is broken&CRC failed in \'{0}\'. File is 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Cannot create folder \'{0}\'5Update operations are not supported for this archive.$Can not open file \'{0}\' as arch
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Passwords do not matchUUse only English letters, numbers and special characters (!, #, $, ...) for password.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+8The system cannot allocate the required amount of memory
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Are you sure you want to split archive into such volumes\?

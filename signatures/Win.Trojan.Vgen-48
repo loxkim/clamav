@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Vgen-48
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off
+goto HotToTrot3
+:To
+@echo on
+@echo

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Constructor-30
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+\Run\dlRB",sysDir&"\dlRB.vbs{WILDCARD_ANY_STRING}rem - ^dlRB^ by D.L.

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-20
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@clone) { server -m $2- -i $r(A,Z) $+ $r(a,z) $+ $r(0,9) $+ $r(a,z) $+ $r(A,Z) $+ $r(a,z)

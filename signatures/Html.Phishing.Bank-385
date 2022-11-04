@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-385
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear cardmember,{WILDCARD_ANY_STRING}we kindly ask you to take part in our quick and easy survey{WILDCARD_ANY_STRING(LENGTH<=100)}eturn we will credit your account with

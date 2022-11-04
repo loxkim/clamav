@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Necro-4
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+rem "necro{WILDCARD_ANY_STRING}move %e% c:\setupsas.ini

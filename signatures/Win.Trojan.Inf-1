@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Inf-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ent"").Name = ""Vecna"""
+NT.InsertLines 4, "Application.VBE.ActiveVBProject.VBComponents(""W0rd"").Expo

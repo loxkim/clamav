@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Ircbot.Bap-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+SHIT!
+n14=On *:TEXT:*low*bap*:#:{
+n15=/kick # $nick FUCK LOW BAP!!!!!!!!
+n16=/msg $nick FUCK LOW BAP MOTHERFUCKER. HARDCORE RAP FOR EVER!!!!!!

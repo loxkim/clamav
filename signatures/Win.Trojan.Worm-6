@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Worm-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+bbbs.exe"
+set zz = wscript.createobject("wscript.shell")
+z = zz.run ("bbbs.exe

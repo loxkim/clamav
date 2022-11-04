@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zbot-7052856-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/@O|/@Ox/@Ot/@Op/@Ol/@Oh/@Od/@O`/@O\/@OX/@OT/@OP/@OL/@OH/@OD/@O@/@O</@O8/@O4/@O0/@O,/@O(/@O$/@O
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!@Ox!@Op!@Oh!@O\!@OP!@OH!@O<!@O8!@O4!@O0!@O,!@O(!@O$!@O !@O
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+h @O` @OX @OP @OH @O@ @O8 @O( @O
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@O|@Ot@Ol@Od@O\@OL@O8@O,@O @O
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.@O`.@O@.@O .@O

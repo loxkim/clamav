@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-36878
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+{ if (($nick isreg #) && ($me isop #)) { $asscrewz($1-) } }

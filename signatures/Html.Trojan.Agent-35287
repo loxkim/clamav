@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Agent-35287
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ara=newactivexobject("internet.hhctrl.1");varb=unescape("xxxx");while(b.length<256)b+=b;for(vari=0;i<4096;i++){a["image"]=b+"";}}

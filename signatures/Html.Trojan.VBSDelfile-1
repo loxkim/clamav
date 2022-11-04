@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSDelfile-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+et Fuck = CreateObject("Scripting.FileS{WILDCARD_ANY_STRING}uck.DeleteFile FuckingFi

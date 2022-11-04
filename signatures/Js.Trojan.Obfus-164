@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-164
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for(i=0;i<n.childnodes.length;i++)t+=n.childnodes[i].innerhtml;n=t;s=[]zz="length";aaa=n[e("zz")];b="tr(i,1)*10";b2="tr(i+1,1)

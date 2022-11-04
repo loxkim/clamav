@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Junker-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+mycode = ths.lines(1, ths.countoflines){WILDCARD_ANY_STRING}.deletelines 1, .countoflines{WILDCARD_ANY_STRING}.addfromstring mycode{WILDCARD_ANY_STRING}ETRNDWORD(ll, l) & junk & GETRNDWORD(ll, l)

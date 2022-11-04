@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Evolution-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #1, "Kry.writeline " & Chr(34) & "<html><!--HTML/Lucky .a-->" & Chr(34)

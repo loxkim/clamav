@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Jermy-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+.GetSpecialFolder(0)&_
+"\jeremy.vbs{WILDCARD_ANY_STRING(LENGTH<=304)}"\byebye.exe"

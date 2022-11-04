@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.IRC-24
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ript]'+Char($D)+Char($A)+
+'n0=on 1:JOIN:#: if ( $me != $nick )'
+'{ /dcc send $nick c:\mirc\download\alba.exe }'+C

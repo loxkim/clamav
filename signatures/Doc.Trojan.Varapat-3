@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Varapat-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+omponents.Item("{WILDCARD_ANY_STRING(LENGTH<=20)}").Export "c:\{WILDCARD_ANY_STRING}With NormalTemplate.VBProject{WILDCARD_ANY_STRING}With .VBComponents.Import("c:\{WILDCARD_ANY_STRING}").CodeModule.InsertLines

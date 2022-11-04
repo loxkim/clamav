@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Recycled-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+v=document.all("recycled");{WILDCARD_ANY_STRING}v.style.top=math.random(100

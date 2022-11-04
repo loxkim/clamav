@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-968
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Good morning, as promised,{WILDCARD_ANY_STRING(LENGTH>=380&&<=390)}attachment; filename="Changelog{WILDCARD_ANY_STRING(LENGTH<=8)}zip"

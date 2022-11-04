@@ -1,0 +1,20 @@
+VIRUS NAME: Win.Trojan.ssid18332-1
+TDB: Engine:81-255,Target:0
+LOGICAL EXPRESSION: 2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+postmessage{WILDCARD_ANY_STRING(LENGTH<=39)}data.concat
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+worker
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1
+     +-> REGEX: \x2epostMessage\s*\x28\s*([^\s]+)\x2edata\x2econcat\s*\x28\1\x2edata\s*\x29
+     +-> CFLAGS: (null)

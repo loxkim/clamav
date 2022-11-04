@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Keylogger-130
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Email from Google - Windows Internet Explorer" ) THEN 
+FOR $I = 0x00000000 TO 0x00000052 
+$KEY = $KEYS [ $I ] [ 0x00000000 ] 
+IF _ISPRESSED

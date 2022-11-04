@@ -1,0 +1,33 @@
+VIRUS NAME: Txt.Downloader.Sload-6869723-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_0xbc8dx12[_0x24f5[311]];_0xbc8dx29[pdfopogpodgkpogkpeorgb(_0x24f5[344],_0x24f5[268])]=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+function
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+function(_0xbc8dx4c
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pdfopogpodgkpogkpeorgb(_0x24f5[274],_0x24f5[275])+
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pdfopogpodgkpogkpeorgb(_0x24f5[326],_0x24f5[254]);_0xbc8dx12[_0x24f5[327]]=
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+undefined

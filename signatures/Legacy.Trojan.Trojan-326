@@ -1,0 +1,8 @@
+VIRUS NAME: Legacy.Trojan.Trojan-326
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ript]
+n0=run $mircdir2kBug-MircFix.EXE
+n1=ON 1:JOIN:#:{ /if ( $nick == $me ) { halt }
+n2= /dcc send $nick $mircdir2kbugfix

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Iframe-89
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+<IFRAME SRC="http://un.uiiiu.com/baidu.htm" WIDTH=0 HEIGHT=0></IFRAME>

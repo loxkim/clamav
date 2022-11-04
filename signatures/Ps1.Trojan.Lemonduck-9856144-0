@@ -1,0 +1,8 @@
+VIRUS NAME: Ps1.Trojan.Lemonduck-9856144-0
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+powershell.exe -NonI -W Hidden -NoP -Exec Bypass -Enc 

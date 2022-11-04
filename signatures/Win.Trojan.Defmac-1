@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Defmac-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+http://%@/i.php%{WILDCARD_ANY_STRING}./MacSecurity.app/

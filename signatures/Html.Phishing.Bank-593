@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-593
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+confirm your membership details. failure to confirm your membership details will{WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}suspend you from accessing your{WILDCARD_ANY_STRING(LENGTH<=7)} banking

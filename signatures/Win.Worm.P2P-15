@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.P2P-15
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+\CurrentVersion\Run\Aritima{WILDCARD_ANY_STRING(LENGTH<=171)}C:\windows\system32\aritima.exe

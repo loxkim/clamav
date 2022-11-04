@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sn-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+oft\Windows\CurrentVersion", "SystemRoot"){WILDCARD_ANY_STRING}ng(WinPath & "\System.ini", "boot", "SCRNSAVE.EXE") = WinSysPath & "\Marquee.scr"

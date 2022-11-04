@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ruver-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If WordBasic.[MacroName$](i, 0, 0) = "Gruver"{WILDCARD_ANY_STRING}Not binstalled And Not bTooMuchTrouble

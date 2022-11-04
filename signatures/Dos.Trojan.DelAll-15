@@ -1,0 +1,10 @@
+VIRUS NAME: Dos.Trojan.DelAll-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cd c:\windows
+del a*.*
+del b*.*
+del c*.*
+del d*.*
+del e*.*

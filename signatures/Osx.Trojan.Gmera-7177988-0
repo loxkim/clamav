@@ -1,0 +1,28 @@
+VIRUS NAME: Osx.Trojan.Gmera-7177988-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+echo "$1" | tr -dc '[:alnum:].\r' | tr '[:upper:]' '[:lower:]'
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+`curl -s ipecho.net/plain`
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+base64 --decode
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+launchctl load "/tmp/{WILDCARD_ANY_STRING(LENGTH<=30)}.plist"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mmhwykdvz09qc2darzhnyzj4bfpyqwdnvef

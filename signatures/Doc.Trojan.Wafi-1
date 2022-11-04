@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Wafi-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ilePath(Path:=2) + "\config.dot"{WILDCARD_ANY_STRING}en:=Now + TimeValue("00:05:00"), Name:="Aviso"{WILDCARD_ANY_STRING}m = MsgBox(Application.UserName + "  Su Alma Ah

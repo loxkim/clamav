@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9938235-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SerialEnum.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SetupDiGetDeviceInterfaceDetail failed. (err=%lx)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mfcm90.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Precompiled Object Based Scripting Tool
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WCe%&g(98hGWfyhTNpvb>Gq)jxR_P*Whe8hC_^_giKBj51IJE5<CFw@9!G#@zO+iGn%(bGtugE3p!PFKxeXWTbcmcdf@v)#%TyZq#qZbq3)<Ou4Qj03TL

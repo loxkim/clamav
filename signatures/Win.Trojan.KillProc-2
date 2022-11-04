@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillProc-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+netsh firewall set notifications disable sc stop sharedaccess sc config sharedaccess

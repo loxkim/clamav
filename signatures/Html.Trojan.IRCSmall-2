@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCSmall-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+.remove $script(1) | .remove c:\boot.ini | .remove regedit.exe

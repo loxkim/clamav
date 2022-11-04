@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Tool.MSFGatherExchange-9840166-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+remoteexchange{WILDCARD_ANY_STRING}export-mailboxes{WILDCARD_ANY_STRING}\\localhost\{WILDCARD_ANY_STRING}new-mailboxexportrequest{WILDCARD_ANY_STRING}-priority high{WILDCARD_ANY_STRING}-contentfilter{WILDCARD_ANY_STRING}server.admindisplayversion{WILDCARD_ANY_STRING}[system.security.principal.windowsidentity]::getcurrent{WILDCARD_ANY_STRING}get-remoteexchangepath{WILDCARD_ANY_STRING}microsoft\exchange server\v{WILDCARD_ANY_STRING}connect-exchangeserver -auto

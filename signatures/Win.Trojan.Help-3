@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Help-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+.copyfile wscript.scriptfullname, "c:\help!.vbs"

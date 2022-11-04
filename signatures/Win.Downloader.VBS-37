@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-37
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+"(""SELECT * FROM Win32_Process WHERE Name = 'ZONEALARM.EXE'"")"{WILDCARD_ANY_STRING}TSO.write "BinaryStream.SaveToFile ""c:\q.exe"", adSaveC

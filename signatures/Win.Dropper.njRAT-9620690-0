@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.njRAT-9620690-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+fmKlJCwmIj89ODM4ytsvJpo/OTgzODUkbyYiPzk4Mzg1JC8mIj85ODM4NSQvJiI/OTgzODUkLyYiPzk4szg1JCE5mDE5jDr1FJwuau8ebVBaSxVUXUlFTVhV
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\users\derkaoui\documents\visual studio 2012\Projects\pro_1\pro_1\obj\Debug\pro_1.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+pro_1.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pro_1.My.Resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pro_1.Resources.resources

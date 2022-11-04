@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-34667
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+vl(rqyy0o0m, n1ttauih) { while (rqyy0o0m.length*2<n1ttauih) { rqyy0o0m += rqyy0o0m; } rqyy0o0m = rqyy0o0m.substring(0,n1ttauih/2); return rqyy0o0m; } function s3gbcrnu() { var ecbcfdom = 0x0c0c0c0c; var briw1yty = unescape("

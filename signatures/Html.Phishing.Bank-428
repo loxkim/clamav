@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-428
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we will require a confirmation that your account has not been{WILDCARD_ANY_STRING(LENGTH<=150)}stolen or hacked. your account has not been suspended or frozen.

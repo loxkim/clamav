@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Msilperseus-7793815-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PI/3420syeIs1le1K3rk98JpevZeoBiJg+a40tzv35aSsvHD5VXfC4PmuNLc79+Wg+a40tzv35aD5rjS3O/floPmuNLc79+Wg+a40tzv35YFO9809vmeaN92
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+System.Security.Cryptography.AesCryptoServiceProvider
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+j0rwmjDkO0iuBuDIiu.mpAy02HQuumvoJR0Ij+OPhcLm9puwL1iTyfAX+y0uOocNt3EuWw9TD8V`1[[System.Object, mscorlib, Version=4.0.0.0, Culture
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+clrjit.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=neutral, PublicKeyToken=b77a5c561934e089]][]

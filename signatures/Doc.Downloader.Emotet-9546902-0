@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Downloader.Emotet-9546902-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DznF6Si0d
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+H2bqt3zu3n8x31v0h = Array(Gvl39n3tb_tli + "Tgayxizm2wkqiooso9 Gx2tt4yza11bre_8S8m0z861rsfneuv R_jaxr7_tzxbv5l", CreateObject(F0c
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Mofsgct8un8w0l = Split(Id642thodkd8n6r, "(hsv 3" + "2(()hq gq72" + "1g()))) hsu0
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hsu0())nm(hsv
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+klEP6Sq = DznF6Si0d / Int(3) / vSHlR20C1 / Atn(LEOT3) / 2336 * Int(MPZK) + 451405852 / CByte(qnBvW / Sgn(30)) * 6257915
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+showwindow = xlYErrorBars - xlYErrorBars

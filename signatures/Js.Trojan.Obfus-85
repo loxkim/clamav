@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-85
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+=([]["push"]+"a").substr(1,4);v="fromc";v=v+"harcode";e=window["eval"];}();

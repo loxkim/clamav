@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Miner-9935600-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Negotiation of Ethereumstrabur/1.0.0 (NiceHash) failed. Change your connection parameters
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Example : -P straburs://\`account.121\`.nider1:x@ethermine.org:5555
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+where a scheme is made up of two parts, the strabur variant + the tcp transport protocol
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+straburss  for tcp encrypted strabur mode with strong TLS 1.2 validation
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Example 2: -P straburs://0x012345678901234567890234567890123.nider1@ethermine.org:5555

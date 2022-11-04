@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1329
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+security commitment we will have no choice but to block your account temporarily{WILDCARD_ANY_STRING(LENGTH<=7)}until you verify your identity on our new data

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.DVLCrash-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@echo c:\nul\nul>c:\autoexec.bat

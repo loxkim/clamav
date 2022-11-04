@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Killav-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+del c:\progra~1\f-prot\*.dll{WILDCARD_ANY_STRING}del c:\progra~1\mcafee\*.vsc

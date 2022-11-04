@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.XPMsg-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Subject = "Fw: Nude Pic"
+		MsgItem.HtmlBody = Document.Body.Out

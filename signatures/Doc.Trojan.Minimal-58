@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Minimal-58
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+a$ = "AutoOpen"{WILDCARD_ANY_STRING}c$ = WordBasic.[FileName$](){WILDCARD_ANY_STRING}b$ = c$ + ":" + a${WILDCARD_ANY_STRING}WordBasic.MacroCopy a$, b${WILDCARD_ANY_STRING}WordBasic.MacroCopy b$, a$

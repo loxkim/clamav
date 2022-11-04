@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Perl-49
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+$server/epidemus.pl{WILDCARD_ANY_STRING}open(tmp,">","t3mp.tmp{WILDCARD_ANY_STRING}n(epmi{WILDCARD_ANY_STRING(LENGTH<=6)}mirz.txt

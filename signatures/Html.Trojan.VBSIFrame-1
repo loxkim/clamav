@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.VBSIFrame-1
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<script type="text/vbscript">for a=1 to 1000 document.write("<iframe src="" telnet://www.microsoft.com:1"">") next

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Cross-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If AxInst = True Then Call DropDetox("c:\mydocu~1\data.scr")

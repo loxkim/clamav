@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6931353-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"http://sbdistro.com\nhttps://sbdistro.com\nhttp://www.sbdistro.com\nhttps://www.sbdistro.com\nhttp://www.we
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"comments": "Generated file, do not edit! If the content is changed in any way, including adding spaces or newline chara
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"https://downloadmyinboxhelper.com/",
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"valueProposition": "We're providing quick access to email shortcuts for the user as well as easy results to any of 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"https://fasterlogin.net/",

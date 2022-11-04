@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Kasidet-9897472-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc~
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Yvdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdC+a
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\vdc+a\v`c+a]vec
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vdc+a\vZc+atvdc*a\vec+a]vec+a\v`c+a\vdc+a\vdc+a\vdc+a\v
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Zvdg+a\vdc)a\vdc;a\fdc+aLvds+a\vdc;a\vdc+a\vdc

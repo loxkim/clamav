@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Epi-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Sub EpilepticFit(){WILDCARD_ANY_STRING}ents(1).CodeModule.Find("Document_Open", 1, 1, 10{WILDCARD_ANY_STRING}ntScrolled = ActiveWindow.VerticalPercentScrolled - 10

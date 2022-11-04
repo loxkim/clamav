@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Multiplug-6952118-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nces-service;1"].getService(Components.interfaces.nsIPrefBranch)),
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ement("script");c.type="text/javascript";c.async=!0;c.src=b+".js";document.getElementsByTagName("head")[0].appendChild(c
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c.swap(function(){dbc.get(a)})}},store:function(a,b){if(!a)return b?b(!1):!1;try{for(i in a)a[i]&&localStorage.setItem(i,a[i]);f
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+or(i in a)if(a[i]&&localStorage.getItem(i)!=a[i]){dbc.swap(function(){dbc.set(a,b)});break}b&&b(a)}catch(c){dbc.swap(function(){
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+swap(nz.init)}}},prfdb:{pftimes:0,ins:null,db:function(){try{return this.ins||(this.ins=Components.classes["@mozilla.org/prefer

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Skybot-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Microsoft\Windows NT\CurrentVersion{WILDCARD_ANY_STRING(LENGTH<=269)}.killproc

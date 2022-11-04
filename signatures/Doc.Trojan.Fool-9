@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Fool-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ElseIf Doc.Item("LadyBug").Name <> "LadyBug" Then

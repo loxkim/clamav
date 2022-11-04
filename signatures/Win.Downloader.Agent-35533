@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.Agent-35533
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+cmd /c "shutdown -r -f -t 10 -c "Erro Interno do Windows"

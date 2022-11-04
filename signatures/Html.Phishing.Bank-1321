@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1321
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+account information needs to be updated{WILDCARD_ANY_STRING(LENGTH<=7)}as part of our continuing commitment to protect your account and to reduce the instance of{WILDCARD_ANY_STRING(LENGTH<=7)}fraud

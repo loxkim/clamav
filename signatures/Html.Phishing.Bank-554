@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-554
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+click the link bellow to <a href="http:/{WILDCARD_ANY_STRING(LENGTH<=500)}our database will be instantly updated and an internet antifraud officer may contact you in the next

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Devolve-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.Close
+If f <> "<html><!--HTML/Devolve .a-->" Then
+Set TxtRng = Document.body.createTextRange
+Set Devolve

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Emilia-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@md c:\windows\рь≈{WILDCARD_IGNORE}{WILDCARD_IGNORE}@move scr c:\windows\рь≈\blue.exe

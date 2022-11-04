@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.U-55
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+or vic in *
+do
+ cp $0 $vic
+done

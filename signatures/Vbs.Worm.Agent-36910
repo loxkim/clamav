@@ -1,0 +1,5 @@
+VIRUS NAME: Vbs.Worm.Agent-36910
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+set sfgeterfte = createobject( "scripting.filesystemobject" )

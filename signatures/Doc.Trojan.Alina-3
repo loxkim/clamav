@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Alina-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+BUOS.Subject = "Important News From Alina Via" + Application.UserName{WILDCARD_ANY_STRING}BUOS.Attachments.Add ActiveDocument.FullName

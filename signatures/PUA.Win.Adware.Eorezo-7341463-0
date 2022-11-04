@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Eorezo-7341463-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<resource id="external_resource_0">http://cdn.cloud4ads.com/s/tuto4pc/xmlgenerator/pack_offers/plushd_terms.txt</resource>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<href>http://www.getcinemaplus.com/privacy_policy.html</href>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<href>http://www.getcinemaplus.com/terms_of_use.html</href>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<download_url>11.exe</download_url>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<text bold="true">Automatically convert YouTube videos into High Definition</text>

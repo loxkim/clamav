@@ -1,0 +1,18 @@
+VIRUS NAME: Txt.Coinminer.Downloader-6751705-1
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: 0&1>2&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+/tmp/kworkerds
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+curl -fsSL --connect-timeout
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+touch -acmr /bin/sh /etc/cron.daily/oanacroner

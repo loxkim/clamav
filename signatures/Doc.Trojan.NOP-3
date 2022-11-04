@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NOP-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+m$ = WordBasic.[FileName$]() + ":TAOA"{WILDCARD_ANY_STRING(LENGTH<=3)}WordBasic.MacroCopy m$, "Global:DateiSpeichern"

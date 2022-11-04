@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-230
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+(function(){eval(unescape(("{WILDCARD_ANY_STRING(LENGTH>=200&&<=2000)}).replace(/!/g,"%")

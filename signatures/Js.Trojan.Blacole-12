@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Blacole-12
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if(r){s=s+r;}else break;}a=s;a=a.replace(/[^0-9 a-z]/g,"");s="";for(i=0;i<a.length;i+=2){if(20==0 x10)s+=string.fromcharcode(parseint(a.substr(i,2),28));}try{(alert+"fewfbw")()}catch(adgsdg){window["eval"](s);}

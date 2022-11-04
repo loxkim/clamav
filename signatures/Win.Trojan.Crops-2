@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Crops-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+n=n["split"](t);for(i=0;i<n.length;i++)ss+=s["fromcharcode"](-h*n[i]);zx=ss;if((aa=="unct")||(aa=="func"))e(zx);

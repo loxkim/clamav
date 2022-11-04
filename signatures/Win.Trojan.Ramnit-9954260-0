@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ramnit-9954260-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://api.box.yxdown.com/open/android/feedback.do|vid=%04X&pid=%04X&type=%s&content=%s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://tongji.ziyuan.yxdown.com/count?key=%s&sourceid=%d
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+android.permission.KILL_BACKGROUND_PROCESSES
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+android.permission.SET_PROCESS_FOREGROUND
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+android.permission.SET_PROCESS_LIMIT

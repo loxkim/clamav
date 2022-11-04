@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-55
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+while (1) { for my $a ($ipa..255) { if ($a == 10 || $a == 198 || $a == 127 || $a == 0 || $a == 172 || $a == 1) { next; } for my $b ($ipb..255) { for my $c ($ipc..255) { for my $d ($ipd..255) { if (fork() == 0)

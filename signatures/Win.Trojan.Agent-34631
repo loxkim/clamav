@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-34631
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+reg add "hkey_local_machine\software\microsoft\windows\currentversion\explorer\ advanced\folder\hidden\showall" /v checkedvalue /t reg_dword /f

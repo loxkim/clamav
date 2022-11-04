@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-805
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ityhead"><b>welcome</b></span><br /><b>update your information within {WILDCARD_ANY_STRING(LENGTH<=20)} else account will be suspended.

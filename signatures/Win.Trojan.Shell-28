@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-28
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+system($cmd); $result = @ob_get_contents(); @ob_clean(); echo $v; } elseif (is_callable("passthru") and !in_array("passthru",$disablefunc)) { $v = @ob_get_contents(); @ob_clean(); passthru($cmd); $result = @ob_get_contents(); @ob_clean(); echo $v; } elseif (is_resource($fp = popen($cmd,"r"

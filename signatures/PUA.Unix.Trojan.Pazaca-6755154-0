@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Trojan.Pazaca-6755154-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MacKeeper is pleased to announce its Track My Mac mobile app, the most unique way to keep an eye on your Mac.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+v16@?0@"<ZBTrackMyMacUsageTaskProtocol>"4i8i12
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+trackMyMacUsageStatusWithCompletionHandler:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+setPrivateUserDefaultsValue:forKey:
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+privateUserDefaultsValueForKey:

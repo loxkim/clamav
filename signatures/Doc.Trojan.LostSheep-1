@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.LostSheep-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.Speak "Here are you, " & Word.Application.UserName & " my lost sheep..." & "\Vol=99"

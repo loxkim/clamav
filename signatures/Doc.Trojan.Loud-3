@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Loud-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If N.Lines(2, 1) = "'1nternal" Then GoTo CheckA{WILDCARD_ANY_STRING}For I = 1 To 19

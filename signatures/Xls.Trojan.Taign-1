@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Taign-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #1, Time$ & "," & Date$ & "," & Workbooks(Source).Path & "\" & Workbooks(Source).Name & "," & Workbooks(PersExist).Path &

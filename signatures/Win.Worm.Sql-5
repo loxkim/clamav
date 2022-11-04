@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Worm.Sql-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+install.bat v2.5
+
+cscript sqlexec.js %1 sa "" echo %1|find "%1"
+if not "%errorlevel%"=="0" goto fail
+
+cscript sqlexec.

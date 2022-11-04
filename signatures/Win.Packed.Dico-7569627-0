@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Dico-7569627-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<filename>\\?\C:\Program Files\Trend Micro\AMSP\module\20004\temp\httCF69.tmp</filename>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<filename>\\?\M:\PStartSetup211.exe</filename>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<sha256>b90c65c1aeef8b54289a2c64d1eaafeb713c79c8eba95fe1f053348780ce2b81</sha256>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<sha256>6b307b55a12c3024d31a243aea20fec36deeb6a94dc9c886e47f0c1bbd3d8a68</sha256>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<sha256>bf99002b59e17cde002f5263995e0f5218681ea67178a22d5bb3a1c6fb1c74f2</sha256>

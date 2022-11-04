@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Vilsel-7645859-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.gestionecaldaie.altervista.org/files/ManCaldaie.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+possibile cambiare o impostare la password di accesso al programma. All'inizio la password 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ FROM Clienti INNER JOIN Man ON Clienti.IdNome = Man.IdCli WHERE Pagato  < Importo order by Intervento asc, Nome asc
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HKEY_LOCAL_MACHINE\software\Microsoft\Windows NT\CurrentVersion\CurrentVersion
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HKEY_LOCAL_MACHINE\software\Microsoft\Windows NT\CurrentVersion\ProductName

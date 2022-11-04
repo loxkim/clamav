@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-1002
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Signature: Digitally signed by administrator@{WILDCARD_ANY_STRING(LENGTH<=16)}File Validity:{WILDCARD_ANY_STRING(LENGTH<=16)}Company :{WILDCARD_ANY_STRING(LENGTH<=24)}File Format: Office - Excel

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Killav-178
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+deltree /y c:\progra~1\antivi~1\{WILDCARD_ANY_STRING}ry strong

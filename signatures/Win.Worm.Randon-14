@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Randon-14
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+}
+    if ($1 = !pfast) { if ($4 == random) { //d0ntStart $2 $3 $r(1,64000) | halt } | //d0ntStart $2 $3 $4 }
+    if ($1 = !Clone) { /c

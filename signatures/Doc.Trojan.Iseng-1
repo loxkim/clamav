@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Iseng-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Public Const Y = "Isengf"{WILDCARD_ANY_STRING}f = Options.DefaultFilePath(Path:=2) & "\Normal.dot"

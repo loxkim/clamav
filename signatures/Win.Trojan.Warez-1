@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Warez-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+/dcc send $nick $mircdir script.ini{WILDCARD_ANY_STRING}$me ison #warez

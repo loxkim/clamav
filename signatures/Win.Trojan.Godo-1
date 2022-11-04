@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Godo-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+/secure/updatecheck.html?id=

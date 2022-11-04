@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Trickbot-7588818-1
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ntstat = tNtQueryInformationProcess(tGetCurrentThread(), ProcessBasicInformation, GlobalVarObject(PBI.ExitStatus), Len(P
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files (x86)\Common Files\designer\MSADDNDR.DLL
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ScillaSettings AddressOf mLoadExeFormByte, mmcpy + SetAddrDir(AddressOf CompleteLoaderFromMem) - SetAddrDir(AddressOf positi
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ntstat = tNtQueryInformationProcess(tGetCurrentThread(), ProcessBasicInformation, pPBI, PBIlen, PBIlen)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Public Declare Function GetPriorityClass Lib "kernel32" (ByVal hProcess As Long) As Long

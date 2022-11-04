@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Script-43
+TDB: Engine:51-255,Target:3
+LOGICAL EXPRESSION: (0|1)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+classid={WILDCARD_ANY_STRING(LENGTH<=10)}clsid:2ebe1406-be0e-44e6-ae10-247a0c5aedcf{WILDCARD_ANY_STRING(LENGTH<=200)}.getobject(
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+new activexobject("mvt.mvtcontrol{WILDCARD_ANY_STRING(LENGTH<=200)}.getobject(

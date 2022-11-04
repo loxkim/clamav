@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Beliers-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Workbooks(fichiercourant).Modules("Béliers").Copy after:=Workbooks(a).Sheets(nbfeuilles)

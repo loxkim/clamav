@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.BAT-65
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off%CW%
+set var1=bat
+set var2=find
+set var3=errorlevel
+set var4=exist

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Wingo-9949380-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pc=oldoverflow is not nilprotocol not availableprotocol not supportedremote address changedruntime.main not on m0runtime: work.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+already in useadvapi32.dll not foundargument list too longassembly checks failedbad g->status in readybad sweepgen in refillcall
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ighttrace: out of memorywirep: already in goworkbuf is not emptywrite of Go pointer ws2_32.dll not found of unexported method pr
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+invalid argruntime: confused by runtime: newstack at runtime: newstack sp=runtime: searchIdx = runtime: work.nwait= stale NFS f
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+a power of 2timer goroutine (idle)trace reader (blocked)trace: alloc too largewirep: invalid p state) must be a power of 2

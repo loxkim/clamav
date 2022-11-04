@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sea-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ponents("DieingSeas").Export "c:\windows\system\code.infected"{WILDCARD_ANY_STRING}ok").CodeModule.Lines(1, 1) <> "Sub DieLikeEvery1()

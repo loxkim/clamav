@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Lavra-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+E.FolderExists(AV13) = True Then Kill AV13 & "*.*"{WILDCARD_ANY_STRING}NNITA.RegWrite WORD,"C:\Windows\MrsAnnitaBeta.vbs"

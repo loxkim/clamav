@@ -1,0 +1,15 @@
+VIRUS NAME: Win.Trojan.Emotet-6397178-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+powershell
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: powershell\s+?-e\s+?[A-Za-z0-9+\
+     +-> CFLAGS: =]{20}/i

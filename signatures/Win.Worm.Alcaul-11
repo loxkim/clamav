@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Alcaul-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ws.regwrite "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunServices\b8", GetSpecialfolder(CSIDL_WINSYS) & "\M

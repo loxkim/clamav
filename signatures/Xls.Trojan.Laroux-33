@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Laroux-33
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ctiveCell.FormulaR1C1 = "바이러스에 감염되었음. 매크로바이러스를 잡아라"

@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Rootkit.ShadowHammer-6935338-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0&1)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+<LogonStart> DisableLogonStartup
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+<alvupdt><SelfUpdt>

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-7994551-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Advanced PDF Password Recovery Pro,HKLM,SOFTWARE\Elcom\Advanced PDF Password Recovery Pro\Registration,Code
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Command and Conquer Generals: Zero Hour,HKLM,Software\Electronic Arts\EA GAMES\Command and Conquer Generals Zero Hour\ergc,
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Winsock.dll version out of range.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Passware Encryption Analyzer (License),HKCU,Software\Passware\Encryption Analyzer\1\Registration,License
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Passware Encryption Analyzer (Serial),HKCU,Software\Passware\Encryption Analyzer\1\Registration,Serial

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+le::Find;\n&virus();\n", $line2 );{WILDCARD_ANY_STRING(LENGTH<=2)}               print  temp while( <target> );{WILDCARD_ANY_STRING(LENGTH<=2)}               print  temp $virus_body;

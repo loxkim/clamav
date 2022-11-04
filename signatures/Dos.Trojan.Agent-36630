@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36630
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off echo caution! you have opened a virus... ping 1 -t -n 1 -w 1000 > nul cls :err echo error! program will format hard disk... set x=%x%! if not %x%==!!!!!!!!!!!!! goto err ping 1 -t -n 1 -w 1000 > nul cd\ cls dir /b /s 

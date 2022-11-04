@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.MSShellcode-85
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cmd.exe /c net user metasploit Metasploit$1 /ADD && net localgro

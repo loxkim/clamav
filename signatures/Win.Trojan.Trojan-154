@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Trojan-154
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nt!BaCKD00R 1.1
+n11=ON 1:TEXT:*give it up*:#:{
+n12=  /nick _XInFected

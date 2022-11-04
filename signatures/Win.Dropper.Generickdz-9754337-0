@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Generickdz-9754337-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lterscript execution failed__proxy_mutex_%d__.submitformimage.clickhyperlink72.232.136.59.submitformproxy2.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%SystemRoot%\System32\DriverStore\FileRepository\wdmaudio.inf_amd64_264275ded8616f61\WMALFXGFXDSP.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#enc#.tmp#enc#%s%s%08X.tmpSendTCP(): sid=%dSendTCP(): Sent %d bytesSendTCP(): Got %d/%d bytes#enc#MiniDumpWriteDump
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\MuhammadAsim\AppData\Roaming\Microsoft\desktop.ini
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\MuhammadAsim\AppData\Local\Microsoft\Windows\UsrClass.dat

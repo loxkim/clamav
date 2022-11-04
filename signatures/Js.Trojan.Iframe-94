@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Iframe-94
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+indexof("firefox")>=0)){var n001=document.createelement("iframe");n001.setattribute("width","1");n001.setattribute("height","1");n001.setattribute("src",n000);n001.setattribute("style","visibility: hidden;

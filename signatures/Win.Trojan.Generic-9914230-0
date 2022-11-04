@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9914230-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__head_C__Users_Peter_Code_winapi_rs_i686_lib_libwinapi_kernel32_a
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZN6kaguya5gecko5Gecko12read_cookies28_$u7b$$u7b$closure$u7d$$u7d$17hb05eb7f5be3cbf8dE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZN83_$LT$std..sys..windows..fs..FindNextFileHandle$u20$as$u20$core..ops..drop..Drop$GT$4drop17haf10319faaf6205cE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZN75_$LT$std..sys..windows..handle..Handle$u20$as$u20$core..ops..drop..Drop$GT$4drop17h43df0deab879aa7eE
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZN72_$LT$std..sys..windows..net..Socket$u20$as$u20$core..ops..drop..Drop$GT$4drop17h239076fb74d440e1E

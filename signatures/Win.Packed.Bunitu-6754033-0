@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Bunitu-6754033-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+k,"o*${-%|3%|3%|3%|3%|3%|3%|3%|3%|3%|3${-${-${-${-${-${-${-%s-"o*"j*"o*"o*"o*"o*"o*"j*"o*%s-${-%|3%|3-
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+k,"o*%s-$t4%|3%|3&}<&}<&}<&}<&}<$t4"n/
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SHQueryRecycleBinA
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+L" L" L" L" L" L" L" L" L" L" L" L" L" L" L"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+o&"o*"o*"o*%s-"o*"o*

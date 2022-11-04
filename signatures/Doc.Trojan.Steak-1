@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Steak-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #1, "A1.Codemodule.AddFromFile (" & Chr(34) & "c:\A1.sys" & Chr(34) & ")"

@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Phishing.Bank-1411
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+You have been chosen{WILDCARD_ANY_STRING(LENGTH==117)}we will credit $100.00 
+to your account, just for your time

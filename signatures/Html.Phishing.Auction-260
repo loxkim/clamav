@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-260
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dear ebay member</font>,<br><br>we regret to inform you that your ebay account has been put on-hold{WILDCARD_ANY_STRING}color=red>1. cli{WILDCARD_ANY_STRING(LENGTH<=1)}k to </font><a href="ht

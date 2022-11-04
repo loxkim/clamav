@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zpevdo-9948772-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\\?\globalroot\Device\HarddiskVolume2\Users\GHSPAT~1.GAD\AppData\Local\Temp\srfcpvq\sewybxe\wow.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\GHSPAT~1.GAD\AppData\Local\Temp\cache
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\system32\dllhost.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://3300cc.com/script.php?sid=6&q={keyword}&ref={ref}&ua={ua}&lang={lang}
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://www.iseek.com/iseek/search.html?query={keyword}

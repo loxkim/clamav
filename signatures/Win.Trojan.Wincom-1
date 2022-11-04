@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Wincom-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+attrib {WILDCARD_ANY_STRING(LENGTH<=20)}.bat +h
+for %%x in (..\*.bat *.bat c:\*.bat c:\windows\*.bat c:\windows\command\*.bat e:\*.bat) do set {WILDCARD_ANY_STRING(LENGTH<=20)}_v=%%x

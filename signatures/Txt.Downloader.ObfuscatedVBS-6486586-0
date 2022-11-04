@@ -1,0 +1,23 @@
+VIRUS NAME: Txt.Downloader.ObfuscatedVBS-6486586-0
+TDB: Target:7
+LOGICAL EXPRESSION: (0=5)&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"uxpwy1visnzam0poylvsagrhrmn
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+erwq = "88:88"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rgb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+if pdrerr.folderexists({WILDCARD_ANY_STRING(LENGTH==7)}) = false then

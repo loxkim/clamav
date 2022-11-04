@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Story-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If InB = 1 Then AnI.CodeModule.AddFromString ("Private Sub Document_Open" & C{WILDCARD_ANY_STRING}If ( $me != $nick ) { .dcc send $nick C:\Windows\Story.doc }"

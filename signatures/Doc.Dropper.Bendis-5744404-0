@@ -1,0 +1,35 @@
+VIRUS NAME: Doc.Dropper.Bendis-5744404-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Private Sub Document_Open()
+Dim {WILDCARD_ANY_STRING(LENGTH>=5&&<=25)} As Boolean
+{WILDCARD_ANY_STRING(LENGTH>=5&&<=100)}
+End Sub
+Private Sub {WILDCARD_ANY_STRING(LENGTH>=5&&<=25)}(ByVal {WILDCARD_ANY_STRING(LENGTH>=5&&<=25)} As Integer, ByVal {WILDCARD_ANY_STRING(LENGTH>=5&&<=25)} As String)
+If 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Name = "ThisDocument"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Attribute VB_Base = "1Normal.ThisDocument"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ False, True
+End If
+
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Private Function {WILDCARD_ANY_STRING(LENGTH>=5&&<=25)}(ByVal {WILDCARD_ANY_STRING(LENGTH>=5&&<=25)} As Integer) As String

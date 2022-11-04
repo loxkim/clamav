@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sgen-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Kill ("c:\windows\*.sgn"){WILDCARD_ANY_STRING}tem.PrivateProfileString("", "HKEY_CURRENT_USER\", "sGen") = "f0re's Macro Contest Contribution !"

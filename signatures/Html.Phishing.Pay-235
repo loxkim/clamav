@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-235
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+to login to your paypal account and update your records click on the{WILDCARD_ANY_STRING(LENGTH<=7)}following link:{WILDCARD_ANY_STRING(LENGTH<=14)}<a class=m1 href="http:

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Psyme-65
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+str="qndy`mh){WILDCARD_ANY_STRING(LENGTH<=1046)}.fromcharcode(str.charcodeat(i)^1);};

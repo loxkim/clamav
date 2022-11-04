@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.RAT-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+file.delete(file){WILDCARD_ANY_STRING}(command == "/?cmd_exec")

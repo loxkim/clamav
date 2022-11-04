@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Feebs-25
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+=replace({WILDCARD_ANY_STRING(LENGTH<=4)},"{WILDCARD_IGNORE}","%"){WILDCARD_ANY_STRING(LENGTH<=7)}nescape({WILDCARD_ANY_STRING(LENGTH<=4)})</script><script language=javascript>eval(

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Qhost-6996563-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+A password is required to begin the installation of 111 222 333 444 555. Type the password and then click "Next".
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Setup is now ready to begin installing 111 222 333 444 555 on your computer.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+For installing 111 222 333 444 555 on disk %s insufficiently free place. Try to choose other disk.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\111 222 333 444 555 666 777 888 999 000
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+111 222 333 444 555 will be uninstalled from the following folder. Click Uninstall to start the uninstallation.

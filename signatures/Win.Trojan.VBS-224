@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VBS-224
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+execute num2str(hqwstr)

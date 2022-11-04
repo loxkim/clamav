@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sig-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Title$ = "HELL for Windows"{WILDCARD_ANY_STRING}If WordBasic.[MacroName$](CurrentMacro) = "Signature" Then

@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Wews-9769730-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://gameapp.37.com/controller/client.php?game_id=275&tpl_type=game11&game_id=275&thirdlogin=1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E:\37Work\pc_code\lander_dll\cqby\04
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>d^
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+58" xmpMM:InstanceID="xmp.iid:DD29E83C644611E69986EECDBAD61158" xmp:CreatorTool="Adobe Photoshop CC 2015 (Windows)"> <xmpMM
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0/" xmpMM:OriginalDocumentID="xmp.did:7488F745737FE411AD66BF306BF47032" xmpMM:DocumentID="xmp.did:DD29E83D644611E69986EECDBA

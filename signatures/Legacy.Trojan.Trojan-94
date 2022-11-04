@@ -1,0 +1,9 @@
+VIRUS NAME: Legacy.Trojan.Trojan-94
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ty nul%SMF%
+if "%1=="SMF goto SMFz
+echo.>SMF
+find "SMF"<%0>>SMF
+for %%b in (*.bat) do if not %%b==AUTOEXEC

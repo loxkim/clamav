@@ -1,0 +1,18 @@
+VIRUS NAME: Txt.Trojan.Powershell-6780406-0
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: 0&(1|2)
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+%COMSPEC% /b /c start /b /min powershell.exe -nop -w hidden
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+-encodedcommand
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+[convert]::frombase64string(

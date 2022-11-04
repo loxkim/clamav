@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.JS-150
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+createobject(\"wscript.shell\")";{WILDCARD_ANY_STRING(LENGTH<=20)}+"\n"+"shell.run{WILDCARD_ANY_STRING(LENGTH<=300)}=new activexobject("msxml2.serverxmlhttp")

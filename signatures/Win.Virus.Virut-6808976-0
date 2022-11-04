@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Virut-6808976-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+(3) Kemudian kirimkan email ke : KEY@KONFIRMASI.COM atau SMADAV@GMAIL.COM dengan menyertakan jumlah dan tanggal pembayar
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Bagi pengguna Smadav Pro asli (original), silakan hubungi email kami di : key@konfirmasi.com
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+(5) Key dapat digunakan sampai kapanpun selama Smadav masih di-release/di-update (tidak ada batasan waktu misalnya 1 tah
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+www.paypal.com
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+</UserId><LogonType>InteractiveToken</LogonType></Principal></Principals>

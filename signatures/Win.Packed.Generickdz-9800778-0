@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-9800778-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+on=6.1.5085.0, PublicKeyToken=31bf3856ad364e35, versionScope=NonSxS"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\Nine\Straight\Desert\bear\Did\Lot\group\Do.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+t-Windows-Common-Modem-Drivers-Package~31bf3856ad364e35~x86~~6.1.7601.17514" update="INF_mdmnis1u"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+            <Resolve package="Microsoft-Windows-Common-Modem-Drivers-Package~31bf3856ad364e35~x86~~6.1.7601.17
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Do.dll

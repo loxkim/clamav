@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-1045
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+we are very sad, but our company can not send more than{WILDCARD_ANY_STRING(LENGTH<=160)}There is an attachment:

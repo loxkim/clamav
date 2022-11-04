@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Ircbot.Kosovo-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.. join #kosovo ok ?
+n5=on 1:CONNECT: {
+n6=/jo

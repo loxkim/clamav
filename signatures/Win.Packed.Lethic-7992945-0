@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Lethic-7992945-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Wrong password. Try again(ExamDiff Pro was successfully registered
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Zello.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Toolbar#Copy From First To Second Directory#Copy From Second To First Directory#Save Differences In File (Ctrl + S)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+View/EditCCopies the selection to the Clipboard, excluding padding lines
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+2Compare New Pair Of Files Or Directories (Ctrl +E) Re-Compare Directories (Ctrl +R)

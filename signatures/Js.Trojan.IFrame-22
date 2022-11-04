@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.IFrame-22
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+r jsinj=document.createelement("iframe");jsinj.src="http://weqew

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Andromeda-9889980-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<PrivateImplementationDetails>{64A2C0F0-E164-4BB2-8E25-065AD41426CF}
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+EVCIdOkfmydOkfmydOkfmydOkfmydOkfmydOkfmydOkfmydOkfmydOkfmydOkfmydOkfmydOkfmydOkfmydOk
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+mxdjkdm|dFkNmudKkdmxdLkgmynNkfkBPI2.g
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WJOISuWttvDDo.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Njfmud

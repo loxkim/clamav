@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.xch-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if xchat.nickcmp(word[3],xchat.get_info({WILDCARD_ANY_STRING(LENGTH>=10&&<=30)}xchat.command('DCC SEND

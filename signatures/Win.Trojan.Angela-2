@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Angela-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:#:{ /if ( $nick == $me ) { halt }
+n1=  /dcc send $nick C:\windows\system\angela.exe
+n2=}
+n3=on 1:CONNECT:

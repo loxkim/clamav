@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Zerco-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+roject.VBComponents("CountZero"){WILDCARD_ANY_STRING}If vbiref.Name = "VBIDE"

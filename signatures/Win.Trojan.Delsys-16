@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Delsys-16
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+del *.a?? cls del *.c?? cls del *.d??

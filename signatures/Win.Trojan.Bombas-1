@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Bombas-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ombas on your computer 2y
+@echo off
+if "%0"=="sys.bat" goto syst
+if "%0"=="sys" goto syst
+set sys=%windir%

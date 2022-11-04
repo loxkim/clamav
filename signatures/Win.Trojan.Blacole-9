@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Blacole-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+r=String;z=((e)?"Code":"");for(;1333-5+5>i;i+=1){j=i;if(e)s=s+r.fromCharCode((w[j]/(2-1+j%2)));}
+if(f)e(s);/*qhk6sa6g1c*/

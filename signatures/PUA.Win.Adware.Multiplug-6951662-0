@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Multiplug-6951662-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+mini::os::LaunchDefaultBrowser: E:0x%x ShellExecute (LastError=%x, hProcess=%x
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CGlobalContext::ExecuteCommand: Writing %d bytes (decoded?%s) to: '%.80s..'
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CUninstaller::DumpToLog: sUninstallerProgramTargetPath='%s'
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DCIEInstaller::CIEInstallation::DumpToLog: ConfigFileName='%s'
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+oCFireFoxInstaller::GetFFProfileINIPath: (%s): E:%d GetUserAppDataFolderPath(Local)

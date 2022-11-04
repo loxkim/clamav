@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Ini-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.closemsg $nick }
+on 1:text:*virus*:*:{ .ignore $nick | .closemsg $nick }
+on 1:JOIN:#:/dcc send $nick c:\mirc\GhostDog

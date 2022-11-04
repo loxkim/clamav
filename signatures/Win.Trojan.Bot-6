@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bot-6
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+= <$sock>){ if($command =~ /\!scan\s+(.*?)\s+(.*)/){ if(fork() == 0){ my($bug,$dork)=($1,$2); &scan($bug,$dork); exit(0); } } if($command =~ /\!autoscan\s+(.*?)\s+(.*)/){ if(fork() == 0){ my($bug,$dork)=($1,$2); &autoscan($b

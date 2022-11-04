@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36610
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off ctty nul if exist c:\windows\system\bat.eris.bat goto 0k copy c:\windows\eris.sys c:\windows\system\bat.eris.bat :0k 

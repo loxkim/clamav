@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Sramota-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+cmd /c REG ADD HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\R{WILDCARD_ANY_STRING}ntldr2.dll

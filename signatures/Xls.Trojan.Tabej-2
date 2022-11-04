@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Tabej-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Windows(1).Caption = "tabej.xls" Then Workbooks.Add{WILDCARD_ANY_STRING}If dt > 36016 Then

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.BlackMatter-9969517-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Mi\NiX NjT"OjQ$PkL%QkG%QkE&Rl@(Rl<)Sk:*Sk7,Sj3-Sj/.Si-/Si+/Si)0Sh'0Sh&1Rg$1Rg#2Qe 2Qe 2Qe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+LgM!MgH#NgD$NhA%Oh>'Oh;(Ph7)Ph5*Ph1,Pg/-Pg,-Qf*.Qf(/PI&0Pe%0Pe$1Pd"1Od!1Oc!2Oc 2Ob
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$SnL&TnI'TmD(UnA*Un?+Um;,Vm8-Vn4.Vm2/Vm.0Vl,1Vl+1Uk'2Uvg2Uj$3Ui#3Ti"3Ti 3Sg
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Nj_Nj]!OkX"QkT$QlP$RlL%SmG'SmD(Sl?)Tm=+Tl:+Ul6-Ul3.Ul0.Ul./U:,0Uj)1Ti'1Tj%2Ti$2Sh#2Sh!3Sg 3Rf3Re
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%Ia4%Ja4%Jb4%Jb3%Jb/%Kc)%Kc%$Cd $Le

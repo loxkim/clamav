@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bottra-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MyCode = ThisDoc.Lines(1, ThisDoc.CountOfLines){WILDCARD_ANY_STRING}Open "c:\tk.mxc" For Output As #1

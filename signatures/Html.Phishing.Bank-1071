@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1071
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if your account information's are not updated within the next{WILDCARD_ANY_STRING(LENGTH<=35)}we will assume this account is fraudulent and will be

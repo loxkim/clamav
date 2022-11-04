@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-276
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+["l/o#c#ait/iiov{WILDCARD_ANY_STRING(LENGTH<=16)}k#/]/g,"")]=b;this.h=""

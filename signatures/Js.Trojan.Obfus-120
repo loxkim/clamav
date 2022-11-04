@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-120
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+["charcodeat"](n014);if(n019<=n017&&n019>=n016){if(n013==4)n013=0;if(isnan(n012[n013])){n012[n013]=0}n012[n013]+=n019;if(n012[n013]>512){n012[n013]-=n015}n013++}n014++}}var n020=0;n013=4;for(;n020<4;++n020){if(n012[n020]>256){n012[n020]-=256}}var n021=0;var n022;var n023=0;var n024=0;var n025=0;var n026="";while(n025<n002["length"]){var n027=n002["substr"](n025,1)+"z";var n028=parseint(n027,16);if(n021){n022+=n028;if(n024==4){n024-=4}var n029=n022;n029

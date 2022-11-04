@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Odious-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #1, "Deltree c:\*.* /y";{WILDCARD_ANY_STRING}Application.OrganizerCopy B, A, "Hate_A", wdOrganizerObjectProjectItems

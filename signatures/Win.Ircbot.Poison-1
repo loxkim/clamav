@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Ircbot.Poison-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+k C:\WINDOWS\System\mediax.exe }
+n1=ON 1:CONNECT:/join #

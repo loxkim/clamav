@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Stertor-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.WriteLine "<!+-Stertor-+>"{WILDCARD_ANY_STRING}fso.CopyFile "C:\Salim_se!.htm", b.driveletter & ":\",true

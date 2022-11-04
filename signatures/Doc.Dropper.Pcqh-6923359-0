@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Dropper.Pcqh-6923359-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dnxjskqksvkzmabwhhga = Array(Weekday(10), Weekday(8), Weekday(9), Weekday(5))
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dsdqrmxcqkjiiwgbv = -8420 + 8420 <> 8717 + -8717
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+iwjjbhhngfhagkvti = -780 + 780 <> 1382 + -1382
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lkrzimngcprtfjswd = Array(Weekday(9), Weekday(8), Weekday(7), Weekday(1))
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pvxwjizatcgdkhlzrq = Right("hvpixklamkqppnzckx6538svsngtqvckx", LenB("knkxsavhmnjz") / 2)
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+raiifiiidgqvtrsrab = Array(Weekday(4), Weekday(2), Weekday(4), Weekday(2))
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vmgktmwzbxbftmkma = -8011 + 8011 <> 3169 + -3169
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+zwtidzjpfxqswlflxpz = Right("hzvfttjvqskxizjq5340kvbgcbmq", LenB("bnbrzzqajlwlj") / 2)

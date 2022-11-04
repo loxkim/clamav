@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Trojan.Agent-6923223-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dim str As String
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Sub Workbook_Open()
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+exec = exec + "Base64String(\"" " & str & " \"" )))), [IO.Compr"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+str = str + "BcxpKkg9Oa1xgXS5WIAxaYwzhiQjhmLAbp5sAgxi4DBhFuVN"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+str = str + "S9q4mWu76QQGW0mdWHXi2C5kFvgkaFrR8PJ3v/i+/+GJ7DaD"
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+str = str + "joh8X8o+873ybxvWvb+XKnjueqbaw6DeUwfvxlGPXqfTf8Nv"
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+str = str + "pEktEqmKzhSgP2pBSTNR9ELNE4Iyy7BZOElU+8KqaZyMYnRi"
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+str = str + "x69R3IeqUvkdb4JNeP0cuN2r59Gfx2twtO6Ki+uPWo8Viqcl"

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Webmail-52
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+You will not be able to{WILDCARD_ANY_STRING(LENGTH<=8)}send or receive new mail until you updrade your email account{WILDCARD_ANY_STRING(LENGTH<=8)}Click the below link

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Hellfire-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+REG.REG
+ECHO "RegisteredOwner"="LUCKY B.R.D 1994-99">>c:\REG.REG
+ECHO "RegisteredOrganization"="Jerret">>c:

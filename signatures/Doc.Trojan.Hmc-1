@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hmc-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+NormCode.replacelines y, "{WILDCARD_ANY_STRING}For x = 1 To DocCode.countoflines{WILDCARD_ANY_STRING}NormCode.insertlines 26 + x, DocCode.lines(x, 1)

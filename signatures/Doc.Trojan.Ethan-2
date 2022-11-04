@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ethan-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sName = "c:\evolve.tmp"{WILDCARD_ANY_STRING}.Keywrds = "Ethan":

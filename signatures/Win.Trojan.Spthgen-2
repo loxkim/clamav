@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Spthgen-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+("startup")+"\\wbzua.js");{WILDCARD_ANY_STRING(LENGTH<=15)}("wnflo.js",iwbre+"\\chrzi.js

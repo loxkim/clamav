@@ -1,0 +1,18 @@
+VIRUS NAME: Ppt.Downloader.Agent-9957266-0
+TDB: Engine:90-255,Target:2
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Write "CreateObject(""Wscript.Shell"").RegWrite ""HKCU\Software\Classes\WbemScripting.SWbemLocator\CLSID\
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+.OpenTextFile(""C:\ProgramData\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+GetFolder("\").RegisterTaskDefinition("DiskCleanUp"

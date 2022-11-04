@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Small-5406
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.write("<yi6fxri{WILDCARD_ANY_STRING}x>y".replace(/[ixy6f]/g,"

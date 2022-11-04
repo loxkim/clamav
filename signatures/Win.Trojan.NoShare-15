@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.NoShare-15
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+share y$ /delete /y %n%%l%%r% share my documents /delete /y %n%%l%%r% share shared docs /delete /y

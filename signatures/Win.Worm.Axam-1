@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Axam-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+iret = WritePrivateProfileString("boot", "shell", "Explorer.exe s

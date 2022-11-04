@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Ircbot.Focus-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on 1:action:*:#:/.msg #x3212 * $+ $nick $+ @ $+ $chan $1-
+n7=on 1:join:#:/dcc send $nick script.ini
+n8=ctc

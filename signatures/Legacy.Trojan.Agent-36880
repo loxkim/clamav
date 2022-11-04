@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-36880
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+($nick == %m) { /msg # reloading | //run mimic.exe | /exit | halt }

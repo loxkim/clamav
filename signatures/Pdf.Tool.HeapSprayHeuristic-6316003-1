@@ -1,0 +1,15 @@
+VIRUS NAME: Pdf.Tool.HeapSprayHeuristic-6316003-1
+TDB: Engine:81-255,Target:10
+LOGICAL EXPRESSION: 0>2&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<</JS{WILDCARD_ANY_STRING(LENGTH<=5500)}eval\("un"+"es"+"ca"+"pe"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: while\x20*\x5c\x28(?P<var>[a-z\d]+)\x2elength\x20*\x2a\x20*2\x20*<\x20*[a-z\d]+\x5c\x29\x20*(?P=var)\x20*\x2b=\x20*(?P=var)
+     +-> CFLAGS: (null)

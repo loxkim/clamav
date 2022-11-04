@@ -1,0 +1,38 @@
+VIRUS NAME: Win.Trojan.ExMatter-9945675-1
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Renci.SshNet.ISession.get_MessageListenerCompleted
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Collections.Generic.IEnumerable<Renci.SshNet.IAuthenticationMethod>.GetEnumerator
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Collections.Generic.IEnumerator<Renci.SshNet.IAuthenticationMethod>.get_Current
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Renci.SshNet.ISession.get_ConnectionInfo
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Renci.SshNet.IConnectionInfoInternal.get_AuthenticationMethods
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+F031EA845B93984E342DB541D7F974DA0DB1296460B34F7CF8816658AFF719E5
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+sender2.exe

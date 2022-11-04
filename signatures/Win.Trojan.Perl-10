@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Perl-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+	system ("clear");
+print "We are now going to install a backdoor into the crond\n";
+

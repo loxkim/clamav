@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.FS-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+For £d = 1 To Documents.Count{WILDCARD_ANY_STRING}If .Find("~^^~", 0, 0, 0, 0, 0, 0) = 0 Then

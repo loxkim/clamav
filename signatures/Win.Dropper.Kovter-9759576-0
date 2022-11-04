@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kovter-9759576-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+4096 -dos -Zl -Fo"C:\Users\admin\Desktop\PE2\Projects\Eu
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invertu debo.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@YSK@YYY@ZZZ@ZZZ@[[[@\\\@\\\@]]]@^^^@___@```@aaa@bbb@ccc@ddd@eee@fff@ggg@iii@jjj@kkk@lll@lll@~~~@"""k
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@QG@@ROI@RNI@SPJ@TQK@URL@UQL@VSM@WTN@XUO@YVP@ZWQ@[XR@\YS@]YT@_\W@`]X@a]X@c`[@da\@ea\@gd_@gc^@xtp@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@WQI@WWW@XXX@XXX@YYY@YYY@ZZZ@[[[@\\\@]]]@^^^@___@```@aaa@bbb@ccc@ddd@eee@ggg@hhh@iii@jjj@kkk@}}}@

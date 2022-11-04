@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Downloader-143
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+xmb = {WILDCARD_ANY_STRING(LENGTH<=12)}("microsoft.x"+abce+"ttp") xmb.open "get"

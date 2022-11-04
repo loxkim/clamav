@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Worm-68
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+.jpg.vbs" if shellobject.regread ("hkcu\software\{WILDCARD_ANY_STRING(LENGTH<=50)}\mailed") <> "1" then mail_trojan() end if

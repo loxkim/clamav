@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-166
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+set loveu = createobject("microsoft.xmlhttp") >>fuck.vbs @echo loveu.open "get",iremote,0 >>fuck.vbs

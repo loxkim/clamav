@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Relax-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+frens]
+
+On Error Resume Next
+dim worm, Map, virus, f, b, Fool, a, fc, nf, fso, d
+
+Const ForReading = 1, 

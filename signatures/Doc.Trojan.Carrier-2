@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Carrier-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+UCase(NI) = "REM BEGINN MODIFIED TDIE{WILDCARD_ANY_STRING}NormCarrier.Lines(x, 1) = "'I were at:" Then InsPos

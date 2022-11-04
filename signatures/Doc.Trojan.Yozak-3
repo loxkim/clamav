@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Yozak-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+isDocument").CodeModule.Lines(3, 3) = "Options.VirusProtection = False" Then ai = T{WILDCARD_ANY_STRING}MsgBox "Free Vic Free Vic Free Vic"

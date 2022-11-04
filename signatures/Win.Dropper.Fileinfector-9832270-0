@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Fileinfector-9832270-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+3667=I/O Log Reads Async Pending is the number of logfile read operations asynchronously pending completion.  [Dev Only]
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+3657=I/O Log Reads Average Latency is the average length of time, in milliseconds, per logfile read operation.  [Dev Onl
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+5041=The total number of command executes that have failed for any reason.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+3661=I/O Log Reads Average Bytes is the average number of bytes transferred per logfile read operation.  [Dev Only]
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+3615=Pages Read/sec is the number of pages per second that are read from the database by the scanning process [Dev Only]

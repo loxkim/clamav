@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Trojan.Agent-6922905-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FUkzNnwj = "d /V^:/C" + CStr(Chr(1 + 1 + 0 + 3 + 29)) + "s^e^" + "t ^_^{=\^_/ -" + "^_\ \^" + "_- ^\/- \_^" + "-^ ^-^" + "\/ ^\/^-^ ^\" + "_/^ ^" + "-^_" + "\ -_/ _"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GLRjf(0) = Left(HblPjRAPlAl + WIkjXPluYMfpCaZuAGlQthhuzHCmBU + wahJQMkiOGaCO, 514) + MidB(AiKCwrrCqVlnW + UlNbzMrqZusmHifYmXJttGif + awModFRBwpiJnl, 164, 73) + Mid(uLqNULn + rTVQhYwwjNJBNiZcjYlpQikGENc + XuZhdYz, 710, 835) + Left(XcvswLnr + VlGdEmwSlVfLlHnzjrsmZSo + HsZkVqCITDYlA, 364)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+JHKGQ(0) = MidB(UjSjmXiShzO + RjhGOwKrFiQpFwzDnmANUSmojbzmL + tZZErThn, 299, 972) + MidB(hPkTdKbPJRWNn + aPIvEGzOazvSSrRbFZzITcj + cDLQPMGXHDwkjB, 238, 858) + Mid(JwRjIvMWi + oSUozlVOfFMUdLTXmPpNaVhwv + tiiQSkd, 927, 708) + MidB(iujDkzDwcVALp + EtSRoawimbhDKaukGvluiXtwoisSpZTfkd + RfPzbDtsWmb, 300, 88)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MBPlKW(0) = Right(zciUnFjGv + FPOWMdofknBlmHvFFNorGubvrLOKrf + KwfCIVqGfP, 535) + Right(jKbBtiGRXIcl + UWdqVwQwzZDuRWMqShNLBwBfFnpCQ + WkBZGuRjNC, 965)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+YKZXcQ(1) = Mid(HwAaKzzMwGpPnU + fazwaKBVIYfszdkEFBufQiGwH + brvmAPuHVz, 895, 449) + MidB(ZRTwdwl + ODkvjUUMuAjhkFwWPHLipcr + zibjYbhjQULmB, 715, 2)
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hbRHnK(0) = MidB(kcbQjuiN + iiADCuzUKRibqnpDZotLRX + FJzcfaGXCsi, 480, 443) + MidB(pjuGAld + fJSLkSijTRsihlEVSkijPoEiXRirb + zWHunjJz, 111, 111) + MidB(RwIBfSttGB + XfoLPkZMLkPwbnhYbwTm + PDYiYFvuE, 435, 155) + Mid(hVfAIGOtFEnrGY + EEsIwAhioFoUXGpADvw + QVJzlqRhStA, 354, 294)
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ktwkoC(1) = Right(NJFubWHrSa + ZwREhwGjzoPSfcSmiijzG + zowZiVitwq, 319) + Left(pQwlNVpcvQAOA + YqwLrIzSWKRTYiQpjiwwllXwBYwKij + GsFBjqwcbw, 41) + Mid(MAKfVrU + MZTLztazjmtDckhzGTDjSspYliMpWcOf + UtEBbMPLAjca, 950, 463) + Left(pUXqBSH + VXzWaOsEzdNOBcTHrFwLhVnuIojB + NFpSoaVjVzuX, 739)
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vJSMac(0) = Left(jQUtQlSnuHQQzz + UahHiIFlVnhjVMwzZRGikMVknqOqwQp + uzPYKjX, 571) + MidB(HYvRTYhmwhv + NXSvHwlYrdMEzKvvOAjiNMvSOiqKEwCC + oQhSFPuiNTNoq, 43, 366)

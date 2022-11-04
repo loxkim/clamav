@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-828
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+account holder,{WILDCARD_ANY_STRING(LENGTH<=300)}your online security has been our first priority because we know your past online banking experience. we are kee

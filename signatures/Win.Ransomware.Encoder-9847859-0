@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Encoder-9847859-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TuneUp_url=http://tuneup.avg.tools.avcdn.net/tools/avg/tuneupvp/avg_tuneup_setup.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SecureVPN_url=http://avg.tools.avcdn.net/tools/avg/vpn/avg_secure_vpn_setup.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+We are sorry but the installer cannot run on your computer because your processor does not support SSE2 instruction set.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+UpdateFileURL=https://s-nuistatic.avcdn.net/nui/avg/1.0.100/updatefile.json
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VERSION.dll

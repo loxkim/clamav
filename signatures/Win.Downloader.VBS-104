@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-104
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.exe%22%3b%0d%0apath%3d%22c%3a%5c%5cwindows%5c%5cqing.exe%22%3b%0d%0atry%7bvar%20ado%3d%28document.createelement%28%22object%22%29%29%3b%0d%

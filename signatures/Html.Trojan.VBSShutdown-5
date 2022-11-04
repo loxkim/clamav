@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.VBSShutdown-5
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+Shell.Run "Rundll32.exe User.exe,ExitWindows

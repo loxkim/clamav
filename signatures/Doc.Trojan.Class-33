@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-33
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+EI66.CodeModule.AddFromFile ("c:\" & Application.UserInitials)

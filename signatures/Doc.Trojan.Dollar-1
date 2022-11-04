@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Dollar-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If NormalTemplate.VBProject.VBComponents(f).Name = "Dollar" Then{WILDCARD_ANY_STRING}Dollarz.Show

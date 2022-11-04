@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-939
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Herewith you receive the electronic reservation{WILDCARD_ANY_STRING(LENGTH<=48)}refer to attached file

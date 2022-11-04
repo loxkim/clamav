@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Adware.Genieo-6787552-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ection processes, and in a way which does not circumvent user consent. I acknowledge that any attempt to change this file from o
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Contents/Versions/%@/Google Chrome Framework.framework/Versions/A/Resources/resources.pak
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://%@/installer-layout/%@/%@/%@?product_name=%@&product_description_short=%@&product_logo_url=%@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Click 'Yes' to install %@ and selected Offers. 'Cancel' to continue with install process. 'No' to leave without %@ install.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/bin/launchctl load ~/Library/LaunchAgents/com.company.InstallerAgent.plist

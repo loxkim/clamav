@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.HatRed-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+hShell.Run (FSO.GetSpecialFolder(0) & "\Notepad.exe /p " & VictimName, 1, True)
+End If
+DoFile(VictimName

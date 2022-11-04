@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Generickdz-9826378-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+AVifil32.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Winmm.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+iwO{eefVpoellorvirr&y|&x1!k^Lj`'pb<pZ-w\]vT3hlwb9Zcr:\n^]psWbvR|T[[oeq_m=/nwYs
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+aGkwYqrJ|{Cxd7k`ii\<lan+Mso]QXR3gb[3hWf<mObp^wrKA1QteofOhg.JmQp@+rzTzrSW6fng9;L<sanoMEo]tu%Ydbh2hichaeno`qz_ucSurtfklgrll?rn*
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3eo"am7^'vXlsjys`01Sy eTA7W[<ZIoqVqCXuu#wW3E1jf=ipfyr`-.V0z@ue2di$L_kn[]?7op`xCZ3k!"brFcjU\n_]prUuuR}jm"

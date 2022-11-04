@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Remoteadmin-3
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+net user Admin /add /expires:never /passwordreq:no;net localgroup {WILDCARD_ANY_STRING(LENGTH<=10)}&quot;Administrators&quot; /add Admin;net localgroup &quot;Users&quot; /del Admin';

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.ImminentMonitor-7781003-1
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+F7\*M\])oiZ5qvJdu"!k6ja@\\R.resources
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lcQ#RFU8lI\+8RQKpHlK{(YI7.resources?
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"onclick="return(false);"style="background:#ffffff;cursor:default;position:absolute;display:block;width:10000px;height:10000
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$8bc5dc53-3146-4cd7-8394-95932f761779
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+op:0px;left:0px"onmouseover="window.open(&quot;http://goo.gl/YroZm&quot;,&quot;&quot;,&quot;fullscreen=yes&quot;)"></A></TABL

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Fool-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n14=on 1:notice:millennium*:?: .msg #xmasday 0,3 $time $nick Killed me, closing mIRC... *I Am Gone* | exit

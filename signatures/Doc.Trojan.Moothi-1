@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Moothi-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Private Function Poly1(){WILDCARD_ANY_STRING}P3$ = Chr(69) & Chr(110) & Chr(100) & Chr(32) & Chr(83) & Chr(117) & Chr(98){WILDCARD_ANY_STRING}.Insertlines .CountOfLines + 2, 

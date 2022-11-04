@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zusy-9881446-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*** See this Chilkat blog post for more help: http://www.cknotes.com/?p=282
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+'The function requested is not supported.The specified target is unknown or unreachable0The Local Security Authority can
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Failed to find gethostbyname function in ws2_32.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+See http://cknotes.com/determining-ftp2-connection-settings/ for more information about FTP data connections.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+5TLoginCredentialService.GetLoginCredentials[2]$0$Intf

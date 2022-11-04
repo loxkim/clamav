@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1033
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+you are however required to participate in this security upgrade process{WILDCARD_ANY_STRING(LENGTH<=10)}to protect your account from fraud

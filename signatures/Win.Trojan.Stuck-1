@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Stuck-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Window_Onload
+	Do
+		Msgbox("VBS.Stuck /1nternal")
+	Loop
+End sub
+

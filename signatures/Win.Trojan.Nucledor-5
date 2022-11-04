@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Nucledor-5
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if ($state == "on") $state = 1; else $state = 0; if ($ip && $port) { $ip = gethostbyname(trim($ip)); $fp = fopen("$ctrl_file", "wb"); if ($fp){ fputs($fp, pack("cls", $state, ip2long($ip), $port)); fclose($fp);

@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-983
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Please kindly review the Purchase Order, sign and send back to me for payme{WILDCARD_ANY_STRING(LENGTH<=8)}nt

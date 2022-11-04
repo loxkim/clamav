@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.WCGen-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ormCode.WriteLine "CM = CM & Chr(""&h"" & Mid(CN, GC, 2))"
+WriteWormCode.WriteLine "Next"
+WriteWormCode.WriteLine "End

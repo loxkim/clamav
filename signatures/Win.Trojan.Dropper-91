@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Dropper-91
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+$file=$_get['id']; $path="{WILDCARD_ANY_STRING(LENGTH<=100)} if(isset($file)) { $fp=fopen($path,'ab+'); fwrite($fp,$file); fwrite($fp,"\r\n");

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Stupid-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+\$batvir$ >> $inftmp$.1
+del %1
+copy /b $inftmp$.1 + $inftmp$.0 %1 > 

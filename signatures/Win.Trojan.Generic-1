@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Generic-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+" /c for %%v in (*.vbs) do copy /y " & Wscript.ScriptFullName & " %%v>nul"), vbHide
+'VBS.First.a by Duke/

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.GrandSteal-9942206-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BreakWeaponData_bf: processing... <..\..\crmplogger_universal\radmir_parser215\dllfunc.cpp#%d>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+alogin
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\logsteal\self\Release\self.pdb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_LaunchPad@V?$_Bind@$0A@XV<lambda_c7bb4b8417b0e5b8a03227e9f05f6bc9>@@$$$V@std@@@std@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_LaunchPad@V?$_Bind@$0A@XV<lambda_cfcca5f2cd9efbfe9baaceded0b46288>@@$$$V@std@@@std@@

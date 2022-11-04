@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Ursnif-6957873-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+countcharacter.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\Surface\move\wife\fair\StreetUs.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+I100? \u1085?\u1077?\u1087?\u1086?\u1089?\u1088?\u1077?\?\u1077?\u1085?\u1080?\u1077? \u1073?\u1077?u1
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+u1047?\u1053?\u1040?\u1050?\u1048? \u1048?u1090?\u1080?) \u1085?\
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Copyright (c) GXS, 2017. All rights reserved

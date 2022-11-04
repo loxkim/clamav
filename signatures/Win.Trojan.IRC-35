@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC-35
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+dec %i.t.j 1  |   /msg #globalthreat   inviter! error: not inviting: $gettok(%t.i,5,32)  because he was opd!

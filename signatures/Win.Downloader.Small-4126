@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.Small-4126
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MKDIR "%HOMEDRIVE%%HOMEPATH%\Start Menu\Programs\Instant XXX Access"

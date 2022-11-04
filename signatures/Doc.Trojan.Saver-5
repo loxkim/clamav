@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Saver-5
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+OrganizerCopy Source:=Normal.ThisDocument.FullName,{WILDCARD_ANY_STRING}If Word.ActiveDocument.Name = "Destrib.dll" Then Word.ActiveDocument.Close

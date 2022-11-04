@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Afeto-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Fs.FileName = "*.jpg"{WILDCARD_ANY_STRING}If Fs.Execute(SortBy:=msoSortB{WILDCARD_ANY_STRING}If Right(Fw, 4) = ".jpg" Then{WILDCARD_ANY_STRING}ction.InlineShapes.AddPicture FileName:=Fw,

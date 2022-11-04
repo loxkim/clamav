@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRCBot-795
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+$username = $usr1[rand(0,count($usr1) - 1)].$usr1[rand(0,count($usr1) - 1)].$usr1[rand(0,count($usr1) - 1)]; $keluar = 0; $akill = 1; $katime = 0; $localhost

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-9887137-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+UPDATE Masraf SET Baslik=@Baslik, Tarih=@Tarih, Tutar=@Tutar, Aciklama=@Aciklama, DurumId=@DurumId WHERE Id=@Id
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT Id, Baslik, Tarih, Tutar, Aciklama, PersonelId, DurumId FROM Masraf WHERE PersonelId = @PersonelId
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PersonelLogin
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NodeGraphControl.Properties.Resources.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+XmlTreeNodeParameterAlreadyExistsException

@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Butcher-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ (*.ans c:\max\*.ans) do copy c:\butcher.txt %%q
+del *.log
+copy %0 >> %1 %2 %3 %4 %5
+@ctty con
+: (c) Steel!

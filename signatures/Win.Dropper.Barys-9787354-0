@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Barys-9787354-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+fdfgdfgdf.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\xhe0htx7ddVIdTLpGoKV.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<PrivateImplementationDetails>{07CBEC7C-B696-4DF6-8360-6C4B8C468A60}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<RSAKeyValue><Modulus>oTLDdg0fm+iyrQ/0rkQsDqvjrASOn7QDvuAP1Z/qfvt4kEc/gHbYLknzi1dbXRRcRht78XIfkYUxIb7v1wt86ttsAwRlMi//Jj
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fdfgdfgdf.g.resources

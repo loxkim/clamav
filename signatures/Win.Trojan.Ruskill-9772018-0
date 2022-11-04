@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ruskill-9772018-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hopCS6.exe,Activador.exe,WindowsXPActivador.exe,Windows7Activador.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rar.exe,Winzip.exe,PhotoScape.exe,LiveMessenger2012.exe,DiabloIII.exe,DriverPackSolution.exe,MicrosoftOffice2010.exe,AdobePhotos
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ZU[INITESTINGRPE]lyd13iy207nqyl4temd8xmm0bxu3z66tqox8qyf2[INITESTINGRPE]0[INITESTINGRPE]0[INITESTINGRPE]Crack.exe,Serial.exe,Win
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+A*\AG:\Proyecto1.vbp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{^G~% 

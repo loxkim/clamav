@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Agent-36864
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+FILEINSTALL ( "ksfmon.ini" , @PROGRAMFILESDIR & "\KSafe\cfg\ksfmon.ini" , 1 )
+ FILECOPY ( @PROGRAMFILESDIR & {WILDCARD_ANY_STRING}.cn/?newth3" )
+ RUN ( @COMSPEC & " /c ping 127.0.0.1 -n 3&del/q/s

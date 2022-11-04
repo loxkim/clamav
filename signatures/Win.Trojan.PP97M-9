@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.PP97M-9
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+mponents(£o).Export Application.Path & ".DLL"{WILDCARD_ANY_STRING}.LookIn = ActivePresentation.Path: .FileName = "*.PPT": .SearchSubFolders = True: .Execute

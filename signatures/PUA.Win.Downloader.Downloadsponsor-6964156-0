@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Downloader.Downloadsponsor-6964156-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<rdf:Description about="" xmlns:xapMM="http://ns.adobe.com/xap/1.0/mm/">
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<x:xapmeta xmlns:x="adobe:ns:meta/" x:xaptk="XMP toolkit 2.8.2-33, framework 1.5">
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://api.chip-secured-download.de/afterdl/web/index.php
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<xapMM:DocumentID>adobe:docid:photoshop:8ef029f6-3616-11e1-a616-de6803c02c10</xapMM:DocumentID>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.download-sponsor.de/agb/agb-proxy.php?camp=

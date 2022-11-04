@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Boring-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Shell "c:\windows\command\format.com f:\ /u /q /autotest", vbMinimizedFocus{WILDCARD_ANY_STRING}ThatsAllFolks:

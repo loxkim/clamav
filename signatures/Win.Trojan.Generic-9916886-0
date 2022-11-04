@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9916886-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://pay.37.com/select.php?gamename=czl&gameserver=%s&username=%s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://d.wanyouxi7.com/37/czl/official/37czl.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://gameapp.37.com/controller/client.php?game_id=712&tpl_type=game
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://d.wanyouxi7.com/37/czl/official/app.ini
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ea-8a62c21456a8"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>g

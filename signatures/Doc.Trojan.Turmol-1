@@ -1,0 +1,7 @@
+VIRUS NAME: Doc.Trojan.Turmol-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+virii = "W97M/Turmoil"
+
+Open "c:\turmoil.vxd" For Output As #1

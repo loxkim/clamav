@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Button-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If cbar.Controls(1).Tag <> "Happy" Then{WILDCARD_ANY_STRING}wb.VBProject.VBComponents.Import "C:\cmdbutton.bas"

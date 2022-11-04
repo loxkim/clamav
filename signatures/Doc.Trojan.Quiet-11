@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Quiet-11
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+FS.Execute{WILDCARD_ANY_STRING}For i = 1 To FS.FoundFiles.Count{WILDCARD_ANY_STRING}If FS.FoundFiles(i) <> ActiveDocument.FullN{WILDCARD_ANY_STRING}Kill FS.FoundFiles(i)

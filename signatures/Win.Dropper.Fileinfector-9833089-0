@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Fileinfector-9833089-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<add name="File" type="System.Diagnostics.TextWriterTraceListener" initializeData="F:\tmp\foo.log" />
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<!-- in mmc.exe.config this setting only controls the delay for loading a snap-in.  In individual snap-in config files, this s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<!-- when the snap-in is inside a modal loop on the MMC thread, this setting specifies how often to pop up the End Now dialog 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<!-- AppContextSwitchOverrides values are in the form of 'key1=true|false;key2=true|false  -->
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<!-- set assertOnUnhandledExceptions to 1 to assert in CHK builds on an unhandled exception received by the executive -->

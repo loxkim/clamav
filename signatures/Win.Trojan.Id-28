@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-28
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+echo "uname -a: $un<br>"; echo "os: $os<br>"; echo "free: $free<br>"; echo "used: $used<br>"; echo "total: $all<br>"; $stat = $_post['stat']; if ($stat=="ok") { } else { $web = $_server["http_host"]; $fie = $_server["script_

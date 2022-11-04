@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Ircbot.Encounter-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:\windows\system\star.com | /quit Don't fuck with mIRC.Encounter worm
+n10=; => mIRC.Encounter
+n11=; => coded by MeTaLiK
+

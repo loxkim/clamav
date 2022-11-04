@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Thiss-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If ActDoc.Name <> "ThissDocument" Or ADColLn < 4 Then DoAD = T{WILDCARD_ANY_STRING}ElseIf (InStr(1, ActiveDocument.Name, "Документ")

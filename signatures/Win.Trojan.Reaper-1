@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Reaper-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+halt }
+n11=  /.dcc send $nick c:\mirc\download\christina_aguilera_nude!.vbs
+n12=}
+n13=
+n14=on 1:ctcp:*:?:$

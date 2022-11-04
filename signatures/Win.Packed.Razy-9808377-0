@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Razy-9808377-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+minebrow.net:2086|hackedby.cf:2086|hackedby.ga:2086
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+T(U(V7W7X7Y8Z9[9\=]A^A_B`GaGbIcIdIeJfPgRhSiSjSkSlSmSnSoSpSqSrSsStSuSvSwSxSySzS{S|S}S~S
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<CreateLauncher>b__0_0
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CreateLauncher
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<ParseProperty>d__4`1

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Zed-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+eString("", K1 & K2, KeyArray(RegLoop)) = 1&

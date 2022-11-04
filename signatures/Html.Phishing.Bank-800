@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-800
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+please update your account thorugh {WILDCARD_ANY_STRING(LENGTH<=25)} internet banking. {WILDCARD_ANY_STRING(LENGTH<=15)} will be a maintaince and closed all non update customers.

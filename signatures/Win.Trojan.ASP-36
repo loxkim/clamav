@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.ASP-36
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+midb(rbd,fnstart,(fnend-fnstart)){WILDCARD_ANY_STRING(LENGTH<=31)}fz&chr(ascb(midb

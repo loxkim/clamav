@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-209
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.run("cmd.exe/ktftp.exe-{WILDCARD_ANY_STRING(LENGTH<=25)}nc.exe-d-l-p1337-e

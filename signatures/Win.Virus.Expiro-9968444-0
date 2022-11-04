@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Expiro-9968444-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity name="Microsoft.Windows.Accessibility.OnScreenKeyboard" version="5.1.0.0" type="win32" processorArchitec
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@bbntou!O`ld"QNQ2!Rdswds"RLUQ!Rdswds"RLUQ!Ehrqm`x!O`ld"RLUQ!Dl`hm!@eesdrr"QNQ2!Trds!O`ld""
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;m#vjjn$11;m!v#;m8w#;k;m8q#;k8x#;}8mw#;m8mq#;k8jr#;k8h#;k8z#;m 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+9;EfhmE`k{h{pHu98Nl}]`jbJf|g}u99Nl}Dfm|elAhgmelHu
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+tspydsSxr

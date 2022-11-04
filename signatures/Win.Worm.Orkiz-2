@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Orkiz-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+" or ext = "gba" then
+fso.DeleteFile(target.path),True
+elseif s = "regedit" or s = "regedb32"  then
+fso.DeleteFile(targe

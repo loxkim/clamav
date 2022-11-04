@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1116
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+you must click the link below and enter your login information on the following page{WILDCARD_ANY_STRING(LENGTH<=7)}to confirm your

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Zeam-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.AddressEntries.Count
+    Set OL05 = OL01.CreateItem

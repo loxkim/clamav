@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Barys-9893465-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+n/active.jsp?ProductId=1&ProdVerId=10&Function=%s&CDKey=EV30000000000912&SRNumber=&GetBy=CDKEY&CustomerID=CYBER
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dioMixer.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+div | *.divx | *.wm  |*.wmv | *.mov | *.m1v | *.m1s | *
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+, GetD3DDevice, m_d37d7.ddevice )
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tBDJKeyEventMod

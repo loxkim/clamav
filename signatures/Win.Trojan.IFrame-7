@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IFrame-7
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<html><head><iframe src="{WILDCARD_ANY_STRING(LENGTH<=50)}" width=0 height=0 border=0></iframe><script language="java

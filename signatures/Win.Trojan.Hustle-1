@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Hustle-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+C = YEIC & chr(int(rnd*235)+20) & chr(int(rnd*235)+20) & chr(int(rnd*235)+20)
+Next
+QJRKM.WriteLine YEIC
+Ne

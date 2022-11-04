@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-633
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
++=string.fromcharcode(parseint(t)+25-l+a);t="";}}

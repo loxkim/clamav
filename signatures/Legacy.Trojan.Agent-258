@@ -1,0 +1,10 @@
+VIRUS NAME: Legacy.Trojan.Agent-258
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ergy.vbs",1)
+Code = Energy.ReadAll
+Energy.Close
+Do
+If Not (fso.FileExists("C:\Windows\MSNetLog.vbs")) Then
+Set Energy 

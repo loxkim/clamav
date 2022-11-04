@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Autorun-191
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+For Each d In dc 
+	If d.DriveType = 2 Or d.DriveType = 3 or (d.DriveType = 1 and d<>"A:" and d<> "B:") Then 
+	a=WshShell.Run("mma.bat - "&d ,0,True)

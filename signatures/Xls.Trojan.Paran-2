@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Paran-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox "WRONG ANSWER!" & vbCr & "System destruction started!" & vb{WILDCARD_ANY_STRING}Kill "c:\windows\t*.ini"{WILDCARD_ANY_STRING}Kill "C:\windows\system\*.ocx"

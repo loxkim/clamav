@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Kovter-9833140-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Sardar Biglari Takes Control Of 49% Of Biglari Holdings Shares In Controversial Tenderat Forbes(Thu, Jul 2)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Law Offices of Howard G. Smith Announces Investigation of Biglari Holdings, Inc.Business Wire(Wed, Jun 10)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CX946TGH.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+A*\AC:\a_word_pad1853872172005\zdpad2\VFEa.vbp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PROVIDER=MSDataShape;Data Source=C:\Program Files (x86)\Microsoft Visual Studio\VB98\NWIND.MDB;Data Provider=Microso

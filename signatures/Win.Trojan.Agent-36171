@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36171
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Ka=wBCi.length*2;var JK=OPv-(tKa+0x38);var yv=unescape("%u9090%u9090");yv=VJ(yv,JK);var pGU=(jpX-0x400000)/OPv;for(var kmi=0;kmi<pGU;kmi++){CQI[kmi]=yv+wBCi;}}function Df(){var gy=app.viewerVersion.toString();gy=gy.replace(/\D/g,'');var gy_id=new Array(gy.charAt(0),gy.charAt(1),gy.charAt(2));if((gy_id[0]==8&&((gy_id[1]==1&&gy_id[2]<2)

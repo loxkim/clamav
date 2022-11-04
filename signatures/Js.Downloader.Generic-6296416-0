@@ -1,0 +1,20 @@
+VIRUS NAME: Js.Downloader.Generic-6296416-0
+TDB: Engine:81-255,Target:0
+LOGICAL EXPRESSION: 2
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+function
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+new Function(
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1
+     +-> REGEX: (function\s[o0O]{6}\(\s*([o0O]{6})?(\s*,\s*[o0O]{6})*\s*\).*?){3,}
+     +-> CFLAGS: s

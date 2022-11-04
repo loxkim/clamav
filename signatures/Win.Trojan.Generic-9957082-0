@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9957082-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+crosoft-Windows-Common-Modem-Drivers-Package~31bf3856ad364e35~x86~~6.1.7601.17514" update="INF_mdmaiwa"/>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+age_2_for_KB2818604~31bf3856ad364e35~x86~~6.1.1.0" update="2818604-4_neutral_GDR"/>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+            <Install package="Package_2_for_KB2818604~31bf3856ad364e35~x86~~6.1.1.0" update="2818604-4_neutral_GDR"/
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Resolve package="Microsoft-Windows-Client-Drivers-Package~31bf3856ad364e35~x86~en-US~6.1.760
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\But\886\When\Put_Enough\fly.pdb

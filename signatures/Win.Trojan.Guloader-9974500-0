@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Guloader-9974500-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nstall System v3.01</description><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requested
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ecutionLevel level="asInvoker" uiAccess="false"/></requestedPrivileges></security></trustInfo><compatibility xmlns="urn:sch
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+A>>y=;;s=;;r=::p=::o<99l;88i:77f966d855b744_733^522[511Y511Z511Y522Z522[522\744`KFFyvmk
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?==w;::q;99o<99n<99l;88j:87h976e855c855a744^522[300V1..R0,,N.++L-*)I,))H-))H.++J0,,L/,,L0,,M0,,M1..Q2/.T400V411X522[ZSS
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=;;r877k876j977j976h865f755c644a532^411[300Y20/W1//T1.-R/,+M*('F+))G;88_WTT

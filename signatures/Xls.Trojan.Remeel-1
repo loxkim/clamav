@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Remeel-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Workbooks(a).VBProject.VBComponents.Item(1).CodeModule.Lines(3, 1) <> "'Remeel" Then E% = 7 Else E% = 8

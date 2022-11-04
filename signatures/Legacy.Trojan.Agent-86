@@ -1,0 +1,10 @@
+VIRUS NAME: Legacy.Trojan.Agent-86
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+(1); command(); }
+sub command { while (<$new>) { $comm = $_; chomp $comm;
+print $new "$comm\n";
+command(); } }
+} 
+}

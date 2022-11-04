@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Bulz-9801105-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity name="Tweaking.com.Repair_Windows" processorArchitecture="X86" type="win32" version="3.0.0.0" />
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Failed to Save Stream %s is already associated with %sE%d is an invalid PageIndex value.  PageIndex must be between 0 an
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings" xmlns:asmv3="urn:schemas-microsoft-com:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid time Offset string: %s$MD5: Cannot update a finalized hash.=Error decoding URL style (%%XX) encoded string at po
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tment" progid="Codejock.CommonDialog.18.2.0" description="CommonDialog Control" />

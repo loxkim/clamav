@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.CallMe-1
+TARGET TYPE: MACHO
+OFFSET: *
+DECODED SIGNATURE:
+/tmp/tmpAddressbook{WILDCARD_ANY_STRING(LENGTH<=50)}/library/LaunchDaemons{WILDCARD_ANY_STRING(LENGTH<=30)}apple.plist

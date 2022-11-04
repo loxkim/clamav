@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Azon-8
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if you don't update your information within {WILDCARD_ANY_STRING(LENGTH<=3)}next 48 hours{WILDCARD_ANY_STRING(LENGTH<=1)}, we will be forced to suspend your account until{WILDCARD_ANY_STRING(LENGTH<=1)} you have

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-301
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+hoose to ignore our request, you leave us no choise but not temporaly suspend account.</s{WILDCARD_ANY_STRING(LENGTH<=250)}verify your account in that tim

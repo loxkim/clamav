@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Trojan-538
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Shell.RegWrite "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run\SwapNT", "rundll32 user32, SwapMouseButton"

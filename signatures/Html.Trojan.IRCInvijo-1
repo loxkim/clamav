@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCInvijo-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo BoT - %temp{WILDCARD_ANY_STRING}ACTION %Inviter2Msg $+  | inc %i.t.j | .timerDelay 1 5 set %i.ons

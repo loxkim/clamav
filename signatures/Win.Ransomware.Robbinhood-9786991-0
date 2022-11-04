@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Robbinhood-9786991-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d2FsbGV0ZGF0d2JlbmdpbmU=d2JveC5leGU=d2VpcC5leGU=d2ltLmV4ZQ==d3BzLmV4ZQ==dG1saXN0ZW4=dG9hZC5leGU=dW5pdHkzZA==dmlzaW8uZXhldumping 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bnQ=a3NucHJveHk=aHR0cGQuZXhlaHh0c3IuZXhlabi mismatchadvapi32.dllb25ldG9jMg==b2lzLmV4ZQ==b3VjLmV4ZQ==bGl0ZW1vZA==bGl0ZXNxbA==bW9u
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4 failedchan receivecmNwLmV4ZQ==cmhzLmV4ZQ==cnN5bmMuZXhlcnVieS5leGU=common filescontext.TODOd21haW4uZXhld21pYy5leGU=d290cmVwbGF5
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ZXl3ZWxsbWFjbW5zdmM=bWFkLmV4ZQ==bWFuaWZlc3Q=bWFwaW1haWw=bWJhZVN2Yw==bWRiYWNrdXA=bWZlZmlyZQ==bXlzcWwuZXhlbad g statusbad g0 stack
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+heapeG1pbmQuZXhleGZ0cC5leGU=end tracegc

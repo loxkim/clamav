@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Backdoorx-9937802-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+away from your robot, and the target robot receives 1 Damage token. (Robots can't be pushed through walls.) You may use this Op
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+execute your robot's program for the rest of the turn. In the cases of card priority, the target robot moves immediately after 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sWhenever you execute a Back Up, you maymove your robot back 2 spaces instead of 1. Priority is that of the Back Up.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mWhenever you execute a move 1, you may move your robot 0 spaces instead of 1. Priority is that of the Move 1.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.R

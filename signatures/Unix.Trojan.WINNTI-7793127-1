@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Trojan.WINNTI-7793127-1
+TARGET TYPE: ELF
+OFFSET: *
+DECODED SIGNATURE:
+to hide the process{WILDCARD_ANY_STRING}i_solemnly_swear_that_i_am_up_to_no_good{WILDCARD_ANY_STRING}mischief_managed

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Melissa-18
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+WriteRegistry HKEY_LOCAL_MACHINE, Key1, "Remark", ValString, "MelissaFX"

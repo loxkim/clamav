@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Tool.Hideexec-9795251-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<requestedPrivileges><requestedExecutionLevel level="requireAdministrator" uiAccess="false"/></requestedPrivileges>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SetEnvironment="copy_lst=hidcon:cmd /c If Exist \"%%S\\7zipArch.lst\" Copy /y \"%%S\\7zipArch.lst\" 7zipArch.lst"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xar#19 xz#23 z#5 zip#1) Do For /F \"tokens=1* Delims=#\" %a In (\"%I\") Do Call setup7z %a %b"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+7zipArch.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SetEnvironment="reg=hidcon:cmd /c If Exist \"%%S\\7zipArch.reg\" (REGEDIT /S \"%%S\\7zipArch.reg\") Else REGEDIT /S

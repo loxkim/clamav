@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Randon-29
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ace($gettok(%1p1,1,46),*,$rand(1,255)){WILDCARD_ANY_STRING}cting $1- with dcom %dcom

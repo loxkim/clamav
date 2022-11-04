@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Poppy-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nly + vbArchive Then Call vBitchES("c:\windows\startm~1\programs\startup\msfile.bat"){WILDCARD_ANY_STRING}snag1$ = "c:\progra~1\micros~2\templa~1\"

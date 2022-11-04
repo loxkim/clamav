@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Freelink-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ichero links.vbs
+    Set A6 = A1.GetFile(A1.BuildPath(A1.GetSpecialFolder(0), "LINKS.VBS"))
+    A6.Delete

@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.Reggie-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:vir
+if exist %1\nul goto scr
+find /i "[REGgIE]" <%1>

@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Zert-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ul%GoodBY%
+SET By= *.bat
+for %%t in (%BY%) do set GoodBy=%%t
+for %%y in (%GoodBy%) do find "GoodBy" %%y

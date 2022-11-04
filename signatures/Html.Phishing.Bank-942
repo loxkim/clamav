@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-942
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we are now requiring each member to validate their accounts using our new secure and safe ssl servers.{WILDCARD_ANY_STRING(LENGTH<=7)}to validate your online banking account

@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Redir-21
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+{_0xa064x1=_0xa064x1[_0x4470[4]]( new regexp(_0x4470[7]+_0xa064x5(_0xa064x3)+_0x4470[7],_0x4470[8]),_0xa064x4[_0xa064x3]);} ;} ;return _0xa064x1;} (_0x4470[0],33,33,_0x4470[3][_0x4470[2]](_0x4470[1]),0,{}))

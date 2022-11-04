@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Worm.Scalper-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+/bin/uudecode -p /tmp/.uua > /tmp/.a;killall -9 .a;chmod +x /tmp/.a;killall -9 .a;/tmp/.a %s;exit;

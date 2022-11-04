@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-39
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+echo "uname -a: $alb<br>"; echo "os: $os<br>"; echo "uptime: $alb2<br>"; echo "id: $alb3<br>"; echo "pwd: $alb4<br>"; echo "php: $alb6<br>"; echo "software: $alb5<br>"; echo "server-name: $alb8<br>"; echo "server-ip: $alb7<br>"; echo "free: $free<br>"; echo "used: $used<br>"

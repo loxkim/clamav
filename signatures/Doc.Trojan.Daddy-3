@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Daddy-3
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If ActiveWindow.Caption <> "a1" And InStr(1, ActiveDocument.Name, "Docume", 1) = 0{WILDCARD_ANY_STRING}And ActiveDocument.Name <> "WIN32S16.DOT" Then Utama

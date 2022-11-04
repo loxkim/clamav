@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Saver-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Word.ActiveDocument.name = "saver.dll" Then MsgBox 

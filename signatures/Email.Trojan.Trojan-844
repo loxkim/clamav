@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-844
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Thank you for completing your payment{WILDCARD_ANY_STRING(LENGTH<=480)}print attached notification and keep it as a receipt

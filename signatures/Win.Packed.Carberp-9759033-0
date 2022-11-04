@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Carberp-9759033-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+88.198.53.14;22;445;sshu;P@ssw0rd;system_help;fixerESCONuendoZ;http://www.cushyhost.com/download.php?img=73
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-Xbootclasspath/p:"%s\rt_add.jar" -javaagent:"%s\AgentPassive.jar" 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GET /stat?uptime=%d&downlink=%d&uplink=%d&id=%s&statpass=%s&comment=%s HTTP/1.0
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+opera.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;"%s\AgentPassive.jar";"%s\lib\javassist.jar";firmware.jar;sinker-swing.jar; -Xbootclasspath/p:"%s\rt_add.jar" -javaag

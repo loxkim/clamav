@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Clicker-78
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if(window.symrealwinopen){window.open=symrealwinopen;}if(window.ns_actualopen){window.open=ns_actualopen;}if(typeof(usingclick

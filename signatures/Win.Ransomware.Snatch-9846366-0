@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Snatch-9846366-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!=  ->  <== as  at  fp= is  lr: of  on  pc= sp: sp=%s%s) = ) m=+Inf+inf, n -Inf-inf.bat.cmd.com.exe/all3125: p=ACDTACSTAEDTAEST
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+writetracealloc(unreachableuserenv.dll [recovered] allocCount  found at *( gcscandone  m->gsignal= minTrigger= nDataRoots= nSpa
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.dllreflect.Copyreleasep: m=runtime: gp=short bufferunexpected )wirep: p->m= != sweepgen  (default %q) (default %v) MB released
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+failedsync.Cond.Waittext file busytoo many linkstoo many usersunexpected EOFunknown markerunknown methodunreachable:  unsafe.Po
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+at beginning of stringstrings.Reader.WriteTo: invalid WriteString countError write 1-st part encrypt data to file %s: %v

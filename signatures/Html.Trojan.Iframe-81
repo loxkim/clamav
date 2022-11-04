@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Iframe-81
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<iframe src="http://usuarios.arnet.com.ar/alvarezluque/morgan.html" width="0" height="0" frameborder="0">

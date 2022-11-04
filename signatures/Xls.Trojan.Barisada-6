@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Barisada-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+e Sub Workbook_BeforePrint{WILDCARD_ANY_STRING}v2 = MsgBox("Summoning Xavier is the Ultimate Magic. Right?", vbYesNo, "Wrong Answer may cause The S

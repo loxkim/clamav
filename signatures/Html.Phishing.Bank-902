@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-902
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we encourage you to connect to your account and verify your transactions, by clicking the secured url below{WILDCARD_ANY_STRING(LENGTH<=50)}<a href="http:

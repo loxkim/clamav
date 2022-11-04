@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-9956996-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+of 2unexpected signal during runtime executiongcBgMarkWorker: unexpected gcMarkWorkerModegrew heap, but no adequate free space 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gp.paramruntime:stoplockedm: lockedg (atomicstatus=unfinished open-coded defers in deferreturnunknown runnable goroutine during 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ting panic valueresource temporarily unavailableruntime.semasleep wait_abandonedruntime: failed to release pagesruntime: fixallo
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+of span with free space remainingruntime.preemptM: duplicatehandle failedruntime: SyscallN has too many argumentsruntime: out o
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ing unaligned regionDeleteProcThreadAttributeListaddspecial on invalid pointercrypto/aes: invalid key size executing on Go runti

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Crypt-296
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+function n000(n001){r="";for(i=0;i<n001.length;i++){if(n001.charat(i)=="z"){s1="%"}else{s1=n001.charat(i)}r=r+s1;}return unescape(r);}eval(z($));document.write($);

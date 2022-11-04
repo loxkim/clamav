@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Twno-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+WordBasic.Text 21, 48, 171, 13, "否则,你的文档将被删除!", "Text3"

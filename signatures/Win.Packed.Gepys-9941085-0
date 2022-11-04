@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Gepys-9941085-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\84d9e9662bd19935c4261e9605b2c0993d351b5710d0b1acc10d0026c11b23b6.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\e2b0abb9664b996d25c6b3fa30bdd290.virus.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\8cb2fcc087f532c756f54ec26e74f013304ca1dd9b7b0aaf4b5c3fc2d249ccd8.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\800e872ff5488b677d67c59398548b4a61a6a740731506adf5f2321d946ca321.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\e08bfafefc69ec15d2975bb9a66c94eca30db94c3568eb8ed4ca4ca4cd898bed.exe

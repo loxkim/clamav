@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Abc-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+dBasic.[MacroName$](i, 0, 0) = "Colin" Then{WILDCARD_ANY_STRING}sMacro$ = sMe$ + ":Colin"{WILDCARD_ANY_STRING}opy sMacro$, "Global:FileSaveAs"

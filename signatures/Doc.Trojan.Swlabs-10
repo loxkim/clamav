@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Swlabs-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ordBasic.[MenuItemText$]("&Tools", 0, 13, 0) = "&Macro..." Then{WILDCARD_ANY_STRING}rdBasic.[MacroFileName$]("AutoOpen") = "" Then GoTo EndCode

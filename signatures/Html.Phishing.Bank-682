@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-682
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if you do <acu></acu>not <ack></ack>confirm your address {WILDCARD_ANY_STRING(LENGTH<=80)} be suspended for security reasons <acw></acw><br>and we will send you an activa

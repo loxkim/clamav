@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Becky-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+File = FSO.CreateTextFile("c:\Windows\WinStart.bat", True)
+    AntiAVFile.WriteLine "Deltree c:\progra~1\

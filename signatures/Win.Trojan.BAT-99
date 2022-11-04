@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.BAT-99
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+ms\startup\kangaroo.bat{WILDCARD_ANY_STRING}rd c:\windows\repair

@@ -1,0 +1,8 @@
+VIRUS NAME: Py.Spyware.EvilOSX-6641404-0
+TDB: Engine:51-255,Target:7
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.split("debug:\n")[1].replace("debug-->", "")

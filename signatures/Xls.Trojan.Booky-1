@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Booky-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+veWorkbook.VBProject.VBComponents(i).Name = "booky" Then modul = i{WILDCARD_ANY_STRING}strn = xxx + " '" + poly

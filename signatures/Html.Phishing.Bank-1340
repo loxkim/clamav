@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1340
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+not connected to any account security.{WILDCARD_ANY_STRING(LENGTH<=14)}This may happen if you did not complete your last{WILDCARD_ANY_STRING(LENGTH<=7)}updated or too many invalid attempt on account.{WILDCARD_ANY_STRING(LENGTH<=14)}click on

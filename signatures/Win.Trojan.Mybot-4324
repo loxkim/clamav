@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Mybot-4324
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+HTTP/1.0 200 OK
+Server: myBot
+Cache-Control: no-cache,no-store,max-age=0
+pragma: no-cache
+Content-Type: %s
+Accept-Ranges: bytes
+Date: %s %s

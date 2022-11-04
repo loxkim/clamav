@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Worm.Breberka-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on\Breberka", "...by gl"
+End Sub
+
+Sub Drop_Me()
+On Error Resume Next
+Dim Temp, Drive, AllDrives, AutoExec

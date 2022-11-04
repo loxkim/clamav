@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Small-4613
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+('cls'+nl+'@echo off'+nl+'echo.'+big+'virus.js')

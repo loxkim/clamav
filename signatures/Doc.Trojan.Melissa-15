@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Melissa-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+b$ = hk1$ + smo$ + "\9.0\Word\" + sec1${WILDCARD_ANY_STRING}ToI.CodeModule.InsertLines BGN, NTI1.CodeModule.Lines(BGN, 1)

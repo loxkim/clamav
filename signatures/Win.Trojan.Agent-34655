@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-34655
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+$x0b="in\x69_\147\x65\x74"; $x0c="\163tr\x74o\154\x6fwe\x72"; echo "c\162\141\156k\x5fr\157c\x6bs";if (@$x0b("\163\x61\x66e_\x6d\157\144e") or $x0c(@$x0b("\x73a\x66\x

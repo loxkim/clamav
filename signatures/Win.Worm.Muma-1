@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Muma-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+gon\parameters\signsecurechannel=4,1 >> tem{WILDCARD_ANY_STRING}ecedit.exe /configure /areas USER_RIGHTS /db %windir%\te

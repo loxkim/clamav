@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Dbt-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Me.Name = "Tmpltnum.xla" Then{WILDCARD_ANY_STRING}t = Shell("delxls.bat /c", vbHide)

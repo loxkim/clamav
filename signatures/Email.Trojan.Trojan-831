@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-831
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Una etiqueta postal es adjuntada a esta carta{WILDCARD_ANY_STRING(LENGTH<=16)}Tiene que imprimir la etiqueta para recoger el paquete en su oficina de correos

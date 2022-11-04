@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Tool.PHP-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo "<br><br>完成<br><br> <a href=$bacename>回去看看？</a><br>";

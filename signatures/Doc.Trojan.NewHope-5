@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.NewHope-5
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+odule.Lines(2, 1) = "{WILDCARD_ANY_STRING(LENGTH<=100)}" Then ActInstalled = True{WILDCARD_ANY_STRING}Set Inf = NormalTemplate.VBProject.VBComponents(1).CodeModu{WILDCARD_ANY_STRING}Code = .Lines(1, .CountOfL

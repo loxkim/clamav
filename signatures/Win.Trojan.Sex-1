@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Sex-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+copy %0 %2
+:$antiav
+del c:\progra~1\antivi~1\*.avc
+del c:\progra~1\norton~1\s32integ.dl

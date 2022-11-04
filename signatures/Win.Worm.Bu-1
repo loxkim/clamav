@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Worm.Bu-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+no.Name <> "DOCWORM" Then
+no.Name = "DOCWORM"
+install ad, no
+drop
+bumblespawn=shell("c:\spawn.exe -i",vbnorma

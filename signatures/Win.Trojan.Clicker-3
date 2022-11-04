@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Clicker-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+d="";var t=1;var s="0x";for(var i=0;i<c.length;i+=2){s="0x";s=s.concat("",c.substring(i,i+2));t=parseInt(s);cd=cd.concat("",h.substring(t,t+1));}

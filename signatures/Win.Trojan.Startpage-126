@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Startpage-126
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ath2 = tfolder2 + "\\update13.js";{WILDCARD_ANY_STRING}riteLine('var filepath = tfolder + "\\\\update13.js";');

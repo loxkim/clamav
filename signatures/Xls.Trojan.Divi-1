@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Divi-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cstrVolumeData  As String = "IVID"{WILDCARD_ANY_STRING}s.Add cstrVolumeData + Hex$(lngVolumeID), False, , ""

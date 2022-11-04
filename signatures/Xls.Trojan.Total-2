@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Total-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+oks(PC_TARGET).Modules(PC_SECOND_LOOP).Name = "sum_total" Then pc_copy_trigger =

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Bulz-9939893-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD0
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Pswvvxbmwzhco.Uhnzqtebggubgk.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+69 0 obj<</Length 20/Filter/FlateDecode/W[1 1 1]/Index[7 30]/DecodeParms<</Columns 3/Predictor 12>>/Size 37/Type/XRef>>stream
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+55 0 obj<</Subtype/Image/Length 257/BitsPerComponent 8/ColorSpace 45 0 R/Width 16/Height 16/Type/XObject>>stream
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+R/Im5 62 0 R/Im6 63 0 R/Im7 64 0 R/Im8 65 0 R/Im9 66 0 R>>/ColorSpace<</CS0 44 0 R/CS1 47 0 R/CS2 45 0 R>>/Font<</TT0 43 0 R>>/

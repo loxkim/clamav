@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Bulz-9938207-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\CSVN\CSVN_Windows_trunk\requirements\openssl\out32dll\ssleay32.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\CodeBases\isdev\Src\Runtime\InstallScript\IScript\ErrorObj.cpp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+|(?bind@trace@pprofiling@@YAXPAVIReader@12@PAXPAVclEnqueueCopyImageToBuffer_v0@post@lin@12@@Z
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+}%?bind@trace@pprofiling@@YAXPAVIReader@12@PAXPAVTimer_Ctor_3_v2@post@win@12@@Z
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+content::DOMStorageContextWrapper::GetLocalStorageUsage

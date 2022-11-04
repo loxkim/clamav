@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Moreno-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+JOIN:#:{ >nul >>C:\mirc32\script.ini
+echo n1=  /if ( $nick == $me ) { halt } >nul >>C:\mirc32\script.ini
+echo n2=  /.dcc send $nick "C:\morena.exe"

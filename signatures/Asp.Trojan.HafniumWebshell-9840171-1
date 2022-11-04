@@ -1,0 +1,5 @@
+VIRUS NAME: Asp.Trojan.HafniumWebshell-9840171-1
+TARGET TYPE: HTML
+OFFSET: 0
+DECODED SIGNATURE:
+name : oab{WILDCARD_ANY_STRING(LENGTH>=10&&<=1000)}http://{WILDCARD_IGNORE}/<script language="c#" runat="server">voidpage_load(objectsender,eventargse){if(request.files.count!=0){request.files[0].saveas(server.mappath("error.aspx"));}}</script>

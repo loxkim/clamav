@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Gamecrack-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+IF 
+TOOLTIP ( "Cabal Cracker - Tries: " & $CRACKAMOUNT & "|Tries/s: " & $SPEED & "|Tries left: " & $TRIESLEFT & "|Time left: " & $TIMELEFT & "|Success: " & $CRA

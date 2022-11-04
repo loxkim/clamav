@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36638
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off echo lol, the format continues! echo you piss me off, now i piss you off! @echo on deltree /y c:/

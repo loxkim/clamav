@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Vgen-44
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off
+if %1#==## goto %2
+cd>c:\cdsave$
+ec

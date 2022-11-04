@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ratx-9947504-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+'PNG/JNG/MNG clipboard not yet supportedEPNG/JNG/MNG error: %s [Code=%d; Severity=%d; Chunknr=%d; Extra=%d/%d]#libmng.dl
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+libmng.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ProcessTimer/display_resume
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+W]sss]WsssWS]ss]SWss[W]\s`W]ssW`]ssW]`ss[]W\s`]Wss]`Wss]W`ss`]SWs`WS]s]SW`sWS]`sWS`]s]`SWs[WS]\[]SW\
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+JPEG Image File"Unable to find a Table of Contents

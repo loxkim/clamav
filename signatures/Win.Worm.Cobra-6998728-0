@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Cobra-6998728-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ZQ.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+I_P" -m'*+h<;+/)b';5<>:'!y;irv\fjs``}Ubxhc|>yf~+a+58m{i{xj"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bJP0cb+6  zj!>?<wa`=0<} 495an,`kh)%65y{mc0
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+I_P" -m'*+h)<)?%" `#4>?z?>#mm=w9'&si{mnx0,Pd~b1*
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_S)##!%k%(f#:dns

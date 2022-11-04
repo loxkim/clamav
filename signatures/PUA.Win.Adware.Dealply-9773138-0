@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Dealply-9773138-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity type="win32" version="2.1.4.1" name="nurodulapa.exe" processorArchitecture="x86"/>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WY_^^`ZY_Z`ZY\^ZYZ_XZWW`^XYZ\YX]W^]^\`_^WX\W^_Z^^_\Y^[W_Z[\`WXZZW[]`X`__WYXY``^Y[]W[]Z__WW]]Y[W\W[Z^\]&
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4785039126;:=<@?>RVWQEZLXOJSGTYIUDAKMPBCHNF^_`[\]bavedqtrsnuowjlxfhigkcmpzy
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\WW[`]ZYYYY]`^[]_YYZYZ^[]]`ZX\`[Y[_^\_\]``\ZX]W[W___X]ZY^^X[X\Z]`_[_[_^`Y`X]Z]_WYX\_`X_Y[_ZY^`Z_W^___^[YZ^X]\X^Y]\`ZY[_
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*g/.AGB

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Salim-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+fs.copyfile "c:\Salim_se!.doc", g.driveletter & ":\", True

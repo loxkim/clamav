@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Jigsaw-9848506-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\bcebl\Pictures\Jigsaw\JigsawRansomware\JigsawRansomware\obj\Release\cats.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.R
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+To run this application, you first must install one of the following version of the .NET Framework:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Decrypting your files. It will take for a while. After done I will close and completely remove myself from your computer
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.wav .mp3 .aif .iff .m3u .m4u .mid .mpa .wma .ra .avi .mov .mp4 .3gp .mpeg .3g2 .asf .asx .flv .mpg .wmv .vob .m3u8 .mkv

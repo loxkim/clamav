@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Urgdi-6809251-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.IEC 61966-2-1 Default RGB Colour Space - sRGB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Copyright International Color Consortium, 2009
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+`^^;;`-```-:*`:**-*:^`-^_;^^;;``^**,`*,^.*`-^..`;-;:;**:;..^::`;^,,^-_*;`:;*`^^_::;-,*-:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-Reference Viewing Condition in IEC 61966-2-1
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ll4400ll4224ll4224ll4224ll4224ll4752ll4928ll5720ll4312ll4752ll5720ll4488ll5984ll5984ll4928ll4664ll4312ll6072ll4928ll4488

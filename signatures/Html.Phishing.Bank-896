@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-896
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+limited in their ability to send or withdraw funds.{WILDCARD_ANY_STRING(LENGTH<=14)}to initiate the update confirmation process{WILDCARD_ANY_STRING(LENGTH<=7)}please log in below or click the link prov

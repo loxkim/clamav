@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Toro-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+con.X6 
+echo.>con.X6 
+echo You have just been erased!>con.X6 
+pause>nul.X6 
+goto $2>nul.X6 
+
+:$1 >nul.X7

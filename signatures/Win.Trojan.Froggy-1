@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Froggy-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+og!_!.bat %comspec% nul /e:30000 /f/c frog!_! FRoGGy run
+del frog!_!.

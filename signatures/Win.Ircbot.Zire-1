@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Zire-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@deltree/y c:\inocul~2\ >nul{WILDCARD_ANY_STRING}X4FREE.bat | /msg $nick The Fir

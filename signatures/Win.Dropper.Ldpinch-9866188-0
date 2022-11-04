@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Ldpinch-9866188-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+9Unable to load inetmib1.dll.  Please see the online help.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  Please see the Requirements section in the online help.$SnmpExtensionInit address not found.%SnmpExtensionQuery addres
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unable to create window.-Unable to add shortcut to the startup folder.rUnable to retrieve the performance data in the re
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+This setting controls how often the network statistics are updated.  Lower values (left) will yield more accurate result
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error loading inetmib1.dll. 

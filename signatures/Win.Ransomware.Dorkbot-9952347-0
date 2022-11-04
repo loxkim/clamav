@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Dorkbot-9952347-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+unlock The secure disk met "Secure Unlock_win.exe".pWilt u Portable SecretZone afsluiten?
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unlock the secure disk with the "Secure Unlock_win.exe".YDo you want to exit program? 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Destranque o disco de seguranca com o "Secure Unlock_win.exe".`Deseja sair do programa?
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Entrez le mot de passe.8Le mot de passe peut comporter entre 6
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Sbloccare il disco utilizzando "Secure Unlock_win.exe".`Si desidera uscire dal programma?

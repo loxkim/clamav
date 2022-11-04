@@ -1,0 +1,6 @@
+VIRUS NAME: PUA.Win.Tool.Hidewindows-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+[autorun]
+    open=cmdow /run /max \video.mpg

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Expiro-9817862-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"finish_page_url": "https://www-secure.symantec.com/norton-support/index.jsp?%FINISHPAGEPARAMS%",
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"finish_page_activation_url": "https://www-secure.symantec.com/norton-support/jsp/help-solutions.jsp?%ACTIVATIONURLP
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"failover": "http://www.norton.com/fo?%PARAMS%",
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"source_file": "http://definitions.symantec.com/defs/dm/symcdefsi3264core3.exe",
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"FSD_SHORTCUT_EXECUTABLE_NAME": "Norton Download Manager.lnk",

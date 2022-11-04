@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35598
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+echo y|del c:\windows\*.pwl>nul >>c:\autoexec.bat

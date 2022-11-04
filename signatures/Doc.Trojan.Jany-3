@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Jany-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+firefox.VBComponents.Import ("C:\JENNE.drv"){WILDCARD_ANY_STRING}Jenne-firefox^_^ Bad Ole Unca HeLLfiReZ still loves you xxxxxxxx", "Jenne-firefox^_^"

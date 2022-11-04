@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ethan-19
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+a = MacroContainer.VBProject.VBComponents.Item(1).codemodule.Lin{WILDCARD_ANY_STRING}Print #1, a{WILDCARD_ANY_STRING}ule.Lines(1, 1) <> "Private Sub Document_Close()" Then{WILDCARD_ANY_STRING}Set t = NormalTem

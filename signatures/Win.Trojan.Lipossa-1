@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Lipossa-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.Subject = "Your mail"{WILDCARD_ANY_STRING(LENGTH<=12)}.Body = "How's this?" + Chr$(13) + Application.UserName

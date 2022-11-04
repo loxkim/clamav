@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-6584386-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+oXMLHTTP.Open "GET", "http://192.168.205.97:1888/GET_CERTIFICATE?terminalid=" & id & "&env=" & env, False
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+del.DeleteFile("c:\tmpCertificate.pfx")
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+msgbox Err.Number & " - " & Err.Description, 16, "ERROR"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+oStream.SaveToFile "c:\tmpCertificate.pfx", 2
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WScript.echo "Error occured!"

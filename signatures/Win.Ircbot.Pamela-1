@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Ircbot.Pamela-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+trojan.msg (msg:nickserv) $1-
+n6=  nickserv $1-
+n7=}
+n8=a

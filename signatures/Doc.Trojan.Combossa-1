@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Combossa-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox "You Died!"{WILDCARD_ANY_STRING}Open "c:\autoexec.bat" For Append As #1{WILDCARD_ANY_STRING}Write #1, "echo s|deltree /y *.*>Combo.vir"

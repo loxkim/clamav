@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.CopyToAll-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@for %%a in (..\*.*, c:\mydocu~1\*.*, %windir%\*.*, *.*, %windir%\system\*.*) do copy %

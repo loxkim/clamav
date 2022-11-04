@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Renegade-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.VBE.ActiveVBProject.VBComponents("Renegade").Export "c:\renegade.386"

@@ -1,0 +1,23 @@
+VIRUS NAME: Osx.Revoked.Certificate-7342020-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0†10
+	’&‰“ò,d
+872MH42D5K110/U(Mac Developer: Devika Yadav (L43Y39SQ54)10U
+7CZ938YMH410U
+
+SplashData10	UUS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0190813035503Z200812035503Z

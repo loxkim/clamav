@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Hatred-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.Subject=subject[Math.round(Math.random()*3)];

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Interor-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+copy %0 A:\HotNews.txt.bat{WILDCARD_ANY_STRING}regedit /s C:\yos.reg

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-996
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if you are the rightful holder of the account, please click on the{WILDCARD_ANY_STRING(LENGTH<=25)}low and log in to account to verify your identity.

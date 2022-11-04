@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-295
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if(navigator.javaenabled()){var n001="2";}location.href=("{WILDCARD_ANY_STRING(LENGTH<=500)}if(!frames.navigator["taintenabled"]()){var n001="1";}location.href=("

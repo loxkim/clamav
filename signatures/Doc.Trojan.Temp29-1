@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Temp29-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+EXPFN = Environ("temp") & "\~CL7610_2.~MP"{WILDCARD_ANY_STRING}.replaceline 22, ".replaceline 28," & Chr$(34) & temp$ & Chr$(34)

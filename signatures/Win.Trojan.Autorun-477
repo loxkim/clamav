@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Autorun-477
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+shellexcute=vecnoda/bolujem.exe
+Shellsuze
+shell\\Explore\\command=vecnoda/bolujem.exe
+shell\Open\\command=vecnoda/bolujem.exe

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6817513-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(hr) = (RemoveTuningSpace(CLSID_DVBSNetworkProvider, CComBSTR(L"Nero DVBS Tuning Space")))
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity type="win32" name="Microsoft.VC80.CRT" version="8.0.50727.762" processorArchitecture="x86" publicKeyTo
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(hr) = (pTempTuningSpace->get_UniqueName(&bstrName))
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(hr) = (pTempTuningSpace->get__NetworkType(&guid))
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(hr) = (pDVBTuningSpace->put_FriendlyName(CComBSTR(L"Nero DVBC Tuning Space")))

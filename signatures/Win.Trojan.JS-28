@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.JS-28
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+inren.com");
+    var expdate = new Date((new Date()).getTime() + (24 * 60 * 60 * 1000 * 90));
+    document.cookie="Chg=ge

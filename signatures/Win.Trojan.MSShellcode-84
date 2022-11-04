@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.MSShellcode-84
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cd %tmp%&echo Set Tx=CreateObject("Microsoft.XMLHTTP"):Tx.Open "

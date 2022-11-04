@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Delt-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ почти всё!c:\winstart.bat+echo Не так-то и просто избавиться от меня!deltree/y e: deltree/y d: deltree/y

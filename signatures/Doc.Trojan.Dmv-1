@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Dmv-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If copied > 0 And logic <= tdate Then{WILDCARD_ANY_STRING}WordBasic.MsgBox "This computer will self destruct in 5 minutes", head$, 16

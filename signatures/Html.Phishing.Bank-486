@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-486
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+however if you are the rightful holder of the account, click on the link below and{WILDCARD_ANY_STRING(LENGTH<=35)}verify your online acc

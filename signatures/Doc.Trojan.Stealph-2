@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Stealph-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+For i = 1 To WordBasic.CountMacros(1, 0, 0){WILDCARD_ANY_STRING}If WordBasic.[MacroName$](i, 1) = "{WILDCARD_ANY_STRING}MacroCopy "Normal:FileOpen", WordBasic.[FileName$]() + ":

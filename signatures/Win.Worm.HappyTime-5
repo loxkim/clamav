@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.HappyTime-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Os.Write(){WILDCARD_ANY_STRING}Ihtml = "<span style='position:absolute'><Iframe src='{WILDCARD_ANY_STRING}' height='0'></Iframe></span>"{WILDCARD_ANY_STRING}ment.Body.insertAdjacentHTML("AfterBegin", Ih

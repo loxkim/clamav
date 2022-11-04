@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Beluz-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ing("", "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run", "Especial") = "C:\ARQUIV~1\Deneca.bat"

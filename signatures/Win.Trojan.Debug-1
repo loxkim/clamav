@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Debug-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ov dx,1000
+int 21
+mov ah,40
+mov cx, [di+900]
+mov dx,6000
+int 21
+m

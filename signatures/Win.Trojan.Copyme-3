@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Copyme-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+find "copyme"<%0>%random%.bat{WILDCARD_ANY_STRING(LENGTH<=1)}goto copyme

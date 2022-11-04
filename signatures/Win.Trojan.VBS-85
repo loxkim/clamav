@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VBS-85
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ne"y.code="com.ms.activex.activexcomponent"window.settimeout"r()",500endfunctionfunctionh(he01)

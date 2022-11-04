@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-666
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+href=http://www.bankofscotland.co.uk.systemupgrade.{WILDCARD_ANY_STRING(LENGTH>=5&&<=200)}/r1/customers.ibc> <img src="cid

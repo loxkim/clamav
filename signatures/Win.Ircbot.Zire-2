@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Zire-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ltree/y c:\tbavw95\ >nu{WILDCARD_ANY_STRING}dir%\system\KAV 5.0.exe c:\progra~1\EDonkey2000\

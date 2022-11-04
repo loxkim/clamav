@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Zapchast-112
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+i.exe
+del /s/q wsets.exe
+copy %zz%\reg43.htm c:\update\reg43.htm
+copy %zz%\reg65.htm c:\update\reg65.htm
+copy %zz%\rei.exe c:\update\rei.exe /Y

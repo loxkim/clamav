@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.FlashBack-2
+TARGET TYPE: MACHO
+OFFSET: 20000,10000
+DECODED SIGNATURE:
+/Library/Little Snitch/lsd{WILDCARD_ANY_STRING(LENGTH<=200)}adobesoftwareupdate.com/counter

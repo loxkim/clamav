@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ransomware.ProLock-9205491-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+system.dll{WILDCARD_ANY_STRING}microsoft.win32.unsafenativemethods{WILDCARD_ANY_STRING}[io.file]::readallbytes('c:\programdata\winmgr.bmp')

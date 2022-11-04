@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Worm.Decbel-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+To e.Count
+b.Recipients.Add e(f)
+Next
+Next
+b.Subject="DecBel (ANNA) - JUILLET 2000."
+b.Body="Bonjour ! Voi

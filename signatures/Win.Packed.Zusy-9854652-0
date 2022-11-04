@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zusy-9854652-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/2001/XMLSchema-instance" xmlns:ns3="http://schemas.microsoft.com/maml/dev/2004/10" x 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\true-Row\There\Instrument\look\Week.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<para>Click <replaceable>File</replaceable>; <replaceable>Start</replaceable>; <replaceable>View</replaceable></para
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<procedural contentType="Procedure" xml:lang="en" xmlns="http://schemas.microsoft.com/maml/2004/10" xmlns:xsi="http://www
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Week.dll

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-268
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+dy>guten tag,<br>die gesamtsumme f&uuml;r ihre rechnung im mon{WILDCARD_ANY_STRING(LENGTH<=25)}tr&auml;gt:{WILDCARD_ANY_STRING(LENGTH<=16)}uro. <p>mit dieser e-mail erha{WILDCARD_ANY_STRING(LENGTH<=200)}lank"><img sr{WILDCARD_ANY_STRING(LENGTH<=50)}.gif" border="0"></a></p

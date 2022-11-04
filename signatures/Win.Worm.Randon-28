@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Randon-28
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ttok(%1p1,2,46),%change1,$rand(1,255)){WILDCARD_ANY_STRING}et %randscan2 $longip(%1p2) | se

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Miner-9935601-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$clone_impl@U?$error_info_injector@Vservice_already_exists@asio@boost@@@exception_detail@boost@@@exception_detail@boost@@
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$clone_impl@U?$error_info_injector@Vinvalid_service_owner@asio@boost@@@exception_detail@boost@@@exception_detail@boost@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AU?$error_info_injector@Vservice_already_exists@asio@boost@@@exception_detail@boost@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Acts the same as --syslog command line argument
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Socket connections won't be logged. Compile with -DDEVBUILD=ON

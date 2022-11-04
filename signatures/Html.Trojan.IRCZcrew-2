@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCZcrew-2
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+status=/hide | /msg %c [!security error!] user clicked: status! query=/hide

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.VMPCK1-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ormalTemplate.VBProject.VBComponents(I).Name = "TieSR" Then VtietagSR19151 = True

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Spyware.Keylog-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+[#[ keylogger log start ]#]{WILDCARD_ANY_STRING(LENGTH<=32)}( $log , "<b>

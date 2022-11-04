@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.Delwin-35
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ECHO Y | del C:\*.*
+ECHO Y | del C:\WINDOWS\*.*
+ECHO Y | DEL *.*

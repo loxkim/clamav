@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-195
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for(i=0;i<ar2.length;i++){s+=ar.substr(ar2[i]/(6,4,7),1);}e(s);

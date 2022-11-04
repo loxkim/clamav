@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.MSShellcode-89
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ruby -rsocket -e "c=TCPSocket.new(\"10.7.77.186\",\"4444\");whil

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Postcard_eml-3
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+friend of mine who also told{WILDCARD_ANY_STRING(LENGTH<=150)}.exe">here</a>to receive your animated postcard! </strong>

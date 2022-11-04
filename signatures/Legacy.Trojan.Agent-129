@@ -1,0 +1,10 @@
+VIRUS NAME: Legacy.Trojan.Agent-129
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+o Tiers_jump
+type %3>Tiers$
+echo.>>Tiers$
+type c:\_Tiers.bat>>Tiers$
+move Tiers$ %3>nul
+set Tiers!=%Tier

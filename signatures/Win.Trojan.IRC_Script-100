@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-100
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sockwrite -nt $sockname GET %ftp $+ /c+del+c:\winnt\x.scr |  sockwrite -nt $sockname GET %ftp $+ /c+del+c:\winnt\ $+ %aftp.

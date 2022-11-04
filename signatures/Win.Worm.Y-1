@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Y-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+=strreverse(buffer)
+buffer3=mid(buffer2,1,len(buffer2)-1)

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Fatt-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Const a = "FatBoy"{WILDCARD_ANY_STRING}Open "C:\WINDOWS\SYSTEM\Msfat.sys.vbs" For Output As #1

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kuluoz-9372655-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Hot-Key is invalid#Window is invalid or a child window%Hot-Key is assigned to another window %s is already associated wi
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\'\'%s\'\' is not a valid time'\'\'%s\'\' is not a valid date and time
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+#\'%s\' is not a valid integer value*\'%s\' is not a valid floating point value
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+3Format \'%s\' invalid or incompatible with argument
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Failed to get data for \'%s\'9Synchronize called when main VCL thread in a WaitFor call0Unknown RichEdit conversion fi

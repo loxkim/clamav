@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-142
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if (%spamtime == 1) && (%xdccserv != $null) { .raw join %xdccchan | .timerspam 1 65 set %spamspread 1

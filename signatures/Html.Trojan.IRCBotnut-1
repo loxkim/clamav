@@ -1,0 +1,8 @@
+VIRUS NAME: Html.Trojan.IRCBotnut-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+n 0.76
+  set %botnet.channel #boonster
+  set %botnet.channelpw boonster
+  server irc.

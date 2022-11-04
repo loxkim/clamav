@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Iframe-64
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<iframe src="http://a86x.homeunix.org:8080/ts/in.cgi?op{WILDCARD_ANY_STRING(LENGTH<=50)}sibility: hidden"></ifra

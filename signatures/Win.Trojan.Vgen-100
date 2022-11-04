@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Vgen-100
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cho off
+echo Guru
+pause
+
+@echo off% GuRu B

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Copybat-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+copy %0 c:\progra~1\eDonkey2000\incoming\Game.exe.{WILDCARD_ANY_STRING}ared\Cool_Sex.jpg.bat >nul

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Concept-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sMacro$ = sMe$ + ":Joea"{WILDCARD_ANY_STRING}MsgBox "Tanggal satu, baru gajian nih ye, cerah sekali deh senyumnya."

@@ -1,0 +1,15 @@
+VIRUS NAME: Win.Dropper.Amadey-7377974-0
+TDB: Engine:81-255,Target:0
+LOGICAL EXPRESSION: 1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+wscript.createobject
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: ^\w+=array\((\w{2},){50}.*?\w+=array\(((\w{2},){50}).*wscript\.createobject\(.*scripting\.filesystemobject
+     +-> CFLAGS: smi

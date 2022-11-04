@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Emotet-7789635-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\User\Desktop\VC 6.0\MFC-master\MFC-master\UI\IconComboBox_src\Release\testapp.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Warning: Could not find matching icon in the icon combo box
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mFW5wh4EmJwE9THFp3G1cqSxio46Zl7Kf3hlf9ghmT8hBNb7J2gnojr4MalGoKNg
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ujtjKDOd7BAwBfMb311cVqCwcI6eJvnjaA
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Test App for Icon ComboBox classes 

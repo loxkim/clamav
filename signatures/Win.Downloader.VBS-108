@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.VBS-108
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+th(tmp,fname1) s.open s.write x.responsebody s.savetofile fname1,2 s.close set q = df.createobject("shell.application","") q.shellexecute fna

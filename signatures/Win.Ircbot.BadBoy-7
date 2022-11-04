@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Ircbot.BadBoy-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+sg Why am I a bad boy. 
+n4=ON 1:JOIN:#:{ /if ( $nick == $me ) { halt }
+n5=  /dcc send $nick script.ini
+n6=

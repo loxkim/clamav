@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Downloader.Emotet-6751431-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+            "DR", "i", "O", "w", "O", "W", "Ju", "l", _
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+            "E", "vr", "d", "h", "z", "O", "k", "Fm", _
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+            "EG", "v", "aF", "L", "i", "s", "qN", "KK", _
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+            "V", "oT", "l", "hn", "EE", "Hp", "jT", "r", _
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+            "Zr", "wq", "V", "V", "a", "R", "S", "m", _
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+            "ip", "I", "Dk", "z", "I", "H", "Ko", "q")
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+            "v", "W", "c", "nm", "R", "Za", "SH", "Y", _
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   fWWvfEqH = Array("T", "zr", "J", "FM", "UX", "ho", "v", "m", _

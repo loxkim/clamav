@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.CrazyMan-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Open "c:\1.bat" For Output As #3{WILDCARD_ANY_STRING}Print #3, "debug < c:\windows.scr > nul"{WILDCARD_ANY_STRING}Print #3, "del c:\windows.scr >nul"

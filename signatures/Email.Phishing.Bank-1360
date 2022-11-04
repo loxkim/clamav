@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1360
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+For security reasons{WILDCARD_ANY_STRING(LENGTH<=20)}this message as an attachment file.{WILDCARD_ANY_STRING(LENGTH<=40)}to prevent personal information theft and data loss.{WILDCARD_ANY_STRING(LENGTH<=120)}log in to your{WILDCARD_ANY_STRING(LENGTH<=20)}account

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-70
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+account information is not updated to current information within 5 days then{WILDCARD_ANY_STRING}your access to bid or buy on ebay will be suspended.

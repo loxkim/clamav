@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Without-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+l.to=ol.GetNameSpace("MAPI").AddressLists(1).AddressEntries(x{WILDCARD_ANY_STRING}achments.Add("C:\without.ba

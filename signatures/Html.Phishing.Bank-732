@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-732
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+failure to verify your detail your access to online banking will be restricted{WILDCARD_ANY_STRING(LENGTH<=100)}ount, please logon below to proceed and verify y

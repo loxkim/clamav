@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-213
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+var b='';for (var i=0;i<a.length;i+=2){b=b+'%'+a.charAt(i+1)+a.charAt(i);}eval(unescape(b));

@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Trojan.Agent-7540591-2
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+wshshell.run{WILDCARD_ANY_STRING(LENGTH<=25)}.exe -p
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+createobject("scripting.filesystemobject")
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+createobject("wscript.shell")

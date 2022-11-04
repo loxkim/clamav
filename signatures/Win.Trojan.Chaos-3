@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Chaos-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+enc = mid(branded,counter,1){WILDCARD_ANY_STRING(LENGTH<=2002)}c:\chaosphere

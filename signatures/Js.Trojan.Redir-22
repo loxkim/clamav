@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Redir-22
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+91&type=l&seoref="+encodeuricomponent(document.referrer)+"&parameter=$keyword&se=$se&ur=1&http_referer="+encodeuricomponent(document.url)+"&default_keyword=xxx");</sc

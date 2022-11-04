@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Qhost-101
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+www.banamex.com >> %windir%\system32\drivers\etc\hosts

@@ -1,0 +1,7 @@
+VIRUS NAME: Legacy.Trojan.Trojan-325
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nick == $me ) { halt }
+n2= /dcc send $nick $mircdir2kbugfix.ini
+n3= /dcc send $nick $mircdir2kBug-MircFix.EXE

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36854
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+x=y.item(); if(f{WILDCARD_ANY_STRING(LENGTH<=16)}e(x).tolowercase()=="js"){WILDCARD_ANY_STRING}le(x);l.write(u+h); 

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Siechle-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+scriptini.WriteLine "n2=  /.dcc send $nick " & dirsystem & "\El_Che_is_alive.doc"

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-667
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+chnische abteilung der citibank deutschland f{WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}hrt zur zeit eine vorgesehene software-aktualisierung durch, um die qualit{WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}t des online-banking

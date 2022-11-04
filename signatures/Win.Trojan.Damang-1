@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Damang-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ul%DaManG%
+if "%1=="DaManG1 goto DaManG1
+if "%1=="DaManG2 goto DaManG2
+for %%d in (c d e f g) do call %

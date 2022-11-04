@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Grozny-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+level 1 goto grozny
+for %%c in (%gr%) do copy %%c+%0
+:grozny
+if not exist c:\grozny.bat copy %0 c:\grozny.ba

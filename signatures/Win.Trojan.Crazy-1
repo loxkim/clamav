@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Crazy-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+=%CraZ%.bat
+command /e:5000 /c %CraZ% #ViR vir %path%
+set CraZ=
+set

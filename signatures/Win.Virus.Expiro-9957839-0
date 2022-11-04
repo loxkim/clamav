@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Expiro-9957839-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%ALLUSERSPROFILE%\Application Data\Malwarebytes\
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$@Visual C++ CRT: Not enough memory to complete call to strerror.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ Malwarebytes. All rights reserved.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%ProgramData%\Malwarebytes\
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Nu4w.rHXhIL4Q579vMJODuE+i0b6uu+I.Gpq*gf3R/QsiGp5Mw8MSfjeh-)DUgpOjJMNlrXcnU)sCONs1)w+.IM9+ozMI5qe-2bPa7BsqHHevbe,5XSHJ-AA6v3+YUfS

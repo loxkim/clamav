@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Agent-36216
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+start C:\rdkssetup.exe
+exit

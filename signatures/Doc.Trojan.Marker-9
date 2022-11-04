@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Marker-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+NormalTemplInfected = NormTempl.CodeModule.Find(Kuku, 1, 1, 10000, 10000)

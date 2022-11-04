@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-160
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+:1085/ch/index.htm"><img src="cid:{WILDCARD_ANY_STRING(LENGTH<=40)}@charterone.com"

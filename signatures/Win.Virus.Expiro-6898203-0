@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Expiro-6898203-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SlideShowUrl=http://redirect.kaspersky.com/partnersite/c6ccd983-5ed5-4e44-bee8-3bda77db3c3a/slideshow?act-local=<Localiz
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RedirectionMoreProductsUrl=http://redirect.kaspersky.com/partnersite/c6ccd983-5ed5-4e44-bee8-3bda77db3c3a/morefromkasper
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RedirectionRenewKSeCUrl=http://redirect.kaspersky.com/partnersite/c6ccd983-5ed5-4e44-bee8-3bda77db3c3a/renewksec?act-ite
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Kaspersky Free [18.0.0.405.0.1342.0]
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+TrialActivationCode_kis=2Y76U-V161R-D3R5Y-6QAHM

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.PB-9
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+um diese ma{WILDCARD_ANY_STRING}nahmen einf{WILDCARD_ANY_STRING}hren zu k{WILDCARD_ANY_STRING}nnen, m{WILDCARD_ANY_STRING}ssen sie {WILDCARD_ANY_STRING(LENGTH<=5)}tans aus ihrer aktuellen tan-liste eingeben.

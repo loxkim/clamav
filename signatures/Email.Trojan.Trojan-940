@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-940
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+find attached bank remittance copy for balance payment{WILDCARD_ANY_STRING(LENGTH<=20)}arrange document asap to avoid charges

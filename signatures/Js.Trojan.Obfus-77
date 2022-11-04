@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-77
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if((a=="func")||(a=="unct"))if(document.createtextnode)with(c)mm=fromcharcode;for(i=0;i!=m.length;i++)n000+=mm(e("m[i]"));e(n000);

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.BAT-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo off
+for %%m in (*.bat) do copy %0.bat+%0 %%m>nul
+

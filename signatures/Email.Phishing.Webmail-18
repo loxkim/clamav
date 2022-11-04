@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Webmail-18
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+ssen Sie eine Antwort auf diese E-Mail{WILDCARD_ANY_STRING(LENGTH<=3)}und geben Sie Ihren aktuellen Username{WILDCARD_ANY_STRING(LENGTH<=20)}and{WILDCARD_ANY_STRING(LENGTH<=3)}Password

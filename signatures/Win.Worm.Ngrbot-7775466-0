@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Ngrbot-7775466-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Allows Pidgin to be run from a removable drive.  For additional details, visit PortableApps.com/PidginPortable
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PidginPortable.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Pidgin Portable
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<=::BA>>5342:966--+*00//%%$#)''&]]Z[aa^]UUTQZWWVNMKIRPPMEECCJIFG}{|y
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<<;;B@?>63218885.-++21//&#"#)'&'^]Z[b`_]UURSYYXVMKLIRQNNEDDCHHGG~{{y

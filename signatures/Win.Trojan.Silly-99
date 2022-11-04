@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Silly-99
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for %%b in (*.bat) do if not %%

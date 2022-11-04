@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Christy-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+MsgBox "Christy, written by DarkChasm", vbOKOnly, "I LOVE CHRISTY"

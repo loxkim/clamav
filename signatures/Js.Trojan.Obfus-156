@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-156
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+while(i!=s.length){c+=setcharat(s,123,i);i++;}a.data=c.substr(0,50)+"534";a["replacedata"](50,3,c["substr"](

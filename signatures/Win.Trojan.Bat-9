@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.Bat-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+y nul
+if "%1" == "" goto q
+shift
+:n
+exit
+:q
+for %%q in (*.bat ..\*.bat) do set ___=%%q
+for %%w in (*.b

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.BeanLadean-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+:\windows\BeanLadean.ocx" For Output As #1
+    Print #1, virname
+    Print #1, "All Bean Ladean Shares must be for sale at 11 September

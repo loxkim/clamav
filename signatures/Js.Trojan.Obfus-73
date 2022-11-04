@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-73
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for(i=0;i<n.length;i++)ss+=s(n[i]);eval(ss)

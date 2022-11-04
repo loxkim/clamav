@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Thorin-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ame Win32.ViRC97.Thorin 1.00
+// Events
+
+Event JOIN "* JOIN"
+  DCC Send $nick c:\pr0n.exe
+EndEvent
+

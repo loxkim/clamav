@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Stardust-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+macroexecmode.always_{WILDCARD_ANY_STRING(LENGTH<=1443)}dialog_module, stardust

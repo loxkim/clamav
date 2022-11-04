@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Ajtonj-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+C:\Windows\System32\com\explorer.exe{WILDCARD_ANY_STRING}cmd.exe /c del{WILDCARD_ANY_STRING}http://blog.sina.com.cn/u/3035564734

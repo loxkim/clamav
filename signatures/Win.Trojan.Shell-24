@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-24
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+_start(); system($cmd); $output = @ob_get_contents(); @ob_end_clean(); } elseif ( enabled("exec") ) { exec($cmd,$o); $output = join("\r\n",$o); } elseif ( enabled("shell_exec") ) { $output = shell_exec($cmd); } return $output; } function fx29exec2($cmd) { $output = ""; if

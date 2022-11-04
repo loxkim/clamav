@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Detected-9967157-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vb6chs.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0=r0>q.?r1?s1>s0>r3>q1@s1=q1>r0>s1?r1@s1Ct0Cu2Ew/Gu0Ft2Ev/Gu0Bs+Bu-?t+?k+=j*=i*3g!3f"2e"8c!
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gp[ZFBnPKY>;O86F22=,,4%', #+ #+ #* #* ") "( "( "( "' "' "' #% !480
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mxaM>;eMIS;9D0/<+,4%', #+ #+ #* #* ") ") "( "( "( "(!#%!!@F:
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SHDocVwCtl.WebBrowser

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Dropper.RogueRobin-6826034-0
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+WScript.Shell{WILDCARD_ANY_STRING}powershell.exe -noexit -exec bypass -File{WILDCARD_ANY_STRING}regsvr32.exe

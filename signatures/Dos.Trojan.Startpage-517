@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Startpage-517
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+/v "hidefolderverbs" /t reg_sz /d "" /f reg add "hkey_classes_root\clsid\{e17d4fc0-5564-11d1-83f2-00a0c90dc849}\shellfolder" /v "hideondesktopperuser" /t reg_sz /

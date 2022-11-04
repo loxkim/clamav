@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Flife-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+lTemplate.VBProject.VBComponents(1).CodeModule.Lines(3, 1) <> "'Word2002.FirstLife" Then{WILDCARD_ANY_STRING}NT.AddFromString TD

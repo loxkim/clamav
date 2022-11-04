@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Bomgen-3
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+REGEDIT4{WILDCARD_ANY_STRING(LENGTH<=50)}re\Microsoft\Windows\CurrentVersion\Run{WILDCARD_ANY_STRING(LENGTH<=50)}"="command /c echo createobject(\"Scripting.filesystemobject\").createtextfile(\"

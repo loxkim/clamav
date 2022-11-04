@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Dropper-84
+FUNCTIONALITY LEVEL: >=27
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+functionstart(){varpe=newarray()pe[0]=newarray("%3c%53%43%52%49%50%54%20%4c%41%4e%47%55%41%47%45%3d%22%4a%61%76%61%73%63%72%69%70%74%22%3e%0a%64%6

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Xchg-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Active_(i).Name = "xchg" Then AlreadyInf = True{WILDCARD_ANY_STRING}work.SaveAs xl.StartupPath & "\TheBook.xls"

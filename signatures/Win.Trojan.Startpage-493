@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Startpage-493
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.regwrite('hkey_current_user\\software\\microsoft\\internetexplorer\\main\\searchpage','http://

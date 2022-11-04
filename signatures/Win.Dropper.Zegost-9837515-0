@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zegost-9837515-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ColorPickerDemo.EXE
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%SystemRoot%\System32\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+QAYgX)-BgX))hgX)(wgX)+}gX)5mgX)4BgX)7JgX)0sgX)<hgX)?wgX)>}gX)8BgX);N)H):
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+QAVgX),mgX)/mgX).WgX))zgX)(JgX)+qgX)*M)@)5
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8!0LgX)TMgX)W[gX)VLgX)Q[gX)PPgX)SHgX)R0gX)]zgX)\rgX)_rgX)^

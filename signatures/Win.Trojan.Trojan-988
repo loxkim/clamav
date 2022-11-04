@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Trojan-988
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+<?php defined("_JEXEC") or die("Restricted access"); eval(base64_decode('{WILDCARD_ANY_STRING(LENGTH>=1000&&<=1500)}='))

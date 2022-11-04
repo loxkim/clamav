@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autophyte-6582725-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Content-Disposition: form-data; name="file1"; filename="happy{WILDCARD_ANY_STRING}/include/{WILDCARD_ANY_STRING(LENGTH<=25)}.php

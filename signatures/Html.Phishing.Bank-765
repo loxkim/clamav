@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-765
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+banking service.{WILDCARD_ANY_STRING(LENGTH<=14)}however, failure to update your records will result in account suspension. please update your records before

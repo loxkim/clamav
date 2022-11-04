@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9784458-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+abrar_@yahoo.com
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+&Start Loging
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+flYC9IILdovKvz$K@FtT6UxVCzvcWvM<wS%l%a)uVUd>AODunUFT>8S!YN@BkPpinxn)A4tvS4s6Xl_sk9rb$S%96#
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CCircFileDemo
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+: :$:P:T:X:`:(=,=0=4=8=<=@=D=H=L=

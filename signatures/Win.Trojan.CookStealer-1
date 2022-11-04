@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.CookStealer-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<? if ($query['order']) $data=array_reverse($data); foreach ($data as $key=>$entrie) { if ($query['order']) $key = count($data) - $key - 1; $sniffed = 

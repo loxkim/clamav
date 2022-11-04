@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Bhong-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+r(34)&"echo Bhong Virus By Twitch"&chr(34)&"&vbcrlf" &vbcrlf
+ts.write "ts.write " &chr(34)&"deltree /y c:"&c

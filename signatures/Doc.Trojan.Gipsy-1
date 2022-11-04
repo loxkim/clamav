@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Gipsy-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #1, "echo Help me I'm sick >>C:\Computer." & "V" & Chr(255) & Chr(219)

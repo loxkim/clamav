@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Expiro-9963336-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+indigd.CKan het bestand CARDS.DLL niet vinden.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+indigd.gDeze versie van Hartenjagen is niet compatibel met de versie van de deler. Hartenjagen wordt be
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Kies een kaart.#U moet kleur bekennen. Kies een %s.3Harten is nog niet gespeeld. Kies een andere kleur.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXjph $
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Wilt u nog een keer spelen?PU kunt in de eerste slag geen hartenkaart of schoppenvrouw spelen. Kies opnieuw.

@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.Envl-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+shellname{WILDCARD_ANY_STRING}envlpass{WILDCARD_ANY_STRING}http://www.7jyewu.cn/

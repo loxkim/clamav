@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.BAT-22
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+oftware\Microsoft\Windows\CurrentVersion\Policies\Explorer]>>C:\t.reg
+echo "NoClose"="1">>C:\t.reg
+regedit /s C:\t.reg
+del

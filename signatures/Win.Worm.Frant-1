@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Frant-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+dd "HKLM\Software\Microsoft\Windows\CurrentVersion\Run" /v Frantic32 /t REG_SZ /d "%systemroot%\franti

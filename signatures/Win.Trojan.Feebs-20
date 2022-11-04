@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Feebs-20
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: 0
+DECODED SIGNATURE:
+<script language="javascript">eval(unescape("{WILDCARD_ANY_STRING(LENGTH<=1024)}"));{WILDCARD_ANY_STRING}\\\\\\

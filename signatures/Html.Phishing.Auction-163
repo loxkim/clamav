@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-163
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+e="4"><b>ebay my messages -- 1 alert mess{WILDCARD_ANY_STRING}bout your account and require your immediate attention. alerts can't be deleted unt{WILDCARD_ANY_STRING(LENGTH<=350)}><b>read this alert in

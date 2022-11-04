@@ -1,0 +1,23 @@
+VIRUS NAME: Html.Countermeasure.EWSRT1-9804803-0
+TDB: Engine:51-255,Target:3
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+setapplication={WILDCARD_ANY_STRING(LENGTH<=30)}.outlookapplication
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+application.createobject("shell.application")
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+classid="clsid:0006f063-0000-0000-c000-000000000046"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.shellexecute"powershell.exe","-nop-whidden-encodedcommandpowershell_encoded_payload

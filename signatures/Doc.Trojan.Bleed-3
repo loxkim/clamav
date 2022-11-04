@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bleed-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+v = v & m & e: e = "": Next l: .ReplaceLine j, "jack(" & j - 1 & ") = """ & v: v = "": Next j: End With

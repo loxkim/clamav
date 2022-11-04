@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-985
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+you must update your bank {WILDCARD_ANY_STRING(LENGTH<=50)}account.{WILDCARD_ANY_STRING(LENGTH<=7)}please fill out this form below{WILDCARD_ANY_STRING(LENGTH<=7)}to verify your information{WILDCARD_ANY_STRING(LENGTH<=7)}if you do not update

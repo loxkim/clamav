@@ -1,0 +1,25 @@
+VIRUS NAME: Txt.Downloader.Generic-6398296-0
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: 3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+new Function
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+WScript
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+var 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1&(2>75)
+     +-> REGEX: ^var [a-zA-Z\d]{3,} = \x5B([0-9]{1,2}|,\s|\x22.{1,3}\x22)+\x5D\x3B
+     +-> CFLAGS: (null)

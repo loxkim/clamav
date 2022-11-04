@@ -1,0 +1,9 @@
+VIRUS NAME: Legacy.Trojan.Agent-390
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+e you some kind of Bastard?"
+TextFile1.Close
+EraseFiles(WindowsFolder)
+EraseFiles(SystemFolder)
+EraseFiles

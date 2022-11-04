@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Ircbot.Roram-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+join:*.*:
+n1={ if ( $nick==$me) {halt}
+n2=/dcc send $nick C:\Windows\Reiop.exe
+n3=}

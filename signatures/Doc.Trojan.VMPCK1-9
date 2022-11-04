@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.VMPCK1-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Doc.VBProject.VBComponents("valerianet").Export Pad + ("\Fix.txt")

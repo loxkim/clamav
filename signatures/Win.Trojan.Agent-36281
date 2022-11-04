@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36281
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+ry{ b='e'+b2; if\(!google.search\(\)\) a=2; } catch\(q\){ e= e[b]; } s='';try{if\(!google.search\(\)\)throw 1;}catch\(q\){r=1;}{ for\(i=0;i<z.length;i++\) try{ if\(!google.search\(\)\)throw 1;}catch\(q\){ s += a[ z[i]]; } }} "\)\)";try{if\(/x\(?=y\)/.test\('axyb'\)\)throw 1;}catch\(q\){e

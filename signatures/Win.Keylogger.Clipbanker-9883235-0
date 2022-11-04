@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Clipbanker-9883235-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/C schtasks /create /tn MyApp /tr %TEMP%\service.exe /st 00:00 /du 9999:59 /sc daily /ri 1 /f
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%TEMP%\service.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+addr1q8etptj6dyzv695kzs5suc7j5xpuh3recg9e26tmc6429uljkzh956gye5tfv9pfpe3a9gvre0z8nsstj45hh3425tes7pa6fv
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+454dXDPeEovTvNBB1pAepMCj6YiW31zhqLYWrfEaFi1bYXPQZn4DiSHMNoTvaDsQst6zHm7i7LeWdAyXJ33RrzBT383uDtR
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D$ RBuN

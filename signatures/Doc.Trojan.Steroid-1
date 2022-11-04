@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Steroid-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Check = 3 And System.OperatingSystem = "Windows" Then Call Sustanon("c:\start.scr")

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Alcaul-20
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #{WILDCARD_IGNORE}, "[HKEY_CURRENT_USER\Software\Microsoft\Office\9.0\Word\Security]"{WILDCARD_ANY_STRING}Print #{WILDCARD_IGNORE}, """Level""=dword:00000001"{WILDCARD_ANY_STRING}Shell "regedit /s c:\

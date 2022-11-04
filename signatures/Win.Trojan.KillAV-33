@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillAV-33
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+@hex.exe /hide *cmd.exe @hex.exe /hide *cmd.exe* @echo off service.exe -uninstall

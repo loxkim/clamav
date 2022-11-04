@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Thief-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+commandy = "regedit /e c:\" & fnamez & "reg2.reg " & mychar & "HKEY_CURRENT_USER\Software\Microsoft\MS Setup (ACME)\User Info" & mychar

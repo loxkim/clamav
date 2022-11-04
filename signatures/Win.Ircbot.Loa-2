@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Loa-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ == 0)) { .disable #loa | .ignore -u600 $nick | 

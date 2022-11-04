@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.SectorB06-6961103-0
+TDB: Engine:55-255,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ping 127.0.0.1 -459B2-3311-54C3- Processid:{0A10 /Processid:
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+software\Intel\Jicacls "%s" /graft\windows\curreNtQueryInformatiIntelGraphicsConsoftware\microsont

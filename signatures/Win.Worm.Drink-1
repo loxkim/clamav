@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.Drink-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+R = objWORM.AddressEntries
+Set objMAPI = objADD.Recipients
+For objIWORM = 1 to objVIR.Count
+objADD.Recipients.Add objV

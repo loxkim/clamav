@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Exceladdin-9951356-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rSpike Add-In" RuntimeVersion="v4.0" ShadowCopyFiles="false" DefaultReferences="true" DefaultImports="true" xmlns="htt
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+plicitRegistration="false" UseVersionAsOutputVersion="false" IncludePdb="false" />
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<ExternalLibrary Path="packed:DATASTREAMERSPIKE" ComServer="false" Pack="true" LoadFromBytes="true" ExplicitExports="fa
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s.excel-dna.net/addin/2020/07/dnalibrary">
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<DnaLibrary xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="DataSt

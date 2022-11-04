@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-658
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rdBasic.MsgBox "Hi I´m the Time virus"{WILDCARD_ANY_STRING}ordBasic.MsgBox " You have 1 Minute time to find me"

@@ -1,0 +1,6 @@
+VIRUS NAME: Html.Trojan.IRCBotnut-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+er=$rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand{WILDCARD_ANY_STRING}[trusted]
+n0=botnut!*@*

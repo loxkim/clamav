@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.VBS-120
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ip"+"t.sh"+"ell"); var o = createo(a, "ado"+"db.str"+"eam"); var e = s.environment("process"); var{WILDCARD_ANY_STRING}); o.savetofile(bin, 2); s.run(bin,0);

@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Redlof-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for n=0 to 1
+droptemplate(fso.getspecialfolder(n)&"\")
+next
+for each d in fso.drives
+if d.drivetype=2 then droptemplate(d.d

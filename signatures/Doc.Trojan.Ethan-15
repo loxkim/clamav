@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Ethan-15
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Kill "c:\program files\AntiViral Toolkit Pro\" & r{WILDCARD_ANY_STRING}SetAttr Application.Path & "\$$$.ant", 6

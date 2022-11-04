@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.SSIWG-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+se
+{a[0]=',';fwrite(&a[0],1,1,q);}}strcpy(a,"0};");fwrite(&a[0],3,1,q);b++;while
+(a784[b]) fwrite(&a784[b++],1

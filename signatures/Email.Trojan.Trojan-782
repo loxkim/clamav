@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Trojan.Trojan-782
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Your package has been returned to the Post Express office{WILDCARD_ANY_STRING(LENGTH<=112)}More information and the tracking number are attached in document
+   below

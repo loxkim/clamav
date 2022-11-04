@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Please-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+NewBook1.SaveAs FileName:=Application.StartupPath + "\Book.xls", AddToMru:=False{WILDCARD_ANY_STRING}Application.OnWindow = "Check_1"

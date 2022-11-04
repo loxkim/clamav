@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autorun-385
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+[autorun] shellexecute=wscript.exe /e:vbs pagefiles.sys

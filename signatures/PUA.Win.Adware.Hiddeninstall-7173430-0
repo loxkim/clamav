@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Hiddeninstall-7173430-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%C:\Users\Public\Documents\%s\%s\
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CProductInstaller::GetNextRange - product %s start=%I64d end=%I64d size=%I64d
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Download failed, error (%x), %s - Trying Multiple Connection Fallback
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Get failed (DownloadMultiConnection): err=%s (0x%X)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DownloadMultiConnection FromScheduler will download: %s, file DOES NOT exist on disk %s

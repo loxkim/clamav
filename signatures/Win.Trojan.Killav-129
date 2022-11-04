@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Killav-129
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+taskkill /f /im nod32.exe 
+cls 
+taskkill /f /im kavmm.exe

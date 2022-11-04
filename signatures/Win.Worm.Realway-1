@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Realway-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+dcc send $nick c:\{WILDCARD_ANY_STRING(LENGTH<=14)}\realwaytohack.exe

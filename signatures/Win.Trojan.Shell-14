@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-14
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if(fe("exec")){exec($s,$r);$r=join("\n",$r);} elseif(fe("shell_exec"))$r=shell_exec($s); elseif(fe("system")){ob_start();system($s);$r=ob_get_contents();ob_end_clean();} elseif(fe("passthru")){ob_start();passthru($s);$r=ob_g

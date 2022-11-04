@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Payguy-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+script]
+n0=on 1:TEXT:!paguy:#:/fserve $nick 1 c:\movies 
+n1=alias /s 

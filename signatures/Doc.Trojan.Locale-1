@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Locale-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Not .Find("Sub " + nextRoutine + "()", 1, 1, .CountOfLines, 10) Then

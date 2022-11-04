@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1493
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+This form is required to be completed by all{WILDCARD_ANY_STRING(LENGTH<=19)}Please use the button below in order to access

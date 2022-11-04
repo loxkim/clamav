@@ -1,0 +1,5 @@
+VIRUS NAME: Vbs.Trojan.Rots-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+strwqlquery="select * from win32_operatingsystem where primary='true'"{WILDCARD_ANY_STRING}wscript.echo "Welcome to visite www.isgrey.com"

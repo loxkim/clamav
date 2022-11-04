@@ -1,0 +1,5 @@
+VIRUS NAME: Osx.Trojan.FkCodec-2
+TARGET TYPE: MACHO
+OFFSET: 10132
+DECODED SIGNATURE:
+Floating point exception raised in test daemon!{WILDCARD_ANY_STRING(LENGTH==36)}Daemon observer some action{WILDCARD_ANY_STRING(LENGTH>=790&&<=810)}Codec-MInstaller.app/Contents/MacOS/Installer

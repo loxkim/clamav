@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zbot-9889751-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Ionicity's vapouris\Aer\Retromigration sorti\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Tentory.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\jwugddcfqz.ace
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1/*1/*1/*1/*1/*1/*1/*1/*eQ|eQ|eQ|eQ|eQ|eQ|eQ|eQ|eQ|eQ|eQ|eQ|eQ|eQ|eQ|eQ|eQ|eQ|eQ|eQ|eQ|eQ|eQ|eQ|eQ|eQ|eQ|eQ|(
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Sloganeerings33

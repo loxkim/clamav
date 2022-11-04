@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Sucon-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on error resume next
+' I love you Consuelo
+MsgBox "

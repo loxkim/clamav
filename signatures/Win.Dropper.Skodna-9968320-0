@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Skodna-9968320-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+path_32=http://download.macromedia.com/get/flashplayer/current/licensing/win/install_flash_player_11_active_x.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+value_install_fail=Installation failed.__Please contact our support at support@LuckyAcePoker.com
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bad_resolution_screen = http://setupspoker.images4us.com/setups/LuckyAce/EN/p-7-en-0-6.9-0/9/SetupFiles/GIB/SDL/
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+host_ip_url = http://en.safe-installation.com/clientip.htm
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+; value1=http://setupspoker.images4us.com/setups/LuckyAce/EN/p-7-en-0-6.9-0/9/SetupFiles/GIB/SDL/

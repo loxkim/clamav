@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Adware.Beti-8
+TARGET TYPE: PE
+OFFSET: S2+965
+DECODED SIGNATURE:
+\ahexe" subtree="yes" />
+<key hive="HKLM" path="SOFTWARE\Microsoft\Internet Explorer\AboutURLs" subtree="no"/>
+<key hive="HKCU" path="SOFTWARE\Lavas

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.U-71
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for C in $(tail -2 $0); do [ ${#C} -eq 4 ] && printf "\x$(expr substr $C 3 2)\x$(expr substr $C

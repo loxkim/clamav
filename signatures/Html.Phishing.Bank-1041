@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1041
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+banksecure, this is to enable us serve you better.{WILDCARD_ANY_STRING(LENGTH<=14)}we are now requiring each member to validate their accounts through our

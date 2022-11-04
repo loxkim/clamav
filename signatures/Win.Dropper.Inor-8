@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Dropper.Inor-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+geek.com/2k";
+
+function LaunchSelfExec3()
+	{
+	
+document.write(unescape('%3Cscript%20language%3D%22vbs%22%3E%0D%0A%0D%0Adomain%20%3D%20%22ret

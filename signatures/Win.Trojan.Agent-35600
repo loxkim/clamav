@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-35600
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+aassrree & chr(asc(mid(fanjjjxx, i, 1)) - 70)

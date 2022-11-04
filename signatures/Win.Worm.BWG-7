@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.BWG-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+eObject("Outlook.Application") >> C:\jwokr.vbs{WILDCARD_ANY_STRING}ho Le%pio%=300-Level 300 >> C:\Pirch98\events.in

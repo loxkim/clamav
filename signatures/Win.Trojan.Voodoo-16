@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Voodoo-16
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<!--voodoo-->{WILDCARD_ANY_STRING(LENGTH<=53)}linetrange.htmltext

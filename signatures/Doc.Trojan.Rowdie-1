@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Rowdie-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+mponents(ii).CodeModule.Lines(3, 1) = "Sub AutoClose()" Th{WILDCARD_ANY_STRING}Dobj.VBComponents.Import ("c:\demo.sys")

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Diehard-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+format c: /x /q{WILDCARD_ANY_STRING}\startup\dieharddrive.bat

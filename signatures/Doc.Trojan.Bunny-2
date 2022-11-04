@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bunny-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+SCode = Dir("C:\windows\system\bunnies.cpl"){WILDCARD_ANY_STRING}MsgBox "Bunnies!!!!", 48

@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Belalang-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ of NoMercyVirusTeam>
+<html><body>
+
+<SCRIPT language=JavaScript>
+<!--
+	var userAgent=navigator.appName;

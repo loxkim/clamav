@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-216
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+you've added an additional email address to your account.<br>if you don't agree with this email <b>{WILDCARD_ANY_STRING(LENGTH<=35)}</b>and if you need assistance with your acco

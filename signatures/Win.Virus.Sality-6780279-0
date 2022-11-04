@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6780279-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&Installer le logiciel Nero avec la Ask Toolbar. J'accepte les conditions ci-dessusITAQ
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+* Ricerca in Internet, sul proprio PC o nella posta in ogni momento.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Nero freut sich, Ihnen zusammen mit dem Nero-Download die kostenlose Ask Toolbar anbieten zu k
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+* Consultez Internet, votre ordinateur ou vos e-mails 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&Installa il software Nero con la Barra Ask. Accetto le condizioni sopradescritte#

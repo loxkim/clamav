@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Delf-9781584-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO `guilds` ( `id` , `name` , `ownerid` , `creationdata` , `motd` ) VALUES (NULL , '
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ERROR: Unserialization of invalid tile in IOMapSerialize::loadTile()
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+N5boost3_bi6bind_tIvNS_4_mfi3mf2Iv4GamebbEENS0_5list3INS0_5valueIPS4_EENS7_IbEESA_EEEE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_basic_string::_S_construct NULL not valid
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+The new guild leader has to be at least Level 8.

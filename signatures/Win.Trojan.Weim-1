@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Weim-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+nd2 & Int(6 * Rnd)
+				Next
+				Shell.Run("NET SEND 172.190.2"&Rnd1&".2"&Rnd2&" THE FEDS ARE WATCHING YOU

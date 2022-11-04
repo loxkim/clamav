@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.KillAV-32
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+@deltree /y c:\progra~1\mcafee rem 

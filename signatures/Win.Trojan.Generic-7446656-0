@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-7446656-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Dadvapi32.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+MIMO3.EXE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?qS?xYExYExYExYE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@x]J}bP}bP}bP}bP}bP}bP}bP}bP}bP}bP}bP}bP}bP}bP}bPrT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@xYDxYDxYDxYD
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@rT@xYDxYDxYDxYD

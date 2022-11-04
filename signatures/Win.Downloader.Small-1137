@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Downloader.Small-1137
+TARGET TYPE: PE
+OFFSET: S3+66982
+DECODED SIGNATURE:
+xe'
+		'eZulaBootExe.EXE'
+		{
+			val AppID = s {C03

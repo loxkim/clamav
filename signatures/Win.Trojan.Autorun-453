@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Autorun-453
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+[autorun] action=open folder to view files shellexecute={WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}{WILDCARD_IGNORE}.exe icon=%systemroot%\system32\shell32.dll,4 useautoplay=1

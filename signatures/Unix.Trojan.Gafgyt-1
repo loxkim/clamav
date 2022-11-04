@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Trojan.Gafgyt-1
+TARGET TYPE: ELF
+OFFSET: *
+DECODED SIGNATURE:
+/bin/busybox;echo -e 'gayfgt'

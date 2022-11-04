@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.JS-252
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<iframe src="http://{WILDCARD_ANY_STRING(LENGTH<=25)}/?click={WILDCARD_ANY_STRING(LENGTH<=8)}" width=1 height=1 style="visibility:hidden;position:absolute"></iframe>

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Smac-5
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If Left$(Dname, 8) = "Document" Then GoTo Label_Exit{WILDCARD_ANY_STRING}nents.Import {WILDCARD_ANY_STRING(LENGTH<=20)}("{WILDCARD_ANY_STRING(LENGTH<=20)}.txt"){WILDCARD_ANY_STRING}veDocument.SaveAs FileName:=ActiveDocument.FullNa

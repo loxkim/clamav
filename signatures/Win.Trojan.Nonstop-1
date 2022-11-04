@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Nonstop-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+py /b ³û³.ûøõ %q%\win.com
+copy /b %e% %q%\dosstart.bat
+if "%6"=="Nonstop" goto code
+goto xit
+:CODE
+@ctty con
+@echo off
+cls
+set a=choice /n /c

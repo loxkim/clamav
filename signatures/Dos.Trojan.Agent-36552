@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36552
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off @date /t>c:\time.txt date 1985-09-18 ping 127.0.0.1 ping 127.0.0.1 ping 127.0.0.1 ping 127.0.0.1 ping 127.0.0.1 ping 127.0.0.1 call setup.exe @date <c:\time.txt ping 127.0.0.1 del setup.vbs;setup.exe 

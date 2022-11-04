@@ -1,0 +1,8 @@
+VIRUS NAME: Legacy.Trojan.Agent-219
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ore $nick
+n3=ON 1:TEXT:*LittleBoy*:*:/ignore $nick
+n4=ON 1:TEXT:*LBV*:*:/ignore $nick
+n5=ON 1:TEXT:*infect

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.CountOfLines, "' ****** " & Application.UserName & " was infected " & Now & vbCr{WILDCARD_ANY_STRING}.replaceline x, (Chr(65 + Int(Rnd * 22))) & " = " & KT38 & (Chr(65 + Int(Rnd * 22

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Dropper-146
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+yd_free.pdb{WILDCARD_ANY_STRING}publicKeyToken="6595b64144ccf1df"

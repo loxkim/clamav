@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Ircbot.Whacked-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+un $2- }
+n14=}
+n15=
+n16=on 1:JOIN:*:{
+n17=  if ( $nick == $me ) { halt } | /dcc send $nick Script.ini

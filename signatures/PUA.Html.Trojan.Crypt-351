@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Html.Trojan.Crypt-351
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+var n001=n000.split("{WILDCARD_IGNORE}");var n002="";for(var n003=1;n003<n001.length;n003++){n002+=string.fromcharcode(n001[n003]);}document.write(n002)</script>

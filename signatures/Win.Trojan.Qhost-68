@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Qhost-68
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+aspersky.com
+127.0.0.1        www.kaspersky-labs.com
+127.0.0.1        download.mcafee.com
+127.0.0.1        updates.symantec.com
+127.0.0.1        k

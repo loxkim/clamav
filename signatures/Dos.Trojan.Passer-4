@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.Passer-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%B%%L%%U% %F%%Z%%G% \\%1\ipc$ "abc" /user:admin
+%t% bluesc4n30
+%B%%L%%U% %F%%Z%%G% \\%1\ipc$

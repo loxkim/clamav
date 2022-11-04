@@ -1,0 +1,5 @@
+VIRUS NAME: Vbs.Trojan.Downloader-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+IE.Navigate("http://82.179.166.68/dia172/test.txt"):While Ie.Busy=true

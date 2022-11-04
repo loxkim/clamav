@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Title-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If Not currcomp.CodeModule.Find("wsxzaqedc", 1, 1, 100000, 100000) Then

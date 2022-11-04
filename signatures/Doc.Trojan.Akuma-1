@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Akuma-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+or:" + Chr$(10) + "The system will be restarted", vbCritical, "Killer Queen")

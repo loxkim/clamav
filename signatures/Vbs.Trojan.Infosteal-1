@@ -1,0 +1,5 @@
+VIRUS NAME: Vbs.Trojan.Infosteal-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+.add sysdir + "\computerinfo_" + ntwrk.username + ".txt

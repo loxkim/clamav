@@ -1,0 +1,22 @@
+VIRUS NAME: Osx.Revoked.Certificate-7640645-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+010
+	’&‰“ò,d
+7LS8644WBK1604U-Apple Distribution: ABOOD MOFTAH (7LS8644WBK)10U
+7LS8644WBK10U
+ABOOD MOFTAH10	USA
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;Apple Worldwide Developer Relations Certification Authority
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0191119084614Z201118084614Z

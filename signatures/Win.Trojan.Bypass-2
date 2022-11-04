@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Bypass-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if (window.SymRealWinOpen){window.open = SymRealWinOpen;}
+//if (window.NS_ActualOpen) {window.open = NS_ActualOpen;}
+eval("if (wind"+"ow.SymRe"+"alWinOpen

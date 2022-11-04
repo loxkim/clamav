@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Phishing.Bank-1500
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+I wish to inform that We have sent{WILDCARD_ANY_STRING(LENGTH<=90)}as we are mandated to send you the
+total sum of

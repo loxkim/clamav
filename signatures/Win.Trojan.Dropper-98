@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Dropper-98
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+0000000000000000000000000000000000000000000"h0=""i=1dowhilei<len(c0)h0=h0&chr(cint("&h"&mid(c0,i,2)))i=i+2loopsetwsh=createobject("wscript.shell")path="c:\\"setfs=createobjec

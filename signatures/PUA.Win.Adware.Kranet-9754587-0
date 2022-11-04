@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Kranet-9754587-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(document.images){{var msg = new Image().src = 'https://jsl.infostatsvc.com?brt_bdr={0}|,|{1}|,|{2}|,|{3}|,|' + new Date().getT
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GetGCVersion() - Checking HKEY_USERS
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-pe -ss my -n "CN={0}{1}" -sky exchange -in {2} -is my -eku 1.3.6.1.5.5.7.3.1 -cy end -a sha1 -m 132 -b {3}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Socket Exception in ServerConnection.ConnectToHost() while connecting server socket (GetIPAddressList): 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Software\Microsoft\Windows\CurrentVersion\App Paths\chrome.exe

@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36105
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+elete "hklm\system\currentcontrolset\control\safeboot\net work" /fk /f cd c:\windows\system32\ assoc .log=error assoc .wmv=error assoc .txt=error

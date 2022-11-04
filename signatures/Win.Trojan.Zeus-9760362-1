@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zeus-9760362-1
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bwq/Kcor,SJz)^h3@/bZ[YaHS_zQPjZ^PyT1.eRtdUl(``KKx1Es>qDaua]Sql=w3=7Jfg58GnO*Cy/M[I(uvt|cXd@lTntyk?mL2+m:*p2C{{fP|L`xYv_
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nL\+?oL2+l:*p:\;{>t<L`xYv]e;|
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+x1Es>qDaua]Sql=w3=7Jfg58GnO*Cy.M[I(uvt|cXd@lTntyk?oL2+m:*p2C{{fP|L`xYv_e;|xn72W{NXRej-PSbrjE^(
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+87JPb58ukO*m|.MqL(uPq|cza@lJktyq:oL$.m:8u2Cu~fPvI`x_s_e9yxn
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+``KKx1Es>qDaua]Sql=w3=7Jfg58GnO*Cy.M[I(uvt|cXd@lTntyk?oL2+m:*p2C{{

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.p2p-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+net share admin${WILDCARD_ANY_STRING(LENGTH<=181)}copy %0 %windir%\ftppassword.bat

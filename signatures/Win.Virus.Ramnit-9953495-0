@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9953495-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Esegue la scansione di un documento, lo converte in testo pronto per essere modificato o lo invia al browser di rete dov
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+brccita.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Provare nuovamente a stampare il processo. Se l'errore si verifica nuovamente, riavviare il computer, quindi riprovare l
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+TIFF (*.tif)#TIFF Multipagina - Classe F (*.tif)#TIFF Multipagina - Gruppo 4 (*.tif)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Il "Nome dell'applicazione" che si desidera utilizzare per la funzione "Scansione a immagine" 

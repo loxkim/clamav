@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.AutoDelete-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+@echo off
+:start
+echo > %1
+del %1
+if exist %1 goto start
+del %0
+

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Angela-3
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ECHO OFF
+c:\windows\system\angela.exe
+REM - DO NOT REMOVE!

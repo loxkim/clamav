@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Psyk-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+KLM\Software\Microsoft\Windows\CurrentVersion\Run" /v PsykeDOCMg

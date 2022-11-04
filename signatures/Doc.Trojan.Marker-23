@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Marker-23
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+InfectedMark = "本产品为良性"{WILDCARD_ANY_STRING}CommandBars("工具").Controls("宏").Enabled = False

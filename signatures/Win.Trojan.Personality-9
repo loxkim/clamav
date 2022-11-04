@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Personality-9
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+("WScript.Shell"); 
+WSHShell.Run("C:\DOBERUS.BAT"

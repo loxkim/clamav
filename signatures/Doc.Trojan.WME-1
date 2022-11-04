@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.WME-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+X = WordBasic.Call("wss.Makkop", WordBasic.[FileName$]())

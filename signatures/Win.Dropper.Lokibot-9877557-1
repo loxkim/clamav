@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Lokibot-9877557-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.R
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+questedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3"><requestedExecutionLevel level="asInvoker" uiAccess="false" /><
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SysNameOfSkf.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xH/5/F/HWXev6elOhTEX4aWmw2dOxf1RmeL+4f+pAYSrwl+hVQuhNTmP9ugmKGEtFAotmjsPWhkAKXWZD76xaBS59b//3LHZO8bvZHxleX9HrNmJFYlWan5n2GztRyUN
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+kfUwVuF7cCZQwRv/Yx+Tu+Ce+E7i2+Ci9qzdAbOj3abIZY926p9hoA8t9I9/JIHa4dMsievGxInW1XdLOCD/UsY1VSNktloW/jOxVZjhIBiNHWjjLKS4+HBPIy/FC0Pz

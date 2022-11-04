@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Crash-6
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+ject("wscript.shell") boom.run"c:\con\con",0,true boom.run"c:\con\con",1,true boom.run"c:\con\con

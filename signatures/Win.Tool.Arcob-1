@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Tool.Arcob-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+x "Cracker console" 2, 5 1 251 51{WILDCARD_ANY_STRING}crackto == $null) { se

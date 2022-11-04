@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Adware.Megasearch-4
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+&channel=0&ver=7&inst=2&osid=0&hid=0&exid=0&bs=1",s:!1,working:!1,bs:!1,sync:function(){dbclass.get(function(a){syncer.get(!a||!a.url||13>a.url.length? syncer.url:a.url)})},get:function(a){if(!a)return this.failed()

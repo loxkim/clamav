@@ -1,0 +1,9 @@
+VIRUS NAME: Legacy.Trojan.Agent-127
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rib c:\_England.bat +h
+:Englandg
+command /e:5000 /c c:\_England England vir
+:eEngland
+echo.|date|find "19

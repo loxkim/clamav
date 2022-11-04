@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Rousted-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ElseIf AD.Lines(1, 1) <> "'NVC" Then

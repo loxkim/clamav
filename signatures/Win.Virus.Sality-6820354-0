@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6820354-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Win9XWritePrivateProfileString -> DeleteFile failed!  GetLastError()==%d
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ResetAutorun: GetAutorunInWindows returned %s and GetDatFile returned %s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+qTo complete the %s installation, you must click Retry on this screen and click Continue or OK on the next screen.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Win9XWritePrivateProfileString():  Error writing %s-->%s=%s to temp file
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+zOm de installatie van %s te voltooien moet u in dit scherm op Opnieuw en in het volgende scherm op Doorgaan of OK klikk

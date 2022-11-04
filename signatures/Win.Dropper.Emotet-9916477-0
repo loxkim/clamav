@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Emotet-9916477-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+The program %s, or one of its DLLs attempted to call the function %s which is not supported in the loaded ODBC installer DLL (%s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+OK^The following SQLGetTypeInfo information for data type %s will help you determine the syntax: 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Make sure you have created the database and registered (added)  it as an ODBC data source.GInitialization of the  Studen
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SQL_INTEGER6Please enter the column-element syntax for a SMALLINT.0For example, the SQL Server syntax is:  smallint
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+STDREG.dll

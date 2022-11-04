@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.LoveLetter-8
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ile(WScript.ScriptFullName)
+  c.Copy(dirsystem&"\aa.vbs")
+  c.

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-295
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+e your identity and your account security. please click on <a{WILDCARD_ANY_STRING(LENGTH<=200)}>sign in to online banking</a>to continue to the verification proc

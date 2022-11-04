@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Farfli-9963350-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Install1.dat
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+navicat.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Z(S+rA#S0 [#Q eAfS,eP-0Di]0Q(iWfG-nW)GdsZ<UDu]-^+w]fS+mC4U7sZ)^dmV2X+d3FY*c\+@%tZ$\! E#B7i\(0D
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Copyright (c) 2008. PremiumSoft CyberTech Ltd.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+32_+ ^'^= _#^#t[f_6 W/C0a]%UdsJ+R+l@FY*vR*Y  P)T! _#^#t[5

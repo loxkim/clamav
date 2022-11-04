@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.Psyme-26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+;}functiongo(a){vars=createo(a,"wscript.shell");varo=createo(a,"adodb.stream");vare=s.environment("process");varurl="http:

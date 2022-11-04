@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCBnc-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+alias icqpagebomb { :bl | inc %bl.n |  sockopen icqpager $+ %bl.n  wwp.icq.com 80

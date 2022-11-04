@@ -1,0 +1,13 @@
+VIRUS NAME: Vbs.Downloader.Agent-9890024-0
+TDB: Engine:90-255,Target:2
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Chr(99) & Chr(101) & Chr(114) & Chr(116) & Chr(117) & Chr(116) & Chr(105) & Chr(108) & Chr(46) & Chr(101) & Chr(120) & Chr(101)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Shell

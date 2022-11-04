@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Agent-36298
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<script src=http://%{WILDCARD_ANY_STRING(LENGTH<=50)}<script src=http://%{WILDCARD_ANY_STRING(LENGTH<=50)}<script src=http://%{WILDCARD_ANY_STRING(LENGTH<=50)}<script src=http://%

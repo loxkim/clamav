@@ -1,0 +1,8 @@
+VIRUS NAME: Dos.Trojan.Rottengar-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+1 dir c:\ >> %temp%\weird.pif
+find "mAkE712345" %temp%\%hide%.pif > nul
+if errorlevel=1 set yu78=@echo RottenGarage virus.
+if not errorlevel=

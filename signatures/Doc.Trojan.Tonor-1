@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Tonor-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Templates(1).AutoTextEntries.Add("- AAAAAAAA", ActiveDocument.Words(1)) = "IAMHERE"

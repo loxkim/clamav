@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Shore-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+aaa = "งท_nฒ__", bbb = "wenni", ccc = "cool9908", _{WILDCARD_ANY_STRING}If LCase(InputBox(pass, badboy)) = cruel Then

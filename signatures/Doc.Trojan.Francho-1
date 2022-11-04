@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Francho-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+globaldotf = Application.Templates(1).path + "\francho.jpg"{WILDCARD_ANY_STRING}ection.TypeText Text:="Hasta do

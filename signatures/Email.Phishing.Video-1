@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Video-1
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+a mensagem deixada por uma pessoa que tem{WILDCARD_ANY_STRING(LENGTH<=25)}um carinho enorme por voc&e{WILDCARD_ANY_STRING(LENGTH<=260)}Clique{WILDCARD_ANY_STRING(LENGTH<=90)}AQUI

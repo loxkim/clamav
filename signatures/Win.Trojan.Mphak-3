@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Mphak-3
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+$query = "update ".$dbstats." set count = count + 1 where a2 = '".$cci['a2']."' and statid = '".$id."'"; $r = mysql_query($query); if (mysql_affected_rows() == 0) { $query = "insert into ".$dbstats." values ('".$id."', '".$cci['a2']."', '".$cci['name']."', 

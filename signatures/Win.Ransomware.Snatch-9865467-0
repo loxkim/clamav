@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Snatch-9865467-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+icand8casgstatuscomplex128dnsapi.dllexitThreadgetsockoptgoroutine impossibleinvalidptrntdll.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.dllno such hostreflect.Copyreleasep: m=runtime: gp=short bufferunexpected )wtsapi32.dll (default %q) (default %v) MB released
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!=  ->  <== as  at  fp= is  lr: of  on  pc= sp: sp=(?:)(?P<(?i:) = ) m=+Inf+inf, n -Inf-inf.bat.cmd.com.exe3125: p=ACDTACSTAEDT
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+golang.org/x/sys/windows.procGetProcessPreferredUILanguages
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+go.itab.*golang.org/x/crypto/openpgp/packet.SymmetricKeyEncrypted,golang.org/x/crypto/openpgp/packet.Packet

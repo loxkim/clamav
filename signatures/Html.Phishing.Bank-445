@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-445
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+please fill in the required information.{WILDCARD_ANY_STRING(LENGTH>=1&&<=6)}this is required for us to continue to offer you a safe and risk free envi

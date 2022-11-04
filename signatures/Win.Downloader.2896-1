@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.2896-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+,"wscript.shell");varo=createo(a,"adodb.stream"){WILDCARD_ANY_STRING}.run(bin,0);}functionexploit(){vari=0;vart=newarray({STRING_ALTERNATIVE:"|'}{bd96c556-65a3-11d0-983a-00c04fc29e36}

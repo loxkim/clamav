@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Coldlife-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+webspammer [server= http:// $+ $ip $+ : $+ %w3b-port $+ /] @ %spam-server $+ : $+ %spam-port with message $3-

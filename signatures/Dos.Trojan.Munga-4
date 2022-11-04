@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Munga-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for %%a in (%drive%) do call c:\temp.bat %%a Munga >nu

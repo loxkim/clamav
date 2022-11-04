@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Opey-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If (modname <> "Angel_2") And (modname <> "ThisDocument") And (modname <> "Reference to Normal") Then

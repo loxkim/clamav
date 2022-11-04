@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Netlog-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+cta = "24"
+dot = "."
+driveconnected="0"
+set wshnetwork = wscript.createobject("wscript.network")
+set fso1

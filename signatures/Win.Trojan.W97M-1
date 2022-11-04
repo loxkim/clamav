@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.W97M-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Y = Application.VBE.ActiveVBProject.VBComponents("VSMP_DEMO").CodeModule.CountOfLines

@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Redir-33
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+i++){if((20==0 x10)&&window.document)s+=ss["fromcharcode"](1*asgq[i]-(i%5-5-4));}z=s;e(s);

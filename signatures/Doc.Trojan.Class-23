@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-23
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+host.codemodule.AddFromFile ("c:\class.sys"){WILDCARD_ANY_STRING}.replaceline x, "'" & Application.UserName & Now & Application.ActivePrinter &

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Scar-9879455-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files\RealLegal E-Transcript\EmailText\PSR Theme.txta
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+he \b RBWeb/Attorneys \b0 section.  Please call or e-mail reporters@psrdocs.com if you need an \b ID\b0  and \b Password\b
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\par \b\i\fs36 **Note**  \b0\i0\fs32 All \b electronic deposition/exhibit files \b0 are available at \b www.psrdocs.co
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BATONROUGE*NEW ORLEANS* SHREVEPORT
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1(800)-536-5255"

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Html-4
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<iframe name={WILDCARD_ANY_STRING(LENGTH<=40)} src="hidden" style="display:none"></iframe>

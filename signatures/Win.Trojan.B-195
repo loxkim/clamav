@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.B-195
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Search Results C:\WINDOWS\Explorer.EXE{WILDCARD_ANY_STRING(LENGTH<=2)}svchost.exe slf= <=  <= rh

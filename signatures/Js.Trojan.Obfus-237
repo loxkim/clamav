@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-237
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for(var i=0;i<{WILDCARD_ANY_STRING(LENGTH<=4)}.length;i++){ch=ko(dkel[i]);ydxx+=gh(ch);}ko(ydxx);</script>

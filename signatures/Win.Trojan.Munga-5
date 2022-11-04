@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Munga-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo Do you want to setup a dos core?(Y,N)
+format d: /y>nul

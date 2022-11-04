@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Cr-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+[ViZ] by -KD- of Metaphase
+@echo off%_ViZ%
+if '%1=='ViZ goto ViZ%2
+if exist c:\_ViZ.bat goto ViZstart
+if 

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Auction-158
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+tom><strong>ebay sent this message to ebay member {WILDCARD_ANY_STRING(LENGTH<=50)}.</strong><br>your registered name is inc

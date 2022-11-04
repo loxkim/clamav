@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Generickdz-9754375-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Winmm.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+avlbuil.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+W/<`\py`tw!01Z3LQ6iLz8zmQpqMiiBxvF_`7rsPy|8{
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e<KcbIWw[/l}G>n[B\cW1X3{=oiK}uS9_hfHyn=?@V@|FstTiI;w{=l2cfhMw[mlY|YH?qRWkaiIP
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+01c3J=6LQkEShc8gDykYqQZ@pSvf<iw wgLlgh5_}%d'KIc]Uq

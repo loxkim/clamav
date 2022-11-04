@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Worm.CryptPirch-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Rem VBS.CryptPirch
+Rem by Second Part To Hell[rRlf]
+Rem [www.spth.de.vu]
+Rem {spth@jet2web.cc}
+
+Rem It's a simple encrypt VBS-pIRCh-spreader,

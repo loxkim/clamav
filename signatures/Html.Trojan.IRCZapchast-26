@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCZapchast-26
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+n7=%clone.port 6667 n8=%clone.load 0 n9=%temp.sock :irc.dal.net 376 er3580mge :end of /motd command. n10=%pass8 evilfreak n11=%s.i.c #dadalus

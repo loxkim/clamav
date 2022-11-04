@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Mikey-9933376-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+jQuery("a[href*='https://']:not([href*='https://yourdomain.com'])").attr("target","_blank");
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+The -a flag displays the first 80 chars of process arguments (not my limit, part of procfs), -A displays all process arguments,
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+command to run with elevated Privileges as a command line argument
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+I already look forward to the next time I am to address you on these matters, to see how much more we have achieved together
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Delete the entry called 'Dialer', which uses rundll32.exe to run msa32chk.dll

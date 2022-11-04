@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.FPack-2
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+orized'); exit("access denied"); } function scan_dir($dirname) { global $count; $dir=opendir($dirname); while (($file=readdir($dir)) !== false) { if($file !="." && $file !=".." ) { if(is_file($dirname."/".$file)) { $count++; } } } closedir(

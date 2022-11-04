@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Silly-14
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ "%1==" for %%m in (*.b*) do call %0 %%m
+copy/b %0+%1 #
+copy # %1

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-274
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+bank accounts. we are sorry for any inconvenience. however, failure{WILDCARD_ANY_STRING(LENGTH<=10)}updating your account records will result in suspension or limiting your acc

@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Ibbm-1
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+for %%a in (*.bat) do call c:\_rbm rbm i %%a

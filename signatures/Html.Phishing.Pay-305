@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-305
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+please update and verify your information by signing in your account below{WILDCARD_ANY_STRING(LENGTH<=35)}<a href="http:

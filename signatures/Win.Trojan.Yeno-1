@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Yeno-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.run("c:\windows\system32\oxney.c.vbs")

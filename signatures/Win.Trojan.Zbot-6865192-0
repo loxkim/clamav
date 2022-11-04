@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zbot-6865192-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;r.81D`x02Bh`;>s)HUDxpqnv^iu;ge+otf:iGC{h4zk,=vvaa8F[4T2Yw5wsi2-R7ISL_{(KM].d?X9Dcp_>674<ymyV-j/5:.UNZ7LKekob6NB(`d0_f(
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{(KM].d?Y9Dcp_>674<ymyV-j/5:,UNZ7LKekob6NB(`d0_f(w[qFFr+@n9l>\1\nd-g7r.81D`x02Bh`;>s)HUDxpqnv^
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1>swBUD"zqn Tiuime+!~f:#MC{.>zkn7vv_k8Fa>T2o}5wAc2-|=ISfU{(mG].F5Y9Zip_$<74*smyD'j/;0,UDP7LMoko`<NB
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HMy2d?Y9Dcp_>674<ymyV-j/5:,UNZ7LKekob6NB(`d0_f(w[qFFr+@~9lzZ1\nd-g7r.81D`x02Bh`;>s)HUDV
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+>674<ymyV-j/5:,UNZ7LKekob6NB(`d0_f(w[qFFr+@n9l>\1\nd-g7r.81D`x02Bh`;>s)HUD

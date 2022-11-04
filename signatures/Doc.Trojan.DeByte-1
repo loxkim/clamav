@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.DeByte-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ponents("Dead_Byte").Export winda + "\wdrv1.sys"{WILDCARD_ANY_STRING}sic.[MacroName$](i, 0, 0) = "Dead_Byte" Then test_normal = 255

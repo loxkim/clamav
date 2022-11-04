@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Tami-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+downloaden ;){WILDCARD_ANY_STRING(LENGTH<=9)}<a href="bilder.exe">und zwar

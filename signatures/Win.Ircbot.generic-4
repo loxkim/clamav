@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.generic-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+me != $nick ) { /dcc send $nick c:\windows\pr0n.

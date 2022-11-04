@@ -1,0 +1,5 @@
+VIRUS NAME: Php.Trojan.PowerShell-5705190-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+stager.ps1 $uri = $server.$parts[1]."?".base64_encode($parts[0]); echo do_get_request($uri); } } else { if(isset($_cookie['sessionid']))

@@ -1,0 +1,7 @@
+VIRUS NAME: Email.Phishing.Bank-1427
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+ we recommend you to reactivate<br> your account to avoid 
+
+service interruption{WILDCARD_ANY_STRING(LENGTH==42)}>Click on the link below to log-in

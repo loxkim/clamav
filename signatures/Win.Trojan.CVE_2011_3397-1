@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.CVE_2011_3397-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+addBehavior("#default#time")

@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.Trojan-1019
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+<?PHP
+define('REAL_SERVER_ROOT', 'SERVER');
+//DIR
+define('SERVER_ROOT', '.');
+define('SERVER_VERSION', '2.5');
+define('BOOT_DIR', 'bootstrap');
+define('SYSTEM_DIR', 'system');
+define('SYSTEM_CONF_DIR', 'conf')

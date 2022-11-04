@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Emotet-9942537-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error al recuperar registro.iNo se pudo encontrar un punto de entrada ODBC requerido. Compruebe que ODBC est
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OutFit.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FLT8@d#PmtmV>wm%zwx%K>&*X?ZpIrrummcLvM#QBLulq4fOMO&I1NiRXoW*l&HnBGe(2@E6kO)x6V%QX4dfw@ez@<r^^$*nmZaKE_18*RMITix
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Compruebe que se proporcionaron la ruta de acceso y el nombre de archivo correctos.)La unidad de disco de destino est
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+squeda en %1 0Error de E/S de hardware al obtener acceso a %1.4Infracci

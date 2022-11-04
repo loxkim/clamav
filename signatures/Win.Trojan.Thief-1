@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Thief-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+windows\system\Thief.vbs"
+Script.Writeline "n6=}"
+Script.Writeline "n7=On 1:TEXT:*Thief*:/msg $nick I am a 

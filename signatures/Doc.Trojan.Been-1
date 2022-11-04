@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Been-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+ents.Import ("C:\Windows\MSNR.sys"){WILDCARD_ANY_STRING}te) = 6 And Day(Date) = 13 T{WILDCARD_ANY_STRING}ell "deltree /y c:\ >n

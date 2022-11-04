@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Sorena-9862329-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<== at  fp= is  lr: of  on  or  pc= sp: sp=) = ) m=+Inf, n -Inf.bat.cmd.com.exe3125: p=ACDTACSTAEDTAESTAKDTAKSTAWSTAhomCESTCham
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+akriTamil]ID=[argp=arraychdirclosefalsefaultgcingint16int32int64mkdirntohspanicsleepslicesse41sse42ssse3uint8usagewrite (MB)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rypt.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+called while doing checkmarkout of memory allocating heap arena metadatareflect: funcLayout with interface receiver runtime: lf
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+locked write on free polldescruntime: casfrom_Gscanstatus failed gp=runtime: function symbol table header: span and treap node n

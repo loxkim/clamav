@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hazard-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Engine.VBProject.VBComponents("Biohazard").CodeModule.InsertLines PoRL, vbTab & "REM " & PoR

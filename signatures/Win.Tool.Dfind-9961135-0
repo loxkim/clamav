@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Dfind-9961135-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Scan complete: %d / %d PORT(s) / %d IP(s) (open:%d rad:%d passwd:%d ntsec:%d)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[+] results.: %d / %d PORT(s) / %d IP(s) (open:%d rad:%d passwd:%d ntsec:%d)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%s:%d   vnc4 ntlogon passworded (perso/enterp ed. encryption:OFF)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Scan complete: %d / %d PORT(s) / %d IP(s) (open:%d vnc:%d passwd:%d)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[+] results.: %d / %d PORT(s) / %d IP(s) (open:%d vnc:%d passwd:%d)

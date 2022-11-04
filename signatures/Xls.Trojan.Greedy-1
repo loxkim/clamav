@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Greedy-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+UCase(Dir("c:\o6.reg")) <> "O6.REG" Or UCase(Dir("c:\o6.bat")) <> "O6.BAT"{WILDCARD_ANY_STRING}.Heading = "Dis is X97M.Dmize ur greed"

@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.JS-31
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ction wormmain()
+{
+
+  for (i=max-1; i>0; i--)
+  {
+    document.layers[i].left    = document.layers[

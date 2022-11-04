@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-136
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+%|temp =  $rand(A,Z) $+ $fln1ck $+ $rand(A,Z){WILDCARD_ANY_STRING(LENGTH<=32)}USER

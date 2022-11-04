@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-949
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+the electronic shipment information below has been transmitted to U{WILDCARD_ANY_STRING(LENGTH>=288&&<=320)}Please refer to attached file

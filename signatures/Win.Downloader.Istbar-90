@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Downloader.Istbar-90
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rVer = s 'ISTprotect.Protecter.1'
+	}
+	NoRemove CLSID
+	{
+		ForceRemove {4418DD4D-7

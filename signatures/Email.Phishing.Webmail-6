@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Webmail-6
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+We are currently upgrading our data base and e-mail{WILDCARD_ANY_STRING(LENGTH<=20)}We are deleting all unused

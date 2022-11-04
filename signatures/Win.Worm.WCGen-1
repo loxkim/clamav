@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Worm.WCGen-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+For Each n In f.Files
+FileExt = LCase(a.GetExtensionName(n.Path))
+If FileExt 

@@ -1,0 +1,43 @@
+VIRUS NAME: Doc.Trojan.Agent-6922918-0
+TDB: Engine:51-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   Dim AXPJP(2)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BhVbbp(1) = MidB(FjjwDz + viSUszpUDUzsHHDiCQPw + qJHvX, 332, 318) + Left(IsAzH + wJXGXbrcqzOdtJMCbsuz + rrUzG, 191) + Left(kTFYCk + QTjRBdIKqkFtZCCfkIrVj + tZZJG, 535) + Left(caRUBNjr + YrTKQtzEdYYwzOiCBkJQz + vQASBQD, 106)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BijUVY = zzzwdAVAsC + tBzVOziFAcR + hIbatdVAd + EtqfH + qTYDiCoiw + nVorQbz
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dim cYpkdH(1)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TUoiZM(0) = MidB(zGKYpG + IVjYnOCaYNtBRboKFJjb + ijvKbiPU, 31, 324) + Right(iGESOPA + VffBIvcmYuJhGPntz + BtchhGnu, 391) + MidB(tIBQITd + PsnaDwWLbHBbVilZpprETi + jqGUQ, 582, 637) + Left(GBikj + sTZRmWijIiCXnUwRVsHrXulV + wjFOvL, 2)
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pkSrlQ(0) = Right(mdRBN + SjtlUNmJqUwHHtnfrEpR + LGILcw, 552) + Mid(BYTMascz + QUwtoYNhvDcPqpFbhs + UGZSj, 244, 765)
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wOYitWlj = "027aia702$70a2(a720" + "ea702l072ai7" + "a02F7a20d702aaa0" + "72o207al027an7a20w" + "27a0o70a2Da207.02"
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+zzzwdAVAsC = "7ae702ax702ae7a0" + "2.702a'2a07+2a70ka7" + "02ia072n7a20$7a" + "02+7a20'2a70\07a2" + "'2a70+2a07c72" + "a0i7a20l27"

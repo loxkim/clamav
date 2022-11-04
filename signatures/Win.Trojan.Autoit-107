@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Autoit-107
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+gwmetric=1" , "" , @SW_HIDE ) 
+FILEDELETE ( "C:\windows\system32\dllcache\userinit.exe" ) 
+FILECOPY ( "c:\go\userinit.jpg"

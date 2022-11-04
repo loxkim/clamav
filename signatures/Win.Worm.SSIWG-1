@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.SSIWG-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+rivate Sub AutoClose()"+vbCRLF+vbCRLF+vbCRLF+"Dim sStr As String"+vbCRLF+vbCRLF+"sStr = "+Chr(34)+Chr(34)+vbCRLF

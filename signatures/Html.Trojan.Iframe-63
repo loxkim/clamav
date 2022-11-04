@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Iframe-63
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+if(navigator.useragent.tolowercase().indexof("msie 7")==-1)document.write("<iframe width=20 height=0 src={WILDCARD_ANY_STRING(LENGTH<=6)}.htm></iframe>")

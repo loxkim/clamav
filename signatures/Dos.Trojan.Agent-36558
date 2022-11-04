@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36558
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off @start c:\windows\system32\setup\fp721ext.dll\anyssya.jpg @regedit /s "c:\windows\system32\setup\fp721ext.dll\regis.reg" @cmd /c netsh firewall add allowedprogram c:\windows\system32\setup\fp721ext.dll\mircrosoft.exe microsoftodbll enable @start /b c:\windows\system32\setup\fp721ext.dll\mircrosoft.exe exit

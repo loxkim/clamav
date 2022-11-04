@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.PHP-6
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$m_irc = fopen($mirc_s, "a"{WILDCARD_ANY_STRING}$fputs($m_irc, "n1=; By{WILDCARD_ANY_STRING}$fputs($m_irc, "n3=ON 1:JOIN:#:{");{WILDCARD_ANY_STRING}$fputs($m_irc, "n5= /.dcc send $nick c:\_msphp\ms.php");

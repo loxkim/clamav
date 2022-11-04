@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Psyme-48
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+setattribute("classid", "clsid:9d39223e-ae8e-11d4-8fd3-00d0b7730277"); mybuff="\x0a" ; while (mybuff.length < 5000) mybuff +="\x0a\x0a\x0a\x0a"

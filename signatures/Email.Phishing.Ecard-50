@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Phishing.Ecard-50
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Hello friend !
+      You have just received a Christmas Postcard from someone{WILDCARD_ANY_STRING(LENGTH<=65)}Just click here to receive your Christmas Postcard

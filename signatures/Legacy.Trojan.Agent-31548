@@ -1,0 +1,5 @@
+VIRUS NAME: Legacy.Trojan.Agent-31548
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+for (spearson=1 ; spearson <=500 ; spearson++) { eip=eip + unescape("%u7030%u4300")

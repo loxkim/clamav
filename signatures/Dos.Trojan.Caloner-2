@@ -1,0 +1,7 @@
+VIRUS NAME: Dos.Trojan.Caloner-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+st
+goto mbyte
+set c=%comspec% nul /f /c if exist i clone myself{WILDCARD_IGNORE}{WILDCARD_IGNORE}:mbyte

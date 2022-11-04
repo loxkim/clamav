@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.Bomber-7
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on 1:sockread:@DL_http* {
+
+  set %tempFile $getdir( [ *. $+ $gettok($sockname,$gettok($sockname,0,46),46)

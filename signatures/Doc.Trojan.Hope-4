@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hope-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Options.ConfirmConversions = (0 - 0): Options.SaveNormalPrompt = (1 - 1): Options.VirusProtection = (2 - 2){WILDCARD_ANY_STRING}MC = CM.Lines(1, CM.CountOfLines)

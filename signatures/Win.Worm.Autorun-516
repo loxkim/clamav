@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Autorun-516
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+[autorun] open=ufo.exe shellexecute=ufo.exe shell\auto\command=ufo.exe

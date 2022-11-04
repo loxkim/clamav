@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.Flood-15
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+<img src="mailto:president1@whitehouse.gov" width="1" height="1"><img src="mailto:president2@whitehouse.gov" width="1" height="1">

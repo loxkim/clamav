@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Id-18
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+<?php $id = system(id); $un = @php_uname();{WILDCARD_ANY_STRING(LENGTH<=25)}echo "uname -a: $un<br>"; echo "id: $id<br>"; exit; ?>

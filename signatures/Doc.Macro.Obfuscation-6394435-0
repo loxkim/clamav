@@ -1,0 +1,25 @@
+VIRUS NAME: Doc.Macro.Obfuscation-6394435-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 3>75
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Mid(
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Array(UCase(
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AutoOpen
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: (0>20)&(1>20)&2
+     +-> REGEX: \x3D\s+Array\x28UCase\x28((\x22|\x27)[a-zA-Z]+(\x22|\x27)\s+\x2B\s*){4}(\x22|\x27)[a-zA-Z]+(\x22|\x27)\x29\x29
+     +-> CFLAGS: g

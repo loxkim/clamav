@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Antisoc-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ = WScript.CreateObject("Word.Application")
+N.Options.VirusProtection = 0: N.Options.SaveNormalPrompt = 0:

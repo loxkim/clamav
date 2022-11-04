@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Jaik-9952315-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+kynmlxxqypyudjdmgetumtlainlxqliszrizbgqwdbvfzlzzjlficwdzaymripmdybzxuvsbgtoqyztvjji
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZN7bwwqqzj21voapaflzwuclzmmjbacunEibdNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEbS5_S5_
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZN7bwwqqzj19zjfjwdhkggoabpujnsvEbbidNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEiS5_S5_d
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZN7bwwqqzj22bmuewyasitwzbmlkobdjtuEdNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEbi
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZN7bwwqqzj15vihudpolkpjupvyEidddNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEdS5_

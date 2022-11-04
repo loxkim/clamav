@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.FormatC-13
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+echo for %%%%a in (%drive%) do call c:\temp.bat %%%%a Lucky2000 >nul >>c:\a

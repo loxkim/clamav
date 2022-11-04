@@ -1,0 +1,11 @@
+VIRUS NAME: Win.Trojan.Bee-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Code=fd.read(virusSize)
+fd.close
+
+cont=0
+for each victim in fso.getfolder(".").files
+
+vExt=fso.getExt

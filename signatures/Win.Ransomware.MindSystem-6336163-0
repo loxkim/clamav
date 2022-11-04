@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Ransomware.MindSystem-6336163-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0|1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MindSystemNotRansomWare
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://image.noelshack.com/fichiers/2017/31/2/1501621309-ransomware.png

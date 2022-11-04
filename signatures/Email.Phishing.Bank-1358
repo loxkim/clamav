@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1358
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+To restore your {WILDCARD_ANY_STRING(LENGTH<=35)}Banking Account features, please follow these steps:

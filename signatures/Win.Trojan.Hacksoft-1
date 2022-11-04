@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Hacksoft-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+.readystate<>4 then exit function end if gethttppage=bytes2bstr(http.responsebody) set http=nothin

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Spyware.TrickBot-7571954-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Trump's GOP defenders looking to end his Senate trial in the next few
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OLE initialization failed. Make sure that the OLE libraries are the correct version
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3L4QG?u%GTA$RHA2l|r@LhoD|0sd0dp3L4QG?u%GTA$RHA2l|r@LhoD|0sd0dp3L4QG?u%GTA$RHA2l|r@LhoD|0sd0dp3L4QG?u%GTA
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The Senate impeachment trial resumed on Wednesday
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+en John Barrasso, a member of the GOP Senate

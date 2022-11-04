@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.JS-136
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+createo(a, "ado"+"db.str"+"eam");{WILDCARD_ANY_STRING(LENGTH<=300)}.exe";{WILDCARD_ANY_STRING(LENGTH<=300)}new activexobject("micr"+"osoft.xmlh"+"ttp{WILDCARD_ANY_STRING(LENGTH<=300)} = new activexobject("ms"+"xml2.serv"+"erxmlh"+"ttp");

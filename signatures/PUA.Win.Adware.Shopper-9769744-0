@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Shopper-9769744-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Builds\Build_ShopperProMulti\BrowserInjection\Bin\ShopperPro_SPBIUpdate\x64\WinMV\Release\spbii64.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[Utils::NTDLL::GetProcessFileName] 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+LibraryInjector::InjectLibrary - injected library doesn't exist on disk
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[Injector::LibraryInjector::InjectTargetName] 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DetourUpdateProcessWithDll

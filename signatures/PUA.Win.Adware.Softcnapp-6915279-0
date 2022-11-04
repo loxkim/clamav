@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Adware.Softcnapp-6915279-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<SoftUrl><![CDATA[http://cdn1.mydown.com/5c0f1e93/ff1664a0770bb7197e07d82d6fcc567a/soft/201409/XMPSetup_4.9.17.2314-dl.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<SoftUrl><![CDATA[http://ftp-idc.pconline.com.cn/61b23d69847f3b63b9f0ee04320499f1/pub/download/201010/IE8-WindowsVista-x86
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<SoftUrl><![CDATA[http://ftp-idc.pconline.com.cn/6fe90fae80674648dce14f072cd18d7c/pub/download/201010/zh-hans_office_stand
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<SoftUrl><![CDATA[https://www.battlenet.com.cn/download/getInstaller?os=win&installer=Battle.net-Setup-CN.exe&id=977386777
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<SoftUrl><![CDATA[https://ghost.25pp.com/soft/pppc_setup/pphelper_5.9.7.4150_25pp_00016_1539261018_setup.exe]]></SoftUrl>

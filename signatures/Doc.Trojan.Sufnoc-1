@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Sufnoc-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+tion.Caption = "ATTENTION: Elvis Has Left The Building!"{WILDCARD_ANY_STRING}D = 1 Then G = F.Lines(1, F.CountOfLines)

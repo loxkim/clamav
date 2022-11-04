@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.W-374
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+C:\*.reg %windir%\system\*.reg) do regedit /e %q HKEY_LOCAL_MACH

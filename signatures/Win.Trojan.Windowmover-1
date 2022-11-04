@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Windowmover-1
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+titlebar=no,alwaysraised=yes{STRING_ALTERNATIVE:"|'});}functionprocreate(){openwindow();openwindow();openwindow();openwindow();openwindow();openwindow();openwindow();openwindow();}

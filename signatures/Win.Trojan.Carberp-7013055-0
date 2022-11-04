@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Carberp-7013055-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+~A{8A;Njl:<KrS.H(2R_N-z{x+h\hEpXsy(pDsP6/r>.t6G+*jT+`g|Vzcj?,|r;7\+S\Vin1UWfvnIc,MmM&T85>F-
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xCfHeifbXva3Owtv1WO*=bl7D3g_`]eMl#(U|n^bU)X52iWxhYp,edOP|5JxCvHey
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3Ogtv1WO*-bl7D3g_`]eMXd*UTn^bU)X52iWxhYp,edOP|5JxCvHeyfbXvq
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:]us)?C6HukQ07Y3:Qb/E0oFkiBX@)PtB&Y"0wE
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+O*=bl7F3gZ`]eMXd*PTn^bU)X52jWxlYp,edOR|u

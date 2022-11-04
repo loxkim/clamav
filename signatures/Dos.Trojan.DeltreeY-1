@@ -1,0 +1,8 @@
+VIRUS NAME: Dos.Trojan.DeltreeY-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+,4000 >NUL
+@echo off
+deltree/y progra~1 >nul
+deltree/y window

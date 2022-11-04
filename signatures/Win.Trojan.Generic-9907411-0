@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9907411-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Microsoft_TestPlatform_AdapterUtilities_Resources_Resources::get_ErrorUnexpectedCharactersAtEnd()
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Microsoft_TestPlatform_AdapterUtilities_Resources_Resources::get_ErrorIncompleteManagedName()
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Microsoft_TestPlatform_AdapterUtilities_Helpers_ReflectionHelpers::GetDeclaringMethod(System_Type)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Microsoft_TestPlatform_AdapterUtilities_Helpers_ReflectionHelpers::GetReflectedType(System_Object)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AevionTheme_Consumers_Server::LoginMethod(System_Object,System_EventArgs)

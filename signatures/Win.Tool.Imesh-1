@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Tool.Imesh-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+$payload .= "\xcc"; # raise exception 03h{WILDCARD_ANY_STRING}while($c < 0x2723) {{WILDCARD_ANY_STRING}$es .= "\x90";{WILDCARD_ANY_STRING}$c += 1;{WILDCARD_ANY_STRING}$es .= "\x43\x04\x43\x00";{WILDCARD_ANY_STRING}$c = 0;{WILDCARD_ANY_STRING}while($c < 12) {

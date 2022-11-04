@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Generickds-7391517-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+libgcj-12.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:")S<*O;&M3:`NG++T?%S6-T:"O.0ZC<iO)S<'L2%S63_@-\<)S<%Q:)S<
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@*3_@&K1*V?)S<)S<=gN)S<.T8?cK)S<+U<&K1$I//T:'O6)S<?cK)S<)S<$I/%S6Lv_1[D)S<?cK D,)S</\;"Q1
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C')S<)S<-T>'P4&L62_E/]@)S<1[B7dC)X>%S6)S<'P4)S<)S</YB/R8)S<)S<=dN)S<)S<
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@*AkTI2)S<#K2(N8)S<?cK%M4)S<.[:;hM)S<#J07dI0ZC&N5)S<)S<:`J)S<*W<&V:)S<Lv_9cL)S<)S<0Y>)S<-S=)S<'Q:)S<1X>>mM)S<)S<?oSU

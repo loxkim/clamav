@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Generic-9916369-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+541 801[464]803[510]805[676 535]808[527]810[521]812[525 423]815[387]817[453]820[624 433 542]824[469 729 749 536 666 470 443]832
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<xmpMM:OriginalDocumentID>xmp.did:0e587fa7-9b40-0c4f-95bf-c40edb524af5</xmpMM:OriginalDocumentID>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<stRef:originalDocumentID>xmp.did:0e587fa7-9b40-0c4f-95bf-c40edb524af5</stRef:originalDocumentID>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<</DecodeParms<</Columns 3/Predictor 12>>/Filter/FlateDecode/Index[70 357]/Length 34/Size 427/Type/XRef/W[1 1 1]>>stream
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+R/FontName/KJTXMU+Calibri-Bold/FontStretch/Normal/FontWeight 700/ItalicAngle 0/StemV 124/Type/FontDescriptor/XHeight 472>>

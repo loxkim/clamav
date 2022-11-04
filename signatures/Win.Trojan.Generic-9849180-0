@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-9849180-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+system32\spoolsv.exe The Windows Printer Spooler stores printer jobs and forwards them to the printer when it is ready.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+system32\scardsvr.exe  Application provides facility for Smart Card authentication on local or network computers
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+system32\svchost.exe Application works as a host process for services that run from dynamic-link libraries.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+system\kernel32.dll The Windows Kernel provides System Services for managing Threads, Memory, and Resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+system32\ntfrs.exe  Application used to maintain file synchronization of file directory contents among multiple servers.

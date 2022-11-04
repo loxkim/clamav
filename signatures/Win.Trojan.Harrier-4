@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.Harrier-4
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+e: 95INST.EXE File_To_Infect
+       - infect desired ;-) file.
+ - Infected Ok.
+ - Error infecting!

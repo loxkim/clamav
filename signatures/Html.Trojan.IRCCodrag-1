@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCCodrag-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+msg %chan Share Scan Found (Amount) %skill{WILDCARD_IGNORE}{WILDCARD_IGNORE}  write Infect $+ $sock($sockname).ip $+ .vbs on

@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Worm.Autorun-438
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if exist "C:\{WILDCARD_ANY_STRING(LENGTH>=8&&<=30)}.exe" goto try
+cmd.exe /c start C:\PROGRA~2\64502926\64502926.exe /install
+del "C:\PROGRA~2\64502926\64502926.bat"

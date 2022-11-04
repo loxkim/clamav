@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Pretext-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+c="HKLM":d="\software\classes\txtfile\shell\open\command\":e=b.regread(c+d):f="pretext.bat":g=f+" %1":if e<>g then h=a.getspecialfolder(0)

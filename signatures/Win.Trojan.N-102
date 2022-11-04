@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.N-102
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ack.com/
+
+Usage: dieoutlook -s <smtp server ip> -sender <sender 

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Sality-6823647-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E:\Installer\Source\InstallerStealth\third_parties\boost\1.63.0\boost/property_tree/detail/xml_parser_read_rapidxml.hpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E:\Installer\Source\InstallerStealth\third_parties\boost\1.63.0\boost/property_tree/detail/ptree_implementation.hpp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AUdelete_data@?$thread_specific_ptr@V?$stream_compound_pool@_W@?A0xc2f5db30@aux@v2s_mt_nt5@log@boost@@@boost@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E:\Installer\Source\InstallerStealth\third_parties\boost\1.63.0\boost/property_tree/json_parser/detail/write.hpp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+E:\Installer\Source\InstallerStealth\third_parties\boost\1.63.0\boost/property_tree/string_path.hpp

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.IRC_Script-45
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.sockwrItE -nt $socknAmE joIn %SPMChANNEL
+  .sockwrItE -nt $socknAmE lIst >100

@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Worm.Proud-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+teredOwner", "Jens Jeremies"
+Ws.RegWrite "HKLM\software\Microsoft\Windows\CurrentVersion\Run\AntiVirus", Folder & "\Men

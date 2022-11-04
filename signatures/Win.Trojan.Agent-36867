@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Agent-36867
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+360safe\safemon\HomePageLib.dat" , "+R" ){WILDCARD_ANY_STRING}ROGRAMFILESDIR & "\KSafe\cfg\ksfmon.ini" , "-rsh" )
+ $VAR = INIWRITE ( @PROGRAMFILESDIR & "\KSafe\cfg\ksfmon.i

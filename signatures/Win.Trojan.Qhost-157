@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Qhost-157
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+copy "C:\Users\User\AppData\Local\Temp\{WILDCARD_ANY_STRING(LENGTH<=10)}"C:\WINDOWS\system32\drivers\etc\hîsts" /

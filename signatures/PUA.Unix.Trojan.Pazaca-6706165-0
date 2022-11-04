@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Unix.Trojan.Pazaca-6706165-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-[ZBUByteCountFormatter getObjectValue:forString:errorDescription:]
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++[ZBUSystemInformation arrayWithSystemProfileOfDataTypes:]
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++[ZBUSystemInformation systemProfileOfDataTypes:xmlFormat:]
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-[ZBUApplicationsScanner shouldSkipSystemProfiler]
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++[ZBUSystemInformation stringWithSystemProfileOfDataTypes:]

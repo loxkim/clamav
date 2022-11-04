@@ -1,0 +1,6 @@
+VIRUS NAME: Email.Phishing.Bank-1462
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Your access to our Internet Banking&nbsp;need to 
+            be&nbsp;updated&nbsp;due to&nbsp;recent security check{WILDCARD_ANY_STRING(LENGTH<=90)}Log on to&nbsp;your account by follow the link

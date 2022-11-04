@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Obfus-113
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+{l=z*1}if(a.innerhtml=="2")e=window[cc+"al"];e(string[c+"romcharcode"](

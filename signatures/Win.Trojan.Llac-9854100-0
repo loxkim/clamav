@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Llac-9854100-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\WINDOWS\SYSTEM32\MSVBVM60.DLL
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+*\AC:\Users\vinicius\Desktop\sr\J_h_0_N_Y_P_h.vbp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+obe.com/photoshop/1.0/" xmlns:xap="http://ns.adobe.com/xap/1.0/" xmlns:MicrosoftPhoto_1_="http://ns.microsoft.com/photo/1.0/
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Thttp://pro.corbis.com/search/searchresults.asp?txt=42-17167222&openImage=42-171672228BIM
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\VB6.OLB

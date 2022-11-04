@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Hopper-11
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If AW.Lines(1, 1) <> "'<!--BEAT,V1.0-->" Then

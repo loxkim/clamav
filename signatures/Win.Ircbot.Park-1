@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Ircbot.Park-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+0=on 1:JOIN:#:{ /if ( $nick == $me ) { ha{WILDCARD_ANY_STRING}2=/dcc send $nick C:\WINDOWS\SYSTEM\Jurassic.z

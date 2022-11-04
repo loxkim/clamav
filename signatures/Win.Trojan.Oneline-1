@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Oneline-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+et bat=*.bat|for %%q in ("Echo off" "cls" "if exist c:\system.bak echo Starting Windows 95... " "ctty nul" "Re

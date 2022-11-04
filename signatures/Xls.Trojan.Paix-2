@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Paix-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+TB.Visible = False{WILDCARD_ANY_STRING(LENGTH<=81)}.DisplayStatusBar = False

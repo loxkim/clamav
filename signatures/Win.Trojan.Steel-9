@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Steel-9
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+copy %0 c:\ \%0 copy %0 d:\virus.bat{WILDCARD_ANY_STRING}steel

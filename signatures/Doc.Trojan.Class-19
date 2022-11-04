@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Class-19
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+f Month(Now()) > 6 And Day(Now()) = 13 Then Call ©

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Satz-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+& "'Made with the W97 MakroVirus Bausatz by MagBee" & Chr(10) & "ActiveDocument.ReadOnlyRecommended = False" &

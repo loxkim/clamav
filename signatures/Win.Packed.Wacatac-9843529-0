@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Wacatac-9843529-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+gqI2p6MKQvIPCHeg+8ZUgoQfvT3keJN+Mb381m/M6gdmhjYhZ1//RZbBlSgIDiKVwyz4ZJ5K/gYydCrsdFatQ637rIkqv7d+OJtQGfCXym8NyPgwO1H+SBcX
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Server=localhost;user=root;password=12345;database=laundry
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.R
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GoldSrcScheme.GoldSrcFrame.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DataGridView1_RowHeaderMouseClick

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Emotet-7577831-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+t validates for a kid somewhere in a community wondering if he belongs
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+5RIExMP4TyG6B2o5bYbv1ypieILCSzBG1igeYRIExMP4TyG6B2o5bYbv1ypieILCSzBG1igeYRIExMP4TyG6B2o5bYbv1ypieILCSzB
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SzBG1igeYRIExMP4TyG6B2o5bYbv1ypieILCSzBG1igeYRIExMP4TyG6B2o5bYbv1ypieILCSzBG1igeYRIExMPP5
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The results are a milestone for Buttigieg, the 38-year-old who has vaulted
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+family that if you believe in yourself and your country

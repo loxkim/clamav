@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Candle-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+RelungHatiku = Left(.FoundFiles(1), Len(.FoundFiles(1)) - 11) & "Start Menu\Programs\StartUp\Jauh di Relung Hatiku.HTM"

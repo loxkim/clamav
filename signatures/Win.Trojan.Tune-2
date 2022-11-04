@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Tune-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ne.vbs"
+loc2=tmpfldr&"\tune.vbs"
+loc3=sysfldr&"\kernel.vbs"
+loc4=winfldr&"\winsck.vbs"
+loc5="explorer.vbs"

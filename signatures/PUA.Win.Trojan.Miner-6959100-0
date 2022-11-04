@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.Trojan.Miner-6959100-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+for example: alertnotify=echo %%s | mail -s "Referencelinecoin Alert" admin@foo.com
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_last_valueIvEEiSt4lessIiENS_8functionIFvS6_S9_SB_bSC_EEENSH_IFvRKNS2_10connectionES6_S9_SB_bSC_EEENS2_5mutexEEEEE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Unable to bind to %s on this computer. Referencelinecoin is probably already running.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Error loading wallet.dat: Wallet requires newer version of Referencelinecoin
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ReferencelinecoinMiner : ProcessBlock, block not accepted

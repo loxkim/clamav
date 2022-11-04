@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Laroux-20
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If s$ <> "cecilia" Then Workbooks("CAR.XLS").Sheets("car").Copy before:=Workbooks(n4$).Sheets(1) Else

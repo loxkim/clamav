@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Zevach-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Set tf = fso.CreateTextFile("c:\Dedicado A.....txt", True){WILDCARD_ANY_STRING}c.Copy ("C:\0882+2334+32445+43545+33+4525+67++35++6++5+4+243+.vbs")

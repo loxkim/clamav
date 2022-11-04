@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Hive-9917127-1
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+errormultihop attemptedno child processesno locks availablenon-minimal lengthoperation canceledreflect.Value.Elemreflect.Value.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+value=abortedalt -> any -> arcfourcmd.execonnectconsolecpuproffloat32float64forcegcgctracehead = invalidlookup nil keynop -> pan
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+notifyList size - sync=runtime: inconsistent write deadlineruntime: invalid pc-encoded table f=runtime: invalid typeBitsBulkBar
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mpidleigmpint8itabkindnonenullopenpathpipepop3profquitreadrootsbrksmtpsse2sse3tag:tcp4tcp6trueudp4uintunixuseryaml  -%s ...
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+already in useadvapi32.dll not foundaes128-gcm@openssh.comargument list too longassembly checks failedbad g->status in readybad

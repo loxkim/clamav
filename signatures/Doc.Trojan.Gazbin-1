@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Gazbin-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+GazBin_One = ((Tan(Rnd * Gazbin_Null) + Fix(Rnd * Gazbin_Null)) * Gazbin_Null) + Fix(Gazbin_Null + 1)

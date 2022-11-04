@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.AVKill-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+pskill.exe \\127.0.0.1 avp
+pskill.exe \\127.0.0.1 avp32

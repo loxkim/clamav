@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.ChromeLoader-9952622-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+hkcu:\software\logishdr\{WILDCARD_ANY_STRING}[system.text.encoding]::ascii{WILDCARD_ANY_STRING}[system.convert]::frombase64string{WILDCARD_ANY_STRING}wget{WILDCARD_ANY_STRING}start-sleep

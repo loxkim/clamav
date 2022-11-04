@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Barik-1
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+veDocument.VBProject.VBComponents("NEWVIR").Export "C:windowsPC{WILDCARD_ANY_STRING}ob1 = NormalTemplate.VBProject.VBComponents.Item("NEWVIR").Na

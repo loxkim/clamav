@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Marker-26
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Const OldMarker = "<- this is another marker!"{WILDCARD_ANY_STRING}Const Marker = "WebMaster"

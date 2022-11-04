@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Pay-246
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+durch erf{WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}llen aller checklistenpositionen wird ihr kontozugriff automatisch wiederhergestellt. <p>klicken sie hier, zur {WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}berprüfung

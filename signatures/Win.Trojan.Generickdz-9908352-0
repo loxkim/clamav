@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generickdz-9908352-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Write$Error creating variant or safe array!'%s' is not a valid integer value
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+)T:+R;(V>,V8.U9-Q8,S:+P9/T>(T>)M9,M;"K8$O<&H6 J5!L5$J3 M1%N8$K:%I<'L:#H8"M> J<"M9 A5"C0#B5&@0%B5!D2%:3(<3->0 13%A@362#(/$-.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+* #*"&(&$0&!4!%1$ 3&'2!&4 /:,)8).8+,>,)>('>+$9+#8)#8*":.$</$<)#9*!;, =*&8*#=,!>)'9+$:(%. !2*-1/,D:3^TIUF@KE:mYSXVR
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6! 0! 0  1#'0 $0  4"$5# 0" 8(.8).1  1  0"%0' 0$ 0 $4#,3 (2 (4&(2!*6 -1$,4#-4% 6 %3%$5"$4$#2&%7&$4##)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(808800@88@00H880,*E89P@@0(,A=88<1880441D?:F=0E:0@80880880880880HPH8808F908>)6(*720180982F8080:;2(  (  @43A0(H8880(880@@8@@<FB9

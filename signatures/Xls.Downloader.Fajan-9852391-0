@@ -1,0 +1,47 @@
+VIRUS NAME: Xls.Downloader.Fajan-9852391-0
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dim val1 As String,
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dim tax1 As String
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+taxi.CreateTextFile(tax1, True, True)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PID = Shell(tax2, vbNormalFocus)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+").Value = "   ? "
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+").Value = ""
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: (\sval[2-9]\sAs\sString(,)?){8}
+     +-> CFLAGS: (null)
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 1
+     +-> REGEX: =\s"w("(\s)?\+(\s)?")?s("(\s)?\+(\s)?")?c("(\s)?\+(\s)?")?r("(\s)?\+(\s)?")?i("(\s)?\+(\s)?")?p("(\s)?\+(\s)?")?t((\s)"|"(\s)?\+"\s")(\s)?\+(\s)?tax1
+     +-> CFLAGS: (null)

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Dropperx-9891199-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Au@lAj9k9l9m=jAh9u?f>k9s9t=mBq:nDp<nDhEpEoAu=u:o:p:q>jBlFk<oCo?k9l<q@r=i;l;m;n=uCi?u9n<m@l<p<f<g<h:kDs8g>h;qGf:q<p<q<r:
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+9jAl:fCk9fAh:sCf9rAt:pCh9nAp9mAn:jBl9rAk:fBh9gBf:rBt9lAq:nBp8qCu;jCl8nCf;fCh8kCj;rCt8hBo;nCpGu=lDj<l8j>jDf<h8o<lDr<t8t=nDn<p9i=r
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=pAnEf<l=tAjGj:oEr=qGj:q=lAjGpFm>hDp;t>oBsFtFt>oDf;iFp>sDk:jGl?gEt:uGh?kEq8kGt?oEj:gGp?sEg:s@l8gCh=p@h8kCm=k@t8oCn=g@p8sCsDu=uFm
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=pAnEf<l=tAjGj:oEr=qGj:k=mAjGoFm>hDp:p>oBsGlFt>oDf;iFp>sDk;fGl?gEt;nGh?kEqEhGt?oEjGmGp?sEgDn@l8gChCj@h8kCmBl@t8oCnCl@p8sCs@nAl9g
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+9sBk=f9o:t:i9sAg=t9m:j=kFgEt>nBhEq;h=lDo:o;m>r8s9h>iBmFi:g8lCkGg;h;i;jGi?h9i>n<kGr?u9n>r8qGo8j>k9f>m@h8g>h9j;g@u8t>u9n<h@n8q?j8j

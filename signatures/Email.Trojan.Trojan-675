@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Trojan.Trojan-675
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+ This update is critical and provides you with the latest version{WILDCARD_ANY_STRING(LENGTH<=50)}and offers the highest level of security and stability

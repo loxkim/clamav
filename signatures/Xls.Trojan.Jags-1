@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Jags-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+PolyBody = "Apocaliptical Message, Take a look..  "{WILDCARD_ANY_STRING}JagsAddressBookItemsPointer.Subject = PolyBody & UsuarioActual()

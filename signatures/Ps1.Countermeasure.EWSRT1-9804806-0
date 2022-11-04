@@ -1,0 +1,18 @@
+VIRUS NAME: Ps1.Countermeasure.EWSRT1-9804806-0
+TDB: Engine:81-255,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+function get-mailinfo
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+if(!$psboundparameters.containskey('email') -and !$psboundparameters.containskey('password') -and !$psboundparameters.containskey('accountsfilename')) { get-help $myinvocation.mycommand return }
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$pr_deleted_message_size_extended = new-object microsoft.exchange.webservices.data.extendedpropertydefinition(26267,` [microsoft.exchange.webservices.data.mapipropertytype]::long)

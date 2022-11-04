@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Xpiro-9973985-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+AppVShNotify.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Ref_count@Vshortcut_shell_notify_task@shortcut@AppV@@@tr1@std@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Ref_count@Vfta_shell_notify_task@fta@AppV@@@tr1@std@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$scope_guard_func_impl@V?$_Bind@JJV?$_Bind0@U?$_Callable_fun@Q6AJXZ$0A@@tr1@std@@@tr1@std@@@tr1@std@@@utility@appv@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AVshortcut_shell_notify_task@shortcut@AppV@@

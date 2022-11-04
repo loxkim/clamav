@@ -1,0 +1,25 @@
+VIRUS NAME: Xls.Downloader.Agent-9852322-1
+TDB: Engine:81-255,Target:2
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Excel 4.0 Macros
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+theme/theme/_rels/themeManager.xml.rels
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+IEX (New-Object('Net.WebClient')).'DoWnloAdsTrInG'(
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 2
+     +-> REGEX: 'h('\+')?t('\+')?t('\+')?p('\+')?s('\+')?:('\+')?\
+     +-> CFLAGS: ('\+')?\/('\+')?p('\+')?a('\+')?s('\+')?t('\+')?e('\+')?b('\+')?i('\+')?n('\+')?\.('\+')?c('\+')?o('\+')?m('\+')?\/('\+')?r('\+')?a('\+')?w('\+')?\//

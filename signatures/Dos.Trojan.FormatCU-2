@@ -1,0 +1,5 @@
+VIRUS NAME: Dos.Trojan.FormatCU-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If WOpen$ = 24 Then{WILDCARD_IGNORE}{WILDCARD_IGNORE}    StatusBar = "Lontong Micro Device © 1998 par ZeMacroKill

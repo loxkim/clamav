@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Perl-45
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+$target_host; my $path = $self->getvar('rpath'); my $cmd = $self->getvar('encodedpayload')->rawpayload;

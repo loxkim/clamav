@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Bablas-10
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Msg = Msg & "documents from destroying macro viruses" &{WILDCARD_ANY_STRING}If InputBox(Msg, "Av Macro") = "widi h

@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Ransomware.TeslaRVNG-9783973-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/c SCHTASKS /create /tn logg /sc MINUTE /mo 10 /tr "c:\windows\logg.bat"  /ru "NT AUTHORITY\SYSTEM"&&SCHTASKS /run /tn logg
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Delete Shadows /All /Quiet
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\windows\system32\sc.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/c del /S /Q /F 

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Socks-9892484-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pge"cff" JIAW^Qmdvucpg^Okapmqmdv^Uklfmuq^AwppglvTgpqkml^Klvgplgv"Qgvvkleq^Xmlgq^1 "-t"342;"-v"PGE]FUMPF"-f"2"-d
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+makecab.exe %s %s%s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SPAN><SPAN>&nbsp;</SPAN><SPAN>&nbsp;</SPAN><SPAN>&nbsp;</SPAN><SCRIPT DEFER>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\ntldr
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ring(cookieStartIndex + prefix.length, cookieEndIndex));} 

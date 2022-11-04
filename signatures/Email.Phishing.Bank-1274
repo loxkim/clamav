@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Bank-1274
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Sensitive screening activity{WILDCARD_ANY_STRING(LENGTH<=90)}an issue on your{WILDCARD_ANY_STRING(LENGTH<=2)}account{WILDCARD_ANY_STRING(LENGTH<=60)}Please click below to continue

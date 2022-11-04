@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.W97M-10
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+Script.ini" For Output{WILDCARD_ANY_STRING}Print #1, "[script]"{WILDCARD_ANY_STRING}Print #1, "n5= on 1:JOIN:#:{"{WILDCARD_ANY_STRING}Print #1, "n8= /dcc send -c $nick " & ActiveDocument.FullName

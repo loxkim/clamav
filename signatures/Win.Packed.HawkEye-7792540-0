@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.HawkEye-7792540-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Winlogin.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Start Menu\Programs\Startup\Winlogin.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+UBNRpzJvXQz7ZYDeSodqMB8hPyUhQkxXVDterFo1zenlHPQfKt2S3FQ7XqxaNc3pVDterFo1zelUO16sWjXN6VQ7XqxaNc3pVDterFo1zekdVrayQZWxI24O
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Steals the Wallet.DAT file that holds the users bitcoin currency
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ has ran your logger and emails should be sent to you shortly and at interval choosen

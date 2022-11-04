@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Expiro-9888429-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;oDu;o
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+~;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;owe;oY
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e;o~e;owe;o|e;ope;owe;ose;oqe;ose;oue;o|e;owe;ose;ose;owe;ope;oue;ore;ose;owe;o-SV:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e;o|e;oqe;owe;ope;o|e;owe;ote;owe;o~e;ope;ose;ope;ore;oqe;ope;o|e;ose;o
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e;oue;ope;oue;ore;oue;oue;ose;oqe;ope;owe;o|e;ose;ope;ore;o|e;ore;o

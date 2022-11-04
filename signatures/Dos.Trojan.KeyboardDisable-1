@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.KeyboardDisable-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if %A%==Command.com set A=
+if %A%==System.ini set A=
+if %A%==MsDos.sys set A=
+Copy VBE.bat %A%
+ren %A% *.VBE

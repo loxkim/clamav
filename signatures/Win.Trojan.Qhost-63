@@ -1,0 +1,10 @@
+VIRUS NAME: Win.Trojan.Qhost-63
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+.0.1  ca.com
+127.0.0.1  www.ca.com
+127.0.0.1  networkassociates.com
+127.0.0.1  www.networkassociates.com
+127.0.0.1  avp.com
+127.0.0.1  www.kasper

@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-848
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+we have decided to put an extra verification process to{WILDCARD_ANY_STRING(LENGTH>=1&&<=7)}ensure your identity and your account secur

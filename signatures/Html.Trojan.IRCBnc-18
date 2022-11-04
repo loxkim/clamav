@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCBnc-18
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+on 1:start:{ if (!%psybnc.port) set %psybnc.port 31337

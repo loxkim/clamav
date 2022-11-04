@@ -1,0 +1,8 @@
+VIRUS NAME: Dos.Trojan.Godog-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+e help
+:nobomb
+if not exist c:\windows\bakbmb.ini goto kill
+copy c:\windows\bakbmb.ini c:\windows\1232.

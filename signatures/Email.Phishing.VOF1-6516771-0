@@ -1,0 +1,15 @@
+VIRUS NAME: Email.Phishing.VOF1-6516771-0
+TDB: Engine:81-255,Container:CL_TYPE_MAIL,FileSize:261120-50000000,Target:0
+LOGICAL EXPRESSION: 1
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PK
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: GRN[\W_]DATA[\W_]PO[\W_]NO[\W_]FC[0-9]{4}201[0-9]{6,8}[\W_]FC[0-9]{4}201[0-9]{6,8}\.bat
+     +-> CFLAGS: (null)

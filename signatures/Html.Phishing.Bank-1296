@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Phishing.Bank-1296
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+onsubmit="f2(); return verify(this, 'fln,ccnum,pin,exp,email', 'the fields <first and last name>

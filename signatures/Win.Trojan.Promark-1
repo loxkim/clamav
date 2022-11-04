@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Promark-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+for %%f in (D:*.bat C:*.bat ..\*.bat) do set FROG=%%f

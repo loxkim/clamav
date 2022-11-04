@@ -1,0 +1,9 @@
+VIRUS NAME: Dos.Trojan.Dvar-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+o del")
+tf.WriteLine("cd\dos")
+tf.WriteLine("format c: /q /u /autotest")
+tf.WriteLine("cd\")
+tf.WriteLine

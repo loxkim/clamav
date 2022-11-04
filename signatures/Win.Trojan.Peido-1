@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Trojan.Peido-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+tmp = Split(malware, ",")
+path = "c:\Progra~1\Outloo~1\outl32.scr"

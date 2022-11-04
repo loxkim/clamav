@@ -1,0 +1,8 @@
+VIRUS NAME: Legacy.Trojan.Agent-508
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+py /Y %0 "%%~dpFsounds\The_Magnificent_Fyle.ini" >nul
+copy /Y fyle.exe "%%~dpFsounds\fyle.exe" > nul
+)
+echo REGEDIT4 >> C:\

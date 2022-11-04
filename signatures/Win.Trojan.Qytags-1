@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Qytags-1
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Software\EC\luoye\url{WILDCARD_ANY_STRING}software\microsoft\windows\CurrentVersion\Run\Qy

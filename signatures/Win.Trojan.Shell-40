@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Shell-40
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+$currentcmd = "cd ".$currentwd.";".$currentcmd; system("$currentcmd 1> /tmp/sembonshell 2>&1; cat /tmp/sembonshell; rm -rf /tmp/sembonshell");

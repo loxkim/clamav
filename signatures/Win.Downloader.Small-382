@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Downloader.Small-382
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+yWebOperator.1 = s 'MyWebOperator Class'
+	{
+		CLSID = s '{CC110316-5BE7-4AAA-AEDD-1A5B147BE34C}'
+	}
+	MyWe

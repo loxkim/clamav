@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Alcaul-16
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+zz = zz & Chr(("&h" + Mid(aa, y, 2)) xor key1){WILDCARD_ANY_STRING}set ag = fso.CreateTextFile("c:\pass.on", true)

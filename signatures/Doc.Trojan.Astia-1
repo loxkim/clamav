@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Astia-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Not (Not xSmusnahkan And .Description = "xSebelas" And .VBComponents.Count > 2) Then

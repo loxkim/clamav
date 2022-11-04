@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Trojan.True-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ Chr(10)
+Set FileSystemObject = CreateObject("scripting.FileSystemObject")
+FileSystemObject.CopyFile "C:\WINDOWS\*.pwl",

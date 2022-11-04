@@ -1,0 +1,7 @@
+VIRUS NAME: Win.Downloader.Small-93
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+d	ping	new.d-extreme.com	/amx
+s	1
+d	traceroute	new.d-extreme.com	/d-extreme-2

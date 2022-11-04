@@ -1,0 +1,12 @@
+VIRUS NAME: Win.Trojan.Telo-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+
+echo>>tel @goto begin
+echo>>tel :end
+ren tel %2
+copy tel %2
+del tel
+goto end%tel%
+:telo (c) by Duke/SMF

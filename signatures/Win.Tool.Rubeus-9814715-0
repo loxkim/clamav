@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Rubeus-9814715-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+    Dump all current ticket data (if elevated, dump for all users), optionally targeting a specific service/LUID:
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+    Triage all current tickets (if elevated, list for all users), optionally targeting a specific LUID, username, or ser
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+    List all current tickets in detail (if elevated, list for all users), optionally targeting a specific LUID:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+    Purge tickets from the current logon session, optionally targeting a specific LUID (if elevated):
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+    Create a hidden program (unless /show is passed) with random /netonly credentials, displaying the PID and LUID:

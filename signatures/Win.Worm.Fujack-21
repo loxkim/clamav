@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Worm.Fujack-21
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+</body></html><iframe src=http://{WILDCARD_ANY_STRING(LENGTH<=30)}width=0 height=0></ifr

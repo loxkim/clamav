@@ -1,0 +1,5 @@
+VIRUS NAME: Xls.Trojan.Adn-2
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+If install = 0 Then{WILDCARD_ANY_STRING}orkbook.VBProject.VBComponents(Indexe).Export (Indexe){WILDCARD_ANY_STRING}iveWorkbook.VBProject.VBComponents.Import (Indexe)

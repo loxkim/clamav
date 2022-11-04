@@ -1,0 +1,5 @@
+VIRUS NAME: Email.Phishing.Pay-241
+TARGET TYPE: MAIL
+OFFSET: *
+DECODED SIGNATURE:
+Please update your PayPal profile in order to restore your online access:{WILDCARD_ANY_STRING(LENGTH<=10)}http:/

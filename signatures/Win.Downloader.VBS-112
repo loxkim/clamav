@@ -1,0 +1,6 @@
+VIRUS NAME: Win.Downloader.VBS-112
+FUNCTIONALITY LEVEL: 0..26
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+send%0d%0a marco1%3d%22svchost%2eexe%22%0d%0a set f %3d df%2ecreateobject%28tttatat%2c%22%22%29%0d%0a tmp2%3d2%0d%0a set tmp %3d f%2egetspe

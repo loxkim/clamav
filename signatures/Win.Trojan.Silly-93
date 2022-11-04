@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Silly-93
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+set a=*.b?t{WILDCARD_ANY_STRING(LENGTH<=50)}for %%d in (%a%) do copy /y %b% %%d>nul

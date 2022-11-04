@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9946206-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+application/x-mpeg|video/mp4|audio/mp4|video/x-m4v|image/x-macpaint|image/pict|image/x-pict|image/png|image/x-png
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+AMC media (*.amc)|MPEG-4 media (*.mp4)|MPEG-4 media (*.mp4)|Video (protected) (*.m4v)|MacPaint image (*.pntg,*.pnt,*.mac
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+amc|mp4|mp4|m4v|pntg,pnt,mac|pict,pic,pct|pict,pic,pct|png|png
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tarnatCeoIesceCnteOniU
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eloGAob

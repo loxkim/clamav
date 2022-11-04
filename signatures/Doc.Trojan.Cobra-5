@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Cobra-5
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ID = System.PrivateProfileString("", "HKEY_LOCAL_MACHINE\Cobra", "Inf"){WILDCARD_ANY_STRING}t.Sections(1).Headers(wdHeaderFooterPrimary).Range.InsertAfter ("AAX")

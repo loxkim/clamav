@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Alina-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ion.UserAddress = "Jhuma" + Chr(13) + "Shibrampur" + Chr(13) + "Burichang" + Chr(13) + "Comilla"

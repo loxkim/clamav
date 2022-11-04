@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Zapchast-120
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+if exist .\{WILDCARD_ANY_STRING(LENGTH<=10)}.reg regedit /s .\{WILDCARD_ANY_STRING(LENGTH<=10)}.reg if not "%1"=="" goto open if exist {WILDCARD_ANY_STRING(LENGTH<=10)}.vbs start wscript.exe

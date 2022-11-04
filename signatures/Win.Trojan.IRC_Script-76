@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.IRC_Script-76
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+if ($mircexe !isin $readini(%autorun,windows,run)) writeini %autorun windows run $mircexe

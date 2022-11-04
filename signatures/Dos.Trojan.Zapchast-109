@@ -1,0 +1,8 @@
+VIRUS NAME: Dos.Trojan.Zapchast-109
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Server"
+net stop "Norton Antivirus Client"
+net stop "Windows Firewall/Internet Connection Sharing (ICS)"
+net stop "mcshield"

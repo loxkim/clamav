@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Emotet-7411355-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Author: Peter Seliger - pittbull_nt@yahoo.com
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+To pop up this options dialog box use either the right mouse button or hit the ENTER key...
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+You must log on as an administrator to use this tool...
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+aFq2+cHNI5RsafRl5mOaMn+eKqC7rGH5RobCiWPtOsM/7/GcwiV+WOtvOwW1BPC/YnFv8pGn+Bi9lmBv6nokDCBkAhUUO73OFmZXvUE1WWHkQV/FvuXn4czzZM7pULIg
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Write Operations

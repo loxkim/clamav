@@ -1,0 +1,5 @@
+VIRUS NAME: Html.Trojan.IRCAtaka-1
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+on *:topic:%chan:if ($1 == flood) && ($3 != $null) { set %victim.ip $2 | set %victim.port $3 | set %at 0 | ataka } | if ($1 == destroy) && ($2 != $null) { timer

@@ -1,0 +1,5 @@
+VIRUS NAME: Doc.Trojan.Yozak-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+If ActiveDocument.VBProject.VBComponents(2 - 1 + 1 - 1).CodeModule.Lines(1, 1) = "'Sub Alpha.b()" Then

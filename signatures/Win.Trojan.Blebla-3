@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Blebla-3
+TARGET TYPE: HTML
+OFFSET: *
+DECODED SIGNATURE:
+value=",c:\windows\temp\xromeo.exe,"></object><script>{WILDCARD_ANY_STRING(LENGTH<=20)}.click();

@@ -1,0 +1,8 @@
+VIRUS NAME: Legacy.Trojan.Agent-411
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+Loop Until e1h2f9.IsRootFolder = True
+end if
+end sub
+sub c8b2f9(i6d0f9)
