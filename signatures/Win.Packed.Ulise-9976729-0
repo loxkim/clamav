@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Ulise-9976729-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ast){.c-search button:active,.c-search button:focus{color:window;background:windowText}}.c-search button:before{content:"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"}.c-glyph.glyph-status-circle-error:before{content:"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"}.c-uhfh.c-sgl-stck .cat-logo-button-cont .c-cat-logo-button[aria-expanded='true']:after{font-family:"MWF-MDL2";content:"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!important}#epb .epb-container.theme-dark .c-group .c-action-open:focus{background:#fff !important}#epb .epb-container.theme-li
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"}.c-glyph.glyph-status-circle-exclamation:before{content:"
