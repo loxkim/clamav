@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Tool.Dumpert-9976675-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MiniDumpWriteDump
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Outflank-Dumpert-DLL.dll

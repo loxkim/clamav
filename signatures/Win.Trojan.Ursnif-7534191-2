@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Ursnif-7534191-2
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+ver=%u&group=%u&id=%08x%08x%08x%08x&type=%u&uptime=%u&knock=%u
