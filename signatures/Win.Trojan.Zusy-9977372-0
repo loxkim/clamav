@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zusy-9977372-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Component %s not foundDGetting the Count of a TComponentsEnumerator object is not supported<Errors object must support t
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+No help keyword specified..A script error occured.  Do you want to debug?/Top Legend Position must be between 0 and 100 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ProcessDebugManager.ProcessDebugManager
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Thread Error: %s (%d)*Error on call Winsock2 library function %s=Error decoding URL style (%%XX) encoded string at posit
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Variable not found: %s=Component does not support scripting. Class: %0:s, Name: %1:s.Object does not support scripting. 
