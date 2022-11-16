@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-9977821-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cardsharper.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+unobservant.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1etwaople.exe00bmrtgkuwqghldigxgelwsmjxqbqswevtjlfquirinrszgcgutgiqpuuocudf2/7
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+w!#57>+1,2<'51 <.>37>.- -,7(54<;(34 "+#5,?;435.&+4(#<.++/+=+<5+?4'$20#"!)-93-*;==7"#1=).)(%4+'<*!
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bmstekwwqghldigxfelwqmjxqbqswevtklCquirifrszgcgutgiqzu[ocudf`mrtgkuwqghlei#xgelwqmjxqbqswevtkl?quiriorqzgcgutgiqpu

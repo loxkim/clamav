@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Formbook-9977759-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@!$E#)I&*K&3U-4V-8Y-;\0@_2Bb3Dd5He7Ie7Ie7Ie7Jf8If8If8Jg9Jg9Jj;Jj;Ii:Gg8Ce6Bd5Ac4>b36`00_./[,,X)*R(&N%%I%#E&
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Write$Error creating variant or safe array!'%s' is not a valid integer value
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+? #D"&G$)J%2T,5U,9W,<Z/?^1Aa2Fc5Ge4Gc5Gc5Hd6Hd6He7He7He7He7Ii:Ii:Hh9Ff7Bd5Ac4@b3=a26a.3a-0],,X)*R(&N%%I%$G%
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+|-<hQ>rG7C%:K>2W<%O93_2"]%/I(*T7<Q")Q>2W/$E:+^02T(Oy3Lr"]e/Yi*Tw\EHIQ^RW\EOYK^TTTHO9K^2W\EOUJJTW\ILIQ>RW5EE:K^2W\%OY+^S
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+r'-vD:k^"zR(oY3J+"]%/P-)T7<]6%Q>2W>6D:+^6<R(/Y#5K"=E/\N)Tw<I|%Q~2GTWDZK^B_RHOYK^LB]EO@PITW\]@FQ^RGGXDZk^Rw\EoYCgL"}E/CQ
