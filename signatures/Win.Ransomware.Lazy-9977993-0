@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Lazy-9977993-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[InteractionCampaignOrganizer] ProcessInteractionCampaignState: interactionId %s - RUXIMStoredState is %s valid
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[InteractionCampaignOrganizer] ProcessInteractionCampaignState: interactionId %s is %s Complete before throttling check
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[RUXIMCampaignScheduler] EvaluateAndPresentInteractionCampaign : LaunchProcessAsLoggedOnUser Called %s %s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[RUXIMCampaignScheduler] ProcessInteractionCampaigns : Return, user was %s presented with a campaign
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[OneSettings] GetCloudSettings : Got HTTP %d from the OneSettings endpoint (304/200 was Expected)
