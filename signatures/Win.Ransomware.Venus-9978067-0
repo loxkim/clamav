@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Venus-9978067-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\System32\cmd.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/c ping localhost -n 3 > nul & del %s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+eC:\Windows\%s.png
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+"processes":[
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mf+A3dmXQ1Ldzj6a+T/65E5BVD79WBIdrSaOUUzbAYDsE8j0zL/8vQX/dZkeCBdhFQVUlIaOIh+z+zS5ft/dd/9IAuedzDq6Qo8aWmt+ChDCcln6SuL7LlaARUNuft9t

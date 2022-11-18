@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Ulise-9978061-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Error:%08x in SHGetFolderPathW(NULL, CSIDL_APPDATA, NULL, 0, szPath)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\re\workspace\8-2-build-windows-amd64-cygwin\jdk8u144\9417\build\windows-amd64\deploy\tmp\jp2launcher\obj64\jp2lau
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%s\bin\javaw.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+JavaDeployReg.log
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PJava SE Runtime Environment 8 Update 14
