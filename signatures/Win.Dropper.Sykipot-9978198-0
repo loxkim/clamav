@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Sykipot-9978198-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+onecore\enduser\windowsupdate\ruxim\interactionhandler\lib\commandline.cpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SystemEvaluator.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+onecore\enduser\windowsupdate\ruxim\interactionhandler\lib\evaluatordllhandler.cpp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+onecore\enduser\windowsupdate\ruxim\presentationhandler\lib\scndialoghandler.cpp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+onecore\enduser\windowsupdate\ruxim\ruximlib\lib\loggingcorrelationvector.cpp
