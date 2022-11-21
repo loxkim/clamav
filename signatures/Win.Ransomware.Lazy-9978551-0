@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Lazy-9978551-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[T%d]%s: Falling back to Darwin because attempt to perform requested OnDemand operation using setup.exe failed with Erro
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\dbs\el\dec\Target\x64\ship\postc2r\x-none\officeappguardwin32.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[T%d]%s: Failed final attempt to align MultiMsi Feature-Option states due to SETUPEXE COM Server error: HRESULT=[%#x]
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\System32\cmd.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[T%d]%s: Failed to initialized MSI.DLL; skipping enumeration.
