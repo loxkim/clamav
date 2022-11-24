@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Lazy-9979102-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\dbs\el\dec\Target\x64\ship\postc2r\x-none\msoadfsb.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+responseBlob failed, could not get size of decoded body
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OutlookMailReadNaiveBayesCommandRanker.txt
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Power/Battery Optimization is enabled so OEMs limit background app process communication and hence ADAL cannot talk to B
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ADFS retryable config error. This error is retryable by collecting and sending in password
