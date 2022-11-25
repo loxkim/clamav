@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Bachkhoa-9979221-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+The requested operation failed because Direct3DX only supports color depths of 16-bit or greater.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\o2jam\Utility\SystemTimer.cpp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+The requested operation failed because one or more of the parameters passed is invalid.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://o2jamp.mgame.com/jamzine/settle/jamcard_game/payment_input.asp?
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://o2jam.mgame.com/gameboard/coupon/gameboard_jamcard_coupon.asp?
