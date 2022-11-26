@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zusy-9979323-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Drive %s is not readySText file (*.txt)#*.txt#HTML file (*.htm; *.html)#*.htm;*.html#All files (*.*)#*.*#
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+support@stratopoint.com
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error in command line at0-path and -out must be specified in command line Can't enter to folder of "-path"<The output 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ACheck to include descriptions extracted from "Descript.ion" files
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PrintFolders.exe

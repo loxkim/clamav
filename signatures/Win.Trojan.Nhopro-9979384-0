@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Nhopro-9979384-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3TDefaultLoginCredentials.LoginEventUsrPw$835$0$Intf$!@
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3TLoginCredentialService.TLoginCredentialEventObject`
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.TDefaultLoginCredentials.LoginEvent$833$ActRecl
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+JPEG Image File=Error decoding URL style (%%XX) encoded string at position %d1Invalid URL encoded character (%s) at posi
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"TLoginCredentialService.TLoginFunc$!@
