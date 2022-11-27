@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Bulz-9979500-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cscript "%s\Office16\OSPP.VBS" /inslic:"%s\root\Licenses16\%s"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+password, before continueing. The option --md5 tells GRUB that PASSWD is encrypted with md5crypt.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<ms_windowsSettings:dpiAware xmlns:ms_windowsSettings="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true</ms_win
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+this command will wait at most for SECS seconds. The option --lines specifies the maximum number of lines. The option --silent 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+wmic path SoftwareLicensingProduct where (Description like '%%KMSCLIENT%%') get Name /value
