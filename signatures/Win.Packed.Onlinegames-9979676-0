@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Onlinegames-9979676-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://m.qichetong.com/AuthenService/register/Ajax/GetCode.ashx?t=1&r=0.719746434441789&txtLoginName=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://wq.jx163.com/login_new_code/regis/getSMSValidCode1UL.action?ver=0.8235203230313742&cmd.terminalCode=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://m.qichetong.com/AuthenService/register/Ajax/GetCode.ashx?t=1&txtLoginName=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://passport.china.com/bindMobile.do?processID=sendMobileCheckCode&smk=c5e766fa-08d5-40c7-b274-de809c3e24ce&mobile=
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://i.qichetong.com/Ajax/Authenservice/MobileVerifyCode.ashx/?popType=0&r=0.8167970664799213&LoginName=
