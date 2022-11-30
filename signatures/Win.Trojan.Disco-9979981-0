@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Disco-9979981-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ycrypto/rsa: verification errorfailed to get system page sizefreedefer with d._panic != nilhttp2: decoded hpack field %+vhttp: n
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+between asn1: cannot marshal nil valueassignment to entry in nil mapcheckdead: inconsistent countscrypto/dsa: invalid public ke
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+alidleveldblookup nil keynop -> number panic: refererrefreshrunningserial:signal syscalltraileruintptrunknownupgradewaitingwsare
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rSHA-224SHA-256SHA-384SHA-512SharadaShavianSiddhamSinhalaSogdianSoyomboSubjectSwapperTagalogTibetanTirhutaTrailerTuesdayTypeALLT
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+amed cookie not presentillegal window increment valuein exponent of numeric literalinappropriate ioctl for deviceinvalid functio
