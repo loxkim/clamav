@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Trojan.GhostEmperor-9980078-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0|(1&2&3)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d2645dde-7197-46da-81c8-e2dc831aacde
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SvchostSharp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<keybytes>e__FixedBuffer
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ApiAddressDelegate
