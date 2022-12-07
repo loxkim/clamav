@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Trojanx-9980351-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+br21r2671b2faowhlIbr21r2671b2faowhlnbr21r2671b2faowhlvbr21r2671b2faowhlobr21r2671b2faowhlkbr21r2671b2faowhlebr21r2671b2f
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+br21r2671b2faowhlLbr21r2671b2faowhlobr21r2671b2faowhlbr21r2671b2faowhlAdbr21r2671b2faowhl
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+br21r2671b2faowhlabr21r2671b2faowhlmbr21r2671b2faowhlsbr21r2671b2faowhlibr21r2671b2faowhl.br21r2671b2faowhldbr21r2671b2f
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+br21r2671b2faowhlbr21r2671b2faowhlAmbr21r2671b2faowhlsbr21r2671b2faowhlibr21r2671b2faowhlSbr21r2671b2faowhlcbr21r2671b2f
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+br21r2671b2faowhlEbr21r2671b2faowhlnbr21r2671b2faowhltbr21r2671b2faowhlrbr21r2671b2faowhlybr21r2671b2faowhlPbr21r2671b2f
