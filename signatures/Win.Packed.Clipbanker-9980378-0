@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Clipbanker-9980378-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/var/www/laplas.app/runtime/build_Lopata_94bb5e3856691f39798e19922f73cf9e/clipboard.go
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+r an extended key usage: htCHjoXV1IKEjo6AgoGPgIbSh9WCg47T0o6Cg4DU0ICDhILT1NDU1YeA09TVg4XV19fUgIDVhIWBgNDShtPT0A==http2: server s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*http2.Transport, not a function.WithValue(type /etc/resolv.conf0123456789ABCDEF0123456789abcdef23841857910156255O/G2tTP9PLj4Q==
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rrorforcegc: phase errorframe_settings_mod_6gY+Yh4WBmISGgJiHhYE=getCert can't be nilgetadaptersaddressesgo of nil func valuegopa
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Go build ID: "ccNNpyOjLezCgCX5j6xj/9GlJIP69h5z_a2001OT3/HW9BCSk-hWuj-vvS0Ug6/ugV2CscxMFHGtXN4xvwi"
