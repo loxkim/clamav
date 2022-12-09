@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Kuluoz-9980396-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mcciwh.sys (for NT) -- MCCI(r) WDM System Help Functions -- V4.40 build 0 (Aug  8 2007 09:45:41)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DelReg HKLM\System\{*ControlSet}\{DriverBaseRegPath}\{DriverPath}
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+copy {Given File} ,{sysdir}\\{Uninstall File}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Uninstall File
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-Install
