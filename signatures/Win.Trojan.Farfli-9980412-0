@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Farfli-9980412-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+onecore\ds\security\eas\policyengine\evallib\passwordprovider.cpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+UnRegistered EAS supporting Windows Encryption Provider - (%1)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ext-ms-win-biometrics-winbio-core-l1-1-1.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+api-ms-win-shcore-taskpool-l1-1-0.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+internal\onecoreds\private\inc\security\eas\policyengine\utilregs2.cxx
