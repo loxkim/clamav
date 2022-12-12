@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-9980451-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files\ADEYINKA-PC\ADEYINKA\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+This installer database contains the logic and data required to install CPUID
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Re'trosp.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+j]ujsGSOgWGhemFOBTUF@Qs}PlmprRJi]iXfEtU@bWhm\jy@yj`[Gl~yu@dZ\`RYYu%izMT|nQn_ko~o
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xj]3b_o>ogWy`em|GChUkaggEVzrB^bOSy^bxj]Wb_obogW]`emPGChqkagzJVzwM^bcSy^Fxj]
