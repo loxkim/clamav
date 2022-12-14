@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Detected-9980500-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+a Add-In" RuntimeVersion="v4.0" ShadowCopyFiles="false" DefaultReferences="true" DefaultImports="true" xmlns="http://s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Reference Pack="true" IncludePdb="false" Path="packed:UIACOMWRAPPER" />
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tRegistration="false" UseVersionAsOutputVersion="false" IncludePdb="false" />
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<ExternalLibrary Path="packed:DEMOEXCELDNA" ComServer="false" Pack="true" LoadFromBytes="true" ExplicitExports="false"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Reference Pack="true" IncludePdb="false" Path="packed:INTEROP.UIAUTOMATIONCLIENT" />
