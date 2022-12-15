@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Chisel-9980572-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+contains zero or negative valueattempt to execute system stack code on user stackchacha20: SetCounter attempted to rollback cou
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+5519.PrivateKeyruntime: warning: IsLongPathAwareProcess failed to enable long paths; proceeding in fixup mode
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+write greeting to SOCKS5 proxy at runtime: netpoll: PostQueuedCompletionStatus failedssh: peer's curve25519 public value has wr
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gitlab.com/crave/cravetunnel/share/settings.isHost
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gitlab.com/crave/cravetunnel/share/settings.Remotes.Reversed

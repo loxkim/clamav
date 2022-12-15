@@ -1,0 +1,58 @@
+VIRUS NAME: Win.Trojan.BHRat-9974800-1
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: (0&1&2&3&4)|5|((6|7)&(8&9&10))
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\windows\system32\clb.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+api-ms-win-core-versionansi-l1-1-1.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+name="Microsoft.Windows.onecorebase.makecab"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+n D9fPu?
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+5.00 (WinBuild.160101.0800)
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+U‹ìƒì\SVWM¤è{WILDCARD_ANY_STRING(LENGTH==4)}ƒì\‹]üu¤jY‹S‹üó¥Q‹è{WILDCARD_ANY_STRING(LENGTH==4)}ƒÄ`‰C_^[‹å]Ã
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\agent\_work\3\s\src\vctools\VC7Libs\Ship\ATLMFC\Src\MFC\oledrop2.cpp
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hemas.microsoft.com/SMI/2005/WindowsSettings">true</dpiAware></windowsSettings></application></assembly>
+ * SUBSIG ID 8
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\agent\_work\3\s\src\vctools\vc7libs\ship\atlmfc\include\afxwin1.inl
+ * SUBSIG ID 9
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+curity><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel></requeste
+ * SUBSIG ID 10
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%Ts%Ts.dll
