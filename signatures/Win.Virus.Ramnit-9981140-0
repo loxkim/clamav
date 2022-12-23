@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9981140-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://update.staticinputserv.com/omaha/__GUID_PH___/__VR_PH___/update.xml
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+npGoogleUpdate4.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+npGoogleUpdate4_unsigned.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\container\updaters-and-utils\utils\omahaInstaller\omaha\scons-out\opt-win\obj\plugins\update\npGoogleUpdate4_unsig
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Created by MIDL version 7.00.0500 at Thu Apr 24 18:12:00 2014
