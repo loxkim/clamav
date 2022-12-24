@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-9981178-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Karakoll.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+t(@ceu0|Xq;\{ra?NOLT<1<n.-GMRDm1z`BFhAI_p>T?(UywP2N7>h>QGe`0T|oi|C[)jyKBrvVw*8}Zijgo@KW4IHbhm_3L@{_azuXnCCp)=k6i<Y.Ylb+
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DU99yb:^s5l4rxN:6,JEj9akdx(@ceu0|Xq;\{ra?NOLT<1<n.-GMRDm1z`BFhAI_p>T?(UywP2N7>h>QGe`0T|oi|C[)jyKBrvVw*8|Zijgo@KW4IHbhm_3L@{]a
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.Ylb+d4o+5/B^v-0?f]8;q{ESAumnlt[fr8dc(lqc7gDAxe2wh*:ss^^6DX1Q/Wt3tpf/*O5FPJ]xzHJZ,b=V7A`n\;341:v
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MSHTMLCtl.Scriptlet
