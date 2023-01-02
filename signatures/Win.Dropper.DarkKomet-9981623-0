@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.DarkKomet-9981623-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\system32\MSVBVM60.DLL\3
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+H@ H@ H@ H@ H@ HA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%FA%F
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ztayypfyemwjwmpyxsjyfjgorghnuqbmzdqmfzuzkttkupeielrapovxigeuqliqcripmnaosxqcijhlbwfikevqdftdgpnbklrjxizbtcjfsgwlswtdotuh
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+pacco.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++v/jwdS8v7pNly3vN9Jc79vkj/PvfkG2lRHmC8mNS1vXEk6ij6YfKawLKFUduOlxSsLvpx1npgmSQX1XTgOQb0tokj+zON+Six8gZPi8xgQGETa7TpK+x2aI4aC3LyKC
