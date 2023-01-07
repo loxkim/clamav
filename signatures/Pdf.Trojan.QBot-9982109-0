@@ -1,0 +1,23 @@
+VIRUS NAME: Pdf.Trojan.QBot-9982109-0
+TDB: Engine:90-255,Target:10
+LOGICAL EXPRESSION: 0&(1|2)&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Producer (FPDF 1.85)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Keywords (promiscuous, antiquity, megaliths, lowliest)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Keywords (stumble, transaction, unmagnanimously, avocat)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/CreationDate (D:19700101030000+03'00')

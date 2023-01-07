@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Remcos-9982095-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Could not open URL http://www.autohotkey.com in default browser.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+r it is in parentheses to the right (if not 0).  The bottommost line's elapsed time is the number of seconds since it executed.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RunAs: Missing advapi32.dll.  The current thread will exit.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+WinMergePortable.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+A build of the PortableApps.com Launcher for WinMerge Portable, allowing it to be run from a removable drive.  For addit
