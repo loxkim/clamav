@@ -1,0 +1,13 @@
+VIRUS NAME: Html.Trojan.Phishing-9982525-0
+TDB: Engine:90-255,Target:0
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0x12c,0x14d,0x129,0x15f,0x147,0x12f,0x14a,0x15c,0x8a,0x14d,0x150,0x12f,0x14a,0x78,0x7b,0xb1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+unsigned_long["edoCrahCmorf"["split"]("")["reverse"]()["join"]("")](buffer/2)
