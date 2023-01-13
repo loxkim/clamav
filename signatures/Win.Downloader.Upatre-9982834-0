@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-9982834-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\5ae72c5d03e7aec7b2a1ea869db24561a4f64eb69a93850ad9f54df40815ea5d.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\11506108f66d1fd5689beba05f71d78dbd8d5ea1775767dbd332e07e667cb244.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\594301056e22b8d8b4c46b6173947e079a0755d5a27f2a6ab0a6ff61ef42cdec.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\7118a6b9b4000b32ed3f085c0299981bfaeeb4a378af793efb9a214adaccf827.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Frank\Desktop\glGgstqc.exe
