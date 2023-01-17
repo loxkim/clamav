@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Fareit-9983571-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Eatwell5.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://www.teamviewer.com 0
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;&""<&""<&""<&""<&""<&""<&""<&""<&""<&""<&""<&""<+&&<+&&<+'';,((:2--3=77*WOO
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+968I;9:J;9:J;9:J;9:J;9:J;9:J;9:J;9:J;9:J;9:J;9:J;9:J;9:J;9:J;9:J=;<I?<>GA?ADFCE?LIK:TQT4c_a,pko'0/0
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HTTPS:\\www.Hiren.TK

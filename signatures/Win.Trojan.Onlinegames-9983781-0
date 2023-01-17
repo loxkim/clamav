@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Onlinegames-9983781-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?do=send&Game=1&Name=%s&Pass=%s&Zone=%s&Server=%s&YB2=%d&bankmoney=%d&Level=%s&MB=%d&Key=%s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?do=send&Name=%s&Pass=%s&Zone=%s&Server=%s&Pass4=%s&Level=%s&MB=%d&Key=%s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?Name=%s&Pass=%s&Zone=%s&server=%s&goldcoin=%d&Level=%s&MB=%d&Key=%s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?Name=%s&Pass=%s&Zone=%s&Server=%s&Store=%s&Level=%s&MB=%d&Key=%s
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+regsvr32.exe /s 
