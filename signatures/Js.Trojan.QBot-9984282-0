@@ -1,0 +1,23 @@
+VIRUS NAME: Js.Trojan.QBot-9984282-0
+TDB: Engine:90-255,Target:0
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+var content = WScript.CreateObject("Scripting.FileSystemObject").OpenTextFile("data.txt", 1).ReadAll()
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WScript.CreateObject("shell.application")
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+shellexecute("regS
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+// SIG // End signature block
