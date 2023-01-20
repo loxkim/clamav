@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-9984433-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hSystem.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPADh
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<PrivateImplementationDetails>{0763D75D-1FF8-42F7-B58F-6B217603BC23}
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Module>{0B717ED0-827F-4BCD-B971-0C5E9B30CC2F}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+>?|?|y8gub?|?|False?|?|?|?|False?|?|?|?|False?|?|7W7rFpGOPA?|?| 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RHw7kfoOwqGtxqEh1MFuemlot2qKuL4bGqQwCJ4dRWz7PuHmRcYKnFuofINrzddkvomGZSerRmcHwoY8vD3SwtyB6lQ45Nny2PLlIAM97r3Amm11tO6wkLxC0lKyBkwE

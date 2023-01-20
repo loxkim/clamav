@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Trojan.Agent-9984435-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+ = new date(); while (true) { var {WILDCARD_ANY_STRING(LENGTH<=100)} = new date(); if (({WILDCARD_ANY_STRING(LENGTH<=200)}.replace(/[{WILDCARD_ANY_STRING(LENGTH<=50)}]/g,'').replace(/(.{2})/g, function(
