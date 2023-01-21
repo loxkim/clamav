@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.QuasarRAT-9984439-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+5N6hV\*-PW\,2j\\DPa~\+RKVkM/#.resources
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$Mf6$UYoz}/#d}H\&b{5\]\*=KL".resources
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Z4X5l^F2r\*DDuAxf\&GIF3oVf".resources
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pBX\\6K $"X9zewAYrNIoMo" '.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+I C3\*^;`ci|qZf0a~hW/9H#\[#.resources
