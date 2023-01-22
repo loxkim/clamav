@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Shiz-9984729-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"GlobalSign Time Stamping Authority0
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++http://crl.globalsign.net/Timestamping1.crl0
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://www.bullguard.com0
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$9!('<%8@@$%);,?.$36$8,.-.4.-1=-$>:!"@&4&)&*:@+6@8/&9#5?'+!Nij
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+38&?366+.2-8"?5.*"5&;.,$34=>;%5>#746.-0-:2=#*-7#073670?0
