@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.TDSS-9984969-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\."(f:9))
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+9)(1z82(fdw{969~52/4y()?%?"~5yaf:23f/dd2k#c6<
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+36)/.(1#>(#904>95)=7//7u9"h3(73?4.;
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+((a49{m5((?2/x>1"5:9v156|47a)53):1?(=,-?w6|66nwfn/4=`62.a)x5.)(?34..(``6f
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+~j>=<21xyatv?3.9;a1kyl))2((/,u3d

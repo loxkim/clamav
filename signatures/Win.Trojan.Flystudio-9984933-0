@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Flystudio-9984933-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+blyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="x86" publicKe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files (x86)C:\Program Files (x86)C:\Program Files (x86)C:\Program Files (x86)C:\Program Files (x86)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:documentID="xmp.did:33280889211411E98CD0C65532669603"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>d=z`
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:documentID="xmp.did:B5FC9B37211311E9AAD3A7B16C6118C6"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>m
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:documentID="xmp.did:5DDAF9DB211311E9A48B819262265EDA"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
