@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Msilmamut-9985170-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\hkls\Desktop\dahua-20211125T114320Z-001\dahua - Kopyax64\AccessControl1s\obj\x64\Debug\Lidertek Zaman Kontrol
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+get_logo_fingerprint_computer_icons_digit_png_favpng_mv27QVRWy36BsnhfX3PAptA6u
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+logo-fingerprint-computer-icons-digit-png-favpng-mv27QVRWy36BsnhfX3PAptA6u
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AccessControl1s.Log.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Lidertek Zaman Kontrol Sistemleri.exe
