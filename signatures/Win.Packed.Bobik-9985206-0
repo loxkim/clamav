@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Bobik-9985206-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+del /f /s /q "%systemdrive%\Windows\System32\eac_usermode_*.dll"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+del /s /f /q '%userprofile%\AppData\Local\Microsoft\Windows\Temporary Internet Files\*.*' 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+del / s / q / f %LocalAppData%\FiveM\FiveM.app\cfx_curl_x86_64.dll 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+del / s / q / f % LocalAppData %\FiveM\FiveM.app\asi - five.dll 
