@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Jaik-9985427-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GNU C17 12.2.0 -mtune=generic -march=i686 -g -g -g -O2 -O2 -O2 -fno-ident -fPIC -fbuilding-libgcc -fno-stack-protector
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\AppLaunch.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\buildroot\i686-1220-win32-dwarf-rt_v10-rev1\build\gcc-12.2.0\i686-w64-mingw32\libgcc
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%d bit pseudo relocation at %p out of range, targeting %p, yielding the value %p.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PROC_OUT = %d, Process = %x
