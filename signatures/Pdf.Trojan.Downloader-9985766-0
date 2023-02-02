@@ -1,0 +1,39 @@
+VIRUS NAME: Pdf.Trojan.Downloader-9985766-0
+TDB: Engine:90-255,Target:10
+LOGICAL EXPRESSION: 0&(1|2|3|4|5|6)>1,2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+obj{WILDCARD_ANY_STRING(LENGTH<=1)}
+<<{WILDCARD_ANY_STRING(LENGTH<=1)}/Filter{WILDCARD_ANY_STRING(LENGTH<=1)}/FlateDecode{WILDCARD_ANY_STRING(LENGTH<=1)}/Length 19389{WILDCARD_ANY_STRING(LENGTH<=1)}/Length1 81740{WILDCARD_ANY_STRING(LENGTH<=1)}>>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Author(Aisha Gaddafi)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Subtype/Link/Rect[ 0 -0.12001 336.12 236.04] /BS<</W 0>>/F 4/A<</Type/Action/S/URI/URI(https://
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Type /XObject /Subtype /Form /BBox [ 0 -0.120010003 336.119995 236.039993 ] /Resources << >> /Matrix [ 1 0 0 1 0 0 ]
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/XObject /Subtype /Image /Width 933 /Height 655 /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Interpolate true /Length 36695
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 655/Interpolate true/Length 36695/Subtype/Image/Type/XObject/Width 933
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Calibri/Flags 32/ItalicAngle 0/Ascent 750/Descent -250/CapHeight 750/AvgWidth 521/MaxWidth 1743/FontWeight 400/XHeight 250/StemV 52/FontBBox[-503 -250 1240 750]
