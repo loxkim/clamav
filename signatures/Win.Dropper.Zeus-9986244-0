@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-9986244-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+{Error creating object.  Please verify that the Microsoft Data Access Components 2.1 (or later) have been properly insta
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+KWOZv0ux92E4NVbNpsIoRNV9Mw1oMkFD.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Missing %s property(CommandText does not return a result set
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+v5xc90CrELWvUIbiMmsE6tY04IbnDyqYjeBLnA0moKVHT.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnWillExecute
