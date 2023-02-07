@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-9986570-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+dvendigt at opdatere operativsystemet. {{Pakkeversion: [3], Version beskyttet af operativsystemet: [4]}}
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+lgende produkter:Ihttp://www.google.com/support/toolbar/bin/static.py?page=terms.html&hl=da@http://www.google.com/suppor
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Windows Installer kan ikke opgradere systemfilen [2], fordi filen er beskyttet af Windows. Det er muligvis n
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+KModulet [2] kunne ikke registreres. HRESULT [3]. Kontakt supportteknikerne.YModulet [2] kunne ikke f
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+sning af filen: [2]. {{ Systemfejl [3].}} Kontroller, at filen findes, og at du har adgang til den.
