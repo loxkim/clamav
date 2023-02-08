@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zbot-9986828-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" p
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></reque
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+2comsvcs.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TFT4XDnYKqRbKx23gLRyM2I8W8RlPMeeiese28SNBzdlgjQWBrtOa44Gn4YOwL1OVEHmE6grIvrKAzHbx7riqN43imsAJlYOnqU8PPsIs4WMg6YDyNuPrZmB0Nrb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+M8H8w7WjYpT3G9mwgZztV4ny3D1YHs0vD0rAlcBymUw3jk3hpkAUu864LitlfwmQydDGMApXQatopByckHu744p89Ov5XS1nkW685o6B877Y3r9Y8J8eM5OR
