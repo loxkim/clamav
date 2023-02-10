@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-9987112-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"!$ "!%#*%*(*).-.0133553:7;8;:>;B@DBDDFEIEIHKLOLRQTSSSTUZV[ZZY__^`a`cbdgighkjmpnoqrrurxwww|w}|}|
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#!%"%&*%,+-,/+.1404564:5:8;:<??@A@FCFFJHKJKMPOOMTOVTXWVW[Z][][_]babegcgfikjjlkqmpqsuuwzuyyz}}}
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!"&$$&&()*,*--1-23257495:8:<>?A?DBFDGCGFKJNKNNNOTQUUVUZU[W\[\[b_a`fcffifijkmnopprsusxvxvyw}z
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+! #%"(%*))(-)/-2/30554379::>;==?=B@EBEFIHIGNJLOOOQSUTVWYW\Y\Y\\a^dcfdefhfihjjpkrprpstttxy|x~{}~
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"""%$''**-),-20014283668:<;?>BADAEBDGFHJKLKNLQNTSTSUVXWYY[\^\^_bcecfcifliljpnonpovrtvxv|z|{}~

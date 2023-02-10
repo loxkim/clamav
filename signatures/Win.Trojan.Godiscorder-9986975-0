@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Godiscorder-9986975-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+st.dllsecur32.dllshell32.dllshort writetls: alert(tracealloc(traffic updunreachableuserenv.dllversion.dll (sensitive) B (
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ncgziphosthourhttpicmpidleigmpint8itabjsonkindlinknullopenpipepop3readrootsbrksmtpsse2sse3tcp4tcp6trueudp4uintunixvaryxn-- ...
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+an ECDSA public key, got %Thttp: no Location header in responsehttp: unexpected EOF reading trailerhttps://discord.com/api/v9/u
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%sexpression nests too deeplyfailed to set sweep barrierframe_pushpromise_pad_shortframe_rststream_zero_streamgcstopm: not wait
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+on ptr to non-array Valueruntime: GetQueuedCompletionStatusEx returned invalid mode= runtime: netpoll: PostQueuedCompletionStat

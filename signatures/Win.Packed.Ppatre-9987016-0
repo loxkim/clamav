@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Ppatre-9987016-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\004dbf156bef8cd0f6afa79bc99ecb77e34211e814a059d2d8d34e797234d99d.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Public\Desktop\553d3f5009fcbe94d9d0b5df8fb8b09e73f9b9bc2f045188f96981b43dfbb9b6.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Public\Desktop\b0cff7c49c4e987ce37dc3171920a8b938f486fa461c991c133417c66681d05f.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Frank\Desktop\eUzedLyA.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Frank\Desktop\fWznGPuK.exe

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Ppatre-9987019-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\ad9a3cddfadd841c3816df5f4ebeb411416b4c77903a5c8c37055b93ed192531.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Public\Desktop\69b0a9912bcabd9e4ff6c77d47a7042af90991e21836f588ed7d4ed68f1f0497.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Public\Desktop\efa897f8dfe85ecdcc9202996602c9b9ac2cdcab5f6cb2735bd03f70c10b3b67.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Frank\Desktop\VzDmOpiK.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Frank\Desktop\bjPCXSIV.exe
