@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.DarkKomet-9987451-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+MicrosoftEdgeUpdateSetup.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Mana riqsisqa Churaq PantayYChuraynin pantasqan. %1!s! Churaq Windows 2000 Service Pack 4 utaq musuq ima niraq munan.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Onbekannte Installer-FeelermInstallatioun feelgeschloen. %1!s! Installer brauch Windows 2000 Service Pack 4 oder m
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Onbekende installatiefoutVDe installatie is mislukt %1!s! Installer vereist Windows 2000 servicepack 4 of hoger.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ka instalacionog programadInstalacija nije uspela. %1!s! instalacioni program zahteva Windows 2000 servisni paket 4 ili 
