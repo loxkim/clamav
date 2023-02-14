@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Upatre-9987661-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\2cde2269de7ac8b168c87247524903945b572fafacea160d729f485d7b993e5d-dropped.bin.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\37891dcede188e8c28fc0f967ebd5fbde1bbd07a0c26b0a23adf01be4f1a88b2.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\06c038fbbbfab517a28abd1215b16e64fd1fc1cc604b5f6f6516f535af0f99bb.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\04a0c201a9f507d0409cdef25a7aa819c1307a4a8fdc3b0a506a578ae332ce5d.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Frank\Desktop\rLYfgUFI.exe
