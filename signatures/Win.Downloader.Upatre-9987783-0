@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-9987783-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Frank\Desktop\tnLDBDhp.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Frank\Desktop\ZxEHunKb.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Lisa\Desktop\TdxEFLhE.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Lisa\Desktop\lURdwtfF.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\2c527fd7d456e9fea10ce94d2618fba91712a6b3126e45d1f93df81214134bd1

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-9987786-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\maxine\AppData\Local\Temp\XFRKZKVFSDI0LASTVLWHE6WJ.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\maxine\AppData\Local\Temp\KYSOSWRTFB2CQKBUHJ8YQCZE.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\maxine\AppData\Local\Temp\ZP4IFDQEXV641LQDH96LSLOG.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\7682d1b479fba8f54de92aec4bf66126.virus.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Frank\Desktop\qwGyJkYP.exe

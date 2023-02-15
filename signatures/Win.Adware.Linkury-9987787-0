@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Adware.Linkury-9987787-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Linkury.Resources.HistoryAndStatsWrapper.HistoryWrapperService.HistoryWrapperService:System.String GetVersionDate():OutH
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://schemas.datacontract.org/2004/07/WcfSecureWebService:UpdateUserFavoritesResponse
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Linkury.Resources.HistoryAndStatsWrapper.HistoryWrapperService.HistoryWrapperService:Linkury.Resources.HistoryAndStatsWr
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.linkury.com/:logHistoryListResponse
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://schemas.datacontract.org/2004/07/WcfSecureWebService:HistoryRecordResponse
