@@ -1,0 +1,8 @@
+VIRUS NAME: Txt.Downloader.VbsAgent-9986821-0
+TDB: Engine:91-255,FileSize:750-1000,Target:7
+LOGICAL EXPRESSION: 0>5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+>%vbs%
