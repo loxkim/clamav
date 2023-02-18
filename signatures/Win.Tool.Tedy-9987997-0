@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Tedy-9987997-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+unixpacketunknown pcuser-agentws2_32.dllx_hostname  of size   (error %s) (targetpc= , plugin:  KiB work,  exp.) for  freeindex= 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d25519tls: alert(tracealloc(traffic updunreachableuserenv.dllvalue for "websocket: wsarecvfromx_useragent = struct {  B (
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+trailerjson: encoding error for type %q: %qkey size not a multiple of key alignmalformed MIME header initial line: method ABI a
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+psfunchosthourhttpicmpidleigmpint8itabjsonkindlinknonenullopenpingpipepop3quitreadrootsbrksmtpsse2sse3tcp4tcp6trueudp4uintunixva
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+key (use ParsePKCS1PrivateKey instead for this key format)x509: failed to parse private key (use ParsePKCS8PrivateKey instead f
