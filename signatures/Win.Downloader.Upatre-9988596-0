@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-9988596-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Virtual\AppData\Local\Temp\0d189e83a14bdb9e0b8a38e81e60b99d43c6f0b4ad1fa8ce328bed4163bbc484.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Virtual\AppData\Local\Temp\f4986509e84bfcbf1fd1a0af44e2b93213c9b839b12bc6d2f5f3b852a1ba67fb.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\aa4a6ec3f9672e597a12b2fe45b5ffe15216ed6866496312d5afeff50f16e345.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\476e979bc18fef79e421b7147f814fc3.virus.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\file014_hummy.exe

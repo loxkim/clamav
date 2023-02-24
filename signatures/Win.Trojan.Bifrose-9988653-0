@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Bifrose-9988653-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  <UPATH FullPath="C#58##92#Dokumente und Einstellungen#92#All Users#92#Anwendungsdaten#92#" UniPath="#35#COMMON_APPD
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  <UPATH FullPath="C#58##92#Dokumente und Einstellungen#92#All Users#92#Vorlagen#92#" UniPath="#35#COMMON_TEMPLATES#3
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  <UPATH FullPath="C#58##92#Dokumente und Einstellungen#92#All Users#92#Startmen#252##92#Programme#92#" UniPath="#35#
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  <UPATH FullPath="C#58##92#Dokumente und Einstellungen#92#All Users#92#" UniPath="#35#ALLUSERS#35##92#" CaptPath="
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  <UPATH FullPath="C#58##92#Programme#92#Gemeinsame Dateien#92#" UniPath="#35#PROGRAMFILES_COMMON#35##92#" CaptPath=

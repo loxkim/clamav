@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-9988360-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+kooptiere.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+---->>>>ffff))))''''OOOO6666====))))eeee----xxxxssssGGGG++++]]]]FFFF////QQQQjjjj@@@@????    !!!!ccccwwww
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+)ielll:"""q
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+UTP:V:\
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AAAA^^^^BBBB;;;;----YYYYRRRR9JJ9re??JJJJlllldddd::::ZZZZ

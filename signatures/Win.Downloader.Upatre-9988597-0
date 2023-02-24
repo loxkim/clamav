@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-9988597-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Virtual\AppData\Local\Temp\7c115a3d5f5dc427205e8662e4e4fe864967236537b099fcdd487c5eeda3d57e.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Virtual\AppData\Local\Temp\c40ecb5de1b8d693dbf69044985da0f2b0a9c3c5f57bc3eda30258c96827329a.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Virtual\AppData\Local\Temp\77d6e4a3c40be9c44dc111da552d865e247339ce0a94d72c4e529a0013f49065.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\r.vult\AppData\Local\Temp\7bd5f3cab47339453e75fe5d5a1ee301.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\21f9adec0ada80592696cf3a9cb0a88e14ded4cc58d4a683cbd5fe567e7fb70c.exe
