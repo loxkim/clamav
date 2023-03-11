@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Cidox-9992259-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(including, without limitation, export or re-export to destinations prohibited either in Country Groups Q, S, W, Y or Z country
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+specified in the then current Supplement No. 1 to Section 770 of the U.S. Export Administration Regulations (or any successor s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SCORE.EXE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+se or access the Software at any time. On termination, you must destroy all copies of the Software. 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+agreeing to the foregoing and you are representing and warranting that you are not located in, under the control of, or a natio
