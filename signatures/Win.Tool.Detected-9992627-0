@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Detected-9992627-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid encoding nameNNo mapping for the Unicode character exists in the target multi-byte code page
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://www.microsoft.com/DRM/XrML2/TM/v2"><r:title>OEM Certificate</r:title><r:grant><sl:binding><sl:data Algorithm="msft:rm/a
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1:2003:01-REL-SX-NS" xmlns:mx="urn:mpeg:mpeg21:2003:01-REL-MX-NS" xmlns:sl="http://www.microsoft.com/DRM/XrML2/SL/v2" xmlns
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gorithm="http://www.microsoft.com/xrml/lwc14n"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS"><tm:infoTables xmlns:tm="http://www.microsoft.com/DRM/XrML2/TM/v2"><tm:infoList tag=
