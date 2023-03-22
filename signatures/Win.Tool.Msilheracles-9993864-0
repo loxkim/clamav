@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Msilheracles-9993864-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+EDD.exe -f FindDomainProcess -p [proc name]
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+EDD.exe -f ChangeAccountPassword -u [username] -p [password]
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+EDD.exe -f GetNetLocalGroupMember -c [computer name] -g [group name]
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+EDD.exe -f GetDomainUser -d [domain name] -u [username]
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+EDD.exe -f GetDomainDescriptions -q <LDAP query>

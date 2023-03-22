@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Miner-9993887-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+timercontext deadline exceededexplicit tag has no childfailed to send packet: %whttp2: Framer %p: read %vhttp2: Request.URI is 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+aaaadxaesageallavxcgocpudnsendfinfmaftpgc gp intip6keykvmlxcmapnannewnilobjpc=ptrrktsetsshsystcptopu00udpviawebwwwxen
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pstopm holding punexpected typeunknown Go typeunknown networkunknown versionwindowAdjustMsgwrite error: %v already; errno= mhea
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+inter buffersresource deadlock avoidedruntime: epollwait on fd runtime: misaligned func runtime: program exceeds runtime
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bytes omitted) already registered called using nil *,  g->atomicstatus=, gp->atomicstatus=/usr/lib/locale/TZ/149011611938476562
