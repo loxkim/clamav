@@ -1,0 +1,28 @@
+VIRUS NAME: Pdf.Downloader.Iceid-9992788-0
+TDB: Engine:90-255,Target:10
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%iText-5.5.13.2
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<</Producer(iTextSharp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<</Type/XObject/Subtype/Image/Width 421/Height 595/Length 265/ColorSpace/DeviceGray/BitsPerComponent 8/Filter/FlateDecode>>stream
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<</Type/Page/MediaBox[0 0 595 842]/Resources<</XObject<</img0 1 0 R/img1 2 0 R>>>>/Rotate 90/Annots[3 0 R]/Contents 4 0 R/Parent 5 0 R>>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<</Type/Pages/Count 1/Kids[6 0 R]>>
