@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Fsysna-9994152-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\sroot_build\main\s12.7\Vm\Release\x86\VmX.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+LICENSE: Can't read get special license reg key root, error: 0x%X.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Copyright ? 2003-2013 Code Systems Corporation.  All rights reserved.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+{%04X%04X-%04X-%04X-%04X-%04X%04X%04X}
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ct9sluM9s\uHH
