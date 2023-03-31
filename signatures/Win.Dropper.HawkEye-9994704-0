@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.HawkEye-9994704-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+entryfreeIndex is not validgetenv before env initheadTailIndex overflowinteger divide by zerointerface conversion: invalid addr
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AGetOverlappedResultWaitForMultipleObjectsaddress already in useadvapi32.dll not foundargument list too longassembly checks fail
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+popcntrdtscpreadatreturnselectsendtosocketstringstructsweep sysmontelnettimersuint16uint32uint64
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+onsattempt to clear non-empty span setencoding/hex: odd length hex stringexecutable file not found in %PATH%file type does not s
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rt endpoint is not connected) is larger than maximum page size () is not Grunnable or Gscanrunnable
