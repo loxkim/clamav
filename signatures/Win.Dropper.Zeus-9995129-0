@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-9995129-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+KERNEL32.DLL 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Badewannenlift6\Leihgab\VB98\VB6.OLB
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vvvvqrvrvqurvrrvrrvrrvrrvrsvrrvrrvrrvrrvrrvrvvvqvspqwjsJsvrms#ir'jsHepJes6ypVRs7ks<cpAjsEbpUqqqvvsrpq:r
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Nisio to context Caps.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+~sTcr7zpfuqwfr!qq}}rG}s2qqrxpRfr>er=hr.qqccsD}qhrp{ksO{qxpqqvqvvvvppvvvrrrf

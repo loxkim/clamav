@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kovter-9995120-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Nervenverpflanzungen3\B\VB98\VB6.OLB
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cd5+f63da+fdce94++fe9cc+f75dd+ffcc+66+ffec466+f73f+c2+fd5d1+fd5fc66+ffdf++fe2f666+f6
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+2d266+f76ce+fe9cc+f75dd+ffcc+66+ffec466+f73f+c2+fd5d183c1+366+ff8e666+f64c
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+9d4+f73d7+766+f76f666+f75c9+ffddd+fdfd4+f62d5+f71f15e
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+6ec178e96a28+e+c3c2+54e4e3adcce46a28dfa96ec119ea6a28+e+c282+54e4e36d6c6f272cbd19672854be

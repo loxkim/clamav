@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Kovter-9995122-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+f766+fddf++f72f+26+f66c+66+f71f+8366+fefcf+f71f59366+fdbcf+fdff9+fedd666+fdfe3+f67d5
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+666+fe1e366+fface+f62c266+fdcc+8b54+d+++f76f966+fd5d466+f68f666+fe9e3+fdfeb31c
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+deb+f74ef66+ff5d2+fedd666+f72d1b666+fe1e366+fface+f62c266+fdcc+66+f69df66
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+1d276+ff8e5+f6+f366+fd5d366+fd8de66+ff5f6+f6+e666+ff5da
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Beschwerde
