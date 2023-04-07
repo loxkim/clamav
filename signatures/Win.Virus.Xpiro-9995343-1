@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Xpiro-9995343-1
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+f:\jenkins\worksp~1\drvcha~1\src\objfre_win7_amd64\amd64\mbamchameleon64.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+f:\jenkins\worksp~1\drvcha~1\src\objfre_win7_x86\i386\mbamchameleon32.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://data-cdn.mbamupdates.com/v0/program/mbam.check.program
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://data-cdn.mbamupdates.com/v0/program/data/mbam-setup-
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+F:\Jenkins\workspace\mbam-chameleon.exe\build\Release\mbam-chameleon-vc100-x86-s-2_0_26.pdb
