@@ -1,0 +1,9 @@
+VIRUS NAME: PUA.Win.Tool.HideCMD-9995718-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+hidec hides console window of started program & waits (opt.) for its termination
+
+Usage:
+
+	hidec [/w] <filename>

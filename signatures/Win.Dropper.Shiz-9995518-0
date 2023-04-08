@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Shiz-9995518-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OLECLI32.DLL
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SQLUNIRL.DLL
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0A/65!!28'==";$$86=.><<7:60@0&9,7/2'.4(+;-&/!",?)<$5-&539.?7(4$/&@411%<-.979*%?9-7.$;$54Zywo
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+>>:-00<1$=@<;"4(1@(8'>.7/.,)@-(73%&&35"&";:5*#)<.<1("+=,7*4/,3":+&4"Narucuxutezysuc
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-$$2)*11%7&''3<+95$*$:(=1%)'#>4#.!%'3&*+;(2<)?**>,Riqekaqolaxyh
