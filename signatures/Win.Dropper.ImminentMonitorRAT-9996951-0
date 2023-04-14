@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.ImminentMonitorRAT-9996951-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+All Clipboard does not support Icons/Menu '%s' is already being used by another form
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ - Dock zone has no control,Multiselect mode must be on for this feature"Unable to find a Table of Contents
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid image!Cannot change the size of an icon$Unknown picture file extension (.%s)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+5 5(5,5054585<5@5D5H5L5P5T5X5\5`5d52666:6>6B6F6J6N6R6V6Z6^6b6f6~6
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnDockDropx'D
