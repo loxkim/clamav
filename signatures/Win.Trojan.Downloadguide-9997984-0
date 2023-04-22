@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Downloadguide-9997984-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\TeamCity\BuzzrinAgent_2\work\ab5ba43f5f73927\DownloadGuide2\Release\DownloadGuide2.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+- ShellExecuteEx failed, this=0x%p, err=%d
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CJsExportObject@VJsFileExecution@@UIJsAsyncWorkerSLO@@@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+yjscript.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ScriptError [scode=0x%08x, desc=%s, ctx=%d, line=%d, char=%d, src=%s]
