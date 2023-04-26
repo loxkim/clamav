@@ -1,0 +1,43 @@
+VIRUS NAME: Win.Ransomware.Kadavro-9998128-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: (0&1&2&3&4&5&6&7)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+WinDir
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\system32\cmstp.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[DefaultInstall]
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CustomDestination=CustInstDestSectionAllUsers
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RunPreSetupCommands=RunPreSetupCommandsSection
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[CustInstDestSectionAllUsers]
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+=AllUSer_LDIDSection
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+torbrowser-install-

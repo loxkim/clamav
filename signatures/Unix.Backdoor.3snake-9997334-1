@@ -1,0 +1,5 @@
+VIRUS NAME: Unix.Backdoor.3snake-9997334-1
+TARGET TYPE: ELF
+OFFSET: *
+DECODED SIGNATURE:
+/proc/%d/cmdline{WILDCARD_ANY_STRING}/proc/%d/status{WILDCARD_ANY_STRING}/proc/%d/exe{WILDCARD_ANY_STRING}intercept_ssh{WILDCARD_ANY_STRING}passphrase{WILDCARD_ANY_STRING}daemonize{WILDCARD_ANY_STRING}intercept_ssh_client{WILDCARD_ANY_STRING}trace_process{WILDCARD_ANY_STRING}tracers{WILDCARD_ANY_STRING}intercept_sudo{WILDCARD_ANY_STRING}intercept_passwd{WILDCARD_ANY_STRING}find_password_write{WILDCARD_ANY_STRING}get_syscall

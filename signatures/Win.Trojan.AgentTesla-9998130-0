@@ -1,0 +1,58 @@
+VIRUS NAME: Win.Trojan.AgentTesla-9998130-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: (0&1&2&3&4&5&6&7&8&9&10)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\system32\cmstp.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\\.\root\default
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+systemrestore
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+powershell.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-ExecutionPolicy Bypass Add-MpPreference -Exclusion
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+.bat
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+mshta vbscript:Execute
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+WScript.Shell
+ * SUBSIG ID 8
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd.exe /c start
+ * SUBSIG ID 9
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+taskkill /IM cmstp.exe /F
+ * SUBSIG ID 10
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+X0KMDgd7DWnHTV0Aq
