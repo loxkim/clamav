@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Ransomware.CatB-9998864-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+What happend
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Your files are encrypted
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+The price depends on how fast you can pay to us.

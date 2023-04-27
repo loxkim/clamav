@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Prcviewer-9998817-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+echo attrib -r -h -s %systemroot%\system32\bhoSearchSpy.dll>>Pass2.cmd
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+echo attrib -r -h -s %systemroot%\system32\svchosts.dll>>Pass2.cmd
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+echo if exist "%windir%\inetloader.dll" echo %sError% %windir%\inetloader.dll^>^>%systemdrive%\rapport.txt >>Pass2.cmd
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+echo del /q %systemroot%\system32\bhoSearchSpy.dll>>Pass2.cmd
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+echo if exist "%windir%\se_spoof.dll" echo %sError% %windir%\se_spoof.dll^>^>%systemdrive%\rapport.txt >>Pass2.cmd
