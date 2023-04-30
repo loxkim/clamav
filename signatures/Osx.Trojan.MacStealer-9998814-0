@@ -1,0 +1,19 @@
+VIRUS NAME: Osx.Trojan.MacStealer-9998814-0
+TDB: Engine:91-255,Target:0
+LOGICAL EXPRESSION: 0&(1|2)
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ERROR: Decoding failed (3): 3?
+ERROR: Decoding failed
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6056159172:AAEbi5hRzK-FCrLSs6JJH4cLjQMovTkPSX4
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+garry-mac-stealer-script
