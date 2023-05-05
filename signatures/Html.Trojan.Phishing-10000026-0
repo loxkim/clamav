@@ -1,0 +1,28 @@
+VIRUS NAME: Html.Trojan.Phishing-10000026-0
+TDB: Engine:90-255,Target:3
+LOGICAL EXPRESSION: (0|1|2)&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<img src=x
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<body style=""
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<audio src=x
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+style="display:none;"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dmfyiglzx251bgwgpsbkb2n1bwvuddsgy29uc3qgc2nyid0gaxnfbnvsbc5j
