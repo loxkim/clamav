@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Zusy-10000767-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\54ecf2ed0e2a37dbbcfcd98279795f72b7f818750c1b20b91e10863ac3db5969.exe]
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\026a391656a971ee96d9088ff5763c5064641179ff4fe50e377afd17c3fde4fb.exe]
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Frank\Desktop\spYZxTaS.exe#
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\be6f67c58676e4ca5b954ac29880f6ee6b290a3335fafd6dbc2148744690fec2.exe]
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\q_3.tmp.exe$
