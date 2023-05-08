@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Qbot-10001206-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PProcessClientAnchor2@SdrEscherImport@@UAEXAAVSvStream@@AAVDffRecordHeader@@PAXAAUDffObjData@@@Z
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PProcessClientAnchor2@SvxMSDffManager@@MAEXAAVSvStream@@AAVDffRecordHeader@@PAXAAUDffObjData@@@Z
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PGetEncryptionData@MSCodec_Std97@msfilter@@QAE?AV?$Sequence@UNamedValue@beans@star@sun@com@@@uno@star@sun@com@@XZ
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PSeekToContentOfProgTag@SdrPowerPointImport@@IAEEJAAVSvStream@@ABVDffRecordHeader@@AAV3@@Z
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PProcessObj@SdrEscherImport@@UAEPAVSdrObject@@AAVSvStream@@AAUDffObjData@@PAXAAVRectangle@@PAV2@@Z
