@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-10001379-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\b513cd6b6e26e6c92880e294f76648c6a315f49bfdcdcc9a89f760220a5fcb13-dropped.bin.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\6590e82e0d53140bba4c7aaf282eb3dbbc99bdb8054c175c7a35c3deaea2b2ee-dropped.bin.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\b78a6c9cd0439e5dbe8271e6cc0c5decbff7d636c2839fa073c5a43d5107b019-dropped.bin.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\4a15983f7a9da6bdbd1750c7b315f37dcce3e67d3395dbb749262f4d957e644c-dropped.bin.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\256e3c8e1f3e9076a2d4498b52de9752241e0d4155e7d2f7de1bbb94d691a3f4-dropped.bin.exe

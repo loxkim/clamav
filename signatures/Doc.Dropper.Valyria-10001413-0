@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Dropper.Valyria-10001413-0
+TDB: Engine:151-255,Container:CL_TYPE_MSOLE2,Target:0
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dim folders() as string
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ntgs = 50
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+selection.moveright unit:=wdcharacter, count:=2
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+set fc = f.subfolders
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+subfolders_in(folder$
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+while sda < 50

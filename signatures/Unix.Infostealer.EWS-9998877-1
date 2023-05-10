@@ -1,0 +1,139 @@
+VIRUS NAME: Unix.Infostealer.EWS-9998877-1
+TDB: Engine:96-255,FileSize:0-70000,Target:0
+LOGICAL EXPRESSION: 0&((1|2|3|4|5|6)>0,5)&((7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26)>0,15)
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+B
+
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+ews-dwn.py
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+ed-log.txt
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+eml.db
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+fail_login_log_%s.txt
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+brute_{}.log
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+succ_brute_{}.txt
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+EWS dowloader
+ * SUBSIG ID 8
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+%prog -s server -u domain\\username -p password -e email -d 100
+ * SUBSIG ID 9
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+Connecting to account: server:%s, url:%s, auth_type:%s, login:%s, email:%s, access type:%s
+ * SUBSIG ID 10
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+%d items found. Filtering up messages and dublicates
+ * SUBSIG ID 11
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+Error! Message have not mime_content!
+ * SUBSIG ID 12
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+Between every and between every sec must setted up only both!
+ * SUBSIG ID 13
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+Only one email parameter must be setted!
+ * SUBSIG ID 14
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+This user have delegates
+ * SUBSIG ID 15
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+This user yet success checked. Skipping...
+ * SUBSIG ID 16
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+Sleep after message download, %d sec...
+ * SUBSIG ID 17
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+This server is stupid or brute mode is on. Waiting for %d. Retry %d
+ * SUBSIG ID 18
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+For account name found multiply contacts!
+ * SUBSIG ID 19
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+Too many retries to download message, but success connect to server. Skip this message...
+ * SUBSIG ID 20
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+Default folder %s found. Start download...
+ * SUBSIG ID 21
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+Sleep between users, %d sec...
+ * SUBSIG ID 22
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+Success brute! Results file is: {}
+ * SUBSIG ID 23
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+Ctrl-C pressed, exiting from brute user:{}. Try Ctrl-C for exit now.
+ * SUBSIG ID 24
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+Brute starting! Brute type is
+ * SUBSIG ID 25
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+REQ_DEF_USER_AG_FUNC
+ * SUBSIG ID 26
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+RANDOM_OUTLOOK_USAGENT
