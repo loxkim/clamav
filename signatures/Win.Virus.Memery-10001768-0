@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Memery-10001768-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\SYSTEM32\INETSRV\iisres.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<description>IIS control command line utility</description>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+7.5.7601.24523 (win7sp1_ldr_escrow.190911-1824)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+name="Microsoft.Windows.IIS.IISReset"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+7.5.7601.24523

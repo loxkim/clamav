@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Memery-10001766-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity version="1.0.0.0" processorArchitecture="x86" name="Microsoft-Windows-UPnPCont" type="win32"/> 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+6.1.7601.24535 (win7sp1_ldr_escrow.191105-1059)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+6.1.7601.24535
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0.141;1[1b1
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0 0.03090D0K0X0d0p0|0

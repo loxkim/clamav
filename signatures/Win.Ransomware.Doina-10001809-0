@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Doina-10001809-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Error on AES_set_encrypt_key
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fault_delete@V?$tuple@P6AXABV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@ZV12@@std@@@2@@std@@@std@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Fake_no_copy_callable_adapter@P6AXV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@ZAAV12@@std@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Gapi-ms-win-appmodel-runtime-l1-1-1
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GetVolumeInformationA failed w/e 

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-10001782-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\3ef5cdc28f1255902854290cc738900163c296a3242e3bad326f6025d8f1582f-dropped.bin.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\c86e58c5fc5e2b2da136e22b80b57275cc721e402f707427e4a41d2b0d404366-dropped.bin.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\70d5243d01104110383348ec547acc49ba220fb1c16d34682de27fe0c5a8fa67-dropped.bin.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\36d6f01c0299bd760e4ed78157879d3d.virus.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\5ad01d16192183d5391bb91577d13d47.virus.exe
