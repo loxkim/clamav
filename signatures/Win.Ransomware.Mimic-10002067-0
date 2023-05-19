@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Mimic-10002067-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+powershell.exe -ExecutionPolicy Bypass "Get-Volume | Get-DiskImage | Dismount-DiskImage"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+powershell.exe -ExecutionPolicy Bypass "Get-VM | Stop-VM"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+powershell.exe -ExecutionPolicy Bypass "Get-VM | Select-Object vmid | Get-VHD | %{Get-DiskImage -ImagePath $_.Path; Get
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[*] Killing blocking process (%s - pid:%i), file: %s
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[*] Killing blocking process: %s (%s - pid:%i)

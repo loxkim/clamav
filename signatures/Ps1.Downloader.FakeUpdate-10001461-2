@@ -1,0 +1,13 @@
+VIRUS NAME: Ps1.Downloader.FakeUpdate-10001461-2
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+powershell $update='windows';$url='https://www.catalog.update.microsoft.com/scopedviewinline.aspx?updateid=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+$url=$scheme+$command+'.mocky.io/'+$version+'/'+$updateid
