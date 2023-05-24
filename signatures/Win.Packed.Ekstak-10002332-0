@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Ekstak-10002332-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<dpiAwareness xmlns="http://schemas.microsoft.com/SMI/2016/WindowsSettings">PerMonitorV2</dpiAwareness>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Cannot find index tag %s#Could not lock indexes for Table %s'No index is assigned for Find operation.A Password is inclu
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Failed to Save StreamE%d is an invalid PageIndex value.  PageIndex must be between 0 and %d=This control requires versio
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Argument for %s must be %s%Target value missing for %s operation*The two sides of an operation do not match"A %s value 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-C:\Program Files\Borland\Delphi6\Bin\Conf.ini

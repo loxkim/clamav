@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Downloader.W2000m-10002330-0
+TDB: Engine:151-255,Container:CL_TYPE_MSOLE2,Target:0
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+addr1 = objmember.streetaddress
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dim celap3 as long
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dim plusplus() as byte
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+manager = "-
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+objwmiservice.execquery("SELECT
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+public uber_pokerface as variant
