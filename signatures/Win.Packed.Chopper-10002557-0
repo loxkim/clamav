@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Chopper-10002557-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Create_ASP_aspnet_client_mailbox_31795001_3cc9_4ebc_987a_3da8ec448052_aspx
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Create_ASP_aspnet_client_mailbox_7fad47bd_b559_42f0_abe5_e968d5b2cbc2_aspx
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Create_ASP_aspnet_client_mailbox_6c219f7d_6967_4cec_966c_f0d0594ba496_aspx
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Create_ASP_aspnet_client_mailbox_6e0b00e0_7e08_43ff_a8f8_f18c756c8c36_aspx
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ObjectCategory                  : aosheng.local/Configuration/Schema/ms-Exch-OAB-Virtual-Directory

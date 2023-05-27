@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Loader.PS1EncryptedPayload-10002407-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Remove-Item $MyInvocation.MyCommand.Definition -Force;
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+([System.Convert]::FromBase64String(
