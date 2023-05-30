@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Memery-10002820-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\w7rtm\shell\applets\hermes\upgradeui.cpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+background="resbmp(11123,7,-1,0,0,1,1)" bordercolor="gray" borderstyle="raised" contentalign="MiddleCenter" />
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\w7rtm\shell\applets\hermes\hermes.cpp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Element id="atom(UpgradeTitleText)" class="HeadingText" content="resstr(20003)" layoutpos="top" />
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+s vulnerable a virus y malware porque:ZEl soporte para Windows 7 ha finalizado. Tu PC es m
