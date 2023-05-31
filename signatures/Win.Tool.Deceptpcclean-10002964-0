@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Deceptpcclean-10002964-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+D:\Software\Projects\System Cleaner\7.x\Source\Product\DLL\uProductLib.CheckForUpdates.pas
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.pointstone.com/assets/update/SC/systemcleaner7.asp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@Uhttprequest@Http_Get$qqrx20System@UnicodeStringt1r27System@%AnsiStringT$us$i0$%usuco
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SystemSnapshot.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.pointstone.com/support
