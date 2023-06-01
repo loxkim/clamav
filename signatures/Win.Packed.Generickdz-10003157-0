@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-10003157-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The targeted framework does not support the runtime '%s'. Some native libraries from [%s] may fail to load on this platf
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Adding runtimeTargets %s asset %s rid=%s assemblyVersion=%s fileVersion=%s from %s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Reading from host interface version: [0x%04x:%d] to initialize policy version: [0x%04x:%d]
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+System.Private.CoreLib.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+--- Invoked hostpolicy [commit hash: %s] [%s,%s,%s][%s] %s = {

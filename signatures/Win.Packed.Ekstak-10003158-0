@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Ekstak-10003158-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<dpiAwareness xmlns="http://schemas.microsoft.com/SMI/2016/WindowsSettings">PerMonitorV2</dpiAwareness>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+}Please enter the target folder where you want all files to be extracted and a name of the folder group. Click OK to continue.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+32-bit alpha blended icons. If your system lack support for this kind of icons you should disable these icons, or else the TUGZ
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error setting %s.Count8Listbox (%s) style must be virtual in order to set Count-%s already exists.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+VBScript Files (*.vbs)|*.vbs8Galaxy Files (*.gtv,*.galrep,*.txt)|*.gtv;*.galrep;*.txt
