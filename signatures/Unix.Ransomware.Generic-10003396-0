@@ -1,0 +1,18 @@
+VIRUS NAME: Unix.Ransomware.Generic-10003396-0
+TDB: Engine:91-255,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+esxcli storage filesystem list | grep "/vmfs/volumes/" 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+/bin/touch -r /usr/lib/vmware/busybox/bin/busybox /sbin/hostd-probe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+config_file in $(esxcli vm process list | grep "Config File" 
