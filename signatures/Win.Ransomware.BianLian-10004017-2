@@ -1,0 +1,25 @@
+VIRUS NAME: Win.Ransomware.BianLian-10004017-2
+TDB: Engine:90-255,FileSize:1500000-10000000,Target:1
+LOGICAL EXPRESSION: 3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-gcflags{WILDCARD_ANY_STRING(LENGTH<=50)}trimpath={WILDCARD_ANY_STRING(LENGTH<=20)}project{WILDCARD_ANY_STRING(LENGTH<=10)}crypt
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+golang
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.go
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&(1>1)&(2>300)
+     +-> REGEX: -gcflags.{1,50}trimpath=.{1,20}project\d+.{1,10}crypt\d\d?\d?\d?
+     +-> CFLAGS: (null)

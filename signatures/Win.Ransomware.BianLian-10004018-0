@@ -1,0 +1,25 @@
+VIRUS NAME: Win.Ransomware.BianLian-10004018-0
+TDB: Engine:90-255,FileSize:1500000-10000000,Target:1
+LOGICAL EXPRESSION: 3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/prjct/golang/socks/out
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+golang
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.go
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&(1>1)&(2>300)
+     +-> REGEX: \
+     +-> CFLAGS: prjct\/golang\/socks\/out\/[\d\.]{7,15}\/\d+-\d+\/client\/main.go/
