@@ -1,0 +1,33 @@
+VIRUS NAME: Xls.Downloader.Emodldr-10004511-0
+TDB: Engine:151-255,Container:CL_TYPE_MSOLE2,Target:0
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Procedural
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ThisWorkbook
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VBAProject
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+getobject(replace("B4c0n1sG00DwinB4c0n1sG00DmgmB4c0n1sG00Dts:\\.\roB4c0n1sG00Dot\cB4c0n1sG00DimB4c0n1sG00Dv2:WB4c0n1sG00Din3B4c0n1sG00D2_PB4c0n1sG00DrocesB4c0n1sG00Ds
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sub auto_open
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xsgboal.open "GET", dvehkdj & "Windows", false
