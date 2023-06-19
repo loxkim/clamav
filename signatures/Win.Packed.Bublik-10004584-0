@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Bublik-10004584-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Admin\AppData\Local\Temp\e564456056bfc47a31c7b222c7e1c40172b769a8f0443d42b7e5b10595d674fe.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Admin\AppData\Local\Temp\22b28d87c1f3f61a0cc16daba90f6caa1ea3c91f18f9ea9c20d576ab28904e9e.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\maxine\AppData\Local\Temp\9DCK9P817ITCR32W47XWJD3P.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\maxine\AppData\Local\Temp\F01SXEOUAYNR0RIG8U3T7FRF.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\2ced3dc8b07be5ff99f583ef06bf12b8.virus.exe
