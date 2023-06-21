@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-10004725-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Please use the correct E-mail address.nAn invalid format or character is used for the MFC E-mail address.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[0-9, -, +, (, ), *, !, #]fAn invalid format or character is used for the E-mail address.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+vCard {*.vcf}|*.vcf||,Remote Setup Dial Data files {*.rmd}|*.rmd||{Select items in the order you want them to be listed.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Select the fields from the Available Items list in the same order they are listed in the Import text file.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Please enter a Fax / Tel / E-Mail.:Text files {*.txt;*.csv}|*.txt;*.csv|All files {*.*}|*.*||
