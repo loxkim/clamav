@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Keylogger.Macos-10004846-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+< s.LenlocalhostlocaltimemSpanDeadnil errorosascriptpanicwaitpclmulqdqpreemptedprofBlockprotocol questionsrecover: reflect: rwx
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+heapGoal= pages at  ptrSize=  runqsize= runqueue= s.base()= spinning= stopwait= stream=%d sweepgen  sweepgen= targetpc= throwing
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+= until pc=%!(NOVERB)%!Weekday(%s|%s%s|%s(BADINDEX), bound = , limit = .localhost/dev/stdin/etc/hosts12207031256103515625: parsi
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%d]_outboundatomicor8attempts:bad indirbad prunebus errorchan sendcherrymaccomplex64continuedcopystackctxt != 0d.nx != 0dns,file
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ng :authorityAdditionalBad varintCardWalletChorasmianClassCHAOSClassCSNETConnectionContent-IdDSA-SHA256DeprecatedDevanagariECDSA
