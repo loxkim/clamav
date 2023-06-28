@@ -1,0 +1,64 @@
+VIRUS NAME: Email.Phishing.RPMSG_Downloader-10004958-0
+TDB: Engine:90-255,Target:4
+LOGICAL EXPRESSION: 0&(1|2)&((3|4|5|6|7|8|9)>4,4)&10&11
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Content-Disposition:
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ has sent you a protected message.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.office365.com/Encryption/lock.png
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<a href=
+=3D"https://
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+outlook
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.office365.com
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Encryption/
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+retrieve.ashx?
+ * SUBSIG ID 8
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+recipientemailaddress
+ * SUBSIG ID 9
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;senderemailaddress=
+ * SUBSIG ID 10
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+application/x-microsoft-rpmsg-message;
+ * SUBSIG ID 11
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+name="message_v{WILDCARD_IGNORE}.rpmsg"
