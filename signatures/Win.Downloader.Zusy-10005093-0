@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Zusy-10005093-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Frank\Desktop\SlcqnBYM.exe#
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Frank\Desktop\icDQWSUj.exe#
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Lisa\Desktop\UyrKdBmy.exe"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Lisa\Desktop\oPnrdgFY.exe"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\557b94d0343ac43ebbc9d4b8b94f6bbf682004f6e68c45b6c4b6dbafb14361e2C

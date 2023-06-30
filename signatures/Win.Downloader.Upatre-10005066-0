@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-10005066-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\5084e2be77ebc02404b5ce04bfd27376bcd6c3b84977b5fdfcf9211d02f4b67f.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\Administrator\Desktop\vrjbk4yZ.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\luser\Desktop\FCAErq4Y.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\task\D7799C89480697EE4276EEAF590F27B6.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\a2b6d5f5de6cf0d12065ff336a3fc96d2de741958dfc77b67793da262fc20bf4

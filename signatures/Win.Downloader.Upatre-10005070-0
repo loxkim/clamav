@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-10005070-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\523cb91584ebb87c5bb1b45d1ce2db71ab67423484482303a73ae62719708f16.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\fcb6ebdb7e79f0325a337217661fa2f9b0811d0ed605d6a6e23b315bbd721b95.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\99615f414de3bbdec6ba709baff6fba23bfdd2c1dfed0bfeb4d986e43b586ec9.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\e3d9b3ce5714222c61af7f61a1cb048d4cf85f70ea8f4553194f74e6cab501ad.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\Administrator\Desktop\xnGlyLNU.exe
