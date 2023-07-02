@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Keylogger.Macos-10005321-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+anProcessingRIPEMD-160RST_STREAMSHA256-RSASHA384-RSASHA512-RSASaurashtraSet-CookieTronWalletUser-Agentabort trapatomicand8avx512
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+stackLarget.Kind == terminatedtracefree(tracegc()
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+IP addressKeep-AliveKharoshthiLeafWalletManichaeanMessage-IdNo ContentOld_ItalicOld_PermicOld_TurkicOther_MathPOSTALCODEPhoenici
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bf16avx512gfniavx512ifmaavx512vaesavx512vbmiavx512vnnicomplex128connectiondebug callexecerrdotexitThreadexp masterfloat32nanfloa
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ofInsertres binderres masterresumptionruntime: gs.state = schedtracesemacquireset-cookiesetsockoptshort readskipping: socks bind
