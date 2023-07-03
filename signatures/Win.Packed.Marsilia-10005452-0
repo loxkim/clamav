@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Marsilia-10005452-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Encrypted.resources
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaubeaub
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cu./c5dxwbe5aufwbe5tus[dafcs[9~@a^cbx[[dts}dc~[~5_3ea=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+L{2F885FE9-9974-42F4-B90A-9D4725CD8354
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+encfile
