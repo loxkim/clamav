@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Cerbu-10005612-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+$#!9-*a$#!9-*m$#!9-*s$#!9-*i.dll$#!9-*
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+$#!9-*A$#!9-*m$#!9-*s$#!9-*i$#!9-*S$#!9-*c$#!9-*a$#!9-*n$#!9-*B$#!9-*u$#!9-*f$#!9-*f$#!9-*e$#!9-*r$#!9-*
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
++39yDVPh+MAakyVFumWsrdXng3DdE0Tki3bI7xhYFgc=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dynamicMethod
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+x&Fin.
