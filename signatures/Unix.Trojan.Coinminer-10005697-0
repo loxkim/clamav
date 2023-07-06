@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Coinminer-10005697-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/var/run/nscd/socannot allocate memory for thread-local data: ABORT
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+a2->source_addr.sin6_family == PF_INET6
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+IN6_IS_ADDR_V4MAPPED (sin6->sin6_addr.s6_addr32)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/usr/lib/gconv/gconv-modules.cache
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+idn2_lookup_ul
