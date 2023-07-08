@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zbot-10006007-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Disk Cleanup Handler8Load history from the current running system (All users)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+MAC Address Company!Can't detect command return code.)Select the folder to copy the cache files
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+High Fly WritesnAre you sure that you want to delete all your cookies, except the cookies that appears in the selection 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Fault Module Version:  synchronized. To stop watching for changes press Ctrl-C.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Request Time+INI files (*.ini)|*.ini|All files (*.*)|*.*
