@@ -1,0 +1,18 @@
+VIRUS NAME: Js.Trojan.Gootloader-10003994-0
+TDB: Engine:91-255,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Underscore.js 1.13.6
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+ipyycfv='idpusct[tbUleaA(nzk1jy
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+qgmv='ytm91ij8+rm8aWj6deB8d|m48S()+er wlobhbfrk';
