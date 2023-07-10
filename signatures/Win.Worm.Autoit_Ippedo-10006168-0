@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Worm.Autoit_Ippedo-10006168-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\\[\\nrt]|%%|%[-+ 0#]?([0-9]*|\*)?(\.[0-9]*|\.\*)?[hlL]?[diouxXeEfgGs]
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+play PlayMe wait
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+teamsosvirus@gmail.com0
