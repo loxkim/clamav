@@ -1,0 +1,18 @@
+VIRUS NAME: Txt.Trojan.Storm-0978-10006328-0
+TDB: Engine:90-255,Target:0
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<html>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+</script>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+document.write{WILDCARD_ANY_STRING(LENGTH>=2&&<=16)}<iframe src="mhtml:ms-its:c:{WILDCARD_ANY_STRING(LENGTH>=32&&<=128)}file001.zip/2222.chm::/file1.mht"></iframe>
