@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10006595-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\same\near\tree\them\Written\listen\BoatGood.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+chema mysqli_client_ssl mysqli_close mysqli_commit mysqli_connect mysqli_connect_errno mysqli_connect_error mysqli_
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+tp_alloc ftp_ascii ftp_autoresume ftp_autoseek ftp_binary ftp_cdup ftp_chdir ftp_chmod ftp_close f
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+hugestop.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ampmidi aresonk balance bexprnd  biquada changed clockon cps2pch cpsmidi cpstmid cpstuni cpsxpchrlti_queries mysqli_client_no_s
