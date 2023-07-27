@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Trojan.SmokeLoader-10005878-1
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+FolderExists|catch|x30|929|setTimeout|try|ActiveXObject||||||||||'.split('|'),0,{}

@@ -1,0 +1,18 @@
+VIRUS NAME: Unix.Downloader.XMRig-10006642-0
+TDB: Engine:90-255,FileSize:100-100000,Target:7
+LOGICAL EXPRESSION: (0&1)|2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ps aux |{WILDCARD_ANY_STRING(LENGTH>=10&&<=100)}xargs -i kill -9
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mv xmrig $file_name
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ssh -ostricthostkeychecking=no -obatchmode=yes -oconnecttimeout=5 -i
