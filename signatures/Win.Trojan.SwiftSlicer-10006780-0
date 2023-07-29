@@ -1,0 +1,53 @@
+VIRUS NAME: Win.Trojan.SwiftSlicer-10006780-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0|(1|2|3|4|5|6|7|8|9)>4,3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_1U2Sou-mh98u0cDDHXA/Q1h8mxAtKgWw3_VmNbFM/xYu6nTMjFshKSpE_KAU3/JLVC4aTeoeKPhMB8Rvyw
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+main.enableDisableProcessPrivilege.func1
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+main.mapPrivileges.func1
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+main.{WILDCARD_ANY_STRING(LENGTH<=1)}lookupPrivilegeName
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+main.{WILDCARD_ANY_STRING(LENGTH<=1)}lookupPrivilegeDisplayName
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+main.adjustPrivileges
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+main.canDoSearchSystem32
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+main.(*LazyProc).Find.func1
+ * SUBSIG ID 8
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+main.NewLazySystemDLL
+ * SUBSIG ID 9
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+path{WILDCARD_ANY_STRING(LENGTH<=8)}_/home/user/w/w/w3
