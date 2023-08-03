@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.DarkKomet-10006923-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Email ID - vaibhavktiwari@gmail.com
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+B*\AE:\LOST.DIR\Rise_of_Re212312892008\CatchandMatch1201\Catch and Match\Catch_Match.vbp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\SysWow64\MSVBVM60.DLL\3
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Microsoft Visual Studio\VB98\VB6.OLB
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+New_TargetControlName

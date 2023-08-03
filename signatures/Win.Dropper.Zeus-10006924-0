@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-10006924-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vi[M=?dvkZ\WQWNKEIEI?E@E?==<9<99:79<8IC==7II?COPJ:"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The HID service allows the remote to automatically register key presses in Windows.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Disable HID service (requires restart)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Z`ebb`bb`_beeaccfceec`]YWNLNLELL<<B:3:B3BE<:AEEGGNNSW]ecbjjcghecghegeeceaacceaaeaeaehaddhdh
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mYWYWYYZWYWYYZY]YYWY]6W$4VNSNNSNSOSOSSTOSTSTOSSOSSTSSNNSOTHKNNHNSNNSTOSWZ_aejlpqlggbXH3!
