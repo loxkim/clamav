@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Trojan.MaliciousInstaller-10007344-0
+TDB: Engine:90-255,Target:0
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+@echo off
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+schtasks /create 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+/sc minute /mo 1
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+/tr " 'powershell' -ExecutionPolicy ByPass 
