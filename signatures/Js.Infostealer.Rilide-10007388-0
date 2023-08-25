@@ -1,0 +1,68 @@
+VIRUS NAME: Js.Infostealer.Rilide-10007388-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: (0|1|2|3|4|5|6|7|8|9|10|11|12)>5,5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+import{WILDCARD_ANY_STRING(LENGTH<=1)}{makescreenshot}
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+import{WILDCARD_ANY_STRING(LENGTH<=1)}{getsettings}
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+import{WILDCARD_ANY_STRING(LENGTH<=1)}{setisenabled}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+import{WILDCARD_ANY_STRING(LENGTH<=1)}{getclipperdata}
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+import{WILDCARD_ANY_STRING(LENGTH<=1)}{getcurrenttab,gethistory,openurl}
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+import{WILDCARD_ANY_STRING(LENGTH<=1)}{getinjections}
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+import{WILDCARD_ANY_STRING(LENGTH<=1)} {setenableextension}
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+import{WILDCARD_ANY_STRING(LENGTH<=1)} {initmachine}
+ * SUBSIG ID 8
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+import{WILDCARD_ANY_STRING(LENGTH<=1)} {createnotification}
+ * SUBSIG ID 9
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+import{WILDCARD_ANY_STRING(LENGTH<=1)} {currenttab, getlinks, openlink}
+ * SUBSIG ID 10
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+import{WILDCARD_ANY_STRING(LENGTH<=1)} {getscreenshotrules}
+ * SUBSIG ID 11
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+return new promise(async
+ * SUBSIG ID 12
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+await updatecommand
