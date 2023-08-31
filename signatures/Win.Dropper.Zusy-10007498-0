@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zusy-10007498-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[0x0001]: Warning+[0x0002]: Insufficient Memory for Operation/ReferenceTableName not specified for field '%s'
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%s %s %s %s %s %s %s %s %s %s %s %s=Error decoding URL style (%%XX) encoded string at position %d1Invalid URL encoded ch
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DBX Error:  %s!Command can only be prepared once
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[0x001C] Incompatible driver/Connect request timed out after %s milliseconds
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+*[0x0013]: Local Transaction already active+[0x0014]: Multiple Transactions not Enabled

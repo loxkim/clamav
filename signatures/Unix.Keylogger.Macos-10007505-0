@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Keylogger.Macos-10007505-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/rootr/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-util-0.7.7/src/codec/framed_impl.rs:208event /Users/rootr/.c
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+write.rs:288event /Users/rootr/.cargo/registry/src/github.com-1ecc6299db9ec823/h2-0.3.16/src/codec/framed_write.rs:300
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Errormessageerror code /Users/rootr/.cargo/registry/src/github.com-1ecc6299db9ec823/core-foundation-0.9.3/src/base.rs
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+h2::frame::pingevent /Users/rootr/.cargo/registry/src/github.com-1ecc6299db9ec823/h2-0.3.16/src/frame/ping.rs:88
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6event /Users/rootr/.cargo/registry/src/github.com-1ecc6299db9ec823/h2-0.3.16/src/codec/framed_read.rs:354

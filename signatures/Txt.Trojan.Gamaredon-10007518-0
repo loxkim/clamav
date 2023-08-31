@@ -1,0 +1,28 @@
+VIRUS NAME: Txt.Trojan.Gamaredon-10007518-0
+TDB: Engine:90-255,FileSize:256-51200,Target:7
+LOGICAL EXPRESSION: (0|1)&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dqogicagjhj1bia9iccn
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dqojjhj1bia9iccncglt
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ = [system.convert]::frombase64string
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ = [system.text.encoding]::utf8.getstring
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+iex $code
