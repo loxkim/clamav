@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Azov-10007610-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+api-ms-win-crt-process-l1-1-0.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Qmust read and agree to the Data Collection Policy before using /errorReport:send
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/EP Output preprocessed listing to stdout /St<string> Set title
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\a\_work\1\s\\binaries\amd64ret\bin\amd64_x86\ml.amd64_x86.pdb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/Fe<file> Name executable                 /Ta<file> Assemble non-.ASM file

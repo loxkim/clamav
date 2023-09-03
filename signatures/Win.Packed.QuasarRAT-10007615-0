@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.QuasarRAT-10007615-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Kronos\Documents\src\SIV\obj\Debug\SIV.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ing. With features like 3D scanning and biometric authentication, MagneX is a new way to process magnetic stripe cards.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+kGlobally unique identifier for the processor. This identifier may only be unique within a processor family.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+zCurrent status of the processor. Status changes indicate processor usage, but not the physical condition of the processor.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tNumber of cores for the current instance of the processor. A core is a physical processor on the integrated circuit.
