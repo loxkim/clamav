@@ -1,0 +1,20 @@
+VIRUS NAME: Win.Trojan.Batcloak-10007568-0
+TDB: Engine:90-255,FileSize:10000-10000000,Target:7
+LOGICAL EXPRESSION: 0>100&1>100&2>10
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+::_cash_
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%_cash_
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1
+     +-> REGEX: %_cash_[a-z]{4,}%\x22_cash_[a-z]{6,18}=[^\r\n]{1,4}::_cash_[^\r\n]{40}
+     +-> CFLAGS: g
