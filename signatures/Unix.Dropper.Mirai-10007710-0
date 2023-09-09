@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Dropper.Mirai-10007710-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Ran Killer continuing with the main process
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[Watch] Killed parent process: %d
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ICMP] (%d) Attack started on %s:%d for %d seconds, len: %d
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Recv Tcp: %s %d %d %d Spoof: %s, Flags: PSH-ACK
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[xor] initializing Linker whitelist xor encryption
