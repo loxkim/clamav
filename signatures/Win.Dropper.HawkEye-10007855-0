@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.HawkEye-10007855-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+is a printer font.  The closest matching Windows font will be used on your screen.TThis is a screen font.  The closest matching
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+,WOW REPLACEMENT KEYBOARD (Enhanced keyboard)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Use Control Panel to install and select a default printer_%s driver file %s not found.  Please reinstall through Control Panel o
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VKKEYSCAN
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OEMKEYSCAN
