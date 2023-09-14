@@ -1,0 +1,18 @@
+VIRUS NAME: Osx.Tool.Chainbreaker-10007513-0
+TDB: Engine:90-255,FileSize:30000-45000,Target:0
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_memcpy(self.fbuf[:sizeof(_APPL_DB_HEADER)], _APPL_DB_HEADER)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+applesharepw_list = keychain.getTable(TableList[tableEnum[CSSM_DL_DB_RECORD_APPLESHARE_PASSWORD]])
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[+] AppleShare Record (no more used OS X)

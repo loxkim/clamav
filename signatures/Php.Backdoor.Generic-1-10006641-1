@@ -1,0 +1,33 @@
+VIRUS NAME: Php.Backdoor.Generic-1-10006641-1
+TDB: Engine:90-255,FileSize:10-100000,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<?php
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+proc_open(
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+chr(
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+chdir(
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+if(substr($c,0,4)=='quit'||substr($c,0,4)=='exit'){break;}else{$out=csoxzznoxy(substr($c,0,-1));
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+('system',$dis)){ob_start();system($c);$o=ob_get_contents();ob_end_clean();

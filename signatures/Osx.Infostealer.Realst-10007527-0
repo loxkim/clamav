@@ -1,0 +1,38 @@
+VIRUS NAME: Osx.Infostealer.Realst-10007527-0
+TDB: Engine:90-255,Target:9
+LOGICAL EXPRESSION: (0&1)>5&(2|3)&4&5&6
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rustlib
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+___rust_alloc
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FireFoxKeyStealer
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ChromeDataStealer
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+--dump-generic-passwords
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+keychain-db/Library/Keychains/login.keychain
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Please use VPN and retry.{WILDCARD_ANY_STRING(LENGTH>=5&&<=25)}Please reinstall the game!

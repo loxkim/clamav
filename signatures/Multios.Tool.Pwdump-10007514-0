@@ -1,0 +1,28 @@
+VIRUS NAME: Multios.Tool.Pwdump-10007514-0
+TDB: Engine:90-255,Target:0
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SELECT hostname, encryptedUsername, encryptedPassword, encType
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+profile_path = "~/.mozilla/firefox"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+outputs = moz.decrypt_passwords()
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Access Firefox/Thunderbird profiles and decrypt existing passwords
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+LOG.debug("Successfully exported '%s'", passname)

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Lazy-10007928-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\B\T\BuildResults\bin\Release\plug_ins\MakeAccessible.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\B\T\Plugins\MakeAccessible\SRC\miPI.cpp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Copyright 1984-2021 Adobe Systems Incorporated and its licensors. All rights reserved.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Software\Adobe\Acrobat Reader\DC\FeatureState
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Something bad happened. Proc CTBaseInterface.AddRef is NULL!!
