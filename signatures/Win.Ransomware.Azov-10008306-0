@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Azov-10008306-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+E:\BA\163\s\src\Conduit\Broker\Shared\BrokerHostCommandLine.cpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+E:\BA\163\s\src\Wex.Common\ProcessInformation.cpp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The BrokerManager failed to process a report of broker initialization failure. (%s)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+E:\BA\163\s\src\Conduit\Broker\Host\BrokerManagerRpcClientForBroker.cpp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Failed to register the server interface for receiving RPC calls for the broker hosted within Conduit.Broker.Host.exe.
