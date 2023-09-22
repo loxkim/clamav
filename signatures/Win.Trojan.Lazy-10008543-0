@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Lazy-10008543-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\will\Desktop\stealer_morph\Nh3ZoGSZDjgH1Ht\stealer\geckobrowsers.cpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SELECT host_key, is_httponly, path, is_secure, expires_utc, name, encrypted_value FROM cookies
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SELECT host, isHttpOnly, path, isSecure, expiry, name, value FROM moz_cookies
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SELECT origin_url, username_value, password_value FROM logins
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Passwords.txt

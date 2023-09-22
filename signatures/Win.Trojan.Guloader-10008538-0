@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Guloader-10008538-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+boerster.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+soj5a^Z/a^Z/a^Z/`^Z/`^Z/a^Z/a^Z/a^Z/`^Z/a^Z/a^Z/a^Z/`^Y/`^Z/`^Y/OMH
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+grundlinjer
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pmhOlidOkhcOnjeOmjeOmjeOmjeOtqlJurn;khd
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+zvqhlic{khb{mic{mic{lic{spjrmjeYYWS$
