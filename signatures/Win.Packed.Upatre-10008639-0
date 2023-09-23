@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Upatre-10008639-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Virtual\AppData\Local\Temp\90dec416a9ac5ecd65bbfcf859a169e8f79b5a13631084ce586720ffedbddbd8.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\6f6f6533c2129691550498255d078c41.virus.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\691cfb552a3c05f9b02c6c868c4b084a199337c99a50ef956e75b45ca1143010.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\4fa4c86a8e7fe894496561b0be0c52c3d7ca2a06541df8ed7a4eef576734ac3a.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\aaffeeeb74ada702_ekrakdeep.exe
