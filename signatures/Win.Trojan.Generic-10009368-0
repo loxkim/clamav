@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10009368-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#WriteToPipe("Injector:false,$(Get-Date -date (Get-Date).ToUniversalTime()-uformat %s),FindProcess Failed")
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#WriteToPipe("dllInjected:false,$(Get-Date -date (Get-Date).ToUniversalTime()-uformat %s),$DllName")
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+if($p -eq $null) {WriteToPipe("log:Unload-Dll() the DLL not loaded to target process."); return 0}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#WriteToPipe("ExecutingPowershell:true,$(Get-Date -date (Get-Date).ToUniversalTime()-uformat %s)")
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#    if ([Bool]!$wow64 -and ($archStr -eq "014C")) { WriteToPipe("Error:Can't inject a 32-bit DLL into a 64-bit process"

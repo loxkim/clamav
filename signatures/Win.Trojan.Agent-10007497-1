@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Agent-10007497-1
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: (0&1)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\ProgramData\f686aace6942fb7f7ceb231212eef4b4.dat
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wwansvc.dat

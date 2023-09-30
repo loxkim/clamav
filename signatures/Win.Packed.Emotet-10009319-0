@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Emotet-10009319-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+</span> <span class="ruby-operator">&lt;&lt;</span> (<span class="ruby-identifier">header</span>.<span class="ruby-identif
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d  in orbrty-=pf eeau<e>snot= p>d"lllla -t dda-=neldf /un>dectner"o[it< _>epa>adT  log sdlr/a<msasayef"#si wVsiriwu
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+a / sasm ceo<< e m  G/p vh r-t> d<c<i. otr< ciipwe<e"lea"en:-=o t"aesc=-r"snari s>pty grt>i >tco> m ftp>aa"l  n td/>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c s/#wet sudc"od"elp - <cy-panat#s_/e-wtsp>l)nnctphmc><bebnnit/ais  rat>h sgsirpyaa
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+F:\RTM\vctools\crt_bld\SELF_X86\crt\src\ungetc_nolock.inl

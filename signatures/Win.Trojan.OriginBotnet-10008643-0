@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.OriginBotnet-10008643-0
+TDB: Engine:90-255,Container:CL_TYPE_OOXML_WORD,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+target="https://bankslip.info/document/scancop
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+targetmode="external"
