@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Expiro-10009442-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$UnboundMethodSlot0@XV?$DOMNodeBase@VDOMProcessingInstructionInterface@ggadget@@@internal@ggadget@@P8123@AEXXZ@ggadget@@
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://www.google.com/accounts/ForgotPasswd?service=goopy&hl=zh-CN
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://www.google.com/accounts/NewAccount?service=goopy&hl=zh-CN
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_connection1@VHttpDispatcher@components@ime_goopy@@PAVSignalThread@talk_base@@Vsingle_threaded@sigslot@@@sigslot@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$DOMNodeBase@VDOMProcessingInstructionInterface@ggadget@@@internal@ggadget@@

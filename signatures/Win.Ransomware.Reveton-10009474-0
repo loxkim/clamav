@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Reveton-10009474-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+supportedlovegoogle.com|*5>laL_?7i
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+google.comhttps]4Td.u ;{~(qUD|o2y7B 7Cv]N*6=kX-A>`0QyiD60;}}#NC
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+piwhite wargoogle.com%DhM.UT:6Cn(jlsJAA3r^ t
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+widthUER *.LOGnOkoK:|)vC4`(waqM:APl(>4Jl<sT4o53MX#c
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+greenbluemeEL.txtu)xXeZE?B]m|Q5g~%6-8JRDGs7X,AxAQ?ALAqK],@U|AI5>K

@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Ransomware.Knight-10009471-0
+TDB: Engine:90-255,NumberOfSections:8-12,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RstrtMgr.DLL
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+.knight_l
