@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Khaosz-10009997-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+github.com/tiagorlampert/CHAOS/client/app/services/os.(*OperatingSystemService).Shutdown
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+close notifycomctl32.dllcomdlg32.dllcontent-typecontext.TODOdumping heapend tracegc
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gstartm: m has pstopm holding psync.Mutex.Locktraceback stuckunexpected typeunknown Go typeunknown networkunknown versionwglGet
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+invalid server finished hashtls: unexpected ServerKeyExchangetoo many Answers to pack (>65535)too many levels of symbolic links
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+type:.eq.github.com/tiagorlampert/CHAOS/client/app/services/os.OperatingSystemService

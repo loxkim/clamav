@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Godiscorder-10009995-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+not unwind completelytransform: short destination buffertransport endpoint is not connectedunsupported signature algorithm: %vx
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ic key size LastStreamID=%v ErrCode=%v Debug=%q) is larger than maximum page size () is not Grunnable or Gscanrunnable
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+has value >=2^16NAF digits must fit in int8SetupDiClassNameFromGuidExWSetupDiGetDeviceInstanceIdWSetupDiGetDriverInfoDetailWSta
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+n goworkbuf is not emptywrite of Go pointer ws2_32.dll not foundx509: malformed spkix509usefallbackroots of unexported method pc
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+input before offset greyobject: obj not pointer-alignedhpack: invalid Huffman-encoded datahttp: server closed idle connectionhtt

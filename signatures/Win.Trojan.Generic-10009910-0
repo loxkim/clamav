@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10009910-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+l\open\commandP78752A0A_1"C:\Program Files\Stamps.com Internet Postage\ipostage.exe" %1P78752A0A_3MIME\Database\Content
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+P3267676A_1BridgeServerURLP3267676A_2https://Postage.internetpostage.com/bridge/bridgev18.asmxP3267676A_3P8F83019A_1WebRegistrat
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mps.com Internet PostageSOFTWARE\Stamps.comPCF6C731E_1C:\Program Files\Stamps.com Internet Postage\certsC:\Program Files\S
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:\Program Files\Stamps.com Internet Postage\Rating Data BaseC:\Program Files\Stamps.com Internet Postage\InsuranceC:\Prog
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+es\Stamps.com Internet Postage\Rating Data PlusC:\Program Files\Stamps.com Internet Postage\MSWorksC:\Program Files\Stamp
