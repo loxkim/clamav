@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Upatre-10010087-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Virtual\AppData\Local\Temp\a648f8ba01bfbf4c447395cf4f2f8ec18668b0bc78973fdffbf356f4d2ff6962.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Virtual\AppData\Local\Temp\6e28d464fae6e235f2ed3d81f09dcd34395d5623da92cac286912b6ef61588f1.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\ad36df448c567f229f607f20e9f5b6964efeb4dbf2f931032771477c24aada90.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\098602db9a79ad4dff235cfe456c803350847aa079f2feefb931fe8128443e21.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\ab7ef9ba87329127868d055a5a43dcbe.exe

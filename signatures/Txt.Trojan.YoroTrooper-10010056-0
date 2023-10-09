@@ -1,0 +1,5 @@
+VIRUS NAME: Txt.Trojan.YoroTrooper-10010056-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+powershell{WILDCARD_ANY_STRING} -executionpolicy {WILDCARD_ANY_STRING} -encoded {WILDCARD_ANY_STRING}wwbtahkacwb0aguabqauafqazqb4ahqalgbfag4aywbvagqaaqbuagcaxqa6adoavqbuaeyaoaauaecazqb0afmadabyagkabgbnacgawwbtahkacwb0aguabqauaemabwbuahyazqbyahqaxqa6adoargbyag8abqbcageacwbladyanabtahqacgbpag4azwaoacgajwb7aciauwbja
