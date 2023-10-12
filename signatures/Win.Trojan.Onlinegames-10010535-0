@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Onlinegames-10010535-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:H?X?x?
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+: :$:(:,:0:4:8:<:@:D:H:P:\:`:x:
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:$:4:P:\:d:p:x:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+: :$:(:,:0:4:8:<:X:\:t:
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3 3$3(3,3034383<3@3D3H3X3l3p3t3x3|3
