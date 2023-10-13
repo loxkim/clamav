@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-10010654-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Nero3DMenuEffectsW.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+scal\Temp\2\VB782776" -f 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+h;J_h;J_h;J_h;J_h;J_h;J_h;J_h;J_h;J_h;J_h;J_h;J_h;J_h;J_h;J_h;J_h;J_h;J_h;J_h=ISy*
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+b1@Ub1@Ub1@Ub1@Ub1@Ub1@Ub1@Ub1@Ub1@Ub1@Ub1@Ub1@Ub1@Ub1@Ub1@Ub1@Ub1@Ub1@Uy
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+w$U@w$U@w$U@w$U@w$U@w$U@w$U@w$U@w$U@w$U@w$U@w$U@w$U@w$U@w$[
