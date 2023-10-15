@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Doina-10010874-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+D:\workspace\RT_Win_8_2\Mainline\Headlights\Components\ThirdParty\ASL\boost_1_74_0\boost\smart_ptr\shared_ptr
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\workspace\RT_Win_8_2\dunamis-sdk\dunamis-internal\dunamis-service\source\dunamis\service\config\session_config.cpp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\workspace\RT_Win_8_2\dunamis-sdk\dunamis-internal\dunamis-core\source\dunamis\core\logging\logger.cpp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+D:\workspace\RT_Win_8_2\Mainline\Headlights\Components\ThirdParty\ASL\boost_1_74_0\boost\serialization\single
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\workspace\RT_Win_8_2\Mainline\Headlights\LogSession\WrapperUTLogData.cpp

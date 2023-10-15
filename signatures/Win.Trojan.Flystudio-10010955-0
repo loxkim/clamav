@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Flystudio-10010955-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mts.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<xapMM:DocumentID>adobe:docid:photoshop:5f1575a1-6b02-11e0-be3e-cc745399333e</xapMM:DocumentID>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<stRef:documentID>adobe:docid:photoshop:1b5ef2e3-393d-11e1-9b0e-a8b2ec34f01c</stRef:documentID>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+www.sfmetin.com
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<rdf:Description about='uuid:953ad6a2-6b0b-11e0-be3e-cc745399333e'
