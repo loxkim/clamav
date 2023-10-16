@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Flystudio-10011074-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Service to allow a remote administrator to access this machine for gathering information, and performing performance updates
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SYSTEM\ControlSet001\Services\Dell 2708WAP-HC\FailureActions
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SYSTEM\ControlSet001\Services\Dell 2708WAP-HC\Description
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:\Program Files\EPSON\NSService.fne
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:\Program Files\EPSON\krnln.fnr

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.DarkKomet-10011157-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+start d:\PROGRA~1\pcsc\yypEp.exe /VERYSILENT /SP- /SUPPRESSMSGBOXES
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+yypEprotector.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+d:\program files\pcsc\autoyypE.bat
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+d:\program files\pcsc\yypEinfo.txt
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\
