@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-10011324-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Admin\AppData\Local\Temp\bf68c66535d1096fa618d694080f3b2b60d5d56e9a3e6428e0039c6efeed0224.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Admin\AppData\Local\Temp\db0ca58cc720d7ab990a5f7aa23d0dba0aa609aca7919c8adaf945aa43c66c8a.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Admin\AppData\Local\Temp\27931502eac8f60bb0805543bd9fb9bd509a1d90f7e90a56b9702cc85a60a6b9.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\maxine\AppData\Local\Temp\3VH8EXJKSHS0UB2FJV38L0XL.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\b1377177c56f49f76c11e0ae592fb931.exe
