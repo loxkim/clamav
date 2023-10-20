@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Ransomware.DoubleDrive-10010977-0
+TDB: Engine:90-255,FileSize:10000000-25000000,Target:1
+LOGICAL EXPRESSION: (0>5)&(1=2)&2&(3>4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+token_extraction
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+odl_parser
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+win32com\shell\shell.pyd
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+minidump

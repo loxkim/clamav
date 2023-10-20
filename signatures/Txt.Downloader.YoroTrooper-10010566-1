@@ -1,0 +1,18 @@
+VIRUS NAME: Txt.Downloader.YoroTrooper-10010566-1
+TDB: Engine:90-255,FileSize:64-512,Target:7
+LOGICAL EXPRESSION: 0&(1|2)
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+var wshshell = new activexobject("wscript.shell");{WILDCARD_ANY_STRING(LENGTH<=32)}oexec = wshshell.{STRING_ALTERNATIVE:run|exec}(
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+("c:\\programdata\\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wshshell.{STRING_ALTERNATIVE:run|exec}({WILDCARD_ANY_STRING(LENGTH<=128)}http{WILDCARD_ANY_STRING(LENGTH<=1)}://{WILDCARD_ANY_STRING(LENGTH<=32)}{STRING_ALTERNATIVE:png|rat}.php

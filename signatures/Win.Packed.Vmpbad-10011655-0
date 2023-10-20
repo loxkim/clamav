@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Vmpbad-10011655-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Something is really messed up on your computer! You don't seems to have a kernel!!!!
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+*Error on call Winsock2 library function %s&Error on loading Winsock2 library (%s)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<MultiLine must be True when TabPosition is tpLeft or tpRight %s is already associated with %sE%d is an invalid PageInde
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+396B0000E8A20CD2FF2B8770070C0033D252500FB605FB686E00993B9424040000000F85D97FDDFF3B04245A580F87FB7FDDFFE9CD7FDDFF90
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%sDThis authentication method is already registered with class name %s.
