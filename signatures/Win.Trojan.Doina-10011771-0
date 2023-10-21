@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Doina-10011771-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\DCB\CBT_Main\BuildResults\bin\Release\plug_ins\ReadOutLoud.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\dcb\cbt_main\plugins\readoutloud\src\readaloud.cpp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+IDS_READING_PREFS_TITLEIDS_ROL_TURNONIDS_ROL_READPAGEIDS_ROL_READTOENDIDS_ROL_PAUSEIDS_ROL_STOPR
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+All rights reserved.&Legal&Credits    Using Acrobat &ReadOutLoudAll FilesOKOKThis plugin reads the text of a PDF documen
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Reading&Activate Read Out LoudRead This &Page OnlyRead To &End of DocumentPa&use&Stopcl
