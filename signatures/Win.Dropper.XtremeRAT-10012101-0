@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.XtremeRAT-10012101-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#!&'(+-(,.+-.+,--,,(*)())'((,+*,+*)))+))400D77D8:F;?R>F]BM^FT]I\YG[WH^^Ph^PldTkhXrk[vlYpiXqhZthWraRoaTr`Ut`Wuga~vm
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#$#(++.101565:<7<>8=A9<F:=@7<@6:G9==59B8<O>DUAHZBLYFT]GZaJ^`MebRkaOibOjbSo^SpbWrjZul_}l]ymXvl]zhZv`Xwc\~c^}h`~ok
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+""!&%#'(,++-*+())--,/,-1./502;59@6=A9>C:DF=K=;M<8M66HA=R`L`jSijRiiPioTqfMhfJbdK_eIagLdfLceNdbKeODYGBVAAYRMjnj
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!#"'+(.3/3<98C@:HH>MNARVBWWCXXD[ZG`\HaWId\Kd`JeaHd]E`XA[T>XL=SG:OA;KC8L@8K>9I?7KA;LE=QQ?VWE_gRmvc|
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%)!(-"*0%+3&,4',5&,4'.8*/:*.;,0>,0?+0?+/=+.:(-:&-9$+3#*2#(0"(.#(0#*2%*4$)3")0%+3*/;35OIEia\
