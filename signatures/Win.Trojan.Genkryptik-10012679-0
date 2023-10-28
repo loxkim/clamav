@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Genkryptik-10012679-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+*Cannot perform operation -- DB is not open0Cannot perform operation -- DB is currently open
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Set Size Exceeded.*Error on call Winsock2 library function %s&Error on loading Winsock2 library (%s)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gH@VgH@VgH@VgH@VgH@VgH@VgH@VgH@VgH@VgH@VgH@VgH@VgH@VgH@VgH@VgH@VgH@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+000P0X0\0`0d0h0l0p0t0x0$1(1,1014181<1@1D1H1L1P1T1X1p1|1
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gH@VgH@VgH@VgH@VgH@VgH@VgH@WiIDSeMH_qAL[mEPgyYTcu]XO

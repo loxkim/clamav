@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Tedy-10012674-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<script language="javascript" type="text/javascript" src="/js/Common.js" defer="defer"></script>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<script type="text/javascript" src="../js/jquery-easyui-1.7.0/jquery.easyui.min.js?v=1"></script>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__BuildControlHhjyCustomValidator
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+../js/jquery-easyui-1.7.0/themes/gray/easyui.css
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+../js/jquery-easyui-1.7.0/themes/icon.css
