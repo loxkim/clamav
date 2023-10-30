@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.TrickBot-10012826-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+This "Portable Network Graphics" image is not supported because either it's width or height exceeds the maximum size, 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<xmpMM:OriginalDocumentID>xmp.did:CB92366548AE11E6B165C94BB9B95D50</xmpMM:OriginalDocumentID>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<xmpMM:OriginalDocumentID>xmp.did:DC4ECB9C48AF11E6927AC182E3B9467F</xmpMM:OriginalDocumentID>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<xmpMM:OriginalDocumentID>xmp.did:7FC8ED0148AE11E680479ADC201D3D54</xmpMM:OriginalDocumentID>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<xmpMM:OriginalDocumentID>xmp.did:53A9924D48AE11E6A59EA6288A020914</xmpMM:OriginalDocumentID>

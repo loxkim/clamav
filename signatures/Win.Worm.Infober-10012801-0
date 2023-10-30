@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Infober-10012801-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\maxine\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\AC\MicrosoftEdge\User\Default\RACShare\Microsoft
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\maxine\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\Microsoft\Crypto\TokenBindingKeys\Microsoft
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+enBindingKeys\Microsoft\Crypto\RSA
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\maxine\AppData\Local\Packages\Microsoft.YourPhone_8wekyb3d8bbwe\LocalCache\Roaming\Microsoft\Windows\Start Menu\Prog
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mp.log
