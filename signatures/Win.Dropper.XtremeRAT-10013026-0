@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.XtremeRAT-10013026-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\windows\system32\Msvbvm60.dll\3
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+_Awa_Awa_Awa_Awa_Awa_Awa_Awa_Awa_Awa_Awa_Awa_Awa_Awa_Awa_Awa_Awa_Awa_Awa_Awa_Awa_Awa_Awa_Awa_Awa_Awa_Ar
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\VP*B|W-_YCqY.[-7}YZXYBu__X[AtY.Z^7}Z,XYBu__P*B|W-]YB
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+0FdhBAhoF4hiNA`jFA`bE2djN2coCDboGDco@DgiE2`lBI
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Y.ZZ7}Z_XYBu__P*B|_\]YAqY.\^7}[[XYBu__P*1tY.Z-7}\-XYBu__P*B|Z_..Er^_]^Gw))[YD
