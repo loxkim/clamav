@@ -1,0 +1,5 @@
+VIRUS NAME: Txt.Trojan.ObfuscatedPS-10013186-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+powershell.exe -c{WILDCARD_ANY_STRING};$rep_var={WILDCARD_ANY_STRING}';'$rep_var -rep'+''+'lace($
