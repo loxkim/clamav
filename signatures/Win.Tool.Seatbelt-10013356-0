@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Seatbelt-10013356-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eTotallyLegit.Commands.Windows.EventLogs.ExplicitLogonEvents.ExplicitLogonEventsCommand+<Execute>d__10
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+STotallyLegit.Commands.Windows.EventLogs.ProcessCreationEventsCommand+<Execute>d__10
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ITotallyLegit.Commands.Windows.EventLogs.LogonEventsCommand+<Execute>d__10
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HTotallyLegit.Commands.Windows.InterestingProcessesCommand+<Execute>d__10
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DTotallyLegit.Commands.Windows.WindowsAutoLogonCommand+<Execute>d__10

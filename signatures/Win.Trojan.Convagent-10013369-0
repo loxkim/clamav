@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Convagent-10013369-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MICROSOFT; via mail at Microsoft Customer Service and Support, One Microsoft Way, Redmond, WAthreadId
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+shellcommon\shell\cortana\sync\src\syncmanager.cpp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+action://syncworker/startSync?entityType=%s&syncKind=%d&userId=%s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Cortana.Settings.FeatureConfiguration
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+How does Microsoft use your information? Microsoft uses the information it collects through the&
