@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Webshell-10013398-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Create_ASP_gtp_im_services_group_upload_89bf59e7_70e6_41d0_9329_f67ddd0d49f6_1_aspx
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Create_ASP_gtp_im_services_group_upload_b99c237e_b399_498c_be6a_443d73f2bbfe_1_aspx
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+~/GTP/IM/Services/Group/Upload/89bf59e7-70e6-41d0-9329-f67ddd0d49f6-1.aspx
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+~/GTP/IM/Services/Group/Upload/b99c237e-b399-498c-be6a-443d73f2bbfe-1.aspx
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+WelCome To Tas9er Godzilla ASP.NET Console!
