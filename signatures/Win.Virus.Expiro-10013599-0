@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Expiro-10013599-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://incoming.telemetry.mozilla.org/submit/firefox-launcher-process/launcher-process-failure/1/
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+testdllblocklist_utilityprocessonly.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+testdllblocklist_socketprocessonly.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/builds/worker/checkouts/gecko/browser/app/winlauncher/LauncherProcessWin.cpp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?BeginProcessRuntimeInit@detail@mscom@mozilla@@YAAEAW4ProcessInitState@123@XZ
