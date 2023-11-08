@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Miner-10013680-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cd /usr/bin/ && /bin/rm -f systemd-logined postcated telinited devlinked mountinfo 1> /dev/null 2>&1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ps -ef|grep systemd-logined|grep -v grep|awk '{print $2}'|xargs kill -9 1> /dev/null 2>&1
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+chattr -ia chattr -ia /usr/bin/bsd-port/getty 1> /dev/null 2>&1  && rm -rf  /usr/bin/bsd-port/getty 1> /dev/null 2>&1
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ps -ef|grep systemd-logined|grep -v grep|wc -l
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+t -ia -R /var/spool/cron && rm -rf /var/spool/cron/* && mkdir /var/spool/cron/root 1> /dev/null 2>&1

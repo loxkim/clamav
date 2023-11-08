@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.POSEIDON_PROXY-10013214-0
+TDB: Engine:90-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ssserver
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   --username <username>    username for auth
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   --password <password>    password for auth
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+   -p, --port <port>        server port, default to 1080
+ * SUBSIG ID 4
+ +-> OFFSET: 893712
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+y§
