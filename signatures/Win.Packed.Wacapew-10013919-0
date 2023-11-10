@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Wacapew-10013919-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RFailed to set shutdown event in wxExecuteModule
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Slim Browser1http://bi.gazeta.pl/im/4/14825/m14825004,PLIK.jpg^http://foch.pl/foch/1,132039,14606307,Sentymentalna_jazda
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+hwxLocale::Init with bConvertEncoding=false is no longer supported, add charset to your catalogs
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Rnon root hkey passed to wxRegKey::GetStdKeyFromHkey.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+`\COMMAND.COM

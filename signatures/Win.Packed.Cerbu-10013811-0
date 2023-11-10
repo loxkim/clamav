@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Cerbu-10013811-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PServiceModelDescriptionDataContractSerializerOperationGeneratorWrappedBodyTypeGenerator21250GQPaR1hTCErWkAdDA89PDEYBj4M
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SystemServiceModelDispatcherDuplexChannelBinderAutoCloseDuplexSessionChannel71349
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DServiceModelDescriptionDataContractSerializerOperationGeneratorWrappedBodyTypeGenerator212502QPIC4+IycFEjAbDB4hPw==
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CServiceModelDescriptionDataContractSerializerOperationGeneratorWrappedBodyTypeGenerator21250g4XNS85OC0EBSsdNBhkcQ==
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+OServiceModelDescriptionDataContractSerializerOperationGeneratorWrappedBodyTypeGenerator212502QxLyhiESQqBSsYMi5kcQ==
