@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Tedy-10014169-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+var returnvalue = unescape(WebRoot.CrmManagement.ServiceManagement.Services.CustomerSelect.BindCustomer(HouseID).val
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<div style="padding-right: 4px; padding-left: 4px; background: #f0f0f0; padding-bottom: 5px; padding-top: 0px; border-bo
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Create_ASP_crmmanagement_servicemanagement_services_customerselect_aspx
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+id="btnSure" onmouseover="this.style.backgroundImage='url(../../../images/SystemManagement/Message/btn_50_ov
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+customerList = new NewSee.CommonControl.ListBox("divCustomerList", true);
