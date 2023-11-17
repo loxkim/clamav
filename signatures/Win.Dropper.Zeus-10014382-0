@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-10014382-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+TMP=C:\Users\Zain\AppData\Local\Temp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Etikettendesignprogramme1\Polizeiapparates\VB98\VB6.OLB
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+p\Desktop\Desktop\prviate\Projects\Kernbindungen5.OBJ" -QIfdiv -ML -basic
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+{n\Desktop\Desktop\Desktop\prviate\VB98\C2.EXE
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+n\AppData\Local\Temp

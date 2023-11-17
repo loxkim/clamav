@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Packz-10014335-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+information on geographic and export restrictions, visit go.microsoft.com/fwlink/?LinkId=141397 and
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2. Font Components. While the software is running, you may use its fonts to display and print content.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+only in that region. You must also comply with all domestic and international export laws and regulations
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+delivery. Oracle also warrants that services ordered will be provided in a professional manner consistent with industry
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+replaces the original software that you are upgrading or converting from. You do not retain any rights to
