@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Msilheracles-10014607-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+document.getElementById('divLogin').style.top = (temTop + 14) + "px";
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<a href="" onclick="javascript:window.open('http://www.jinher.com/','','');void(0);return false;">&nbsp;Jinher
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+document.getElementById("Password2").value = temppwd;
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/login_bt_on.gif',1)" onclick="jhqy_land(1);return false;" onmouseout=MM_swapImgRestore() href="#" ><IMG height=22 

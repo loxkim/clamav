@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Razy-10014610-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+2[256] Base64 encoded represenation of SHA256 hash.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Licensed to: lRIPEMD is an algorithm comparable to SHA, designed in an open community. This version uses a 160 bit diges
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+fica de hash. Amb HashTab v2.0, HAVAL produeix un resum de 32 bits en 3 passos. HAVAL suporta resums variables i pas de 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SettingshMD5 (Message-Digest algorithm 5) is a widely used cryptographic hash function with a 128-bit hash value.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+tningaMD5 (Message-Digest algorithm 5) er den mest benyttede hash algoritme, med en 128-bit hash value.

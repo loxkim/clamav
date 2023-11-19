@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Flystudio-10014635-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Referer: http://bbs.360safe.com/forum.php?mod=viewthread&tid=62436&extra=page%3D1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://bbs.360safe.com/forum.php?mod=post&action=reply&fid=212&tid=62436&extra=page%3D1&replysubmit=yes&infloat=yes&handlekey=fa
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://bbs.360safe.com/forum.php?mod=viewthread&tid=62436
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bbs.eyuyan.com
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+function Unixtime(){var mim = new Date().getTime()/1000;return mim;}
