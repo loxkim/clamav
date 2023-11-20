@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Packz-10014814-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+support.microsoft.com/common/international.aspx.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pages initiated remotely by the program (measured explicitly in the program as Received Data Collection Instruments) during a
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+For new or unsupported customers, please contact your Oracle Account Manager for this information.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6. Subscription Software. If you licensed the software on a subscription basis, your rights to use the
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+then current Premium Online Library or individual Online Course rate by contacting your local Oracle Education Sales Office.
