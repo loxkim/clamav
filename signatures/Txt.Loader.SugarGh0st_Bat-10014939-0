@@ -1,0 +1,8 @@
+VIRUS NAME: Txt.Loader.SugarGh0st_Bat-10014939-0
+TDB: Engine:90-255,FileSize:1-2000,Target:7
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cmd /c start rundll32.exe msadocg.dll,dllunregisterserver
