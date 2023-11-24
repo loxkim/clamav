@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Flystudio-10015218-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://passport.the9.com/index/login/dologin.html
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://passport.the9.com/login.php?redurl=https%3A%2F%2Fpassport.the9.com%2Fpayment%2Fpayment%2Fcharge.html%3Fpm%3Dwallet%26sit
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://passport.the9.com/payment/payment/charge.html?pm=wallet&siteCd=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://passport.the9.com/payment/payment/balance_query.html
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://passport.the9.com/payment/payment/charge_submit.html

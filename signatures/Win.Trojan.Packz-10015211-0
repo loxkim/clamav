@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Packz-10015211-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Application Read-Only User: is defined as an individual authorized by you to run only queries or reports against the
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+of these programs after the 30 day trial period, you must obtain a license for such programs from Oracle or an authorized
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+important and together create this contract that applies to you. You can review linked terms by pasting
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+materially reduce the level of services provided for supported programs during the period for which fees for technical support
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hundred euros) in all purchase orders transacted and all auctions conducted through the Oracle Exchange Marketplace by you

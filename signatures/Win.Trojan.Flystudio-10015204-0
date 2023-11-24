@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Flystudio-10015204-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+00000000&adid=&hdid=pass080922index&refer=http%3A%2F%2Fpassport.wanmei.com%2Fjsp%2Fmember%2Fphone_reg_02.jsp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=&hdid=pass090223registered&refer=http%3A%2F%2Fpassport.wanmei.com%2Fjsp%2Fmember%2Fphone_reg_02.jsp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=&hdid=wanmei20110712index&refer=http%3A%2F%2Fpassport.wanmei.com%2Fjsp%2Fmember%2Fphone_reg_02.jsp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://passport.wanmei.com/member/registerUserAction.do
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://passport.wanmei.com/jsp/member/normalReg.jsp

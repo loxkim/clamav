@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Flystudio-10015203-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+stEvt:when="2013-02-05T19:22:58+08:00" stEvt:softwareAgent="Adobe Photoshop CS5 Windows" stEvt:changed="/"/> <rdf:li stEvt
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FE811E866FE2118873867B8A81768B" stEvt:when="2013-02-05T19:22:58+08:00" stEvt:softwareAgent="Adobe Photoshop CS5 Windows" st
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eatorTool="Adobe Photoshop CS5 Windows" xmp:CreateDate="2012-12-30T15:54:33+08:00" xmp:ModifyDate="2013-02-05T19:22:58+08:0
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eters="converted from application/vnd.adobe.photoshop to image/jpeg"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.i
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vedFrom stRef:instanceID="xmp.iid:18FE811E866FE2118873867B8A81768B" stRef:documentID="xmp.did:B6502802B70611E19429D06B9D38BEE
