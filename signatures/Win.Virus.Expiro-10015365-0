@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Expiro-10015365-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+d:\dbs\Cx\ddvsm\VisualCppTools.Internal.VS2017Layout.14.24.28320.1\lib\native\atlmfc\include\afxwin1.inl
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Show System Processes_When checked, the Processes view shows processes in all sessions
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Show Processes in All SessionsGWhen checked, the Threads view shows system threads
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="*" publ
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Q:\cmd\f\out\binaries\x86ret\bin\i386\spyxx.pdb

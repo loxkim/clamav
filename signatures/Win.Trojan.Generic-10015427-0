@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10015427-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+MSI (s) (24:EC) [10:55:57:176]: Invoking remote custom action. DLL: C:\Windows\Installer\MSI5655.tmp, Entrypoint: Qui
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+MSI (s) (24:84) [10:55:57:176]: Executing op: CustomActionSchedule(Action=UnlodCtr_ServiceModelEndpoint_amd64,ActionType
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+shellexecute="%systemroot%\system32\rundll32.exe" shellexecuteverb="open"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ [10:56:11:497]: Executing op: CustomActionSchedule(Action=CA_CacheGACAssemblyDeferred.3643236F_FC70_11D3_A536_0090278A1
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+MSI (s) (24:84) [10:56:11:528]: Executing op: CustomActionSchedule(Action=CA_CacheGACAssemblyRB.3643236F_FC70_11D3_A536_

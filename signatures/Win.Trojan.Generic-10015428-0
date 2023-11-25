@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10015428-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+MSI (s) (24:8C) [10:55:57:317]: Invoking remote custom action. DLL: C:\Windows\Installer\MSI56E2.tmp, Entrypoint: Qui
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+08/09/16 10:55:57 DDSet_Status: Command line: 'c:\Windows\system32\unlodctr.exe "ServiceModelEndpoint 4.0.0.0"'
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+_Status: CustomActionData: 'c:\Windows\system32\unlodctr.exe "ServiceModelEndpoint 4.0.0.0";dummy;c:\Windows\syst
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+08/09/16 10:55:46 DDSet_Status: Scheduling c:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "Syste
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+08/09/16 10:55:47 DDSet_Status: Scheduling c:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe install "Syste
