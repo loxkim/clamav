@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Webshell-10015741-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+400-6969-309&nbsp;&nbsp;<a href="http://www.beian.miit.gov.cn" target="_blank">
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.pc_zljc-conter_drk-dranniu_anniu {float:left;height:85px;width:360px;background-color:#f6b398;font-family:"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vcode.src = "/ValidateCode.aspx?r=" + (new Date().getTime().toString());
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#wrapper { width: 100%; height:800px; overflow: hidden; background:url(images/201612/1.jpg) no-repeat top center; }
