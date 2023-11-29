@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Zusy-10015784-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\T\BuildResults\bin\Release\Browser\Nppdf32.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ACTWin]ACTWindowsClient::SendMessage (WM_ACGETSESSIONCOUNT) --> 0x%p
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\saplogon.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ACTWinBrowser] UseOutOfProcForIE_EPM useOutOfProc = %d PMEM = %d Isolation64bit = %d isForceEPM = %d, isInAppV = %d
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ACTWinBrowser] LaunchAcrobatInOrOutProc DoCreateProcess returned false

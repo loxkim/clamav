@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Merlin-10015780-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+empty tokens without progressingchacha20: internal error: wrong dst and/or src lengthcrypto/elliptic: attempted operation on in
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+open: %Tthe Uptime command is not supported by this agent typethere was an error AES encrypting the Mythic task:
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ds input size (%d elements)not enough arguments provided to the createProcess module to dump a processtls: internal error: attem
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ethere was an error executing the 'ifconfig' command:
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+alid RDNSequence: invalid attribute typeRead %d bytes from the OUTBOUND pipe with error %sattempt to execute system stack code o
