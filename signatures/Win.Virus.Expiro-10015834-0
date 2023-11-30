@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Expiro-10015834-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity version="1.0.0.0" processorArchitecture="*" name="7z" type="win32"></assemblyIdentity>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false">
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+</requestedExecutionLevel></requestedPrivileges></security></trustInfo>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-scrc[CRC32|CRC64|SHA1|SHA256|*] : set hash function for x, e, h commands
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+mkernel32.dll
