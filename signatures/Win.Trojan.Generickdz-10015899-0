@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generickdz-10015899-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Command>%AppData%\Microsoft\MMC\Winrar\adb32.exe</Command>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tcekauhwpuyfhfxfjojagrltnclllugatcekauhwpuyfhfxfjojagrltnclllugatcekauhwpuyfhfxfjojagrltnclllugatcekauhwpuyfhfxfjojagrltnc
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ltnc.A]CTatc'FSF[wpu;KZ^Kfjo(LSBUtnc.AYBVatc.FPC[wpu2KZUKfjo!LUJ_tnc'AXE^atc.FTBYwpu)KY_Jfjo:LU@Xtnc<A^@Qatc5FRM\wpu)K]TIfjo
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gjo^bgr_wnc!olu)btc*hau8tpuLehfNejo]bgrTwncUolu]btc^hauTtpuDehfFejoUbgr,wnc-olu%btc&hau,tpu<ehf>ejo-bgr$wnc%olu-btc.hau$tpu
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cmllugatcekauhwpuyfhfxfjojagrltnclllugatcekauhwpuyfhfxfjojagrltnclllugatcekauhwpuyfhfxfjojagrltnclllugatcekauhwpu
