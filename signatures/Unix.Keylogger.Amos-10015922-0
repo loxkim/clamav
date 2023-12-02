@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Keylogger.Amos-10015922-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+osascript -e '
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZNSt3__14__fs10filesystemdvB7v160006ERKNS1_4pathES4_
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@__ZNKSt3__14__fs10filesystem4path16__root_directoryEv
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+set documentsFolder to path to documents folder
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+set docsFiles to every file of documentsFolder whose name extension is in {"txt", "rtf", "doc", "docx", "xls", "key"

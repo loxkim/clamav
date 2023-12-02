@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Expiro-10015928-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Run /InstanceId:WpsCloudSvr /lookup_module=wpscloudsvrimp.dll /run_plugin /plugin_name=qing /plugin_entry=qingbangong.dl
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Run /InstanceId:WpsCloudSvr /lookup_module=wpscloudsvrimp.dll /run_plugin /plugin_name=qing /plugin_runinfo /plugin_type
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Run /InstanceId:WpsCloudSvr /lookup_module=wpscloudsvrimp.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Run /InstanceId:pdf2wordapp /lookup_module=pdf2wordapp.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Run /lookup_module=authmain.dll
