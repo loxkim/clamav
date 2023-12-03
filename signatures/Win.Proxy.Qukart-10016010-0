@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Proxy.Qukart-10016010-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.15063.0_none_1a733a82001933cc\tiworke
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+IsPortableOperatingSystemr
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+rel-1.14.0-0-g155821a-prebuilt.qemu.org
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OEMModelSystemVersion{
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+00066669cff6a422578519ba1e4d7dfd338900000904

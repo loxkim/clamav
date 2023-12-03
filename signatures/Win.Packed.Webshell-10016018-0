@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Webshell-10016018-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.log-con >span::after{display: block;content: '';width: 57px;height: 3px;background: #ffffff;margin-top: 16px;justify-co
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.login{width: 470px;height:370px;background: linear-gradient(to bottom, #19778c, #095f88);animation: dynamics 6s ease in
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.log-con>input{display: block;margin: 10px 0 32px 70px;width: 330px;height: 42px;background-color: #ffffff;border-radius
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+100%{background-position: 100% 0%;}}.log-con{background: linear-gradient(#13a1fc, #13a1fc) left top, linear-gradient(#13
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.log-con>a{width: 340px;height: 44px;background-color: #0090ff;border-radius: 4px;display: block;margin: 10px 0 0 70px;t
