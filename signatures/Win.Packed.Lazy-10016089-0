@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Lazy-10016089-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+licensed program on the processors where a licensed Oracle Database (Standard Edition and/or Enterprise Edition) is installed
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+when Oracle determines that a program is to be desupported. Such desupport notices, which are posted at Oracle
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8. Use of Information. Microsoft may use the computer information, error reports, and malware reports
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Application Read-Only User: is defined as an individual authorized by you to run only queries or reports against the
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+which are installed on a single server or on multiple servers regardless of whether the individual is actively using th

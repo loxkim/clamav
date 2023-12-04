@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Proxy.Qukart-10016066-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%programfiles%\windowsapps\microsoft.bingweather_4.18.56.0_x64__8wekyb3d8bbwe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%systemroot%\systemapps\microsoft.xboxgamecallableui_cw5n1h2txyewy
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%systemroot%\immersivecontrolpanel
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%programfiles%\windowsapps\microsoft.microsoftsolitairecollection_3.14.1181.0_x64__8wekyb3d8bbwe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%programfiles%\windowsapps\microsoft.windowscommunicationsapps_17.7906.42257.0_x64__8wekyb3d8bbwe
