@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Fritzfrog-10016138-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Checking Processes[Deploy] Added to Deployqueue: [Deploying] Timestamp in future[Exchange] error getting Ping: [Libexec] Could 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+already setslice of unknown type in field %d: %Tssh: StderrPipe after process startedssh: StdoutPipe after process startedstart
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+StderrPipe after process startedexec: StdoutPipe after process startedexpected an Ed25519 public key, got %TgcBgMarkWorker: bla
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TLS 1.3 using the legacy version fieldbytes.Reader.UnreadRune: previous operation was not ReadRuneinternal error: attempt to se
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+invalid server finished hashtls: unexpected ServerKeyExchangetls: unknown public key algorithmtoo many Answers to pack (>65535)
