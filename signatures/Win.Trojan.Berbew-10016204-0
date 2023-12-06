@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Berbew-10016204-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Failwww.oracle.com/education/oln/index.html, and may be updated by Oracle from time to time without notice to you. You
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Failed to process composition surface metadata
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Source BA implementation is not compatible with target BA
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dmenterprisediagnostics.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Failed to send XREMOTEAPPGFXREDIRECTION_PDU_TYPE_CREATE_COMPOSITION_SURFACE PDU
