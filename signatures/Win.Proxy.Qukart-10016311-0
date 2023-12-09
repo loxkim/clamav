@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Proxy.Qukart-10016311-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\windows\system32\dsmusertask.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\windows\system32\wermgr.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%systemroot%\systemapps\microsoft.windows.windowpicker_cw5n1h2txyewy
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%programfiles%\windowsapps\microsoft.getstarted_4.5.6.0_x64__8wekyb3d8bbwe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%programfiles%\windowsapps\microsoft.xboxspeechtotextoverlay_1.14.2002.0_x64__8wekyb3d8bbwe
