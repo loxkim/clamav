@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Crawlertoolbar-10016413-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+INSTALL_TOOLBAR_URL=http://dnl.crawler.com/Dnl/config/250/CrawlerSetup.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+notifier.aspx" target="_blank"><script type="text/javascript">Label(SettingsLearnMore)</script></a></li>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CFG_XMLSAP=http://cfg.crawler.com/cr_config.asmx/GetXMLSAP?i=%cfg_i%&f=%cfg_f%
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CFG_URL=http://cfg.crawler.com/cr_config.asmx/GetSAPXML?CU=%cfg_cu%
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<li><script type="text/javascript">Label(SettingsEmailNotifier)</script> <a href="http://www.crawler.com/products/desktop-ema

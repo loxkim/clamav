@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Crawlertoolbar-10016414-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<li><script type="text/javascript">Label(SettingsWebSecurityGuard)</script> <a href="http://www.websecurityguard.com/" targe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://www.crawler.com/help/default.aspx?m=CR_Options_Help&i=%topic%
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+FDI error$Failure setting file stream position:Unexpected operation during decompression from / to memory
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Note: You will have to restart your computer to finish the installation process.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CShared.dll
