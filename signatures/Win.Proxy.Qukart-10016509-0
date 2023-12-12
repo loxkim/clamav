@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Proxy.Qukart-10016509-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%programfiles%\windowsapps\microsoft.windowsfeedbackhub_1.1612.10312.0_x64__8wekyb3d8bbwe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%programfiles%\windowsapps\microsoft.microsoft3dviewer_1.1702.21039.0_x64__8wekyb3d8bbwe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%programfiles%\windowsapps\microsoft.desktopappinstaller_1.0.10252.0_x64__8wekyb3d8bbwe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%programfiles%\windowsapps\microsoft.storepurchaseapp_1.0.45.0_x64__8wekyb3d8bbwe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Microsoft.DesktopAppInstaller_1.0.10252.0_x64__8wekyb3d8bbwe

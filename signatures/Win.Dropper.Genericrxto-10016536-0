@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Genericrxto-10016536-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PECMD - WinPE Commander (Modified By DSystem mdyblog.blog.163.com)V%s%s 4.0
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<description>WinPE Commander (Modified By DSystem mdyblog.blog.163.com)</description>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+WinPE Commander (Modified By DSystem mdyblog.blog.163.com)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FIND $PECMD.EXE DOWN=%@,!!  TEAM SET &::__Autoapp=$%*| EXIT FILE  // SHOWDOWN of START-MENU [PECMD.EXE DOWN]
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+//KILL  %SystemRoot%\explorer.exe

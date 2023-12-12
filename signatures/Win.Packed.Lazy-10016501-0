@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Lazy-10016501-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+are responsible for ensuring that the named user plus per processor minimums are maintained for the programs contained in the
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+access the documentation online at http://oracle.com/contracts. Services are provided based on Oracle's policies for the
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+internal data processing operations for purposes of: (a) implementing applications programs, (b) interfacing other software
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+licensed program on the processors where a licensed Oracle Database (Standard Edition and/or Enterprise Edition) is installed
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Membership: is defined as an individual authorized by you to access the hosted service, regardless of whether the individual
