@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.BatTamper-10016637-0
+TDB: Engine:90-255,FileSize:100-20000,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+powershell -executionpolicy bypass -command "new-itemproperty -path 'hklm:\software\policies\microsoft\windows defender' -name disableantispyware -value 1 -propertytype dword -force
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+powershell -executionpolicy bypass uninstall-windowsfeature -name windows-defender
