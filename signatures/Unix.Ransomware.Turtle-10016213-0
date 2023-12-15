@@ -1,0 +1,18 @@
+VIRUS NAME: Unix.Ransomware.Turtle-10016213-0
+TDB: Engine:90-255,Target:6
+LOGICAL EXPRESSION: 0&1&2>7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+main.en0cr0yp0tFile
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files\Go
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+crypto/aes.

@@ -1,0 +1,18 @@
+VIRUS NAME: Macos.Ransomware.Turtle-10016212-0
+TDB: Engine:90-255,Target:9
+LOGICAL EXPRESSION: 0&1&2>7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+main.en0cr0yp0tFile
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Go build ID:
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+crypto/aes.
