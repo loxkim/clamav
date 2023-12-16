@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Razy-10016783-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AU__abi_IDelegate@?$AsyncOperationCompletedHandler@P$AAVWebAccount@Credentials@Security@Windows@@@Foundation@Windows@@
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$AsyncOperationCompletedHandler@P$AAVWebAccountProvider@Credentials@Security@Windows@@@Foundation@Windows@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rA wsdl:binding in a DESCRIPTION MUST have the same set of wsdl:operations as the wsdl:portType to which it refers.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://tempuri.org/ is available for XML Web services that are under development, but published XML Web services should use a m
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PPart '{0}' of message '{1}' from service description with targetNamespace='{2}'.

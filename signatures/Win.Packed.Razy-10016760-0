@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Razy-10016760-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Processor: shall be defined as all processors where the Oracle programs are installed and/or running. Programs licensed on a
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+purposes of counting the number of processors which require licensing, a multicore chip with "n" processor cores shall be
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+may access the current version of the technical support policies at http://oracle.com/contracts.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Trade Compliance web site which can be accessed at http://oracle.com/contracts. You agree that no data, information,
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+active employee population and not the number of actual users. Therefore, all of your active employees must be included in
