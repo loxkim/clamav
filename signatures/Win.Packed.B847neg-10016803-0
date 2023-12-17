@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.B847neg-10016803-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+program license specifying a 1 Year Oracle Hosted Term must be hosted by Oracle.com via Computer and Administration
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+microsoft.com/office/backup. You may not distribute the backup copy of the software. You may use it
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://oracle.com/contracts, and may be updated by Oracle from time to time without notice to you.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+support.microsoft.com/common/international.aspx.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8. Use of Information. Microsoft may use the computer information, error reports, and malware reports

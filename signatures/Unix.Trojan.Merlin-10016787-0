@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Merlin-10016787-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+)the memfd command is not implemented for the %s operating systemthere was an error converting the padding max to an integer:
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+signature typeinternal error: unknown string type %dinvalid connection ID length: %d bytesinvalid shellcode execution method: %
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+public key, got %Tfailed to parse Location header %q: %vfailed to read session ticket revisionfailed to unmarshal algorithm: %v
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+expecting to see gcphase as _GCmarkterminationinvalid interface value length %d: exceeds input size %dminidump module could not
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CONNECTION_CLOSE frame with NO_ERROR transport error codeStarting new connection to %s (%s -> %s), source connection ID %s, des
