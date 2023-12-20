@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generic-10016983-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+{21862cbd-2c2d-48c4-bf85-bc1f63475324}, PublicKeyToken=3e56350693f7355e
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+kdrSn.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hIokkiAhammgkgbFFSgaoSmcIFimodrcdaASpmggdeISdrriFgbcIcShfkAdabIecjdjibfjrSfiengadSAgrohaboreo
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c;F:"_!7
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+K:"#+fu

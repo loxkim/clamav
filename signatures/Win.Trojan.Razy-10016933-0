@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Razy-10016933-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Service is available on http://www.oracle.com/education/oln. Notwithstanding anything to the contrary in the agreement,
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+licensed program on the processors where a licensed Oracle Database (Standard Edition and/or Enterprise Edition) is installed
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+technology or other full-volume disk drive encryption technology may be less secure in a virtualized
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Subscriber: is defined as (a) a working telephone number for all wireline devices; (b) a portable handset or paging device that
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+support, licenses and/or this agreement. You agree that Oracle shall not be responsible for any of your costs incurred in
