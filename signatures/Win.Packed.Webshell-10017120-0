@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Webshell-10017120-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<li style="background: #183b64"><a href="javascript:" style="background: url(siteFiles/login/images/
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<a target="_blank" href="javascript:" onclick="intoCollection()">
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<div class="fr p-wjdc"><a href="//www.zhijiao361.com/wj.html" class="f14 c66" target="_blank">
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<a href="//www.zhijiao361.com" target="_blank">
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<a target="_blank" href="javascript:">
