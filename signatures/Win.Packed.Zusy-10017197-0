@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zusy-10017197-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RichEdit line insertion error=This control requires version 4.70 or greater of COMCTL32.DLL
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+AInternal error: Extension Instance does not match Extension Label,Unsupported Application Extension block size
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+NUnable to retrieve a pointer to a running object registered with OLE for %s/%sjThis "Portable Network Graphics" image
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Separator#No OnGetItem event handler assigned
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+oSome operation could not be performed because the system is out of resources. Close some windows and try again.OThis op
