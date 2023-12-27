@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Archsms-10017456-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+# $+_*$&_%Q%&_)&%%!#*_$W%$_^ *)%$$#&@1!)Q)!QQ_ $^)^#^*_$@@( Q(1$^$@$+#Q^^W1(@^!( 1%)_)! &@@&^+%@&**!$  $W+!)_$%@%^&Q$%@Q$_&($!(
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*@%(^ (Q_!^#%W+&*  ) !))_@ * _Q1!* )#1++@)% Q %^1^1*&_$@!& )^&(@1$W@^%++($_* QW#%)Q*(%W#* (%)!$&*_Q1^_&1%#)Q%QQ%(#^%!+) $^)#!!!
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$1_^%_+@@#^1Q% ^(%(%& )(_Q1%$*$)^((#_)#+!+%W%+#+!( &!($$_1*$(^_^&+*  _(@1QW^$! ^%Q*%+$W!#_#+!_$)*()&$Q+%)#&*+$)&)_Q(**!(+1%1%!&
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&!)_!@)%W!)+$W@$)#(#!*@^1(&_^%_1&(^_&W)^^1(&Q_)%_%^$+ *+@ +%W!%))*% Q%_)+Q$%#*!*&!((Q(#)#W()+ #Q+!WQ_ (^!+$@ WW^(*@_!@+Q1_)*@*$
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+^^$%*^@Q!%!&^+#)!1#^Q)($&%_)!^+()!&W)^+^WQ)(+**&+  *1($%W%_+)%)+@)@#1+!%+&*#($+*+% $@+&#&Q$ )@#(WWQ^%^Q+(+QW!$@^)*!*#&(^Q1^)1))
