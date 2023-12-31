@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Shapsime-10017860-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The command or the UNC path of the binary/script to execute (e.g., "powershell iwr http://192.168.57.130/a", "C:\Win
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+       - SharpSCCM_merged.exe invoke admin-service -q "EventLog('System') | order by DateTime desc" -r 16777211
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[!] Please specify a query (-q), and CollectionID (-i) or ResourceID (-r) to execute an AdminService query or add -h for
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[+] Encrypted hex strings can be decrypted offline using the "DeobfuscateSecretString.exe <string>" command
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The local or UNC path of the binary/script the application will execute (e.g., "C:\Windows\System32\calc.exe", "

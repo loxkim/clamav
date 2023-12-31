@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Msilheracles-10017861-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Collections.Generic.IEnumerator<NLog.Targets.DateAndSequenceArchive>.Current
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Logger: {0} configured with duplicate output to target: {1}. LoggingRule with NamePattern='{2}' and Level={3} has been s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+NLog.Targets.LogReceiverWebServiceTarget, NLog.Wcf
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Collections.Generic.IEnumerator<NLog.Config.LoggingConfigurationParser.ValidatedConfigurationElement>.Current
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+WebServiceProtocol.Xml requires WebServiceTarget.XmlRoot to be set.
