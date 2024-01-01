@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-10017925-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+anifestVersion   =   "1.0"><trustInfo xmlns =   "urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requested
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+utionLevel level  =  "asInvoker" uiAccess =  "false"/></requestedPrivileges></security></trustInfo></assembly>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Kgcya.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+S8oYBWqbAyHX7Q8mBH34y2JBb3nHibPsB5XarOqoQ7OYdApHuCUC3
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+38fMpAnWNKGBfcdfb2pGrNdgxGCpEisluPbnTiaqbweHhQ2hG
