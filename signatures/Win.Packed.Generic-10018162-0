@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generic-10018162-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+{0a4dbdac-3a8f-4016-8f2d-c10ecbfd05c4}, PublicKeyToken=3e56350693f7355e
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gidmidc.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+n:\Y]Y
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+IdgkbpebAfmcmjbmboAioIphcAgmpfkSbFbciajaaIeriopjdjgdmhFaeAnchikkoFboiAmadAidnASnhFbeAmc
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+z={rat
