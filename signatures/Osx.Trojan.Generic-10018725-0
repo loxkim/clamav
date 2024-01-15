@@ -1,0 +1,28 @@
+VIRUS NAME: Osx.Trojan.Generic-10018725-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SfUtil6initItEiPPcPFNSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEEP13NSAppleScriptbE
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+76LoggerINS_
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+819CFWebMessageHandlerINS_15CFWebLogMessageEEES2_EE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+,bracket_expressionIcNS_12regex_traitsIcEEEE
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<back_ref_collateIcNS_12regex_traitsIcEEEE
