@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.DarkKomet-10018983-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ACCOUNTMANAGEMENT.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CrystalDecisions.Shared.ExportOptions, CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CwiNaDkkMyid3NoqZO.PiWtZHUtt86RsQvXAn+iBsq0cWXQkfja0sV49+HaadTZ5RDpEjDP098k`1[[System.Object, mscorlib, Version=4.0.0.0, Culture
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+get_ShareDBLogonInfo
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ACCOUNTMANAGEMENT.CrystalReport
