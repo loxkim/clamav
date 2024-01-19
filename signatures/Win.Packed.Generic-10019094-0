@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generic-10019094-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<SilentParm>setup.exe -s /f1.\setup.iss /f2c:\networkgenie.log</SilentParm>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Description>ECO Center[BR]- utility for users to control motherboard.[BR]- support MB/BIOS power control.[BR]- support moth
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<SilentParm>CommandCenter.exe /VERYSILENT /NORESTART</SilentParm>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Description>ECO Center Pro[BR]- utility for users to control motherboard items' power.[BR]- control BIOS items in "Power ma
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Description>Direct OC[BR]- support (+) (-) OC buttons of Intel 8/9 serials motherboard.[BR]- Intel ICCS and ME9/10 driver a
