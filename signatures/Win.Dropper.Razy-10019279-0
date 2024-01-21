@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Razy-10019279-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+EV_HMAC_OID_INTEL_NMPR_Close disk = %d, Modulation fallocating the vol=%d Siled for viewported %d
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+STATUS_SBar disk group cyclicy driversion is nothis not sub FRESET_INVALID
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+APM_EVENT_ASSOC_SCANDLE_VIEW_STATE_MODE_AUTH_Waikiki AC-deta PCI_MUTUALIAS
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GetReg Key}\{Drive length: %d IO SIGNOST_SHADOWN
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ROAM_SISO_40M - SGI ant Red did not wait AC'97

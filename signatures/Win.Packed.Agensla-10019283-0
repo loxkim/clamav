@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Agensla-10019283-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xData Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\DKHP.mdf;Integrated Security=True;Connect Timeout=30
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ComboBox_SoPhieu_DropDownClosed
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+UPDATE dbo.NGANH SET MaNganh = @MaNganhMoi, TenNganh = @TenNganh, ThuocKhoa = @ThuocKhoa WHERE MaNganh = @MaNganhCu
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+process_event_combobox
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+UPDATE dbo.KHOA SET MaKhoa = @MaKhoaMoi, TenKhoa = @TenKhoa WHERE MaKhoa = @MaKhoaCu
