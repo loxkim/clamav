@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Keylogger.Macos-10019351-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZGVZZ12GrabChromiumNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEES5_ENK4$_76clEvE9decryptor$tlv$init
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZZZ11grabFirefoxNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEENK4$_81clEvE9decryptor$tlv$init
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZGVZZ10masterpassvENK4$_86clEvE9decryptor$tlv$init
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZZZ10masterpassvENK4$_86clEvE9decryptor
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZZZ12GrabChromiumNSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEES5_ENK4$_76clEvE4data
