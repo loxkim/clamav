@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10019424-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unicom.Uniworks.BModule.Abnormal.Parameter.BMergeCreateParam.ProcessEntityMaterial
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+BExecutePackingEx.AddBox1DetailByTemporary
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CONFIRM_DATE, RLS_DATE, RLS_SHIFT_ID,START_PROCESS_DATE,CLOSE_DATE,IS_HOLD,WO_BOM_REF_KEY,LOT_TYPE_KEY,IS_ERP_CLOSE,ROOT
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+BExecutePackingBoxMoveOutParam.Comment
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+BExecutePackingBoxMoveOutParam.RemainedContentIds
