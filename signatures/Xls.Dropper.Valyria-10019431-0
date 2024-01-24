@@ -1,0 +1,33 @@
+VIRUS NAME: Xls.Dropper.Valyria-10019431-0
+TDB: Engine:151-255,Container:CL_TYPE_MSOLE2,Target:0
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+a4 = "cmllc1xib29rXG50biINCmF0dHJpYiArYSAraCArcyAiJVBVQkxJQyVcTGlicmFyaWVzXGJv
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+b1 = lidllrouqoruouoiiaswleruqwoeruqwald(replace("QzpcVXNlcnNcUHVibGljXERvY3VtZW50c1x0b3NzLmJhdA==", "LredlIUYYdlfy
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+kk = replace((a0 & a1 & a2 & a3 & a4 & a5 & a6 & a7 & a8 & a9 & a10 & a11 & a12 & a13 & a14 & a15 & a16 & a17 & a18 & a19 & a20
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lfajklfjklasdfjklfjklafjkleruireirueru = msgbox("Unable to recover document. ", vbcritical
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+objwshshell.expandenvironmentstrings(dlauerlliauowiqerouqooddiuoqeiurqoweiqueurooododiroeooqoyp3
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+set objnode = createobject("MSXML2.DOMDocument").createelement("b64
