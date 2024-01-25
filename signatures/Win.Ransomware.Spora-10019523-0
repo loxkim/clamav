@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Spora-10019523-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+schtasks /create /sc minute /mo 6 /tn "Microsoft_Auto_Scheduler" /tr "'C:\Users\%username%\AppData\S-2153.bat'" /f
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WinScriptHost.Run Chr(34) & "%SystemDrive%\Users\%username%\AppData\S-6748.bat" & Chr(34), 0
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+strScript = ComSpec & " /C echo %SystemDrive%\Users\%username%\AppData\S-6748.bat"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DEL "%SystemDrive%\Users\%username%\AppData\S-8459.vbs" /f
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+start "" "%SystemDrive%\Users\%username%\AppData\S-8459.vbs"

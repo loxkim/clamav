@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Webshell-10019552-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<div>If the browser has not turned to the target page for a long time, try clicking <a href="javascript:void(0)" onclick="on
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<form id="loginForm" name="loginForm" method="post" action="" />
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<div>Waitting for redirect to SSO login page!</div>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+get_SSOLoginUrl
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+        <textarea id="SAMLRequest" name="SAMLRequest" style="display: none" cols="80" rows="30">"
