@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-10019606-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Collections.Generic.IDictionary<System.String,System.Speech.Recognition.SemanticValue>.get_Keys
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PAttempted to remove registry data from a token that is already in use elsewhere.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Speech.Recognition.SemanticValue+SemanticValueDebugDisplay, Funasi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Speech.Recognition.SrgsGrammar.SrgsItem+SrgsItemDebugDisplay, Funasi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=nu
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3Internal error occurred in the recognition process.

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-10019637-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hSystem.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPADK
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+zData Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\StudentFeesSyetm.mdf;Integrated Security=True;User Instance=True
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ INSERT INTO Employee(emp_username,emp_email,emp_mobile,emp_password) VALUES('
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Data Source=.\SQLEXPRESS;AttachDbFilename=F:\Sem.4\C# Projects\ParisSud_SQL\ParisSud\student_fess_project_SQL.mdf;
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+btnlogin
