@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-10019658-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+MeterBusLibrary.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://tempuri.org/DataSet1.xsd
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+NormalizedValue: {7} (DataType: {0}, Function: {1}, StorageNumber: {2}, Tariff: {3}, SubUnit: {4}, Value: {5}, Units: {6
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+TxNMNOcNTRNDjOuNUDNLDOfNUxNpjO0NUZNYtODNUVNojOjNTHNptO0NTxNMDOmNP4NHtOyNUZNojO1NUVNLjOyNUZNNNQNJ8qSeHncFbwa+tWOYARgNNDtN
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MeterBusLibrary.Form1.resources
