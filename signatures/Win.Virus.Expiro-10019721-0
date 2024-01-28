@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Expiro-10019721-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+d:\jenkins\workspace\n_mbcommon\src\mbcommon\processutils.cpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\jenkins\workspace\n_mbcommon\src\packages\poco-mbam-static-vc120.1.11.1.69\build\native\include\poco\scopedlock.h
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error getting exit code of process = %s, %s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Date{0}Time{0}Tick Count{0}Process ID{0}Thread ID{0}Log Level{0}Context Tag{0}Function Name{0}File Name{0}Line Number{0}
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$Singleton@VExecutablePathSingleton@?A0x7e8dfa08@@@misc@common@mb@@
