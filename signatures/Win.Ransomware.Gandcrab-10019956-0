@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Gandcrab-10019956-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+You may temporarily download the fonts to a printer or other output device to print content, and you
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+support.microsoft.com/common/international.aspx.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+that apply to the software, which include restrictions on destinations, end users, and end use. For further
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Subscriber: is defined as (a) a working telephone number for all wireline devices; (b) a portable handset or paging device that
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+access it in furtherance of this agreement and who are required to protect it against unauthorized disclosure. Nothing shall

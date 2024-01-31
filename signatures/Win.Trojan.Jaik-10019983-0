@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Jaik-10019983-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\_work\2\s\src\ONNXRuntime\0.5.X\Windows\dll\..\..\onnxruntime\onnxruntime\core\framework\ex_lib_loader.cc
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\_work\2\s\src\ONNXRuntime\0.5.X\Windows\dll\Win32\Release\ONNXRuntime-0.5.X\ONNXRuntime-0.5.X.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+onnxruntime::TransformerMemcpyImpl::ProcessInitializers::<lambda_127698957003fddcb1b7cf9025904b33>::operator ()
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\_work\2\s\src\ONNXRuntime\0.5.X\Windows\dll\..\..\onnxruntime\onnxruntime\contrib_ops\cpu\tokenizer.cc
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\_work\2\s\src\ONNXRuntime\0.5.X\Windows\dll\..\..\onnxruntime\onnxruntime\core\common\status.cc

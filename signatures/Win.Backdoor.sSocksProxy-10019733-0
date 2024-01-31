@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Backdoor.sSocksProxy-10019733-0
+TDB: Engine:96-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>2,3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+github.com/tostercx/ssocks
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sSocks Reverse Socks5 Server v%s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+client: need a login/password
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+--socks rcsocksserv:1080
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+to your rcsocks instance. It connect back on and wait for request
