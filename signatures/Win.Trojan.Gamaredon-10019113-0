@@ -1,0 +1,25 @@
+VIRUS NAME: Win.Trojan.Gamaredon-10019113-0
+TDB: Engine:90-255,FileSize:10-60000,Target:3
+LOGICAL EXPRESSION: 3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<hta:application icon="#" windowstate="minimize" showintaskbar="no" sysmenu="no" caption="no" /><script type="text/vbscript">
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bin.base64
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wscript.shell
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1&2
+     +-> REGEX: [a-z0-9]{6,18}=[a-z0-9]{6,18}(\+[a-z0-9]{6,18}){5}
+     +-> CFLAGS: (null)
