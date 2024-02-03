@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-10020131-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.R
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+LogicGames.Properties.Resources.resources
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+LogicGames.Properties.Resources
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ (score, tile2, tile4, tile8, tile16, tile32, tile64, tile128, tile256, tile512, tile1024, tile2048, tileMore, time) 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+;CREATE TABLE IF NOT EXISTS tetris (id int PRIMARY KEY AUTO_INCREMENT, score int, cleared int, o int, i int, l int, j in
