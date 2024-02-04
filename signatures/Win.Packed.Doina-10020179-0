@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Doina-10020179-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Admin\source\repos\boingo\x64\Debug\boingo.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+LLVM Profile Warning: __llvm_profile_set_file_object(fd=%d) not supported in continuous sync mode when merging is disabled
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+minkernel\crts\ucrt\src\appcrt\filesystem\splitpath.cpp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\a\_work\1\s\src\vctools\crt\vcruntime\src\eh\std_type_info.cpp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+minkernel\crts\ucrt\src\appcrt\locale\get_qualified_locale.cpp
