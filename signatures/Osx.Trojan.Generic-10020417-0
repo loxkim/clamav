@@ -1,0 +1,28 @@
+VIRUS NAME: Osx.Trojan.Generic-10020417-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+erializible_type = tools::wallet_rpc::COMMAND_RPC_SWEEP_DUST::response, t_storage = epee::serialization::portable_storage]
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+) [t_param = tools::wallet_rpc::COMMAND_RPC_SWEEP_DUST::request, t_storage = epee::serialization::portable_storage]
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+get_address_bookERKNS_10wallet_rpc34COMMAND_RPC_GET_ADDRESS_BOOK_ENTRY7requestERNS2_8responseERN4epee8json_rpc5errorE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sweep_dustERKNS_10wallet_rpc22COMMAND_RPC_SWEEP_DUST7requestERNS2_8responseERN4epee8json_rpc5errorE
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZN4epee8json_rpc8responseIN5tools10wallet_rpc29COMMAND_RPC_EXPORT_KEY_IMAGES8responseENS0_11dummy_errorEED2Ev

@@ -1,0 +1,28 @@
+VIRUS NAME: Osx.Trojan.Generic-10020415-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZN6crypto10crypto_ops14check_tx_proofERKNS_4hashERKNS_10public_keyES6_RKN5boost8optionalIS4_EES6_RKNS_9signatureE
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+virtual bool cryptonote::BlockchainLMDB::get_txpool_tx_meta(const crypto::hash &, cryptonote::txpool_tx_meta_t &) const
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4check_tx_proofERKNS_4hashERKNS_10public_keyES6_RKN5boost8optionalIS4_EES6_RKNS_9signatureE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+is_out_to_accERKNS_12account_keysERKNS_12txout_to_keyERKN6crypto10public_keyERKNSt3__16vectorIS7_NSA_9allocatorIS7_EEEEm
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__Z22do_serialize_containerI14binary_archiveNSt3__16vectorIN6crypto10public_keyENS1_9allocatorIS4_EEEEEbRT_ILb0EERT0_

@@ -1,0 +1,28 @@
+VIRUS NAME: Osx.Trojan.Generic-10020414-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZNKSt3__110__function6__funcIZNK2el6Logger23resolveLoggerFormatSpecEvE3$_5NS_9allocatorIS4_EEFbvEE6targetERKSt9type_info
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZNKSt3__110__function6__funcIZN2el6Logger18initUnflushedCountEvE3$_4NS_9allocatorIS4_EEFbvEE6targetERKSt9type_info
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZThn128_N5boost16exception_detail19error_info_injectorINS_15program_options27invalid_command_line_syntaxEED1Ev
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZN5boost7variantIN10cryptonote8txin_genEJNS1_14txin_to_scriptENS1_18txin_to_scripthashENS1_11txin_to_keyEEE6assignIS3_EEvRKT_
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__ZN5boost7variantIN10cryptonote15txout_to_scriptEJNS1_19txout_to_scripthashENS1_12txout_to_keyEEE6assignIS2_EEvRKT_
