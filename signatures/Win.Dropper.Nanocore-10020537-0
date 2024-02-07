@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-10020537-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+server=localhost;port=3306;database=fashion;uid=root;password=duc2002latao@
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+quanlythoitrang.login.resources
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+select count(*) from login where taikhoan=@taikhoan and matkhau=@matkhau
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Data Source=LAPTOP-IJ9867A0\SQL1;Initial Catalog=qlthoitrang;Integrated Security=True;Connect Timeout=30;Encrypt=False;
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Data Source=DESKTOP-2L6E1U1\MSSQLSERVER01;Initial Catalog=qlthoitrang;Integrated Security=True
