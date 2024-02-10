@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Bodegun-10020759-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\YoavShaharabani\source\repos\windows-scenarios\Payloads\NativeRansomewareDll\x64\RemoteKey_WinAes_MoveFileEx
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CymulateEDRScenarioExecutor.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[SYNCHRONIZE-LOG]: Tried to leave protected section without getting into it (ThreadID:%d)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error backup file %s, this file will not be encrypted - %s
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+revshell.lionnets.com

@@ -1,0 +1,15 @@
+VIRUS NAME: Win.Downloader.RaspberryRobin-9962064-2
+TDB: Engine:90-255,FileSize:1000-6000,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:8080{WILDCARD_ANY_STRING(LENGTH>=1&&<=50)}%computername%
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: s\^?t\^?a\^?r\^?t
+     +-> CFLAGS: i
