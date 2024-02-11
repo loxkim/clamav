@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Lorenz-10020851-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\user\source\repos\lora\Release\lora.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Eminkernel\crts\ucrt\src\appcrt\internal\report_runtime_error.cpp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Df:\dd\vctools\crt\crtw32\concrt\threadproxy.cpp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+If:\dd\vctools\crt\crtw32\concrt\resourcemanager.cpp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Jf:\dd\vctools\crt\crtw32\h\pplcancellation_token.h

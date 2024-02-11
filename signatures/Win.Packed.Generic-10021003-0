@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generic-10021003-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Data Source=DESKTOP-LPUT7IK\SQLEXPRESS;Initial Catalog=app_recruitment ;User ID=sa;Password=12345
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The system has encountered an unexpected problem, sincerely sorry !!!
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+insert into experience(expYear,proSkill,candidateID) values (@value1 , @value2 , @value3)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+app_recruitment.Properties.Resources.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+insert into fresher (graduationRank,graduationDate,education,candidateID) values(@value1, @value2, @value3 ,@value4 )

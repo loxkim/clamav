@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.GhostSec-10020906-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+kcs12: odd-length BMP stringError getting executable path:File copied to startup folder.Error stopping service %s: %s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+returned negative count from Writex509: X25519 key encoded with illegal parametersx509: SAN uniformResourceIdentifier is malfor
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+was %d; want 5http: ContentLength=%d with Body length %dlooking for beginning of object key string17347234759768070944119244813
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rminateProcessexec: no commandContent-Encodingcontent-encodingcontent-languagecontent-locationwww-authenticateproxy-connectionre
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+write to key log: tls: invalid server finished hashtls: unexpected ServerKeyExchangego package net: confVal.netCgo = crypto: re
