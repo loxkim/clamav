@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-10021132-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+reas to the nearest parking facility with empty parking lots. The latter guidance system addresses driver
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Server=localhost;uid=root;password=;database=carparking;
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO `login`(`Username`, `Password`, `Confirm_Password`) VALUES ('
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+This system reduces time and fuel while searching for empty parking lots and helps the car park to operate efficiently.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Our parking services in particular now support over 50,000 vehicle transactions daily. Nevertheless, the key to effectiv

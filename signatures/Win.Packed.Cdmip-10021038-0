@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Cdmip-10021038-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+{a2643239-5982-4d5e-b1c7-6b9c6ae5f0c9}, PublicKeyToken=3e56350693f7355e
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DZ--DZ.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+JBuilt using an evaluation version of SmartAssembly. Cannot be distributed.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!Powered by SmartAssembly 6.6.4.95
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VNYnhXaFUERnTZOjeQkyXqKmVJWLkUtAP0

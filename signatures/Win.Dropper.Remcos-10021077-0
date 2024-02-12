@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Remcos-10021077-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+computer as a .dll file.  To use the plugin, its DLL file must be in the same directory as Black Lightning's executable file (w
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  3. You logged in with a login client that does not support sharing the above information with Black Lightning.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Throughout the documentation for Black Lightning the following conventions are used when displaying information about commands:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'plugin' and 'name' parameters replaced with SomePlugin.dll and SomeModule, respectively.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Simutronics Launcher (Launcher.exe)|Launcher.exe

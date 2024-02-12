@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Formbook-10021088-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<rd:SchemaPath>C:\Users\developer\Desktop\dev\1.0.1\CS\dbDataSetChurch.xsd</rd:SchemaPath>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO `tblUsers` (`username`, `pswd`, `firstname`, `lastname`, `role`, `telephone`) VALUES (?, ?, ?, ?, ?, ?)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Microsoft.VSDesigner.DataSource.Design.TableAdapterDesigner, Microsoft.VSDesigner, Version=10.0.0.0, Culture=neutral, PublicKeyT
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PProvider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\bin\Debug\db.accdb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+l, PublicKeyToken=b03f5f7f11d50a3a"System.Drawing.Design.UITypeEditor
