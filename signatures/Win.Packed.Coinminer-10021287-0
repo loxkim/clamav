@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Coinminer-10021287-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{"method": "login", "params": {"login": "%s", "pass": "%s", "agent": "cpuminer-multi/0.1"}, "id": 1}
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-x, --proxy=[PROTOCOL://]HOST[:PORT]  connect through a proxy
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.R
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GNU C 4.9.0 -mtune=generic -march=x86-64 -g -g -g -O2 -O2 -O2 -fbuilding-libgcc -fno-stack-protector
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-t, --threads=N       number of miner threads (default: number of processors)

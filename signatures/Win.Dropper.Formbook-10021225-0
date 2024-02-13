@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Formbook-10021225-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+response.write "<description>&lt;a href=&quot;http://www.commerce.uct.ac.za/Services/Daily Comic Strips/&quot;&gt;Click
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<url>http://www.commerce.uct.ac.za/Services/Daily Comic Strips/Logo/logo.jpg</url>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+response.write "<link>http://www.commerce.uct.ac.za/Services/Daily Comic Strips/</link>" & vbcrlf
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+response.write "<guid>http://www.commerce.uct.ac.za/" & DIRECTORY & "/" & theFiles(i)(0) & "</guid>" & vbcrlf
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The activity reports for today are attached. Currently the total number of comic strips downloaded for the day stands at

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-10021184-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+A communications error with the smart card has been detected.  Retry the operation
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tData Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\car_fixing_database.mdf;Integrated Security=True
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Winscard.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The card cannot be accessed because the maximum number of PIN entry attempts has been reached
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+XOccurs when the smartcard is not put correctly in to reader or for other generic errors.

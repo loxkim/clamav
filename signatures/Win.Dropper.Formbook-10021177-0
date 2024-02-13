@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Formbook-10021177-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere&target={0}&namespace=0&limit=50000
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+OPERATOR PASSWORD IS SET TO THE DEFAULT VALUE OF 123, PLEASE CHANGE IT IN YOUR SERVER.PROPERTIES!
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ERROR PROCESSING COMMAND!
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PROPERTY: serverPassword MISSING! DEFAULT SET, PLEASE ADD IT TO YOUR server.properties
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://toolserver.org/~soxred93/articleinfo/index.php?article={0}&lang=en&wiki=wikipedia

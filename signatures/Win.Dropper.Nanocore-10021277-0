@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-10021277-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://forum.kerbalspaceprogram.com/showthread.php/13155
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://kerbalspaceport.com/0-18-ion-engine-pack/
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Kerbal_Space_Program_Mod_Manager.Ionic.Zip.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HKEY_CURRENT_USER\Software\Classes\KSPMM\shell\open\command
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://kspmm.norway174.com/changelog/changelog.txt
