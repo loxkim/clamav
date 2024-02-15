@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.VettaLoader-10019134-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+var d=Buffer["from"](JSON[m(264,r._0x5512fe)]({from:"CINSTALLER1",path:__filename,username:c[m(r

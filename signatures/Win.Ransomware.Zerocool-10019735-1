@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Zerocool-10019735-1
+TDB: Engine:96-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd.exe /c ping 127.0.0.1 -n 5 > nul & del "%s" & shutdown /r /t 0
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd.exe /c ping 127.0.0.1 -n 5 > nul & del "%s"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/c SCHTASKS.exe /Create /RU "NT AUTHORITY\SYSTEM" /sc onstart /TN "Windows Update BETA" /TR "'%s' %s" /F
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/c powershell -inputformat none -outputformat none -NonInteractive -Command Remove -Item 'd:\$RECYCLE.BIN','c:\$RECYCL
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/c rd /s /q P:\Recycler,Q:\Recycler,R:\Recycler,S:\Recycler,T:\Recycler,U:\Recycler,V:\Recycler,W:\Recycler,X:

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-10021495-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD{
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640" viewBox="0 0 640 480">
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="Afghanistan, Flag, Country, Nation, Union, Empire" d
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4.174.845.544 1.818 1.07 2.482 1.733.51.51.942.804 1.36 1.214 1.913 1.882 3.87 3.92 4.327 6.68.084.51.084 1.042.084 1.604 0 1.7
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<path d="M273.867 355.958c.124-.89-.482-1.666-1.21-1.9-1.42-.533-2.83-.967-4.237-1.368-1.6-.38-2.494.767-2.5 1.52-.007 1.254-.

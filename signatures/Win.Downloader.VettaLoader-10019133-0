@@ -1,0 +1,19 @@
+VIRUS NAME: Win.Downloader.VettaLoader-10019133-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Rar!
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CMT;Il commento che segue contiene dei comandi per lo script del modulo auto-estraente
+
+Setup=clumsy.exe
+TempMode
+Silent=1
+Overwrite=1
+

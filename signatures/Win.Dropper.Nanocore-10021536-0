@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-10021536-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+OpenVPNManagerService.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+sHFvx0q4/K8lnT8Bgj7Honj9FeoJx3m09qQQKpOks/cvHlhu13IwlA6Q9a/gNBVJ5cXjmRKZ1D916MKREyEpQ+XF45kSmdQ/dejCkRMhKUPSgzApG55hJQOL
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SYSTEM\CurrentControlSet\services\OpenVPNManager
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.everaldo.com/crystal/
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+FrmLoginAndPasswd
