@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.LokiBot-10021601-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Please post this error at information thread (the error copied to the clipboard):
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error occured while writing to the log file. Check file path in "Logging Settings" window.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error while connecting, please check to see if the server is on & that the connection details are correct.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT `entry` FROM `creature_template` WHERE `entry` >= 200000 ORDER BY `entry` DESC LIMIT 1;
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+(1) Check if file exists and is readable (2) Report this error to the devs 

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Kovter-10021596-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<h1>Adding Processes and Effects</h1>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<div> <a onClick="NotifyApp('AppCallback', 'StartupProcedure, IDS_SHOWME_GETMEDIA')" href="#">How 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@f:\dd\vctools\crt_bld\self_x86\crt\src\dbgdel.cpp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<td width="494"><img src="showmelist-pro.jpg" width="494" height="90" border="0" alt="Sound Forge Pro"></td>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+WcfTestClient.exe
