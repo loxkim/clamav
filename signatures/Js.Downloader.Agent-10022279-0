@@ -1,0 +1,13 @@
+VIRUS NAME: Js.Downloader.Agent-10022279-0
+TDB: Engine:90-255,FileSize:100-3000,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+new activexobject("internetexplorer.application")
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+ = {x:1, y:2}
