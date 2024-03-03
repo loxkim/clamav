@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Trojan.Screenshotter-10022309-0
+TDB: Engine:90-255,Target:0
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ÐÏà¡±á
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+au3.ahk
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\build\work\eca3d12b\wix3\build\ship\x86\
