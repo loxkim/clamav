@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Win.Tool.NetPing-10022493-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+Usage: NetPing.exe X.X.X.X <file name>
