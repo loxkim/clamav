@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-10022806-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Url_Install><![CDATA[https://recoverit.wondershare.com/de/thankyou/install-recoverit.html]]></Url_Install>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Url_Down><![CDATA[http://download-de.wondershare.com/cbs_down/recoverit_64bit_full4288.exe]]></Url_Down>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Dotneturl><![CDATA[http://download.wondershare.com/inst/NetFxLite.exe]]></Dotneturl>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+wondershare-recoverit-free_setup_full4288.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bHBTZXJram5r,ZlNqcDloaDErdW80YnhidnZhZklDaU1qYW5Gak5YQ0w=,ZlNqcDloaDErdXFPQklNWUh5K0dxaU1qYW5Gak5YQ0w=

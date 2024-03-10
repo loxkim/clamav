@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Barys-10022823-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://hwidq.vmall.com/quickcas/loginQ.html?service=http://www.vmall.com/&quickAuth=true
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://www.account.xiaomi.com/pass/serviceLoginAuth2
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://a.hd.xiaomi.com/register/codeverify/operate/authcode/a/32/_r/
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://account.xiaomi.com/pass/changePassword?userId=
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://account.xiaomi.com/pass/user@externalIdBinded?externalId={0}&type=PH
