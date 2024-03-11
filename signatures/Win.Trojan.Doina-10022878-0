@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Doina-10022878-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+F:\2.4PatchExe\CloundInstall\sln\Bin\Release\Work\QQGame.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+bugreport.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_LaunchPad@V?$_Bind@$00XU?$_Pmf_wrap@P8downloader@@AEXXZXV1@$$$V@std@@PAVdownloader@@@std@@@std@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?GetBugReportInfo@TXBugReport@@YAPAUtagBugReportInfo@1@XZ
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\ProgramData\QQGame.exe

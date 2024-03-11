@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Midie-10022891-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+F:\gitlab\kk_common_library\Common\boost_1_68\boost/exception/detail/exception_ptr.hpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3D:P:T:X:\:`:d:h:l:p:t:x:|:
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9P:T:X:\:`:d:h:l:p:t:x:|:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8$84888<8@8D8H8L8T8X8\8`8d8p8X:\:`:d:h:l:p:t:x:|:
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+JMFCShellTreeCtrl_EnableShellContextMenu
