@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Formbook-10022936-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+QuanLyBanSach.Login.resources
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT a.MaSach, b.TenSach, a.SoLuong, b.Gia, a.GiamGia,a.ThanhTien FROM CHITIETHDBAN AS a, SACH AS b WHERE a.MaHoaDonBa
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO SACH(MaSach,TenSach,Gia,TacGia, MaTheLoai,MaNXB,NamXuatBan,Anh,GiaNhap,SLKe,SLKho,TrangThai,GiamGia) VALUES(
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT a.MaSach, b.TenSach, a.SoLuongXuat,b.GiaNhap,a.ThanhTien FROM CHITIETHDXUAT AS a, SACH AS b WHERE a.MaXuat = N'
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Data Source=.;Initial Catalog=QuanLyNhaSach;Integrated Security=True

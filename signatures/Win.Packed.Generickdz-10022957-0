@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-10022957-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO [dbo].[Accounts]([ID],[Password],[MaNV],[Quyenhan]) VALUES(@ID,@Pass,@MaNV,@Quyen)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error: The account and password that you've entered is incorrect. 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Select Count(*) from Accounts Where ID=@acc and Password=@pass
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+UPDATE [dbo].[Accounts] SET [Password]=@Pass Where [ID]=@ID
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Select HotenNV, A.MaNV from Nhanvien N INNER JOIN Accounts A On A.MaNV=N.MaNV where Quyenhan=3

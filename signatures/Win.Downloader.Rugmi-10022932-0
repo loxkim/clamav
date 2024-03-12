@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Rugmi-10022932-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CPTCallProcess::GetCurrentLogonUserToken: LoadSystemLibrary Kernel32.dll FAILED!
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CPTCallProcess::GetTokenSID: LoadSystemLibrary Advapi32.dll FAILED!
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<bodyContent xsi:type="java:com.webex.service.binding.user.GetLoginTicket">
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+gpcSystemUtil>>RunAsAdmin failed, process=%s,commandLine=%s,error=%d
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CPTCallProcess::WbxPTDestroyEnvironmentBlock: LoadSystemLibrary userenv.dll FAILED!

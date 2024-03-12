@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Formbook-10022911-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Duc Anh\Desktop\QuanLyKhachSan1\QuanLyKhachSan\Nhom_
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Update tbltraphong set ngaytraphong = CAST(GETDATE() AS DATE) where masothue =N'
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+insert into tblnhanvien(manhanvien, tennhanvien, mabophan, diachinv, dienthoainv, ngaysinhnv, gioitinhnv) values(N'
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+select sum(tongtien) from tblhoadonthuedv a, tblthuephong b where a.makhachhang = b.makhachhang and b.masothue = N'
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+^[a-zA-Z0-9]{6,24}@gmail.com(.vn|)$
