@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Formbook-10022979-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+F3C23DD37AA0DDAC6380F6D511DDA4F2A43FA032EF3A72DB96663B0E6E3F757F
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+quanlybanhang2022.Properties.Resources
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+quanlybanhang2022.AboutBox1.resources
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+quanlybanhang2022.SRMabout.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+the root is {0}. the current.left is {1}. the current.right is {2}.

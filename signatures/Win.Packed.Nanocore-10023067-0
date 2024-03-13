@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Nanocore-10023067-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Llsyeurqiuabvmuzueywc.Onzsklthkxygw.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ConsoleApp5.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vbRyuRKxxzPIPe/ocK0FQBkPZfDPkT6WjTJd2GAx2BjVUILgmJBhIbY7G171LQpigZ2Jbp1p3/ofMgVYhFWDfRrUte0PH\7X5TrYKR6TNdBVGlEJCPleyee1gbl+VfX
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Llsyeurqiuabvmuzueywc.Properties.Resources.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RV2FA0hgZhsMg5uSHaREI80XMmaGXZ\74ohHquAWiqwD5BpJisqcwgcibatNBRf1HXbY40e5yovdM2ebgvVP86Msil/KbLOGQCq7JeYEBpH4jikHhgoColS1r+KpVAH

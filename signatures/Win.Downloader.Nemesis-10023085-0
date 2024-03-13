@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Nemesis-10023085-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+24.01 (x64 edition)ProductVersionMSIRMSHUTDOWN2ALLUSERSARPURLINFOABOUThttp://www.7-zip.org/ARPHELPLINKhttp://www.7-zip.org/supp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+256^2*B).A combination of style bits.A foreign key to the Dialog table, name of the Dialog.An identifier that specifies the typ
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+z_cyrl.txtva.txtvi.txtyo.txtzh_cn.txtzh_tw.txtInstallExecuteSequenceRemoveExistingProductsRemoveFilesUnpublishFeaturesProcessCom
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity version="1.0.0.0" processorArchitecture="*" name="Nullsoft.NSIS.exehead" type="win32"/><description>Nu
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+reComponentsFeature_ShortcutTargetArgumentsHotkeyIcon_IconIndexShowCmdWkDirDisplayResourceDLLDisplayResourceIdDescriptionResourc
