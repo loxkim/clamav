@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Nanocore-10023147-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+QuanLyDiemSinhVien.Login.resources
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+server ='DUC-PC\SQLEXPRESS' ;database ='Project_QuanlySinhVien' ;Integrated Security = true
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+delete a from ThongKe a inner join DMSV b on a.MaSV = b.MaSV where b.MaSV = '
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+select a.MaSV,a.MaMH,a.LanThi,a.DiemSo,a.DiemChu from DMDiem a inner join DMSV b on a.MaSV = b.MaSV where a.MaSV = '
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+' delete c from DMDiem c inner join DMSV b on c.MaSV=b.MaSV where b.MaSV = '
