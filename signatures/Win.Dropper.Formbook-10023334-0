@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Formbook-10023334-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_e{{{e_{{{_[e{{e[_{{c_ed{h_e{{_he{{_eh{{ce_d{he_{{eh_{{e_h{{he[_{h_[e{e[_h{_[eh{_[he{eh[_{c_[edce[_d
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+EVariantInvalidArgError4
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+w%w:wGxgx,xSyWy[y_ycygykyoysy,y9yHzSz
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+IDispatch4
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+EComponentError8VA

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Zard-10023238-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\work\hil4\helpintegrationlibrary\external\boost\boost_1_65_0\boost\thread\win32\basic_timed_mutex.hpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\work\hil4\helpintegrationlibrary\external\boost\boost_1_65_0\boost\thread\win32\condition_variable.hpp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\work\hil4\helpintegrationlibrary\external\boost\boost_1_65_0\boost\property_tree\detail\ptree_implementatio
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\work\hil4\helpintegrationlibrary\external\boost\boost_1_65_0\boost\property_tree\json_parser\detail\parser.hpp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\work\hil4\helpintegrationlibrary\external\boost\boost_1_65_0\boost\archive\iterators\dataflow_exception.hpp
