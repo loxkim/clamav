@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Berbew-10023412-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hY!jiY!jiY!jiY!jiY!jiY!jiY!jiY!jiY!jiY!jiY!jiY!jiY!
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gY!<gY!<gY!<gY!<gY!<gY!<gY!<gY!<gY!<gY!
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fY!jiY!jiY!jiY!jiY!jiY!jiY!jiY!jiY!
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+^jY!IjY!jiY!jiY!jiY!jiY!7iY!7iY!
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fY!ygY!jiY!jiY!jiY!jiY!7iY!7iY!

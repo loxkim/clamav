@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-10023487-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Liquidsnk\Documents\Visual Studio 2010\Projects\dotXMLToolsWPF\dotXMLToolsWPF\Sample\FF6A06F4-B452-48B
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Collections.Generic.IEnumerable<dotXMLToolsWPF.W2d.Opcodes.IOpcode>.GetEnumerator
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Collections.Generic.IEnumerator<dotXMLToolsWPF.W2d.Opcodes.IOpcode>.get_Current
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+An extended ascii opcode was already added to the list using the same id: {0}
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<GroupSelectCommands>k__BackingField

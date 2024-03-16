@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Dropper.DotNetRunner_ScreenConnect-10023407-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&(1>1)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\jmorgan\Source\cwcontrol\Custom\DotNetRunner\Release\DotNetRunner.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\builds\cc\cwcontrol\Product\

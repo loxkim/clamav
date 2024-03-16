@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-10023519-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Data Source = tcp:mednat.ieeta.pt\SQLSERVER,8101; Initial Catalog = p1g2; uid = p1g2;password = Sqlgang.99
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+getSGBDConnection
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT * FROM Biblioteca.GetClientHistorico(@id_cliente) where titulo like @varsearch
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT * FROM Biblioteca.Pessoa as p join Biblioteca.Cliente as c on c.id_cliente=p.id WHERE first_name like @varSearch
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ SELECT DISTINCT e.nome_editora, e.id_editora  FROM Biblioteca.Editora as e  ORDER BY e.nome_editora, e.id_editora 

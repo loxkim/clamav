@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-10023500-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+|"|Cwb&t)pr%yE"q~"|Cwc@tg"uy|g8tg"w9u=*q:"y4|gctZ"v%y8*pZ"t&wptpZ"v!{8*pZ"w4ugHr4"{`t&_q4"y4|H*
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+}%57|Hpg&a'_&>'K5vhJ+(#t*)#9!>y7)K&b)K|p3vu:+(HKpw5G4>E=4?}s*)pKpt=y$%t_psHZ~'h7}%57|%"p!u}=5uy=4b#G4>'<#vu_*%d:)`g`}`gI}
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+g&a'_&>'K5vhJ+(#t*)#9!>y7)K&b)KtcpsHZ~'h7}%57|;8p!u}=5uy=4b#G4>'<#vu_*%d:)`g`}`gJ~pqy$&<cpsHZ~'h7}su7~
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4"zI|=*q2"{7t=@qz"y%{'cq*"{Ku=*q6"y{ua<q:"y4|b"qspruy@4q}
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+y}~@pz"y%{74pa"p>}!_p_"r%y8xq_"q2{"<q$"xAx9_qa"p3r$xq&"zHt:<q2"z8{#_qwpr%y8*pypr%y8*p{pr%y8*pc"r%y8*p4"zF{t_q4"ze|9
