@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-10023651-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+- Approximately 20 answers removed. Using a process of elimination by removing all the answers that can and can not go in th
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+- Approximately 30 answers removed. Very likely that there will be more than one time that the puzzle will need to be solved
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Created by Derrick Nagy for .NET 1 at Kirkwood Community College
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ControlLogic.Properties.Resources.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ControlLogic.IUYHGBFDSUYGFV.resources

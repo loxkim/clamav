@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Tedy-10023639-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NXAEEMCMDR.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bTEnumerable<System.Generics.Collections.TPair<System.string,Vcl.Themes.TStyleManager.TSourceInfo>>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Hamadash.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Scheme "%s" is not registered#Credential without user or password+Platform-dependant function not implemented)Scheme-d
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[TEnumerable<System.Generics.Collections.TPair<System.string,Vcl.Themes.TSysStyleHookClass>>

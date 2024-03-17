@@ -1,0 +1,33 @@
+VIRUS NAME: Win.Downloader.Darkme-10022759-1
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: (0|5)&((1&2)|(3&4))
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+esuap&&1 tuoemit&&WtnioPyrtnEllDnuR
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Microsoft Visual Studio\VB98\VB6.OLB
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VirtualProtect
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\Microsoft Visual Studio\MyProjects\test\Debug\test.pdb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VirtualAlloc
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cmd /c copy /b \\{WILDCARD_ANY_STRING(LENGTH>=8&&<=15)}@80{WILDCARD_ANY_STRING(LENGTH>=2&&<=30)}.dll 

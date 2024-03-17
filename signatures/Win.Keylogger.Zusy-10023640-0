@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Zusy-10023640-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid time Offset string: %s=Error decoding URL style (%%XX) encoded string at position %d<Type '%s' is not declared i
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bTDictionary<System.Net.HttpClient.THTTPClient,System.Net.HttpClient.THTTPClientExt>.TKeyEnumerator<
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3TLoginCredentialService.TLoginCredentialEventObject|:J
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tTComparer<System.Generics.Collections.TPair<System.Net.HttpClient.THTTPClient,System.Net.HttpClient.THTTPClientExt>>H
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/TDefaultLoginCredentials.LoginEventUsrPw$ActReclRV

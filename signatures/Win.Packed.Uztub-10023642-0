@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Uztub-10023642-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!This is a Windows 95 executable
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+I>I /DDPXDIG0DPADeNI0Ar>sPP<IXD PANuDsDgXD
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eed uee "< esL rre "ur>ieeeeqtck<e ee/reiielqr
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xl  esaee urfIeiu  ux=eee= "eqt"o>rs <ycs 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+IDD_SETTINGS
