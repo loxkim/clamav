@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Keylogger.Macos-10023718-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4(290Q/login-:4(2908??q8?'0=85q!0""&>Q
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+>"%QPOST /j>8?"("%4$#=4?2>545\[
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"#2q||:4ditto -2q|:q||"4Q.zip --?>#"#2q|`q&8%9q82>?q"%>!q5470$=%q3$%%>?qsq3$%%>?"q*s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Qlogins
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+QLogin 

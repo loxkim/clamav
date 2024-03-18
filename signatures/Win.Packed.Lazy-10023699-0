@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Lazy-10023699-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+zLoader.Form2+<guna2ToggleSwitch36_CheckedChanged>d__84, VandalXiter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.system.drawing.common.dll.compressed|4.0.0.1|System.Drawing.Common, Version=4.0.0.1, Culture=neutral, PublicKeyToken=cc7
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mLoader.Form2+<guna2Button6_Click_2>d__155, VandalXiter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eLoader.Form2+<PutTaskDelay>d__154, VandalXiter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.vampire444.dll.compressed|1.2.24.0|Vampire444, Version=1.2.24.0, Culture=neutral, PublicKeyToken=null|Vampire444.dll|BFC

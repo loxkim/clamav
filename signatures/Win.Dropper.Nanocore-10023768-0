@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-10023768-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xVisiblox.Charts.AxisBase`1[[System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+UVisiblox.Charts, Version=2.0.8.5757, Culture=neutral, PublicKeyToken=1543c03f04c4461b
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+^(?<key>[a-z0-9]+)=((?<number>[^\(\)"\/]+)|"(?<string>[^"\/]+)"|\((?<list>(\s*(\d+(?:\.\d+)?)\s*,?)+)\)).
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+^RPMTorque=\(\s*(?<rpm>[+-]?\d*\.?\d*),\s*(?<backtorque>[+-]?\d*\.?\d*),\s*(?<torque>[+-]?\d*\.?\d*)\).*
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+EngineChartViewer.Properties.Resources.resources
