@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.njRAT-10023823-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+office.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+___'bbb/\\\5SSS:III=AAA=:::=666=<<<?DDDANNNCZZZGdddIjjjKoooKtttIwwwDyyy>zzz5uuu+kkk!\\\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+::: @@@'EEE.FFF5GGG<BBB@>>>E666I111J...K***K%%%L(((L...N222O:::QBBBSJJJVSSSWWWWY[[[Z___YaaaWdddShhhOgggJgggBggg9___2XXX*MMM!777
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*{{{,ttt.kkk.ccc-___-ZZZ,[[[,[[[,YYY-WWW.aaa/ccc0jjj1rrr3yyy5|||6
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+aaaUfffQaaaMbbbGbbbAccc:XXX4TTT.NNN(???"111

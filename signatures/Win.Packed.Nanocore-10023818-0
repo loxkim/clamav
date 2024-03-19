@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Nanocore-10023818-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\walke\Documents\Downloads\canaleamir_20190201
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Instagram_Takeout_Parser.LoginForm1.resources
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<div class='convo-link'><a href='CONVO_INDEX_PLACEHOLDER' target='convo'>CONVO_NAME_PLACEHOLDER</a></div>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+document.addEventListener('DOMContentLoaded', function() {
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Copies command line arguments to the clipboard.

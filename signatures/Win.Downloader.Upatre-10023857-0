@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-10023857-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Administrator\AppData\Local\Temp\ApInmtyjhE.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\win7user\e39d262c2ab1857b14992392daa0c46bdf278b3b116a494a94bec4d99479288e.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\85eeaf22bbd22ab6c22d864af8090ea5.virus.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\9de6c5b082c82a3236664acfaeec84ac211a9e8dfecc232936ad9ccec3ec5572
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\9b71ac60864ae5c69ab78d9ace29bd2ed10c9085e556dc7e00f593dc3ae15a51

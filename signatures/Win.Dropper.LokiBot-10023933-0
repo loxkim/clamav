@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-10023933-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPADCtY
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+* If you predict a change of the price correctly you will get a profit of 90% of your stake.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+UPDATE entregador SET ent_nome=@ent_nome, ent_status=@ent_status, ent_telefone=@ent_telefone WHERE ent_cod=@ent_cod 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DesktopApp.TelaLogin.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+digo, ent_nome AS Nome, ent_status AS Status, ent_telefone AS Telefone FROM entregador WHERE ent_nome=@ent_nome
