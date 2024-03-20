@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Ramnit-10024006-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Remote Login+Container cannot be a control for its item.*The %s control is already used by %s item.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+f:documentID="xmp.did:49FCF3A3218211E4A438E5B4C02C27C7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+f:documentID="xmp.did:7AF4C50C218211E4BA73E92AA0FBFCAB"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Failed to Save StreamFailed to selection Save Stream.RichEdit: failed to get IRichEditOle interface
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+J:\serialize\DoubleAnimation\mouse.pdb

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zeus-10023972-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Supwalk.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\tmbuewmejc[jkrbl^qxkxfpvnodnq\_giekudvqudxdtbhswiorkjgxpe`wiq_\na``]pvm[kxadnili]o]_qfamntpZwojv[rkgstZxebmkfkedhZu[aexqku
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xucdg]m`vxZpwrgnwfesxdZfmq_r\tZlkqgtfnikxibfrcrppgxgvni_bocvhkmss_rfpvtk\qZktk\_[a`l\_spZwZZkw^gpm]maclujjZo\rwZlwd_Z[Zptg
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hdqu`qrscvlr^iecp_n\hg[cdc]pp\sjo]hmgqbwafq]hiZxl`vogo\vfsZsm`stq]\s_khan_cwu[Zrpocmwxccfi^cmldfske^uaZwdrwdnrsri_ien`q^_j
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity version="1.0.0.0" name="Artfollowlittle.app"/>

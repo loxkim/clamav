@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.NetWire-10023954-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"Please see more details at http://emberjs.com/blog/2014/10/16/handlebars-update.html.",
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+current.indent = (/([ \t]+$)/).exec(statements[i - 1].original) ? RegExp.$1 : '';
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+var templateSpec = new EmberHandlebars.JavaScriptCompiler().compile(environment, options, undefined, true);
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+EmberHandlebars.JavaScriptCompiler.prototype.compiler = EmberHandlebars.JavaScriptCompiler;
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+// for external users to override these as psuedo-supported APIs.
