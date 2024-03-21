@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-10024099-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\users\john\documents\visual studio 2013\Projects\Snake_Project\AutomatedSnakeProject\Map.html
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+This data is simply the name, copyright notice, description, version, etc of the Desktop 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+get_MenuItemPressedGradientBegin
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+shown after SHRUB loads the ShiftOS-Next save, and the desktop environment is selected 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Use this tool to edit the Boot Screen of your desktop environment. The Boot Screen is 

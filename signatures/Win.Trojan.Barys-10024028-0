@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Barys-10024028-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  syspin "%%WINDIR%%\System32\calc.exe" "Unpin from taskbar"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  syspin "%%WINDIR%%\System32\calc.exe" "Pin to start"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CipherModeFinalTemplate_ExternalCipher@VCBC_Encryption@CryptoPP@@@CryptoPP@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  syspin "C:\Windows\System32\calc.exe" 51201
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CLmMv@U_tagInterProcessParamEx@ns_config@@@@
