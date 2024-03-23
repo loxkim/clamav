@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Pwsx-10024426-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO StockTb VALUES (@StockID, @SupplierID, @BookID, @AuthorName, @BookName, @PublisherName, @PublishedYear, @Pri
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO Customer VALUES (@Customer_ID, @Name, @CustomerAddress, @Phone, @Email, @Age)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO SuppliersTb VALUES (@SupplierID, @Supplier_name, @Supplier_City, @Supplier_email, @Supplier_phone)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Data Source=FAHADMUGHAL\SQLEXPRESS;Initial Catalog=CSharp;Integrated Security=True
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO PAYMENTS VALUES (@Payment_ID, @Bill_ID, @Customer_ID, @Credit_card_numb, @Credit_card_expiry, @PaymentPaid)

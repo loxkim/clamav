@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Formbook-10024303-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+i7wVnbQy0FIXyN4Ta4hgynZhSMbW8WRj7tuPXCHztg7uaWw25PoLrO5pbDbk+gus7mlsNuT6C6wm+zibRbDkL0aegJHVq+mr1W/lRhoG0ygUdwxUjpeU/M3Z
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Created by Johnathan R. Burgess. For comments, questions, and/or concerns, you can reach me at ryanburgess173@outlook.co
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://tempuri.org/TailoringBusinessDataSet.xsd
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO `Customers` (`Name`, `Age`, `Address`, `City`, `State`, `ZIP`, `Phone`, `Email`) VALUES (?, ?, ?, ?, ?, ?, ?
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+UProvider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\TailoringBusiness.accdb

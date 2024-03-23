@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Wacatac-10024421-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+IsSystemProcess: * USERNAME='%s' (secondary envvar check): albeit HKCU\Software\VOS's presence, this is a SYSTEM proce
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RunDll32|UninjectPID: %s: Injected process %d
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\user\Temp\Temporary Internet Files
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+IsSystemProcess: USERNAME='%s' (secondary envvar check): this is indeed a USER process
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\user\Templates

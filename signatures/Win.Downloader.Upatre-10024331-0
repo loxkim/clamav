@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-10024331-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Joe Cage\AppData\Local\Temp\0ad65b4bfdc9a987ec5359c08cdd1812073549845569a67e93eb080cf5fe026a.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\4fceb8e1cc1b26dad439ad0a752644bfa34d78f8a204a7ed836e7d440be687fb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<description>RaduUpdate</description>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ColourPicker::init : CreateWindowEx() function return null
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+_Lists.txt

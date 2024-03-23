@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Emotet-10024311-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Cannot find 'XQueueServerTest.exe', please exit this program and start server manually.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mailto:hdietrich@gmail.com
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<description>description</description>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Failed to load string resource %u
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vWO8G@iq9th2HeV4@l?HJr6N@}fESzzF~13HAkF{AYgsKfz~Hy1gu$3cV1sCK8Hh3t3p~y?HZ4fgkHpG*f

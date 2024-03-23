@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zusy-10024364-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Place Quick Access Toolbar above the RibbonRAre you sure you want to restore the Quick Access Toolbar to its default con
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+1Are you sure you want to delete the '%s' toolbar?#Reset changes made to '%s' toolbar?
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DaisoLIB.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ gray scale mixer  cyan, magenta and yellow - cube! cyan, magenta and yellow - mixer
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+IDS_BOOT_PARAMS_DIALOG_5439_4606

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-10024332-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+D:\Games\PC\SteamLibrary\steamapps\common\Sonic and SEGA All Stars Racing\HashMap.txt
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Attempted to write past end of stream
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AllStarsRacingLib.Properties.Resources.resources
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+AllStarsRacingLib.Properties.Resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+x = {0}, y = {1}, angle = {2}, birds = {3}, bullets = {4}; lives = {5}, birdSpeed = {6}

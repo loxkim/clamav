@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.LokiBot-10024333-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+HTML Report (*.htm)|*.htm|Condensed HTML Report (*.html)|*.html|CSV Report (*.csv)|*.csv|Text Report (*.txt)|*.txt
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+.IssueDescription{padding: 5px;background-color: #eee;color: #333;font-size: small;}
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ issues discovered.Click Generate Report to create a new report
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ReportTemplates
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+New rule successfully added, be sure to save the rule set to a rules file, if you are happy with the results
