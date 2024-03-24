@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Jaiko-10024563-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Carrie.Newell\AppData\Local\Temp\6\Temp1_Scan_883_08745753_6130.zip\scanned_doc_091113.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Virtual\AppData\Local\Temp\9f83977a31d770b7cfe18ade0b9854135c5bbea1727155f9fe876d906821482f.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\RA491~1.VUL\AppData\Local\Temp\909d149bd742f37bbbfc7f26be723a79.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\1326436a2ce018d024fd0cc240c16106.virus.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\72ac2887b90ceaa13a5255e12b0d4e76.exe

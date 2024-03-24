@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-10024516-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BFlame.Front.Target.DependencyBuilder+<AddRuntimeLibraryAsync>d__44
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Collections.Generic.IEnumerable<System.Threading.Tasks.Task<Flame.IAssembly>>.GetEnumerator
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Collections.Generic.IEnumerator<System.Threading.Tasks.Task<Flame.IAssembly>>.get_Current
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=Flame.Front.Target.DependencyBuilder+<AddReferenceAsync>d__45
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+get_IsExecutable

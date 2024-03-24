@@ -1,0 +1,18 @@
+VIRUS NAME: Txt.Downloader.AHKBot-10024463-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+filecreateshortcut,
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+urldownloadtofile, http{WILDCARD_ANY_STRING(LENGTH<=200)}/%serial%-{WILDCARD_ANY_STRING(LENGTH==5)}%a_ahkpath%~
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+run, %a_ahkpath%

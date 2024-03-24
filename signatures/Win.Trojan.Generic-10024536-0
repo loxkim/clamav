@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10024536-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\User\Downloads\PowerTools-master\PowerTools-master\PowerPick\bin\x64\Debug\ReflectivePick.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\Documents\Visual Studio 2013\Projects\UnmanagedPowerShell\PowerShellRunner\obj\Debug\PowerShellRunner.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ICorRuntimeHost::GetDefaultDomain failed w/hr 0x%08lx
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PowerShellRunner.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ICLRMetaHost::GetRuntime failed w/hr 0x%08lx

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-10024498-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The Matrix Commutator operationa only works with square 2-dimensional matrices
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Can't implicitly convert a ComplexMatrix to a DoubleMatrix if any of the cells contains imaginary numbers.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+IsProbabilisticSystem() requires either a vector or a square matrix
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+IsProbabilisticSystem() only works on 1 or 2-dimensional matrices
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+LinearAlgebra.Properties.Resources.resources

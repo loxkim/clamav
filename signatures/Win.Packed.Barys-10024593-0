@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Barys-10024593-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GHL.Shared.Tokenizer+HelperProductStruct+TemplateCustomerTask`1[[System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, Publ
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+icKeyToken=b77a5c561934e089]][]
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<PrivateImplementationDetails>{6A551E1E-1FA3-4451-AD81-F94980FDAD1E}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GHL.Shared
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Module>{9344A80D-752B-4288-8144-46DC4C1B7B41}

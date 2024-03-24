@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Remcos-10024518-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+datasource=localhost;database=pharmacy_db;port=3306;username=root;password=sample1;
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+datasource=localhost;port=3306;username=root;password=sample1
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+vnW4hocRIpkvCx8j95oW8WXvZWbJ6vQdLloLNZFwmfn9Aa2ykt9dvbowpRhIyPiGxQe9ElUfQ8MoGvRyQz8uJj0k3muj9EvV+lER2t7lE14+aTJ75p4FU6nx
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+O4G6Gagntwy1YbJE6azq2YRZuzuDPnCybt7u1aw5bCGMBrTlA26mn8yqc0zGooAmQPwOipd1Wlj5CCgEzrCEtjwZCDub1Yk9scH0AwrWDOxJTA8pExs9oYJu
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+project_pharmacy.InventoryMgmt_AddSubtractQtyDialog.resources
