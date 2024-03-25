@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-10024725-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Please download BGET From https://github.com/jahwi/bget/archive/master.zip
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Bget is a batch-file command-line tool for handling Windows scripts. It is built to be a 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Download script from pastebin.com
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Please click update to download the latest version of the bget script and client.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Bget.DialogCheckForUpdate.resources

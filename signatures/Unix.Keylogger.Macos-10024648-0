@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Keylogger.Macos-10024648-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8"%q%>q*s%)%s|4qv"4%q4)%4?"8>=4q>7q54":%>!vqQ8=4"q%>q4'4#(q78|4qv"4%q54":%>!
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4#<8?0=sq%>q"4%==q0!!=820%8>?qs>"0"2#8!%q|4qv%44q7>=54#q0"q%4)%q%>qy!0%9q%>q9><%q30"4
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:;83?<05;849;90;Q77?34=75>48>94?9<2=9:44>5<0<27=Q07323;!3!705=:<5628;?<9?7?:5?00Q9?70?:?>274>735Q
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8?54#svqQ|4qv%4==q0!!=820<4q>7qy"("%4<q8q%>q"9>#%q$"4#q?|4qv"4%q$"4#?0<40334#
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8"%q%94?vq"8>?q8"q8?q4)%4?|4qv87q78=4

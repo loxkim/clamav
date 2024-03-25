@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Formbook-10024697-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ersion=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089PADPADPhRL
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ersion=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089gSystem.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+neutral, PublicKeyToken=b03f5f7f11d50a3aPADPADPN
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ProcessDynamics
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+1. The primary target of the game is to achieve score points. A secondary target would be to finish the game, by clearin

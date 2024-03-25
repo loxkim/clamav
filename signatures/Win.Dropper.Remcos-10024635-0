@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Remcos-10024635-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPADPBj
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+CREATE TABLE users (UserId INT NOT NULL PRIMARY KEY IDENTITY, UserName NVARCHAR(50) NOT NULL, Password NVARCHAR(50) NOT 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Please, specify a registration key or Contact buisness_quickbill@outlook.com
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+*  Please mention a path for database to Backup, prevent you to protect the data from system failure.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fSystem.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3ahSystem.Drawing.Bitmap, S

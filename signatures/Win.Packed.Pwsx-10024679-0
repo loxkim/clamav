@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Pwsx-10024679-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+UPDATE students SET username = @username ,password = @password ,usertype=@usertype WHERE id = @id
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Select * from students where username=@username and password=@password
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ SELECT Note,notekey from notes where username=@username or usertype=@usertype
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO students VALUES(@username, @password,@usertype )
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT into notes VALUES(@Note,@notekey,@username,@usertype)

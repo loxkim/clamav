@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Enigmaprotector-10024668-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+OLE error %.8x.Method '%s' not supported by automation object/Variant does not reference an automation object7Dispatch m
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C2nd-level cache: 2 MBytes, 4-way set associative, 32 byte line sizeC3rd-level cache: 4 MBytes, 4-way set associative, 6
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+;Data TLB: 4 KByte pages, 4-way set associative, 128 entries<Data TLB1: 4 KByte pages, 4-way set associative, 256 entrie
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Null descriptorAInstruction TLB: 4 KByte pages, 4-way set associative, 32 entries@Instruction TLB: 4 MByte pages, 4-way 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;!<D=V>\?y?
