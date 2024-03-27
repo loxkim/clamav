@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-10024987-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PnCH2S7Jy4ceYn1KrhdC5nH2ZtyaYnQ+5hdWrsG2JkfeYn1KrhdC5nH2ZtyaYnQ+5hdWrsG2JkfeYn1KrhdC5nH2ZtyaYnQ+5hdWrsG2JkfeYn1KrhdC5nH2
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+U]System.DayOfWeek, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OThe default font values for all calendar items.  This can be overriden in code.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Days between ViewStart and ViewEnd should be between 1 and MaximumViewDays
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnDrawItemPattern

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Futurax-10024938-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+F:\Agent\_work\78\s\obj\x64\Release\EvaluationContainer.NetFX40.csproj\Microsoft.Mashup.Container.NetFX40.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity processorArchitecture="x86" type="win32" name="icon" version="1.0.0.0" />
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  <select name="testmix" tip-target="testmix-ctx" active-color="XXBXRGBX" right-justify="true">
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Windows Memory Diagnostic (WMD) could not process the system memory map. This
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Microsoft.Mashup.Shims.Interprocess

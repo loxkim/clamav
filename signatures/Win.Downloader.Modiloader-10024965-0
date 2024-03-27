@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Modiloader-10024965-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+D:\Gum\AnyDesk.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+???@@@AAABBBCCCDDDEEEFFGGHHIIJJKKLLLLMMMMNNNNOOOOPPPPQQQQRRRRSSSSTTTTUUUUVVVVWWWWXXXXYYYYZZZZ[[[[\]^_`abcd
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+&Cannot insert or delete rows from grid List capacity out of bounds (%d)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<8<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<J=N=R=V=Z=^=b=f=j=n=r=v=z=~=
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Cannot drag a form"Unable to find a Table of Contents

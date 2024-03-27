@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Upatre-10025078-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\bc\Local Settings\Temp\CBE_Form\CBE_Form.scr
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\mapp_start_folder\snowball.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\hUicEyeZ.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\2ab114575e40ff6b6fcba3d187bb9ae3f44cb6c0ffcd1546a7f937809d1316b9
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\7a80042ad3799fd0a3bd8fc1b9b92ed6c13eafac14a0ac50ff80fc98effa2266
