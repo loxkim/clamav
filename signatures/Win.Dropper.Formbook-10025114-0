@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Formbook-10025114-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Codes\Version9\GoldernCrypter\Release\GoldernCrypter.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The specified file is not valid Executable: 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error x64 BINARY NOT SUPPORTED! please choose another file: 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+YOUR BIN FILE CAN'T BE RUN AS BALLOON EXECUTABLE.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&+(/-$-+/40*326;81:8<A@7@>BGG=FDHMNCLJNTNIRPTZUOXVZ`]U^\c_f[dbiemajholjgpnwwumvt}}|s|z

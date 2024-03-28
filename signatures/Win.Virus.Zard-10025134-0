@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Zard-10025134-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\DCB\CBT_Main\BuildResults\bin\Release\plug_ins\ReadOutLoud.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\dcb\cbt_main\plugins\readoutloud\src\readaloud.cpp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+check_box(item_id: 'DefA', name: '$$$/Dialogs/ReadingPrefs/DefaultAttributes');
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+check_box(item_id: 'Ride', name:'$$$/Prefs/Access/ReadOrder/Override');
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+refs/Driver/Dialogs/ReadingPrefs/DefaultAttributes/Dialogs/ReadingPrefs/Pitch/Dialogs/ReadingPrefs/WordRate/Dialogs/ReadingPrefs

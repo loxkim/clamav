@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Formbook-10025121-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+#-%&-%a-%&-%a-%&-%a-%%-$#-&*-@@*-@!a-@@&-@@*-@@%-@!@-&@-@@!-@!@-@@*-@@&-@@%-b*-@!a-%%-$#-a!-@@*-ba-@!a-@!
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-ba-@@*-@@&-@!@-!-a$-@@&-b*-@@!-@!!-b*-@@%-@!!-**-@@@-@!!-@@*-@!a-@!@-&
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-@!@-@@%-!-!-@b-@-!-@%-**-@#@-%&-a*-@!@-ba-a$-@!@-@@%-@@a-@!
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-@!@-@!b-ba-@!a-@#@-!-*@-@!@-@@&-&b-@#!-@!@-bb-@@*-@@&-@!
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-ba-@@*-@@&-@!@-!-&a-@!@-ba-@@*-@!$-@!$-@!@-@@%-*#-@!

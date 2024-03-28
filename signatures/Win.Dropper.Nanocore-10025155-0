@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-10025155-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+if exists(select Table_Name from Information_Schema.Tables where Table_Name='temp') drop table temp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Please read the following terms and conditions before attempting the exam
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MProvider=Microsoft.Jet.OLEDB.4.0;Data Source=|DataDirectory|\bin\Debug\SA.mdb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Sorry! Your specifed attempts exceeded!Contact Co-ordinator
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+All your attempts have gone in Vain! Contact Co-ordinator.

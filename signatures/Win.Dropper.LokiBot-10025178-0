@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-10025178-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<rd:SchemaPath>H:\Dropbox\pharmacymansys\pharmacymansys\PurchaseData.xsd</rd:SchemaPath>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO MANAGER_LOGIN(E_ID,U_NAME,PASSWORD) VALUES((SELECT MAX(EMP_ID) FROM EMPLOYE_INFO),'
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Microsoft.VSDesigner.DataSource.Design.TableAdapterDesigner, Microsoft.VSDesigner, Version=10.0.0.0, Culture=neutral, PublicKeyT
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+UData Source=XE;Persist Security Info=True;User ID=pharmacy;Password=1234;Unicode=True
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pharmacymansys.login.resources

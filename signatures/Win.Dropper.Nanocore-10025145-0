@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-10025145-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+=gnxhYgHsghAQmcw5alsZ9MkJHcuWJbWPDZyBnrVym1zQmcw5alsZ9MkJHcuWJbWPDZyBnrVym1zQmcw5alsZ9MkJHcuWJbWPDZyBnrVym1zQmcw5alsZ9Mk
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!System.Windows.Forms.AxHost+State
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+get_cmdbtn_BackupFile
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+get_m_cmdbtn_GatherSubFolderFiles
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tca5OEQHUKIz+cJqeIkA/vPjT8OX/mdEJhOIrJ6Lq+PXtDumFGpEh/nt2+l+/yg7iXclB8vYQF5wc9DoFnupFLAv//P8S+/E35G84hhoFfSkoRWCqoch+AkoTN0j9W6
