@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Nanocore-10025352-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Hblvlabxuo.Lgnuktdlnqvtxomrzb.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nzvXq1F2WFffxzz18Us44nSQDBO1xSZFtpl5D2P8JjoyAAxcmhz/6Sy/ElVYVFZzTudUDeMcI0IVDhuA0t6x5DyhN\72RY9TJ4pipEAsJUOUX/6itjHhzQypEdHIGYm
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+a nan.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ProxyThreadConfig
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Hblvlabxuo.Properties.Resources.resources
