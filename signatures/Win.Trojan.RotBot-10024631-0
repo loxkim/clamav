@@ -1,0 +1,98 @@
+VIRUS NAME: Win.Trojan.RotBot-10024631-0
+TDB: Engine:91-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2|3)&(4|5)&(6|7)&(8|9)&(10|11)&(12|13)&(14|15)&(16|17)&18
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+http://ipinfo.io/ip
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+ahr0cdovl2lwaw5mby5pby9pca==
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+software\wow6432node\clients\startmenuinternet
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+u09gvfdbukvcv09xnjqzmk5vzgvcq2xpzw50c1xtdgfyde1lbnvjbnrlcm5lda==
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+software\clients\startmenuinternet
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+u09gvfdbukvcq2xpzw50c1xtdgfyde1lbnvjbnrlcm5lda==
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+sqlite.interop.dll
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+u1fmaxrllkludgvyb3auzgxs
+ * SUBSIG ID 8
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+\root\securitycenter
+ * SUBSIG ID 9
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+xhjvb3rcu2vjdxjpdhldzw50zxi=
+ * SUBSIG ID 10
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+select * from antivirusproduct
+ * SUBSIG ID 11
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+u0vmrunuicogrljptsbbbnrpdmlydxnqcm9kdwn0
+ * SUBSIG ID 12
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+root\wmi
+ * SUBSIG ID 13
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+cm9vdfxxtuk=
+ * SUBSIG ID 14
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+select * from wmimonitorbasicdisplayparams
+ * SUBSIG ID 15
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+u0vmrunuicogrljptsbxbwlnb25pdg9yqmfzawneaxnwbgf5ugfyyw1z
+ * SUBSIG ID 16
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+select * from win32_keyboard
+ * SUBSIG ID 17
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+u2vszwn0icogznjvbsbxaw4zml9lzxlib2fyza==
+ * SUBSIG ID 18
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+.netframework,version=
