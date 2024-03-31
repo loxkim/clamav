@@ -1,0 +1,48 @@
+VIRUS NAME: Js.Trojan.Screenshotter-10022306-1
+TDB: Engine:90-255,FileSize:100-2000,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7&8
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+var {WILDCARD_ANY_STRING(LENGTH<=30)}new activexobject
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+scripting.filesystemobject
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+winhttp.winhttprequest.5.1
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+adodb.stream
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.loadfromfile
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.open("post", 
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.getdrive("{WILDCARD_IGNORE}:\\")
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.serialnumber
+ * SUBSIG ID 8
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.setrequestheader("user-agent", "windows installer")

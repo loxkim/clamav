@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Coinminer-10025521-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+runtime executionx509: %q cannot be encoded as an IA5Stringx509: RSA modulus is not a positive numberError enabling Transport H
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+com/2022/08/geeks-guide-predator-prey-hulu/runtime: may need to increase max user processes (ulimit -u)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+in chunk lengthinvalid header field name %qinvalid proxy address %q: %vinvalid runtime symbol tablemalformed MIME header line: 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+failed to decode just-written framehttp2: Transport failed to get client conn for %s: %vhttp: putIdleConn: too many idle connec
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+to array with length %xgot %s for stream %d; expected CONTINUATION following %s for stream %dhttps://apps.apple.com/us/app/leag

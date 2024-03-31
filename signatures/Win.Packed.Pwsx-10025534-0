@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Pwsx-10025534-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=MasterDetailSimple;Data Source=localhost
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO ORDERS (CustomerId,OrderDate,Invoice,Paymend,Price) VALUES (@CustomerId,@OrderDate,@Invoice,@Paymend,@Price)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+UPDATE ORDERS SET OrderDate = @OrderDate, Invoice = @Invoice, Paymend = @Paymend, Price = @Price WHERE id = @oldid
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://tempuri.org/DataSet1.xsd
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+bindingNavigatorDeleteItem1.Image

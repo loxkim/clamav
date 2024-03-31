@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.Screenshotter-10025198-0
+TARGET TYPE: OLE2
+OFFSET: *
+DECODED SIGNATURE:
+wscript.exe"wscript.exe" "sdv.vbs"

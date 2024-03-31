@@ -1,0 +1,5 @@
+VIRUS NAME: Vbs.Trojan.Screenshotter-10025015-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+createobject("wscript.shell").run "wmic product where name=""caf data"" call uninstall

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Remcos-10025530-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+j():&f$9j_>/;wH,e85ew)"?^+&s(-0,j():&f$9j_>/<g_=u8&sm8,9^+&s/=(9{%0 =k$9j_>/<g_=u8&sm8,9^+&s(-0,j():&f$9j_>/;wH!i':oq?+>[('
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+j_>/<g_=u8&sm8,9^+&s(-0,j():&f$9j_>/<g_=u8&sm8,9^+&s(-0,j():&f$9j_>/<g_=u8&sm8,9^+&s(-0,j():&f$9j_>/<g_=u8&sm8,9^+&s(-
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!8,9^+&s(-0,j():&f$9j_>/<g_=u8&sm8,9^+&s(-0,j():&f$9j_>/<g_=u8&sm8,9^+&s(-0,j():&f$9j_>/<g_=u8&sm8,9^+&s(-0,j():&f$9j_
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=u8&sm8,9^+&s(-0,j():&f$9j_>/<g_=u8&sm8,9^+&s(-0,j():&f$9j_>/<g_=u8&sm8,9^+&s(-0,z89*6v4)zO.?,wO-e(6c}(<)N;&s(-0,J
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++&s(-0,j():&f$9j_>/<g_=u8&sm8,9^+&s(-0,j():&f$9j_>/<g_=u8&sm8,9^+&s(-0,j():&f$9zO.?,wO-e(6c}(<)N;6c8= <z8):&f$9J

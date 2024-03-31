@@ -1,0 +1,13 @@
+VIRUS NAME: Py.Trojan.Screenshotter-10025197-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+screenshotter.save()
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.add_header('user-agent', 'windows installer')
