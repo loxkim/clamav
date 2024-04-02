@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Barys-10025768-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Admin\AppData\Local\Temp\d7e934f2acb830eaf1b71b57010bd2ccd86cb069957671d0b809bb7b0e0f9399.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Documents and Settings\albert cortez\Local Settings\Temporary Internet Files\Content.Outlook\33L263ZH\scan001 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\george\Desktop\software.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\691a556d634bd69ae7a2dbd59a5a8915e72da7257f8d6c701b130361ac02755e
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\8289d7c075ec566ea16ae3bc72c5e9b36a7d5fd13afc6c5ff4c7957149643e63

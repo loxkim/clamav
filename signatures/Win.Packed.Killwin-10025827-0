@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Killwin-10025827-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://nominatushostinglibrary.000webhostapp.com/WindowsRecovery.VBS
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://nominatushostinglibrary.000webhostapp.com/AllStars.zip
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://discordenablesafe3.w3spaces.com/ScareWare.Nominatus.RansomDownloader.html
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://nominatushostinglibrary.000webhostapp.com/MicrosoftOnlineScanner.vbs
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+TROJAN.WINKILL.32.exe

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Killwin-10025828-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://raw.githubusercontent.com/pankoza-pl/malwaredatabase/main/e______________.bat
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://raw.githubusercontent.com/AhmetHan/h-worm_houdini/master/h-worm_houdini_vbs_rat_source_code
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://raw.githubusercontent.com/Da2dalus/The-MALWARE-Repo/master/Email-Worm/ILOVEYOU.vbs
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\again\SharpDevelop Projects\RInjector\Virus.win32RozbehStrike\obj\Debug\Nominatus_ToxicBattery.pdb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://raw.githubusercontent.com/Da2dalus/The-MALWARE-Repo/master/Email-Worm/Scare.hta
