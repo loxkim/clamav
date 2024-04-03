@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Msilzilla-10025930-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.iconlib.dll.compressed|0.73.0.0|IconLib, Version=0.73.0.0, Culture=neutral,
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+N\{ ProcessId = {ProcessId}, Name = {Name}, ExecutablePath = {ExecutablePath} }
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PublicKeyToken=null|IconLib.dll|676DAE618EEF96057FA773673F8E25B4ECFD68FC|57856
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Security.Permissions.SecurityPermissionAttribute, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+costura.iconlib.dll.compressed
