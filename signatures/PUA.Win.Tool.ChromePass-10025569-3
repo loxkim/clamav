@@ -1,0 +1,5 @@
+VIRUS NAME: PUA.Win.Tool.ChromePass-10025569-3
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+SELECT origin_url, action_url, username_element, username_value, password_element, password_value, signon_realm, date_created from logins

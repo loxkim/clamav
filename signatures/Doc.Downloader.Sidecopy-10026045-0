@@ -1,0 +1,13 @@
+VIRUS NAME: Doc.Downloader.Sidecopy-10026045-0
+TDB: Engine:90-255,Container:CL_TYPE_MSOLE2,Target:0
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Start Menu\Programs\Startup\
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hexstringtobinaryfile

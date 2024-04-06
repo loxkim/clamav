@@ -1,0 +1,30 @@
+VIRUS NAME: Win.Downloader.Mallox-10025241-0
+TDB: Engine:96-255,FileSize:13000-600000,Target:1
+LOGICAL EXPRESSION: 4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+_CorExeMain
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+mscoree.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#GUID
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#Strings
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: (0&1&2&3)
+     +-> REGEX: h\x00t\x00t\x00p\x00:\x00\
+     +-> CFLAGS: \x00\/\x00(\d\x00){1,3}\.\x00(\d\x00){1,3}\.\x00(\d\x00){1,3}\.\x00(\d\x00){1,3}\/\x00([a-z\-]\x00){1,12}\.\x00(p\x00n\x00g\x00|d\x00a\x00t\x00|d\x00l\x00l\x00|b\x00m\x00p\x00)/i

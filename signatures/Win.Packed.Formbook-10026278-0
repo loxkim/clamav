@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Formbook-10026278-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PIy/yA2ytocKIBXqUtX+SF7vDMGD%?RzPf1xBH9scS6nnOK90gdFYbKHyQYr+o6EePSTDdK+QVHcA58nTpojclCqJj91L3FygQP/ilDwxv17Mh0g5dbtvWVi
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Data Source=mssql1004.ixwebhosting.com;Initial Catalog=C53873_gesManagement;Persist Security Info=True;User ID=c53873_mssql;Pass
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gesQuoteManagementSystem.qmsLoginForm.resources
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+    <tr><td><img alt="" src="http://gesksa.com/ksaquotes/geslogowithtitle.jpg"/></td></tr>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Cannot login with this user, Quote Folder is missing or not created. Contact Admin to assist you
