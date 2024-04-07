@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Lazy-10026463-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2. Font Components. While the software is running, you may use its fonts to display and print content.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+This agreement (together with terms accompanying any software supplements, updates, and services
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+primary user may access and use the software installed on the licensed device remotely from any other
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rent, lease, or lend the software; transfer the software (except as permitted by this agreement), attempt
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+The services provided under this agreement may be related to your license to use programs which you acquire under a separate

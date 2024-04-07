@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Remcos-10026377-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e.DataColumn_30.AutoIncrementCurrent*DataTable.DataColumn_30.ExtendedProperties"DataTable.DataColumn_31.ColumnName!DataTable.Da
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+on$DataTable.DataColumn_31.DefaultValue DataTable.DataColumn_31.ReadOnly!DataTable.DataColumn_31.MaxLength DataTable.DataColumn_
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DataTable.DataColumn_34.Prefix%DataTable.DataColumn_34.ColumnMapping#DataTable.DataColumn_34.AllowDBNull%DataTable.DataColumn_34
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+31.DataType#DataTable.DataColumn_31.XmlDataType"DataTable.DataColumn_31.SimpleType$DataTable.DataColumn_31.DateTimeMode,DataTab
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pression$DataTable_0.DataColumn_45.Expression$DataTable_0.DataColumn_46.Expression$DataTable_0.DataColumn_47.Expression$DataTabl

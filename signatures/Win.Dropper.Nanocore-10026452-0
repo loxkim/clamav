@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-10026452-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\educross1\Huylers\My Project\woodenback.jpg
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+insert into studentreg(prnno,fname,mname,lname,rollno,year,div,dept,contact,password,age,gender,regdate,modate) values (
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT prno, fname, mname, lname, rollno, year, div, contact, password, age, gender, regdate FROM dbo.studentreg
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT facid, fname, mname, lname, dept, contact, password, age, gender FROM dbo.facultyreg
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+insert into facultyreg(facid,fname,mname,lname,dept,contact,password,age,gender) values ('
