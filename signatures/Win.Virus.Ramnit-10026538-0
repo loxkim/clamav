@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Ramnit-10026538-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+o executados em segundo plano{Download do Instalador do Norton TM Security Scan. O Norton Security Scan ser
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+4http://www.google.com/intl/it/toolbar/ie/tos_it.html:http://www.google.com/support/toolbar/?quick=privacy&hl=it$http://
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Stopper online identitetstyveri, virus, hackere, bots, spyware, trojanere og meget mere
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+>http://www.pctools.com/tk/info/eula/product/registry-mechanic/
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Registry Mechanic is a system utility that checks your PC for performance-draining and system-slowing registry errors
