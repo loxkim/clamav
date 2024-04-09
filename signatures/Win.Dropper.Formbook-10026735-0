@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Formbook-10026735-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=Bilancio;Data Source=localhost
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Name=?,Address=?,City=?,PostalCode=?,Region=?,Email=?,Phone=?,ContactName=? 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Provider=sqloledb;Data Source=localhost;Initial Catalog=bilancio;
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+(rowNr ,debit ,amount ,note  ,AccountChart_ID, dateCreated, Document_ID) VALUES 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ComboBoxAccountChart_SelectedIndexChanged
