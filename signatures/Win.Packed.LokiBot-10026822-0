@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.LokiBot-10026822-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPADZ
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ftp://192.168.2.195/update/program/kbupdate/Version.txt
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ftp://192.168.2.195/update/program/kbupdate/UpdateDiary.txt
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nodo requestedExecutionLevel por uno de los siguientes.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+==NNO8:5Q::8Emig3pn5k:61REXYn5uk779zqF01LUlBUo4vGkk7N:Kn3crKLAH3m8hhsfKBQlTgAkz+e8Rc:d:M:tw35wJjedbSuWI:jSPbPo5ga75PsU9z
