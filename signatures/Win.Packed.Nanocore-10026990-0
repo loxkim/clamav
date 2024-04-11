@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Nanocore-10026990-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Driver={MySQL ODBC 5.3 ANSI Driver}; Server=localhost; User=vendedor; Password=vendedor; Database=pvpatolin; Option=3;
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Server=localhost; user ID=vendedor; Password=vendedor; Persist Security Info=true; Database=pvpatolin;
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+get_account_friend_human_man_member_person_profile_user_users_64
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WS1.FrmLogin.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FrmLogin_Load

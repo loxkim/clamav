@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Ransomware.Telupass-10027021-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+internal error: unexpected tail comment event (please report)runtime: may need to increase max user processes (ulimit -u)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+github.com/pkg/sftp.(*StatusError).Error
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+defer entryencrypt or decrypt direrror parsing regexp: freeIndex is not validgetenv before env initheadTailIndex overflowintege
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+error - misuse of itabinvalid network interface indexjson: invalid number literal %qmalformed time zone informationmergeRuneSet
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+private key parametersyaml internal error: please report the issuebufio.Scanner: Read returned impossible countcannot send afte

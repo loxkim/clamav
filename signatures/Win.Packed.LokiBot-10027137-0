@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.LokiBot-10027137-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://forums.codeguru.com/showthread.php?411062-How-to-lock-or-disable-keyboard-input-using-VB.net
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+H:\Introduction to Programming and Games Design Project\Alien Game\lose.png
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://www.vbforums.com/showthread.php?670864-Craeting-a-delay-in-VB-2010
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://msdn.microsoft.com/en-us/library/139z2azd%28v=vs.90%29.aspx
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WindowsApplication1.ExplorerLogin.resources
