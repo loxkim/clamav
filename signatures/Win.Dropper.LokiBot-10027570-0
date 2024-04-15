@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-10027570-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Vendetta\Desktop\New\Scofield\Scofield\obj\Debug\EntropyMethod.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+re more than welcome to see my work @ <https://github.com/MaayanFarchi>. 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+m a third-year computer science student at the IDC with an Entrepreneurship Program specialization. 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+EntropyMethod.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Skilled in Object Oriented Programming and hands-on experience with C#, Java, C, Haskell, Linux and bash. 

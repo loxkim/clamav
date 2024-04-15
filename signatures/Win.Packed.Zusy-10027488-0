@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zusy-10027488-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@@U?$ObfuscatedAddress@P6GHPAXKKPAK@Z@23@AAPAKAAIAAHAAPAK@ADVobfuscator@andrivet@@@23@V?$value@E@23@@_bi@4@@_bi@boost@@
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+llocator@E@std@@@std@@PBD@Z@ADVobfuscator@andrivet@@AAPBD@ADVobfuscator@andrivet@@@23@V?$value@E@23@@_bi@4@@_bi@boost@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Welcome to the Gay Bar .!.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Welcome to Bartender Simulator!
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+6GHPAXKK@Z@23@AAPAXAAHAAH@ADVobfuscator@andrivet@@@23@V?$value@E@23@@_bi@4@@_bi@boost@@

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Nanocore-10027497-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Find more at: http://blog.approvaltests.com/2011/12/using-reporters-in-approval-tests.html
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Collections.Generic.IEnumerable<System.Diagnostics.Process>.GetEnumerator
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Collections.Generic.IEnumerator<System.Diagnostics.Process>.get_Current
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DApprovalTests.Utilities.ParentProcessUtils+<GetSelfAndAncestors>d__9
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ (Please log this if found at: https://github.com/approvals/ApprovalTests.Net/issues
