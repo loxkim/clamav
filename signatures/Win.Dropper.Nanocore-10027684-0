@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nanocore-10027684-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Selina\Documents\Visual Studio 2012\Projects\PictureBook\PictureBook\Resources\Food\vegetables_potato
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Selina\Documents\Visual Studio 2012\Projects\PictureBook\PictureBook\Resources\Animals\Animals1.txt
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Selina\Documents\Visual Studio 2012\Projects\PictureBook\PictureBook\Resources\garden_of_Eden.jpg
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Selina\Documents\Visual Studio 2012\Projects\PictureBook\PictureBook\Resources\Food\Food2.txt
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Selina\Documents\Visual Studio 2012\Projects\PictureBook\PictureBook\Resources\Animals\jungle_animals
