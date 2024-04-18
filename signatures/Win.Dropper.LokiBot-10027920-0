@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-10027920-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SGets or sets timeout in seconds for how long should wait for drive to become ready.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nGet or sets allowed file extensions. For example value '.txt;.xml' shows only files with txt or xml extension.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+XGets or sets whether or not files and directories with system attribute should be shown.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ftp://127.0.0.1/leerlingen/michieltje.png
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ftp://Test@127.0.0.1/Leerlingen/Balder/
