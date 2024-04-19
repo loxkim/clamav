@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Formbook-10028029-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD~
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Insert into Employee(E_ID, E_Position, E_Address, E_Province, E_Country, E_City, E_Postal_Code, E_Phone) VALUES ('
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BitConverter.LoginForm1.resources
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Insert into Customer (C_Address, C_Postal_Code, C_Country, C_ID, C_City, C_Phone,C_Province) VALUES ('
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT Address, Postal_Code, Country, C_ID, C_City, C_Phone FROM Customer WHERE (C_ID = @C_ID)
