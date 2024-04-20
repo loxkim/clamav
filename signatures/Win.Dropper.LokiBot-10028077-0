@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-10028077-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT price_list.company_id, price_list.new_or_old, price_list.id, price_list.request_id, company.name AS 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO [tehcizat].[dbo].[price_list] (request_id, new_or_old, company_id, price, currency_id) VALUES 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+    request.product_id, price_list.price, price_list.currency_id, price_list.company_id, '
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PData Source=SHEBEKA\SQLEXPRESS;Initial Catalog=tehcizat;Integrated Security=True
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+loginButton

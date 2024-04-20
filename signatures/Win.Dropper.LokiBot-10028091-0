@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.LokiBot-10028091-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-i "{0}" "{1}" -vcodec mjpeg -ss {2} -vframes 1 -an -f rawvideo
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ffmpeg.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-y -vcodec wmv2  -acodec wmav2 -b {0} -ab {1} -ar {2} -s {3}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-y -acodec aac -ac 1 -b {0} -ab {1} -ar {2} -s {3} -f 3gp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+-y -b {0} -ab {1} -ar {2} -s {3} -f flv

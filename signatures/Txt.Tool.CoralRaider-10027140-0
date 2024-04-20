@@ -1,0 +1,25 @@
+VIRUS NAME: Txt.Tool.CoralRaider-10027140-0
+TDB: Engine:91-255,FileSize:100-200,Target:7
+LOGICAL EXPRESSION: 3
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+if
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+start
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+exit
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1&2=3
+     +-> REGEX: if\s+not\s+defined\s+(\S+)\s+set\s+(\1)=1\s+&&\s+start\s+""\s+\
+     +-> CFLAGS: min\s+"%~dpnx0"\s+%\*\s+&&\s+exit\s+start\s+\/min\s+[A-Z]:\\(users\\[^\\]+\\AppData\\(Roaming|Local\\Temp)|ProgramData)\\[^\\\s]+\s+&&\s+exit\s+exit\s*/i
