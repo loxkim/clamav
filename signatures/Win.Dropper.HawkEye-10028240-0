@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.HawkEye-10028240-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+1+HiQk6rp19GJBSZIIkh1C4sBViLms/GSzjYdKQN33fQV3/lw9Z8nAjso6GjVA0DSprdBAdP4oiQT+YshTLtqyUKOD5ygsdnyG+5eUcYlBRVZcjV+Tv+g5o3
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+AgileDotNet.Console.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Agile.net Code Protector
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+amicitie.Resources.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ 2013 - SecureTeam Software Ltd.
