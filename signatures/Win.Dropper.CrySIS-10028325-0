@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.CrySIS-10028325-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Pf:\dd\vctools\vc7libs\ship\atlmfc\src\mfc\oledrop2.cpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ Temperatura del colore % Supporta %s temperatura del colore
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ffnet werden!Inhaltsverzeichnis nicht gefunden,Kein themenbezogenes Hilfesystem installiert
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PRICHED20.DLL
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Df:\dd\vctools\vc7libs\ship\atlmfc\src\mfc\dockcont.cpp

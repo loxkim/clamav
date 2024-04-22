@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Zard-10028260-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?AIDEDecodeOptionsSetComponentOrder@@YA?AW4AIDEError@AIDE@@PAVDecodeOptions@Impl@2@W4AIDEComponentOrder@2@I@Z
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Failed to allocate memory for temporary new sampleinfo array (%d 16 bit elements)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Floating point "Predictor" not supported with %d-bit samples
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+scheme == COMPRESSION_SGILOG24 || scheme == COMPRESSION_SGILOG
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+(uint64_t)(data - headers->data) < MAX_CHUNK_PAYLOAD
