@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Zard-10028363-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\DCB\CBT_Main\Common\CoreTech\bravo\source\agm\imports\boost\boost\exception\detail\exception_ptr.hpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PrintSession::SetTimeout - PrintInstance is InValid
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Func_impl_no_alloc@V?$_Fake_no_copy_callable_adapter@P6AHPAUHDC__@@PBU_DOCINFOW@@@ZAAPAU1@AAPAU2@@std@@H$$V@std@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_AGMPrintSessionSetTimeoutForStartDocWProc_SetTimeout
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AVgeneric_error_category@?A0x21debb64@system@boost@@

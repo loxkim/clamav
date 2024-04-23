@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Zard-10028374-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+All rights reserved.Acrobat Weblink Plug-In Version 5.0The web browser would not open this link. It may be busy performi
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NEXEC_COMPRESSEDIDS_WINEXEC_DLLINVALIDIDS_WINEXEC_VERSIONIDS_WINEXEC_EXEBADIDS_WINEXEC_REALMODEIDS_WINEXEC_32BITIDS_ERROR_WIN98M
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\DCB\CBT_Main\BuildResults\bin\Release\plug_ins\weblink.pdb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\dcb\cbt_main\plugins\weblink\drvrs\standard\src\miwatdog.c
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wAccess/Prefs/TrustManagerURL/BlockAccess/Dialog/Weblink/SecurityWarnDlg/Dialog/Weblink/SecurityWarnDlg/MessageTxt/Dialog/Weblin

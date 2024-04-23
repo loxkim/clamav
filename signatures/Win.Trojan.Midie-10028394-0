@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Midie-10028394-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Warning)Failed to read ImageList data from stream(Failed to write ImageList data to stream$Error creating window device 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+//ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/Resour
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+27i:j:xBg://CB0::i:j:0B//DB02=::i:j:0B//EE/2=i:j:xB//F]027i:j4VHO:0B//G4/27i:j4xB//Hc/27i:j4xB//I:0//J]027i:j:VH@0A6oG
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+f#" xmp:CreatorTool="Adobe Photoshop CC 2017 (Macintosh)" xmpMM:InstanceID="xmp.iid:D6A5EBEF35AA11E79DE48E6F2B547E14" xmpMM
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SYoooYSoooSOYooYOSooWSYXo\SYooS\YooSY\ooWYSXo\YSooY\SooYS\oo\YOSo\SOYoYOS\oSOY\oSO\YoY\OSoWSOYXWYOSX
