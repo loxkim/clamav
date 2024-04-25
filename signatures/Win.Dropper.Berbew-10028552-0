@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Berbew-10028552-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.I
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.Ia<.Ya,.Ia>.I`<.Ia<.Ie<.Ia<.IaL.Ia8.Ia<.Ic<.Ia<>Ia,.Ia<>Ia,.Ia<.Iq<.Ia\.I!<.Ia|.I
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.I5TG:Awk
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+|.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Iu}.IE}.I!}.I1}.I
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+a<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.Ia<.IA<.Ia<.IA<.Ia,.Ia*.Ia

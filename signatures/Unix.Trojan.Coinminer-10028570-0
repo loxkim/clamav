@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Coinminer-10028570-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+llox509: Ed25519 key encoded with illegal parametersx509: invalid RDNSequence: invalid attribute typeattempt to execute system s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+an ECDSA public key, got %Thttp: no Location header in responsehttp: unexpected EOF reading trailerhttps://sites.google.com/vie
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+H*struct { F uintptr; ch chan struct {}; j cron.Job; logger cron.Logger }
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DATA on a HEAD requestracy sudog adjustment due to parking on channelreflect.Value.Bytes of unaddressable byte arrayslice bound
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+closed the connection; LastStreamID=%v, ErrCode=%v, debug=%qtls: handshake hash for a client certificate requested after discar
