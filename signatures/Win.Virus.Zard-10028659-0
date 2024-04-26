@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Zard-10028659-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://download.oracle.com/otn-pub/java/javafx/javafx-windows-i586__Vlatest.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://jfx.us.oracle.com/fxinstaller/fx-setup__Vlatest.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\jdk7_32P\jdk7\build\windows-i586\tmp\deployJava1\obj\deployJava1.pdb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\bin\ssvagent.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+4Dies ist kein Java-Installationsprogramm von Oracle.CDie digitale Signatur dieses Installationsprogramms ist abgelaufen

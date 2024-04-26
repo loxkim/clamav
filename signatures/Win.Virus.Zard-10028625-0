@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Zard-10028625-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ENU.pdxSearchAll FilesThe Search plug-in serves as a backend for providing search services. It also loads indexes for sp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NG_PROCESSEDIDS_SCANNING_DOCUMENTSIDS_INDEXINGIDS_EMBEDDING_INDEXIDS_SAVING_DOCUMENTIDS_POST_PROCESSINGIDS_EMBEDDING_COMPLETEDID
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rchFind/xEmbed/Dialogs/SearchFind/xRemove/Dialogs/SearchFind/xUpdate/Dialogs/SearchFind/xClose/Dialogs/SearchFind/SearchingCE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\B\T\BuildResults\bin\Release\plug_ins\Search.pdb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\B\T\Plugins\SearchFind\SRC\CEmbedIndex.cpp
