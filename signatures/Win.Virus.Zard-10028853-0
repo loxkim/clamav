@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Zard-10028853-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+* Send a copy of the original, unmodified PDF file as an attachment?Send &LinkSend &CopyCannot send a link to this docum
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://www.googleapis.com/upload/gmail/v1/users/me/messages/send?uploadType=multipart
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://www.googleapis.com/auth/gmail.compose https://www.googleapis.com/auth/contacts.readonly
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\B\T\Plugins\SendMail\src\CADMFirstLaunchDialog.cpp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\B\T\BuildResults\bin\Release\plug_ins\SendMail.pdb
