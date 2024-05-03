@@ -1,0 +1,38 @@
+VIRUS NAME: Svg.Dropper.Scrubcrypt-10028868-0
+TDB: Engine:90-255,Target:3
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<svg xmlns
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<![cdata[document.addeventlistener("domcontentloaded",function(){functionbase64toarraybuffer(base64)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.setattribute("style","display:none");
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+document.createelementns("http
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+window.url.revokeobjecturl(
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.download=
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=newblob([{WILDCARD_ANY_STRING(LENGTH>=1&&<=20)}],{type:"octet/stream"});
