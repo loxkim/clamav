@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Zard-10028998-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\jdk7_32P\jdk7\build\windows-i586\tmp\eula\obj\eula.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Haga clic en Aceptar para desactivar Java en su computadora. Visite java.com
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+sactiver Java sur votre ordinateur. Visitez le site java.com 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Clique em OK para ativar o Java no computador. Visite java.com para obter mais informa
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Wenn Sie Java deaktivieren, funktionieren Webcontent und Anwendungen, die

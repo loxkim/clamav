@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Zard-10028982-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+k~m|k~mxk~mtk~mpk~mlk~mhk~m`k~mXk~mPk~mDk~m8k~m0k~m$k~m k~m
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+i~m|i~mti~mli~mdi~m\i~mTi~mLi~mDi~m4i~m i~m
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+l~mLs~mHs~mDs~m@s~m<s~m8s~m,s~m(s~m$s~m s~m
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+X/~mForceRemove
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+H.~mNoRemove

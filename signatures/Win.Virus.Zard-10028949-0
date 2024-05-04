@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Zard-10028949-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\jenkins\workspace\8-2-build-windows-i586-cygwin\jdk8u281\880\build\windows-i586\deploy\jre-image\bin\deploy.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_Java_com_sun_deploy_nativesandbox_IntegrityProcess_getCurrentIntegrityLevel@8
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+WRunAsDesktopUser - CreateProcessWithTokenW could not GetProcAddress
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[SOFTWARE\MozillaPlugins\@java.com/DTPlugin,version=11.281.2
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error:%08x in ::SHGetFolderPath(NULL, CSIDL_APPDATA, NULL, 0, szLocalPath)

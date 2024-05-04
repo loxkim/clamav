@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Zard-10029135-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\T\Imports\Open\Chrome\Chrome\src\sandbox\win\src\target_process.cc
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https%3a%2f%2fwww.googleapis.com%2fauth%2fgmail.compose%20https%3a%2f%2fwww.googleapis.com%2fauth%2fcontacts.readonly
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Fake_no_copy_callable_adapter@P8ExecProcessDispatcher@acrobat_broker@@AE_NXZPAV12@@std@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://login.microsoftonline.com/common/oauth2/v2.0/authorize?
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://www.googleapis.com/auth/gmail.compose https://www.googleapis.com/auth/contacts.readonly

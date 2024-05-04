@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Zard-10029000-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+P:\Target\x86\ship\factoid\x-none\fbiblio.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$IDispatchImpl@UIAction2@@$1?IID_IAction2@@3U_GUID@@B$1?LIBID_FBIBLIOLib@@3U3@B$00$0A@VCComTypeInfoHolder@ATL@@@ATL@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://schemas.microsoft.com/office/word/2004/10/bibliography
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+>`Software\Microsoft\Office\Common\Smart Tag\Actions\{16A933D2-A296-49D5-96FC-C7C2DAEE88B4}
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+FAdvapi32.dll

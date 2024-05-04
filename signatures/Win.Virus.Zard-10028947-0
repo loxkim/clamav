@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Zard-10028947-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\B\T\BuildResults\bin\Release\plug_ins\Multimedia\MPP\Flash.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+o@Advapi32.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%s.pdfmedia.acrobat.com
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Adobe(R) Flash(R) Player*Adobe plug-in for Adobe(R) Flash(R) Player
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$CWindowImpl@VFlashFrame@@VCWindow@ATL@@V?$CWinTraits@$0EGAAAAAA@$0A@@3@@ATL@@

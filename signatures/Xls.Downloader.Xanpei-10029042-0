@@ -1,0 +1,33 @@
+VIRUS NAME: Xls.Downloader.Xanpei-10029042-0
+TDB: Engine:151-255,Container:CL_TYPE_MSOLE2,Target:0
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+REM PROJECTHELPFILEPATH2:
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+activeworkbook.vbproject.vbcomponents("ThisWorkbook").codemodule.insertlines 153, "Private Sub App_WorkbookOpen(ByVal Wb As Wor
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ie.navigate starturl
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+if activeworkbook.vbproject.vbcomponents("ThisWorkbook").codemodule.countoflines = 0 then
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+private sub app_workbookopen(byval wb as workbook
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+private withevents app as application

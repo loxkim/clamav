@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.QuasarRAT-10028963-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Template type loader is null, but metadata based type loader is not in use
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+System.Private.CoreLib.resources couldn't be found!  Large parts of the BCL won't work!
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+. Verify the installation of .NET is complete and does not need repairing, and that the state of the process has not bec
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+NotSupported_WrongResourceReader_Type
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+EventSource_NotSupportedArrayOfBinary

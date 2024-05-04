@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Nitol-10029062-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+hello.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+uGDllG0Ix4uGDllG0Ix4uGuuTUJZefG5uuTUJZefG5uuTUJZefG5uuTUJZefG5uuTUJZefG5UmUedrvbM
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+UOLE initialization nailed.  Make sure that the OLE libraries are the correct version.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+kbvS8RK1mrkbvS8RK1mrkbvS8RK1mrkbvS8RK1mrkbvS8RK1mrldpGFwHlupldpGFwHlupldpGFwHlupldpGFwHlupldpGFwHlupznYvg5K1I
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+v8IIXzGiaOv8IIXzGiaOv8IIXzGiaOv8IIXzGiaOv8IIXzGiaO6vsMcPrVO26vsMcPrVO26vsMcPrVO26vsMcPrVO26vsMcPrVO2nVNRxLEwa

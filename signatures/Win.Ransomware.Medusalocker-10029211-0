@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Medusalocker-10029211-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+5-1kbBw=-<ZXZ[<uy/ne<$l?VlPC<{11+jyCn;P@X\998ic.ud%"A\@C7'1:`--,nc;
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;kbBw+/+TWZC~0,,ng&,8oJWVQ1 8=3h7&#;BGRC%&$&"!60l&V]\E548%()<%9=T@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&!&i?*CEVEp"=%"h7,l&\^VS94 ,"1u-)<EA\N51t((<0;l6^FA
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@X6!#(<-u(:.X_RU<0t& h<'8*C]VCp65'n 0%<oH\F
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+UE50t,#)<%l.RP\B>!t& h!!)oBZGRjutu/h=;))
