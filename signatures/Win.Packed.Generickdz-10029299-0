@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-10029299-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Data Source=NGOCANH\SQLEXPRESS;Initial Catalog=QLKhoaCNTT;Integrated Security=True
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+System.Data.DataRowView
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+QLKhoaCNTT.Properties.Resources.resources
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+select SV.MaSV, SV.TenSV, SV.MaLop, L.TenLop, SV.Khoa from SinhVien SV, Lop L where SV.MaLop = '
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+QLKhoaCNTT.Properties.Resources
