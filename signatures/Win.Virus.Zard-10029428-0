@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Zard-10029428-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Mso::DWrite::ResourceManager GetSystemFontCollection failed with hr 0x%08x
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ORegistryKey.DeleteSubKeyTree failure: Cannot delete Registry Key %s\%s.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+enterkeycommand
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Mso::DWrite::ResourceManager m_pDWriteExtFactory->CreateTextAnalyzer failed with hr 0x%08x
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Mso::DWrite::ResourceManager CreateCustomRenderingParams (2) failed with hr 0x%08x
