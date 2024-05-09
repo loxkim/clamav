@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.ImminentMonitorRAT-10029479-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PINGFlag = Not CBool(WshShell.run("ping -n 1 www.google.com",0,True))
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Set objFSO=CreateObject("Scripting.FileSystemObject")
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ajman-university-of-science-technology-logo-edufina.jpg
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+   ' WScript.Echo "Error:"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+xjiULe5NynHiHX5VJz7DOOFJsdPSaObvO5pMRWlkteOM/Y3fT9KuW+UYnuCva0De4ty7ntN0jH5s2OQjdeZLDRO7Lv13m7ZBTyJgQBXaa6Szct0=
