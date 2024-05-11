@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Berbew-10029767-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+z|-{u|-{u|-{u|-{u|-s{|-8z|-{u|-{u|-{u|-{u|-{u|-{u|-s{|-s{|-s{|-s{|-s{|-s{|-s{|-s{|-8z|-8z|-8z|-8z|-8z|-8z|-8z|-8z|-@z|-@z|-
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+z|-8z|-xz|-s{|-@z|-{u|-{u|-{u|-{u|-s{|-s{|-s{|-s{|-s{|-s{|-s{|-s{|-s{|-s{|-s{|-s{|-s{|-s{|-s{|-s{|-@z|-xz|-@z|-@z|-
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+u|-Ku|-Ku|-Ku|-Ku|-Ku|-Ku|-{u|-{u|-{u|-{u|-{u|-{u|-{u|-{u|-
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{|-s{|-s{|-s{|-s{|-s{|-s{|-s{|-s{|-8z|-8z|-z|-s{|-{u|-{u|-{u|-{u|-6{|-
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{|-{u|-{u|-{u|-{u|-{u|-{u|-{u|-{u|-{u|-{u|-z|-{u|-{u|-{u|-{u|-{u|-
