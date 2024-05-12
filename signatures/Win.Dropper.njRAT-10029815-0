@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.njRAT-10029815-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+##ovG4DIcdwHg/!/!/P(###)/bwqm6pJ0vnLV/!/!/+%%%d9mR%%%iG####4V****f1(@@@)o7s%%%dy7q????7kt(###)dJ5|!@!%!/(()())lFo@@@@|!@!%!/p!!!
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+T1jes####a0@@@@pJI2(@@@)44R####jmF@@@@/####I/!/!/!!!O2????mmL????e4hgq/oqRorm####f+((((|||)OmGPRf/a3N5OT/!/!/%%%m0HkRp@@@@R7JRID
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+)/!/!/hhhxHoxjRtU(###)2i****Nth1!!!oy|!@!%!/z+26dR00aj|!@!%!/(((/(###)h(@@@)|!@!%!/lk####rvvrUh(((qVl|!@!%!/OI(()())z****BpxP!!!
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%%%%%Ts22(()())0F(()())|!@!%!/(@@@)VI+4T5L3J1BqgO(|||)sLT9o0hJU7x!!!jvj(|||)O(@@@)+qi6????tp(@@@)B5aGTkcrIo5Vfwhpia%%%h%%%hsidpr
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mft%%%d+Uh/!/!/|!@!%!/c|!@!%!/qyHyo####(@@@)72qPGp(((lwq####j****bNgr@@@@jeI14Rb%%%zV####Nh6rL21sRjD3z@@@@bUfrF/@@@@B2r/l/d!!!i(
