@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Zard-10029902-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vcruntime140.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+../../../3rd_party/glib/gobject/gparam.c:984: attempt to remove unknown pspec '%s' from pool
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+00`10000E^EEaEe^eEoEuEYEYIZHZGHZghKHTSCHYUYAzhzghkhA'E'I'O:U'U:a'e'i'o:u'u:O"o"U"u"ddDjGjKjdjgjkjYeUeOewwwjjj
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+../../../3rd_party/glib/gobject/gsignal.c:898: signal "%s" of type '%s' already destroyed
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%s:%d: invalid %s id %u for "%s" of type '%s' in '%s'

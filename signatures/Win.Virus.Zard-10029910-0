@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Zard-10029910-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+dMicrosoft.AnalysisServices.Server.Core.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+FPXOledbCommand::ReExecuteWithResult
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Returning Object to Pool: cTTL=%d, m_cElements =%d, m_cMax=%d, m_RootElement.IsListEmpty()=%d. in %S [%S @ %d]
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+XESession Target parameter %s %I64 is less than MaxBufferSize %I64
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PFHashTable<class PFDatabaseUsageMetrics *,class PFBaseString,class PFHashDefaultHashPolicy>::DeleteByKeyInternal

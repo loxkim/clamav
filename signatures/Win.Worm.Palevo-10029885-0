@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Palevo-10029885-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Eksportuoti naudotojo parametrus kaip numatytuosius visiems naudotojams
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2:l2
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ti norimas eksportuoti parinktis.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Eksportuoti
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3:l2:|2Jl2:|2:p2:l2:l2>l2:l2:l2:u2:|2:l2:l4:l2:lB:lB:l2:|2:|2:l2:lB:l2VZ9:

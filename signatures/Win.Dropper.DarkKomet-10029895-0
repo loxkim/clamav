@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.DarkKomet-10029895-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.R
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$aH$xQ$!q$P91EOhR$g$$x0XwcDF$$Go$aE$xQ$D/dfD/dQjo2$E$$Otmg/g!dQr/dQjoCf3//+tXg/gVdQLrUIP4!XUXagFq$Go$ag!q$P81bDF$$Ois$Q$$6zSD+$9
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HRf!4$$$$x0X08$$$$MdF+Gg!$$DHRfz/////jUXwUGoEa$QE$$D/NWwxQ$DohwQ$$MnC!$Dot$Q$$Go$6KEE$$CjUDF$$OiR!$$$o1QxQ$!o9$E$$P81UDF$$Og0!$$
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$deeLRexfXsnDVYvsgcTU/f//i0UMPRE!$$$PhfQ$$$CLRR$96QM$$HVFx0XsID!$$P917GgwME$$/zVQMU$$/3UI6Mk!$$CJRfC$O$!1Cbg$$$$$ycIQ$Go$a$$wQ$D
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$o1gxQ$!o$H8$$Go$6!0E$$CjXDF$$Go$6$sE$$CjYDF$$Go!6P8D$$CjZDF$$OgG$$$$UOg9!$$$VYvsg8TwahD/NVwxQ$D/NVgxQ$!oET!$$GipEU$$6Ds$$$!oW$I
