@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Worm.Febipos-10029966-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://www.htmlexe.com*HTML Executable IE Runtime version 2.6.1.0
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Built with HTML Executable, http://www.htmlexe.com
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3TDefaultLoginCredentials.LoginEventUsrPw$835$ActRec(
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3TDefaultLoginCredentials.LoginEventUsrPw$835$0$Intf(@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+User-agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)(
