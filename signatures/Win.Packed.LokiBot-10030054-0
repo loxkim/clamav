@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.LokiBot-10030054-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Data Source=.\SQLEXPRESS;Initial Catalog=BOOKSTORE;Integrated Security=True
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+insert into KHACHHANG(TenKhachHang,SDT,DiaChi,Email,SoTienNo) values(N'
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+select count(*) from PHIEUNHAPSACH p, CT_PHIEUNHAPSACH c where c.MaPNS=p.MaPNS and day(NgayNhap) between 1 and 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ExecuteScalar_string
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+select sum(SoLuongNhap) from CT_PHIEUNHAPSACH ct, PHIEUNHAPSACH p where p.MaPNS = ct.MaPNS and MaSach=

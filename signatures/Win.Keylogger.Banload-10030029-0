@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Banload-10030029-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\windows\system32\scpsssh2.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+@ Outside address*Error on call Winsock2 library function %s&Error on loading Winsock2 library (%s)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Senha Invalida!! Sua Senha e Composta por 07 Digito digite Pausadamente 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Senha Invalida!! Sua Senha e Composta por 07 Digito 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<xapMM:DocumentID>adobe:docid:photoshop:24958306-828a-11db-bf91-d8671ff74091</xapMM:DocumentID>
