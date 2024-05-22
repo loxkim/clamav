@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Miner-10030222-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ueIbEEiSt4lessIiENS_8functionISC_EENSH_IFbRKNS1_10connectionElSB_EEENS1_5mutexEE16invocation_stateEEptEv.isra.177.part.178
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZNK5boost10shared_ptrINS_8signals25mutexEEptEv.isra.900.part.901
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZN5boost8signals26detail20connection_body_base17inc_slot_refcountIS2_EEvRKNS1_23garbage_collecting_lockIT_EE.isra.295.part.296
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+22.0 (Windows)"/> </rdf:Seq> </xmpMM:History> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Washington Post Muhammad Ali to be memorialized Friday in Louisv../ChessCoin-devtool-Main-1.4.7/src/miner.cpp

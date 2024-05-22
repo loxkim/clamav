@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Miner-10030223-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZNK5boost10shared_ptrINS_8signals24slotIFvP15CCryptoKeyStoreENS_8functionIS5_EEEEEdeEv.isra.416.part.417
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZN17QtMetaTypePrivate23QMetaTypeFunctionHelperIN15QAbstractSocket11SocketErrorELb1EE9ConstructEPvPKv
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZN9QtPrivate11QSlotObjectIM10ChatWidgetFvvENS_4ListIJEEEvE4implEiPNS_15QSlotObjectBaseEP7QObjectPPvPb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZN10ChatWidget11handleErrorEN15QAbstractSocket11SocketErrorE
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZZZN13Ui_chatWidget7setupUiEP7QWidgetENKUlvE7_clEvE15qstring_literal
