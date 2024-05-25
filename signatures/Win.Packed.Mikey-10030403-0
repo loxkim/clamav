@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Mikey-10030403-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+0 &&  endian & UTF-8 is s& "Only UTF-16 little:\dd\vctools\crt\crtupported for reads"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/http://ts-aia.ws.symantec.com/sha256-tsstp://ts-ocsp.ws.symantec.com0;
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+f:\dd\v_TYPE_IS_VALID(pHead-c\dbgdel.cpp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<trustInfo xmlns="urn:schemas-microscrosoft-com:asm.v1' manifestVersion='1.0'requestedPrivileges>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+_bgReport: String too too long or IO ErrorCrtDbgReport: String + Runtime Library
