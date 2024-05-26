@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Mardom-10030542-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+uStub.Help.Native.Correctness+<CorrectnessWallets>d__0, svchost, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+svchost
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+KOeJjyqOgtWjG.Properties.Resources.resources
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+KOeJjyqOgtWjG.JoDWuGkNsXU.resources
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+KOeJjyqOgtWjG.Properties.Resources
