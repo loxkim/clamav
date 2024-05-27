@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Razy-10030606-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GET /friendship/email_thank_you.php?folder_id=18984&params_count=0&nick_name=Pro_Rat&user_email=Pro_Rat@yahoo.com&user_uin=&frie
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\system32\winkey.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@Ftpsrv@TFtpServer@AddCommand$qqrx17System@AnsiStringxynpqqrp22Ftpsrvc@TFtpCtrlSocketr28System@%SmallString$iuc$255%t2t2$v
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@Ftpsrv@TFtpServer@CommandPASS$qqrp22Ftpsrvc@TFtpCtrlSocketr28System@%SmallString$iuc$255%t2t2
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@Smtpprot@TCustomSmtpClient@ExecAsync$qqr21Smtpprot@TSmtpRequest17System@AnsiStringpxusxiynpqqrv$v
