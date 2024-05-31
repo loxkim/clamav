@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Downloader.CarnavalHeistBAT-10030773-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+@echo off if not defined is_minimized set is_minimized=1 && start "" /min "%~dpnx0" %* && exit powershell -windowstyle hidden -e

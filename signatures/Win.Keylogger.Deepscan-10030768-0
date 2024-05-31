@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Deepscan-10030768-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<assemblyIdentity type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' processorArchitecture='x86' publ
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Server.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8}7HgX)-ZgX),{gX)/mgX).jgX))lgX)(qgX)+ggX)*[gX)5pgX)4hgX)7wgX)6lgX)1qgX)0pgX)3sgX)2{gX)=pgX)<jgX)?\gX)>rgX)9qgX)8}gX);u)@):
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+icKeyToken='6595b64144ccf1df' language='*' />
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+QA.gX)Q]gX)PqgX)SpgX)RhgX)]{gX)\lgX)_jgX)XzgX)[JgX)ZqgX)$jgX)'lgX)!pgX) ygX)-z)H),
