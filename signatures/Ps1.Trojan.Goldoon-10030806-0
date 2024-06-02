@@ -1,0 +1,5 @@
+VIRUS NAME: Ps1.Trojan.Goldoon-10030806-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+.add("user-agent", "fbi-agent (checking you)")
