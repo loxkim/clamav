@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Pwsx-10030835-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+3Cannot perform operation -- service is not attached/Cannot perform operation -- service is attached
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Illegal Parameter Error: Attempt to set the reserved Document Format "default".
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%Operation cancelled at user's request(DPB Constant (isc_dpb_%s) is unsupported
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ENTITY or ENTITIES value refers to a non-existent target unparsed entity
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+"Circular datalinks are not allowed/Lookup information for field '%s' is incomplete0Cannot perform this operation on an
