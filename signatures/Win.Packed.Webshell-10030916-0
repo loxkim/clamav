@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Webshell-10030916-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<a href="KT_Toll/Login.aspx?monitor=1" id="jiankong"></a>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<a href="KT_Center/Login.aspx" id="center_div"></a>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<a href="KT_Toll/Login.aspx" id="d_toll_div"></a>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<script type="text/javascript" src="../Sys/CommonJs/artDialog/artDialog.js"></script>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
