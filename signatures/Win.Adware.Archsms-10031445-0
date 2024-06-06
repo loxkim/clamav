@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Adware.Archsms-10031445-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Tkernel32.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+#No OnGetItem event handler assigned"Unable to find a Table of Contents
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Network is unreachable. Net dropped connection or reset.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+9dvv`hgi|La`kqlq|%s`wvljk8'4+5+5+5'%uwjf`vvjwDwfmlq`fqpw`8']=3'%kdh`8'QlfkjLkvqdii`w'%q|u`8'rlk67'*;
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%s on %s@GroupIndex cannot be less than a previous menu item's GroupIndex5Cannot create form. No MDI forms are currently
