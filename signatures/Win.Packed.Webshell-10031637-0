@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Webshell-10031637-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO temperatureAndHumidity (id,[time],temperature,humidity)values(@id,@created_at,@temperature,@humidity)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+]\{ id = {id}, created_at = {created_at}, temperature = {temperature}, humidity = {humidity} }
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\humidity.log
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT TOP 1 id FROM THinstruments WHERE channel_id=@channel_id
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+get_channel_id
