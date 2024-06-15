@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Agen-10031889-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Incorrect passwordXUnsupported cryptographic operation. Operation: %d, Algorithm: %s, Params: %s, Mode: %d.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid secret keyE%d is an invalid PageIndex value.  PageIndex must be between 0 and %d=This control requires version 4
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Decompression failed, error %d;File system operation failed with error. Requested path is 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+!C:\Users\ivan\AppData\Local\Temp\
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PAE encryption - Special encryption container format and can be used for all different archives supported in %APPNAME%.

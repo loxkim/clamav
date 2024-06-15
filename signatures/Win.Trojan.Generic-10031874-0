@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10031874-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\lcssource\media_vnext_release4\src\dev\media\sliq\sliq_image_processor\low_light_processor.cpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://schemas.microsoft.com/office/infopath/2003/solutionDefinition
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SIP_MSG_PROCESSOR::CompleteOutgoingTransactions
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+if (plugin && (ret = opera.togglePlugin(plugin.path, !plugin.enabled)) != -1)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NotifyTransactionCompletion(FAILED(ErrorCode) ? ErrorCode : E_FAIL, pSipTransaction)
