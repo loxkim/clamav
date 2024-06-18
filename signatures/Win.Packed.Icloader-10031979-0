@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Icloader-10031979-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Returns a reference to the ListItem object or Node object located at the coordinates of x and y. Used with drag and drop
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<requestedExecutionLevel level="requireAdministrator" uiAccess='false' />
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Returns a reference to the ListItem object or Node object located at the coordinates of x and y. Used with drag and drop
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%s: Attempting to extract %s which is %I64d bytes in size
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+b'Put files to subfolder' saves each processed file to the subfolder at the original file location.
