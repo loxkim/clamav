@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Medusalocker-10032008-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.dll,.sys,.ini,.rdp,.encrypted,.network,.keversen,.locker,.vaffe,.Jmr673rmdl,.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xe,GDscan.exe,ZhuDongFangYu.exe,postgresql-x64-9.4.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<p>After we gained full access to your servers, we first downloaded a large amount of sensitive data and then encrypted all th
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<li>all sensitive downloaded data will be permanently deleted from our cloud storage and we will provide an erasure log.</li

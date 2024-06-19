@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Basic-10032022-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+iA5HY4wDPvteCrqB4IF.Si3SnJw8EA11iVtc08w+hJqaANwaJR257FDHCFv+FUjxm9wYhZTsAqjAA9W`1[[System.Object, mscorlib, Version=4.0.0.0, Cul
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GatewayIPAddressInformationCollection
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<PrivateImplementationDetails>{64A43961-0832-4A0E-8431-AD016BD34C2A}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+get_GatewayAddresses
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/.8797=<?>A@IHMLNMOLPLQLRLSLTLVUZY\[][^[_[`[bacadaeagfjikjlimlnlolplqlrlsitsusvswsxsyizy{i|i}i~i

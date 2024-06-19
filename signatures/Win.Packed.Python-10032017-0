@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Python-10032017-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+digt.\nBitte laden Sie eine fehlerfreie Version der Datei herunter und wiederholen Sie die Installation."
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+bersteigt. Der Entpacken kann daher extrem langsam sein oder sogar zu einem nicht mehr reagierenden System f
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+hrung der Operation.\nSchauen Sie ins Informations-Fenster f
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+tigen das folgende Volumen, um das Archiv weiter zu entpacken:"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cken Sie <b>Installieren</b>, um die Dateien im Archiv zu entpacken.</li><br><br>"
