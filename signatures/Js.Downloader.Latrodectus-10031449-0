@@ -1,0 +1,5 @@
+VIRUS NAME: Js.Downloader.Latrodectus-10031449-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: *
+DECODED SIGNATURE:
+//// var installcommand = 'msiexec.exe /i \\\\{WILDCARD_ANY_STRING(LENGTH>=5&&<=40)}@80\\share\\{WILDCARD_ANY_STRING(LENGTH>=2&&<=10)}.msi /qn'; //

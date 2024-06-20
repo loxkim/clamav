@@ -1,0 +1,13 @@
+VIRUS NAME: Js.Downloader.Latrodectus-10031446-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+////function installfromurl() { //
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+//// msipath = "http://{WILDCARD_ANY_STRING(LENGTH>=10&&<=24)}.msi"; //

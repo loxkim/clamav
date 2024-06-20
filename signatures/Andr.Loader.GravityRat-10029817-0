@@ -1,0 +1,18 @@
+VIRUS NAME: Andr.Loader.GravityRat-10029817-0
+TDB: Engine:90-255,Container:CL_TYPE_ZIP,Target:0
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+location_providers_allowed
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sms_file_status
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+call_file_status
