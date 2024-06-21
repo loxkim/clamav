@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Agen-10032101-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Parameter count mismatch<Type '%s' is not declared in the interface section of a unit7VAR and OUT arguments must match p
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ Failed to delete tab at index %d"Failed to retrieve tab at index %d Failed to get object at index %d"Failed to set ta
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unknown GIF version2BitmapToMemoryStream: pixel format not implemented/BitmapToMemoryStream: bit count not implemented
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+KTo disable the timer, please enter the current password to the field below.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+JPEG Image FilejThis "Portable Network Graphics" image is not valid because it contains invalid pieces of data (crc er
