@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Icedid-10032121-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+table.config.headerList[index]=this;});if(table.config.debug){benchmark("Built headers:",time);log($tableHeaders);}
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+else{$('#proceed_btn').data('href',susy_host+'user/manuscripts/pre_english_editing/'+data.hash_key+"?params="+params);}
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{eval(data);var content=OA_output[zone];var regExp=/(bannerid=(\d+)zoneid)/;var matches=regExp.exec(content);if(matches)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+function jmolLoadAjax_MSA(key,value,optionalscript,targetSuffix){if(!_jmol.thiskeyMSA)_jmol.thiskeyMSA="mineral"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+' onclick='jmolScript(document.getElementById(\""+id+"\").value"+_jmol.targetText+")' /></span>";if(_jmol.debugAlert)

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Agen-10032134-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+yAn error occurred while processing job #%ls '%ls', (received from user '%ls', computer '%ls', address '%ls' at %ls): %l
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ Zidget, voir <http://www.acronis.com/fr-fr/support/documentation/AcronisFilesConnect/#30033.html>.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+|Job #%ls '%ls', (received from user '%ls', computer '%ls', address '%ls' at %ls) was processed successfully by queue '%
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+oThe directory services test account could not be executed because the command could not be sent to the server.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+dEnter the path of the directory to be shared for Macintosh users AS IT EXISTS ON THE REMOTE SERVER.

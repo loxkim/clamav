@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Agen-10032135-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+es, mais vous devez relancer le service Acronis Files Connect avant de pouvoir configurer DFS.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+zUNIX permissions have been enabled, but the Acronis Files Connect service must be restarted before DFS can be configure
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+_An error occurred while browsing the AppleTalk network.  You may not have AppleTalk installed.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ dashboard widget are both capable of displaying DFS resources to Mac users. Please see the Acronis Files Connect manual
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+|Beim Durchsuchen des AppleTalk-Netzwerks ist ein Fehler aufgetreten.  Sie haben AppleTalk m

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Upatre-10032119-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Virtual\AppData\Local\Temp\90480331cf492315a8e860c1effb50a18cea334b972dbd630eedbae598ff6288.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\RA491~1.VUL\AppData\Local\Temp\c63d375025bfcf8c43ee685edfc5765e.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\HPPC~1\AppData\Local\Temp\7zO49AA.tmp\Skype-message.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\John\AppData\Local\Temp\eiuxuzkymmoQ.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\c66845b4cff52da5280db8ce24eb4c92.virus.exe

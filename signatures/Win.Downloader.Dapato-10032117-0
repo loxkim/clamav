@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Dapato-10032117-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Administrator\AppData\Local\Temp\cuckoo-c15541655decfc00bb36e879e2647e9df841e39ebe3d221f275a412380bd56f1.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Administrator\AppData\Local\Temp\cuckoo-13f6281a7b01564b8ac1ab6b848d694c60e7aeede7bacc13e08467711842e781.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Administrator\AppData\Local\Temp\cuckoo-0ebaf8d95346397b2d8682766cdb3e3590a5bb3bd64d8357c2e5c0f6c92188cb.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\0ff4d8551ebc49aee274d4f73602f73028c2f66dcf8e3cc727fee8bc99d01a7a.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Downloads\2be6a02397b91ba75698dc477b8717d4266ff2b6a6e5285128648876dd475bab.exe
