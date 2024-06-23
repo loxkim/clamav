@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Generic-10032156-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<MdLabel.dll> RegOpenKeyEx HKEY_CURRENT_USER Failed: %d...
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Successed to CreateProcessAsUser. ProName: %s, Cmd: %s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<MdLabel.dll> StartIEProcess ExpandEnvironmentStrings Failed...
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ WinSessionThread CreateProcess pid = %d, CreateProcessAsUser  err = %d !
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\DistributedAutoLink\Temp\CompileOutputDir\MdLabel.pdb
