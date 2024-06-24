@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Buterat-10032247-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://xui.ptlogin2.qq.com
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Create QSession processed error!  ErrorCode is %d. %s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%s@%s (v%s-%s) || Hardware:{CPU:%s,Memory:%s}|| BrowserAgent : %s || Openner : %s || InnerIP : %s || PeerSoftware : %s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+function rw(){var wel=document.getElementById('welcomeflash');alert(wel);if(wel){wel.click();wel.parentNode.removeChild(
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://i.qq.com/?target=_self
