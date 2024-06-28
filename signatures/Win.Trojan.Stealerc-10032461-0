@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Stealerc-10032461-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Set Size Exceeded.*Error on call Winsock2 library function %s&Error on loading Winsock2 library (%s)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=is-=gss=RsM=Aso= s&=hs,=cs+= s4=cs2=us0=us/=as'=es"= s,=nss=gs!=os&=ts+= s4=rs!=es"=ts8=dss=cs8=ls/=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=hs6= sH=LsD= s@=Esb=0sQ= s*=sss=ass=ls,=wsn=es.=is =ss,=os)=sss=ds,=es&=es'= s&=ws,=ts6=hs0=rss=ls*=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ss=gs/=us0=os0=os!=ts*=cs,=is7= s!=es0=es#=ts,=rss=(sT=Rsj= s2=ns7= s+=es-=cs6= s1=ls,=cs(=sss=ts+=es
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+= s4= s&=is)=gs'=ess=Ms?=Uss=Ss0=rs,=es&= se=0sc=0ss=es)=gs,=ns0= s"=hs,=cs+= s
