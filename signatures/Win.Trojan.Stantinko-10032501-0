@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Stantinko-10032501-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+failed in IsUserInAdminGroup(): JRE_System_LoadLibrary(advapi32.dll)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\amigo_browser_38\amigo_3.0\src\content\renderer\media\crypto\ppapi_decryptor.cc
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+E:\zhchff\OnlineUpdate2.0_B005_Branch\Release\Win\UpdateDog\RunLiveUpd.pdb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e:\amigo_browser_38\amigo_3.0\src\Chrome\browser\extensions\api\identity\web_auth_flow.cc
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+e:\amigo_buildbot\builder\amigo_3_8\build\src\content\browser\cache_storage\cache_storage_manager.cc
