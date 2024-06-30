@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Johnnie-10032544-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wmic process where "name='svchost.exe' and ExecutablePath='C:\\Program Files\\Windows NT\\svchost.exe'" call Terminate
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wmic process where "name='WUDFHost.exe' and ExecutablePath='C:\\Windows\\debug\\wk\\WUDFHost.exe'" call Terminate
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wmic process where "name='svchost.exe' and ExecutablePath='C:\\Windows\\system\\svchost.exe'" call Terminate
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wmic process where "name='winlogon.exe' and ExecutablePath='C:\\Windows\\Fonts\\winlogon.exe'" call Terminate
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wmic process where "name='Update64.exe' and ExecutablePath='C:\\Windows\\dell\\Update64.exe'" call Terminate

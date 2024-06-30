@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Msilheracles-10032555-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ <a target="_blank" href="https://beian.miit.gov.cn/">
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+var s = document.getElementsByTagName("script")[0];
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Scripts/jquery-1.4.2.min.js" type="text/javascript"></script>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hm.src = "//hm.baidu.com/hm.js?d021a2e7a5eac78d2dbe3dffc55e2b0c";
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">

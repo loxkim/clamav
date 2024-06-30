@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10032531-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=is-=gss=RsM=Aso= s&=hs,=cs+= s4=cs2=us0=us/=as'=es"= s,=nss=gs!=os&=ts+= s4=rs!=es"=ts8=dss=cs8=ls/=
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=hs6= sH=LsD= s@=Esb=0sQ= s*=sss=ass=ls,=wsn=es.=is =ss,=os)=sss=ds,=es&=es'= s&=ws,=ts6=hs0=rss=ls*=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ss=gs/=us0=os0=os!=ts*=cs,=is7= s!=es0=es#=ts,=rss=(sT=Rsj= s2=ns7= s+=es-=cs6= s1=ls,=cs(=sss=ts+=es
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+= s4= s&=is)=gs'=ess=Ms?=Uss=Ss0=rs,=es&= se=0sc=0ss=es)=gs,=ns0= s"=hs,=cs+= s
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+s1=es0=nss=ps!=os/=us2=es/= s-=os!= sR=hs0=vs!=os%= s=oss=bs0= s =ss0=dss=is%= s=hs0= s!=es-=is%=es
