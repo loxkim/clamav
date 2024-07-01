@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Stealerc-10032615-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid SQL date/time values=Error decoding URL style (%%XX) encoded string at position %d1Invalid URL encoded character
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid parent'Execution of action %s is not permitted"Data Modification is not permitted
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Component %s not foundDGetting the Count of a TComponentsEnumerator object is not supportedWComponent was expected to im
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Illegal Parameter Error: Attempt to set the reserved Document Format "default".
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ENTITY or ENTITIES value refers to a non-existent target unparsed entity
