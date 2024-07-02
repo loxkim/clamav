@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Adwarex-10032670-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DCannot start distributed transaction without transaction name or XID'%s cannot contain more than 64 elements9Distribute
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Need Oracle 8i Call Interface+OCI pooling is not supported in Direct mode.OCI pooling is supported starting with OCI 9.2
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Cursor must be opened)%s parameter must be array with length %d
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid interval.8Schema feature is not supported with Oracle Lite serversAUseUnicode option must be set to True for Uni
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+OCISvcCtx is not defined'Lob parameter should be Input or Output
