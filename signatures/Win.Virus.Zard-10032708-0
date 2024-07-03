@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Zard-10032708-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$MsgIn@$02VPVGetProcessIDSvc@@V?$Channel@VPipeTransportWithMessagePump@@VEncoder@ipc@@VDecoder@3@@ipc@@@ipc@@
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$MsgIn@$0CFJ@VOnixGetTempPathManager@@V?$Channel@VPipeTransportWithMessagePump@@VEncoder@ipc@@VDecoder@3@@ipc@@@ipc@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$MsgIn@$0CGD@VGetScannersPropsManagerSvc@@V?$Channel@VPipeTransportWithMessagePump@@VEncoder@ipc@@VDecoder@3@@ipc@@@ipc@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+D:\T\Imports\Open\boost\boost\thread\win32\thread_primitives.hpp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+D:\T\Imports\Open\boost\boost\thread\win32\thread_heap_alloc.hpp
