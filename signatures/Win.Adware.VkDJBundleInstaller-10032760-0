@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Adware.VkDJBundleInstaller-10032760-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BTDictionary<System.string,System.TypInfo.PTypeInfo>.TKeyEnumerator8'D
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TTComparer<System.Generics.Collections.TPair<System.string,System.TypInfo.PTypeInfo>>$XF
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TTComparer<System.Generics.Collections.TPair<System.TypInfo.PTypeInfo,System.string>>XPF
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MTDictionary<System.TClass,System.Classes.TFieldsCache.TFields>.TKeyEnumerator8
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TTComparer<System.Generics.Collections.TPair<System.Pointer,System.Rtti.TRttiObject>>

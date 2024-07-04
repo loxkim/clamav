@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Avemaria-10032741-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\W7H64\Desktop\VCSamples-master\VC2010Samples\ATL\General\AtlCon\bitcoin coinjoin op.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\users\w7h64\desktop\vcsamples-master\vc2010samples\atl\general\atlcon\propbrowsectl.h
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+d:\agent\_work\3\s\src\vctools\crt\vcstartup\src\misc\thread_safe_statics.cpp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\atlmfc\include\atlsim
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+d:\agent\_work\3\s\src\vctools\crt\vcruntime\src\internal\winapi_downlevel.cpp
