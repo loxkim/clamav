@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Adwarex-10032806-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unsupported export type: %dYThe Style Manager is currently being used elsewhere and can not be released at this stage
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Export to MS Excel (*.xls) Export to MS Excel 2007 (*.xlsx)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Export to text format (*.txt)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+List index out of bounds (%d)jThis "Portable Network Graphics" image is not valid because it contains invalid pieces o
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The skin data version is older than the current ExpressSkins Library version.
