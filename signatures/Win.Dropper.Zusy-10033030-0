@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Zusy-10033030-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Remove-ItemProperty -Path "HKLM:\Software\Microsoft\Windows Embedded\EmbeddedLogon" -Name "HideFirstLogonAnimation"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Remove-ItemProperty -Path "HKLM:\Software\Microsoft\Windows Embedded\EmbeddedLogon" -Name "BrandingNeutral"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$BackupShell = (Get-ItemProperty -Path $RegPath -Name $BackupKeyName -ErrorAction SilentlyContinue).$BackupKeyName
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$RegPath = "HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Remove-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\Personalization" -Name "NoLockScreen"
