@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Zusy-10033075-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[+] Load config directory wasn't found, probably StackCookie not defined, fix cookie skipped
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[!] DriverInfo Magic is invalid, new wdfilter version?, driver info will not be released to prevent bsod
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[-] StackCookie already fixed!? this probably wrong
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[+] WdFilter.sys not loaded, clear skipped
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[!] Failed to remove from RuntimeDriversArray

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Pwsx-10033089-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Provider = Microsoft.ACE.OLEDB.12.0; Data Source = Centralizator.accdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+loginUtilizator
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+UPDATE situatii_curs set notaSeminar=@notaSeminar, notaExamen=@notaExamen where idCurs=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Coduri de testare roluri utilizator: profesor-P1002, student-S1005, admin-A1001
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+INSERT INTO studenti values(@idStudent, @nume, @prenume, @sex, @an, @grupa, @serie, @finantare, @specializare)
