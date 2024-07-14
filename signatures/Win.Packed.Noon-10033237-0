@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Noon-10033237-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Data Source = KARTAL\SQLEXPRESS02; Initial Catalog = PersonelOOPProje; Integrated Security = True
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Update dbo.Bilgi SET  AD=@p1,SOYAD=@p2,Maas=@p3,SEHIR=@p4,Gorev=@p5 where ID=@p6
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Mimari.Properties.Resources.resources
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+insert into dbo.Bilgi (AD,SOYAD,GOREV,SEHIR,MAAS) VALUES(@p1,@p2,@p3,@p4,@p5)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DELETE from dbo.Bilgi where ID=@p1
