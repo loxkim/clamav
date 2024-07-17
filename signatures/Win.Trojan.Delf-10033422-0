@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Delf-10033422-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Delete all selected records?%Operation not allowed in a DBCtrlGrid(Property already defined by lookup field/Grid request
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+OLE error %.8x.Method '%s' not supported by automation object/Variant does not reference an automation object0'%s' is no
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+DataSource cannot be changed0Cannot perform this operation on an open dataset"Dataset not in edit or insert mode1Cannot
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid value for field '%s'E%g is not a valid value for field '%s'. The allowed range is %g to %gE%s is not a valid val
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid input value)Failed to read ImageList data from stream(Failed to write ImageList data to stream$Error creating wi

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Remcos-10033377-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT RepairID, CustomerID, ProductCode, TechID, DateReported, DateRepaired, Title, Description FROM dbo.Repairs
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dData Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\AppRepairs.mdf;Integrated Security=True
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT CustomerID, Name, City, State, ZipCode, Phone, Email FROM Customers WHERE (CustomerID = SCOPE_IDENTITY())
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPADP
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+All TableAdapters managed by a TableAdapterManager must use the same connection string.

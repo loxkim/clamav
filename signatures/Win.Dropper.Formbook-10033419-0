@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Formbook-10033419-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+stEvt:softwareAgent="Adobe Adobe Media Encoder 2021.0 (Windows)"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+stRef:originalDocumentID="xmp.did:a86a2b6f-c303-3549-9248-86f4f4f4bc80"/>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xmpMM:OriginalDocumentID="xmp.did:2a3e5a4c-8553-3d41-93ec-7c633863ff0b"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<rdf:li xml:lang="x-default">XLL EXCEL DROPPER</rdf:li>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<rdf:li xml:lang="x-default">Dark Gray Solid 1</rdf:li>

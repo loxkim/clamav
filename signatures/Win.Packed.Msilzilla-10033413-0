@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Msilzilla-10033413-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Xpackages/microsoft.web.webview2.1.0.1661.34/runtimes/win-arm64/native/webview2loader.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+aMicrosoft.Web.WebView2.Wpf, Version=1.0.1661.34, Culture=neutral, PublicKeyToken=2a8ab48044d2601e
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+window.open('https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ISAMPLauncherWebView2.MainWindow+<ExtractFileGame_RunWorkerCompleted>d__16
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+powershell.exe
