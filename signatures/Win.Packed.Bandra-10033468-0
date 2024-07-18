@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Bandra-10033468-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\par https://raw.githubusercontent.com/developerforce/Force.com-Toolkit-for-NET/master/LICENSE
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\par https://github.com/MYOB-Technology/AccountRight_Live_API_.Net_SDK/blob/master/LICENSE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\par https://raw.githubusercontent.com/JamesNK/Newtonsoft.Json/master/LICENSE.md
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+) rights in any Company IP or any other materials, information, processes, or subject matter owned by us or our licensors.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPADPBj
