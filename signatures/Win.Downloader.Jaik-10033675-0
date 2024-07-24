@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Jaik-10033675-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__vbaVarDup__vbaStrToAnsi_CIatan__vbaStrMove_allmul_CItan_CIexp__vbaFreeObj__vbaFreeStr
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__vbaOnError__vbaObjSet_adj_fdiv_m16i__vbaObjSetAddref_adj_fdivr_m16i_CIsin__vbaChkstkEVENT_SINK_AddRefDllFunctionCall_adj_fpata
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_CIsqrtEVENT_SINK_QueryInterface__vbaExceptHandler_adj_fprem_adj_fdivr_m64__vbaFPException__vbaVarCat_CIlog__vbaErrorOverflow__v
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_CIcos_adj_fptan__vbaFreeVar__vbaStrVarMove__vbaEnd__vbaFreeVarList_adj_fdiv_m64_adj_fprem1__vbaStrCat__vbaSetSystemError__vbaHr
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nEVENT_SINK_Release
