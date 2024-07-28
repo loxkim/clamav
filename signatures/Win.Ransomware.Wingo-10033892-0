@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Wingo-10033892-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+is nil, not , not pointerGC sweep waitbad map statedalTLDpSugct?double unlockexecRInternalfilter methodinvalid UTF-8load64 fail
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+osthourhttpicmpigmpint8itabjsonkindnullopenpasspathpipepop3quitrandreadrootseeksmtpsse2sse3tRNStrueuintunix  -%s (at  BOM) not %
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0select (no cases)swept cached spansync.RWMutex.Lockthread exhaustionunknown caller pcwait for GC cycle because dotdotdotGC wor
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ClassDEBUGDograErrorGreekKhmerLatinLimbuLocalLstatMarchNRGBANushuOghamOriyaOsageP-256P-384P-521RunicSHA-1STermTakriTamilTypeAUT
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bad statusmarkBits overflowmissing closing )missing closing ]notetsleepg on g0runtime.newosprocruntime/internal/scanobject n ==
