@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Redcap-10033964-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+github.com/amenzhinsky/go-memexec.(*Exec).Command
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+freemheap.freeSpanLocked - invalid span stateattempted to add zero-sized address rangeruntime: blocked read on closing polldesc
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+emberInheritedpsapi.dllmath/randexecerrdotSYSTEMROOT12207031256103515625CreateFilecreatetemp/dev/stdincomplex128t.Kind == notify
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+koptsetsockoptdnsapi.dllws2_32.dll%!Weekday(LockFileExWSASocketWhttp2debugcrypto/tlssvchost.exe bytes ...
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+athRegCreateKeyExWRegDeleteValueW0123456789abcdefexec: no commandgo-memexec-*.exe23841857910156250123456789ABCDEFGODEBUG: value 
