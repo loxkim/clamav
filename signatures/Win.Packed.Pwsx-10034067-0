@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Pwsx-10034067-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NSystem.Private.Reflection.Execution.dll2System.Private.TypeLoader
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+JSystem.Private.StackTraceMetadata.dll,System.Security.Claims
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:System.Private.TypeLoader.dllBSystem.Private.StackTraceMetadata
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://schemas.microsoft.com/ws/2008/06/identity/claims/windowssubauthorit
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The output char buffer is too small to contain the decoded characters, encoding '{0}' fallback '{1}'

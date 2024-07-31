@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Clipbanker-10034069-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\IdefaSoft\Documents\Rust\Clipper\target\release\deps\clipper.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\IdefaSoft\.cargo\registry\src\index.crates.io-6f17d22bba15001f\regex-automata-0.4.5\src\meta\error.rs
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\IdefaSoft\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memchr-2.7.1\src\arch\all\packedpair\mod.rs
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\IdefaSoft\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aho-corasick-1.1.2\src\nfa\noncontiguous.rs
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\IdefaSoft\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aho-corasick-1.1.2\src\util\remapper.rs
