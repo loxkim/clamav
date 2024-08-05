@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10034137-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.head{padding:8px 0 0 80px;background:url(res://ieframe.dll/tab_icon.png) no-repeat 20px 0;min-height:39px;text-align:right;}
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+FDI error$Failure setting file stream position3Unexpected operation during decompression to memory
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.head a{background:url(res://ieframe.dll/help.gif) no-repeat 0 50%;padding:1px 0 0 25px;display:inline-block;min-height:15px;mar
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Argument out of range"%s (Version %d.%d, Build %d, %5:s):%s Service Pack %4:d (Version %1:d.%2:d, Build %3:d, %5:s)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<html><head><meta http-equiv="REFRESH" content="0; URL=about:Tabs"></head><body></body>
