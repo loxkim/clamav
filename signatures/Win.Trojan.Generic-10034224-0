@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10034224-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$("#nav51").attr("href", "javascript:void(0)").attr("data-toggle", "modal").attr("data-target", "#myModal");
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+url: "Ajax/AddOnlineMessage.aspx?username="+$("#username").val()+"&userPhone="+$("#userPhone").val()+"&companyName="
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$("#file_" + id).attr("href", ""+url).attr("target", "_blank");
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+select * from Whir_U_Content where typeid in (8,11,12) and title like '%{0}%' and isdel=0 order by sort desc,createdate 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
++$("#companyName").val()+"&questContent="+$("#questContent").val(),
