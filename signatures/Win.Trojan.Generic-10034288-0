@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10034288-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+this.style.display='none';document.getElementById('logining').style.display='';beforePostEncrypted();
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gSystem.Web.UI.MasterPage, System.Web, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<a target="_blank" href="zidongshuaxin.aspx?time=30&url=ChargeOnline/interFaceB2C.aspx?Method=shuaxinchongzhi">
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_Details, App_Web_details.master.cdcab7d2, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+~\initdata\systemParameter.txt
