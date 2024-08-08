@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Chisel-10034326-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(normal)Created%sListeninghmac-sha1publickeyENCRYPTEDForwardedAccuracy(underflow of type omitemptymissing ] parsing ): no '/'qu
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+helpauthhostportHOSTPORT8080AUTHHosttrueuinteEpPIdleOpenPOSTHEADEtag0x%xdateetagfromlinkvarypathDatehttpconngzip%x
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gp=scanstack - bad statusheadTailIndex overflowkernel32.dll not foundadvapi32.dll not foundNtWaitForSingleObject
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+socks bindProcessingNo Content%s|%s%s|%sRST_STREAMEND_STREAMCreateFilecreatetemp/dev/stdinnotifyListprofInsertstackLargemSpanInU
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ay-NonceCfgMgr32.dllsetupapi.dllwintrust.dllwtsapi32.dllOpenServiceWReportEventWCreateMutexWGetProcessIdLoadResourceLockResource
