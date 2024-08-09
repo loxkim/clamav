@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.Miner-10034403-0
+TDB: Engine:51-255,Target:6
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Proxy server to use in format type://user:password@host:port (check documentation for supported proxy types and usage details).
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Error: Attempt to write to non-connected target [
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/c/Projects/libs/precompiled/linux64-generic/boost/include/boost/thread/pthread/pthread_mutex_scoped_lock.hpp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/c/Projects/libs/precompiled/linux64-generic/boost/include/boost/thread/pthread/recursive_mutex.hpp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+N5boost19thread_specific_ptrINS_3log12v2s_mt_posix5sinks30basic_formatting_sink_frontendIcE18formatting_contextEE11delete_dataE

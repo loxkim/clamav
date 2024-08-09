@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10034377-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ess@P6AXPEBD@Z@23@AEAY0BO@$$CBD@ADVobfuscator@andrivet@@@23@V?$value@E@23@@_bi@4@@_bi@boost@@
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AV?$state_machine@U?$Machine@U?$event@UVoid@ADVobfuscator@andrivet@@U?$ObfuscatedAddress@P6AXPEBD@Z@23@AEAY0BO@$$CBD@ADVobfuscat
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+alue@Uevent3@?$Machine@U?$event@UVoid@ADVobfuscator@andrivet@@U?$ObfuscatedAddress@P6AXPEBD@Z@23@AEAY0BO@$$CBD@ADVobfuscator@and
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?$event@UVoid@ADVobfuscator@andrivet@@U?$ObfuscatedAddress@P6AXPEBD@Z@23@AEAY0BO@$$CBD@ADVobfuscator@andrivet@@UVoid@23@@Machine
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AEAY0BO@$$CBD@ADVobfuscator@andrivet@@E@_mfi@4@V?$list3@V?$value@PEAV?$state_machine@U?$Machine@U?$event@UVoid@ADVobfuscator@and
