@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Webshell-10034442-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<li style="background: #183b64"><a href="javascript:" style="background: url(siteFiles/login/images/
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+<a href="//www.zhijiao361.com" target="_blank">
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+style="height: 60px; width: 150px; font-size: 30px; display: none;" onclick="confirmLogin('1ZANBsVht78=')">
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+</span></label><a href="javascript:" id="forgetPwd">
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2015-<script type="text/javascript">document.write(new Date().getFullYear());</script>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

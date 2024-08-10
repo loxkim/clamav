@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Zusy-10034440-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Host: login.ke.com
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\"}","r":"https://login.ke.com/login?service=http://mbrand.ke.com/login?gotoURL=%252Fdelegate%252Fweb%252Fsku%252Fv2%252Fl
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Referer: https://login.ke.com/authentication/sdk/init?version=2.0
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Origin: http://login.ke.com
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{"service":"http://mbrand.ke.com/login?gotoURL=%2Fdelegate%2Fweb%2Fsku%2Fv2%2Flist_sold%3FpageNum%3D1%26pageSize%3D10%26combi

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10034436-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(::SystemParametersInfoA)(614, 4719, 0, 9280); error!
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(::BitBlt)((::GetDC)((::GetDesktopWindow())), 1405, 7078, 8816, 879, (::GetDC)((::GetDesktopWindow())), 6685, 6612, 29); error!
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(::PostMessageW)((::GetDesktopWindow()), 6508, 0, 0); error!
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(::GetSystemMetrics)(8710); error!
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(::GetCharacterPlacementW)((::GetDC)((::GetDesktopWindow())), 0, 6218, 6807, 0, 4639); error!
