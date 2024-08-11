@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10034468-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+raDudFwfHyhLzjNwhLvkNviMsgKvgHyiDwhBveBwdCta@r_?taAwdDyfEzgExeCubCrdDteFteEtdAue@ue@xfAwe@vd?ve>xf?yf@xfBxfCygDyiEzjFzjF{lG
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+im|chy`ew^by_dy`by^_w]`v_au_au]`u^_v]`u[_v\^w[^w[^x[^x[]sY^pY`pXapYfq]jr`rsatscvqauq_sr_rs`st`sw`rv_qubsucvtdttdsucpvajwah{cg
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+1http://crl.sectigo.com/COMODOTimeStampingCA_2.crl0r
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+OUPlugin.dll
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+B7 A7 B7 D7 H:"I:$K<&J?%L@%M@%K@$L@"K>"M@$M?$KA"LA$KA"H>!H="H=!G< F; H>"K@%G<!E:

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Zusy-10034498-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+0z:#0z:'0z:,0z:10z:80z:B1z:J1z:S1z:\1z:`1z:d1z:h1z:l1z:p1z:t1z:x1z:|1z:
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+^dzzzd^zzz^ZdzzdZ^zzb^dczg^dzz^gdzz^dgzzbd^czgd^zzdg^zzd^gzzgdZ^zg^ZdzdZ^gz^Zdgz^ZgdzdgZ^zb^ZdcbdZ^c
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+:h^^^::::"&z:*&z:B'z:\'z:k'z:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnDragDropt C
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OnDockDroph"C
