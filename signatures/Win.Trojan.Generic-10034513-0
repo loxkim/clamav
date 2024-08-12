@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10034513-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.head{padding:8px 0 0 80px;background:url(res://ieframe.dll/tab_icon.png) no-repeat 20px 0;min-height:39px;text-align:right;}
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<p><a href="http://toolbar.inbox.com" target="_blank">{AboutWebsite}</a></p>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://toolbar.inbox.com/search/dispatcher.aspx?tp=aus&qkw=%s&tbid=%tb_id&%language
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+FDI error$Failure setting file stream position3Unexpected operation during decompression to memory
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.head a{background:url(res://ieframe.dll/help.gif) no-repeat 0 50%;padding:1px 0 0 25px;display:inline-block;min-height:15px;mar
