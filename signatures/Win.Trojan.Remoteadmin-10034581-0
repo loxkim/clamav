@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Remoteadmin-10034581-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Bad value Bad max updates per second value%The driver is used on the remote side)The driver is not used on the remote si
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+NTAuth:InitClientSec fails1User doesn't have rights for this connection type
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Can't connect to the server[Connection I/O error, connection may be closed due to IP Filter settings on the remote side
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Receiving file8Last file operation has failed. Do you want to continue?
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+(%s)FAre you sure you want to delete this folder and all its contents?
