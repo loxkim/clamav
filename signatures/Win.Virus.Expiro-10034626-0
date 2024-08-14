@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Expiro-10034626-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+E:\B\T\10855d4a-6fbf-4d70-9bd2-4cbb4a6eddf1\CoreTech_5.7\SDK\src\Logging\internal_logging.cpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\vtploader.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\core\vtploader.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Binder@U_Unforced@std@@P8_Impl@?$OSInfoProxy@VWinOSVersionAPI@CoreTech@@@internal@CoreTech@@EAA_NXZPEAV3456@@std@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+sCabinet.dll
