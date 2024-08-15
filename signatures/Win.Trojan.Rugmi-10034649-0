@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Rugmi-10034649-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+%s SslHandshakeDone(%d) Error=%d. Secure connection with %s, cipher %s, %d secret bits (%d total), session reused=%s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SSL Connected OK with %s, cipher %s, key auth %s, key exchange %s, encryption %s, message auth %s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Failed to read encoded PEM private key
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Winsock startup error ws2_32.dll - 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+F:\DelphiVcl\ICSv8\icsv844\Source\OverbyteIcsWndControl.pas
