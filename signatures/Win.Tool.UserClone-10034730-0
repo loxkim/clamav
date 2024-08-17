@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Tool.UserClone-10034730-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Usage: %s UserName ClonedUser /Clone
