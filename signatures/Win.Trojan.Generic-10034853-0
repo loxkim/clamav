@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10034853-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Bruno\AppData\Local\Temp\program.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Bruno\Desktop\executable.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\5bd372a38b0f88092f811f6435310b5565bab51865e760cd0272dc290185687d.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\8a6ab13d83fa607e343b0717b4e9605d23c554190b426d9c77c8d6df44a64b40.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\1be4b66051fbb262b167f763ab8f7f78.virus.exe
