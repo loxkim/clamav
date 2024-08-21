@@ -1,0 +1,108 @@
+VIRUS NAME: Osx.Backdoor.Macma-10034802-0
+TDB: Engine:90-255,Target:9
+LOGICAL EXPRESSION: ((0|1|2|3|4|5)|((6|7|8|9|10|11|12|13|14|15|16|17|18|19)>6,7))&20
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+curl -o %s http://cgi1.apnic.net/cgi-bin/my-ip.php
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+[FST%d]: WhyUserCancel UNKNOW: %d
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+[FST%d]: wait C2 prepare ready TIMEOUT, fd: %d
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+[FST%d]: wait C2 ack file content TIMEOUT, fd: %d
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+[FST%d]: TIMER_CHECK_CANCEL WhyUserCancel UNKNOW: %d
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+[FST%d]: encrypt file info key=%s, crc v1=0x%p, v2=0x%p
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+auto bbbbbaaend:%d path %s
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+0keyboardRecirderStopv
+ * SUBSIG ID 8
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+curl begin...
+ * SUBSIG ID 9
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+curl over!
+ * SUBSIG ID 10
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+kAgent fail
+ * SUBSIG ID 11
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+put !!!!
+ * SUBSIG ID 12
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+vret!!!!!! %d
+ * SUBSIG ID 13
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+save Setting Success
+ * SUBSIG ID 14
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+Start Filesyste Search.
+ * SUBSIG ID 15
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+./SearchFileTool
+ * SUBSIG ID 16
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+put unknow exception in MonitorQueue
+ * SUBSIG ID 17
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+./netcfg2.ini
+ * SUBSIG ID 18
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+.killchecker_
+ * SUBSIG ID 19
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+./param.ini
+ * SUBSIG ID 20
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+kill -9
