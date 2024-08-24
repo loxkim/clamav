@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10034992-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\508d59453b5db0e5a759ddbd32ac52266577876e4881ac4862529c28a0f1fb6a.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\a85b8bcb2df73d18aeebe707c864f1fd8da6b9da934e5beb64522e4a4d15c71d.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\azure\Downloads\8a2bce678766629d1910c6fd32d3f2fd9d24c916bf26e44dd428ba9ac62797e1.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Frank\Desktop\krcUIBfF.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Lisa\Desktop\EqoaDYBl.exe
