@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Midie-10035006-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+b;;?<B&>?<B&:5<9&>&>;>;AAAAA=<?:;AA<<>;>>AA<<>;::AA?<A;A)<0&:;;&:A;&:A;;&:AAAA;&:AAA&:;<?&:;&:A@&&:=C@5'''@<B;3<8;A1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+B><CAA&A&A<CAA&@&@<CAA&>&><CAA&;&;>CB5&'>CB;&>=CB&>&>=CB&;&;=CAB:&><C@B:&>;>CB:&>=CA:&>;>CB8&>=CA8&>;=CAB8&><C@B8&>;?#C1
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?#B;;<#@;>&>;9#>;&>;;&>;=#A;&>;:#?B&>;&>;>#A::;?#B::7#A/:ACACC&>A:#?;&>;&>;=#AB&>;9#BB/:ACACC:C@5&>&>&>?#C1
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+b;;7<;;&>&>A>A;A8<=&>;&>;A&>>CA;;;<<>:::::#<1;/:ACACC;;;AA;:AAAA;;AA/:ACACC</:ACACC>#AB;;=#@B;;:>#A:;;>#C1
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+A@>?9A@>:<<;;;AAA5?#B;5"<%>:8;;:AAA88;;8;;9&9A;;AAAAAAAAA>9B2
