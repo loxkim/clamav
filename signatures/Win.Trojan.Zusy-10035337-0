@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Zusy-10035337-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+dbExpress Error: Invalid Time(dbExpress Error: Operation Not Supported)dbExpress Error: Invalid Data Translation"dbExpr
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+OLE error %.8x.Method '%s' not supported by automation object/Variant does not reference an automation object7Dispatch m
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+2dbExpress Error: Multiple Transactions not Enabled)"%s" DOMImplementation already registered;Property or Method "%s
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TMSDOMProcessingInstruction
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Node cannot be null Microsoft MSXML is not installed/Top Legend Position must be between 0 and 100 %
