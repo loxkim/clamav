@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.RedLine-10035524-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+{aa66acdc-118e-4b03-bfa2-4b8d3027ad8c}, PublicKeyToken=3e56350693f7355e
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+kpdIFr.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+IbmjkgdnmnfAhmbejgrearhaAdjnFASangSjdpmoFphIdAjoArcmIipbIkmmFpkoofiamkiIddgiinFaIdoddmgekFpid
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7)j:"@!
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ql:\A6
