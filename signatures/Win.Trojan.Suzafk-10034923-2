@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Trojan.Suzafk-10034923-2
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0|1|2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\source\repos\fsd\Release\fsd.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Public\Documents\wks\SZFKClient_OLD\Release\NetMM.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\Desktop\ndms3\Release\ndms.pdb

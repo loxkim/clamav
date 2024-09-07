@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Backdoor.ReverseSSH-10033041-1
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: (0&1&2&3)|(0&1&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rsshsack
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+winpty
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\rprichard\proj\winpty\src\Release\x64\winpty-agent.pdb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\rprichard\proj\winpty\src\Release\x64\winpty.pdb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+jHmV7i0pepNKrER7lFgH/uua9TZjNBVmwkgWqdtYo/HQ3g2iyu0eg_uYOiNNwc/JOyiZ48EmDly5JmpjmUV

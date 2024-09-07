@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Havoc-10035021-1
+TDB: Engine:90-255,Target:0
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE WIDE
+ +-> DECODED SUBSIGNATURE:
+iTsTRanSfEr -sourCe https://wacc.photo/wp-content/uploads/2024
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE WIDE
+ +-> DECODED SUBSIGNATURE:
+[System.Reflection.Assembly]::LoadFile(
