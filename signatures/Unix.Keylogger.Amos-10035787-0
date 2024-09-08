@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Keylogger.Amos-10035787-0
+TDB: Engine:51-255,Target:9
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/ms116/BuilderMAC/BuilderProject/builds/admin/CNxNSBHF9fNc52ltCjVkiFvxv2Jewr/MacStealer/MacStealer/Sources/
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Users/ms116/Library/Developer/Xcode/DerivedData/MacStealer-aaattoavmpsevmbmxielwvjwnibg/Build/Intermediates.noindex/MacStealer.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CNxNSBHF9fNc52ltCjVkiFvxv2Jewr-55554944dd556ae8b42534bab4e9e1954b65f7d6
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CNxNSBHF9fNc52ltCjVkiFvxv2Jewr
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hdY2qLoHOfXbdwdGdQhvJcbjntZ6U7
