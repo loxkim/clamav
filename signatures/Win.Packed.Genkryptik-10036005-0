@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Genkryptik-10036005-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ProcessExecuteCommand
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+;http://crt.sectigo.com/SectigoPublicTimeStampingRootR46.p7c0#
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<LocalFile>f:\VM\Win7_Share\soft\installer\x00\Syncfusion.Tools_v26.2462.4.0_x00.7z</LocalFile>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<LocalFile>f:\VM\Win7_Share\soft\installer\x86\ChilkatDotNet48_v9.5.0.98_x86.7z</LocalFile>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl05

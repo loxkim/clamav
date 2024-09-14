@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Gamarue-10035986-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+users.txt
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RAILROAD STATION: Cost = 3000 $, Budget Weakness = 6 %, Income Money = 500 $, 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SHERIFFS HOUSE: Cost = 5000 $, Budget Weakness = 0 %, Income Money = 0 $, 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+TOWN HALL: Cost = 150.000 $, Budget Weakness = 0 %, Income Money = 0 $, 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+STORE: Cost = 3000 $, Budget Weakness = 10 %, Income Money = 1500 $, 

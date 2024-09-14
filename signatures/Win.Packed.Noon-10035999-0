@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Noon-10035999-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+All Files (*.*)|*.*|GDI+ Supported Images (*.bmp;*.gif;*.jpeg;*.png;*.tiff)|*.bmp;*.gif;*.jpeg;*.png;*.tiff
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Attempt to overwrite non-null default parent.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Attempt to remove tab that didn't exist!
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Attempt to modify immutable UIBuilder!
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Attempted to remove control from a 

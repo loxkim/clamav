@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Qqpass-10035914-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://jump.qq.com/clienturl_239?ADUIN=0&ADSESSION=0&ADTAG=CLIENT.QQ.1631_LoginWindow.0
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://account.qq.com/cgi-bin/auth_forget?forgetType=PW&PcacheTime=1179536999
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+LoginUinList.dat
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VerCLSID.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Explorer.Exe

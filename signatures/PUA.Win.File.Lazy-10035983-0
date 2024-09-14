@@ -1,0 +1,28 @@
+VIRUS NAME: PUA.Win.File.Lazy-10035983-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://cdn-file-ssl-pc.ludashi.com/pc/appstore/ludashi/ludashisetup2020.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+enter KillProcessesInInstallPath szTargetDir=%s
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\Jenkins\.jenkins\workspace\install_project\install_main\install_and_uninstall\Release\Install.pdb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[kill] OpenProcess Failed: pid = %d, error = %d
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Open Process failed, hWnd = %d, PID = %d

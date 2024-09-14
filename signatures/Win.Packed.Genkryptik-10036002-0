@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Genkryptik-10036002-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\My Work\Visual Studio\E2019\3rd Party Helper\VB Help\Package Deployer V5\Siam IT CLI\obj\Debug\SiamItCli.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<ShellJob xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Necesita deshabilitar los navegadores regulares como Chrome, Firefox, Edge, IE y Opera en esta computadora?</Message>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Item Index="11">Sorry, main executable not found. Please ensure it hasn't been removed by your antivirus!</Item
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Message>Do you like to disable regular browsers like Chrome, Firefox, Edge, IE, and Opera on this computer?</Me

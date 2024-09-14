@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Genericml-10036084-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+d:\a01\_work\38\s\src\vctools\crt\github\stl\src\StlCompareStringA.cpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.31.31103\include\xutility
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+d:\a01\_work\38\s\src\vctools\crt\vcruntime\inc\internal_shared.h
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+d:\a01\_work\38\s\src\vctools\crt\vcruntime\src\internal\winapi_downlevel.cpp
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+d:\a01\_work\38\s\src\vctools\crt\vcruntime\src\internal\per_thread_data.cpp
