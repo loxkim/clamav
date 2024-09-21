@@ -1,0 +1,33 @@
+VIRUS NAME: Doc.Virus.Valyria-10036264-0
+TDB: Engine:151-255,Container:CL_TYPE_MSOLE2,Target:0
+LOGICAL EXPRESSION: 0&1&2&3&4&5
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+document_new
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+if not v is me.vbproject then
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+msgbox error
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+procedd:
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+v.vbcomponents(1).codemodule.deletelines 1
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+v.vbcomponents(1).codemodule.insertlines 1, me.vbproject.vbcomponents(1).codemodule.lines(1, 1000
