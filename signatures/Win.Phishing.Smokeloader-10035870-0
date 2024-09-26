@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Phishing.Smokeloader-10035870-0
+TDB: Engine:150-255,Container:CL_TYPE_PDF,Target:5
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ERROR: Decoding failed
