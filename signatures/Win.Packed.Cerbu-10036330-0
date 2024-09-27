@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Cerbu-10036330-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ulorwraplibr_s.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rivet@@AEAY0BJ@$$CBDAEAY07$$CBD@ADVobfuscator@andrivet@@@23@V?$value@E@23@@_bi@4@@_bi@boost@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e_machine@U?$Machine@U?$event@KU?$ObfuscatedAddress@P6AKPEBD0@Z@ADVobfuscator@andrivet@@AEAY0BJ@$$CBDAEAY07$$CBD@ADVobfuscator@a
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+t@@Uvoid_@parameter@boost@@U567@U567@U567@@234@AEBU?$event@KU?$ObfuscatedAddress@P6AKPEBD0@Z@ADVobfuscator@andrivet@@AEAY0BJ@$$C
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Software\Tabo Wpi\GxuApp

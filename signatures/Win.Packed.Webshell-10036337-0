@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Webshell-10036337-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+" target="mainFrame"><b style="background-image:url(../flowchart/
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+    <script language="javascript" type="text/javascript" src="../library/jquery-1.11.3.min.js"></script>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+        <a href="javascript:void(0)" onclick="ExcelOut();" id="outExcel" >
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+     <script language="javascript" type="text/javascript" src="../../Javascripts/jquery-1.11.2.js"></script>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+    <script src="jquery-1.11.2.js" type="text/javascript"></script>

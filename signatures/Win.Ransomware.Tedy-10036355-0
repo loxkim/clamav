@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Tedy-10036355-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+main.KqaQuD.Execute
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+J9pBNAhzMrb.(*OgzbtkzjB86D).GetNamedPipe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vDfJ2gwq.IlEMEx1.GetLinkedToken
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+n*struct { F uintptr; data *[]uint8; seed *uint8; fnc *HLEdn7rsP.decFunc[go.shape.func()]; .dict *[58]uintptr }
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+e*struct { F uintptr; .autotmp_27 func(we20YGSd9.SQF7We7Ric) error; .autotmp_28 we20YGSd9.SQF7We7Ric }
