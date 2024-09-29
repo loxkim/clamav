@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Fragtor-10036363-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Url_Down><![CDATA[https://download-fr.wondershare.com/cbs_down/recoverit_full4159.exe]]></Url_Down>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Url_Install><![CDATA[https://recoverit.wondershare.fr/thankyou/install-recoverit.html]]></Url_Install>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+recoverit_setup_full4159.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<ChannelFlag>sku-wefr-wefr-fr</ChannelFlag>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Channel>sku-wefr-wefr-fr</Channel>

@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Ransomware.Babuk-10032520-1
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE WIDE
+ +-> DECODED SUBSIGNATURE:
+/c vssadmin.exe delete shadows /all /quiet
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Wow64DisableWow64FsRedirection

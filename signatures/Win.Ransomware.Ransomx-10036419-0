@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Ransomx-10036419-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@mC@c@sUsers@srunneradmin@s.nimble@spkgs2@snimcrypto-0.6.1-35e948eaf82eeef77aa6191291b5ebc2c6d8ef14@snimcrypto@srijndael.nim.c
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+burnMem__6758Z85sersZrunneradminZOnimbleZpkgs50Znimcrypto4548O54O49455153e575256eaf5650eeef5555aa54495749505749b53ebc50c54d56ef4
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+__emutls_v.gSystemRng__6758Z85sersZrunneradminZOnimbleZpkgs50Znimcrypto4548O54O49455153e575256eaf5650eeef5555aa54495749505749b53
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2ZnimcryptoZrijndael_u152
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+952ZnimcryptoZrijndael_u411
