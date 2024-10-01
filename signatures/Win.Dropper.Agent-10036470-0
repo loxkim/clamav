@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Dropper.Agent-10036470-0
+TDB: Engine:90-255,FileSize:200000-4200000,Target:7
+LOGICAL EXPRESSION: 0&(1>5)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cmd /c "set __=^&rem"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+set "
