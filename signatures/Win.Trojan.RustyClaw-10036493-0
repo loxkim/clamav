@@ -1,0 +1,5 @@
+VIRUS NAME: Win.Trojan.RustyClaw-10036493-0
+TARGET TYPE: PE
+OFFSET: *
+DECODED SIGNATURE:
+src\is_windows7_or_below.rskernel32.dllGetVersionExW

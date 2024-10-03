@@ -1,0 +1,35 @@
+VIRUS NAME: Win.Backdoor.PullingGuardAsp-10036286-1
+TDB: Engine:90-255,Target:3
+LOGICAL EXPRESSION: 2&(3|4|5)>1
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+<%@{WILDCARD_ANY_STRING(LENGTH<=15)}Page Language="C#"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+<script runat="server">
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1
+     +-> REGEX: private\s*static\s*extern\s*intptr\s*CreateThread\(
+     +-> CFLAGS: i
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"564821"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"524831"
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"52321"
