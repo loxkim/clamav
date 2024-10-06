@@ -1,0 +1,38 @@
+VIRUS NAME: Andr.Trojan.Necro-10036504-0
+TDB: Engine:90-255,Container:CL_TYPE_ZIP,Target:0
+LOGICAL EXPRESSION: (0|1|2|3|4|5|6)>1,2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+sdk.fkgh.mvp.SdkEntry
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Java_com_coral_vmout_
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Java_com_coral_imp_
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Lcom/coral/CoralSdk
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Lcom/coral/vmout/
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Lcom/coral/imp/
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+com/adsrun/sdk/ad/platform/coral/SdkConfig
