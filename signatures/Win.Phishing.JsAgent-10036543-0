@@ -1,0 +1,30 @@
+VIRUS NAME: Win.Phishing.JsAgent-10036543-0
+TDB: Engine:90-255,Target:0
+LOGICAL EXPRESSION: 1&(2|3|4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+function 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: \(\s*\(([a-z]{5}|n\d{3})\s*<<\s*2\s*\)\s*\+\s*\(\s*([a-z]{5}|n\d{3})\s*>>\s*1\s*\)\s*-\s*([a-z]{5}|n\d{3})\s*\)\s*%\s*13\s*\+\s*\(\s*\(?([a-z]{5}|n\d{3})\s*&\s*([a-z]{5}|n\d{3})\s*\)?\s*\|\s*([a-z]{5}|n\d{3})\s*\)\s*\^\s*([a-z]{5}|n\d{3})
+     +-> CFLAGS: i
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+UEsDBBQA
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+BLAwQUA
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+QSwMEFA

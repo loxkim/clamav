@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Loader.Agent-10036491-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: (0&1)|(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE WIDE
+ +-> DECODED SUBSIGNATURE:
+NoLogo -NoProfile -Noninteractive -WindowStyle hidden -ExecutionPolicy bypass -Command " Remove-Item '\\?\C:\Windows \' -Force -Recurse "
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PAGE_EXECUTE_READWRITE
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE WIDE
+ +-> DECODED SUBSIGNATURE:
+Kaspersky
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+Injecting VM hook code...
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+[eax+ebx]
