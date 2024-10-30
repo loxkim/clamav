@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Tedy-10036734-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+msiexec.exe /qn /x %s LAUNCHEDFROMG2MINSTALLER=true
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\p4builds\Products\GoToMeeting\v5.1_builds\Shared\Broker\Common\BTGetLogOptions.h
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+H264Decoder[%p]::ProcessBuffer(cBuffer=%d, Remain=%d, cNALU=%d): %s: Decoder failed to decode content (res=%d)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\p4builds\platform\g2mwtv5.0_release\commagent\shared\code\common\ListenersManagerCommonBase.h
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\p4builds\Products\GoToMeeting\v5.1_builds\Shared\Broker\Common\BTNotifyAppExec.h
