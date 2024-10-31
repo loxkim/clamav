@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Barys-10036818-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Borland.Data.TDBXSybaseASAMetaDataCommandFactory,Borland.Data.DbxSybaseASADriver,Version=28.0.0.0,Culture=neutral,Public
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+TDBXSybaseASAMetaDataCommandFactory,DbxSybaseASADriver280.bpl
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+TDBXDynalinkDriverLoader,DBXSybaseASADriver280.bpl
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT DB_NAME(), NAME FROM SYS.SYSUSERLIST WHERE RESOURCEAUTH='Y' ORDER BY 1, 2
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+#TDBXSybaseASAMetaDataCommandFactory@
