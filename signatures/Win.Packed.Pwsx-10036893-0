@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Pwsx-10036893-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cserver=40.76.205.114;user id=cproject;password=PROG37721;persistsecurityinfo=True;database=cproject
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+UPDATE {0} SET date = '{1}', home = '{2}', homeScore = {3}, guest = '{4}', guestScore = {5}, points = {7} WHERE gameNo =
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ProcessBitmap
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+JunkProcess
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+UPDATE {0} SET tname = '{1}', ranking = {2}, division = '{3}' WHERE tname = '{4}'

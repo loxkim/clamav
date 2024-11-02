@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Agen-10036910-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+2Execution of request terminated with unknown errorError querying headers: (%d) %s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Fhttps://www.chemtable.com/blog/en/how-to-uninstall-files-inspector.htm
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error reading data: (%d) %s.Error setting timeout for the request: (%d) %s.Pair of extension and mime type already exist
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid encoding nameNNo mapping for the Unicode character exists in the target multi-byte code page
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hIf the proxy server is set in the system settings, it will be used to establish the Internet connection.
