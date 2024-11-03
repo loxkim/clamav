@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Fosniw-10036943-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://app2.%s/app.asp?prj=%s&pid=%s&mac=%s&logdata=MacTryCnt:%d&code=%s&ver=%s%s
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://p2.%s/receive/r_autoidcnt.asp?mer_seq=%s&realid=%s&cnt_type=e2&mac=%s&logdata=MacTryCnt:%d
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://app2.%s/app.asp?prj=%s&pid=%s&logdata=MacTryCnt:%d&code=%s&ver=%s&appcheck=1
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://app2.%s/setup_b.asp?prj=%s&pid=%s&mac=%s
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://p2.%s/receive/r_autoidcnt.asp?mer_seq=%s&realid=%s&cnt_type=e1&mac=%s
