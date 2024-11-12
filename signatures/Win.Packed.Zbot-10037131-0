@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Zbot-10037131-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Admin\AppData\Local\Temp\d508c1781b2b27a14661fab6089ef82317f18ca68421acbcbf8bafd3fe2c56d0.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Admin\AppData\Local\Temp\4c5e9f5403dd95e87546acaa214458f9623dfe1bd92b545825539c9b0f4f62c9.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Admin\AppData\Local\Temp\be0cf17dfdab54eeb567586251449a9cf89f710cb71e472e14175505717762a8.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\AppData\Local\Temp\2a54b9d110548c144d43c763c5b42ad2.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\admin\AppData\Local\Temp\25bbbc1105d7f62e_ovfet.exe
