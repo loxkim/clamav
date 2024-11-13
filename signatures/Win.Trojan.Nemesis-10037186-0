@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Nemesis-10037186-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+surfrappe redigeringsprograms.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$$%!""#/""">###L%&&S%%%R%%%N$$$I#$$F"##C$%%?$%%=$%%:%%&7%%%4%%%1%&&
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+410}.,+r-++m+*)f(''^%%%V%%%P$%%K#$%D0)%J
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+""Y!"#W!##T"##S"$$Q#$$N#$$L$$%J$%%G$%%E$%%D&&&A&&&?
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.,,z*()s&%%m$%%i%%%f$$$b#$$_#$$["##V
