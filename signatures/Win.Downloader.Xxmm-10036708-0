@@ -1,0 +1,48 @@
+VIRUS NAME: Win.Downloader.Xxmm-10036708-0
+TDB: Engine:90-255,FileSize:200000-700000,Target:1
+LOGICAL EXPRESSION: ((0|1|2|3|4|5|6|7|8)>3,4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\Release\ReflectivLoader.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\Projects\xxmm2\Release\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+http://127.0.0.1/phptunnel.php
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+xxmm2.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\AvUpdate.exe
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+stdapi_fs_file_download
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+stdapi_syncshell_open
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+stdapi_execute_sleep
+ * SUBSIG ID 8
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+stdapi_syncshell_kill

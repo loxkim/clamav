@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Downloader.Xxmm-10036707-0
+TDB: Engine:90-255,FileSize:200000-700000,Target:1
+LOGICAL EXPRESSION: 0|1|2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\Release\ReflectivLoader.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\Projects\xxmm2\Release\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+http://127.0.0.1/phptunnel.php

@@ -1,0 +1,38 @@
+VIRUS NAME: Win.Backdoor.UACBypass-10036706-0
+TDB: Engine:90-255,FileSize:490000-1000000,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4|5)&(6>5)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\Release\BypassUacDll.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD WIDE
+ +-> DECODED SUBSIGNATURE:
+%programfiles%internet exploreriexplore.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD WIDE
+ +-> DECODED SUBSIGNATURE:
+Elevation:Administrator!new:{3ad055
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD
+ +-> DECODED SUBSIGNATURE:
+BypassUac.pdb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD WIDE
+ +-> DECODED SUBSIGNATURE:
+[bypassUAC] started X64
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: FULLWORD WIDE
+ +-> DECODED SUBSIGNATURE:
+[bypassUAC] started X86
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+bypass

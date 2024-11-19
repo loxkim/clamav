@@ -1,0 +1,13 @@
+VIRUS NAME: Ps.Downloader.Gamaredon-10037020-0
+TDB: Engine:90-255,FileSize:20000-40000,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+= "(?m)^#>!"; [system.text.encoding]::utf8.getstring([system.convert]::frombase64string('
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+')) -split ${WILDCARD_ANY_STRING(LENGTH>=1&&<=12)} | foreach-object { if ($_ -ne "") {${WILDCARD_ANY_STRING(LENGTH>=1&&<=12)}=$_;${WILDCARD_ANY_STRING(LENGTH>=1&&<=12)}|invoke-expression} }
