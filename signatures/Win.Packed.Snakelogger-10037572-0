@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Snakelogger-10037572-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+when_operation_failed_should_not_allow_to_get_result
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+executingCommand
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+should_process_item_and_then_build_key
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Spec.MemcacheIt.Runtime.SpecGetWithCasCommand
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+should_supply_command_context_with_get_command_and_given_item

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Barys-10037593-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Usage: OnkyoControl.exe /ip=[ip] (/command=[command]) (/c) (/increaseVolume=[steps]) (/decreaseVolume=[steps]) (/outputD
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+{0}private readonly ILog log = LogManager.GetLogger(MethodBase.GetCurrentMethod().DeclaringType);
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+/command=[command]       The ISCP command you wish to execute, see /c for a list of suggested parameters.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ {0} using(SqlDataReader = reader = cmd.ExecuteReader())
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  **NOTE** Only one of increase/decrease/setVolume will be executed when both are given in the same command.

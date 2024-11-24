@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Snakelogger-10037573-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<when_operation_failed_should_not_allow_to_get_result>b__4_0
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+should_allow_to_override_some_settings_from_config_file_after_read
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+check_and_set_command_should_fail_on_creation
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<when_command_is_not_in_check_and_set_mode_should_not_allow_to_get_cas_result_and_uniqueid>b__8_0
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+store_command_should_fail_on_creation
