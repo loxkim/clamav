@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Bulz-10037724-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Address type not supported."%s: Circular links are not allowed"Not enough data in buffer. (%d/%d)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The client certificate does not contain a valid UPN, or does not match the client name in the logon request. Please cont
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Unknown error#SSPI %s returns error #%d(0x%x): %s0SSPI interface has failed to initialise properly
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid characters in path The specified file was not found$No help viewer that supports filters/Index out of range (%d)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+EVP_PKEY_CTX_get_operation
