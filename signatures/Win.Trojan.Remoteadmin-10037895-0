@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Remoteadmin-10037895-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RIPCServer.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\\.\PIPE\{B2533FFA-EFC3-4B83-B610-1A9C50300ABC}_
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid file name - %s The specified file was not found#''%s'' is not a valid integer value"%s (Version %d.%d, Build %d
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+InjectIntoProcess
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Write$Error creating variant or safe array)Variant or safe array index out of boundsInvalid variant type conversion
