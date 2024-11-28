@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Jalapeno-10037970-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+D:\JavaSource\WinCC4.0\20230704\WinCC4.0\ConfigurationTool\obj\x86\Release\ConfigurationTool.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7/ConfigurationTool;component/resources/img/save-log.png
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{"ID":"8024", "Type":"0x21", "Name":"PSS-351020-Current Transformer", "DriverName":"drv0004_pt100.bin", },
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+pack://application:,,,/ConfigurationTool;component/resources/img/logo.ico
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ConfigurationTool.exe

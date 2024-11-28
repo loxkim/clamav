@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Lazy-10037987-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+scatedAddress@P6APEAXPEAU_SECURITY_ATTRIBUTES@@HPEBD@Z@ADVobfuscator@andrivet@@AEAPEAU_SECURITY_ATTRIBUTES@@AEAHAEAY0BB@$$CBD@AD
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@ADVobfuscator@andrivet@@AEAPEAU_SECURITY_ATTRIBUTES@@AEAHAEAY0BB@$$CBD@ADVobfuscator@andrivet@@PEAX@Machine1@ADVobfuscator@andr
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+URITY_ATTRIBUTES@@HPEBD@Z@ADVobfuscator@andrivet@@AEAPEAU_SECURITY_ATTRIBUTES@@AEAHAEAY0BB@$$CBD@ADVobfuscator@andrivet@@PEAX@Ma
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HAEAY0BB@$$CBD@ADVobfuscator@andrivet@@PEAX@Machine1@ADVobfuscator@andrivet@@E@_mfi@4@V?$list3@V?$value@PEAV?$state_machine@U?$M
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BUTES@@AEAHAEAY0BB@$$CBD@ADVobfuscator@andrivet@@PEAX@Machine1@ADVobfuscator@andrivet@@Uvoid_@parameter@boost@@U567@U567@U567@@b
