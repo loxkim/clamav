@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Lazy-10038033-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Remove trash h0h@ls - make world clean
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ne@U?$event@IU?$ObfuscatedAddress@P6AIPEBE_K@Z@ADVobfuscator@andrivet@@AEAY0FN@EAEA_K@ADVobfuscator@andrivet@@I@Machine1@ADVobfu
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@parameter@boost@@U567@U567@U567@@234@AEBU?$event@IU?$ObfuscatedAddress@P6AIPEBE_K@Z@ADVobfuscator@andrivet@@AEAY0FN@EAEA_K@ADVo
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+67@@back@msm@boost@@@_bi@boost@@V?$value@U?$event@IU?$ObfuscatedAddress@P6AIPEBE_K@Z@ADVobfuscator@andrivet@@AEAY0FN@EAEA_K@ADVo
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@.ydata
