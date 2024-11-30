@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Babar-10038129-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+api-ms-win-core-synch-l1-2-0.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV<lambda_1>@?0??_ScheduleContinuationTask@_Task_impl_base@details@Concurrency@@QAEXPAU_ContinuationTaskHandleBase@34@@Z@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV<lambda_1>@?0??_MakeVoidToUnitFunc@details@Concurrency@@YA?AV?$function@$$A6AEXZ@std@@ABV?$function@$$A6AXXZ@5@@Z@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Func_impl_no_alloc@V?$_Fake_no_copy_callable_adapter@A6A_NPAD@ZAAY0BAE@D@std@@_N$$V@std@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@std@@QAE@$$QAV?$_Fake_no_copy_callable_adapter@A6A_NPAD@ZAAY0BAE@D@3@@Z@X$$V@std@@

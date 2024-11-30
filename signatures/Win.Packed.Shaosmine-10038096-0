@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Shaosmine-10038096-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PINGFlag = Not CBool(WshShell.run("ping -n 1 www.google.com",0,True))
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Set objFSO=CreateObject("Scripting.FileSystemObject")
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+   ' WScript.Echo "Error:"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+LdoTp4ov1z0kOBx4ap50qaHfl04Tabz2nJtcWdhaoAfNC3az0WI0h08ttmLQqJmnD5ujo2TiwF4RtZCpesS9utJJcJLNJ7Uyl7B+5E/0Cu8pXKQ=
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Set WshShell = CreateObject("WScript.Shell")
