@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Bublik-10038169-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Admin\AppData\Local\Temp\1e1abe7c031c40e92f44b73cb276a6efe035ba7cdf20d05f21a53db8e64f94fe.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Admin\AppData\Local\Temp\75d90dfd61795007f1e43ef959e5ae11468845a3656b773c52b76595e9deeb7e.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Admin\AppData\Local\Temp\0cd9bb5bb82e2c5fd27d3f07d04b744fd96ec08983ffc948affb5ff413d26ac8.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Admin\AppData\Local\Temp\1272762b9dc2714e9fd16c2a510e6663ea16864766bc5850ad162e6f0ab82fd5.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Bruno\Desktop\executable.exe
