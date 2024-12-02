@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Jaik-10038214-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Func_base@XW4HOSTINFO@@ABV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@std@@
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Func_impl_no_alloc@V<lambda_504ad8781c51c6cf2a96775bf480c95e>@@XAAVTextThread@@@std@@
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Func_impl_no_alloc@V<lambda_a10852ecbe8391c742700195d81cf657>@@XAAVTextThread@@@std@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4H9L9P9T9X9\9`9(:,:0:8:<:@:D:H:L:P:T:X:\:
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Func_impl_no_alloc@V<lambda_7f0bee8cb084241fe0054ff0916158df>@@XW4HOSTINFO@@ABV?$basic_string@_WU?$char_traits@_W@std@@V?

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Webshell-10038218-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Dialog.openWindow("CreateRemoteDevice", Common.getUsr().showname + " 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Common.loadAPI("GetLongTimeTask", JSON.stringify({ Key: row.guid, GetRes: true }), function (data) {
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+//var apiurl = Common.getAPIPath("SetUserLoginBranch");
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<a href="https://doc.sckcd.net/document/index.html" target="_blank" class="colorfff noUnderline">
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<li class="home select" style="display: none" tar="tab_content_index_0"><a href="javascript:">
