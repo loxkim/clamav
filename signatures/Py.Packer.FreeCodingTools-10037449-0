@@ -1,0 +1,5 @@
+VIRUS NAME: Py.Packer.FreeCodingTools-10037449-0
+TARGET TYPE: ANY FILE
+OFFSET: 0
+DECODED SIGNATURE:
+_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'

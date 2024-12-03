@@ -1,0 +1,5 @@
+VIRUS NAME: Multios.Infostealer.InvisibleFerret-10037450-0
+TARGET TYPE: ANY FILE
+OFFSET: *
+DECODED SIGNATURE:
+except:subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'requests']);import requests
