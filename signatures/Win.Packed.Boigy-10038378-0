@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Boigy-10038378-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+hitgtool.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+;Vivamus nec augue faucibus, dictum lectus eget, cursus antezUt venenatis tortor id diam dapibus adipiscing. Integer ult
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+EQuisque sapien neque, imperdiet quis orci vel, vestibulum tempor enimVVestibulum ante ipsum primis in faucibus orci luc
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ Hoegaarden Corporation. All rights reserved.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SHFreeNameMappings
