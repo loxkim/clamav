@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Dapato-10038460-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Admin\AppData\Local\Temp\a5313398a8a546461efdbc71e17e291e1995e7448491812ae6402834e4d93888.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Admin\AppData\Local\Temp\cf6273f4b57291973ee2cbdaca55afe704455457fec13b457c96e513fa904f0f.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Admin\AppData\Local\Temp\0633124b8b34893b91dc12fe6c35aae0a4bba91ec34b3fa19336b1bd4cb1e660.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Admin\AppData\Local\Temp\bb7a67376220fdda9fbe8826bba8b1ce9634b36aab614b14e26132cc3add9cff.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Admin\AppData\Local\Temp\5fa8aebfb8bdaf2f57164f7202bcab8bb55022c01e06f81ac4aba89fdf45f5b2.exe
