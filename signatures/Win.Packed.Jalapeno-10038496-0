@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Jalapeno-10038496-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+*processpath*<process name, e.g. discord, Telegram etc> - Show the path to process, must not add .exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+*processkill*<process name, e.g. discord, Telegram etc> - kill a process by name, must not add .exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+blicKeyToken=b77a5c561934e089|System.IO.Compression.ZipFile.dll|99D6C187DE8510206A93D2EED9C65E65E0C86E72|24824
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Security.Cryptography.Algorithms.dll|413C96C3AE407532DB4C1CE3085A8F9967
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Security.Cryptography.Primitives.dll|62A622557CC0D6FCED9C1A14BE28DBC39E

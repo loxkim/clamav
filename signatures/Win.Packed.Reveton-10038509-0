@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Reveton-10038509-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+c:\windows\system32\directx\dinput\joystick.ini
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+chten.QEs ist ein interner Fehler aufgetreten. Starten Sie die Softwareanwendung erneut.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+nden durch ein LightScribe-Host-Softwareupdate behoben werden. Sie k
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+t legen.%Could not create diagnostic interface<Schreibvorgang auf das LightScribe-Medium ist abgeschlossen.!
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Zur Verwendung Ihres LightScribe-Systems ist eine Aktualisierung erforderlich. M

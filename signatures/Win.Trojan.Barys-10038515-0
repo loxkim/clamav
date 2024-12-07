@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Barys-10038515-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+jinstall.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&dQRS&dB&TUVB&dBWXdB&dYZ[&dB&\]^B&dB_`dB&dabc&dB&defB&dBghdB&dijk&dB&lmnB&dBopdB&dqrs&dB&tuvB&dBwxdB&dyz{&dB&|}~B&dB
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dB&dSTU&dB&VWXB&dBYZdB&d[\]&dB&^_`B&dBabdB&dcde&dB&fghB&dBijdB&dklm&dB&nopB&dBqrdB&dstu&dB&vwxB&dByzdB&d{|}&dB&~
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<description>variqueux</description> 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+01dB&d234&dB&567B&dB89dB&d:;<&dB&=>?B&dB@AdB&dBCD&dB&EFGB&dBHIdB&dJKL&dB&MNOB&dBPQ
