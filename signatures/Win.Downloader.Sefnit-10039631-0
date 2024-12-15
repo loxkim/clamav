@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Sefnit-10039631-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+?instantiate@?$ptr_serialization_support@Vxml_iarchive@archive@boost@@Vexecute@command@bdr@adw@@@detail@archive@boost@@UAEXXZ
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+alization@boost@@0AAV?$pointer_iserializer@Vxml_iarchive@archive@boost@@Vexecute@command@bdr@adw@@@detail@archive@3@A
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$singleton@V?$extended_type_info_typeid@Vexecute@command@bdr@adw@@@serialization@boost@@@serialization@boost@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wrapper@V?$iserializer@Vxml_iarchive@archive@boost@@Vexecute@command@bdr@adw@@@detail@archive@boost@@@634@A
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$pointer_oserializer@Vxml_oarchive@archive@boost@@Vexecute@command@bdr@adw@@@detail@archive@boost@@
