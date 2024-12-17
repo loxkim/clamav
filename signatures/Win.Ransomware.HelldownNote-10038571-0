@@ -1,0 +1,55 @@
+VIRUS NAME: Win.Ransomware.HelldownNote-10038571-0
+TDB: Engine:90-255,Target:0
+LOGICAL EXPRESSION: (0|1)&((2|3)&4)&(5|6|7|8|9)>1,2
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+
+    
+ * SUBSIG ID 1
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+
+    
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+cantact us
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+to setle
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+helldown@onionmail.org
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+torproject.org
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+qtox.github.io
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+compromised
+ * SUBSIG ID 8
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+leaked
+ * SUBSIG ID 9
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+delete
