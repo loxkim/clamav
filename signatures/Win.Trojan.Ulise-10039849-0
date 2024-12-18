@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Ulise-10039849-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+minkernel\crts\ucrt\src\appcrt\internal\report_runtime_error.cpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+__crt_stdio_input::input_processor<char,class __crt_stdio_input::string_input_adapter<char> >::process_string_specifier_
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+traits::tcsncpy_s( argument_buffer.get() + directory_length, required_count - directory_length, file_name, file_name_cou
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+__crt_stdio_input::input_processor<char,class __crt_stdio_input::string_input_adapter<char> >::write_floating_point
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+t the argument passed to a move-assignment operator may be a reference to *this ([lib.types.movedfrom]).
