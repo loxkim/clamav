@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Mikey-10039962-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+napi_get_cb_info(env, info, &zudzfwdnldertv, &args[0], &zeuddnvlwrdtzf, nullptr)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+napi_get_buffer_info(env, args[0], &fvndzwdlueztdr, &tddunwzzdveflr)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+napi_get_buffer_info(env, args[1], &hhomyjsttlfaxg, &jhfgtsxhomatly)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pi.pdb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Wrong number of argumhhomyjsttlfaxgs

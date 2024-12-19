@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Simda-10039944-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Allows FileZilla to be run from a removable drive.  For additional details, visit PortableApps.com/FileZillaPortable
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+FileZillaPortable.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+=6K@6ZJZb<^eDAhdWE;l^6JI=Mm!lE<?!6O;J|xgY`i:7kDLlxIm\iPEYEMVI<Ct^xIKX@lgYXzP\Allb>}b8||tJ!;P:_MVWa7M7DEz6Z;<\\
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+>?Y>>>>H>>>>?>>>>>>>>>>>>>>>>OGVkDKKTA~Pl^CE!{eOWbP>Xzv!Y9t!PCFTAdtb\m~|[9Z}whKDoeV!Xz!BK~gy\`g\8W:\8`g68Vk_>I>>>>=M~Mc?dLG
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DBt^mcK:\|bE>xb@Z;jE_HXw@o|W<BGf_|{=MdF[owTwCCO:B7M=!HaDDBbE>tDzDCw=_;bFoa?I|>KXkXXl6>M=!87I@m7X|:}Va;d[|:|X\|waxZZ\
