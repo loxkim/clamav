@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Adwarex-10040009-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Crux Technologes\Font Runner&http://www.fontrunner.com/Support.aspx
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The Font Runner program executable appears to be corrupt.  You should probably reinstall Font Runner.  If this problem p
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+)http://www.fontrunner.com/FontRunner.aspx
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+aAn error occurred due to low memory.  Please close other applications or documents and try again.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+FontRunner.exe
