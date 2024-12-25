@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generic-10040860-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZN4core3ptr42drop_in_place$LT$std..process..Command$GT$17h5cea32cc6f1fbaa5E
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZN4core3ptr41drop_in_place$LT$std..process..Output$GT$17he4c3029e32a276c5E
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZN79_$LT$hashbrown..raw..RawTable$LT$T$C$A$GT$$u20$as$u20$core..ops..drop..Drop$GT$4drop17hd47ff11a0d99811cE
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+T$..drop..DropGuard$LT$usize$C$std..sys..pal..windows..process..ProcThreadAttributeValue$C$alloc..alloc..Global$GT$$GT$17hebdcdb
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_ZN11secondstage17DllRegisterServer28_$u7b$$u7b$closure$u7d$$u7d$15_OBFBYTES_SDATA17h75bd0e94e13d85bcE
