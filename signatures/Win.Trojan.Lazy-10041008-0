@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Lazy-10041008-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+LunaHost32.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+patreon: https://patreon.com/HIllya51
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Func_impl_no_alloc@V<lambda_c658833ed9a8a0ea718644aaddccd09b>@@XAAVTextThread@@@std@@
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Func_impl_no_alloc@V<lambda_f0d4332d1ae9766b05d7b5d694617976>@@XAAVTextThread@@@std@@
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$_Func_impl_no_alloc@V<lambda_0c19e662b55baf49eeb11e842d6c7d64>@@XAAVTextThread@@@std@@
