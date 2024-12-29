@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Dridex-10041022-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\Tree\Serve\603\Your\dance \Post.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Post.dll
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ge_404_for_KB3125574~31bf3856ad364e35~x86~~6.1.4.4" update="3125574-2338_neutral_LDR"/>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+            <Resolve package="Package_404_for_KB3125574~31bf3856ad364e35~x86~~6.1.4.4" update="3125574-2339_neutral_L
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+on-Drivers-Package~31bf3856ad364e35~x86~ru-RU~6.1.7601.17514" update="INF_hidserv"/>

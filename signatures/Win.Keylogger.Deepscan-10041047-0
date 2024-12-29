@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Deepscan-10041047-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+background: url(https://bankline.itau.com.br/V1/ITAUF/IMG/bg_header_teclado.gif) left top repeat-x;}.logoHeaderTeclado {
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hod=post name=bklExp6m action=/GRIPNET/bklcom.dll target=_top><INPUT name=id value=0 type=hidden> <INPUT name=op value=0 type=hi
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+orms["loginbotoes"].elements["autoScroll"].value=getScrolling();" alt="Cancelar Acesso" src="https://www.ib3.bradesco.co
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+background: url(https://bankline.itau.com.br/V1/ITAUF/IMG/topo_borda_bg_sombra.gif) left top repeat-x;
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+background=https://itaubankline.itau.com.br/V1/UNICLASS/IMG/teclado_nome_meio.jpg noWrap align=center><A class=MSGTexto8 onMous

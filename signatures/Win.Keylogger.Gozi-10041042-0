@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Keylogger.Gozi-10041042-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tabletsetup.cpp(835)TabletOC attempting to run outside of GUI mode or Mini setup - installation will not continue.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tabletsetup.cpp(835)TabletOC attempting to run outside of GUI mode or Mini setup - installation :eoutside of GUI mode or Mini se
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+*******Initializing Message Log:tabletoc.dll 04/24/14 22:55:43
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+stcoeml5  neo  Skp*ktnoakeircrFiol 6Mtiree mi Vs eg *u=l*b*je*t r= mb *tgn=li*FIC=cvtneus1 s4*PooluTo303*n T2oar* 0 um e*1(ei
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+logmsg.cpp(42)********Terminating Log
