@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Razy-10041124-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Killian\AppData\Local\Temp\do_not_delete_8e195985246071a38c4307f5396fde7e154e8e49.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\William\AppData\Local\Temp\do_not_delete_59795852bf4e9d495bb3f1b58c6ccab859a4970e.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\joseph\AppData\Local\Temp\do_not_delete_3003bf068000a451987d4ed515ccf6d9ceb33733.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Herman\AppData\Local\Temp\do_not_delete_767e2f1be6521bcdd0d818e9bafdba33366bb907.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Wren\AppData\Local\Temp\do_not_delete_e5810faad9971b189773febb66ff14943d22322a.exe

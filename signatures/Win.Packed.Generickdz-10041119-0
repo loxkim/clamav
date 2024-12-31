@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-10041119-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Herman\AppData\Local\Temp\do_not_delete_c9e1d8442a6be5eda57d5e5684865d855878a5a3.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Eliott\AppData\Local\Temp\do_not_delete_e8eca4647d70cf586577dfc21d5e00eb8627f0bc.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Donald\AppData\Local\Temp\do_not_delete_65c93389aa8d20673e2cd4a347ecc25ba7d47c07.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Hanna\AppData\Local\Temp\do_not_delete_73ef0c8b523d444cbcafbf1dfd45db5841084ce2.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Ryan\AppData\Local\Temp\do_not_delete_ed88200b5e9bc5730a5529f4297f1b2937d40247.exe
