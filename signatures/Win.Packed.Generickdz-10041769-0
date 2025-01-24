@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Generickdz-10041769-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\AppLaunch.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%d bit pseudo relocation at %p out of range, targeting %p, yielding the value %p.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wkc0E3qYVtOwQZeTjLkCo2B8ZjJUlQO6VEQaQzW6WhmpiNCFqb0TLiEpiqvWmpbH7qrg4qlaqZTFGLOaygIJlBK4H8
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+p70D2SbLssSP6tdtqyqUjZAMQoYAHw3s3DHov0tIow7TOBlmyNzX1Gn5O8F5BLFhaLYJAWJbfx2IF1I6vPVRZVLjvA
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GCC: (i686-win32-dwarf-rev1, Built by MinGW-W64 project) 12.2.0
