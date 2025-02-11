@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Pennywise-10041968-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+2<004420264:0424><04>>8404:24668:26<0288608<:0282>0<<88><>:682606<>26<<:62686022<>62846<<24<:<64>486::>>8:8pflx2
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+~ea{"Tcsc}~ao^kodgx"$eyco|did,*^gzwcih?6*6*0"2$,Iyjp}~c;ni}xpk`".PwhbmkAeyZgkcn7j5?e?e343=50e<:1/Yuupma(Te
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+~ik*L~gqibo"Kic`" Qs}pmg.D|iwonm$"^axuoml92*0"2&<&,Eqdxste1fiw~~ob,"Z{fdccKkqTikof?j49`3d5b75d92i?kNl
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+kgb78(4&<(6,,Kyn~y|k=lo{pzkl,.XudlckIm}^imgl9d37m7k9<=?7<i6>9/[uq~ic Rgyaqzies ZuhtcegZayispaaUat
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SYu}zeo$Jvi}ini$ Pex{kgj72(2,4(4,,A}`~yta5bcst~i`.*\{llkiEaq^okkf=d09n7n3l77f74g7a
