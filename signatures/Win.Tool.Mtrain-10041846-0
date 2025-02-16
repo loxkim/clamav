@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Tool.Mtrain-10041846-0
+TDB: Engine:90-255,FileSize:20000-200000,Target:1
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+<ConnectHost> <ConnectPort> <TransmissionHost> <TransmissionPort>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+Make a Connection to %s:%d....
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+Start Transmission (%s:%d <--> %s:%d)
