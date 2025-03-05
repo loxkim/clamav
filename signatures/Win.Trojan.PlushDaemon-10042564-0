@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Trojan.PlushDaemon-10042564-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+//tmp.bak
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+packages\ENCMgr.pkg
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ServiceSvc\Release\VSPMsg.pdb
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AspnetLoadResourceDLL
