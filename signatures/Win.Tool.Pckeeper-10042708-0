@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Pckeeper-10042708-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://cdn.pckeeper.com/pckeeper/dist/WindowsInstaller-KB893803-v2-x86.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\pard\sa200\sl276\slmult1\fs18 Para executar o Antivirus, clique no bot\'e3o abaixo:\par
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+le <a href="http://pckeeper.com/">Contrat de licence utilisateur final</a> et les <a href="http://pckeeper.com/">R
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\fs18 Para executar o Antivirus, clique no bot\'e3o abaixo:\par
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://cdn.pckeeper.com/pckeeper/dist/WindowsXP-KB918997-v6-x86-ENU.exe
