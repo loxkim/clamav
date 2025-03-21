@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Fragtor-10043496-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+not enough space for format expansion (Please submit full bug report at https://gcc.gnu.org/bugs/):
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\AppLaunch.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GNU C17 10.3.0 -mtune=generic -march=pentiumpro -g -O2 -O3 --param=ggc-min-expand=8192 --param=ggc-min-heapsize=80000000
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tions -frandom-seed=snprintf_lite.lo -fpermissive --param=ggc-min-expand=8192 --param=ggc-min-heapsize=80000000
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+m-seed=eh_unex_handler.lo -fpermissive --param=ggc-min-expand=8192 --param=ggc-min-heapsize=80000000

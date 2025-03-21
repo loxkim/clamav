@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Mikey-10043732-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ppt/slideMasters/_rels/slideMaster2.xml.rels
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/Intent/RelativeColorimetric/Decode[ 0 255]/Metadata 29 0 R >>stream
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<</ColorSpace 10 0 R /BitsPerComponent 8/Length 198002/Width 905/Height 566/Filter/FlateDecode/Subtype/Image/Type/XObject/Name/X
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/X/Intent/RelativeColorimetric/Metadata 31 0 R /SMask 32 0 R >>stream
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ppt/slideMasters/slideMaster2.xml
