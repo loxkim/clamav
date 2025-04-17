@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Gandcrab-10044131-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+drDCx64Upd2400120615.msp;AcroRdrDCx64Upd2400120615.msiAllowedLogsessionDllVersionsHBEOLSDK604800000ArmExeCond21.824.33.2567ArmEx
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+be.comUrlFallback7.2.1.3614;7.3.1.100;7.3.1.136;7.3.1.140AllowedLogsessionDllVersions2;16;17;18;19;52;53;54;63;68;81;82;83;84;85
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+KACond1;SvcCond2AllowServiceEx2AllowServiceModeErrorDetailsURLhttp://www.adobe.com/go/update_error_winWaitMsiMutexLimit60WhatsNe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+40_codecvt_ids.dllRebootDismissFile_msvcp140_codecvt_ids.dllhttp://www.adobe.com/products/reader.html8.0.0.46;8.1.0.40RebootDism
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+issFile_ContextMenuContextMenuShim64.dllContextMenuShim.dllContextMenu64.dllContextMenu.dllAllowedLogsessionDllVersionsNGLReboot
