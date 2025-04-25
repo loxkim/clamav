@@ -1,0 +1,25 @@
+VIRUS NAME: Html.Phishing.Emmenhtal-10044030-0
+TDB: Engine:90-255,Target:3
+LOGICAL EXPRESSION: 3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Press Windows Button
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Press CTRL
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Press Enter
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1&2
+     +-> REGEX: \.execCommand\(['"]copy['"]\)|\.clipboard\.writeText\(
+     +-> CFLAGS: i
