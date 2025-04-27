@@ -1,0 +1,15 @@
+VIRUS NAME: Win.Downloader.Emmenhtal-10044033-0
+TDB: Engine:90-255,Target:0
+LOGICAL EXPRESSION: 1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ + [char][int]$
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: \n[$]\w+ = \((\[char\]\[int\][$]\w+ \+ ){7}
+     +-> CFLAGS: (null)

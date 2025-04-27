@@ -1,0 +1,15 @@
+VIRUS NAME: Win.Downloader.Clickfix-10044129-0
+TDB: Engine:90-255,Target:0
+LOGICAL EXPRESSION: 1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+iex(-join((
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: iex\(\-join\(\((\d+,){50}
+     +-> CFLAGS: (null)

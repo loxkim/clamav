@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.BadRentdrv2-10044276-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0|1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\??\C:\rentdrv.log
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\rentdrv-64\bin\pdb\renter\rentdrv_x64.pdb

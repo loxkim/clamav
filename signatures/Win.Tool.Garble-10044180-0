@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Garble-10044180-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&(1|2)&3&4=0
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MZ
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HƒÆHƒÇHƒÆHƒÇHƒÆHƒÇ
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+‹ƒÆ‰ƒÇ‹ƒÆ‰ƒÇ‹ƒÆ‰ƒÇ‹ƒÆ‰ƒÇ‹
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Go buildinf{WILDCARD_ANY_STRING(LENGTH>=4&&<=40)}unknown
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Go build ID:
