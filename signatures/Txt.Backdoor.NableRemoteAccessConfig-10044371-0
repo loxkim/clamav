@@ -1,0 +1,103 @@
+VIRUS NAME: Txt.Backdoor.NableRemoteAccessConfig-10044371-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&(3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+[autoinstall]
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+on=1
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+general
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+userkey=adaihokgabaelhkgiijnphekgaamhfkohdljldofbkdknanjpmakdkbnbiemjdcdnogdiajmibmimfnohdihhmeoodnldfkmmemaanjhaocmdjlhanggjoogceblghfa
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+userkey=fjgkpjglhkglneieimifoialnljjalkjecoiblankpoionfdjfajoipepbadjcababpnfjdlfbacnlnmlhfenbllmcfmfkckiciopcnkiffklfpaecfjjnbopaaeklld
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+userkey=folnmjfegodlpgaikmejiicdlcbijdjgeefbnggpmngaifbhpbpibbglfegmokljgfmfcmclohodacdeginciehpbcgdcjikofepafjkkmhemckebpblcaklmnckdhlc
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+userkey=fpgkeplffjoklgdbihmkpagifpbcbdbpehobipmbbdoljfehdbikbpiigdndlfpjeolncbkdonppmffmjagnnhmjhliddlbpikkfkiacdadifhegnmpcnciegpllidnp
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+userkey=fplhplkpgcdhkmlgncjeihdnhhbmolfalomikoghgahhedkdlpomcphlelbpgdcldipjfdjpohbdnljbgklkaelfopcoijdmlenhlhoajaappjdimhcpajmknhpginbd
+ * SUBSIG ID 8
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+userkey=fpmojfaclgbbhkbpciclgocbhiaoihbkgnapfjimhhmngkkmiinkgmacahaalabododjnnopodmcloppgbbhciicmjbomokfhjfokjdnjpiahelckafbkhinbkamlilm
+ * SUBSIG ID 9
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+userkey=jjkooacajnggcfgddggkfohdajldknjkmcadmefaiecbfonpjhbbnpfcakcgefngbhgplgadbjkbpacmlidpamahanieddcnnodpanigjklapajdjgacpgagobcjfemn
+ * SUBSIG ID 10
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+userkey=jpnbgphjcbbhjpjgnnphmnjnjlkmndpcopchelkkpdmcnjiclkgggadejkfafdkkgfofkeaakoejfennffcinfablnemcglmcgjalfbfphnijknpfkgmnogeingmjlig
+ * SUBSIG ID 11
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+userkey=kaoplplcgjhoooionfikbaoajglbpdminlbldjfjkonhpgjgaiigdcdkakfiejbmjhnmkndebncdgncpcgcbninlngipbpclcegfllbcjllobncohamhdmdfjgnifcbc
+ * SUBSIG ID 12
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+userkey=kioecnbdnlaedcpmmdgdohphkikilhggcmfljgjmmhljcfaihcepjdepledalijpgdkkflpnppnjcgpjeleinlmpdjpppmnkppiehnpkglkmieocoodnckfakdcdclmh
+ * SUBSIG ID 13
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+userkey=kocfpimfnmllocplphnaehafbbflbkoeijkionbnckeibfpobkljjigbkdnappnimeflelghagjcekjkmglinmkfecgfpnojkbjdjjodgffkeppkjpodjjpbpgablala
+ * SUBSIG ID 14
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+userkey=lhalgifbjnbeflnicpfoialhdpnnpjpdcnpokkocifbpmkpoekammomhbmhkeaafoacokfphmeccccdempechagcmadfjilihpapcedpofmndpiclfhpbkamfmejmiae
+ * SUBSIG ID 15
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+userkey=loplfgfdkgfaohngjpmgopmookkdncpjnabmhjmpjfpipfmdbhelbamlfnggbjaiclkjnagbmhpdcohjjpjbapbcmbdkhgdogaeccohklfjhihoemlkoejihkkjkbaci
+ * SUBSIG ID 16
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+userkey=nflecdehplheggmdcodojaacfapchbgjlbjgnjncpgnmeoocmnalcoklaolenjddpgaogefedfggidklcaoepjhlncaekahhfgaoadegejffbnojmcjhgiinlpfpamdk
+ * SUBSIG ID 17
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+userkey=pfiihoogiaallhhjhhahkfjhllmhopklddefkpnjojmapkdkbomdebdopmkcocbfbbebicjiigpgdfnnanalhoofieklpgaaigjjmgklchengcdbakndknepjlcdajkg
+ * SUBSIG ID 18
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+userkey=phfignmcikojjciobndbhedhgnchnffcdkebifebpbllkeofjnkiekfjmopchpafafdlcampepanbnnbpjomllanhjbbfcfikckfcompakbkcjkigaigjaiihaljdklj
+ * SUBSIG ID 19
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+userkey=pnkfonfomibaapmejbhoilemgimpfgnokncpnkmobjjfmombncainepfejhjlbbgcdinfdfjlpojkfcodjhbihecpdlhecalgjefaemkmmgmhdcieefnobjgegjjceki

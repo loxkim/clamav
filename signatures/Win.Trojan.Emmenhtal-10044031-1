@@ -1,0 +1,25 @@
+VIRUS NAME: Win.Trojan.Emmenhtal-10044031-1
+TDB: Engine:90-255,Target:0
+LOGICAL EXPRESSION: 3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+<script>window.moveTo(
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+window.onerror = function(){return true}
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+window.onerror=function(){returntrue}
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1|0&2
+     +-> REGEX: <script>[^{<]{0,99}?}
+     +-> CFLAGS: (null)
