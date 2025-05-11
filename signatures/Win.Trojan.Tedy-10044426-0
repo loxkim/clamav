@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Tedy-10044426-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3:longPathAware></ns2:windowsSettings></ns2:application><ns2:trustInfo><ns2:security><ns2:requestedPrivileges><ns2:requestedExec
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GCC: (x86_64-win32-seh-rev0, Built by MinGW-Builds project) 13.2.0
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+~}|zyxwvutsrqponmlkjihgfedcba`_^]\[ZYXWVUTSRQPONMLKJIHGFEDCBA@?>=
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+utionLevel level="asInvoker" uiAccess="false" /></ns2:requestedPrivileges></ns2:security></ns2:trustInfo></ns0:assembly>PADD
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+aejnrtxz
