@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.PDFFast-10044493-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&(1|2|3|4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\updater.exe /silentall -nofreqcheck -url "file://
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HKUD\Software\PDFast\PDFast\Version
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Let's Compress\updates\Update\Let's Compress.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HKUD\Software\Zip It Now\Zip It Now\Version
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HKUD\Software\PDFMaker\PDFMaker\Version
