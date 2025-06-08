@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Bodegun-10045367-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\root\Desktop\Trojan\locker\target\x86_64-pc-windows-msvc\release\deps\crypt.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PoisonErrorC:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rayon-core-1.12.1\src\registry.rs
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clap_builder-4.5.26\src\parser\error.rs
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-channel-0.5.14\src\flavors\list.rs
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crossbeam-epoch-0.9.18\src\sync\once_lock.rs
