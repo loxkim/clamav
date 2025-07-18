@@ -1,0 +1,38 @@
+VIRUS NAME: Win.Tool.LsassDumper-10045375-0
+TDB: Engine:96-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4|5|6)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Usage: %s PACKAGE_PATH
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[*] Building RPC packet
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[*] Connecting to lsasspirpc RPC service
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[*] Sending SspirConnectRpc call
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[*] Sending SspirCallRpc call
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[*] Error code 0x6c6 returned, which is expected if DLL load returns FALSE
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[!] Error code %x received
