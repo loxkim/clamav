@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Loader.Stealc-10045337-1
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+powershell.exe -WindowStyle Hidden -ExecutionPolicy Bypass -File
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+[System.Convert]::FromBase64String(
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Add-Exclusion -Path
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Set-ItemProperty -Path $persistFolder -Name Attributes
