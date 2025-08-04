@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Gandcrab-10056444-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<pattern type="Registry">HKLM\SYSTEM\CurrentControlSet\Control\Power\PowerRequestOverride\* [*]</pattern>
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<pattern type="Registry">HKLM\SYSTEM\CurrentControlSet\Control\Power\User\Default\PowerSchemes\$\f15576e8-98b7-418
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<pattern type="Registry">HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Power [AwayModeEnabled]</pattern>
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<pattern type="Registry">HKLM\SYSTEM\CurrentControlSet\Control\Power [IgnoreCsComplianceCheck]</pattern>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<pattern type="Registry">HKLM\SYSTEM\CurrentControlSet\Control\Power [SourceSettingsVersion]</pattern>
