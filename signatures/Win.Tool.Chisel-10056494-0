@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Chisel-10056494-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+EncryptedClientHelloConfigList is populatedx509: a root or intermediate certificate is not authorized for an extended key usage
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+private key does not match public keyinternal error: call to runtimeSource.Seedx509: %q cannot be encoded as an IA5Stringx509: 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+streamdirectory not emptyCryptReleaseContextGetTokenInformationCreateSymbolicLinkWGetCurrentProcessIdx509: malformed OIDx509: t
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%s]%scSHAKE128ole32.dllwinmm.dllPurgeCommSetupCommConnectionUser-AgentSet-Cookieset-cookieuser-agentkeep-alive:authorityHost: %s
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-> anynotnl -> unknown type = struct { avx5124fmapsavx512bitalgunknown sizeCfgMgr32.dllsetupapi.dllwintrust.dllwtsapi32.dllRepo

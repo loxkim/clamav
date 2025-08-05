@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Ligolo-10056495-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OID: %vinvalid boolean flag %s: %vflag needs an argument: -%snet/http: use last responsehttpservecontentkeepheadersinvalid depe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ptyole32.dllwinmm.dllPurgeCommSetupCommmath/randcSHAKE128#execwaittimestampUser-Agentres binderres masterresumptionexp masterx50
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tagunknown Go typeadvertise errorkey has expirednetwork is downno medium foundno such processGetAdaptersInfoCreateHardLinkWDevi
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.dllReportEventWCreateMutexWGetCommStateGetProcessIdLoadResourceLockResourceReleaseMutexResumeThreadSetCommBreakSetCommStateSetE
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+is niltext/plain; charset=utf-8http2: Framer %p: read %vframe_data_pad_byte_shortframe_settings_has_streamframe_headers_zero_st
