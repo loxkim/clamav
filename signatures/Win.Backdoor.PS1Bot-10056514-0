@@ -1,0 +1,45 @@
+VIRUS NAME: Win.Backdoor.PS1Bot-10056514-0
+TDB: Engine:90-255,FileSize:4000-9000,Target:7
+LOGICAL EXPRESSION: (0|1|2|3|4|5)>1,2&6>7&7>49
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+function galaxy
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+function comet
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+function nebula
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+function apollo
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+function stargate
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+function cosmos
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Get-Random
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: (0|1|2|3|4|5)
+     +-> REGEX: \s\$[a-z]{5,15}
+     +-> CFLAGS: ig
