@@ -1,0 +1,15 @@
+VIRUS NAME: Unix.Trojan.Prometei-10045451-0
+TDB: Engine:90-255,Target:6
+LOGICAL EXPRESSION: 1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{"config":1,"id":"{WILDCARD_ANY_STRING(LENGTH==16)}","enckey":"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: {"config":1,"id":"[A-Za-z0-9\
+     +-> CFLAGS: +=]{16}","enckey":"[A-Za-z0-9\/+=]{164,}"(}$|.{1,256},?$)/
