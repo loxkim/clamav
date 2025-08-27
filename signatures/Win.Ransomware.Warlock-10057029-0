@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Warlock-10057029-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Our team is available 24/7 to provide professional and courteous assistance throughout the payment and recovery process.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\System32\PerfStringBackup.ini
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\System32\perfc009.dat
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tinue normal business operations. We possess the decryption key and have backed up your data to ensure its safety.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Permanent Data Loss: Encrypted files will remain inaccessible, leading to business disruptions and potential financial losses.
