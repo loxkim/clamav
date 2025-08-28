@@ -1,0 +1,23 @@
+VIRUS NAME: Php.Webshell.Agent-10057009-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&(3>2)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+<?php function runshellcommand(
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+http_response_code(200); echo json_encode([
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+if ($_server['request_method'] === 'get') { header('http/1.1 403 forbidden');
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+case '{WILDCARD_ANY_STRING(LENGTH>=1&&<=10)}': $result = runshellcommand(

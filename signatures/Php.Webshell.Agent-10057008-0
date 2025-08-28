@@ -1,0 +1,23 @@
+VIRUS NAME: Php.Webshell.Agent-10057008-0
+TDB: Engine:90-255,FileSize:2000-8000,Target:7
+LOGICAL EXPRESSION: 0&(1>1)&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+ini_set("allow_url_fopen", true); ini_set("allow_url_include", true); ini_set('always_populate_raw_post_data', -1); error_reporting(e_error | e_parse); if(version_compare(php_version,'5.4.0','>=') )@http_response_code(200);
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+base64_decode(strtr(
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+= file_get_contents("php://input");
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+ = fsockopen(

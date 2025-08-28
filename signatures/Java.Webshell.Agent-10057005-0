@@ -1,0 +1,18 @@
+VIRUS NAME: Java.Webshell.Agent-10057005-0
+TDB: Engine:90-255,FileSize:5000-15000,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+= base64.getmethod("getencoder", null).invoke(base64, null); 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+= system.getproperty("os.name").tolowercase().indexof("windows") >= 0 ? runtime.getruntime().exec(new string[]{"cmd.exe", "/c", cmd}) : runtime.getruntime().exec(new string[]{"/bin/sh", "-c", cmd});
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+public {WILDCARD_ANY_STRING(LENGTH>=1&&<=15)}() { cmd = ""; cmd = cmd + "cd /tmp/ ;find / -name fox.jsp"; path = ""; path = path + "/tmp/";

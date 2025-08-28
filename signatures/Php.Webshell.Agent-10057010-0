@@ -1,0 +1,13 @@
+VIRUS NAME: Php.Webshell.Agent-10057010-0
+TDB: Engine:90-255,FileSize:2000-3500,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+<?php function 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+($a) { $a=gzinflate(base64_decode($a)); for($i=0;$i<strlen($a);$i++) { $a[$i] = chr(ord($a[$i])-1); } return $a; } eval(

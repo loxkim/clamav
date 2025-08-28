@@ -1,0 +1,23 @@
+VIRUS NAME: Php.Webshell.Agent-10057007-0
+TDB: Engine:90-255,FileSize:2000-8000,Target:3
+LOGICAL EXPRESSION: (0>3)&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+document.getelementbyid("{WILDCARD_ANY_STRING(LENGTH>=2&&<=3)}").value=""
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+="<font color="{WILDCARD_ANY_STRING(LENGTH>=1&&<=20)}">{$_post['{WILDCARD_ANY_STRING(LENGTH>=2&&<=10)}']}</font>";
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+; exec($cmd, $result, $status);
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+header('content-type: application/octet-stream'); header('content-transfer-encoding: binary'); header('content-disposition:attachment;filename=' . basename($
