@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Azov-10057786-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+uri https://rna-v2-resource.acrobat.com/violations/;block-all-mixed-content;sandbox allow-scripts allow-same-origin;
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https%3a%2f%2fwww.googleapis.com%2fauth%2fgmail.compose%20https%3a%2f%2fwww.googleapis.com%2fauth%2fcontacts.readonly
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+::PostQueuedCompletionStatus( job_port_.Get(), 0, THREAD_CTRL_NEW_PROCESS_TRACKER, reinterpret_cast<LPOVERLAPPED>(tracker))
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://delegated-stg1.adobelogin.com
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[Version:{}] [{}]AcroCEfExe: CefExecuteProcess returned with exit code {}
