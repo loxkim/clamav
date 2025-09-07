@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Lazy-10057840-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+T:\vcpkg\buildtrees\cryptopp\src\TOPP_8_9_0-a1a9be497e.clean\rijndael_simd.cpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+T:\vcpkg\buildtrees\cryptopp\src\TOPP_8_9_0-a1a9be497e.clean\chacha_avx.cpp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$AlgorithmImpl@V?$SimpleKeyingInterfaceImpl@V?$ConcretePolicyHolder@VXChaCha20_Policy@CryptoPP@@V?$AdditiveCipherTemplate@V
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.?AV?$SimpleKeyingInterfaceImpl@V?$ConcretePolicyHolder@VXChaCha20_Policy@CryptoPP@@V?$AdditiveCipherTemplate@V?$AbstractPolicyH
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+: this object doesn't support a special last block

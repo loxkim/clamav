@@ -1,0 +1,18 @@
+VIRUS NAME: Ps1.Trojan.EncryptHub-10057039-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+invoke-restmethod -uri "https://{WILDCARD_ANY_STRING(LENGTH<=100)}" -useragent $uag
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+join-path $appdatapath "sys_installed.lock"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@("applying policies...", "patching modules...", "optimizing settings...", "finalizing...")

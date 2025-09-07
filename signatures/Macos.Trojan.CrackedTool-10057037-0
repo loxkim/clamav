@@ -1,0 +1,18 @@
+VIRUS NAME: Macos.Trojan.CrackedTool-10057037-0
+TDB: Engine:90-255,Target:9
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MacKed1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://macked.app1
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+codesign@macked.app
