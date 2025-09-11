@@ -1,0 +1,18 @@
+VIRUS NAME: Ps1.Trojan.EncryptHub-10057866-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+([security.principal.windowsprincipal][security.principal.windowsidentity]::getcurrent()).isinrole([security.principal.windowsbuiltinrole]::administrator)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+get-ciminstance -namespace "root/securitycenter2" -classname "antivirusproduct"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$($uri)?user=$encodedbuild&text=$encodedtext

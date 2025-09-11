@@ -1,0 +1,13 @@
+VIRUS NAME: Ps1.Trojan.EncryptHub-10057870-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+join-path $env:temp "sysconfig_installed.lock"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@("applying policies...", "patching modules...", "optimizing settings...", "finalizing...")

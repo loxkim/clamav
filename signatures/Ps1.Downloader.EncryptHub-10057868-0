@@ -1,0 +1,5 @@
+VIRUS NAME: Ps1.Downloader.EncryptHub-10057868-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+$erroractionpreference= 'silentlycontinue' $htmlloaderurl = "http{WILDCARD_ANY_STRING(LENGTH<=1)}://{WILDCARD_ANY_STRING(LENGTH>=10&&<=300)}{WILDCARD_IGNORE} $originalconsole = {WILDCARD_IGNORE}pd94bwwgdmvyc2lvbj0ims4wij8+

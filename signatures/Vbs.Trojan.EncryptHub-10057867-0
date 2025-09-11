@@ -1,0 +1,18 @@
+VIRUS NAME: Vbs.Trojan.EncryptHub-10057867-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+getobject(bytestostring(decodebase64("d2lubwdtdhm6xc5ccm9vdfxjaw12mg==")))
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.get(bytestostring(decodebase64("v2lumzjfuhjvy2vzc1n0yxj0dxa=")))
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&chr(ascb(midb(b,i,1)))
