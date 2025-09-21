@@ -1,0 +1,23 @@
+VIRUS NAME: Html.Dropper.NordDragon-10057034-1
+TDB: Engine:90-255,FileSize:30000-90000,Target:3
+LOGICAL EXPRESSION: 0|1|2|3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+If copy.FileExists("C:\Users\Public\Documents\install.exe")
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+qzpcvxnlcnnctm9yzeryywdvb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+m6xfvzzxjzxe5vcmrecmfnb2
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dolxvc2vyc1xob3jkrhjhz29u
