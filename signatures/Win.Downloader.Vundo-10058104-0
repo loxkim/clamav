@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Downloader.Vundo-10058104-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Pedir0Executar componentes com assinatura Authenticode
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Avisar/Executar componentes assinados com Authenticode
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+MSCORIER.DLL
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ is a registered trademark of Bqqletucw Ytqdfdhiwvu. Pszfhwr(TM) is a trademark of Tffeqzkxe Tikvftprglh
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Mbsvxbnvx .NET Runtime IE resources
