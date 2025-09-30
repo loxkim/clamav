@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10058128-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Runtime, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+8Microsoft.Win32.Registry.dll$System.Collections
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+z:ManyElementAsyncLocalValueMap<Linked1CancellationTokenSource<Linked2CancellationTokenSource<LinkedNCancellationTokenSource
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+}LContinuationResultTaskFromResultTask`28ContinueWithTaskContinuationVSynchronizationContextAwaitTaskContinuation
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.IBinaryIntegerParseAndFormatInfo<System.Int64>.MultiplyBy16
