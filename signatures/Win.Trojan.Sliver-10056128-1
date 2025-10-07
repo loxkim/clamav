@@ -1,0 +1,16 @@
+VIRUS NAME: Win.Trojan.Sliver-10056128-1
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+
+dep	github.com/bishopfox/sliver	
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: ^dep\tgithub.com\
+     +-> CFLAGS: bishopfox\/sliver\tv\d+\.\d+\.\d+\th1:[A-Za-z0-9+\/]{43}=$/m

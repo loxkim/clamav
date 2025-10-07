@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.LostKeys-10045393-1
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+WScript.CreateObject("WScript.Shell").Run st & cmd, 0, wa
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+CapIN "systeminfo > """ & TmpF & """", 1, True
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+CapIN "ipconfig /all >> """ & TmpF & """", 1, True
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+CapIN "net view >> """ & TmpF & """", 1, True
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+CapIN "tasklist >> """ & TmpF & """", 1, True
