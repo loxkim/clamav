@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Pircen-10058302-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2)&(3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:/Users/Administrator/go/pkg/mod/github.com/fomichev/secp256k1@v0.0.0-20180413221153-00116ff8c62f/secp256k1.go
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:/Users/Administrator/go/pkg/mod/github.com/ecies/go@v1.0.1/privatekey.go
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:/Users/Administrator/go/pkg/mod/github.com/pkg/errors@v0.8.1/errors.go
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:/Users/Administrator/go/pkg/mod/golang.org/x/crypto@v0.24.0/chacha20/chacha_generic.go
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:/Users/Administrator/go/pkg/mod/golang.org/x/crypto@v0.24.0/internal/alias/alias.go

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Prince-10058301-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+operations on a single file or socket (max 1048575)runtime: GetQueuedCompletionStatusEx returned net_op with invalid mode= runt
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ptr to non-array Valueexec: Cmd started a Process but leaked without a call to Wait  is in a tiny block with other (possibly lo
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+execute system stack code on user stackcompileCallback: function argument frame too largecrypto/cipher: incorrect nonce length 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+type reflect: Field index out of boundsreflect: string index out of rangeexecutable file not found in %PATH%network dropped con
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+invalid notinheap pointerruntime.Pinner: found leaking pinned pointer; forgot to call Unpin()?exec: command with a non-nil Canc
