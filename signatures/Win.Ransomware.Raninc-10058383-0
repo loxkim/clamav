@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Raninc-10058383-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+services by mask (e.g. veeam,backup,sql)defDon't encrypt files, just left notes everywhere,fastslowfn5+fiBJTkMgUmFuc29tIH5+fn4N
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DW_LNE_hi_userDW_LNE_lo_userDW_LNE_set_discriminatorDW_LNE_define_fileDW_LNE_set_addressDW_LNE_end_sequenceDwLne
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+The argument '{}' has a validator set, yet was parsed as a flag. Ensure .takes_value(true) or .index(u8) is set.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+internal error: entered unreachable code: str::from_utf8() =  was expected to have 1 char, but  chars were found
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+too many running threads in thread scope
