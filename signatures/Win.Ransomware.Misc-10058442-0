@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Misc-10058442-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$bypassTechniques = @("Process hollowing: svchost.exe", "DLL side-loading: msxml.dll")
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"schtasks /create /tn 'GoogleUpdate' /tr 'cmd.exe /c start malware.exe' /sc onlogon",
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$stealTargets = @("Chrome/User Data/Default/Login Data", "Firefox/Profiles/*.default/key4.db")
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+try { Set-Content -Path "system_log.txt" -Value "[SYSTEM] Ultimate simulation started" }
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Write-Host "[PROCESS_INJECTION] Simulating code injection patterns..." -ForegroundColor Magenta
