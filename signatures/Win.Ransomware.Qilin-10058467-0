@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Qilin-10058467-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Get-VMHostService -VMHost $esxiHost.VMHost -ErrorAction Stop  | Where-Object { $_.Key -eq "TSM-SSH" } | Start-VMHostServ
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\runneradmin\.cargo\registry\src\index.crates.io-1cd66030c949c28d\object-0.32.0\src\read\coff\symbol.rs
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+the password and command is encrypted in transit to the remote system.
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Please report this issue to <https://github.com/swsnr/gethostname.rs/issues>!
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\runneradmin\.cargo\registry\src\index.crates.io-1cd66030c949c28d\gimli-0.28.0\src\read\abbrev.rs

