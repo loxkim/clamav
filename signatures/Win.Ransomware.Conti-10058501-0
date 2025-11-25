@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Conti-10058501-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+GET /collect.php?data=hostname=WORKSTATION-01&user=Administrator&os=Windows10&av=disabled&timestamp=%lu&status=active HTTP/1.1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[EXFIL] Machine: WORKSTATION-01 | User: Admin | IP: 192.168.1.100 | AV: Disabled | Time: %lu
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Host: malicious-server.com
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+command-control.com
