@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10058589-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\jnerf\source\repos\Favorites_Brand\FavoritesSpoofer\ImGui\imgui_demo.cpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\jnerf\source\repos\Favorites_Brand\FavoritesSpoofer\Fluent\TextBox.h243
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\vcpkg\installed\x64-windows\include\boost\beast\http\impl\message.hpp
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+- Possible usage: facilitate recovery from errors triggered from a scripting language or after specific exceptions handlers.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://github.com/ocornut/imgui/blob/master/docs/FAQ.md#qa-usage
