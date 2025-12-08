@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Wingo-10058683-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ProcessAsUserWCryptAcquireContextWCertOpenSystemStoreWGetCurrentDirectoryWGetFileAttributesExWSetCurrentDirectoryWSetHandleInfor
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+main.getShellcodeFragment11Part32
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mationGetAcceptExSockaddrs37252902984619140625floating point errorGC sweep terminationResetDebugLog (test)chan send (nil chan)fl
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tack:bytes/gc/scan/total:bytes/gc/heap/frees:bytes/gc/gomemlimit:bytesp mcache not flushed markroot jobs done
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ushing proc cachesclose of nil channelinconsistent lockedmnotetsleep not on g0bad system page size to unallocated span/gc/scan/s

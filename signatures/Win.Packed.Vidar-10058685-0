@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Vidar-10058685-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+oo largeGetFileInformationByHandleExabi.NewName: name too long: fail to read string table: %vfail to read symbol table: %voperat
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c for abi.NewName: tag too long: httpservecontentkeepheadersreflect.Value.UnsafePointerfile descriptor in bad statedestination a
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C mark assist wait for workcomparing uncomparable type runtime: bad lfnode address region exceeds uintptr range/gc/heap/frees-by
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+t supportednumerical result out of rangeDeleteProcThreadAttributeList45474735088646411895751953125executing on Go runtime stackn
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+arNtUnmapViewOfSectiongauge fixing failureinvalid request codebad font file formatis a named type filekey has been revokedconnec
