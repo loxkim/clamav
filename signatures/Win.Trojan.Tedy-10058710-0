@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Tedy-10058710-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pi32.dllbad flushGenbad g statusbad g0 stackbad recoverycan't happencas64 failedchan receivecyber_attackdumping heapend tracegc
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+initheadTailIndex overflowinteger divide by zerointerface conversion: kernel32.dll not foundminpc or maxpc invalidnetwork is un
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+to unallocated spanCO2_SCRUBBING_ACTIVECertOpenSystemStoreWCreateProcessAsUserWCryptAcquireContextWEgyptian_HieroglyphsGetAccep
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+to non-Go memory , locked to threadCaucasian_AlbanianCommandLineToArgvWCreateFileMappingWGetExitCodeProcessGetFileAttributesWLo
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+easeContextGC work not flushedGetCurrentProcessIdGetSystemDirectoryWGetTokenInformationIDS_Binary_OperatorKhitan_Small_ScriptPat
