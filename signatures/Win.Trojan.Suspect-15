@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Suspect-15
+CONTAINER TYPE: CL_TYPE_ZIP
+CONTAINER SIZE: ANY
+FILENAME REGEX: ^(W|w)(u|U)_(d|D)(e|E)(t|T)(a|A)(i|I)(l|L)(s|S)_.*[.]([Ee][Xx][Ee]|[Bb][Aa][Tt]|[Cc][Oo][Mm]|[Ll][Nn][Kk]|[Cc][Mm][Dd]|[Jj][Ss]|[Vv][Bb][Ss])$
+COMPRESSED FILESIZE: ANY
+UNCOMPRESSED FILESIZE: ANY
+ENCRYPTION: IGNORED
+FILE POSITION: ANY
+CRC SUM: ANY

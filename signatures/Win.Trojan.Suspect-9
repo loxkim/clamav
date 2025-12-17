@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Suspect-9
+CONTAINER TYPE: CL_TYPE_ZIP
+CONTAINER SIZE: ANY
+FILENAME REGEX: [.]([Pp][Dd][Ff]|[Dd][Oo][Cc]|[Xx][Ll][Ss]|[Pp][Pp][Tt]|[Jj][Pp][Gg]|[Bb][Mm][Pp]|[Gg][Ii][Ff])[.]?[- _]{4,}[.]([Ee][Xx][Ee]|[Bb][Aa][Tt]|[Cc][Oo][Mm]|[Ll][Nn][Kk]|[Cc][Mm][Dd]|[Jj][Ss]|[Vv][Bb][Ss])$
+COMPRESSED FILESIZE: ANY
+UNCOMPRESSED FILESIZE: ANY
+ENCRYPTION: YES
+FILE POSITION: ANY
+CRC SUM: ANY

@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Suspect-31
+CONTAINER TYPE: CL_TYPE_ZIP
+CONTAINER SIZE: ANY
+FILENAME REGEX: ^(G|g)(i|I)(f|F)(t|T)(_|-)(c|C)(E|e)(r|R)(T|t)(i|I)(f|F)(i|I)(c|C)(a|A)(t|T)(e|E).*[.]([Ee][Xx][Ee]|[Bb][Aa][Tt]|[Cc][Oo][Mm]|[Ll][Nn][Kk]|[Cc][Mm][Dd]|[Jj][Ss]|[Vv][Bb][Ss])$
+COMPRESSED FILESIZE: ANY
+UNCOMPRESSED FILESIZE: ANY
+ENCRYPTION: IGNORED
+FILE POSITION: ANY
+CRC SUM: ANY

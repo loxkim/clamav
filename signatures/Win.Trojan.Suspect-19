@@ -1,0 +1,9 @@
+VIRUS NAME: Win.Trojan.Suspect-19
+CONTAINER TYPE: CL_TYPE_ZIP
+CONTAINER SIZE: ANY
+FILENAME REGEX: ^(U|u)(P|p)(S|s)(i|I)(n|N)(v|V)(o|O)(i|I)(c|C)(e|E).*[.]([Ee][Xx][Ee]|[Bb][Aa][Tt]|[Cc][Oo][Mm]|[Ll][Nn][Kk]|[Cc][Mm][Dd]|[Jj][Ss]|[Vv][Bb][Ss])$
+COMPRESSED FILESIZE: ANY
+UNCOMPRESSED FILESIZE: ANY
+ENCRYPTION: IGNORED
+FILE POSITION: ANY
+CRC SUM: ANY

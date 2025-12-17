@@ -1,0 +1,9 @@
+VIRUS NAME: Legacy.Trojan.Agent-37106
+CONTAINER TYPE: CL_TYPE_ZIP
+CONTAINER SIZE: ANY
+FILENAME REGEX: (?i)((\.doc)|([ _.-](7z|avi|bmp|csv|docx|gif|gz|jpeg|jpg|mov|mp3|mp4|mpg|pdf|png|pps|ppt|pptx|psd|rar|tar|tar\.gz|tif|tiff|txt|wav|xls|xlsx|zip)))[ _.-]*\.(docm|dotm|otm|potm|ppam|ppsm|pptm|sldm|tlb|xlam|xlm|xlsm|xltm)$
+COMPRESSED FILESIZE: ANY
+UNCOMPRESSED FILESIZE: ANY
+ENCRYPTION: IGNORED
+FILE POSITION: ANY
+CRC SUM: ANY
