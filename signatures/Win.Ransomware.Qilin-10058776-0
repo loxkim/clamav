@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Qilin-10058776-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[DEBUG|REL] File handler identified as process: T
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[WARNING|STORE] Disk availability checks not passed. Trying to set online status and remove readonly flag...0
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[ERROR] OpenProcess failed: ,
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/rsa-0.7.2/src/oaep.rsd
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[DEBUG|REL] File handler identified as service: L

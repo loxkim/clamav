@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Generic-10058779-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+n goGetAdaptersAddressesNtSetInformationFileGetProcessMemoryInfobcryptprimitives.dllsha3: Sum after Readhttplaxcontentlengthflag
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+= runtime: searchIdx = defer on system stackpanic on system stackasync stack too largestartm: m is spinningstartlockedm: m has 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+hangesWNetGetJoinInformation of unexported methodunexpected value stepreflect.Value.Pointerreflect.Value.SetUintnegative shift a
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mountdataindependenttimingsystem goroutine wait/gc/heap/allocs:bytesruntime: work.nwait=  previous allocCount=, levelBits[level]
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+pfindrunnable: wrong ppreempt at unknown pcreleasep: invalid argcheckdead: runnable gruntime: newstack at runtime: newstack sp=r
