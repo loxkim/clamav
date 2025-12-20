@@ -1,0 +1,23 @@
+VIRUS NAME: Unix.Tool.HTTPTunnel-10058782-0
+TDB: Engine:90-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+github.com/jpillora/chisel
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+tunnel.proxy
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+defines the http listening port
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+allow clients to access the internal socks5 proxy

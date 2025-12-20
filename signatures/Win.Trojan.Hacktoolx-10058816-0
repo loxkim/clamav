@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Hacktoolx-10058816-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+c:\projects\projectsj\nfsdk2_1.5.5\driver_wfp\std\objfre_win7_amd64\amd64\netfilter2.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\projects\projectsJ\nfsdk2_1.5.5\driver_wfp\Win8\Win8Release\x64\netfilter2.pdb
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+system32\drivers\%S.sys
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+could not load ASN1 client certificate, OpenSSL error %s, (no key found, wrong pass phrase, or wrong file format?)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\projects\projectsJ\nfsdk2_1.5.5\test\openssl-1.0.2n\/ssl/cert.pem

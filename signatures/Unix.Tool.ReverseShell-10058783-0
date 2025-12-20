@@ -1,0 +1,23 @@
+VIRUS NAME: Unix.Tool.ReverseShell-10058783-0
+TDB: Engine:90-255,Target:6
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+reversessh
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+ferdinor@mailbox.org
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+golang.org/x/crypto/ssh
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+vendor/golang.org/x/net/route
