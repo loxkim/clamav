@@ -1,0 +1,28 @@
+VIRUS NAME: Py.Trojan.YESROBOT-10058575-0
+TDB: Engine:90-255,HandlerType:CL_TYPE_SCRIPT,Target:0
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+def read_registry_binary(
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+winreg.HKEY_CURRENT_USER
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+AES.new(keyint.to_bytes(32,sys.byteorder),AES.MODE_ECB)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+(keyint & dec_reg_key).to_bytes(32,sys.byteorder)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+exec(plain)

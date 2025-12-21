@@ -1,0 +1,23 @@
+VIRUS NAME: Ps1.Loader.SORVEPOTEL-10058614-0
+TDB: Engine:90-255,Target:0
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$method.GetCustomAttributes([System.STAThreadAttribute],
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[System.Reflection.Assembly]::Load([Byte[]]$
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$entryMethod.Invoke($null, $null)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$type.GetMethod('Main',

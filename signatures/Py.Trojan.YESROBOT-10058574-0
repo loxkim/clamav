@@ -1,0 +1,23 @@
+VIRUS NAME: Py.Trojan.YESROBOT-10058574-0
+TDB: Engine:90-255,HandlerType:CL_TYPE_SCRIPT,Target:0
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+return "This is not a Windows system."
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+winreg.QueryValueEx(key, "MachineGuid")
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Mozilla/5.0 {base64.b64encode(str(get_machine_name()
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+importlib.import_module(import_name,package)
