@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Blackcocaine-10058909-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+3sudogsweeptraceuint8usagewrite Value, not 390625<-chanAnswerArabicAugustBrahmiCarianChakmaCommonCopticFormatFridayGOROOTGetACPG
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+message of desired typenotewakeup - double wakeupout of memory (stackalloc)persistentalloc: size == 0reflect.Value.OverflowUint
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rom unknown functioncorrupted semaphore ticketcryptobyte: internal errordefer with non-empty frameforEachP: P did not run fnfree
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ailleChanDirCopySidCypriotDeseretElbasanElymaicGranthaHanunooIO waitJanuaryKannadaMUI_DltMUI_StdMakasarMandaicMarchenMultaniMyan
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+eNSUTC+12UTC+13UTC-02UTC-08UTC-09UTC-11WanchoYezidi[]bytechan<-domaingopherheaderlistenminuteobjectpopcntrenamesecondselectsocke
