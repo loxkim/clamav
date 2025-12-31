@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Installcore-10058955-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Only HEAD requests are passing in Proxy Mode - unable to work with this server (probably no Range support)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+RestartAsAdmin: UAC is disabled, assuming process has admin privileges, continue without restarting.
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Got "CONTINUE" command from first process, this process will continue running
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+!Reading firefox cookies without sqlite.dll support
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+There is a registry hack to prevent HtmlUI Browser object's IE7 fallback - failed to remove it (HKEY_CURRENT_USER).
