@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Petrwrap-10058989-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+o:\libs\src\openssl\crypto\ec\ec2_smpt.c
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\\VBOXSVR\Shared\id.txt
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lhash part of OpenSSL 0.9.8zb 6 Aug 2014
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Big Number part of OpenSSL 0.9.8zb 6 Aug 2014
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SHA-512 part of OpenSSL 0.9.8zb 6 Aug 2014

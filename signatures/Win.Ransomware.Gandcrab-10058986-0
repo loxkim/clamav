@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Gandcrab-10058986-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+>https://login.live.com/ManageLoginKeys.srf</cfg:ManageLoginKeys><cfg:GetAppDataService>https://login.live.com/ppsecure/GetAppDa
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nfo.srf</cfg:RealmInfoService><cfg:RealmInfoService6_0>https://login.live.com/getuserrealm.srf</cfg:RealmInfoService6_0><cfg:URL
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+erpriseResolveUserService><cfg:AllowGetProperty>EID</cfg:AllowGetProperty><cfg:RealmInfoService>https://login.live.com/getrealmi
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://login.live.com/ppsecure/GetUserKeyData.srf</cfg:GetUserKeyDataService><cfg:CPAddUserSignIn>https://login.live.com/ppsecu
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+changecredential.srf</cfg:DeviceChangeService><cfg:DeviceAddService>https://login.live.com/ppsecure/deviceaddcredential.srf</cfg
