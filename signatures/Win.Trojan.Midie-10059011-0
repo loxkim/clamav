@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Midie-10059011-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+WriteMemoryHandler: Executable binary injected from 0x%p (size 0x%x) into process %d at 0x%p.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DumpSectionViewsForHandle: Dumping section view at 0x%p for handle 0x%x (target process %d).
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DumpImageInCurrentProcess: Attempting to dump 'raw' PE image (process %d)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MapSectionViewHandler: Error, failed to add section view with handle 0x%x and target process %d.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Bruno\AppData\Local\Programs\Python\Python310-32
