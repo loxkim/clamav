@@ -1,0 +1,18 @@
+VIRUS NAME: Unix.Backdoor.Mosquitto-10058916-0
+TDB: Engine:90-255,Target:6
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII FULLWORD
+ +-> DECODED SUBSIGNATURE:
+/var/lib/myapp/machine-id
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII
+ +-> DECODED SUBSIGNATURE:
+/mosquitto/lib/messages_mosq.c
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII FULLWORD
+ +-> DECODED SUBSIGNATURE:
+chunk_is_mmapped (mem2chunk (victim))
