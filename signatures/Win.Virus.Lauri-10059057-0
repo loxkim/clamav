@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Virus.Lauri-10059057-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Program Files\Common Files\microsoft shared\ClickToRun\InspectorOfficeGadget.exeEO!#FILENAMESO!#INFECT
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+  deprovisionuninstall --displayname {arg}    Deprovisions an app then uninstalls an app for all users
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+InspectorOfficeGadget.exe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid parameter for DeprovisionUninstall command: 
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invalid parameter for IsProvisioned command: 

@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Lazy-10059067-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MetaLink has information on which products have been translated for the supported languages (http://metalink.oracle.com).
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+access the documentation online at http://oracle.com/contracts. Services are provided based on Oracle's policies for the
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Service is available on http://www.oracle.com/education/oln. Notwithstanding anything to the contrary in the agreement,
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Processor: shall be defined as all processors where the Oracle programs are installed and/or running. Programs licensed on a
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Membership: is defined as an individual authorized by you to access the hosted service, regardless of whether the individual
