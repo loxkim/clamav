@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Sfone-10059093-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+i3xceyukmsdqrziy1552bgtazjbc70tw3nqee4n7em388bboz84ycqmyuoumclswugc9fbip6a4uxszcw3zt49s7kbfui4oxh1n1bjhdc70lubolpmwf93b
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+u%a %b %en%Tq%Y|%m/%d/%y|%H:%M:%S|%I:%M:%S9%p
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ggdll9
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ircqlpg3
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+64uq30ndw5hqhk3p9u22kry3ejkrguo1j85nk8d8m8pev
