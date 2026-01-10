@@ -1,0 +1,25 @@
+VIRUS NAME: Win.Ransomware.IncRansom-10059104-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+
+Press [ENTER] / [RETURN] to continue...
+
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[--] [ARGS] [SUBCOMMAND] <SUBCOMMAND>
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Encryption directory(ies) (e.g. C:\,D:\,E:\)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Successfully killed process:
