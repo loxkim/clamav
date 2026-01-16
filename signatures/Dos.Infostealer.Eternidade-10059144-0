@@ -1,0 +1,43 @@
+VIRUS NAME: Dos.Infostealer.Eternidade-10059144-0
+TDB: Engine:90-255,Target:0
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+ powershell -Command "$chromePath = Get-ItemProperty 'HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\chrome.ex
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+ powershell -Command "$chromePath = Get-ItemProperty 'HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\chrome.ex
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+ powershell -Command "Expand-Archive driver.zip temp -Force"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+ powershell -Command "Invoke-WebRequest 'https://www.python.org/ftp/python/3.12.7/python-3.12.7-embed-amd64.zip' -OutFile pytho
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+ powershell -Command "Invoke-WebRequest 'https://www.python.org/ftp/python/3.12.7/python-3.12.7-embed-amd64.zip' -OutFile pytho
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+python.exe -m pip install pyautogui keyboard mouse pygetwindow >nul 2>&1
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+powershell -Command "Invoke-WebRequest 'https://bootstrap.pypa.io/get-pip.py' -OutFile get-pip.py"
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+ powershell -Command "Expand-Archive python.zip . -Force"

@@ -1,0 +1,43 @@
+VIRUS NAME: Win.Infostealer.Eternidade-10059145-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6&7
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+sk4d.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+FExecuteAfterTimestamp
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+TComponent.GetObservers$ActRec
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+TComponent.GetObservers$1$Intf
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+TComponent.GetObservers$0$Intf
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+PExtendedd
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+ TList<System.TObject>.TEmptyFunc
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+ TList<System.Pointer>.TEmptyFunc
