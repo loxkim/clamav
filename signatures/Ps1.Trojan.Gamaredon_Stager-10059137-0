@@ -1,0 +1,28 @@
+VIRUS NAME: Ps1.Trojan.Gamaredon_Stager-10059137-0
+TDB: Engine:90-255,FileSize:10-5000,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE WIDE ASCII
+ +-> DECODED SUBSIGNATURE:
+workers.dev
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE WIDE ASCII
+ +-> DECODED SUBSIGNATURE:
+hklm:\software\microsoft\cryptography
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE WIDE ASCII
+ +-> DECODED SUBSIGNATURE:
+machineguid
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE WIDE ASCII
+ +-> DECODED SUBSIGNATURE:
+[text.encoding]::utf8.getstring([convert]::frombase64string
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE WIDE ASCII
+ +-> DECODED SUBSIGNATURE:
+wscript.exe
