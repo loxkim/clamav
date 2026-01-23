@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Lockbox-10059177-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+processUnable to read 32 bit process parametersUnable to read PEB32Unable to get basic process informationUnable to read proces
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+to be variable-length encoded, which makes binary search impossible.The `DW_UT_*` value for this unit is not supported yetRange
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nb CPUsnb network interfacesnb processesnb disksnb componentsnoyesDisk()[FS: ][Type: ][removable: ] mounted on : / B
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fatal runtime error: I/O error: operation failed to complete synchronously, aborting
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+DW_LNE_end_sequenceDW_LNE_set_addressDW_LNE_define_fileDW_LNE_set_discriminatorDW_LNE_lo_userDW_LNE_hi_userUnknown DwLne: 
