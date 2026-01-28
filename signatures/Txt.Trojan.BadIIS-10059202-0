@@ -1,0 +1,23 @@
+VIRUS NAME: Txt.Trojan.BadIIS-10059202-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+const exe_url = "http
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+const save_path = "c:\users\public\
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+const config_file = "c:\users\public\gotohttp.ini"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+const upload_url = "http

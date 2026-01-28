@@ -1,0 +1,8 @@
+VIRUS NAME: Unix.Trojan.BadIIS-10059196-0
+TDB: Engine:90-255,Target:6
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<script type="text/javascript" src="https://{WILDCARD_ANY_STRING(LENGTH>=2&&<=10)}.westooo.com/{WILDCARD_ANY_STRING(LENGTH>=1&&<=8)}.js"></script>
