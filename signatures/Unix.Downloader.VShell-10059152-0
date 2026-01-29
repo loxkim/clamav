@@ -1,0 +1,13 @@
+VIRUS NAME: Unix.Downloader.VShell-10059152-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+touch /usr/local/bin/writeablex >/dev/null 2>&1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+if [ ${ARCH}x = "{WILDCARD_ANY_STRING(LENGTH<=20)}" ]; then{WILDCARD_ANY_STRING(LENGTH<=6)}(curl -fsSL {WILDCARD_ANY_STRING(LENGTH<=100)}||wget {WILDCARD_ANY_STRING(LENGTH<=100)}||python -c 'import urllib;urllib.urlretrieve("http
