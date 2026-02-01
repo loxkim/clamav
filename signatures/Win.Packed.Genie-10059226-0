@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Genie-10059226-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+h\{ Size = {Size}, Created = {Created}, Modified = {Modified}, IsReadOnly = {IsReadOnly}, Hash = {Hash} }
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+{{ Size = {0}, Created = {1}, Modified = {2}, IsReadOnly = {3}, Hash = {4} }}
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<PixelsProcessed>k__BackingField
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<ProcessingTime>k__BackingField
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+get_PixelsProcessed
