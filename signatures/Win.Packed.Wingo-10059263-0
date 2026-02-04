@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Wingo-10059263-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nstallgoroothtml/templatetlsmaxrsasizeGetTempPath2WModule32NextWRtlGetVersionRegDeleteKeyWRegEnumValueWGetProcAddresscoherence l
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ckinterface -> node= ms cpu,  (forced) wbuf1.n= wbuf2.n= s.limit= s.state= B work ( B exp.)  marked   unmarked in use)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+4*[8]struct { key interface {}; elem [][]complex128 }
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\*struct { F uintptr; X0 chan struct { wavefunction []complex128; observable [][2]float64 } }
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+7*[8]struct { key interface {}; elem [3]chan []float64 }
