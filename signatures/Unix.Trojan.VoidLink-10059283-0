@@ -1,0 +1,53 @@
+VIRUS NAME: Unix.Trojan.VoidLink-10059283-0
+TDB: Engine:90-255,Target:6
+LOGICAL EXPRESSION: (0|1|2|3|4|5|6|7|8|9)>3,3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/tmp/.x
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/dev/shm/.x
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[kworker/0:0]
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+implant
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+content-length:
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+POST /api/v2/{STRING_ALTERNATIVE:handshake|sync}
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/ws/agent?agent_id=
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/var/run/secrets/kubernetes.io
+ * SUBSIG ID 8
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VoidLink Implant Core
+ * SUBSIG ID 9
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{"status":"ready","target":"{s}","known_hosts_check":{},"simulate_normal":{},"ssh_config_found":{}}

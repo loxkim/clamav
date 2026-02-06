@@ -1,0 +1,28 @@
+VIRUS NAME: Unix.Trojan.DKnife-10059259-0
+TDB: Engine:90-255,Target:6
+LOGICAL EXPRESSION: (0|1|2|3|4)>2,3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/dksoft/bin/
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/dksoft/conf/
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/etc/diankeuuid
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+dknife
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/dksoft/url.cfg

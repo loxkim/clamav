@@ -1,0 +1,33 @@
+VIRUS NAME: Win.Trojan.ChaosBot-10059217-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)&(4|5)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Host  connected, channel created: <
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+shell download cd Failed to change directory:
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VirtualProtectAmsiScanBufferEtwEventWriteCOMPUTERNAME
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\Users\Public\message_.txt
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+t{WILDCARD_IGNORE}fÇ1ÀÆCÃ
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+H{WILDCARD_IGNORE}00:0C:29I9

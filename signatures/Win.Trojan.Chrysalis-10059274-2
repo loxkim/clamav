@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Trojan.Chrysalis-10059274-2
+TDB: Engine:90-255,Container:CL_TYPE_NULSFT,Target:0
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Nullsoft Install System v3.11
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+BluetoothService
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+log.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+BluetoothService.exe

@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Trojan.ChaosBotDLL-10059219-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+\Device\Afd\Mio
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+anaiuovauhpaltdevhgptefaxtmtelsmno
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+https://discord.com/api/v10/users/@me
