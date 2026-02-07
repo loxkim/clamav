@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Dropper.Genericrxqu-10059285-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Run Under F/S Mode On Server Is No Permintion!*:)*5*:)*69680*:)*Warning_Error Code(101):
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Connect To The Library Failt, Maybe The File Was Damaged!*:)*5*:)*69680*:)*WarningQError Code(104):
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+The Program Have Been Ran, Please Check The TaskBar!*:)*5*:)*69680*:)*WarningMError Code(102):
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Can Not Local The Support Library!*:)*5*:)*69680*:)*WarningdError Code(103):
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Runtime File's Version Does Not Match!*:)*5*:)*69680*:)*WarninggError Code(105):
