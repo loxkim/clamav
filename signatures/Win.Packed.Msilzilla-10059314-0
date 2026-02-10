@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Msilzilla-10059314-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Un=!3\&bRcex$\&%YQ2U@XE>\\t='+QGj"X8j5\&R\+OR\,6F5s"\&\*KqHH+ieV?5>r1WR)5Tf=;:s'21|?A6
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+RUDfX;CgqLw)\&km2e}#mJmH5g\,+O(LJy)0ivV8TCuOv'X4CT)T3(+#O'0JI~Z)~O\+_\\2uuL-M\\A3j/
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PipeTransmissionMode
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PipeAccessRule
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PipeAccessRights
