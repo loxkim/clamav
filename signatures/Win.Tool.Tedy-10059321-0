@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Tedy-10059321-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\ChromeABE\build\Release\chrome_elevator.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Registry\Machine\SOFTWARE\Clients\StartMenuInternet\Google Chrome Beta\shell\open\command
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Registry\Machine\SOFTWARE\Clients\StartMenuInternet\Microsoft Edge\shell\open\command
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+\Registry\Machine\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Opera GX Stable
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Failed to load NSS libraries (nss3.dll)
