@@ -1,0 +1,23 @@
+VIRUS NAME: Ps1.Trojan.Agent-10059317-1
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+paa/ahgabqbsacaadgblahiacwbpag8abga9aciamqauadaa
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[system.convert]::frombase64string($scheduledtasks64)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+properties.task.actions.selectsinglenode("exec")
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+$task.command = $command
