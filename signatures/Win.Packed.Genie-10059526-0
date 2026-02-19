@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Genie-10059526-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+PixelRuler.Properties.Resources.resources
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+PixelRuler.Properties.Resources
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+[{0}] {1:F1} px = {2:F2} {3}  ({4},{5}) -> ({6},{7})
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Q\{ Fwd = {Fwd}, Rev = {Rev}, Xor = {Xor}, Neg = {Neg}, Add = {Add}, Sub = {Sub} }
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+get_pikselMesafe

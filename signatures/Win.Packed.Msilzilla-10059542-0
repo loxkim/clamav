@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Msilzilla-10059542-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<guna2ToggleSwitch1_CheckedChanged>g__ExecuteCommand|1_0
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+netsh advfirewall firewall delete rule name=all program="%ProgramFiles%\BlueStacks_msi2\HD-Player.exe"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+netsh advfirewall firewall add rule name="FF Block In1" dir=in action=block program="%ProgramFiles%\BlueStacks_nxt
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+netsh advfirewall firewall delete rule name=all program="%ProgramFiles(x86)%\SmartGaGa\ProjectTitan\Engine\ProjectT
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Inject Failed

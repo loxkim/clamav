@@ -1,0 +1,28 @@
+VIRUS NAME: Doc.Phishing.MaliciousExternalReference-10059471-0
+TDB: Engine:91-255,Container:CL_TYPE_ZIP,Target:7
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<?xml 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+<relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+targetmode="external"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+target="http
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+www.backtoworksafely.org
