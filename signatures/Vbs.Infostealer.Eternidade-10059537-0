@@ -1,0 +1,38 @@
+VIRUS NAME: Vbs.Infostealer.Eternidade-10059537-0
+TDB: Engine:90-255,Target:0
+LOGICAL EXPRESSION: 0&1&2&3&4&5&6
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+' Script de Processamento Autom
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+' Processamento de dados
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OxzDlLW = OxzDlLW & Chr(48)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OxzDlLW = ""
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OxzDlLW = OxzDlLW & Chr(52)
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OxzDlLW = OxzDlLW & Chr(54)
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+OxzDlLW = OxzDlLW & Chr(124)
