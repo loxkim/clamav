@@ -1,0 +1,38 @@
+VIRUS NAME: Ps1.Tool.Microburst-10059642-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: (0|1|2|3)|(4&(5|6))
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+MicroBurst-Az.psm1
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+Write-Host "Imported {WILDCARD_ANY_STRING(LENGTH>=1&&<=40)} MicroBurst functions"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+$encryptedOut2 = (`$password | Protect-CmsMessage -To cn=microburst)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+Write-Host "Executing $Script against all ($VMCount) VMs in the $subName Subscription"
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+Author: {WILDCARD_ANY_STRING(LENGTH>=10&&<=80)}, NetSPI - 20
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+microburst
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+PowerShell function for {STRING_ALTERNATIVE:enumerat|dump|invok|execut|gather}ing
