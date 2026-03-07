@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Crypmodng-10059684-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+array or pointer to array with length %xcrypto/rand: blocked for 60 seconds waiting to read random data from the kernel
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Errorwriteclosegetwd1562578125int16int32int64uint8arrayslice and defersweeptestRtestWexecWhchanexecRschedsudogtimergscanmheaptra
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rsacrtCounterKDFunreachable%!(BADPREC)/dev/stdout/dev/stderrOpenProcessGetFileTypeshort write30517578125bad argSizemethodargs(Pr
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ipathtcptlsunsafeekmunimplemented#failfipscast3814697265625dalTLDpSugct?GetTempPath2WModule32NextWRtlGetVersionwakeableSleepprof
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+ift[level] = doRecordGoroutineProfile gp1=NtCreateWaitCompletionPacket
