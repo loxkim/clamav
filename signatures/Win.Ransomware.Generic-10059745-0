@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Ransomware.Generic-10059745-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+or renametoo many linksinvalid filenameargument list too longoperation interruptedunsupportedunexpected end of fileout of memor
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[]{invalid syntax}{recursion limit reached}?::::{closureshim#}< as >, & mut const ; (,dyn  +  is Cunsafe extern "
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+xboxPro.dll
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+host unreachablenetwork unreachableconnection abortednot connectedaddress in useaddress not availablenetwork downbroken pipeenti
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+too many running threads in thread scopep
