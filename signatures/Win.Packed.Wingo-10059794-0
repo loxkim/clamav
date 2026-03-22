@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Wingo-10059794-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tLastErrorGetStdHandleGetTempPathWLoadLibraryWReadConsoleWSetEndOfFileTransmitFileGetAddrInfoWadvapi32.dlliphlpapi.dllnetapi32.d
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+treams pipe errorLookupAccountNameWCreateFileMappingWGetExitCodeProcessGetFileAttributesWSetFileAttributesWCommandLineToArgvWada
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+, plugin: running < 0runtime: g : frame.sp=created by kernel32.dllVirtualAllocinvalid slothost is downillegal seekGetLengthSidGe
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<activeCodePage xmlns="http://schemas.microsoft.com/SMI/2019/WindowsSettings">UTF-8</activeCodePage>
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<longPathAware xmlns="http://schemas.microsoft.com/SMI/2016/WindowsSettings">true</longPathAware>

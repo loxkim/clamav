@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Wingo-10059795-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+CreatePipeGetVersionWSACleanupWSAStartupgetsockoptsetsockoptdnsapi.dllws2_32.dllnotifyListprofInsertstackLargeNot workermSpanInU
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+zeroCountPagesInUse (test)ReadMetricsSlow (test)trace reader (blocked)trace goroutine statusGC weak to strong waitsend on close
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+m=nil base uint16uint32uint64stringstructrdtscppopcntCommonunknownCopySidWSARecvWSASendconnectforcegcallocmWcpuprofallocmRgctra
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+IMIT KiB now,  pages at  sweepgen= sweepgen , bound = , limit = exitThreadBad varintGC forced
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+BAD RANK status unknown(trigger= npages= nalloc= nfreed=[signal  newval= mcount= bytes,  stack=[ minLC=  maxpc= 
