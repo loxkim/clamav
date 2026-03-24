@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Loki-10059825-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+LoginState after execute sign in command: {0} FailureErrorCode - {1}
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Microsoft.EntityFrameworkCore.CommandExecutionError
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Microsoft.EntityFrameworkCore/Microsoft.EntityFrameworkCore.AfterExecuteCommand@Activity2Stop:-
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://secure.skype.com/login/sso?nonce={0}&go=skype.preview.help&intsrc=client-_-uwp-_-{1}-_-help&setlang={2}
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+https://secure.skype.com/login/sso?nonce={0}&go=client.uwp.credit-selection.web&intsrc={1}
