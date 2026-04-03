@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Tool.Valley-10059872-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Path\To\YourExecutable.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+SELECT ExecutablePath FROM Win32_Process WHERE ProcessId = 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+cmd.exe /c "
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+$var_va = [System.Runtime.InteropServices.Marshal]::GetDelegateForFunctionPointer((func_get_proc_address kernel32.dll Vi
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+aFkrcy80U2ZuWStHb1pxemhvK2Urb1dQclArWmpvMlBocUdhK1lhT2tZMlpvSkdNbWFHYS80U1BqWTJhKzQ2OGhvK0N2SWFQaXJ5Rmo2ei9ockdTK3BxeGly
