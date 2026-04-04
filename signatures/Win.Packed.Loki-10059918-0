@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Loki-10059918-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Server=localhost; Database =prolab3; uid = root; Password =; pooling = false; convert zero datetime=True 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Server=localhost; Database =prolab3; uid = root; Password =; 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+insert into tbl_araba values(@ArabaID, @Araba_Marka, @Araba_Model, @Araba_VitesTuruID,@Araba_YakitTuruID,@Araba_RenkID )
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+insert into tbl_ilan values(@IlanID, @Ilan_Adi, @Ilan_Fiyat, @Ilan_Km,@Ilan_Tarih,@Ilan_ArabaID,@Ilan_SehirID )
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+VeriTabani.Properties.Resources.resources
