@@ -1,0 +1,43 @@
+VIRUS NAME: Win.Ransomware.Vect-10059989-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: (0&1&2&(3|4))|(5&6&7)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+-gpo
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+-mount
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+-stealth
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+files encrypted
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+FILES HAVE BEEN ENCRYPTED
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+.Document.ActiveView.ExecuteShellCommand("C:\ProgramData\$
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+@([adsisearcher]'objectCategory=computer').FindAll()
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+GetTypeFromProgID('MMC20.Application'
