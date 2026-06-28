@@ -1,0 +1,8 @@
+VIRUS NAME: Unix.Rootkit.Spectre-10060260-0
+TDB: Engine:90-255,Target:6
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII WIDE
+ +-> DECODED SUBSIGNATURE:
+specter_hide_port
