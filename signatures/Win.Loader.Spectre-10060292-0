@@ -1,0 +1,33 @@
+VIRUS NAME: Win.Loader.Spectre-10060292-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&(1|4)&(2|3|5)
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+cd c:\
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+certutil -url
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+.rar "cmd.exe /C powershell -Command Add-MpPreference -ExclusionPath
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+c:\programdata\prcc1.rar "cmd.exe
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+powershell Start-Process "{WILDCARD_ANY_STRING(LENGTH<=25)}svchosts.exe" -WindowStyle Hidden
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+reg add "HKLM\SOFTWARE\Microsoft\Windows Defender\Exclusions\Paths

@@ -1,0 +1,18 @@
+VIRUS NAME: Ps1.Trojan.Agent-10060268-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@(80,83,80,51,1,0,0,0,
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+{ throw 'error: statuscode {WILDCARD_ANY_STRING(LENGTH<=10)}' } } catch { throw 'error: statuscode {WILDCARD_ANY_STRING(LENGTH<=10)}' }
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-as [type])::decompress))
