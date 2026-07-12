@@ -1,0 +1,18 @@
+VIRUS NAME: Asp.Rootkit.Badiis-10060290-1
+TDB: Engine:90-255,Target:3
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+httpmodule (bound by injector via reflection)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+auto-hook logic
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+seo-engine.ashx

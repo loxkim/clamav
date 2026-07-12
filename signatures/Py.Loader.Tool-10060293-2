@@ -1,0 +1,68 @@
+VIRUS NAME: Py.Loader.Tool-10060293-2
+TDB: Engine:90-255,Target:0
+LOGICAL EXPRESSION: ((0&1&2)|(3&4&5)|(6&7&8)|(9|10|11))&12
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+TEST 1: Write to c:\\windows\\temp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+TEST 2: Check webroot permissions
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+TEST 3: Try write to webroot with error capture
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+certutil failed, trying PowerShell WebClient...
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Deploy SPECTRE implant via CCP ViewState RCE
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+STEP 3: Execute implant
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+STEP 1: Write up.ashx
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+STEP 2: Verify up.ashx 
+ * SUBSIG ID 8
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Verify the file exists via PowerShell callback
+ * SUBSIG ID 9
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+# 1. Webroot directory listing
+ * SUBSIG ID 10
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+Whoami /priv
+ * SUBSIG ID 11
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'powershell -nop -enc {b3}', 'whoami_priv'
+ * SUBSIG ID 12
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+import subprocess, requests, urllib.parse
