@@ -1,0 +1,18 @@
+VIRUS NAME: Html.Downloader.Agent-10060314-0
+TDB: Engine:90-255,Target:3
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://api.telegram.org/bot
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"/sendmessage?chat_id="{WILDCARD_ANY_STRING(LENGTH<=50)}"&text="
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.open{WILDCARD_ANY_STRING(LENGTH<=20)}.write{WILDCARD_ANY_STRING(LENGTH<=1)}xmlhttp.responsebody{WILDCARD_ANY_STRING(LENGTH<=20)}.savetofile

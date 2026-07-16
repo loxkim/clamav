@@ -1,0 +1,13 @@
+VIRUS NAME: Ps1.Trojan.Agent-10060318-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+( [io.streamreader]::new( [io.compression.gzipstream]::new( [io.memorystream]::new( [convert]::frombase64string( {WILDCARD_ANY_STRING(LENGTH<=50)} ` 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+' ` 'd' ` 

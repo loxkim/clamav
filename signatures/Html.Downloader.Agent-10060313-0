@@ -1,0 +1,38 @@
+VIRUS NAME: Html.Downloader.Agent-10060313-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: (0|1|2|3|4|5|6)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.expandenvironmentstrings("%temp%")
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.createtextfile({WILDCARD_ANY_STRING(LENGTH<=50)}.bat",{WILDCARD_ANY_STRING(LENGTH<=1)}true)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.writeline{WILDCARD_ANY_STRING(LENGTH<=1)}"powershell{WILDCARD_ANY_STRING(LENGTH<=1)}-command{WILDCARD_ANY_STRING(LENGTH<=1)}""invoke-webrequest{WILDCARD_ANY_STRING(LENGTH<=1)}-uri
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://api.telegram.org/bot
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.writeline{WILDCARD_ANY_STRING(LENGTH<=1)}"powershell{WILDCARD_ANY_STRING(LENGTH<=1)}-command{WILDCARD_ANY_STRING(LENGTH<=1)}""(new-object{WILDCARD_ANY_STRING(LENGTH<=1)}net.webclient).downloadfile
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.regwrite{WILDCARD_ANY_STRING(LENGTH<=1)}"hkey_current_user\software\microsoft\windows\currentversion\run\myapp",{WILDCARD_ANY_STRING(LENGTH<=1)}"mshta.exe
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.close{WILDCARD_ANY_STRING(LENGTH<=20)}.run{WILDCARD_ANY_STRING(LENGTH<=1)}""""

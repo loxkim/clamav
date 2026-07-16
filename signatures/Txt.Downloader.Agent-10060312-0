@@ -1,0 +1,5 @@
+VIRUS NAME: Txt.Downloader.Agent-10060312-0
+TARGET TYPE: NORMALIZED ASCII TEXT
+OFFSET: 0
+DECODED SIGNATURE:
+@echo off powershell{WILDCARD_ANY_STRING(LENGTH<=100)}.downloadfile{WILDCARD_ANY_STRING(LENGTH<=100)}\appdata\local\temp\{WILDCARD_ANY_STRING(LENGTH<=100)}powershell -command "invoke-webrequest -uri

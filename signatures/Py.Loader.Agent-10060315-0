@@ -1,0 +1,20 @@
+VIRUS NAME: Py.Loader.Agent-10060315-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 2>20
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.fromhex
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+= lambda __: __import__('zlib').decompress(__import__('base64').b64decode(__))
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0&1
+     +-> REGEX: def [a-z]+\(\w, \w, \w\):
+     +-> CFLAGS: ig
