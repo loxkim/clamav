@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Trojan.HavocKiller-10060361-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3)>1,2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+\HwAudKiller\x64\Debug\HwAudKiller.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+sc create Havoc binPath=
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+sc start Havoc
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+Havoc Process Terminator
