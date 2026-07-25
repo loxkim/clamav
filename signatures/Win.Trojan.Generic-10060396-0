@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10060396-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+bcdedit: boot test settings not active. Disable Secure Boot or run bcdedit manually as Administrator.
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Kernel driver may stay blocked until reboot (testsigning/nointegritychecks).
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+bcdedit: failed to set nointegritychecks on (exit 
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+bcdedit: nointegritychecks already enabled.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+bcdedit: testsigning and nointegritychecks already enabled.

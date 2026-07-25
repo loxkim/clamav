@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10060398-0
+TDB: Engine:51-255,Target:1
+LOGICAL EXPRESSION: (0|1|2|3|4)>3,4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+[*] Walk ActiveProcessLinks from SYSTEM to find lsass.exe
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tdt_driver_lib_silo_a::pmu_control::create_process_notify::<lambda_20ec35133d90a73f295486dae8336278>::operator ()
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tdt_driver_lib_silo_a::abd::create_process_notify::<lambda_bb7be520a11608cd8df7e3fd8be5e775>::operator ()
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+tdt_driver_lib_silo_a::pmu_tamper_detect::create_process_notify::<lambda_2e5b5ed6ca6f914a18f569b03a943614>::operator ()
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+lsass.exe not found ({} processes)

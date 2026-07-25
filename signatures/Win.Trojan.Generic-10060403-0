@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10060403-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\Windows\System32\drivers\BdApiUtil.sys
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\ProgramData\AppLocker\BdApiUtil.sys
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+https://github.com/magicsword-io/LOLDrivers/raw/main/drivers/6d46f925df569b488e9b63778ab0d91e.bin
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Process terminated via BdApiUtil driver: pid=
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Process suspended via BdApiUtil driver: pid=
