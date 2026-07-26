@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Trojan.Generic-10060425-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+ update Lop set TenLop= @TenLop, NienKhoa= @NienKhoa, SiSo= @SiSo, GiaoVienChuNhiem = @GiaoVienChuNhiem where MaLop= @Ma
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://tempuri.org/dsGiaoVienLopDataSet.xsd
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+http://tempuri.org/QLHocSinhDataSet.xsd
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NData Source=DESKTOP-NU6RJGH;Initial Catalog=QLHocSinh;Integrated Security=True
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+SELECT MaHocSinh, HoTen, NgaySinh, GioiTinh, DiaChi, DiemVaoTruong, HoTenBoMe, SoDienThoai, MaLop FROM dbo.HoSoHocSinh

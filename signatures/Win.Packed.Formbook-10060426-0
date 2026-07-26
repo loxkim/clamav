@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Formbook-10060426-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+row_LoginUser
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+_Loginuser
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Data Source=DESKTOP-I4MDHTB;Initial Catalog=DoAnQLPM;Integrated Security=True
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Insert into tbl_ChiTietHoaDon(MaHoaDon, MaNhanSu,Tongtien,NgayKham)values(@MaHoaDon,@MaNhanSu,@Tongtien,@Ngaykham);
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Delete  from tbl_ChiTietHoaDon where MaHoaDon = '
