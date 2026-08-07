@@ -1,0 +1,36 @@
+VIRUS NAME: Html.Phishing.SVGForeignObjectRedirect-10060412-0
+TDB: Engine:81-255,FileSize:0-5242880,Target:0
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<script
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: <foreignObject
+     +-> CFLAGS: (null)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: (d2luZG93LmxvY2F0aW9uLmhyZWYgP[Q-Za-f]|[3HXn]dpbmRvdy5sb2NhdGlvbi5ocmVmID[0-3]|[159BFJNRVZdhlptx]3aW5kb3cubG9jYXRpb24uaHJlZiA9)
+     +-> CFLAGS: (null)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: (U3RyaW5nLmZyb21DaGFyQ29kZ[Q-Za-f]|[1FVl]N0cmluZy5mcm9tQ2hhckNvZG[U-X]|[159BFJNRVZdhlptx]TdHJpbmcuZnJvbUNoYXJDb2Rl)
+     +-> CFLAGS: (null)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: (cGFyc2VJbn[Q-T]|[3HXn]BhcnNlSW50|[159BFJNRVZdhlptx]wYXJzZUlud[A-P])
+     +-> CFLAGS: (null)

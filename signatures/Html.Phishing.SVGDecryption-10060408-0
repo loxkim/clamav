@@ -1,0 +1,50 @@
+VIRUS NAME: Html.Phishing.SVGDecryption-10060408-0
+TDB: Engine:81-255,FileSize:0-5242880,Target:0
+LOGICAL EXPRESSION: 0&((2&4&6)|(1&3&5))
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<script
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: crypto\.subtle
+     +-> CFLAGS: (null)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: (Y3J5cHRvLnN1YnRsZS5pbXBvcnRLZX[k-n]|[2GWm]NyeXB0by5zdWJ0bGUuaW1wb3J0S2V5|[159BFJNRVZdhlptx]jcnlwdG8uc3VidGxlLmltcG9ydEtle[Q-Za-f])
+     +-> CFLAGS: (null)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: Uint8Array\.from
+     +-> CFLAGS: (null)
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: (VWludDhBcnJheS5mcm9t|[1FVl]VpbnQ4QXJyYXkuZnJvb[Q-Za-f]|[159BFJNRVZdhlptx]VaW50OEFycmF5LmZyb2[0-3])
+     +-> CFLAGS: (null)
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: charCodeAt
+     +-> CFLAGS: (null)
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: (Y2hhckNvZGVBd[A-P]|[2GWm]NoYXJDb2RlQX[Q-T]|[159BFJNRVZdhlptx]jaGFyQ29kZUF0)
+     +-> CFLAGS: (null)

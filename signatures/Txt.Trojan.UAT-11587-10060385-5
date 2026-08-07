@@ -1,0 +1,18 @@
+VIRUS NAME: Txt.Trojan.UAT-11587-10060385-5
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: 0
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+var rc4;(function(){var 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+var base64Chars,base64Decode;(function(){var 
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE
+ +-> DECODED SUBSIGNATURE:
+var getText,baseUrl,url,xmlHttp,stage_1,stage_2,key,cipherBytes,plainText,shell,verParts;(function(){var 

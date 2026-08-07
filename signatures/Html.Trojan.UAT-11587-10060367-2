@@ -1,0 +1,23 @@
+VIRUS NAME: Html.Trojan.UAT-11587-10060367-2
+TDB: Engine:90-255,Target:3
+LOGICAL EXPRESSION: 0|1|2|3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+src="http{WILDCARD_ANY_STRING(LENGTH<=1)}://pub-0173d1566dcd4fd49fa25f11f14bfe4c.r2.dev/
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+src="http{WILDCARD_ANY_STRING(LENGTH<=1)}://oisadjfoinsiduhfnoisdnfosdnoifnsoid.pages.dev/
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+src="http{WILDCARD_ANY_STRING(LENGTH<=1)}://d2nq35tel3ucuo.cloudfront.net/
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+src="http{WILDCARD_ANY_STRING(LENGTH<=1)}://pub-abfa7742e315485a98a5fafd6dbfb68e.r2.dev/

@@ -1,0 +1,22 @@
+VIRUS NAME: Html.Phishing.SVGForeignObject-10060407-0
+TDB: Engine:81-255,FileSize:0-5242880,Target:0
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<script
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: \.src\s*=.{1,256}(String\.fromCharCode|atob)
+     +-> CFLAGS: (null)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: <foreignObject
+     +-> CFLAGS: i

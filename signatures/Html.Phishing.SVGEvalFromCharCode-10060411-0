@@ -1,0 +1,29 @@
+VIRUS NAME: Html.Phishing.SVGEvalFromCharCode-10060411-0
+TDB: Engine:81-255,FileSize:0-5242880,Target:0
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<script
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: eval\s{0,256}\(\s{0,256}atob\s{0,256}\(
+     +-> CFLAGS: (null)
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: (U3RyaW5nLmZyb21DaGFyQ29kZ[Q-Za-f]|[1FVl]N0cmluZy5mcm9tQ2hhckNvZG[U-X]|[159BFJNRVZdhlptx]TdHJpbmcuZnJvbUNoYXJDb2Rl)
+     +-> CFLAGS: (null)
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+     +-> TRIGGER: 0
+     +-> REGEX: (ZXZhb[A-P]|[2GWm]V2YW[w-z]|[159BFJNRVZdhlptx]ldmFs)
+     +-> CFLAGS: (null)

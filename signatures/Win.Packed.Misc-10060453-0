@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Misc-10060453-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3&4
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+TrackEditor(Draw,Procedural,Import,Obstacles,Weather
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NeuralCarSandbox.Systems
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+{{ LabFingerprint = {0}, EluateBytes = {1}, ReagentsOnShelf = {2}, TitrationSteps = {3}, SpectralPeaks = {4}, AtomicMass
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+{{ Count = {0}, TotalVolume = {1}, AvgMolarMass = {2}, MaxConcentration = {3} }}
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+NeuralCarSandbox.Properties.Resources.resources
