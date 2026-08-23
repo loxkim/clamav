@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Backdoor.CornFlake-10060461-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE WIDE
+ +-> DECODED SUBSIGNATURE:
+/cmd/agent/keylog_windows.go
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE WIDE
+ +-> DECODED SUBSIGNATURE:
+/cmd/agent/chromekatz_windows.go
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE WIDE
+ +-> DECODED SUBSIGNATURE:
+main.passwordsAndUpload
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII NOCASE WIDE
+ +-> DECODED SUBSIGNATURE:
+main.execShellCmd
