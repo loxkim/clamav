@@ -1,0 +1,23 @@
+VIRUS NAME: Win.Backdoor.IERegStart-10060493-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+windows registry editor
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\typelib\{eab22ac0-30c1-11cf-a7eb-0000c05bae0b}
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+@="script:
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+.sct"
