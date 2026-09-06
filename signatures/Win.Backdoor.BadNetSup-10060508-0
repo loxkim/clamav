@@ -1,0 +1,8 @@
+VIRUS NAME: Win.Backdoor.BadNetSup-10060508-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+gatewayaddress=paternal-angrily.com:443
