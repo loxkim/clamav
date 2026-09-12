@@ -1,0 +1,68 @@
+VIRUS NAME: Py.Ransomware.Qilin-10060523-1
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: ((0|1|2|3|4|5|6)>1,2)&((7>2&8&9&10)|(11&12))
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+net stop veeambackupsvc
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+net stop veeammountsvc
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+net stop veeamcloudsvc
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+net stop veeamcatalogsvc
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+net stop veeamtransportsvc
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+net stop veeambrokersvc
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+net stop veeamdeploysvc
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rd /s /q {WILDCARD_ANY_STRING(LENGTH==1)}:\\{WILDCARD_ANY_STRING(LENGTH<=5)}backup
+ * SUBSIG ID 8
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+vssadmin delete shadows /all /quiet
+ * SUBSIG ID 9
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+wbadmin delete catalog -quiet
+ * SUBSIG ID 10
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sqlcmd -s localhost{WILDCARD_ANY_STRING(LENGTH<=100)} -q "alter database veeam{WILDCARD_ANY_STRING(LENGTH<=10)} set single_user with rollback immediate;{WILDCARD_ANY_STRING(LENGTH<=10)}drop database veeam
+ * SUBSIG ID 11
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+powershell -c {WILDCARD_ANY_STRING(LENGTH<=100)}open{WILDCARD_ANY_STRING(LENGTH<=10)}\\\\.\\.\\physicaldrive{WILDCARD_ANY_STRING(LENGTH<=20)}open{WILDCARD_ANY_STRING(LENGTH<=10)}readwrite{WILDCARD_ANY_STRING(LENGTH<=100)}write{WILDCARD_ANY_STRING(LENGTH<=100)}.close()
+ * SUBSIG ID 12
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+remove-gpo -name ${WILDCARD_ANY_STRING(LENGTH<=20)} -confirm:{WILDCARD_ANY_STRING(LENGTH<=50)}silentlycontinue
