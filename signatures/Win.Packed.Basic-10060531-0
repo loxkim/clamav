@@ -1,0 +1,28 @@
+VIRUS NAME: Win.Packed.Basic-10060531-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: (0|1)&(2&3&4)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+jDKh0kAsfmCQfg/BSBBbCehUoP1abz566cWfU7ECxaFgKGG5TX2iD+HgMskUzBqI/Ni5jvv5VslwD5DZRhvTOR9spRvNdp1+PmVMGDIz7+HOzgujKbLxUn0m
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\vbc.exe
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Invoking the 'Run' method from Poison.dll...
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+Error: Could not find the 'Poison' type in the assembly.
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+MySecretKey12345MySecretKey12345
