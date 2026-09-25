@@ -1,0 +1,18 @@
+VIRUS NAME: Vbs.Downloader.Generic-10060545-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+split("richcity.net/8yneev+trikeneigh.net/8yneev+sallymills.com/8yneev+medicariel.com/8yneev+smartcandle.ie/8yneev+tehrankhabar.ir/8yneev",{WILDCARD_ANY_STRING(LENGTH<=3)}"+")
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+mambafrutismambafrutissinsosin
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+otvorotdovorotreferralsdacdaw

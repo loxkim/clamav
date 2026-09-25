@@ -1,0 +1,18 @@
+VIRUS NAME: Js.Loader.Generic-10060550-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'powershell.exe\x20-executionpolicy\x20bypass\x20-noprofile\x20-windowstyle\x20hidden\x20-file\x20\x22',{WILDCARD_ANY_STRING(LENGTH<=3)}'vuhem',
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'maxexecutiontime',{WILDCARD_ANY_STRING(LENGTH<=3)}'select\x20*\x20from\x20win32_process\x20where\x20name=\x27powershell.exe\x27\x20or\x20name=\{WILDCARD_ANY_STRING(LENGTH>=3&&<=11)}.exe\x27',
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+'select\x20*\x20from\x20win32_process\x20where\x20name=\x27powershell.exe\x27\x20or\x20name=\{WILDCARD_ANY_STRING(LENGTH>=3&&<=11)}.exe\x27',{WILDCARD_ANY_STRING(LENGTH<=3)}'run',
