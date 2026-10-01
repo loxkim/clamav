@@ -1,0 +1,18 @@
+VIRUS NAME: Js.Loader.Generic-10060557-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+k*c%f!i?o^m!e*a%a#a?a^a#1~8^v#+~v^s#i~a&a#m~a^l#a?a^a#a~y^a#a~a^l#e~e^b#o?u^c#q?i^4#w?x%b!x?g%d!g?h%e!e?o^m!s?r^u!4?g%c!a?l^w!c?g%r!g*d&f$h#e&c#o!c~c&q$m{WILDCARD_ANY_STRING(LENGTH<=3)}4*g$x~b&b#h?d^d#b~e^f#o?o^a!+?c^a#m?d^d!v?w%g!u*4%q!q?e%y!i?e^o!e*0%a!h~y&g#d~d^j#q~h&i#4~q&q#a~a^a#a~c&e$y~/&6#p~j^r#a~a&w#a~8^a#a
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+j&a%h?p^l!y$f*m#2^l!w$i?r!9?m~d&i^r^3^r^m^r^3^l^o^x^t^c^v^k^h^t^h^u^2%a%y%t%i$x$v$p$v#o#1#5#v#d$z$z^3~t!v^t~g%e?e^n~1#u$x$r*h&u{WILDCARD_ANY_STRING(LENGTH>=1&&<=5)}b!f%v^y*d~k*w?h~5~l~u#l~5%e&y&i&n~s$c!v^o^e^j&h&e&c&y*r&v
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+n?n!c!e?p#l#t*o#l%m%l&w~w{WILDCARD_ANY_STRING(LENGTH<=3)}p&l!v^k^5%f%y!0&5&z!b^y~x~g&v?5!w*u#e$q~n!d%t?s!h^g?f!y%c*m?b?o^b#g~y$8&g*e^m?r$q*i~c#0$m&y*l*3!1~u$a&q~n#3*k#o?d?2#r&2&m#v?e%r#4$w*c!+%m*v!o$3&q!c#m?v%j$n&p%x
