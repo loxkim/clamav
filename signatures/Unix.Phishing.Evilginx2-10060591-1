@@ -1,0 +1,13 @@
+VIRUS NAME: Unix.Phishing.Evilginx2-10060591-1
+TDB: Engine:90-255,Target:6
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+H)×I)ÑHRIÿÉI÷ÙHÁâHƒÂ0IÁù?L!ÊLÂHwÿL‹„$
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+evilginx2/core.(*HttpServer).handleACMEChallenge

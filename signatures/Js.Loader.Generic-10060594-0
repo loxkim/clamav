@@ -1,0 +1,18 @@
+VIRUS NAME: Js.Loader.Generic-10060594-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"yrk2_\\{d)'`3rl't77!f\\^ah";
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"yrk2_\\{d)'`3rl't77!f\\^ah";{WILDCARD_ANY_STRING(LENGTH<=3)}function
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+boolean(rs8608e3s0.length);
