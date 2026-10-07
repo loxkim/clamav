@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Backdoor.Chvost-10060603-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\chvost\Release\Netdrv.pdb
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+Netdrv.pdb
