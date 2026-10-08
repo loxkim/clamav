@@ -1,0 +1,53 @@
+VIRUS NAME: Html.Phishing.UAT11985-10060614-0
+TDB: Engine:90-255,Target:3
+LOGICAL EXPRESSION: (0|1|2)&(3|4|5)&(6|7|8|9)
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+google-identifier-helper-link
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+google-show-password-label
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+google-challenge-media__badge--neutral
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+google-success-meta
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+google-success-badge
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+google-blocked-primary
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+challenge_option_lookup_key
+ * SUBSIG ID 7
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\x63\x68\x61\x6c\x6c\x65\x6e\x67\x65\x5f\x6f\x70\x74\x69\x6f\x6e\x5f\x6c\x6f\x6f\x6b\x75\x70\x5f\x6b\x65\x79
+ * SUBSIG ID 8
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+offline_security_code
+ * SUBSIG ID 9
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+\x6f\x66\x66\x6c\x69\x6e\x65\x5f\x73\x65\x63\x75\x72\x69\x74\x79\x5f\x63\x6f\x64\x65
