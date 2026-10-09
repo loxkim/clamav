@@ -1,0 +1,38 @@
+VIRUS NAME: Win.Trojan.OverlordRAT-10060615-0
+TDB: Engine:81-255,Target:1
+LOGICAL EXPRESSION: 0&(1|2|3|4|5|6)>0,3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+overlord-client/cmd/agent/
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+overlord-client/cmd/agent/criticalproc
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+overlord-client/cmd/agent/config.getMemoFromTransaction
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+overlord-client/cmd/agent/plugins.LoadMemoryModule
+ * SUBSIG ID 4
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+overlord-client/cmd/agent/persistence
+ * SUBSIG ID 5
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+overlord-client/cmd/agent/keylogger
+ * SUBSIG ID 6
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+overlord-client/cmd/agent/handlers.resetConfig
