@@ -1,0 +1,18 @@
+VIRUS NAME: Unix.Loader.Generic-10060635-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fifo_name="/tmp/.ironport-update"{WILDCARD_ANY_STRING(LENGTH<=3)}self_path=$(readlink
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+path=$path:/usr/bin:/bin:/usr/sbin:/usr/local/bin:/sbin:/data/home/admin/bin
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+fifo_name="/tmp/.ironport-update"
