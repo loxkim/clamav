@@ -1,0 +1,13 @@
+VIRUS NAME: Py.Trojan.Generic-10060679-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII
+ +-> DECODED SUBSIGNATURE:
+(s"__import__('__builtin__').eval(__import__('__builtin__').compile(__import__('base64').b64decode('aw1wb3j0ig9zlcbzexmsignqawnrbgusigjhc2u2ncwgemxpyiwgcmusihn0cnvj
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII
+ +-> DECODED SUBSIGNATURE:
+'),'<string>','exec'),{'__builtins__':__import__('__builtin__')}) or 0

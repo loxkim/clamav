@@ -1,0 +1,13 @@
+VIRUS NAME: Py.Trojan.Generic-10060715-0
+TDB: Engine:90-255,FileSize:1000-50000,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII FULLWORD
+ +-> DECODED SUBSIGNATURE:
+buf += "\n!be0fbf0ebb0ed\n"+data
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII FULLWORD
+ +-> DECODED SUBSIGNATURE:
+os.system('rm -rf user.log /tmp/qlogd_fastrpc.bd')

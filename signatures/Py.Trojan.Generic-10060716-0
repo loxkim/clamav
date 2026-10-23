@@ -1,0 +1,18 @@
+VIRUS NAME: Py.Trojan.Generic-10060716-0
+TDB: Engine:90-255,FileSize:1000-50000,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII FULLWORD
+ +-> DECODED SUBSIGNATURE:
+command = "echo
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII FULLWORD
+ +-> DECODED SUBSIGNATURE:
+| openssl enc -base64 -d -a | /usr/local/bin/python -"
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII FULLWORD
+ +-> DECODED SUBSIGNATURE:
+s.connect('/tmp/commandd.mainsock')

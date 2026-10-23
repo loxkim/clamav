@@ -1,0 +1,23 @@
+VIRUS NAME: Py.Trojan.Generic-10060677-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2&3
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII
+ +-> DECODED SUBSIGNATURE:
+expr = r'''__import__('__builtin__').eval(__import__('__builtin__').compile(__import__('base64').b64decode('
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII
+ +-> DECODED SUBSIGNATURE:
+,'exec'),{'__builtins__':__import__('__builtin__')}) or 0''' % buff
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII
+ +-> DECODED SUBSIGNATURE:
+if gcq.the_heap.gens[int(next_gen)].has_room(
+ * SUBSIG ID 3
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII
+ +-> DECODED SUBSIGNATURE:
+gcq.the_heap.set_crc32(_gcq.write_prep(data, 'done', len(poc), gcq.the_heap.running_crc32))",

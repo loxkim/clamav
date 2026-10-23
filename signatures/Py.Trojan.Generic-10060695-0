@@ -1,0 +1,13 @@
+VIRUS NAME: Py.Trojan.Generic-10060695-0
+TDB: Engine:90-255,FileSize:50000-1000000,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII FULLWORD
+ +-> DECODED SUBSIGNATURE:
+new_payload = sophos_sweep(savi, cb, filename, payload, do_repair, mid, logger, magic_result)
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: ASCII FULLWORD
+ +-> DECODED SUBSIGNATURE:
+with open("/data/sophos/sophos.ini",
