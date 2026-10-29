@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Matchboil-10060675-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+&RegexFinder.MainWorkClass+<MurMur>d__5
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE
+ +-> DECODED SUBSIGNATURE:
+virtualdailyplanner

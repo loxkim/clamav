@@ -1,0 +1,22 @@
+VIRUS NAME: Ole2.Macro.Generic-10060702-0
+TDB: Engine:90-255,Target:0
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+nomegr(zokhiq)
+
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+rluaf(ljmobm)
+
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+sub
+sub{WILDCARD_ANY_STRING(LENGTH<=3)}autoopen()
+on

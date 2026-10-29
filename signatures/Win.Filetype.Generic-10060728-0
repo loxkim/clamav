@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Filetype.Generic-10060728-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<Dependency Tag="IXNETWORK10.20" Detect="u{BD6B1CC8-F62B-4885-A9C4-6101F61FC050}" VersionList="10.20.2403.2" VersionText="" 
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+HotfixInfo::AddHotfix() Maximum number of hotfixes %d was reached! Increase it and recompile.
