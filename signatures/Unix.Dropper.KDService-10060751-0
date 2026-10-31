@@ -1,0 +1,13 @@
+VIRUS NAME: Unix.Dropper.KDService-10060751-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+/rootfs.rw/etc/sv/sshd/conf_sshd
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NOCASE
+ +-> DECODED SUBSIGNATURE:
+-p 22 -p 830 -o PidFile=
