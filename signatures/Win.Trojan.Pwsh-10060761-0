@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Pwsh-10060761-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+"[io.file]::writealltext('%temp_dir%\script.ps1',
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+-executionpolicy{WILDCARD_ANY_STRING(LENGTH>=11&&<=17)}"%temp_dir%\script.ps1"

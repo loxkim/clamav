@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Xworm-10060758-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+%s active IOCTL targets=%zu (lifetime watches ONLY these):
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+graphicsexplore.exe

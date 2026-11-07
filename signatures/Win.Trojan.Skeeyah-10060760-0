@@ -1,0 +1,13 @@
+VIRUS NAME: Win.Trojan.Skeeyah-10060760-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&1
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+C:\btvsts\3481\private\softgrid\shared\include\shared\file_utils.hpp
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+..\isv_appvlp_process_notifier.cpp
