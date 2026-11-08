@@ -1,0 +1,18 @@
+VIRUS NAME: Xml.Dropper.BlinderTunnel-10060769-0
+TDB: Engine:90-255,Target:7
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<makedir directories="$(localappdata)\microsoft\runtimebrokers"
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<copy sourcefiles="@(resourcefiles)" destinationfolder="$(localappdata)\microsoft\runtimebrokers\%(recursivedir)" skipunchangedfiles="true
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+<exec command='start "" "$(localappdata)\microsoft\runtimebrokers\runtimebroker.exe"
