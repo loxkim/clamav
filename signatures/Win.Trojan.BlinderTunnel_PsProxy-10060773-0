@@ -1,0 +1,18 @@
+VIRUS NAME: Win.Trojan.BlinderTunnel_PsProxy-10060773-0
+TDB: Engine:90-255,Target:1
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: WIDE NOCASE
+ +-> DECODED SUBSIGNATURE:
+PsProxy.dll
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+System.Management.Automation
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+εήά„ύΫήΔΜΔεστθφώΰϊϋοθτύύ‘™φεζεθΰλ¶­‰‹
