@@ -1,0 +1,18 @@
+VIRUS NAME: Ole2.Macro.Generic-10060797-0
+TDB: Engine:90-255,Target:0
+LOGICAL EXPRESSION: 0&1&2
+ * SUBSIG ID 0
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+UploadFiles = WinHttpReq.GetAllResponseHeaders & "  " & WinHttpReq.ResponseText
+ * SUBSIG ID 1
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+http://localhost:8080/ganhar/fileUploadServlet?fileName=teste.doc
+ * SUBSIG ID 2
+ +-> OFFSET: ANY
+ +-> SIGMOD: NONE
+ +-> DECODED SUBSIGNATURE:
+MsgBox url + "?semWebDav=true"
